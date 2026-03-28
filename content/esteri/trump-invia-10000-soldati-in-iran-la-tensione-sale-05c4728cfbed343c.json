@@ -1,0 +1,51 @@
+{
+  "id": "05c4728cfbed343c",
+  "slug": "trump-invia-10000-soldati-in-iran-la-tensione-sale-05c4728cfbed343c",
+  "title": "Trump invia 10.000 soldati in Iran, la tensione sale",
+  "titles": [
+    "Trump invia 10.000 soldati in Iran, la tensione sale",
+    "Gli Stati Uniti accelerano in Medio Oriente, 17.000 militari in zona",
+    "L'escalation di Trump: 10.000 soldati pronti a contrastare l'Iran"
+  ],
+  "title_winner": null,
+  "section": "esteri",
+  "occhiello": "Altri 10.000 soldati Usa verso l'Iran: la mossa di Trump",
+  "lead": "La decisione di Donald Trump di inviare altri 10.000 soldati americani verso l'Iran è stata confermata dal Wall Street Journal e dall'Axios, due fonti solitamente molto informati sugli scenari di crisi in Medio Oriente. Questo rafforzamento porterà il numero dei militari americani a 17.000, compresi i 5.000 marines. La decisione di Trump è stata descritta come una mossa per alzare il \"potere contrattuale\" con gli ayatollah.",
+  "corpo1": "La decisione di Trump è stata presa nel contesto della tensione crescente fra gli Stati Uniti e l'Iran, che ha portato a una serie di scontri aerei e di minacce reciproche. Secondo il Wall Street Journal, la United States Central Command (CENTCOM) ha iniziato a coordinare la mobilitazione dei soldati americani per la regione. L'Axios ha riferito che la decisione di Trump è stata presa per \"alzare il potere contrattuale\" con gli ayatollah, ma non è chiaro cosa significhi esattamente questa frase. Il Pentagono ha rilasciato una dichiarazione secondo cui la mobilitazione dei soldati americani è \"una misura precauzionale per proteggere la sicurezza della regione\". L'invio di altri 10.000 soldati americani nell'area aumenterà il numero di militari americani presenti in Iraq e in Kuwait. Secondo un rapporto del Defense Intelligence Agency (DIA), il numero di militari americani in Iraq è aumentato del 50% negli ultimi sei mesi. La decisione di Trump è stata criticata da alcuni esponenti del Congresso, che hanno espresso preoccupazione per la potenziale escalation del conflitto. \"Siamo in una situazione molto pericolosa e non è chiaro cosa stiamo facendo lì\", ha detto il senatore democratico Chris Murphy. La decisione di Trump è stata anche vista come una mossa per influenzare le elezioni presidenziali in Iran, che saranno tenute nel 2025. Secondo un rapporto del Council on Foreign Relations, l'Iran potrebbe utilizzare la mobilitazione dei soldati americani come un'occasione per consolidare la propria posizione politica.",
+  "corpo2": "",
+  "journalist": {
+    "id": "anna_colombo_01",
+    "firma": "Anna Colombo",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-03-28T11:42:49.864401+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/5854416/pexels-photo-5854416.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Allen Beilschmidt sr.",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Trump invia 10.000 soldati in Iran, la tensione sale\",\n  \"description\": \"La decisione di Donald Trump di inviare altri 10.000 soldati americani verso l'Iran è stata confermata dal Wall Street Journal e dall'Axios, due fonti solitamente molto informati sugli scenari di crisi in Medio Oriente. Questo rafforzamento porterà il numero dei militari americani a 17.000, compresi\",\n  \"articleBody\": \"La decisione di Donald Trump di inviare altri 10.000 soldati americani verso l'Iran è stata confermata dal Wall Street Journal e dall'Axios, due fonti solitamente molto informati sugli scenari di crisi in Medio Oriente. Questo rafforzamento porterà il numero dei militari americani a 17.000, compresi i 5.000 marines. La decisione di Trump è stata descritta come una mossa per alzare il \\\"potere contrattuale\\\" con gli ayatollah. La decisione di Trump è stata presa nel contesto della tensione crescente fra gli Stati Uniti e l'Iran, che ha portato a una serie di scontri aerei e di minacce reciproche. Secondo il Wall Street Journal, la United States Central Command (CENTCOM) ha iniziato a coordinare la mobilitazione dei soldati americani per la regione. L'Axios ha riferito che la decisione di Trump è stata presa per \\\"alzare il potere contrattuale\\\" con gli ayatollah, ma non è chiaro cosa significhi esattamente questa frase. Il Pentagono ha rilasciato una dichiarazione secondo cui la mobilitazione dei soldati americani è \\\"una misura precauzionale per proteggere la sicurezza della regione\\\". L'invio di altri 10.000 soldati americani nell'area aumenterà il numero di militari americani presenti in Iraq e in Kuwait. Secondo un rapporto del Defense Intelligence Agency (DIA), il numero di militari americani in Iraq è aumentato del 50% negli ultimi sei mesi. La decisione di Trump è stata criticata da alcuni esponenti del Congresso, che hanno espresso preoccupazione per la potenziale escalation del conflitto. \\\"Siamo in una situazione molto pericolosa e non è chiaro cosa stiamo facendo lì\\\", ha detto il senatore democratico Chris Murphy. La decisione di Trump è stata anche vista come una mossa per influenzare le elezioni presidenziali in Iran, che saranno tenute nel 2025. Secondo un rapporto del Council on Foreign Relations, l'Iran potrebbe utilizzare la mobilitazione dei soldati americani come un'occasione per consolidare la propria posizione politica.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T11:42:49.864401+00:00\",\n  \"dateModified\": \"2026-03-28T11:42:49.864401+00:00\",\n  \"url\": \"https://gazzettanazionale.it/esteri/05c4728cfbed343c\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/esteri/05c4728cfbed343c\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/5854416/pexels-photo-5854416.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Allen Beilschmidt sr.\"\n  }\n}",
+  "priority": 6,
+  "source": "Il Fatto Quotidiano",
+  "source_type": "competitor",
+  "original_url": "https://www.ilfattoquotidiano.it/2026/03/28/soldati-usa-iran-mossa-trump-invasione-potere-contrattuale/8338292/",
+  "related": [
+    {
+      "title": "Houthi unite a Iran e Hezbollah: minacciano lo stretto di Bab el Mandeb",
+      "url": "/esteri/houthi-unite-a-iran-e-hezbollah-minacciano-lo-stre-c55ef1131c9677ff",
+      "id": "c55ef1131c9677ff"
+    },
+    {
+      "title": "Raid militare a Teheran: soldati iraniani perquisiscono un'aula dell'università ",
+      "url": "/esteri/raid-militare-a-teheran-soldati-iraniani-perquisis-345b598e19a55b93",
+      "id": "345b598e19a55b93"
+    },
+    {
+      "title": "175 bambine uccise in Iran: la Nazionale si fa sentire",
+      "url": "/esteri/175-bambine-uccise-in-iran-la-nazionale-si-fa-sent-2d88d9282307c950",
+      "id": "2d88d9282307c950"
+    }
+  ]
+}
