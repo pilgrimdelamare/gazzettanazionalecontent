@@ -1,5 +1,22 @@
 [
   {
+    "id": "8c2c9403e21dcd9a",
+    "slug": "gip-respinge-convalida-per-dama-paulshark-e-aspesi-8c2c9403e21dcd9a",
+    "title": "Dama-Paul&Shark e Aspesi salvi: gip rigetta convalida",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Chiara Esposito",
+    "published_at": "2026-03-28T07:57:40.969524+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/34571919/pexels-photo-34571919.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "GIP RIGETTA CONVALIDA PER DAMA-PAUL&SHARK E ASPESI",
+    "lead_preview": "Gip respinge convalida per Dama-Paul&Shark e Aspesi. La richiesta è stata presentata il 25 marzo 2026.",
+    "tags": [
+      "processo aspesi",
+      "dama paul&shark"
+    ]
+  },
+  {
     "id": "b11e9b3f1dcebe64",
     "slug": "houthi-lanciano-missile-su-tel-aviv-b11e9b3f1dcebe64",
     "title": "Houthi lanciano missile su Tel Aviv",
@@ -872,23 +889,6 @@
       "incidente bus turisti israeliani",
       "savoia",
       "francia"
-    ]
-  },
-  {
-    "id": "8c2c9403e21dcd9a",
-    "slug": "gip-respinge-convalida-per-dama-paulshark-e-aspesi-8c2c9403e21dcd9a",
-    "title": "Gip respinge convalida per Dama-Paul&Shark e Aspesi",
-    "section": "cronaca",
-    "priority": 6,
-    "journalist_firma": "Chiara Esposito",
-    "published_at": "2026-03-28T07:57:40.969524+00:00",
-    "image_type": "ddg_image",
-    "image_url": "https://www.paul-friends.com/wp-content/uploads/2025/09/60591100-85393_a.jpg",
-    "occhiello": "CONTROLLO GIUDIZIARIO NEGATO PER DAMA-PAUL&SHARK E ASPESI",
-    "lead_preview": "Il gip ha rigettato la richiesta di convalida della misura di controllo giudiziario per Dama-Paul&Shark e Aspesi, second",
-    "tags": [
-      "caso dama",
-      "controllo giudiziario"
     ]
   },
   {
