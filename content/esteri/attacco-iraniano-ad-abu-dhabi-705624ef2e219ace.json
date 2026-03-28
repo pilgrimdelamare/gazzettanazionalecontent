@@ -1,0 +1,51 @@
+{
+  "id": "705624ef2e219ace",
+  "slug": "attacco-iraniano-ad-abu-dhabi-705624ef2e219ace",
+  "title": "ATTACCO IRANIANO AD ABU DHABI",
+  "titles": [
+    "ATTACCO IRANIANO AD ABU DHABI",
+    "ATTACCO IRANIANO AD ABU DHABI",
+    "ATTACCO IRANIANO AD ABU DHABI"
+  ],
+  "title_winner": null,
+  "section": "esteri",
+  "occhiello": "ATTACCO IRANIANO AD ABU DHABI",
+  "lead": "Emirates Global Aluminium, il premier produttore del Medio Oriente, ha dichiarato sabato che il suo sito di Al Taweelah, situato nell'emirato di Abu Dhabi, ha subito gravi danni a causa di attacchi di missili e droni iraniani.",
+  "corpo1": " l'attacco ha colpito la più grande fonderia di alluminio del gruppo, situata ad Al Taweelah. La notizia è stata resa pubblica .    ",
+  "corpo2": "L'attacco alla fonderia di Al Taweelah non è un evento isolato, ma fa parte di un più ampio scenario di tensioni e conflitti nella regione. La Emirates Global Aluminium è un attore chiave nella produzione di alluminio nel Medio Oriente, e l'attacco al suo sito potrebbe avere ripercussioni significative sulla produzione e sulla economia della regione. Il meccanismo strutturale che spiega questo attacco è legato alle tensioni geopolitiche nella regione, con l'Iran e Israele coinvolti in un conflitto di lunga data. ",
+  "journalist": {
+    "id": "fabrizio_mei_01",
+    "firma": "Fabrizio Mei",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-03-28T17:53:26.499525+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/36478644/pexels-photo-36478644.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Antonino Giangrasso",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"ATTACCO IRANIANO AD ABU DHABI\",\n  \"description\": \"Emirates Global Aluminium, il premier produttore del Medio Oriente, ha dichiarato sabato che il suo sito di Al Taweelah, situato nell'emirato di Abu Dhabi, ha subito gravi danni a causa di attacchi di missili e droni iraniani.\",\n  \"articleBody\": \"Emirates Global Aluminium, il premier produttore del Medio Oriente, ha dichiarato sabato che il suo sito di Al Taweelah, situato nell'emirato di Abu Dhabi, ha subito gravi danni a causa di attacchi di missili e droni iraniani.  l'attacco ha colpito la più grande fonderia di alluminio del gruppo, situata ad Al Taweelah. La notizia è stata resa pubblica .     L'attacco alla fonderia di Al Taweelah non è un evento isolato, ma fa parte di un più ampio scenario di tensioni e conflitti nella regione. La Emirates Global Aluminium è un attore chiave nella produzione di alluminio nel Medio Oriente, e l'attacco al suo sito potrebbe avere ripercussioni significative sulla produzione e sulla economia della regione. Il meccanismo strutturale che spiega questo attacco è legato alle tensioni geopolitiche nella regione, con l'Iran e Israele coinvolti in un conflitto di lunga data.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Fabrizio Mei\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T17:53:26.499525+00:00\",\n  \"dateModified\": \"2026-03-28T17:53:26.499525+00:00\",\n  \"url\": \"https://gazzettanazionale.it/esteri/705624ef2e219ace\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/esteri/705624ef2e219ace\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/36478644/pexels-photo-36478644.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Antonino Giangrasso\"\n  }\n}",
+  "priority": 6,
+  "source": "Le Monde",
+  "source_type": "esteri",
+  "original_url": "https://www.lemonde.fr/international/live/2026/03/28/en-direct-guerre-au-moyen-orient-l-entreprise-emirates-global-aluminium-a-ete-visee-par-des-drones-iraniens_6674837_3210.html",
+  "related": [
+    {
+      "title": "Iran: attacco di guerriglieri contro depositi britannici a Dubai e Abu Dhabi",
+      "url": "/esteri/houthi-attaccano-depositi-antidrone-uk-a-dubai-e-a-c0c30d00be6ce967",
+      "id": "c0c30d00be6ce967"
+    },
+    {
+      "title": "Tre giornalisti uccisi in attacco israeliano a sud del Libano",
+      "url": "/esteri/tre-giornalisti-uccisi-in-attacco-israeliano-a-sud-f71822ae7b16a5b6",
+      "id": "f71822ae7b16a5b6"
+    },
+    {
+      "title": "Houthi rivendicano attacco missilistico contro Israele in Arabia Saudita",
+      "url": "/esteri/houthi-rivendicano-attacco-missilistico-contro-isr-d30753df03996bf6",
+      "id": "d30753df03996bf6"
+    }
+  ]
+}
