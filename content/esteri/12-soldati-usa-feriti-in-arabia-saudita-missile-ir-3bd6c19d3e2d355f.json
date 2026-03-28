@@ -1,0 +1,51 @@
+{
+  "id": "3bd6c19d3e2d355f",
+  "slug": "12-soldati-usa-feriti-in-arabia-saudita-missile-ir-3bd6c19d3e2d355f",
+  "title": "12 soldati Usa feriti in Arabia Saudita, missile iraniano nella base aerea",
+  "titles": [
+    "12 soldati Usa feriti in Arabia Saudita, missile iraniano nella base aerea",
+    "L'Iran colpisce ancora: attacco a base aerea saudita con soldati americani",
+    "Tensione Iran-Usa: attacco a base aerea saudita, l'Italia nella coalizione a ris"
+  ],
+  "title_winner": null,
+  "section": "esteri",
+  "occhiello": "12 SOLDATI USA FERITI IN ATTACCO IRANIANO",
+  "lead": "Un missile iraniano ha colpito una base aerea saudita, ferendo 12 soldati americani, due dei quali in modo grave, venerdì 28 marzo 2026. L'attacco ha anche danneggiato diversi aerei da rifornimento statunitensi.",
+  "corpo1": "Secondo quanto riportato dal New York Times e dal Wall Street Journal, un missile iraniano ha colpito una base aerea in Arabia Saudita, ferendo 12 soldati americani. Due dei soldati sono stati feriti gravemente. L'attacco, avvenuto venerdì 28 marzo 2026, ha anche danneggiato diversi aerei da rifornimento statunitensi. La base aerea è stata utilizzata dalle forze statunitensi come punto di appoggio per le operazioni nella regione.\n\nL'attacco è avvenuto in un momento di crescente tensione tra l'Iran e gli Stati Uniti, con l'Iran che ha aumentato la sua presenza militare nella regione. Gli Stati Uniti hanno aumentato la loro presenza militare nella regione in risposta alle mosse iraniane.\n\nLa notizia dell'attacco è stata confermata dalle fonti statunitensi, che hanno anche precisato che l'attacco è stato condotto con un missile iraniano. Le autorità saudite non hanno rilasciato dichiarazioni ufficiali sull'attacco.\n\nL'Italia, come membro della coalizione internazionale che opera nella regione, potrebbe essere interessata dalle conseguenze di questo attacco. La presenza militare italiana nella regione è limitata, ma l'Italia ha espresso preoccupazioni per la crescente tensione tra l'Iran e gli Stati Uniti.",
+  "corpo2": "L'attacco iraniano alla base aerea saudita è solo l'ultimo di una serie di azioni aggressive condotte dall'Iran nella regione. L'Iran ha aumentato la sua presenza militare nella regione, con particolare attenzione al Golfo Persico e al Mar Rosso.\n\nLa reazione degli Stati Uniti e dei loro alleati sarà cruciale per determinare l'esito della crisi. L'Italia, come membro dell'Unione Europea e della NATO, potrebbe essere chiamata a giocare un ruolo importante nella gestione della crisi.\n\nLa domanda è: come risponderanno gli Stati Uniti e i loro alleati alle azioni aggressive dell'Iran? E quale sarà il ruolo dell'Italia in questa crisi?",
+  "journalist": {
+    "id": "fabrizio_mei_01",
+    "firma": "Fabrizio Mei",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-03-28T06:24:53.363049+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/13457589/pexels-photo-13457589.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Mick Latter",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"12 soldati Usa feriti in Arabia Saudita, missile iraniano nella base aerea\",\n  \"description\": \"Un missile iraniano ha colpito una base aerea saudita, ferendo 12 soldati americani, due dei quali in modo grave, venerdì 28 marzo 2026. L'attacco ha anche danneggiato diversi aerei da rifornimento statunitensi.\",\n  \"articleBody\": \"Un missile iraniano ha colpito una base aerea saudita, ferendo 12 soldati americani, due dei quali in modo grave, venerdì 28 marzo 2026. L'attacco ha anche danneggiato diversi aerei da rifornimento statunitensi. Secondo quanto riportato dal New York Times e dal Wall Street Journal, un missile iraniano ha colpito una base aerea in Arabia Saudita, ferendo 12 soldati americani. Due dei soldati sono stati feriti gravemente. L'attacco, avvenuto venerdì 28 marzo 2026, ha anche danneggiato diversi aerei da rifornimento statunitensi. La base aerea è stata utilizzata dalle forze statunitensi come punto di appoggio per le operazioni nella regione.\\n\\nL'attacco è avvenuto in un momento di crescente tensione tra l'Iran e gli Stati Uniti, con l'Iran che ha aumentato la sua presenza militare nella regione. Gli Stati Uniti hanno aumentato la loro presenza militare nella regione in risposta alle mosse iraniane.\\n\\nLa notizia dell'attacco è stata confermata dalle fonti statunitensi, che hanno anche precisato che l'attacco è stato condotto con un missile iraniano. Le autorità saudite non hanno rilasciato dichiarazioni ufficiali sull'attacco.\\n\\nL'Italia, come membro della coalizione internazionale che opera nella regione, potrebbe essere interessata dalle conseguenze di questo attacco. La presenza militare italiana nella regione è limitata, ma l'Italia ha espresso preoccupazioni per la crescente tensione tra l'Iran e gli Stati Uniti. L'attacco iraniano alla base aerea saudita è solo l'ultimo di una serie di azioni aggressive condotte dall'Iran nella regione. L'Iran ha aumentato la sua presenza militare nella regione, con particolare attenzione al Golfo Persico e al Mar Rosso.\\n\\nLa reazione degli Stati Uniti e dei loro alleati sarà cruciale per determinare l'esito della crisi. L'Italia, come membro dell'Unione Europea e della NATO, potrebbe essere chiamata a giocare un ruolo importante nella gestione della crisi.\\n\\nLa domanda è: come risponderanno gli Stati Uniti e i loro alleati alle azioni aggressive dell'Iran? E quale sarà il ruolo dell'Italia in questa crisi?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Fabrizio Mei\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T06:24:53.363049+00:00\",\n  \"dateModified\": \"2026-03-28T06:24:53.363049+00:00\",\n  \"url\": \"https://gazzettanazionale.it/esteri/3bd6c19d3e2d355f\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/esteri/3bd6c19d3e2d355f\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/13457589/pexels-photo-13457589.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Mick Latter\"\n  }\n}",
+  "priority": 4,
+  "source": "Le Monde",
+  "source_type": "esteri",
+  "original_url": "https://www.lemonde.fr/international/live/2026/03/28/en-direct-guerre-en-iran-israel-dit-avoir-detecte-un-tir-de-missile-depuis-le-yemen-vers-son-territoire-une-premiere-en-un-mois-de-guerre_6674837_3210.html",
+  "related": [
+    {
+      "title": "Missile iraniano colpisce base aerea Riyadh: 12 soldati Usa feriti",
+      "url": "/esteri/missile-iraniano-colpisce-base-aerea-riyadh-12-sol-49cf4a757e42b6c7",
+      "id": "49cf4a757e42b6c7"
+    },
+    {
+      "title": "Iran colpisce base USA in Arabia Saudita",
+      "url": "/esteri/iran-colpisce-base-usa-in-arabia-saudita-437b3c1d19f57460",
+      "id": "437b3c1d19f57460"
+    },
+    {
+      "title": "Rubio: garanzie sicurezza Ucraina non vincolate al ritiro russo",
+      "url": "/esteri/rubio-attacca-zelensky-840775e6ea09964b",
+      "id": "840775e6ea09964b"
+    }
+  ]
+}
