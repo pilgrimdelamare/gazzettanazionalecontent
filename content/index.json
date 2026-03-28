@@ -1,5 +1,22 @@
 [
   {
+    "id": "8a919a5d0d32a5e8",
+    "slug": "russia-uccide-due-e-ferisce-dodici-a-odessa-8a919a5d0d32a5e8",
+    "title": "Odessa colpita: 2 morti e 12 feriti in un attacco aereo russo alle 12.05.33",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-03-28T11:43:31.446047+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/17142486/pexels-photo-17142486.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "RUSSIA BOMBARDA ODESSA",
+    "lead_preview": "domenica 28 marzo, la Russia ha bombardato la città di Odessa, in Ucraina, causando almeno due morti e 12 feriti.",
+    "tags": [
+      "guerra ucraina",
+      "attacco odessa"
+    ]
+  },
+  {
     "id": "d85e7323b4925f54",
     "slug": "10-milioni-di-turisti-in-italia-le-13-mete-imperdi-d85e7323b4925f54",
     "title": "10 milioni di turisti a Pasqua, l'Italia è pronta",
@@ -2831,23 +2848,6 @@
       "monte dei paschi",
       "guida mps",
       "lovaglio mps"
-    ]
-  },
-  {
-    "id": "8a919a5d0d32a5e8",
-    "slug": "russia-uccide-due-e-ferisce-dodici-a-odessa-8a919a5d0d32a5e8",
-    "title": "Russia uccide due e ferisce dodici a Odessa",
-    "section": "esteri",
-    "priority": 4,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-03-28T11:43:31.446047+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/6732134/pexels-photo-6732134.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "RUSSIA BOMBARDA ODÈSSA: ALMENO DUE MORTE E 12 BLESSI",
-    "lead_preview": "Domenica 28 marzo, 12:05:33. La Russia ha bombardato la città di Odessa, in Ucraina, causando almeno due morti e 12 feri",
-    "tags": [
-      "guerra ucraina",
-      "bombardeamenti odessa"
     ]
   },
   {
