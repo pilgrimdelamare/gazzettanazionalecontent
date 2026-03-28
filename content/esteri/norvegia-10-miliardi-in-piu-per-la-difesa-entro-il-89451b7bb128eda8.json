@@ -1,0 +1,51 @@
+{
+  "id": "89451b7bb128eda8",
+  "slug": "norvegia-10-miliardi-in-piu-per-la-difesa-entro-il-89451b7bb128eda8",
+  "title": "Norvegia, 10 miliardi in più per la difesa entro il 2035",
+  "titles": [
+    "Norvegia, 10 miliardi in più per la difesa entro il 2035",
+    "Jonas Gahr Store: la sicurezza nazionale richiede più spesa",
+    "La Norvegia aumenta la spesa militare per raggiungere l'obiettivo OTAN"
+  ],
+  "title_winner": null,
+  "section": "esteri",
+  "occhiello": "LA NORVÈGE AUGMENTE SES DÉPENSES DE DÉFENSE",
+  "lead": "Jonas Gahr Store, premier ministro norvegese, ha annunciato che la Norvège aumenterà le spese di difesa di 10 miliardi di euro entro il 2035, a causa di una situazione di sicurezza \"più seria e imprevedibile\". La decisione è stata presa il 28 marzo 2026.",
+  "corpo1": "La Norvège aumenterà le spese di difesa di 10 miliardi di euro entro il 2035, come annunciato dal premier ministro Jonas Gahr Store. Questa decisione è stata presa a causa di una situazione di sicurezza \"più seria e imprevedibile\". Secondo il premier, questo aumento permetterà alla Norvège di raggiungere l'obiettivo dell'OTAN di spendere il 3,5% del PIL per la difesa. La Norvège è uno dei paesi membri dell'OTAN che non ha ancora raggiunto questo obiettivo. L'aumento delle spese di difesa sarà effettuato gradualmente fino al 2035. Il premier ministro norvegese ha sottolineato che questa decisione è necessaria per garantire la sicurezza del paese in un contesto di crescente instabilità.",
+  "corpo2": "La decisione della Norvège di aumentare le spese di difesa è significativa, considerando il ruolo del paese nella regione nordica. La Norvège è un importante partner strategico per l'OTAN e ha una lunga storia di cooperazione con l'organizzazione. Il premier ministro Jonas Gahr Store è stato un forte sostenitore dell'alleanza e ha lavorato per rafforzare le relazioni tra la Norvège e l'OTAN. L'aumento delle spese di difesa avrà anche un impatto sull'economia norvegese, che è fortemente dipendente dalle esportazioni di petrolio e gas. La decisione di aumentare le spese di difesa solleva interrogativi sulla capacità della Norvège di bilanciare le sue priorità di sicurezza con le esigenze economiche del paese. Quali saranno le conseguenze di questa decisione per la popolazione norvegese?",
+  "journalist": {
+    "id": "anna_colombo_01",
+    "firma": "Anna Colombo",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-03-28T06:40:33.011118+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/11098577/pexels-photo-11098577.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "CARLOSCRUZ ARTEGRAFIA",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Norvegia, 10 miliardi in più per la difesa entro il 2035\",\n  \"description\": \"Jonas Gahr Store, premier ministro norvegese, ha annunciato che la Norvège aumenterà le spese di difesa di 10 miliardi di euro entro il 2035, a causa di una situazione di sicurezza \\\"più seria e imprevedibile\\\". La decisione è stata presa il 28 marzo 2026.\",\n  \"articleBody\": \"Jonas Gahr Store, premier ministro norvegese, ha annunciato che la Norvège aumenterà le spese di difesa di 10 miliardi di euro entro il 2035, a causa di una situazione di sicurezza \\\"più seria e imprevedibile\\\". La decisione è stata presa il 28 marzo 2026. La Norvège aumenterà le spese di difesa di 10 miliardi di euro entro il 2035, come annunciato dal premier ministro Jonas Gahr Store. Questa decisione è stata presa a causa di una situazione di sicurezza \\\"più seria e imprevedibile\\\". Secondo il premier, questo aumento permetterà alla Norvège di raggiungere l'obiettivo dell'OTAN di spendere il 3,5% del PIL per la difesa. La Norvège è uno dei paesi membri dell'OTAN che non ha ancora raggiunto questo obiettivo. L'aumento delle spese di difesa sarà effettuato gradualmente fino al 2035. Il premier ministro norvegese ha sottolineato che questa decisione è necessaria per garantire la sicurezza del paese in un contesto di crescente instabilità. La decisione della Norvège di aumentare le spese di difesa è significativa, considerando il ruolo del paese nella regione nordica. La Norvège è un importante partner strategico per l'OTAN e ha una lunga storia di cooperazione con l'organizzazione. Il premier ministro Jonas Gahr Store è stato un forte sostenitore dell'alleanza e ha lavorato per rafforzare le relazioni tra la Norvège e l'OTAN. L'aumento delle spese di difesa avrà anche un impatto sull'economia norvegese, che è fortemente dipendente dalle esportazioni di petrolio e gas. La decisione di aumentare le spese di difesa solleva interrogativi sulla capacità della Norvège di bilanciare le sue priorità di sicurezza con le esigenze economiche del paese. Quali saranno le conseguenze di questa decisione per la popolazione norvegese?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T06:40:33.011118+00:00\",\n  \"dateModified\": \"2026-03-28T06:40:33.011118+00:00\",\n  \"url\": \"https://gazzettanazionale.it/esteri/89451b7bb128eda8\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/esteri/89451b7bb128eda8\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/11098577/pexels-photo-11098577.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"CARLOSCRUZ ARTEGRAFIA\"\n  }\n}",
+  "priority": 4,
+  "source": "Le Monde",
+  "source_type": "esteri",
+  "original_url": "https://www.lemonde.fr/international/article/2026/03/28/la-norvege-va-augmenter-ses-depenses-de-defense-de-10-milliards-d-euros-d-ici-2035-face-a-une-situation-securitaire-plus-serieuse-et-imprevisible_6674885_3210.html",
+  "related": [
+    {
+      "title": "Indonesia, 70 milioni di minori senza social: stop a YouTube, TikTok e Facebook",
+      "url": "/esteri/indonesia-70-milioni-di-minori-senza-social-stop-a-3389f3e819cbeef1",
+      "id": "3389f3e819cbeef1"
+    },
+    {
+      "title": "Blitz a Gioia Tauro: 3 arresti",
+      "url": "/esteri/blitz-a-gioia-tauro-3-arresti-385ce24a09e5c273",
+      "id": "385ce24a09e5c273"
+    },
+    {
+      "title": "12 soldati Usa feriti in Arabia Saudita, missile iraniano nella base aerea",
+      "url": "/esteri/12-soldati-usa-feriti-in-arabia-saudita-missile-ir-3bd6c19d3e2d355f",
+      "id": "3bd6c19d3e2d355f"
+    }
+  ]
+}
