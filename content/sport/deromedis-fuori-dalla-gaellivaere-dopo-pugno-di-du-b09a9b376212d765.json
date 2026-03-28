@@ -1,0 +1,51 @@
+{
+  "id": "b09a9b376212d765",
+  "slug": "deromedis-fuori-dalla-gaellivaere-dopo-pugno-di-du-b09a9b376212d765",
+  "title": "Deromedis fuori dalla Gaellivaere dopo pugno di Duplessis Kergomard",
+  "titles": [
+    "Deromedis fuori dalla Gaellivaere dopo pugno di Duplessis Kergomard",
+    "Il colpo che eliminò Deromedis dal tour",
+    "Deromedis accusa il francese, fuori dalla gara martedì"
+  ],
+  "title_winner": null,
+  "section": "sport",
+  "occhiello": "DEROMEDIS CADUTO IN QUARTI DI SKI CROSS A GAELLIVAERE",
+  "lead": "Deromedis, il campione di ski cross italiano, è stato eliminato nei quarti di finale di Gaellivaere dopo essere stato colpito dal francese Duplessis Kergomard. La scena si è svolta martedì 26 marzo, nella località sciistica francese. Deromedis non ha avuto la possibilità di partecipare al ripescaggio, mentre il suo avversario è stato retrocesso ma tornerà in gara oggi.",
+  "corpo1": "cross italiano, è stato eliminato nei quarti di finale di Gaellivaere dopo essere stato colpito dal francese Duplessis Kergomard. La scena si è svolta martedì 26 marzo, nella località sciistica francese. Secondo la Repubblica, Deromedis non ha avuto la possibilità di partecipare al ripescaggio, mentre il suo avversario è stato retrocesso ma tornerà in gara oggi. L'infortunio di Deromedis è stato causato da un pugno",
+  "corpo2": "in pista, mentre si stava preparando per la sua gara. Il francese Duplessis Kergomard, nonostante la sua vittoria, non è stato squalificato per l'azione. CORPO 2 Deromedis, il campione di ski cross italiano, aveva già vinto una medaglia d'oro ai Giochi Olimpici di Milano-Cortina. La sua eliminazione nei quarti di finale di Gaellivaere potrebbe avere conseguenze sulla sua stagione sciistica. La scelta di non squalificare Duplessis Kergomard potrebbe essere stata influenzata dalle regole della Federazione Internazionale Sci, che non prevedono la squalifica per azioni non intenzionali. La gara di oggi vedrà la partecipazione di molti degli atleti eliminati nei quarti di finale, compreso il francese Duplessis Kergomard. Ma a chi gioverà la sua vittoria? IMAGE_QUERY - Deromedis ski cross Gaellivaere - Duplessis Kergomard ski cross Gaellivaere - Ski cross Gaellivaere quarti di finale",
+  "journalist": {
+    "id": "matteo_galli_01",
+    "firma": "Matteo Galli",
+    "sezione": "sport"
+  },
+  "published_at": "2026-03-28T16:33:27.874735+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/11849230/pexels-photo-11849230.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Cristian Manieri",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Deromedis fuori dalla Gaellivaere dopo pugno di Duplessis Kergomard\",\n  \"description\": \"Deromedis, il campione di ski cross italiano, è stato eliminato nei quarti di finale di Gaellivaere dopo essere stato colpito dal francese Duplessis Kergomard. La scena si è svolta martedì 26 marzo, nella località sciistica francese. Deromedis non ha avuto la possibilità di partecipare al ripescaggi\",\n  \"articleBody\": \"Deromedis, il campione di ski cross italiano, è stato eliminato nei quarti di finale di Gaellivaere dopo essere stato colpito dal francese Duplessis Kergomard. La scena si è svolta martedì 26 marzo, nella località sciistica francese. Deromedis non ha avuto la possibilità di partecipare al ripescaggio, mentre il suo avversario è stato retrocesso ma tornerà in gara oggi. cross italiano, è stato eliminato nei quarti di finale di Gaellivaere dopo essere stato colpito dal francese Duplessis Kergomard. La scena si è svolta martedì 26 marzo, nella località sciistica francese. Secondo la Repubblica, Deromedis non ha avuto la possibilità di partecipare al ripescaggio, mentre il suo avversario è stato retrocesso ma tornerà in gara oggi. L'infortunio di Deromedis è stato causato da un pugno in pista, mentre si stava preparando per la sua gara. Il francese Duplessis Kergomard, nonostante la sua vittoria, non è stato squalificato per l'azione. CORPO 2 Deromedis, il campione di ski cross italiano, aveva già vinto una medaglia d'oro ai Giochi Olimpici di Milano-Cortina. La sua eliminazione nei quarti di finale di Gaellivaere potrebbe avere conseguenze sulla sua stagione sciistica. La scelta di non squalificare Duplessis Kergomard potrebbe essere stata influenzata dalle regole della Federazione Internazionale Sci, che non prevedono la squalifica per azioni non intenzionali. La gara di oggi vedrà la partecipazione di molti degli atleti eliminati nei quarti di finale, compreso il francese Duplessis Kergomard. Ma a chi gioverà la sua vittoria? IMAGE_QUERY - Deromedis ski cross Gaellivaere - Duplessis Kergomard ski cross Gaellivaere - Ski cross Gaellivaere quarti di finale\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Matteo Galli\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T16:33:27.874735+00:00\",\n  \"dateModified\": \"2026-03-28T16:33:27.874735+00:00\",\n  \"url\": \"https://gazzettanazionale.it/sport/b09a9b376212d765\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/sport/b09a9b376212d765\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/11849230/pexels-photo-11849230.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Cristian Manieri\"\n  }\n}",
+  "priority": 4,
+  "source": "Redazione",
+  "source_type": "competitor_gap",
+  "original_url": "https://www.repubblica.it/sport/vari/2026/03/28/news/deromedis_ski_cross_pugno-425250425/",
+  "related": [
+    {
+      "title": "FONDI PUBBLICI PER I VOLEI SOSPESI DALLA FIVB",
+      "url": "/sport/roma-oggi-la-manifestazione-no-kings-15mila-person-8939f5061b2b0495",
+      "id": "8939f5061b2b0495"
+    },
+    {
+      "title": "Donna salvata dai vigili dopo caduta nel pozzo non segnalato di Roma",
+      "url": "/sport/donna-salvata-dai-vigili-dopo-caduta-nel-pozzo-non-f531476a63b94548",
+      "id": "f531476a63b94548"
+    },
+    {
+      "title": "Finto medico rimpatriato dopo abusi su anziani in Rsa di Alessandria",
+      "url": "/sport/finto-medico-rimpatriato-dopo-abusi-su-anziani-in-c8c5feffd268cf84",
+      "id": "c8c5feffd268cf84"
+    }
+  ]
+}
