@@ -1,0 +1,51 @@
+{
+  "id": "d2ce9273808b0f89",
+  "slug": "il-fatto-quotidiano-si-stringe-nellabbraccio-per-l-d2ce9273808b0f89",
+  "title": "Il Fatto Quotidiano si stringe nell'abbraccio per la scomparsa di Paola Padellar",
+  "titles": [
+    "Il Fatto Quotidiano si stringe nell'abbraccio per la scomparsa di Paola Padellar",
+    "Il giornale più prestigioso d'Italia esprime cordoglio per la moglie dell'indime",
+    "Il quotidiano del cuore di Roma si commuove per la perdita della donna che ha af"
+  ],
+  "title_winner": null,
+  "section": "societa",
+  "occhiello": "Lutto per Antonio Padellaro: cordoglio della società Seif e del Fatto Quotidiano",
+  "lead": "Il Fatto Quotidiano ha espresso il suo cordoglio per la scomparsa di Paola Padellaro, moglie di Antonio Padellaro, con un articolo pubblicato ieri sulla sua pagina web.",
+  "corpo1": "",
+  "corpo2": "Ma cosa cambia veramente in questo lutto? Antonio Padellaro è un uomo della società Seif, una delle principali aziende del settore, e la scomparsa della moglie è una perdita personale e professionale. Ma il modo in cui il Fatto Quotidiano ha gestito la notizia suscita alcune domande. Perché non ha pubblicato un articolo di cronaca, ma un articolo di condoléances? E perché ha usato un linguaggio così enfatico e emotivo? La risposta potrebbe risiedere nella volontà di mantenere la relazione con la società Seif e di non mettere in discussione la gestione della notizia.",
+  "journalist": {
+    "id": "marco_sala_01",
+    "firma": "Marco Sala",
+    "sezione": "societa"
+  },
+  "published_at": "2026-03-28T11:41:01.844540+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/17250205/pexels-photo-17250205.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Kinz-studio Photographe",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Il Fatto Quotidiano si stringe nell'abbraccio per la scomparsa di Paola Padellar\",\n  \"description\": \"Il Fatto Quotidiano ha espresso il suo cordoglio per la scomparsa di Paola Padellaro, moglie di Antonio Padellaro, con un articolo pubblicato ieri sulla sua pagina web.\",\n  \"articleBody\": \"Il Fatto Quotidiano ha espresso il suo cordoglio per la scomparsa di Paola Padellaro, moglie di Antonio Padellaro, con un articolo pubblicato ieri sulla sua pagina web. Ma cosa cambia veramente in questo lutto? Antonio Padellaro è un uomo della società Seif, una delle principali aziende del settore, e la scomparsa della moglie è una perdita personale e professionale. Ma il modo in cui il Fatto Quotidiano ha gestito la notizia suscita alcune domande. Perché non ha pubblicato un articolo di cronaca, ma un articolo di condoléances? E perché ha usato un linguaggio così enfatico e emotivo? La risposta potrebbe risiedere nella volontà di mantenere la relazione con la società Seif e di non mettere in discussione la gestione della notizia.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Marco Sala\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T11:41:01.844540+00:00\",\n  \"dateModified\": \"2026-03-28T11:41:01.844540+00:00\",\n  \"url\": \"https://gazzettanazionale.it/societa/d2ce9273808b0f89\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/societa/d2ce9273808b0f89\"\n  },\n  \"articleSection\": \"Societa\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/17250205/pexels-photo-17250205.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Kinz-studio Photographe\"\n  }\n}",
+  "priority": 6,
+  "source": "Il Fatto Quotidiano",
+  "source_type": "competitor",
+  "original_url": "https://www.ilfattoquotidiano.it/2026/03/28/lutto-per-antonio-padellaro-il-cordoglio-della-societa-seif-dei-direttori-e-delle-redazioni-del-fatto/8338340/",
+  "related": [
+    {
+      "title": "Stellato del Menu In denuncia abusi nel settore della ristorazione",
+      "url": "/societa/stellato-del-menu-in-denuncia-abusi-nel-settore-de-c682f3f294e8a8c9",
+      "id": "c682f3f294e8a8c9"
+    },
+    {
+      "title": "Cantelmi madre parla: 'Sofferenza e disperazione'",
+      "url": "/societa/cantelmi-madre-parla-sofferenza-e-disperazione-1b593689b164db41",
+      "id": "1b593689b164db41"
+    },
+    {
+      "title": "Influencer italiana attaccata da hacker",
+      "url": "/societa/influencer-italiana-attaccata-da-hacker-9d97af84150a6567",
+      "id": "9d97af84150a6567"
+    }
+  ]
+}
