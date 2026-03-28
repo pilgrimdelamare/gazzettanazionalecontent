@@ -1,5 +1,23 @@
 [
   {
+    "id": "6c87570f55c7c9f1",
+    "slug": "aggressioni-in-classe-adolescenti-nel-mirino-6c87570f55c7c9f1",
+    "title": "87.000 studenti italiani tra i 15 e i 19 anni hanno usato un coltello a scuola",
+    "section": "societa",
+    "priority": 5,
+    "journalist_firma": "Marco Sala",
+    "published_at": "2026-03-28T05:39:03.774895+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/33090247/pexels-photo-33090247.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "87.000 STUDENTI ITALIANI UTILIZZANO COLTELLI A SCUOLA",
+    "lead_preview": "Secondo una ricerca dell'Istituto di Fisiologia Clinica del CNR del 2025, circa 87.000 studenti italiani tra i 15 e i 19",
+    "tags": [
+      "violenza scolastica",
+      "studenti italiani",
+      "coltelli a scuola"
+    ]
+  },
+  {
     "id": "78db4377c9dc39ec",
     "slug": "arrestato-ex-premier-nepalese-oli-per-repressione-78db4377c9dc39ec",
     "title": "Arrestato KP Sharma Oli, ex premier del Nepal, per repressione proteste",
@@ -642,24 +660,6 @@
     "lead_preview": "Mario Pomini, docente di Economia all'Università di Padova, ha dichiarato che la Costituzione è salva e ora i cittadini ",
     "tags": [
       "referendum costituzionale"
-    ]
-  },
-  {
-    "id": "6c87570f55c7c9f1",
-    "slug": "aggressioni-in-classe-adolescenti-nel-mirino-6c87570f55c7c9f1",
-    "title": "Aggressioni in classe, adolescenti nel mirino",
-    "section": "societa",
-    "priority": 7,
-    "journalist_firma": "Federica Conti",
-    "published_at": "2026-03-28T05:39:03.774895+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/7407382/pexels-photo-7407382.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "ADOLSCENTI, BERSAGLIO SIMBOLICO DELLE PAURE COLLETTIVE",
-    "lead_preview": "Secondo il dibattito pubblico italiano, gli adolescenti stanno diventando un bersaglio simbolico su cui scaricare paure ",
-    "tags": [
-      "aggressioni scolastiche",
-      "violenza giovanile",
-      "bullismo scolastico"
     ]
   }
 ]
