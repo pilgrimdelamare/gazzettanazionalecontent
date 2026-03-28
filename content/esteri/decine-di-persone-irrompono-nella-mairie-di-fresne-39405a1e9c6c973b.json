@@ -1,0 +1,51 @@
+{
+  "id": "39405a1e9c6c973b",
+  "slug": "decine-di-persone-irrompono-nella-mairie-di-fresne-39405a1e9c6c973b",
+  "title": "Decine di persone irrompono nella mairie di Fresnes",
+  "titles": [
+    "Decine di persone irrompono nella mairie di Fresnes",
+    "Laurent Nuñez: 'Tutto fatto' per identificare responsabili",
+    "La mairie di Fresnes sottoposta a controllo di sicurezza: la nuova squadra arriv"
+  ],
+  "title_winner": null,
+  "section": "esteri",
+  "occhiello": "FRESNES, UNA DOZZINA DI PERSONE SOTTOQUA LA MAYERIA E DEGRADA IL MOBILIER",
+  "lead": "Laurent Nuñez, ministro dell'interno francese, ha assicurato che tutto sia stato fatto per identificare e tradurre in giustizia i responsabili dell'intrusione e delle degradazioni nella mairie di Fresnes, avvenute la vigilia dell'installazione della nuova squadra municipale.",
+  "corpo1": "Fresnes, una città situata nella regione dell'Île-de-France, è stata teatro di un episodio di violenza la scorsa notte. Una decina di persone si è introdotta nella mairie e ha degradato parte del mobilier. La polizia ha già iniziato a indagare e a raccogliere testimonianze per identificare i responsabili. Laurent Nuñez, ministro dell'interno francese, ha assicurato che \"tutto sia stato fatto\" per risolvere la situazione. Secondo la fonte, la polizia ha già esaminato le prove raccolte e sta lavorando per identificare i responsabili. La mairie di Fresnes è stata sottoposta a un controllo di sicurezza e le autorità locali hanno assicurato che la situazione sia sotto controllo. La nuova squadra municipale si insedierà ufficialmente nella prossima settimana.",
+  "corpo2": "La storia della mairie di Fresnes è legata a quella della città stessa, che è stata teatro di numerose tensioni sociali negli ultimi anni. La città è stata interessata da proteste e manifestazioni contro la mancanza di risorse e la gestione inefficiente della città. La nuova squadra municipale si è impegnata a risolvere i problemi della città e a migliorare la qualità della vita dei cittadini. La mairie di Fresnes è un simbolo della città e della sua identità. La degradazione del mobilier è un segno di disprezzo per la comunità e per la città stessa. La domanda che si pone è: qual è la reazione della comunità e della città di fronte a questa violenza?",
+  "journalist": {
+    "id": "fabrizio_mei_01",
+    "firma": "Fabrizio Mei",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-03-28T11:43:47.158575+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/12841242/pexels-photo-12841242.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Magda Ehlers",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Decine di persone irrompono nella mairie di Fresnes\",\n  \"description\": \"Laurent Nuñez, ministro dell'interno francese, ha assicurato che tutto sia stato fatto per identificare e tradurre in giustizia i responsabili dell'intrusione e delle degradazioni nella mairie di Fresnes, avvenute la vigilia dell'installazione della nuova squadra municipale.\",\n  \"articleBody\": \"Laurent Nuñez, ministro dell'interno francese, ha assicurato che tutto sia stato fatto per identificare e tradurre in giustizia i responsabili dell'intrusione e delle degradazioni nella mairie di Fresnes, avvenute la vigilia dell'installazione della nuova squadra municipale. Fresnes, una città situata nella regione dell'Île-de-France, è stata teatro di un episodio di violenza la scorsa notte. Una decina di persone si è introdotta nella mairie e ha degradato parte del mobilier. La polizia ha già iniziato a indagare e a raccogliere testimonianze per identificare i responsabili. Laurent Nuñez, ministro dell'interno francese, ha assicurato che \\\"tutto sia stato fatto\\\" per risolvere la situazione. Secondo la fonte, la polizia ha già esaminato le prove raccolte e sta lavorando per identificare i responsabili. La mairie di Fresnes è stata sottoposta a un controllo di sicurezza e le autorità locali hanno assicurato che la situazione sia sotto controllo. La nuova squadra municipale si insedierà ufficialmente nella prossima settimana. La storia della mairie di Fresnes è legata a quella della città stessa, che è stata teatro di numerose tensioni sociali negli ultimi anni. La città è stata interessata da proteste e manifestazioni contro la mancanza di risorse e la gestione inefficiente della città. La nuova squadra municipale si è impegnata a risolvere i problemi della città e a migliorare la qualità della vita dei cittadini. La mairie di Fresnes è un simbolo della città e della sua identità. La degradazione del mobilier è un segno di disprezzo per la comunità e per la città stessa. La domanda che si pone è: qual è la reazione della comunità e della città di fronte a questa violenza?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Fabrizio Mei\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T11:43:47.158575+00:00\",\n  \"dateModified\": \"2026-03-28T11:43:47.158575+00:00\",\n  \"url\": \"https://gazzettanazionale.it/esteri/39405a1e9c6c973b\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/esteri/39405a1e9c6c973b\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/12841242/pexels-photo-12841242.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Magda Ehlers\"\n  }\n}",
+  "priority": 4,
+  "source": "Le Monde",
+  "source_type": "esteri",
+  "original_url": "https://www.lemonde.fr/societe/article/2026/03/28/fresnes-une-douzaine-de-personnes-s-introduisent-dans-la-mairie-et-degradent-du-mobilier-a-la-veille-de-l-installation-de-la-nouvelle-equipe-municipale_6675045_3224.html",
+  "related": [
+    {
+      "title": "Russia uccide due e ferisce dodici a Odessa",
+      "url": "/esteri/russia-uccide-due-e-ferisce-dodici-a-odessa-8a919a5d0d32a5e8",
+      "id": "8a919a5d0d32a5e8"
+    },
+    {
+      "title": "Convoglio internazionale arriva a Cuba con 50 tonnellate di aiuti",
+      "url": "/esteri/convoglio-internazionale-arriva-a-cuba-con-50-tonn-76b4881dc08561e6",
+      "id": "76b4881dc08561e6"
+    },
+    {
+      "title": "Trump invia 10.000 soldati in Iran, la tensione sale",
+      "url": "/esteri/trump-invia-10000-soldati-in-iran-la-tensione-sale-05c4728cfbed343c",
+      "id": "05c4728cfbed343c"
+    }
+  ]
+}
