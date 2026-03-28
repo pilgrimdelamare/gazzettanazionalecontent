@@ -1,0 +1,51 @@
+{
+  "id": "ca5b82d2b934725f",
+  "slug": "banca-progetto-riceve-750-milioni-per-uscire-dalla-ca5b82d2b934725f",
+  "title": "Banca Progetto riceve 750 milioni per uscire dall'amministrazione",
+  "titles": [
+    "Banca Progetto riceve 750 milioni per uscire dall'amministrazione",
+    "Intesa, Unicredit e 4 banche salvano Banca Progetto con 750 milioni",
+    "750 milioni per Banca Progetto: la manovra salva l'istituto di credito"
+  ],
+  "title_winner": null,
+  "section": "economia",
+  "occhiello": "750 MILIONI PER BANCA PROGETTO",
+  "lead": "Banca Progetto, 28 marzo 2026, riceve un aumento di capitale da 750 milioni di euro da parte del Fondo interbancario e di Intesa, Unicredit, Mps, Bper e Banco Bpm per uscire dall'amministrazione straordinaria.",
+  "corpo1": "Banca Progetto, istituto di credito italiano, ha ricevuto un aumento di capitale da 750 milioni di euro da parte del Fondo interbancario e di importanti banche italiane come Intesa, Unicredit, Mps, Bper e Banco Bpm. Questo intervento permetterà a Banca Progetto di uscire dall'amministrazione straordinaria. L'operazione, secondo quanto riportato da La Repubblica, è stata architettata per garantire la stabilità dell'istituto di credito e consentire la ripresa delle attività. Il Fondo interbancario, insieme alle principali banche italiane, ha contribuito a questo aumento di capitale per sostenere Banca Progetto in un momento critico.",
+  "corpo2": "Banca Progetto è stata sottoposta ad amministrazione straordinaria a causa di difficoltà finanziarie che l'avevano portata sull'orlo del default. L'aumento di capitale da 750 milioni di euro rappresenta un significativo intervento di sostegno che dovrebbe consentire all'istituto di credito di riprendersi e tornare a operare in condizioni di stabilità. Questa operazione solleva interrogativi sulla sostenibilità a lungo termine di Banca Progetto e sul ruolo delle banche italiane nel sostegno agli istituti di credito in difficoltà. Quali saranno le condizioni imposte per l'erogazione di questo aumento di capitale e come influenzeranno la gestione futura di Banca Progetto?",
+  "journalist": {
+    "id": "marta_levi_01",
+    "firma": "Marta Levi",
+    "sezione": "economia"
+  },
+  "published_at": "2026-03-28T08:28:25.845297+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/12954088/pexels-photo-12954088.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Mathias Reding",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Banca Progetto riceve 750 milioni per uscire dall'amministrazione\",\n  \"description\": \"Banca Progetto, 28 marzo 2026, riceve un aumento di capitale da 750 milioni di euro da parte del Fondo interbancario e di Intesa, Unicredit, Mps, Bper e Banco Bpm per uscire dall'amministrazione straordinaria.\",\n  \"articleBody\": \"Banca Progetto, 28 marzo 2026, riceve un aumento di capitale da 750 milioni di euro da parte del Fondo interbancario e di Intesa, Unicredit, Mps, Bper e Banco Bpm per uscire dall'amministrazione straordinaria. Banca Progetto, istituto di credito italiano, ha ricevuto un aumento di capitale da 750 milioni di euro da parte del Fondo interbancario e di importanti banche italiane come Intesa, Unicredit, Mps, Bper e Banco Bpm. Questo intervento permetterà a Banca Progetto di uscire dall'amministrazione straordinaria. L'operazione, secondo quanto riportato da La Repubblica, è stata architettata per garantire la stabilità dell'istituto di credito e consentire la ripresa delle attività. Il Fondo interbancario, insieme alle principali banche italiane, ha contribuito a questo aumento di capitale per sostenere Banca Progetto in un momento critico. Banca Progetto è stata sottoposta ad amministrazione straordinaria a causa di difficoltà finanziarie che l'avevano portata sull'orlo del default. L'aumento di capitale da 750 milioni di euro rappresenta un significativo intervento di sostegno che dovrebbe consentire all'istituto di credito di riprendersi e tornare a operare in condizioni di stabilità. Questa operazione solleva interrogativi sulla sostenibilità a lungo termine di Banca Progetto e sul ruolo delle banche italiane nel sostegno agli istituti di credito in difficoltà. Quali saranno le condizioni imposte per l'erogazione di questo aumento di capitale e come influenzeranno la gestione futura di Banca Progetto?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Marta Levi\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T08:28:25.845297+00:00\",\n  \"dateModified\": \"2026-03-28T08:28:25.845297+00:00\",\n  \"url\": \"https://gazzettanazionale.it/economia/ca5b82d2b934725f\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/economia/ca5b82d2b934725f\"\n  },\n  \"articleSection\": \"Economia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/12954088/pexels-photo-12954088.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Mathias Reding\"\n  }\n}",
+  "priority": 6,
+  "source": "Repubblica Economia",
+  "source_type": "competitor",
+  "original_url": "https://www.repubblica.it/economia/finanza/2026/03/28/news/banca_progetto_arriva_l_aumento_da_750_milioni_per_uscire_dall_amministrazione_straordinaria-425249593/?rss",
+  "related": [
+    {
+      "title": "60 milioni di italiani online: il Fascicolo sanitario entra nella terza fase",
+      "url": "/economia/60-milioni-di-italiani-storia-clinica-online-dal-3-eb83cee35c42ada1",
+      "id": "eb83cee35c42ada1"
+    },
+    {
+      "title": "Record di investimenti privati negli studentati, 30% in aumento nel 2025",
+      "url": "/economia/record-di-investimenti-privati-negli-studentati-30-5287711456a2fb09",
+      "id": "5287711456a2fb09"
+    },
+    {
+      "title": "UniCredit supera il 30% in Banco Bpm: l'operazione 'gentile' di Orcel",
+      "url": "/economia/unicredit-supera-il-30-in-banco-bpm-loperazione-ge-ca6d35b6dbac2222",
+      "id": "ca6d35b6dbac2222"
+    }
+  ]
+}
