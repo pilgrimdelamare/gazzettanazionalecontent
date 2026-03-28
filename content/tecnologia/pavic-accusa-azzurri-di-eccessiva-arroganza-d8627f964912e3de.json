@@ -1,0 +1,51 @@
+{
+  "id": "d8627f964912e3de",
+  "slug": "pavic-accusa-azzurri-di-eccessiva-arroganza-d8627f964912e3de",
+  "title": "Pavić accusa Azzurri di eccessiva arroganza",
+  "titles": [
+    "Pavić accusa Azzurri di eccessiva arroganza",
+    "Bosnia si sente offesa dal tripudio italiano",
+    "Il rumore degli Azzurri fa arrabbiare la Bosnia"
+  ],
+  "title_winner": null,
+  "section": "tecnologia",
+  "occhiello": "LE AZZURRE ANTE L'EURO: LA BOSONIA FACCIA I CONTI CON L'ARROGANZA ITALIANA",
+  "lead": "Dimarco esulta in diretta, ma il video della festa dei tifosi italiani fa arrabbiare la Bosnia. La Repubblica pubblica le reazioni dell'allenatore della Bosnia, Milinko Pavić, che accusa gli azzurri di essere \"troppo arroganti\".",
+  "corpo1": "La festa dei tifosi italiani dopo la vittoria contro la Bosnia è finita sui social media. Un video mostra gli azzurri che esultano e si abbracciano, mentre la Bosnia perde con un risultato di 2-1. Ma la gioia non è stata condivisa da tutti. L'allenatore della Bosnia, Milinko Pavić, ha accusato gli azzurri di essere \"troppo arroganti\" e di aver fatto \"troppo rumore\" dopo la vittoria. \"Gli italiani sono troppo orgogliosi e pensano di essere gli unici a fare calcio\", ha detto Pavić in un'intervista alla Repubblica. La Bosnia è stata eliminata dai Mondiali e la partita è stata un'occasione per riflettere sulla loro prestazione. \"Non è stata una buona partita per noi\", ha detto Pavić. \"Ma dobbiamo imparare dalle nostre errori e migliorare per la prossima volta\". La vittoria italiana è stata un'occasione per riflettere sulla loro tattica e sul loro rendimento. \"Abbiamo giocato bene e abbiamo vinto\", ha detto l'allenatore azzurro, Roberto Mancini. \"Ma dobbiamo continuare a lavorare e migliorare per essere pronti per i prossimi impegni\".",
+  "corpo2": "La Bosnia è una squadra con una lunga storia di successi, ma negli ultimi anni ha avuto difficoltà a qualificarsi per i Mondiali. La loro eliminazione è stata un colpo duro per i tifosi, ma anche un'opportunità per riflettere sulla loro prestazione e migliorare per la prossima volta. La vittoria italiana è stata un'occasione per riflettere sulla loro tattica e sul loro rendimento, e per continuare a lavorare e migliorare per essere pronti per i prossimi impegni. E i tifosi italiani? Sono orgogliosi della vittoria, ma saranno in grado di mantenere il loro rendimento e di continuare a vinere? Soltanto il tempo lo dirà.",
+  "journalist": {
+    "id": "giulia_serra_01",
+    "firma": "Giulia Serra",
+    "sezione": "tecnologia"
+  },
+  "published_at": "2026-03-28T12:37:32.006472+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/12464336/pexels-photo-12464336.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Kelly",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Pavić accusa Azzurri di eccessiva arroganza\",\n  \"description\": \"Dimarco esulta in diretta, ma il video della festa dei tifosi italiani fa arrabbiare la Bosnia. La Repubblica pubblica le reazioni dell'allenatore della Bosnia, Milinko Pavić, che accusa gli azzurri di essere \\\"troppo arroganti\\\".\",\n  \"articleBody\": \"Dimarco esulta in diretta, ma il video della festa dei tifosi italiani fa arrabbiare la Bosnia. La Repubblica pubblica le reazioni dell'allenatore della Bosnia, Milinko Pavić, che accusa gli azzurri di essere \\\"troppo arroganti\\\". La festa dei tifosi italiani dopo la vittoria contro la Bosnia è finita sui social media. Un video mostra gli azzurri che esultano e si abbracciano, mentre la Bosnia perde con un risultato di 2-1. Ma la gioia non è stata condivisa da tutti. L'allenatore della Bosnia, Milinko Pavić, ha accusato gli azzurri di essere \\\"troppo arroganti\\\" e di aver fatto \\\"troppo rumore\\\" dopo la vittoria. \\\"Gli italiani sono troppo orgogliosi e pensano di essere gli unici a fare calcio\\\", ha detto Pavić in un'intervista alla Repubblica. La Bosnia è stata eliminata dai Mondiali e la partita è stata un'occasione per riflettere sulla loro prestazione. \\\"Non è stata una buona partita per noi\\\", ha detto Pavić. \\\"Ma dobbiamo imparare dalle nostre errori e migliorare per la prossima volta\\\". La vittoria italiana è stata un'occasione per riflettere sulla loro tattica e sul loro rendimento. \\\"Abbiamo giocato bene e abbiamo vinto\\\", ha detto l'allenatore azzurro, Roberto Mancini. \\\"Ma dobbiamo continuare a lavorare e migliorare per essere pronti per i prossimi impegni\\\". La Bosnia è una squadra con una lunga storia di successi, ma negli ultimi anni ha avuto difficoltà a qualificarsi per i Mondiali. La loro eliminazione è stata un colpo duro per i tifosi, ma anche un'opportunità per riflettere sulla loro prestazione e migliorare per la prossima volta. La vittoria italiana è stata un'occasione per riflettere sulla loro tattica e sul loro rendimento, e per continuare a lavorare e migliorare per essere pronti per i prossimi impegni. E i tifosi italiani? Sono orgogliosi della vittoria, ma saranno in grado di mantenere il loro rendimento e di continuare a vinere? Soltanto il tempo lo dirà.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Giulia Serra\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T12:37:32.006472+00:00\",\n  \"dateModified\": \"2026-03-28T12:37:32.006472+00:00\",\n  \"url\": \"https://gazzettanazionale.it/tecnologia/d8627f964912e3de\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/tecnologia/d8627f964912e3de\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/12464336/pexels-photo-12464336.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Kelly\"\n  }\n}",
+  "priority": 4,
+  "source": "Redazione",
+  "source_type": "competitor_gap",
+  "original_url": "https://www.repubblica.it/sport/calcio/nazionale/2026/03/28/news/dimarco_video_vittoria_bosnia_play_off_mondiali-425250019/",
+  "related": [
+    {
+      "title": "Britannica perde 45 chili smettendo di mangiare 15 barrette di cioccolato al gio",
+      "url": "/tecnologia/britannica-perde-45-chili-smettendo-di-mangiare-15-f2af7bd036d87653",
+      "id": "f2af7bd036d87653"
+    },
+    {
+      "title": "Professoressa accoltellata in aula, il Ministero tace",
+      "url": "/tecnologia/professoressa-accoltellata-in-aula-il-ministero-ta-7a318c378c8edc26",
+      "id": "7a318c378c8edc26"
+    },
+    {
+      "title": "PROFESSIONISTI OBBLIGATI A DIRE AI CLIENTI SE USANO L'AI",
+      "url": "/tecnologia/professionisti-obbligati-a-dire-ai-clienti-se-usan-17111cc6d5b8081e",
+      "id": "17111cc6d5b8081e"
+    }
+  ]
+}
