@@ -20,11 +20,10 @@
   },
   "published_at": "2026-03-28T11:52:59.958661+00:00",
   "image": {
-    "type": "pexels",
-    "url": "https://images.pexels.com/photos/9957488/pexels-photo-9957488.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "source": "Pexels",
-    "credit": "Stefano Parisi",
-    "license": "Pexels License"
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Juliet%27s_house_-_Verona_%2815280125180%29.jpg",
+    "source": "Wikimedia Commons",
+    "credit": "Wikimedia Commons",
+    "license": "CC"
   },
   "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Pagamento forzato al Cortile di Giulietta da domani\",\n  \"description\": \"dal 1° aprile l'ingresso al Cortile di Giulietta a Verona sarà a pagamento, secondo la decisione dell'amministrazione.\",\n  \"articleBody\": \"dal 1° aprile l'ingresso al Cortile di Giulietta a Verona sarà a pagamento, secondo la decisione dell'amministrazione. l'amministrazione di Verona ha preso la decisione di introdurre un pagamento per l'ingresso al Cortile di Giulietta a partire dal 1° aprile. questo cambiamento è stato annunciato ufficialmente e rappresenta una novità significativa per i visitatori del famoso luogo turistico. secondo la decisione, tutti coloro che desiderano visitare il Cortile di Giulietta dovranno pagare un biglietto d'ingresso. non sono state fornite informazioni dettagliate sul prezzo del biglietto o sulle eventuali eccezioni.  il Cortile di Giulietta è uno dei principali attrattori turistici di Verona e attira ogni anno migliaia di visitatori da tutto il mondo.   in passato, l'amministrazione ha già preso misure per gestire il flusso di visitatori e proteggere il luogo, ma questa è la prima volta che si introduce un pagamento obbligatorio.  il pagamento per l'ingresso al Cortile di Giulietta potrebbe essere un esempio di come le città possono gestire il turismo in modo più sostenibile.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Roberto Neri\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T11:52:59.958661+00:00\",\n  \"dateModified\": \"2026-03-28T11:52:59.958661+00:00\",\n  \"url\": \"https://gazzettanazionale.it/cronaca/1c6d506c143c7ee6\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/cronaca/1c6d506c143c7ee6\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/9957488/pexels-photo-9957488.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Stefano Parisi\"\n  }\n}",
   "priority": 5,
