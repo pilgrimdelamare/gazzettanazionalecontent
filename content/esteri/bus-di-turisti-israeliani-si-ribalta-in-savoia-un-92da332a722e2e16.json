@@ -1,0 +1,51 @@
+{
+  "id": "92da332a722e2e16",
+  "slug": "bus-di-turisti-israeliani-si-ribalta-in-savoia-un-92da332a722e2e16",
+  "title": "Bus di turisti israeliani si ribalta in Savoia: un morto",
+  "titles": [
+    "Bus di turisti israeliani si ribalta in Savoia: un morto",
+    "Turista israeliana di 15 anni muore in incidente in Francia",
+    "Decine di feriti lievi in Savoia, bus si ribalta con a bordo israeliani"
+  ],
+  "title_winner": null,
+  "section": "esteri",
+  "occhiello": "INCIDENTE BUS TURISTI ISRAELIANI IN FRANCIA",
+  "lead": "Sabato 28 marzo 2026, un bus di turisti israeliani si è ribaltato in Savoia, Francia. Un'adolescente è morta e diversi passeggeri hanno riportato ferite lievi.",
+  "corpo1": "Secondo l'ANSA, l'incidente è avvenuto sabato 28 marzo 2026 in Savoia, una regione francese situata ai confini con l'Italia. Il bus, che trasportava turisti israeliani, si è ribaltato per cause ancora in corso di accertamento. A bordo del veicolo c'era un gruppo di turisti, tra cui un'adolescente che ha perso la vita. Diversi altri passeggeri hanno riportato ferite lievi e sono stati prontamente soccorsi dalle autorità locali. La Savoia è una meta turistica popolare, specialmente durante la stagione invernale per le sue stazioni sciistiche, ma anche in primavera per le sue bellezze naturali.",
+  "corpo2": "L'incidente del bus di turisti israeliani in Savoia solleva questioni relative alla sicurezza stradale e al turismo internazionale. La Francia, come molti paesi europei, è una destinazione frequente per i turisti israeliani, sia per motivi di studio che per vacanza. Questo incidente, seppur tragico, è un evento raro e non sembra essere legato a tensioni politiche o conflitti nella regione. Tuttavia, mette in luce l'importanza della sicurezza stradale e della prudenza durante i viaggi. La comunità internazionale, comprese le ambasciate e i consolati dei paesi coinvolti, di solito offrono supporto e assistenza ai cittadini colpiti da incidenti all'estero. Ma davvero possiamo considerarci preparati a fronteggiare simili eventi?",
+  "journalist": {
+    "id": "fabrizio_mei_01",
+    "firma": "Fabrizio Mei",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-03-28T07:57:45.708910+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/3550650/pexels-photo-3550650.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Athena Sandrini",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Bus di turisti israeliani si ribalta in Savoia: un morto\",\n  \"description\": \"Sabato 28 marzo 2026, un bus di turisti israeliani si è ribaltato in Savoia, Francia. Un'adolescente è morta e diversi passeggeri hanno riportato ferite lievi.\",\n  \"articleBody\": \"Sabato 28 marzo 2026, un bus di turisti israeliani si è ribaltato in Savoia, Francia. Un'adolescente è morta e diversi passeggeri hanno riportato ferite lievi. Secondo l'ANSA, l'incidente è avvenuto sabato 28 marzo 2026 in Savoia, una regione francese situata ai confini con l'Italia. Il bus, che trasportava turisti israeliani, si è ribaltato per cause ancora in corso di accertamento. A bordo del veicolo c'era un gruppo di turisti, tra cui un'adolescente che ha perso la vita. Diversi altri passeggeri hanno riportato ferite lievi e sono stati prontamente soccorsi dalle autorità locali. La Savoia è una meta turistica popolare, specialmente durante la stagione invernale per le sue stazioni sciistiche, ma anche in primavera per le sue bellezze naturali. L'incidente del bus di turisti israeliani in Savoia solleva questioni relative alla sicurezza stradale e al turismo internazionale. La Francia, come molti paesi europei, è una destinazione frequente per i turisti israeliani, sia per motivi di studio che per vacanza. Questo incidente, seppur tragico, è un evento raro e non sembra essere legato a tensioni politiche o conflitti nella regione. Tuttavia, mette in luce l'importanza della sicurezza stradale e della prudenza durante i viaggi. La comunità internazionale, comprese le ambasciate e i consolati dei paesi coinvolti, di solito offrono supporto e assistenza ai cittadini colpiti da incidenti all'estero. Ma davvero possiamo considerarci preparati a fronteggiare simili eventi?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Fabrizio Mei\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T07:57:45.708910+00:00\",\n  \"dateModified\": \"2026-03-28T07:57:45.708910+00:00\",\n  \"url\": \"https://gazzettanazionale.it/esteri/92da332a722e2e16\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/esteri/92da332a722e2e16\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/3550650/pexels-photo-3550650.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Athena Sandrini\"\n  }\n}",
+  "priority": 6,
+  "source": "ANSA Esteri",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/03/28/francia-incidente-ad-un-bus-di-turisti-israeliani-unadolescente-morta_6c06bcb5-4ee8-4977-98ab-f4195f38071e.html",
+  "related": [
+    {
+      "title": "Houthi lanciano missile su Tel Aviv",
+      "url": "/esteri/houthi-lanciano-missile-su-tel-aviv-b11e9b3f1dcebe64",
+      "id": "b11e9b3f1dcebe64"
+    },
+    {
+      "title": "Rubio: Usa pronti a colpire l'Iran senza truppe di terra",
+      "url": "/esteri/rubio-usa-pronti-a-colpire-liran-senza-truppe-di-t-05c195fe875bed43",
+      "id": "05c195fe875bed43"
+    },
+    {
+      "title": "Arrestato KP Sharma Oli, ex premier del Nepal, per repressione proteste",
+      "url": "/esteri/arrestato-ex-premier-nepalese-oli-per-repressione-78db4377c9dc39ec",
+      "id": "78db4377c9dc39ec"
+    }
+  ]
+}
