@@ -1,0 +1,51 @@
+{
+  "id": "2f7b77eda19efa20",
+  "slug": "antagonisti-e-anarchici-scontri-a-pisa-contro-azio-2f7b77eda19efa20",
+  "title": "ANTAGONISTI E ANARCHICI Scontri a Pisa contro Azione universitaria",
+  "titles": [
+    "ANTAGONISTI E ANARCHICI Scontri a Pisa contro Azione universitaria",
+    "Manifestanti attaccano Azione universitaria a Pisa, polizia interviene",
+    "Tensioni a Pisa: antagonisti e anarchici attaccano Azione universitaria"
+  ],
+  "title_winner": null,
+  "section": "cronaca",
+  "occhiello": "TENSIONI A PISA",
+  "lead": "Antagonisti e anarchici hanno manifestato contro Azione universitaria a Pisa, sabato 28 marzo 2026.",
+  "corpo1": "Secondo ANSA, il blitz degli antagonisti e degli anarchici contro Azione universitaria ha creato tensioni a Pisa. Le forze dell'ordine sono intervenute per evitare scontri. I manifestanti erano contrari all'organizzazione di Azione universitaria, che è stata oggetto di critiche e contestazioni.  ",
+  "corpo2": "Azione universitaria è un'organizzazione studentesca che ha suscitato polemiche e critiche in passato. La sua presenza nelle università italiane è stata oggetto di dibattito e contestazione.   ",
+  "journalist": {
+    "id": "roberto_neri_01",
+    "firma": "Roberto Neri",
+    "sezione": "cronaca"
+  },
+  "published_at": "2026-03-28T17:52:38.420877+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/17415163/pexels-photo-17415163.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Israel Torres",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"ANTAGONISTI E ANARCHICI Scontri a Pisa contro Azione universitaria\",\n  \"description\": \"Antagonisti e anarchici hanno manifestato contro Azione universitaria a Pisa, sabato 28 marzo 2026.\",\n  \"articleBody\": \"Antagonisti e anarchici hanno manifestato contro Azione universitaria a Pisa, sabato 28 marzo 2026. Secondo ANSA, il blitz degli antagonisti e degli anarchici contro Azione universitaria ha creato tensioni a Pisa. Le forze dell'ordine sono intervenute per evitare scontri. I manifestanti erano contrari all'organizzazione di Azione universitaria, che è stata oggetto di critiche e contestazioni.   Azione universitaria è un'organizzazione studentesca che ha suscitato polemiche e critiche in passato. La sua presenza nelle università italiane è stata oggetto di dibattito e contestazione.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Roberto Neri\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T17:52:38.420877+00:00\",\n  \"dateModified\": \"2026-03-28T17:52:38.420877+00:00\",\n  \"url\": \"https://gazzettanazionale.it/cronaca/2f7b77eda19efa20\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/cronaca/2f7b77eda19efa20\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/17415163/pexels-photo-17415163.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Israel Torres\"\n  }\n}",
+  "priority": 6,
+  "source": "ANSA Cronaca",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/cronaca/2026/03/28/antagonisti-e-anarchici-contro-azione-universitaria-tensioni-a-pisa_8029f789-96f1-4fef-b144-c23221ec81d5.html",
+  "related": [
+    {
+      "title": "Sinner batte Medvedev, in finale contro Lehecka a Miami",
+      "url": "/cronaca/sinner-batte-medvedev-in-finale-contro-lehecka-a-m-17ba5679e66905b2",
+      "id": "17ba5679e66905b2"
+    },
+    {
+      "title": "Papa Francesco a Monaco: 'Le guerre sono il frutto dell'idolatria di potere e de",
+      "url": "/cronaca/papa-francesco-a-monaco-le-guerre-sono-il-frutto-d-747ee2e8fda1f7da",
+      "id": "747ee2e8fda1f7da"
+    },
+    {
+      "title": "ARRESTATA LA FIDANZATA PER OMICIDIO",
+      "url": "/cronaca/arrestata-la-fidanzata-per-omicidio-95135110fb369551",
+      "id": "95135110fb369551"
+    }
+  ]
+}
