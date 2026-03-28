@@ -1,0 +1,51 @@
+{
+  "id": "9b7e1f14fbea55c6",
+  "slug": "22enne-uccide-e-nasconde-i-figli-difesa-chiede-ass-9b7e1f14fbea55c6",
+  "title": "22enne uccide e nasconde i figli: difesa chiede assoluzione",
+  "titles": [
+    "22enne uccide e nasconde i figli: difesa chiede assoluzione",
+    "Chiara Petrolini, 22 anni, è incapace di intendere?",
+    "Due neonati uccisi e sepolti in giardino: la difesa di Chiara"
+  ],
+  "title_winner": null,
+  "section": "cronaca",
+  "occhiello": "CHIARA PETROLINI, DIFESA CHIEDE ASSOLUZIONE",
+  "lead": "Chiara Petrolini, 22 anni, accusata di omicidio e occultamento dei corpi dei suoi due figli neonati, ha avuto la difesa che ha chiesto l'assoluzione. La difesa sostiene che Chiara è \"incapace di intendere\" e che \"anche lei è una vittima\". La notizia è stata riportata il 28 marzo 2026.",
+  "corpo1": "La difesa di Chiara Petrolini ha chiesto l'assoluzione per la giovane accusata di aver ucciso i suoi due figli neonati e di aver nascosto i corpi in giardino. Secondo la difesa, Chiara è \"incapace di intendere\" e non è quindi responsabile delle sue azioni. La difesa ha anche affermato che \"anche lei è una vittima\". Chiara Petrolini, 22 anni, è stata accusata di omicidio e occultamento dei corpi dei suoi figli. La notizia è stata riportata dalla Repubblica il 28 marzo 2026. La difesa ha sottolineato che Chiara è una ragazza giovane e che la sua capacità di intendere è stata compromessa.",
+  "corpo2": "Questa vicenda solleva molte domande sulla capacità del sistema giudiziario di gestire casi di violenza e di sostegno alle vittime. Chiara Petrolini non è la prima giovane donna ad essere accusata di aver commesso un crimine e a sostenere di essere stata vittima di circostanze. La sua storia è solo l'ultima di una lunga serie di casi in cui la salute mentale e la capacità di intendere sono state messe in discussione. Cosa è mancato nel sistema di sostegno a Chiara Petrolini perché potesse arrivare a questo punto?",
+  "journalist": {
+    "id": "chiara_esposito_01",
+    "firma": "Chiara Esposito",
+    "sezione": "cronaca"
+  },
+  "published_at": "2026-03-28T06:09:29.015292+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/29893167/pexels-photo-29893167.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Magda Ehlers",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"22enne uccide e nasconde i figli: difesa chiede assoluzione\",\n  \"description\": \"Chiara Petrolini, 22 anni, accusata di omicidio e occultamento dei corpi dei suoi due figli neonati, ha avuto la difesa che ha chiesto l'assoluzione. La difesa sostiene che Chiara è \\\"incapace di intendere\\\" e che \\\"anche lei è una vittima\\\". La notizia è stata riportata il 28 marzo 2026.\",\n  \"articleBody\": \"Chiara Petrolini, 22 anni, accusata di omicidio e occultamento dei corpi dei suoi due figli neonati, ha avuto la difesa che ha chiesto l'assoluzione. La difesa sostiene che Chiara è \\\"incapace di intendere\\\" e che \\\"anche lei è una vittima\\\". La notizia è stata riportata il 28 marzo 2026. La difesa di Chiara Petrolini ha chiesto l'assoluzione per la giovane accusata di aver ucciso i suoi due figli neonati e di aver nascosto i corpi in giardino. Secondo la difesa, Chiara è \\\"incapace di intendere\\\" e non è quindi responsabile delle sue azioni. La difesa ha anche affermato che \\\"anche lei è una vittima\\\". Chiara Petrolini, 22 anni, è stata accusata di omicidio e occultamento dei corpi dei suoi figli. La notizia è stata riportata dalla Repubblica il 28 marzo 2026. La difesa ha sottolineato che Chiara è una ragazza giovane e che la sua capacità di intendere è stata compromessa. Questa vicenda solleva molte domande sulla capacità del sistema giudiziario di gestire casi di violenza e di sostegno alle vittime. Chiara Petrolini non è la prima giovane donna ad essere accusata di aver commesso un crimine e a sostenere di essere stata vittima di circostanze. La sua storia è solo l'ultima di una lunga serie di casi in cui la salute mentale e la capacità di intendere sono state messe in discussione. Cosa è mancato nel sistema di sostegno a Chiara Petrolini perché potesse arrivare a questo punto?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Chiara Esposito\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T06:09:29.015292+00:00\",\n  \"dateModified\": \"2026-03-28T06:09:29.015292+00:00\",\n  \"url\": \"https://gazzettanazionale.it/cronaca/9b7e1f14fbea55c6\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/cronaca/9b7e1f14fbea55c6\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/29893167/pexels-photo-29893167.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Magda Ehlers\"\n  }\n}",
+  "priority": 4,
+  "source": "Redazione",
+  "source_type": "competitor_gap",
+  "original_url": "https://bologna.repubblica.it/cronaca/2026/03/28/news/chiara_petrolini_difesa_assoluzione_incapace_di_intendere-425249316/",
+  "related": [
+    {
+      "title": "Bezzecchi cerca tris consecutivo ad Austin con Aprilia",
+      "url": "/cultura/bezzecchi-cerca-tris-consecutivo-ad-austin-con-apr-bb452502efbf1859",
+      "id": "bb452502efbf1859"
+    },
+    {
+      "title": "Meloni, 28 marzo 2026: governo in bilico per estrazione comune della classe diri",
+      "url": "/politica/meloni-28-marzo-2026-governo-in-bilico-per-estrazi-89eaf674d5cba59f",
+      "id": "89eaf674d5cba59f"
+    },
+    {
+      "title": "Trump: taglio spese Nato e intervento a Cuba",
+      "url": "/esteri/trump-minaccia-taglio-spese-nato-e-intervento-a-cu-3277fb44733ea4d3",
+      "id": "3277fb44733ea4d3"
+    }
+  ]
+}
