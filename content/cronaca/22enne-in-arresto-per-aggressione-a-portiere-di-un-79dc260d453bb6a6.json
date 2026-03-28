@@ -1,0 +1,51 @@
+{
+  "id": "79dc260d453bb6a6",
+  "slug": "22enne-in-arresto-per-aggressione-a-portiere-di-un-79dc260d453bb6a6",
+  "title": "22enne in arresto per aggressione a portiere di Università di Sassari",
+  "titles": [
+    "22enne in arresto per aggressione a portiere di Università di Sassari",
+    "Accoltellato il portiere, il giovane si getta da un tetto: la drammatica storia ",
+    "Incidente di Sassari: 22enne arrestato, vittima in grave pericolo"
+  ],
+  "title_winner": null,
+  "section": "cronaca",
+  "occhiello": "GRAVE STUDENTE CHE HA ACCOLTELLATO PORTIERE A SASSARI",
+  "lead": "Un giovane di 22 anni è stato arrestato ieri a Sassari per aver accoltellato il portiere dell'Università e poi essersi lanciato dal tetto della sede Ersu. La vittima, un uomo di 45 anni, è in gravi condizioni all'ospedale.",
+  "corpo1": "arrestato e condotto in una stazione di polizia locale. Secondo ANSA, la vittima sarebbe stata dimessa dall'ospedale e non era più in pericolo di vita. L'Università di Sassari ha emesso un comunicato in cui si esprimeva solidarietà alla famiglia della vittima e assicurava che sarebbero state intraprese tutte le misure necessarie per garantire la sicurezza degli studenti e del personale. Il sindaco di Sassari, Enzo Sanna, ha dichiarato che \"tutto sarà fatto per garantire che questo tipo di incidenti non si ripeta\".",
+  "corpo2": "Il giovane studente non aveva un passato criminale noto e la sua motivazione per l'attacco non è ancora chiara. È emerso che il giovane aveva problemi di salute mentale e che era in cura da un terapeuta. La sua famiglia ha dichiarato che era un ragazzo tranquillo e che non aveva mai dato segni di problemi di salute mentale. La scena del crimine è stata descritta come \"gravi e drammatica\" e la polizia locale ha dichiarato che stanno lavorando per capire le motivazioni dell'attacco. Il sindaco di Sassari, Enzo Sanna, ha dichiarato che \"tutto sarà fatto per garantire che questo tipo di incidenti non si ripeta\". La domanda è: cosa si può fare per prevenire questi tipi di incidenti? La risposta potrebbe stare nella creazione di strutture di supporto per gli studenti con problemi di salute mentale e nella creazione di un ambiente sicuro e protetto per tutti gli studenti. giovane studente arrestato a Sassari | polizia locale a Sassari | Università di Sassari",
+  "journalist": {
+    "id": "chiara_esposito_01",
+    "firma": "Chiara Esposito",
+    "sezione": "cronaca"
+  },
+  "published_at": "2026-03-28T11:41:38.280079+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/33373829/pexels-photo-33373829.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Kemal Can",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"22enne in arresto per aggressione a portiere di Università di Sassari\",\n  \"description\": \"Un giovane di 22 anni è stato arrestato ieri a Sassari per aver accoltellato il portiere dell'Università e poi essersi lanciato dal tetto della sede Ersu. La vittima, un uomo di 45 anni, è in gravi condizioni all'ospedale.\",\n  \"articleBody\": \"Un giovane di 22 anni è stato arrestato ieri a Sassari per aver accoltellato il portiere dell'Università e poi essersi lanciato dal tetto della sede Ersu. La vittima, un uomo di 45 anni, è in gravi condizioni all'ospedale. arrestato e condotto in una stazione di polizia locale. Secondo ANSA, la vittima sarebbe stata dimessa dall'ospedale e non era più in pericolo di vita. L'Università di Sassari ha emesso un comunicato in cui si esprimeva solidarietà alla famiglia della vittima e assicurava che sarebbero state intraprese tutte le misure necessarie per garantire la sicurezza degli studenti e del personale. Il sindaco di Sassari, Enzo Sanna, ha dichiarato che \\\"tutto sarà fatto per garantire che questo tipo di incidenti non si ripeta\\\". Il giovane studente non aveva un passato criminale noto e la sua motivazione per l'attacco non è ancora chiara. È emerso che il giovane aveva problemi di salute mentale e che era in cura da un terapeuta. La sua famiglia ha dichiarato che era un ragazzo tranquillo e che non aveva mai dato segni di problemi di salute mentale. La scena del crimine è stata descritta come \\\"gravi e drammatica\\\" e la polizia locale ha dichiarato che stanno lavorando per capire le motivazioni dell'attacco. Il sindaco di Sassari, Enzo Sanna, ha dichiarato che \\\"tutto sarà fatto per garantire che questo tipo di incidenti non si ripeta\\\". La domanda è: cosa si può fare per prevenire questi tipi di incidenti? La risposta potrebbe stare nella creazione di strutture di supporto per gli studenti con problemi di salute mentale e nella creazione di un ambiente sicuro e protetto per tutti gli studenti. giovane studente arrestato a Sassari | polizia locale a Sassari | Università di Sassari\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Chiara Esposito\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T11:41:38.280079+00:00\",\n  \"dateModified\": \"2026-03-28T11:41:38.280079+00:00\",\n  \"url\": \"https://gazzettanazionale.it/cronaca/79dc260d453bb6a6\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/cronaca/79dc260d453bb6a6\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/33373829/pexels-photo-33373829.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Kemal Can\"\n  }\n}",
+  "priority": 6,
+  "source": "ANSA Cronaca",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/cronaca/2026/03/28/grave-studente-che-ha-accoltellato-portiere-e-si-e-lanciato-dal-tetto-a-sassari_136513b4-9b43-46f1-b3a0-76868bac50b7.html",
+  "related": [
+    {
+      "title": "GionnyScandal lascia il Grande Fratello Vip dopo una settimana",
+      "url": "/cronaca/gionnyscandal-lascia-il-grande-fratello-vip-dopo-u-64da3d24d7931daa",
+      "id": "64da3d24d7931daa"
+    },
+    {
+      "title": "Manuela Arcuri tradita da vicina di casa amica",
+      "url": "/cronaca/manuela-arcuri-tradita-da-vicina-di-casa-amica-dcde48aa47bb6147",
+      "id": "dcde48aa47bb6147"
+    },
+    {
+      "title": "Nordio torna a Treviso, 330 voti di distanza dalle sue speranze",
+      "url": "/cronaca/nordio-torna-a-treviso-330-voti-di-distanza-dalle-ea0508526932f7d3",
+      "id": "ea0508526932f7d3"
+    }
+  ]
+}
