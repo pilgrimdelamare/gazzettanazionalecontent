@@ -1,0 +1,51 @@
+{
+  "id": "4a06aa7858d380da",
+  "slug": "femminicidio-e-bugie-la-donna-arrestata-4a06aa7858d380da",
+  "title": "FEMMINICIDIO E BUGIE: LA DONNA ARRESTATA",
+  "titles": [
+    "FEMMINICIDIO E BUGIE: LA DONNA ARRESTATA",
+    "FEMMINICIDIO E BUGIE: LA DONNA ARRESTATA",
+    "FEMMINICIDIO E BUGIE: LA DONNA ARRESTATA"
+  ],
+  "title_winner": null,
+  "section": "cronaca",
+  "occhiello": "FEMMINICIDIO E BUGIE: LA DONNA ARRESTATA",
+  "lead": "Cristopher Gaston Ogando, 28enne di origini domenicane, è morto il 5 marzo a Parma. La sua compagna, Alesandrina Brenda Fumagalli, aveva detto che era morto per sbaglio durante un battibecco, ma ora è stata arrestata per omicidio.",
+  "corpo1": "",
+  "corpo2": "Cosa cambia davvero? La giustizia italiana deve finalmente prendere sul serio i casi di violenza domestica e gli omicidi commessi da donne contro i loro partner. La donna arrestata, Alesandrina Brenda Fumagalli, deve essere processata per omicidio e deve essere tenuta responsabile delle sue azioni. La società italiana deve anche prendere in considerazione la questione della violenza domestica e degli omicidi commessi da donne contro i loro partner e deve lavorare per prevenire queste tragedie.",
+  "journalist": {
+    "id": "chiara_esposito_01",
+    "firma": "Chiara Esposito",
+    "sezione": "cronaca"
+  },
+  "published_at": "2026-03-28T12:08:59.897725+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/27616682/pexels-photo-27616682.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Charly Hernandez",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"FEMMINICIDIO E BUGIE: LA DONNA ARRESTATA\",\n  \"description\": \"Cristopher Gaston Ogando, 28enne di origini domenicane, è morto il 5 marzo a Parma. La sua compagna, Alesandrina Brenda Fumagalli, aveva detto che era morto per sbaglio durante un battibecco, ma ora è stata arrestata per omicidio.\",\n  \"articleBody\": \"Cristopher Gaston Ogando, 28enne di origini domenicane, è morto il 5 marzo a Parma. La sua compagna, Alesandrina Brenda Fumagalli, aveva detto che era morto per sbaglio durante un battibecco, ma ora è stata arrestata per omicidio. Cosa cambia davvero? La giustizia italiana deve finalmente prendere sul serio i casi di violenza domestica e gli omicidi commessi da donne contro i loro partner. La donna arrestata, Alesandrina Brenda Fumagalli, deve essere processata per omicidio e deve essere tenuta responsabile delle sue azioni. La società italiana deve anche prendere in considerazione la questione della violenza domestica e degli omicidi commessi da donne contro i loro partner e deve lavorare per prevenire queste tragedie.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Chiara Esposito\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T12:08:59.897725+00:00\",\n  \"dateModified\": \"2026-03-28T12:08:59.897725+00:00\",\n  \"url\": \"https://gazzettanazionale.it/cronaca/4a06aa7858d380da\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/cronaca/4a06aa7858d380da\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/27616682/pexels-photo-27616682.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Charly Hernandez\"\n  }\n}",
+  "priority": 6,
+  "source": "Redazione",
+  "source_type": "competitor_gap",
+  "original_url": "https://www.ilfattoquotidiano.it/2026/03/28/omicidio-parma-accoltellamento-compagno-arresto-notizie/8338419/",
+  "related": [
+    {
+      "title": "Parma, 22enne ucciso: fidanzata arrestata per omicidio",
+      "url": "/cronaca/parma-22enne-ucciso-fidanzata-arrestata-per-omicid-b80c95d40f28484c",
+      "id": "b80c95d40f28484c"
+    },
+    {
+      "title": "Verona adotta misura restrittiva per Cortile di Giulietta dal 1° aprile",
+      "url": "/cronaca/verona-adotta-misura-restrittiva-per-cortile-di-gi-1c6d506c143c7ee6",
+      "id": "1c6d506c143c7ee6"
+    },
+    {
+      "title": "Chi sarà il nuovo rettore di Ca' Foscari da ottobre",
+      "url": "/cronaca/chi-sara-il-nuovo-rettore-di-ca-foscari-da-ottobre-350ac870e152c6eb",
+      "id": "350ac870e152c6eb"
+    }
+  ]
+}
