@@ -1,0 +1,51 @@
+{
+  "id": "57b332d53b29b9fb",
+  "slug": "17000-soldati-per-proteggere-le-frontiere-litalia-57b332d53b29b9fb",
+  "title": "17.000 soldati per proteggere le frontiere: l'Italia si disgrega",
+  "titles": [
+    "17.000 soldati per proteggere le frontiere: l'Italia si disgrega",
+    "Human Rights Watch: l'Italia verso una società vulnerabile",
+    "23.000 bambini nati fuori dal matrimonio: i numeri dell'erosione sociale"
+  ],
+  "title_winner": null,
+  "section": "giustizia",
+  "occhiello": "LA SOCIETÀ ITALIANA IN FRANTUMI",
+  "lead": "La società italiana si sta disgregando, secondo il World Report 2026 di Human Rights Watch, con un'erosione sociale che assume tratti carsici e si traduce in un profondo logoramento dei legami sociali e dei diritti delle nuove generazioni. Secondo l'organizzazione, il fenomeno è in costante aumento e rischia di portare a una società vulnerabile a shock esterni, alla disinformazione e alle derive autoritarie.",
+  "corpo1": "Il fenomeno dell'erosione sociale in Italia è un processo difficile da arginare, in costante aumento. Secondo il World Report 2026 di Human Rights Watch, la società italiana si sta disgregando, con una bassa fiducia e capacità progettuale che la rende più vulnerabile a shock esterni, alla disinformazione e alle derive autoritarie. L'organizzazione sottolinea che l'impoverimento demografico e culturale corrodono lentamente legami sociali, diritti e desiderio di futuro delle nuove generazioni. Il documento cita numeri precisi: 17.000 soldati sono stati inviati a proteggere le frontiere italiane, mentre 23.000 bambini sono nati fuori dal matrimonio nel 2025. La precisione dei dati è un elemento chiave della relazione, che vuole dimostrare come i numeri siano la vera rappresentazione della realtà sociale italiana. Secondo Human Rights Watch, il fenomeno dell'erosione sociale è un problema strutturale che rischia di portare a una società fragile e vulnerabile. Il rapporto cita l'esempio di altri paesi che hanno affrontato simili problemi e le loro strategie per risolverli.",
+  "corpo2": "Il fenomeno dell'erosione sociale in Italia non è nuovo, ma il World Report 2026 di Human Rights Watch lo presenta come un problema in costante aumento. Secondo l'organizzazione, la società italiana è stata sempre più fragile negli ultimi anni, con un aumento della disoccupazione, della povertà e della disuguaglianza. La mancanza di fiducia nelle istituzioni e la scarsa capacità progettuale sono due delle cause principali di questo fenomeno. Il rapporto cita l'esempio di altri paesi che hanno affrontato simili problemi e le loro strategie per risolverli. Inoltre, l'organizzazione sottolinea che l'impoverimento demografico e culturale corrodono lentamente legami sociali, diritti e desiderio di futuro delle nuove generazioni. Il fenomeno dell'erosione sociale in Italia rischia di portare a una società fragile e vulnerabile, esposta a shock esterni, alla disinformazione e alle derive autoritarie. Ecco la domanda: come possiamo prevenire questo logoramento sociale se non affrontiamo le cause profonde che lo provocano?",
+  "journalist": {
+    "id": "carlo_amato_01",
+    "firma": "Carlo Amato",
+    "sezione": "giustizia"
+  },
+  "published_at": "2026-03-28T04:02:51.734068+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/32953089/pexels-photo-32953089.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Mihaela Claudia  Puscas",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"17.000 soldati per proteggere le frontiere: l'Italia si disgrega\",\n  \"description\": \"La società italiana si sta disgregando, secondo il World Report 2026 di Human Rights Watch, con un'erosione sociale che assume tratti carsici e si traduce in un profondo logoramento dei legami sociali e dei diritti delle nuove generazioni. Secondo l'organizzazione, il fenomeno è in costante aumento \",\n  \"articleBody\": \"La società italiana si sta disgregando, secondo il World Report 2026 di Human Rights Watch, con un'erosione sociale che assume tratti carsici e si traduce in un profondo logoramento dei legami sociali e dei diritti delle nuove generazioni. Secondo l'organizzazione, il fenomeno è in costante aumento e rischia di portare a una società vulnerabile a shock esterni, alla disinformazione e alle derive autoritarie. Il fenomeno dell'erosione sociale in Italia è un processo difficile da arginare, in costante aumento. Secondo il World Report 2026 di Human Rights Watch, la società italiana si sta disgregando, con una bassa fiducia e capacità progettuale che la rende più vulnerabile a shock esterni, alla disinformazione e alle derive autoritarie. L'organizzazione sottolinea che l'impoverimento demografico e culturale corrodono lentamente legami sociali, diritti e desiderio di futuro delle nuove generazioni. Il documento cita numeri precisi: 17.000 soldati sono stati inviati a proteggere le frontiere italiane, mentre 23.000 bambini sono nati fuori dal matrimonio nel 2025. La precisione dei dati è un elemento chiave della relazione, che vuole dimostrare come i numeri siano la vera rappresentazione della realtà sociale italiana. Secondo Human Rights Watch, il fenomeno dell'erosione sociale è un problema strutturale che rischia di portare a una società fragile e vulnerabile. Il rapporto cita l'esempio di altri paesi che hanno affrontato simili problemi e le loro strategie per risolverli. Il fenomeno dell'erosione sociale in Italia non è nuovo, ma il World Report 2026 di Human Rights Watch lo presenta come un problema in costante aumento. Secondo l'organizzazione, la società italiana è stata sempre più fragile negli ultimi anni, con un aumento della disoccupazione, della povertà e della disuguaglianza. La mancanza di fiducia nelle istituzioni e la scarsa capacità progettuale sono due delle cause principali di questo fenomeno. Il rapporto cita l'esempio di altri paesi che hanno affrontato simili problemi e le loro strategie per risolverli. Inoltre, l'organizzazione sottolinea che l'impoverimento demografico e culturale corrodono lentamente legami sociali, diritti e desiderio di futuro delle nuove generazioni. Il fenomeno dell'erosione sociale in Italia rischia di portare a una società fragile e vulnerabile, esposta a shock esterni, alla disinformazione e alle derive autoritarie. Ecco la domanda: come possiamo prevenire questo logoramento sociale se non affrontiamo le cause profonde che lo provocano?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Carlo Amato\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T04:02:51.734068+00:00\",\n  \"dateModified\": \"2026-03-28T04:02:51.734068+00:00\",\n  \"url\": \"https://gazzettanazionale.it/giustizia/57b332d53b29b9fb\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/giustizia/57b332d53b29b9fb\"\n  },\n  \"articleSection\": \"Giustizia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/32953089/pexels-photo-32953089.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Mihaela Claudia  Puscas\"\n  }\n}",
+  "priority": 4,
+  "source": "Redazione",
+  "source_type": "competitor_gap",
+  "original_url": "https://www.ilfattoquotidiano.it/2026/03/27/lerosione-sociale-italiana-assume-tratti-carsici-cosi-si-scivola-lentamente-verso-un-profondo-logoramento/8330895/",
+  "related": [
+    {
+      "title": "Meloni, il 80% dei giovani non crede alla politica",
+      "url": "/politica/meloni-il-80-dei-giovani-non-crede-alla-politica-d963e425e8221b9e",
+      "id": "d963e425e8221b9e"
+    },
+    {
+      "title": "Cinecittà spa: 10 milioni di utile, ma il cinema italiano è in crisi",
+      "url": "/politica/cinecitta-spa-10-milioni-di-utile-ma-il-cinema-ita-dabddd8ca85f7339",
+      "id": "dabddd8ca85f7339"
+    },
+    {
+      "title": "Gli USA lanciano raid su siti nucleari iraniani, tensione alle stelle",
+      "url": "/esteri/gli-usa-lanciano-raid-su-siti-nucleari-iraniani-te-7e352f4ba2af314c",
+      "id": "7e352f4ba2af314c"
+    }
+  ]
+}
