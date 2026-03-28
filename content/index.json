@@ -1,5 +1,22 @@
 [
   {
+    "id": "4c7123a058a44269",
+    "slug": "mattarella-tensioni-internazionali-gravi-4c7123a058a44269",
+    "title": "Mattarella all'Aquila: gravi tensioni internazionali e rischio di conflitto",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Elena Russo",
+    "published_at": "2026-03-28T12:37:17.204847+00:00",
+    "image_type": "flickr",
+    "image_url": "https://live.staticflickr.com/65535/55173520738_6181e453ef_b.jpg",
+    "occhiello": "MAIUSCOLO, max 10 parole: MATTARELLA LANCIA RICHIAMO SEVERO ALLA RESA",
+    "lead_preview": "Il presidente Sergio Mattarella ha parlato di \"gravi tensioni internazionali\" e ha lanciato un \"richiamo severo alla res",
+    "tags": [
+      "mattarella",
+      "conflitto internazionale"
+    ]
+  },
+  {
     "id": "6dadba25847c6ac3",
     "slug": "il-papa-americano-scuote-le-potenze-mondiali-a-mon-6dadba25847c6ac3",
     "title": "Léon XIV, il Papa americano, a Monaco: appello per la pace",
@@ -1994,22 +2011,6 @@
       "monte dei paschi",
       "guida mps",
       "lovaglio mps"
-    ]
-  },
-  {
-    "id": "4c7123a058a44269",
-    "slug": "mattarella-tensioni-internazionali-gravi-4c7123a058a44269",
-    "title": "Mattarella: tensioni internazionali gravi",
-    "section": "politica",
-    "priority": 6,
-    "journalist_firma": "Sergio Mancini",
-    "published_at": "2026-03-28T12:37:17.204847+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/33946661/pexels-photo-33946661.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "Mattarella lancia un richiamo alla responsabilità",
-    "lead_preview": "Il presidente Sergio Mattarella ha parlato di \"gravi tensioni internazionali\" e ha lanciato un \"richiamo severo alla res",
-    "tags": [
-      "tensioni internazionali"
     ]
   },
   {
