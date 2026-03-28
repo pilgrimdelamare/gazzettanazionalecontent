@@ -1,0 +1,51 @@
+{
+  "id": "b02737a0ab292fe4",
+  "slug": "fondi-scomparsi-dopo-il-voto-b02737a0ab292fe4",
+  "title": "FONDI SCOMPARSI DOPO IL VOTO",
+  "titles": [
+    "FONDI SCOMPARSI DOPO IL VOTO",
+    "FONDI SCOMPARSI DOPO IL VOTO",
+    "FONDI SCOMPARSI DOPO IL VOTO"
+  ],
+  "title_winner": null,
+  "section": "politica",
+  "occhiello": "FONDI SCOMPARSI DOPO IL VOTO",
+  "lead": "Daniela Santanchè, l'ex ministra del Turismo, ha pubblicato un videomessaggio dopo le sue dimissioni, in cui ringrazia la squadra del Ministero del Turismo che ha lavorato al suo fianco per valorizzare il settore. Il messaggio è stato pubblicato il 28 marzo 2026.",
+  "corpo1": "Il videomessaggio di Santanchè è stato pubblicato su un social network e si è diffuso velocemente, ricevendo molte attenzioni da parte della stampa e dei politici. In esso, l'ex ministra ringrazia la squadra del Ministero del Turismo per il loro lavoro e li definisce \"squadra\" affermando che \"la vita è lunga, bisogna sempre ricordarsi di essere una squadra\". Il messaggio è stato accolto con entusiasmo da parte di molti, ma anche con critiche da parte di coloro che ritengono che la decisione di Santanchè di dimettersi sia stata troppo rapida. Secondo ANSA, Santanchè ha dichiarato che \"il merito dei successi di questi tre anni e mezzo è più vostro che mio\". Il Ministero del Turismo ha rilasciato un comunicato in cui si esprime soddisfazione per l'apporto di Santanchè e si augura che il settore continui a crescere. Il comunicato non contiene alcun riferimento alle critiche ricevute dalla decisione di Santanchè di dimettersi.",
+  "corpo2": "Daniela Santanchè è stata ministra del Turismo dal 2022 e ha guidato il Ministero in un momento di grande crescita per il settore. Prima di entrare in politica, Santanchè ha lavorato come consulente per aziende del settore turistico. La sua esperienza e la sua conoscenza del settore sono state fondamentali per la crescita del Ministero e per la valorizzazione del settore. Tuttavia, la sua decisione di dimettersi dopo solo tre anni e mezzo di mandato ha suscitato critiche da parte di molti, che ritengono che la sua dimissione sia stata troppo rapida e che abbia lasciato il Ministero in una situazione di incertezza. La questione è: cosa significa questo per il futuro del settore turistico in Italia?",
+  "journalist": {
+    "id": "chiara_esposito_01",
+    "firma": "Chiara Esposito",
+    "sezione": "cronaca"
+  },
+  "published_at": "2026-03-28T11:38:35.990542+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/34111042/pexels-photo-34111042.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Henry Acevedo",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"FONDI SCOMPARSI DOPO IL VOTO\",\n  \"description\": \"Daniela Santanchè, l'ex ministra del Turismo, ha pubblicato un videomessaggio dopo le sue dimissioni, in cui ringrazia la squadra del Ministero del Turismo che ha lavorato al suo fianco per valorizzare il settore. Il messaggio è stato pubblicato il 28 marzo 2026.\",\n  \"articleBody\": \"Daniela Santanchè, l'ex ministra del Turismo, ha pubblicato un videomessaggio dopo le sue dimissioni, in cui ringrazia la squadra del Ministero del Turismo che ha lavorato al suo fianco per valorizzare il settore. Il messaggio è stato pubblicato il 28 marzo 2026. Il videomessaggio di Santanchè è stato pubblicato su un social network e si è diffuso velocemente, ricevendo molte attenzioni da parte della stampa e dei politici. In esso, l'ex ministra ringrazia la squadra del Ministero del Turismo per il loro lavoro e li definisce \\\"squadra\\\" affermando che \\\"la vita è lunga, bisogna sempre ricordarsi di essere una squadra\\\". Il messaggio è stato accolto con entusiasmo da parte di molti, ma anche con critiche da parte di coloro che ritengono che la decisione di Santanchè di dimettersi sia stata troppo rapida. Secondo ANSA, Santanchè ha dichiarato che \\\"il merito dei successi di questi tre anni e mezzo è più vostro che mio\\\". Il Ministero del Turismo ha rilasciato un comunicato in cui si esprime soddisfazione per l'apporto di Santanchè e si augura che il settore continui a crescere. Il comunicato non contiene alcun riferimento alle critiche ricevute dalla decisione di Santanchè di dimettersi. Daniela Santanchè è stata ministra del Turismo dal 2022 e ha guidato il Ministero in un momento di grande crescita per il settore. Prima di entrare in politica, Santanchè ha lavorato come consulente per aziende del settore turistico. La sua esperienza e la sua conoscenza del settore sono state fondamentali per la crescita del Ministero e per la valorizzazione del settore. Tuttavia, la sua decisione di dimettersi dopo solo tre anni e mezzo di mandato ha suscitato critiche da parte di molti, che ritengono che la sua dimissione sia stata troppo rapida e che abbia lasciato il Ministero in una situazione di incertezza. La questione è: cosa significa questo per il futuro del settore turistico in Italia?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Chiara Esposito\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T11:38:35.990542+00:00\",\n  \"dateModified\": \"2026-03-28T11:38:35.990542+00:00\",\n  \"url\": \"https://gazzettanazionale.it/cronaca/b02737a0ab292fe4\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/cronaca/b02737a0ab292fe4\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/34111042/pexels-photo-34111042.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Henry Acevedo\"\n  }\n}",
+  "priority": 6,
+  "source": "Il Fatto Quotidiano",
+  "source_type": "competitor",
+  "original_url": "https://www.ilfattoquotidiano.it/2026/03/28/santanche-dimissioni-videomessaggio-ringraziamenti-news/8338428/",
+  "related": [
+    {
+      "title": "Parma, 22enne ucciso: fidanzata arrestata per omicidio",
+      "url": "/cronaca/parma-22enne-ucciso-fidanzata-arrestata-per-omicid-b80c95d40f28484c",
+      "id": "b80c95d40f28484c"
+    },
+    {
+      "title": "Antonelli si conferma in pole position in Giappone",
+      "url": "/cronaca/antonelli-in-pole-anche-in-giappone-leclerc-2ª-fil-3b909d17b312ccc3",
+      "id": "3b909d17b312ccc3"
+    },
+    {
+      "title": "29enne violentata nella tomba: Pamela Rizzo trovata morta a Strozza",
+      "url": "/cronaca/pamela-29-anni-profanata-a-strozza-538225d928ba15ee",
+      "id": "538225d928ba15ee"
+    }
+  ]
+}
