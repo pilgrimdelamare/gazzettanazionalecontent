@@ -1,0 +1,51 @@
+{
+  "id": "afb7f80ae433f852",
+  "slug": "centauro-di-46-anni-muore-in-incidente-stradale-afb7f80ae433f852",
+  "title": "Centauro di 46 anni muore in incidente stradale",
+  "titles": [
+    "Centauro di 46 anni muore in incidente stradale",
+    "Novarese: auto investe centauro su moto",
+    "Morto centauro 46enne in scontro auto-moto"
+  ],
+  "title_winner": null,
+  "section": "cronaca",
+  "occhiello": "Morto centauro di 46 anni in incidente Novarese",
+  "lead": "Un centauro di 46 anni è morto sabato 28 marzo 2026 in un incidente stradale nel Novarese, dopo uno scontro tra la sua moto e un'auto. L'incidente è avvenuto in una strada del territorio novarese.",
+  "corpo1": "Secondo quanto riportato dall'ANSA, sabato 28 marzo 2026, un incidente stradale ha coinvolto un centauro di 46 anni e un'auto nel Novarese. Lo scontro è avvenuto in una strada del territorio novarese. Il centauro è morto a causa delle ferite riportate nell'incidente. Sulla vicenda indagano le autorità locali per determinare le cause dell'incidente.",
+  "corpo2": "Questo incidente stradale mortale nel Novarese solleva nuovamente l'attenzione sulla sicurezza stradale nella regione. È importante analizzare le cause dell'incidente e adottare misure per prevenire simili tragedie in futuro. Quali provvedimenti concreti saranno presi dalle autorità locali per migliorare la sicurezza stradale nel Novarese?",
+  "journalist": {
+    "id": "chiara_esposito_01",
+    "firma": "Chiara Esposito",
+    "sezione": "cronaca"
+  },
+  "published_at": "2026-03-28T12:52:44.553226+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/19061841/pexels-photo-19061841.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Kelly",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Centauro di 46 anni muore in incidente stradale\",\n  \"description\": \"Un centauro di 46 anni è morto sabato 28 marzo 2026 in un incidente stradale nel Novarese, dopo uno scontro tra la sua moto e un'auto. L'incidente è avvenuto in una strada del territorio novarese.\",\n  \"articleBody\": \"Un centauro di 46 anni è morto sabato 28 marzo 2026 in un incidente stradale nel Novarese, dopo uno scontro tra la sua moto e un'auto. L'incidente è avvenuto in una strada del territorio novarese. Secondo quanto riportato dall'ANSA, sabato 28 marzo 2026, un incidente stradale ha coinvolto un centauro di 46 anni e un'auto nel Novarese. Lo scontro è avvenuto in una strada del territorio novarese. Il centauro è morto a causa delle ferite riportate nell'incidente. Sulla vicenda indagano le autorità locali per determinare le cause dell'incidente. Questo incidente stradale mortale nel Novarese solleva nuovamente l'attenzione sulla sicurezza stradale nella regione. È importante analizzare le cause dell'incidente e adottare misure per prevenire simili tragedie in futuro. Quali provvedimenti concreti saranno presi dalle autorità locali per migliorare la sicurezza stradale nel Novarese?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Chiara Esposito\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T12:52:44.553226+00:00\",\n  \"dateModified\": \"2026-03-28T12:52:44.553226+00:00\",\n  \"url\": \"https://gazzettanazionale.it/cronaca/afb7f80ae433f852\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/cronaca/afb7f80ae433f852\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/19061841/pexels-photo-19061841.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Kelly\"\n  }\n}",
+  "priority": 6,
+  "source": "ANSA Cronaca",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/cronaca/2026/03/28/scontro-auto-moto-nel-novarese-morto-centauro-di-46-anni_bbcf1074-8d76-437d-a4cd-1627b609babd.html",
+  "related": [
+    {
+      "title": "The Voice Generations: 3,4 milioni di telespettatori",
+      "url": "/cronaca/the-voice-generations-34-milioni-di-telespettatori-9eda4361f1e40af7",
+      "id": "9eda4361f1e40af7"
+    },
+    {
+      "title": "FEMMINICIDIO E BUGIE: LA DONNA ARRESTATA",
+      "url": "/cronaca/femminicidio-e-bugie-la-donna-arrestata-4a06aa7858d380da",
+      "id": "4a06aa7858d380da"
+    },
+    {
+      "title": "Verona adotta misura restrittiva per Cortile di Giulietta dal 1° aprile",
+      "url": "/cronaca/verona-adotta-misura-restrittiva-per-cortile-di-gi-1c6d506c143c7ee6",
+      "id": "1c6d506c143c7ee6"
+    }
+  ]
+}
