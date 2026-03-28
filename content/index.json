@@ -1,5 +1,22 @@
 [
   {
+    "id": "76b16783b556f360",
+    "slug": "thailandia-e-iran-intesa-sullo-stretto-di-hormuz-76b16783b556f360",
+    "title": "Thailandia e Iran insieme per sicurezza Stretto Hormuz",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-03-28T05:23:15.715058+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/34686210/pexels-photo-34686210.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "THAILANDIA E IRAN, INTESA SULLO STRETTO DI HORMUZ",
+    "lead_preview": "Anutin Charnvirakul, sabato 28 marzo 2026. Il premier thailandese ha annunciato un accordo con l'Iran per lo Stretto di ",
+    "tags": [
+      "thailandia iran",
+      "stretto hormuz"
+    ]
+  },
+  {
     "id": "d802a706da0a1d7c",
     "slug": "moodys-taglia-pil-italia-2026-a-07-linflazione-acc-d802a706da0a1d7c",
     "title": "Moody's taglia il Pil italiano al +0,7% nel 2026",
@@ -575,24 +592,6 @@
       "aggressioni scolastiche",
       "violenza giovanile",
       "bullismo scolastico"
-    ]
-  },
-  {
-    "id": "76b16783b556f360",
-    "slug": "thailandia-e-iran-intesa-sullo-stretto-di-hormuz-76b16783b556f360",
-    "title": "Thailandia e Iran, intesa sullo Stretto di Hormuz",
-    "section": "esteri",
-    "priority": 8,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-03-28T05:23:15.715058+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/17667969/pexels-photo-17667969.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "THAILANDIA E IRAN, ACCORDO SULLO STRETTO DI HORMUZ",
-    "lead_preview": "Anutin Charnvirakul, sabato 28 marzo 2026. Il premier thailandese ha annunciato un accordo con l'Iran per lo Stretto di ",
-    "tags": [
-      "stretto di hormuz",
-      "iran thailandia",
-      "accordo hormuz"
     ]
   }
 ]
