@@ -1,0 +1,51 @@
+{
+  "id": "e64144fca6fc49a0",
+  "slug": "mocavero-assolto-e64144fca6fc49a0",
+  "title": "Mocavero assolto",
+  "titles": [
+    "Mocavero assolto",
+    "Baggio perde il processo",
+    "5 mesi di reclusione annullati"
+  ],
+  "title_winner": null,
+  "section": "giustizia",
+  "occhiello": "ASSOLUZIONE IN CASSAZIONE PER PAOLO MOCAVERO",
+  "lead": "Paolo Mocavero, leader di Centopercentoanimalisti, è stato assolto in Cassazione dall'accusa di diffamazione nei confronti di Roberto Baggio. La Quinta Sezione della Suprema Corte ha annullato senza rinvio la sentenza di condanna a 5 mesi di reclusione inflitta in Appello, riducendo la pena originaria di 9 mesi.",
+  "corpo1": "La Corte di Cassazione ha accolto il ricorso di Paolo Mocavero, leader del movimento Centopercentoanimalisti, assolvendolo dall'accusa di diffamazione nei confronti dell'ex calciatore Roberto Baggio. I giudici della Quinta Sezione della Suprema Corte hanno deciso di annullare senza rinvio la sentenza di condanna a 5 mesi di reclusione inflitta in secondo grado, che aveva ridotto la pena originaria di 9 mesi inflitta in primo grado. La motivazione dell'assoluzione è che \"il fatto non costituisce reato\". La vicenda giudiziaria risale a quando Mocavero aveva pronunciato dichiarazioni che, secondo la querela di Baggio, erano diffamatorie. La Cassazione ha quindi chiuso definitivamente il caso.",
+  "corpo2": "Paolo Mocavero è noto per le sue posizioni radicali a favore degli animali e contro la sperimentazione e l'allevamento intensivo. Roberto Baggio, d'altra parte, è un ex calciatore molto noto nel panorama sportivo italiano, vincitore tra gli altri del Pallone d'Oro nel 1993. La questione era sorta dalle dichiarazioni di Mocavero, che evidentemente non sono state ritenute sufficienti a configurare il reato di diffamazione. Questa assoluzione pone fine a una vicenda giudiziaria che aveva suscitato interesse per le posizioni pubbliche dei due protagonisti. Ora, è possibile che Mocavero torni a esporsi con dichiarazioni forti sul suo movimento?",
+  "journalist": {
+    "id": "carlo_amato_01",
+    "firma": "Carlo Amato",
+    "sezione": "giustizia"
+  },
+  "published_at": "2026-03-28T12:08:44.603562+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/15913630/pexels-photo-15913630.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Furkan Elveren",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Mocavero assolto\",\n  \"description\": \"Paolo Mocavero, leader di Centopercentoanimalisti, è stato assolto in Cassazione dall'accusa di diffamazione nei confronti di Roberto Baggio. La Quinta Sezione della Suprema Corte ha annullato senza rinvio la sentenza di condanna a 5 mesi di reclusione inflitta in Appello, riducendo la pena originar\",\n  \"articleBody\": \"Paolo Mocavero, leader di Centopercentoanimalisti, è stato assolto in Cassazione dall'accusa di diffamazione nei confronti di Roberto Baggio. La Quinta Sezione della Suprema Corte ha annullato senza rinvio la sentenza di condanna a 5 mesi di reclusione inflitta in Appello, riducendo la pena originaria di 9 mesi. La Corte di Cassazione ha accolto il ricorso di Paolo Mocavero, leader del movimento Centopercentoanimalisti, assolvendolo dall'accusa di diffamazione nei confronti dell'ex calciatore Roberto Baggio. I giudici della Quinta Sezione della Suprema Corte hanno deciso di annullare senza rinvio la sentenza di condanna a 5 mesi di reclusione inflitta in secondo grado, che aveva ridotto la pena originaria di 9 mesi inflitta in primo grado. La motivazione dell'assoluzione è che \\\"il fatto non costituisce reato\\\". La vicenda giudiziaria risale a quando Mocavero aveva pronunciato dichiarazioni che, secondo la querela di Baggio, erano diffamatorie. La Cassazione ha quindi chiuso definitivamente il caso. Paolo Mocavero è noto per le sue posizioni radicali a favore degli animali e contro la sperimentazione e l'allevamento intensivo. Roberto Baggio, d'altra parte, è un ex calciatore molto noto nel panorama sportivo italiano, vincitore tra gli altri del Pallone d'Oro nel 1993. La questione era sorta dalle dichiarazioni di Mocavero, che evidentemente non sono state ritenute sufficienti a configurare il reato di diffamazione. Questa assoluzione pone fine a una vicenda giudiziaria che aveva suscitato interesse per le posizioni pubbliche dei due protagonisti. Ora, è possibile che Mocavero torni a esporsi con dichiarazioni forti sul suo movimento?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Carlo Amato\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T12:08:44.603562+00:00\",\n  \"dateModified\": \"2026-03-28T12:08:44.603562+00:00\",\n  \"url\": \"https://gazzettanazionale.it/giustizia/e64144fca6fc49a0\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/giustizia/e64144fca6fc49a0\"\n  },\n  \"articleSection\": \"Giustizia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/15913630/pexels-photo-15913630.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Furkan Elveren\"\n  }\n}",
+  "priority": 10,
+  "source": "Il Fatto Quotidiano",
+  "source_type": "competitor",
+  "original_url": "https://www.ilfattoquotidiano.it/2026/03/28/baggio-diffamazione-cassazione-assoluzione-animalista/8338465/",
+  "related": [
+    {
+      "title": "Professoressa accoltellata a colpi di coltello a Rosarno, inizia inchiesta penal",
+      "url": "/giustizia/professoressa-accoltellata-a-colpi-di-coltello-a-r-04daf1a08113ebdc",
+      "id": "04daf1a08113ebdc"
+    },
+    {
+      "title": "Ergastolo per ex-fumettista accusato di uccidere Diabolik",
+      "url": "/giustizia/ergastolo-per-raul-esteban-calderon-lassassino-di-7eef370936229ed3",
+      "id": "7eef370936229ed3"
+    },
+    {
+      "title": "Gli escavatori si fermano a 2.600 metri di quota",
+      "url": "/giustizia/stop-al-progetto-neve-a-2600m-lago-bianco-protetto-a32d8b60c3165090",
+      "id": "a32d8b60c3165090"
+    }
+  ]
+}
