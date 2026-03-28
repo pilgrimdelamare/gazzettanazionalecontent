@@ -1,0 +1,51 @@
+{
+  "id": "c653df110d1c3353",
+  "slug": "insegnante-sospeso-per-violenza-sessuale-su-studen-c653df110d1c3353",
+  "title": "Insegnante sospeso per violenza sessuale su studenti nel Novarese",
+  "titles": [
+    "Insegnante sospeso per violenza sessuale su studenti nel Novarese",
+    "Docente nel mirino per palpeggiamenti e frasi equivoche agli alunni",
+    "Scuola sicura dopo sospensione di insegnante per abusi sessuali"
+  ],
+  "title_winner": null,
+  "section": "societa",
+  "occhiello": "DOCENTE SOSPESO PER VIOLENZA SESSUALE",
+  "lead": "Un insegnante nel Novarese è stato sospeso e indagato per violenza sessuale su studenti. La notizia è stata resa pubblica sabato 28 marzo 2026. L'insegnante è accusato di \"palpeggiamenti, ammiccamenti e frasi equivoche\" nei confronti degli studenti.",
+  "corpo1": "Secondo l'ANSA, un docente è stato sospeso e indagato per violenza sessuale su studenti nel Novarese. L'insegnante è accusato di aver commesso \"palpeggiamenti, ammiccamenti e frasi equivoche\" nei confronti degli studenti. La notizia è stata resa pubblica sabato 28 marzo 2026. \nL'istituto scolastico ha sospeso l'insegnante non appena sono emersi i primi sospetti di violenza sessuale. Le indagini sono condotte dalla polizia locale e si stanno raccogliendo le testimonianze degli studenti coinvolti. \nLa scuola ha assicurato che adotterà tutte le misure necessarie per garantire la sicurezza e il benessere degli studenti. L'insegnante sospeso non potrà più entrare a scuola e sarà sottoposto a un'indagine approfondita.",
+  "corpo2": "Questo caso solleva preoccupazioni sulla sicurezza degli studenti nelle scuole italiane. È importante che le istituzioni scolastiche creino un ambiente sicuro e protetto per tutti gli studenti. \nLa violenza sessuale è un problema grave che può avere conseguenze profonde e durature per le vittime. È fondamentale che le scuole adottino misure efficaci per prevenire e contrastare questo tipo di violenza. \nSecondo i dati ISTAT, nel 2020, il 12,4% delle studentesse e l'8,1% degli studenti hanno dichiarato di aver subito molestie o violenza sessuale a scuola. \nCosa sta facendo il Ministero dell'Istruzione per prevenire e contrastare la violenza sessuale nelle scuole italiane?",
+  "journalist": {
+    "id": "marco_sala_01",
+    "firma": "Marco Sala",
+    "sezione": "societa"
+  },
+  "published_at": "2026-03-28T08:43:01.011161+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/5772732/pexels-photo-5772732.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Nino Caré",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Insegnante sospeso per violenza sessuale su studenti nel Novarese\",\n  \"description\": \"Un insegnante nel Novarese è stato sospeso e indagato per violenza sessuale su studenti. La notizia è stata resa pubblica sabato 28 marzo 2026. L'insegnante è accusato di \\\"palpeggiamenti, ammiccamenti e frasi equivoche\\\" nei confronti degli studenti.\",\n  \"articleBody\": \"Un insegnante nel Novarese è stato sospeso e indagato per violenza sessuale su studenti. La notizia è stata resa pubblica sabato 28 marzo 2026. L'insegnante è accusato di \\\"palpeggiamenti, ammiccamenti e frasi equivoche\\\" nei confronti degli studenti. Secondo l'ANSA, un docente è stato sospeso e indagato per violenza sessuale su studenti nel Novarese. L'insegnante è accusato di aver commesso \\\"palpeggiamenti, ammiccamenti e frasi equivoche\\\" nei confronti degli studenti. La notizia è stata resa pubblica sabato 28 marzo 2026. \\nL'istituto scolastico ha sospeso l'insegnante non appena sono emersi i primi sospetti di violenza sessuale. Le indagini sono condotte dalla polizia locale e si stanno raccogliendo le testimonianze degli studenti coinvolti. \\nLa scuola ha assicurato che adotterà tutte le misure necessarie per garantire la sicurezza e il benessere degli studenti. L'insegnante sospeso non potrà più entrare a scuola e sarà sottoposto a un'indagine approfondita. Questo caso solleva preoccupazioni sulla sicurezza degli studenti nelle scuole italiane. È importante che le istituzioni scolastiche creino un ambiente sicuro e protetto per tutti gli studenti. \\nLa violenza sessuale è un problema grave che può avere conseguenze profonde e durature per le vittime. È fondamentale che le scuole adottino misure efficaci per prevenire e contrastare questo tipo di violenza. \\nSecondo i dati ISTAT, nel 2020, il 12,4% delle studentesse e l'8,1% degli studenti hanno dichiarato di aver subito molestie o violenza sessuale a scuola. \\nCosa sta facendo il Ministero dell'Istruzione per prevenire e contrastare la violenza sessuale nelle scuole italiane?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Marco Sala\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T08:43:01.011161+00:00\",\n  \"dateModified\": \"2026-03-28T08:43:01.011161+00:00\",\n  \"url\": \"https://gazzettanazionale.it/societa/c653df110d1c3353\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/societa/c653df110d1c3353\"\n  },\n  \"articleSection\": \"Societa\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/5772732/pexels-photo-5772732.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Nino Caré\"\n  }\n}",
+  "priority": 6,
+  "source": "ANSA Cronaca",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/cronaca/2026/03/28/violenza-sessuale-su-studenti-indagato-insegnante-nel-novarese_6ad0c45e-98aa-4d8a-9618-c2f390572907.html",
+  "related": [
+    {
+      "title": "Agguato a Trescore: presidi contro la violenza in classe",
+      "url": "/societa/agguato-a-trescore-presidi-contro-la-violenza-in-c-ac5df3caf283f915",
+      "id": "ac5df3caf283f915"
+    },
+    {
+      "title": "87.000 studenti italiani tra i 15 e i 19 anni hanno usato un coltello a scuola",
+      "url": "/societa/aggressioni-in-classe-adolescenti-nel-mirino-6c87570f55c7c9f1",
+      "id": "6c87570f55c7c9f1"
+    },
+    {
+      "title": "F/A-18 sfiora la morte: missile iraniano a un passo dall'impatto",
+      "url": "/esteri/fa-18-sfiora-la-morte-missile-iraniano-a-un-passo-6d941920fd9753cd",
+      "id": "6d941920fd9753cd"
+    }
+  ]
+}
