@@ -1,0 +1,51 @@
+{
+  "id": "b11e9b3f1dcebe64",
+  "slug": "houthi-lanciano-missile-su-tel-aviv-b11e9b3f1dcebe64",
+  "title": "Houthi lanciano missile su Tel Aviv",
+  "titles": [
+    "Houthi lanciano missile su Tel Aviv",
+    "Yemen: attacco ipersonico a Israele",
+    "Iran sponsorizza attacco a Ben Gurion"
+  ],
+  "title_winner": null,
+  "section": "esteri",
+  "occhiello": "HOUTHI YEMEN RIVENDICANO ATTACCO A ISRAELE",
+  "lead": "Gli Houthi dello Yemen, sostenuti dall'Iran, hanno rivendicato il loro primo attacco contro Israele dall'inizio della guerra, lanciando un missile balistico ipersonico contro l'aeroporto Ben Gurion di Tel Aviv, nella notte tra il 27 e il 28 marzo 2026.",
+  "corpo1": "Il gruppo yemenita filo-iraniano Ansar Allah, meglio noto come Houthi, ha rivendicato l'attacco contro lo Stato ebraico con un missile balistico ipersonico sull'aeroporto Ben Gurion di Tel Aviv. L'attacco è avvenuto nella notte tra il 27 e il 28 marzo 2026. Gli Houthi avevano già lanciato missili contro siti militari in passato, ma questa volta hanno rivendicato l'attacco in modo esplicito. Il gruppo ribelle è sostenuto dall'Iran e ha giurato di riprendere ad attaccare Israele in risposta alle azioni dello Stato ebraico nella regione.",
+  "corpo2": "Gli Houthi sono un gruppo ribelle che controlla gran parte dello Yemen e ha un'influenza significativa nella regione. La loro capacità di lanciare missili balistici ipersonici contro Israele solleva preoccupazioni sulla sicurezza dello Stato ebraico e sulla stabilità della regione. L'attacco è anche un segnale della crescente influenza iraniana nella regione e della sua capacità di supportare gruppi ribelli. Cosa significa questo attacco per la sicurezza di Israele e per la stabilità della regione? Quali saranno le conseguenze per gli abitanti dello Yemen e per la popolazione civile nella regione?",
+  "journalist": {
+    "id": "fabrizio_mei_01",
+    "firma": "Fabrizio Mei",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-03-28T07:57:36.683409+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/9485662/pexels-photo-9485662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Brett Jordan",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Houthi lanciano missile su Tel Aviv\",\n  \"description\": \"Gli Houthi dello Yemen, sostenuti dall'Iran, hanno rivendicato il loro primo attacco contro Israele dall'inizio della guerra, lanciando un missile balistico ipersonico contro l'aeroporto Ben Gurion di Tel Aviv, nella notte tra il 27 e il 28 marzo 2026.\",\n  \"articleBody\": \"Gli Houthi dello Yemen, sostenuti dall'Iran, hanno rivendicato il loro primo attacco contro Israele dall'inizio della guerra, lanciando un missile balistico ipersonico contro l'aeroporto Ben Gurion di Tel Aviv, nella notte tra il 27 e il 28 marzo 2026. Il gruppo yemenita filo-iraniano Ansar Allah, meglio noto come Houthi, ha rivendicato l'attacco contro lo Stato ebraico con un missile balistico ipersonico sull'aeroporto Ben Gurion di Tel Aviv. L'attacco è avvenuto nella notte tra il 27 e il 28 marzo 2026. Gli Houthi avevano già lanciato missili contro siti militari in passato, ma questa volta hanno rivendicato l'attacco in modo esplicito. Il gruppo ribelle è sostenuto dall'Iran e ha giurato di riprendere ad attaccare Israele in risposta alle azioni dello Stato ebraico nella regione. Gli Houthi sono un gruppo ribelle che controlla gran parte dello Yemen e ha un'influenza significativa nella regione. La loro capacità di lanciare missili balistici ipersonici contro Israele solleva preoccupazioni sulla sicurezza dello Stato ebraico e sulla stabilità della regione. L'attacco è anche un segnale della crescente influenza iraniana nella regione e della sua capacità di supportare gruppi ribelli. Cosa significa questo attacco per la sicurezza di Israele e per la stabilità della regione? Quali saranno le conseguenze per gli abitanti dello Yemen e per la popolazione civile nella regione?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Fabrizio Mei\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T07:57:36.683409+00:00\",\n  \"dateModified\": \"2026-03-28T07:57:36.683409+00:00\",\n  \"url\": \"https://gazzettanazionale.it/esteri/b11e9b3f1dcebe64\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/esteri/b11e9b3f1dcebe64\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/9485662/pexels-photo-9485662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Brett Jordan\"\n  }\n}",
+  "priority": 8,
+  "source": "ANSA Esteri",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/03/28/gli-houthi-dello-yemen-rivendicano-il-primo-attacco-contro-israele_5552ece0-093a-4140-866f-aba63be3926a.html",
+  "related": [
+    {
+      "title": "12 soldati Usa feriti in Arabia Saudita, missile iraniano nella base aerea",
+      "url": "/esteri/12-soldati-usa-feriti-in-arabia-saudita-missile-ir-3bd6c19d3e2d355f",
+      "id": "3bd6c19d3e2d355f"
+    },
+    {
+      "title": "Gli USA lanciano raid su siti nucleari iraniani",
+      "url": "/esteri/gli-usa-lanciano-raid-su-siti-nucleari-iraniani-te-7e352f4ba2af314c",
+      "id": "7e352f4ba2af314c"
+    },
+    {
+      "title": "Rubio: Usa pronti a colpire l'Iran senza truppe di terra",
+      "url": "/esteri/rubio-usa-pronti-a-colpire-liran-senza-truppe-di-t-05c195fe875bed43",
+      "id": "05c195fe875bed43"
+    }
+  ]
+}
