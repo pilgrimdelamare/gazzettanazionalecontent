@@ -1,5 +1,22 @@
 [
   {
+    "id": "d802a706da0a1d7c",
+    "slug": "moodys-taglia-pil-italia-2026-a-07-linflazione-acc-d802a706da0a1d7c",
+    "title": "Moody's taglia il Pil italiano al +0,7% nel 2026",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-03-28T05:23:15.676678+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/34845794/pexels-photo-34845794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "Moody's taglia Pil Italia 2026 a +0,7%",
+    "lead_preview": "Moody's, il 28 marzo 2026, ha limato il pil dell'Italia nel 2026 a +0,7%, mentre l'inflazione accelera e la crescita nel",
+    "tags": [
+      "pil italia",
+      "manovra 2026"
+    ]
+  },
+  {
     "id": "0c1f2581a9dc0ffb",
     "slug": "iran-piano-di-guerra-paesi-del-golfo-in-allarme-pe-0c1f2581a9dc0ffb",
     "title": "L'Iran presenta il piano di guerra: più militari nel Golfo",
@@ -576,23 +593,6 @@
       "stretto di hormuz",
       "iran thailandia",
       "accordo hormuz"
-    ]
-  },
-  {
-    "id": "d802a706da0a1d7c",
-    "slug": "moodys-taglia-pil-italia-2026-a-07-linflazione-acc-d802a706da0a1d7c",
-    "title": "Moody's taglia Pil Italia 2026 a +0,7%, l'inflazione accelera",
-    "section": "economia",
-    "priority": 8,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-03-28T05:23:15.676678+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/34845794/pexels-photo-34845794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "PIl ITALIA AL 0,7%",
-    "lead_preview": "moody’s, il 28 marzo 2026, ha limato il pil dell’italia nel 2026 a +0,7%, mentre l'inflazione accelera e la crescita nel",
-    "tags": [
-      "pil italia 2026",
-      "moody's"
     ]
   }
 ]
