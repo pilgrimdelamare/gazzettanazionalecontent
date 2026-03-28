@@ -1,5 +1,21 @@
 [
   {
+    "id": "e64144fca6fc49a0",
+    "slug": "mocavero-assolto-e64144fca6fc49a0",
+    "title": "Mocavero assolto in Cassazione per diffamazione",
+    "section": "giustizia",
+    "priority": 5,
+    "journalist_firma": "Silvia Greco",
+    "published_at": "2026-03-28T12:08:44.603562+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/18660972/pexels-photo-18660972.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "PAOLO MOCAVERO ASSOLTO IN CASSAZIONE",
+    "lead_preview": "Paolo Mocavero, leader di Centopercentoanimalisti, è stato assolto in Cassazione dall'accusa di diffamazione nei confron",
+    "tags": [
+      "caso mocavero"
+    ]
+  },
+  {
     "id": "447619e1b84d251d",
     "slug": "2-sudanesi-accusati-22-morti-in-mare-447619e1b84d251d",
     "title": "2 sudanesi accusati: 22 morti in mare",
@@ -2570,22 +2586,6 @@
     "tags": [
       "referendum 2026",
       "meloni"
-    ]
-  },
-  {
-    "id": "e64144fca6fc49a0",
-    "slug": "mocavero-assolto-e64144fca6fc49a0",
-    "title": "Mocavero assolto",
-    "section": "giustizia",
-    "priority": 10,
-    "journalist_firma": "Carlo Amato",
-    "published_at": "2026-03-28T12:08:44.603562+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/15913630/pexels-photo-15913630.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "ASSOLUZIONE IN CASSAZIONE PER PAOLO MOCAVERO",
-    "lead_preview": "Paolo Mocavero, leader di Centopercentoanimalisti, è stato assolto in Cassazione dall'accusa di diffamazione nei confron",
-    "tags": [
-      "caso mocavero"
     ]
   },
   {
