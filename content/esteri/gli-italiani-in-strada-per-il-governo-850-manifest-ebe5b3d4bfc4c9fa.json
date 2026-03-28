@@ -1,0 +1,51 @@
+{
+  "id": "ebe5b3d4bfc4c9fa",
+  "slug": "gli-italiani-in-strada-per-il-governo-850-manifest-ebe5b3d4bfc4c9fa",
+  "title": "Gli italiani in strada per il governo, 850 manifestazioni e 1.400 arresti",
+  "titles": [
+    "Gli italiani in strada per il governo, 850 manifestazioni e 1.400 arresti",
+    "La pietà dei genitori delle vittime dell'istituto Shajareh",
+    "850 manifestazioni e 1.400 arresti, la risposta del popolo italiano al governo"
+  ],
+  "title_winner": null,
+  "section": "esteri",
+  "occhiello": "IRAN: MASSICCI PROTESTI ORGANIZZATI DAL REGIME",
+  "lead": "Gli organismi di intelligence rilevano più di 850 manifestazioni di sostegno al governo, con almeno 1.400 arresti. La protesta più famosa è stata quella dopo l'attentato all'istituto Shajareh di Minab, in cui sono morte cinque bambine. Secondo fonti occidentali, i genitori delle vittime hanno descritto il giorno della tragedia come il loro peggior giorno.",
+  "corpo1": "più di 850 manifestazioni di sostegno, con almeno 1.400 arresti. La protesta più famosa è stata quella dopo l'attentato all'istituto Shajareh di Minab, in cui sono morte cinque bambine. Secondo fonti occidentali, i genitori delle vittime hanno descritto il giorno della tragedia come il loro peggior giorno. \"Il bazar di Mandawi apre alle sette, i venditori di spezie sono già al loro posto, così i cambiavalute e i sarti. La città funziona, in un certo senso:",
+  "corpo2": "c'è traffico, ci sono negozi aperti, ci sono bambini che vanno a scuola — i bambini maschi, almeno\", scrive Anna Colombo, corrispondente estera per La Gazzetta Nazionale, riferendosi al contesto in cui si sono verificate le manifestazioni. \"L'economia è in collasso: il PIL pro capite è sceso del trentasei percento dal 2021. Ma le persone si adattano, come si adattano sempre, con una resilienza che agli osservatori esterni sembra quasi incomprensibile.\" La vera questione è la natura di queste manifestazioni. Secondo gli organismi di intelligence, quasi tutte sono state organizzate dal regime, quindi è difficile dire se rappresentano davvero la voce del popolo o semplicemente un modo per mantenere il controllo. \"Il protest wave in Iran è regime-managed\", concludono gli esperti. Ma cosa significa questo per le persone coinvolte? La risposta è una domanda retorica, ma importante: chi comanda veramente in Iran? E cosa succede quando il regime organizza manifestazioni per mantenere il controllo?",
+  "journalist": {
+    "id": "anna_colombo_01",
+    "firma": "Anna Colombo",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-03-28T11:44:11.362235+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/14403532/pexels-photo-14403532.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Sima Ghaffarzadeh",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Gli italiani in strada per il governo, 850 manifestazioni e 1.400 arresti\",\n  \"description\": \"Gli organismi di intelligence rilevano più di 850 manifestazioni di sostegno al governo, con almeno 1.400 arresti. La protesta più famosa è stata quella dopo l'attentato all'istituto Shajareh di Minab, in cui sono morte cinque bambine. Secondo fonti occidentali, i genitori delle vittime hanno descri\",\n  \"articleBody\": \"Gli organismi di intelligence rilevano più di 850 manifestazioni di sostegno al governo, con almeno 1.400 arresti. La protesta più famosa è stata quella dopo l'attentato all'istituto Shajareh di Minab, in cui sono morte cinque bambine. Secondo fonti occidentali, i genitori delle vittime hanno descritto il giorno della tragedia come il loro peggior giorno. più di 850 manifestazioni di sostegno, con almeno 1.400 arresti. La protesta più famosa è stata quella dopo l'attentato all'istituto Shajareh di Minab, in cui sono morte cinque bambine. Secondo fonti occidentali, i genitori delle vittime hanno descritto il giorno della tragedia come il loro peggior giorno. \\\"Il bazar di Mandawi apre alle sette, i venditori di spezie sono già al loro posto, così i cambiavalute e i sarti. La città funziona, in un certo senso: c'è traffico, ci sono negozi aperti, ci sono bambini che vanno a scuola — i bambini maschi, almeno\\\", scrive Anna Colombo, corrispondente estera per La Gazzetta Nazionale, riferendosi al contesto in cui si sono verificate le manifestazioni. \\\"L'economia è in collasso: il PIL pro capite è sceso del trentasei percento dal 2021. Ma le persone si adattano, come si adattano sempre, con una resilienza che agli osservatori esterni sembra quasi incomprensibile.\\\" La vera questione è la natura di queste manifestazioni. Secondo gli organismi di intelligence, quasi tutte sono state organizzate dal regime, quindi è difficile dire se rappresentano davvero la voce del popolo o semplicemente un modo per mantenere il controllo. \\\"Il protest wave in Iran è regime-managed\\\", concludono gli esperti. Ma cosa significa questo per le persone coinvolte? La risposta è una domanda retorica, ma importante: chi comanda veramente in Iran? E cosa succede quando il regime organizza manifestazioni per mantenere il controllo?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T11:44:11.362235+00:00\",\n  \"dateModified\": \"2026-03-28T11:44:11.362235+00:00\",\n  \"url\": \"https://gazzettanazionale.it/esteri/ebe5b3d4bfc4c9fa\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/esteri/ebe5b3d4bfc4c9fa\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/14403532/pexels-photo-14403532.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Sima Ghaffarzadeh\"\n  }\n}",
+  "priority": 4,
+  "source": "The Guardian",
+  "source_type": "esteri",
+  "original_url": "https://www.theguardian.com/world/2026/mar/28/iran-pro-regime-demonstrations-detained-people",
+  "related": [
+    {
+      "title": "9 milioni di italiani in viaggio nonostante crisi",
+      "url": "/esteri/9-milioni-di-italiani-in-viaggio-nonostante-crisi-65c72ef660e2d19e",
+      "id": "65c72ef660e2d19e"
+    },
+    {
+      "title": "Turisti israeliani: auto capovolta su strada in pendenza in Savoia",
+      "url": "/esteri/turisti-israeliani-coinvolti-in-un-incidente-strad-1abe46477567148a",
+      "id": "1abe46477567148a"
+    },
+    {
+      "title": "Blitz a Gioia Tauro: 3 arresti",
+      "url": "/esteri/blitz-a-gioia-tauro-3-arresti-385ce24a09e5c273",
+      "id": "385ce24a09e5c273"
+    }
+  ]
+}
