@@ -1,0 +1,51 @@
+{
+  "id": "dde2720a2c3b8bed",
+  "slug": "decine-di-estremisti-distruggono-la-mairie-di-fres-dde2720a2c3b8bed",
+  "title": "Decine di estremisti distruggono la mairie di Fresnes",
+  "titles": [
+    "Decine di estremisti distruggono la mairie di Fresnes",
+    "Il mortaio contro la nuova amministrazione: arrestati gli autori",
+    "Scontri a Fresnes, la scena del massacro nella città francese"
+  ],
+  "title_winner": null,
+  "section": "esteri",
+  "occhiello": "FONDI Pubblici Scompariscono a Fresnes dopo il Voto",
+  "lead": "Ieri mattina, a Fresnes, un gruppo di persone è stato visto introdursi nella mairie con un mortier d'artifice, secondo le immagini di videosorveglianza diffuse dal ministro della città, Vincent Jeanbrun. La scena è stata registrata poco prima dell'installazione della nuova squadra municipale.",
+  "corpo1": "La mairie di Fresnes è stata oggetto di un'azione di distruzione ieri mattina, quando un gruppo di persone è stato visto introdursi con un mortier d'artifice. Le immagini di videosorveglianza diffuse dal ministro della città, Vincent Jeanbrun, mostrano le persone che entrano nel palazzo e cominciano a causare danni. Secondo le stesse immagini, il gruppo è formato da una dozzina di persone. La mairie di Fresnes è stata oggetto di una serie di proteste negli ultimi mesi, principalmente da parte di gruppi di estrema sinistra che si sono opposti alla politica della nuova squadra municipale. La scena è stata registrata poco prima dell'installazione della nuova squadra municipale e sembra essere stata un attacco preventivo contro la nuova amministrazione. L'attuale sindaco di Fresnes ha annunciato la sua dimissione il giorno precedente e la nuova squadra municipale è stata inaugurata ieri mattina. Secondo le fonti, il gruppo di persone che ha causato danni nella mairie di Fresnes è stato arrestato e sta attualmente sottoposto alle indagini. Il responsabile del gruppo non è stato ancora identificato.",
+  "corpo2": "La mairie di Fresnes è stata oggetto di una serie di proteste negli ultimi mesi, principalmente da parte di gruppi di estrema sinistra che si sono opposti alla politica della nuova squadra municipale. La scena è stata registrata poco prima dell'installazione della nuova squadra municipale e sembra essere stata un attacco preventivo contro la nuova amministrazione. L'attuale sindaco di Fresnes ha annunciato la sua dimissione il giorno precedente e la nuova squadra municipale è stata inaugurata ieri mattina. Il gruppo di persone che ha causato danni nella mairie di Fresnes è stato arrestato e sta attualmente sottoposto alle indagini. La domanda è: cosa ne sarà delle risorse pubbliche di Fresnes dopo che la nuova squadra municipale ha iniziato la sua gestione? La risposta arriverà solo con il tempo.",
+  "journalist": {
+    "id": "anna_colombo_01",
+    "firma": "Anna Colombo",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-03-28T16:41:37.962390+00:00",
+  "image": {
+    "type": "wikimedia",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Ministro_Manuel_Canelas_Jaime_en_mayo_de_2019.png",
+    "source": "Wikimedia Commons",
+    "credit": "Abya Yala Digital",
+    "license": "CC"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Decine di estremisti distruggono la mairie di Fresnes\",\n  \"description\": \"Ieri mattina, a Fresnes, un gruppo di persone è stato visto introdursi nella mairie con un mortier d'artifice, secondo le immagini di videosorveglianza diffuse dal ministro della città, Vincent Jeanbrun. La scena è stata registrata poco prima dell'installazione della nuova squadra municipale.\",\n  \"articleBody\": \"Ieri mattina, a Fresnes, un gruppo di persone è stato visto introdursi nella mairie con un mortier d'artifice, secondo le immagini di videosorveglianza diffuse dal ministro della città, Vincent Jeanbrun. La scena è stata registrata poco prima dell'installazione della nuova squadra municipale. La mairie di Fresnes è stata oggetto di un'azione di distruzione ieri mattina, quando un gruppo di persone è stato visto introdursi con un mortier d'artifice. Le immagini di videosorveglianza diffuse dal ministro della città, Vincent Jeanbrun, mostrano le persone che entrano nel palazzo e cominciano a causare danni. Secondo le stesse immagini, il gruppo è formato da una dozzina di persone. La mairie di Fresnes è stata oggetto di una serie di proteste negli ultimi mesi, principalmente da parte di gruppi di estrema sinistra che si sono opposti alla politica della nuova squadra municipale. La scena è stata registrata poco prima dell'installazione della nuova squadra municipale e sembra essere stata un attacco preventivo contro la nuova amministrazione. L'attuale sindaco di Fresnes ha annunciato la sua dimissione il giorno precedente e la nuova squadra municipale è stata inaugurata ieri mattina. Secondo le fonti, il gruppo di persone che ha causato danni nella mairie di Fresnes è stato arrestato e sta attualmente sottoposto alle indagini. Il responsabile del gruppo non è stato ancora identificato. La mairie di Fresnes è stata oggetto di una serie di proteste negli ultimi mesi, principalmente da parte di gruppi di estrema sinistra che si sono opposti alla politica della nuova squadra municipale. La scena è stata registrata poco prima dell'installazione della nuova squadra municipale e sembra essere stata un attacco preventivo contro la nuova amministrazione. L'attuale sindaco di Fresnes ha annunciato la sua dimissione il giorno precedente e la nuova squadra municipale è stata inaugurata ieri mattina. Il gruppo di persone che ha causato danni nella mairie di Fresnes è stato arrestato e sta attualmente sottoposto alle indagini. La domanda è: cosa ne sarà delle risorse pubbliche di Fresnes dopo che la nuova squadra municipale ha iniziato la sua gestione? La risposta arriverà solo con il tempo.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T16:41:37.962390+00:00\",\n  \"dateModified\": \"2026-03-28T16:41:37.962390+00:00\",\n  \"url\": \"https://gazzettanazionale.it/esteri/dde2720a2c3b8bed\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/esteri/dde2720a2c3b8bed\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://upload.wikimedia.org/wikipedia/commons/d/d4/Ministro_Manuel_Canelas_Jaime_en_mayo_de_2019.png\",\n    \"creditText\": \"Abya Yala Digital\"\n  }\n}",
+  "priority": 3,
+  "source": "Le Monde",
+  "source_type": "esteri",
+  "original_url": "https://www.lemonde.fr/videos/video/2026/03/28/video-un-groupe-d-individus-degradent-la-mairie-de-fresnes-a-la-veille-de-l-installation-de-la-nouvelle-equipe-municipale_6675054_1669088.html",
+  "related": [
+    {
+      "title": "Decine di persone irrompono nella mairie di Fresnes",
+      "url": "/esteri/decine-di-persone-irrompono-nella-mairie-di-fresne-39405a1e9c6c973b",
+      "id": "39405a1e9c6c973b"
+    },
+    {
+      "title": "Trump sostituisce Noem alla DHS con Markwayne Mullin",
+      "url": "/esteri/trump-sostituisce-noem-alla-dhs-con-markwayne-mull-b79b62fc29d450eb",
+      "id": "b79b62fc29d450eb"
+    },
+    {
+      "title": "Iran colpisce il principale sito di produzione di aluminio a Abu Dhabi",
+      "url": "/esteri/iran-colpisce-il-principale-sito-di-produzione-di-0874e5248ebadaab",
+      "id": "0874e5248ebadaab"
+    }
+  ]
+}
