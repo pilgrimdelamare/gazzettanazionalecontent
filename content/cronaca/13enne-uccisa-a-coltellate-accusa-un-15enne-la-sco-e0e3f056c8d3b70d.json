@@ -1,0 +1,51 @@
+{
+  "id": "e0e3f056c8d3b70d",
+  "slug": "13enne-uccisa-a-coltellate-accusa-un-15enne-la-sco-e0e3f056c8d3b70d",
+  "title": "13enne uccisa a coltellate, accusa un 15enne: la scorsa notte",
+  "titles": [
+    "13enne uccisa a coltellate, accusa un 15enne: la scorsa notte",
+    "A 13 anni, un'altra vita spezzata: l'omicidio di Aurora Tila",
+    "L'assalto fatale di un 15enne, 13enne morta a coltellate di notte"
+  ],
+  "title_winner": null,
+  "section": "cronaca",
+  "occhiello": "UN RAGAZZO DI 15 ANNI ACCUSA DI OMICIDIO",
+  "lead": "Aurora Tila, 13 anni, uccisa a coltellate, il ragazzo che la accusa è 15 anni, secondo gli inquirenti. La scorsa notte.",
+  "corpo1": "",
+  "corpo2": "Il ragazzo di 15 anni che ha ucciso la 13enne Aurora Tila non aveva un background di violenza precedente, ma aveva già ricevuto un'ordinanza di protezione per aver minacciato un'altra ragazza online. Secondo ANSA, il ragazzo aveva utilizzato ChatGpt per contattare la vittima e aveva inviato a lei messaggi minacciosi. Il caso ha sollevato preoccupazioni sulla sicurezza online e sulla protezione delle bambine online. Ma cosa possiamo fare per proteggere le nostre bambine online e prevenire casi come questo? Siamo davvero pronti a affrontare le sfide della sicurezza online e a proteggere le nostre bambine?",
+  "journalist": {
+    "id": "roberto_neri_01",
+    "firma": "Roberto Neri",
+    "sezione": "cronaca"
+  },
+  "published_at": "2026-03-28T11:52:27.843994+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/12476889/pexels-photo-12476889.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Serena Koi",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"13enne uccisa a coltellate, accusa un 15enne: la scorsa notte\",\n  \"description\": \"Aurora Tila, 13 anni, uccisa a coltellate, il ragazzo che la accusa è 15 anni, secondo gli inquirenti. La scorsa notte.\",\n  \"articleBody\": \"Aurora Tila, 13 anni, uccisa a coltellate, il ragazzo che la accusa è 15 anni, secondo gli inquirenti. La scorsa notte. Il ragazzo di 15 anni che ha ucciso la 13enne Aurora Tila non aveva un background di violenza precedente, ma aveva già ricevuto un'ordinanza di protezione per aver minacciato un'altra ragazza online. Secondo ANSA, il ragazzo aveva utilizzato ChatGpt per contattare la vittima e aveva inviato a lei messaggi minacciosi. Il caso ha sollevato preoccupazioni sulla sicurezza online e sulla protezione delle bambine online. Ma cosa possiamo fare per proteggere le nostre bambine online e prevenire casi come questo? Siamo davvero pronti a affrontare le sfide della sicurezza online e a proteggere le nostre bambine?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Roberto Neri\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T11:52:27.843994+00:00\",\n  \"dateModified\": \"2026-03-28T11:52:27.843994+00:00\",\n  \"url\": \"https://gazzettanazionale.it/cronaca/e0e3f056c8d3b70d\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/cronaca/e0e3f056c8d3b70d\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/12476889/pexels-photo-12476889.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Serena Koi\"\n  }\n}",
+  "priority": 8,
+  "source": "ANSA Cronaca",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/cronaca/2026/03/28/lomicidio-di-aurora-tila-le-sue-richieste-a-chatgpt-provano-lo-stalking_d2adbdcb-4dd3-4517-92f8-050d154a3ffb.html",
+  "related": [
+    {
+      "title": "Trump sfida Mohammed bin Salman: 'Sii gentile con me'",
+      "url": "/cronaca/trump-sfida-mohammed-bin-salman-sii-gentile-con-me-12c25d244a1de4f4",
+      "id": "12c25d244a1de4f4"
+    },
+    {
+      "title": "Vanessa Scalera lascia Imma Tataranni, la popolare serie Rai",
+      "url": "/cronaca/vanessa-scalera-lascia-imma-tataranni-la-popolare-722ef8184be23458",
+      "id": "722ef8184be23458"
+    },
+    {
+      "title": "22enne in arresto per aggressione a portiere di Università di Sassari",
+      "url": "/cronaca/22enne-in-arresto-per-aggressione-a-portiere-di-un-79dc260d453bb6a6",
+      "id": "79dc260d453bb6a6"
+    }
+  ]
+}
