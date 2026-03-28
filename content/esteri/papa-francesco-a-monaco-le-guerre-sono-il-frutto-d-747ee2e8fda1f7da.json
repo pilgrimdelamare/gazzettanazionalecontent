@@ -1,0 +1,51 @@
+{
+  "id": "747ee2e8fda1f7da",
+  "slug": "papa-francesco-a-monaco-le-guerre-sono-il-frutto-d-747ee2e8fda1f7da",
+  "title": "Papa Francesco a Monaco: 'Le guerre sono il frutto dell'idolatria di potere e de",
+  "titles": [
+    "Papa Francesco a Monaco: 'Le guerre sono il frutto dell'idolatria di potere e de",
+    "Francesco denuncia il sistema: 'Il potere e il denaro valgono più della vita uma",
+    "Monaco: Francesco esorta a cambiare il sistema e a lavorare per la giustizia e l"
+  ],
+  "title_winner": null,
+  "section": "esteri",
+  "occhiello": "PAPA A MONACO SULL'IDOLATRIA",
+  "lead": "Papa Francesco, , ha visitato monaco e ha affermato che le guerre di oggi sono il frutto dell'idolatria di potere e di denaro.",
+  "corpo1": "Papa Francesco ha sottolineato che le ricchezze non dovrebbero essere trattenute e che è necessario lavorare per una maggiore giustizia e uguaglianza. , Papa Francesco ha anche affermato che le guerre di oggi sono il risultato di un sistema che valorizza il potere e il denaro più della vita umana. Papa Francesco ha visitato monaco in un viaggio lampo e ha incontrato le autorità locali. : è necessario cambiare il sistema e lavorare per una maggiore giustizia e uguaglianza. Papa Francesco ha anche affermato che le ricchezze non dovrebbero essere accumulate solo per pochi, ma dovrebbero essere utilizzate per il bene di tutti. il suo messaggio è stato accolto con attenzione dalle autorità locali e dai fedeli presenti.",
+  "corpo2": "Papa Francesco è noto per le sue prese di posizione sulla giustizia sociale e sulla necessità di cambiare il sistema economico attuale. nel passato, ha affermato che il capitalismo ha fallito e che è necessario creare un nuovo sistema che valorizzi la vita umana e l'ambiente. il suo messaggio a monaco non è stato un caso isolato, ma fa parte di una lunga serie di interventi pubblici in cui ha sottolineato la necessità di cambiare il sistema e lavorare per una maggiore giustizia e uguaglianza. : ",
+  "journalist": {
+    "id": "chiara_esposito_01",
+    "firma": "Chiara Esposito",
+    "sezione": "cronaca"
+  },
+  "published_at": "2026-03-28T17:52:30.050389+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/11892309/pexels-photo-11892309.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "SlimMars 13",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Papa Francesco a Monaco: 'Le guerre sono il frutto dell'idolatria di potere e de\",\n  \"description\": \"Papa Francesco, , ha visitato monaco e ha affermato che le guerre di oggi sono il frutto dell'idolatria di potere e di denaro.\",\n  \"articleBody\": \"Papa Francesco, , ha visitato monaco e ha affermato che le guerre di oggi sono il frutto dell'idolatria di potere e di denaro. Papa Francesco ha sottolineato che le ricchezze non dovrebbero essere trattenute e che è necessario lavorare per una maggiore giustizia e uguaglianza. , Papa Francesco ha anche affermato che le guerre di oggi sono il risultato di un sistema che valorizza il potere e il denaro più della vita umana. Papa Francesco ha visitato monaco in un viaggio lampo e ha incontrato le autorità locali. : è necessario cambiare il sistema e lavorare per una maggiore giustizia e uguaglianza. Papa Francesco ha anche affermato che le ricchezze non dovrebbero essere accumulate solo per pochi, ma dovrebbero essere utilizzate per il bene di tutti. il suo messaggio è stato accolto con attenzione dalle autorità locali e dai fedeli presenti. Papa Francesco è noto per le sue prese di posizione sulla giustizia sociale e sulla necessità di cambiare il sistema economico attuale. nel passato, ha affermato che il capitalismo ha fallito e che è necessario creare un nuovo sistema che valorizzi la vita umana e l'ambiente. il suo messaggio a monaco non è stato un caso isolato, ma fa parte di una lunga serie di interventi pubblici in cui ha sottolineato la necessità di cambiare il sistema e lavorare per una maggiore giustizia e uguaglianza. :\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Chiara Esposito\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T17:52:30.050389+00:00\",\n  \"dateModified\": \"2026-03-28T17:52:30.050389+00:00\",\n  \"url\": \"https://gazzettanazionale.it/cronaca/747ee2e8fda1f7da\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/cronaca/747ee2e8fda1f7da\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/11892309/pexels-photo-11892309.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"SlimMars 13\"\n  }\n}",
+  "priority": 6,
+  "source": "ANSA Cronaca",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/cronaca/2026/03/28/ll-papa-le-guerre-di-oggi-frutto-dellidolatria-di-potere-e-di-danaro_3ea175a9-0f8c-4def-8506-6b4ea22259f1.html",
+  "related": [
+    {
+      "title": "Papa Leone a Monaco: 'La ricchezza deve servire la giustizia'",
+      "url": "/cronaca/papa-leone-a-monaco-la-ricchezza-deve-servire-la-g-9ba2f5c38f2f00dc",
+      "id": "9ba2f5c38f2f00dc"
+    },
+    {
+      "title": "Giuseppe Tango eletto presidente dell'Anm",
+      "url": "/cronaca/giuseppe-tango-eletto-presidente-dellanm-597ba33253af4770",
+      "id": "597ba33253af4770"
+    },
+    {
+      "title": "Benjamin Franklin non è l'inventore dell'ora legale",
+      "url": "/cronaca/willett-non-franklin-padre-dellora-legale-e643a186427ccc0f",
+      "id": "e643a186427ccc0f"
+    }
+  ]
+}
