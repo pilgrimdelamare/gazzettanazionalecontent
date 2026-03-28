@@ -1,0 +1,51 @@
+{
+  "id": "0c1f2581a9dc0ffb",
+  "slug": "iran-piano-di-guerra-paesi-del-golfo-in-allarme-pe-0c1f2581a9dc0ffb",
+  "title": "Iran, piano di guerra: paesi del Golfo in allarme per milizie",
+  "titles": [
+    "Iran, piano di guerra: paesi del Golfo in allarme per milizie",
+    "Trump: escalation con l'Iran, ma Teheran nega i piani",
+    "Golfo sotto attacco: l'Iran finanzia milizie e gruppi armati"
+  ],
+  "title_winner": null,
+  "section": "esteri",
+  "occhiello": "LE DUBBI SULLA RITORNO DI TEHARAN",
+  "lead": "Il piano di guerra di Teheran solleva preoccupazioni tra i paesi del Golfo, che temono un aumento degli attacchi da parte di milizie e gruppi armati finanziati dall'Iran.",
+  "corpo1": "L'Iran, a sua volta, aveva smentito in passato di avere piani per attivare queste cellule, ma ora sembra che i piani siano in corso di attuazione. Le autorità iraniane non hanno ancora commentato ufficialmente la notizia. Il presidente degli Stati Uniti, Donald Trump, aveva annunciato una possibile escalation della guerra con l'Iran, mentre Israele aveva già bombardato siti militari iraniani nel corso della settimana. Secondo The Guardian, i paesi del Golfo hanno già segnalato un aumento degli attacchi da parte di milizie e groupi armati finanziati dall'Iran. La situazione è particolarmente tesa nel sud del Libano, dove i gruppi Hezbollah e Hamas sono stretti alleati dell'Iran. L'Iran, che già affronta una grave",
+  "corpo2": "crisi economica, sembra essere determinato a proseguire la sua politica di espansione nella regione. La guerra con gli Stati Uniti e Israele rischia di aggravare la situazione e di portare a una destabilizzazione della regione. La notizia solleva anche dubbi sulla capacità dei paesi del Golfo di difendersi da possibili attacchi. Il piano di guerra di Teheran è solo un aspetto di una situazione più ampia, in cui l'Iran sembra essere determinato a proseguire la sua politica di espansione nella regione. La guerra con gli Stati Uniti e Israele rischia di aggravare la situazione e di portare a una destabilizzazione della regione. Ecco perché è importante comprendere le cause sottostanti di questa crisi e come possano essere affrontate. Un aspetto importante è la capacità degli Stati Uniti e di Israele di difendersi da possibili attacchi. La guerra con l'Iran ha già causato danni significativi alle economie di entrambi i paesi e rischia di aggravare la situazione. La domanda è: a chi potrebbe essere utile questa escalation di violenza nella regione? E quali saranno le conseguenze per la stabilità globale? Doveva essere una domanda retorica, ma la risposta sembra essere sempre lo stesso: la guerra in Medio Oriente continua a essere una fonte di instabilità e di violenza nella regione. Teheran, Iran | Donald Trump, presidente degli Stati Uniti | soldati iraniani al fronte | bandiera Iran",
+  "journalist": {
+    "id": "anna_colombo_01",
+    "firma": "Anna Colombo",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-03-28T05:23:33.364094+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/8828455/pexels-photo-8828455.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Lara Jameson",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Iran, piano di guerra: paesi del Golfo in allarme per milizie\",\n  \"description\": \"Il piano di guerra di Teheran solleva preoccupazioni tra i paesi del Golfo, che temono un aumento degli attacchi da parte di milizie e gruppi armati finanziati dall'Iran.\",\n  \"articleBody\": \"Il piano di guerra di Teheran solleva preoccupazioni tra i paesi del Golfo, che temono un aumento degli attacchi da parte di milizie e gruppi armati finanziati dall'Iran. L'Iran, a sua volta, aveva smentito in passato di avere piani per attivare queste cellule, ma ora sembra che i piani siano in corso di attuazione. Le autorità iraniane non hanno ancora commentato ufficialmente la notizia. Il presidente degli Stati Uniti, Donald Trump, aveva annunciato una possibile escalation della guerra con l'Iran, mentre Israele aveva già bombardato siti militari iraniani nel corso della settimana. Secondo The Guardian, i paesi del Golfo hanno già segnalato un aumento degli attacchi da parte di milizie e groupi armati finanziati dall'Iran. La situazione è particolarmente tesa nel sud del Libano, dove i gruppi Hezbollah e Hamas sono stretti alleati dell'Iran. L'Iran, che già affronta una grave crisi economica, sembra essere determinato a proseguire la sua politica di espansione nella regione. La guerra con gli Stati Uniti e Israele rischia di aggravare la situazione e di portare a una destabilizzazione della regione. La notizia solleva anche dubbi sulla capacità dei paesi del Golfo di difendersi da possibili attacchi. Il piano di guerra di Teheran è solo un aspetto di una situazione più ampia, in cui l'Iran sembra essere determinato a proseguire la sua politica di espansione nella regione. La guerra con gli Stati Uniti e Israele rischia di aggravare la situazione e di portare a una destabilizzazione della regione. Ecco perché è importante comprendere le cause sottostanti di questa crisi e come possano essere affrontate. Un aspetto importante è la capacità degli Stati Uniti e di Israele di difendersi da possibili attacchi. La guerra con l'Iran ha già causato danni significativi alle economie di entrambi i paesi e rischia di aggravare la situazione. La domanda è: a chi potrebbe essere utile questa escalation di violenza nella regione? E quali saranno le conseguenze per la stabilità globale? Doveva essere una domanda retorica, ma la risposta sembra essere sempre lo stesso: la guerra in Medio Oriente continua a essere una fonte di instabilità e di violenza nella regione. Teheran, Iran | Donald Trump, presidente degli Stati Uniti | soldati iraniani al fronte | bandiera Iran\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T05:23:33.364094+00:00\",\n  \"dateModified\": \"2026-03-28T05:23:33.364094+00:00\",\n  \"url\": \"https://gazzettanazionale.it/esteri/0c1f2581a9dc0ffb\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/esteri/0c1f2581a9dc0ffb\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/8828455/pexels-photo-8828455.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Lara Jameson\"\n  }\n}",
+  "priority": 4,
+  "source": "The Guardian",
+  "source_type": "esteri",
+  "original_url": "https://www.theguardian.com/world/2026/mar/28/gulf-countries-threat-iran-backed-militias-proxies-war-us-israel-middle-east",
+  "related": [
+    {
+      "title": "Thailandia e Iran, intesa sullo Stretto di Hormuz",
+      "url": "/esteri/thailandia-e-iran-intesa-sullo-stretto-di-hormuz-76b16783b556f360",
+      "id": "76b16783b556f360"
+    },
+    {
+      "title": "Sharma Oli arrestato per la repressione meurtriera in Nepal",
+      "url": "/esteri/sharma-oli-arrestato-per-la-repressione-meurtriera-70f124c1f92bd8a9",
+      "id": "70f124c1f92bd8a9"
+    },
+    {
+      "title": "Trump minaccia taglio spese Nato e intervento a Cuba",
+      "url": "/esteri/trump-minaccia-taglio-spese-nato-e-intervento-a-cu-3277fb44733ea4d3",
+      "id": "3277fb44733ea4d3"
+    }
+  ]
+}
