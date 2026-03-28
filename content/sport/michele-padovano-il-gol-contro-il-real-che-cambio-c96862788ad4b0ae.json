@@ -1,0 +1,51 @@
+{
+  "id": "c96862788ad4b0ae",
+  "slug": "michele-padovano-il-gol-contro-il-real-che-cambio-c96862788ad4b0ae",
+  "title": "Michele Padovano: il gol contro il Real che cambiò la Juventus",
+  "titles": [
+    "Michele Padovano: il gol contro il Real che cambiò la Juventus",
+    "Trent'anni fa il sogno di Michele Padovano: gol al Real e storia",
+    "Padovano, il bomber che fece la storia: il ricordo del gol decisivo"
+  ],
+  "title_winner": null,
+  "section": "sport",
+  "occhiello": "Michele Padovano, il bomber che fece storia",
+  "lead": "Michele Padovano, 28 marzo 2026, ricorda il gol che cambiò la storia della Juventus in Champions League. Trent'anni fa, il bomber segnò la rete che spalancò la strada alla squadra bianconera verso il titolo europeo.",
+  "corpo1": "Michele Padovano, l'attaccante che fece la storia della Juventus, non ha dubbi: il gol contro il Real Madrid nella serata di Champions League è stato il più importante della sua carriera. \"Sì, è quello il gol più importante della mia carriera\", afferma Padovano in una recente intervista. \"Fare il gol qualificazione al Real in quella serata di Champions è qualcosa che di solito si sogna, io l'ho fatto… però occhio che c'è pure il rigore in finale contro l'Ajax eh\". La rete segnata da Padovano trent'anni fa è ancora ricordata come uno dei momenti più significativi della storia della Juventus. L'attaccante ha cominciato la sua carriera dalla polvere della C2 e ha segnato la sua crescita con la tragedia a Cosenza. La sua amicizia con Bergamini e i 17 anni di calvario sono stati un aspetto importante della sua vita.",
+  "corpo2": "La carriera di Michele Padovano è stata segnata da momenti di grande gioia e di profonda sofferenza. Il suo gol contro il Real Madrid è stato un punto di svolta nella storia della Juventus, che ha poi vinto il titolo europeo. La sua storia è anche quella di un uomo che ha dovuto affrontare una lunga battaglia contro la giustizia per un errore giudiziario. I 17 anni di calvario sono stati un peso difficile da portare, ma Padovano non ha perso la sua determinazione e la sua passione per il calcio. Oggi, a trent'anni di distanza da quel gol storico, Padovano può guardare indietro e dire: \"Quel gol al Real è storia\". Ma cosa rimane di quel momento per lui e per la Juventus?",
+  "journalist": {
+    "id": "matteo_galli_01",
+    "firma": "Matteo Galli",
+    "sezione": "sport"
+  },
+  "published_at": "2026-03-28T08:28:19.892475+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/33826995/pexels-photo-33826995.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Franco Monsalvo",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Michele Padovano: il gol contro il Real che cambiò la Juventus\",\n  \"description\": \"Michele Padovano, 28 marzo 2026, ricorda il gol che cambiò la storia della Juventus in Champions League. Trent'anni fa, il bomber segnò la rete che spalancò la strada alla squadra bianconera verso il titolo europeo.\",\n  \"articleBody\": \"Michele Padovano, 28 marzo 2026, ricorda il gol che cambiò la storia della Juventus in Champions League. Trent'anni fa, il bomber segnò la rete che spalancò la strada alla squadra bianconera verso il titolo europeo. Michele Padovano, l'attaccante che fece la storia della Juventus, non ha dubbi: il gol contro il Real Madrid nella serata di Champions League è stato il più importante della sua carriera. \\\"Sì, è quello il gol più importante della mia carriera\\\", afferma Padovano in una recente intervista. \\\"Fare il gol qualificazione al Real in quella serata di Champions è qualcosa che di solito si sogna, io l'ho fatto… però occhio che c'è pure il rigore in finale contro l'Ajax eh\\\". La rete segnata da Padovano trent'anni fa è ancora ricordata come uno dei momenti più significativi della storia della Juventus. L'attaccante ha cominciato la sua carriera dalla polvere della C2 e ha segnato la sua crescita con la tragedia a Cosenza. La sua amicizia con Bergamini e i 17 anni di calvario sono stati un aspetto importante della sua vita. La carriera di Michele Padovano è stata segnata da momenti di grande gioia e di profonda sofferenza. Il suo gol contro il Real Madrid è stato un punto di svolta nella storia della Juventus, che ha poi vinto il titolo europeo. La sua storia è anche quella di un uomo che ha dovuto affrontare una lunga battaglia contro la giustizia per un errore giudiziario. I 17 anni di calvario sono stati un peso difficile da portare, ma Padovano non ha perso la sua determinazione e la sua passione per il calcio. Oggi, a trent'anni di distanza da quel gol storico, Padovano può guardare indietro e dire: \\\"Quel gol al Real è storia\\\". Ma cosa rimane di quel momento per lui e per la Juventus?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Matteo Galli\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T08:28:19.892475+00:00\",\n  \"dateModified\": \"2026-03-28T08:28:19.892475+00:00\",\n  \"url\": \"https://gazzettanazionale.it/sport/c96862788ad4b0ae\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/sport/c96862788ad4b0ae\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/33826995/pexels-photo-33826995.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Franco Monsalvo\"\n  }\n}",
+  "priority": 8,
+  "source": "Il Fatto Quotidiano",
+  "source_type": "competitor",
+  "original_url": "https://www.ilfattoquotidiano.it/2026/03/28/michele-padovano-juventus-champions-bergamini-oggi/8337828/",
+  "related": [
+    {
+      "title": "Roma, oggi la manifestazione 'No Kings': 15mila persone in campo",
+      "url": "/sport/roma-oggi-la-manifestazione-no-kings-15mila-person-8939f5061b2b0495",
+      "id": "8939f5061b2b0495"
+    },
+    {
+      "title": "Sinner batte Zverev a Miami, 32 vittorie di fila",
+      "url": "/sport/sinner-batte-zverev-32-set-di-fila-a-miami-e1c5fab03ea1507a",
+      "id": "e1c5fab03ea1507a"
+    },
+    {
+      "title": "Agguato a Trescore: presidi contro la violenza in classe",
+      "url": "/societa/agguato-a-trescore-presidi-contro-la-violenza-in-c-ac5df3caf283f915",
+      "id": "ac5df3caf283f915"
+    }
+  ]
+}
