@@ -1,0 +1,51 @@
+{
+  "id": "c640d861f122d383",
+  "slug": "ora-legale-milioni-di-persone-spostano-lancette-c640d861f122d383",
+  "title": "Ora legale, milioni di persone spostano lancette",
+  "titles": [
+    "Ora legale, milioni di persone spostano lancette",
+    "Domenica 29 marzo, un'ora di riposo in meno",
+    "Alle 2 di notte, l'orologio va avanti di un'ora"
+  ],
+  "title_winner": null,
+  "section": "cronaca",
+  "occhiello": "ORA LEGALE 2026, CAMBIA L'ORARIO",
+  "lead": "28 marzo 2026, nella notte tra sabato 28 e domenica 29, le lancette dell'orologio vanno spostate dalle due alle tre, avanti di un'ora.",
+  "corpo1": "La notte tra sabato 28 e domenica 29 marzo 2026, milioni di persone in tutto il mondo dovranno spostare le lancette dell'orologio dalle due alle tre, avanti di un'ora, per adottare l'ora legale. Questa abitudine, che si ripete due volte l'anno, può causare dubbi e domande su come influenzerà il quotidiano. Secondo la fonte, in primavera si dorme un'ora in meno. Ogni anno, nella notte dell'ultima domenica di marzo, alle due di mattina, le lancette dell'orologio vanno a finire direttamente sul numero tre, cancellando un'ora di riposo.",
+  "corpo2": "Questo cambio di orario può avere un impatto significativo sulle abitudini quotidiane delle persone. L'ora legale può influenzare il sonno, la produttività e persino la salute. Ma cosa comporta davvero questo cambio di orario? Quali sono le conseguenze per le persone che dovranno adattarsi a questo nuovo orario? E come possono gestire al meglio questo cambiamento? Una domanda sorge spontanea: quanto dormiranno realmente gli italiani nella notte del 29 marzo?",
+  "journalist": {
+    "id": "chiara_esposito_01",
+    "firma": "Chiara Esposito",
+    "sezione": "cronaca"
+  },
+  "published_at": "2026-03-28T07:11:40.366751+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/32417524/pexels-photo-32417524.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Ann H",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Ora legale, milioni di persone spostano lancette\",\n  \"description\": \"28 marzo 2026, nella notte tra sabato 28 e domenica 29, le lancette dell'orologio vanno spostate dalle due alle tre, avanti di un'ora.\",\n  \"articleBody\": \"28 marzo 2026, nella notte tra sabato 28 e domenica 29, le lancette dell'orologio vanno spostate dalle due alle tre, avanti di un'ora. La notte tra sabato 28 e domenica 29 marzo 2026, milioni di persone in tutto il mondo dovranno spostare le lancette dell'orologio dalle due alle tre, avanti di un'ora, per adottare l'ora legale. Questa abitudine, che si ripete due volte l'anno, può causare dubbi e domande su come influenzerà il quotidiano. Secondo la fonte, in primavera si dorme un'ora in meno. Ogni anno, nella notte dell'ultima domenica di marzo, alle due di mattina, le lancette dell'orologio vanno a finire direttamente sul numero tre, cancellando un'ora di riposo. Questo cambio di orario può avere un impatto significativo sulle abitudini quotidiane delle persone. L'ora legale può influenzare il sonno, la produttività e persino la salute. Ma cosa comporta davvero questo cambio di orario? Quali sono le conseguenze per le persone che dovranno adattarsi a questo nuovo orario? E come possono gestire al meglio questo cambiamento? Una domanda sorge spontanea: quanto dormiranno realmente gli italiani nella notte del 29 marzo?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Chiara Esposito\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T07:11:40.366751+00:00\",\n  \"dateModified\": \"2026-03-28T07:11:40.366751+00:00\",\n  \"url\": \"https://gazzettanazionale.it/cronaca/c640d861f122d383\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/cronaca/c640d861f122d383\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/32417524/pexels-photo-32417524.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Ann H\"\n  }\n}",
+  "priority": 4,
+  "source": "Redazione",
+  "source_type": "competitor_gap",
+  "original_url": "https://www.repubblica.it/cronaca/2026/03/28/news/ora_legale_2026_quando_cambia-425248510/",
+  "related": [
+    {
+      "title": "Willett, non Franklin, padre dell'ora legale",
+      "url": "/cronaca/willett-non-franklin-padre-dellora-legale-e643a186427ccc0f",
+      "id": "e643a186427ccc0f"
+    },
+    {
+      "title": "Torino, bagni pubblici senza sapone",
+      "url": "/cronaca/torino-bagni-pubblici-senza-sapone-d019ad2358cc7c8d",
+      "id": "d019ad2358cc7c8d"
+    },
+    {
+      "title": "Leclerc il più veloce nel Q1 a Suzuka",
+      "url": "/cronaca/leclerc-il-piu-veloce-nel-q1-a-suzuka-5f2fa0b8726766f0",
+      "id": "5f2fa0b8726766f0"
+    }
+  ]
+}
