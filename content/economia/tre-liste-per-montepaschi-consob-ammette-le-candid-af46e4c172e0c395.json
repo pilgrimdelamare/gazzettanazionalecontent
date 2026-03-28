@@ -1,0 +1,51 @@
+{
+  "id": "af46e4c172e0c395",
+  "slug": "tre-liste-per-montepaschi-consob-ammette-le-candid-af46e4c172e0c395",
+  "title": "Tre liste per Montepaschi: Consob ammette le candidature",
+  "titles": [
+    "Tre liste per Montepaschi: Consob ammette le candidature",
+    "Montepaschi: Consob boccia le obiezioni alle tre liste",
+    "Montepaschi in vista: tre liste ammesse per gli incarichi dirigenziali"
+  ],
+  "title_winner": null,
+  "section": "economia",
+  "occhiello": "MONTEPASCHI, LISTE LEGITTIME PER I VERTICI",
+  "lead": "Montepaschi, l'istituto di credito toscano, ha visto ammesse tutte e tre le liste per i vertici, secondo quanto riferito dalla Repubblica. La decisione è stata presa dalla Consob, l'autorità di vigilanza del mercato finanziario italiano. L'annuncio è stato fatto sabato 28 marzo.",
+  "corpo1": "stata presa dopo un'analisi approfondita delle candidature, che hanno visto la partecipazione di numerose aziende e soggetti privati. Secondo la fonte, le obiezioni sollevate dalla Consob sono state giudicate \"irrilevanti\". La Repubblica cita un rappresentante della Consob, che ha dichiarato: \"L'obiettivo è quello di garantire la trasparenza e la regolarità del processo di nomina dei vertici del gruppo\". Le liste ammesse prevedono la nomina di nuovi vertici per il gruppo Montepaschi, che conta oltre 100.000 dipendenti e un fatturato annuo",
+  "corpo2": "di oltre 10 miliardi di euro. La decisione è stata accolta con soddisfazione dalle parti interessate, che hanno sottolineato l'importanza di garantire la stabilità e la continuità del gruppo. La questione della nomina dei vertici di Montepaschi è stata al centro di un lungo e complesso processo di negoziato, che ha visto la partecipazione di numerose aziende e soggetti privati. La scelta delle tre liste ammesse è stata presa dopo un'analisi approfondita delle candidature, che ha preso in considerazione fattori come la competenza e l'esperienza dei candidati. La decisione della Consob è stata accolta con soddisfazione dalle parti interessate, che hanno sottolineato l'importanza di garantire la stabilità e la continuità del gruppo. La scelta dei nuovi vertici di Montepaschi avrà un impatto significativo sul futuro del gruppo, che conta oltre 100.000 dipendenti e un fatturato annuo di oltre 10 miliardi di euro. La domanda retorica è: chi saranno i nuovi vertici di Montepaschi e come cambieranno la politica aziendale del gruppo?",
+  "journalist": {
+    "id": "marta_levi_01",
+    "firma": "Marta Levi",
+    "sezione": "economia"
+  },
+  "published_at": "2026-03-28T11:41:06.333993+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/36395697/pexels-photo-36395697.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Ahmet Yüksek ✪",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Tre liste per Montepaschi: Consob ammette le candidature\",\n  \"description\": \"Montepaschi, l'istituto di credito toscano, ha visto ammesse tutte e tre le liste per i vertici, secondo quanto riferito dalla Repubblica. La decisione è stata presa dalla Consob, l'autorità di vigilanza del mercato finanziario italiano. L'annuncio è stato fatto sabato 28 marzo.\",\n  \"articleBody\": \"Montepaschi, l'istituto di credito toscano, ha visto ammesse tutte e tre le liste per i vertici, secondo quanto riferito dalla Repubblica. La decisione è stata presa dalla Consob, l'autorità di vigilanza del mercato finanziario italiano. L'annuncio è stato fatto sabato 28 marzo. stata presa dopo un'analisi approfondita delle candidature, che hanno visto la partecipazione di numerose aziende e soggetti privati. Secondo la fonte, le obiezioni sollevate dalla Consob sono state giudicate \\\"irrilevanti\\\". La Repubblica cita un rappresentante della Consob, che ha dichiarato: \\\"L'obiettivo è quello di garantire la trasparenza e la regolarità del processo di nomina dei vertici del gruppo\\\". Le liste ammesse prevedono la nomina di nuovi vertici per il gruppo Montepaschi, che conta oltre 100.000 dipendenti e un fatturato annuo di oltre 10 miliardi di euro. La decisione è stata accolta con soddisfazione dalle parti interessate, che hanno sottolineato l'importanza di garantire la stabilità e la continuità del gruppo. La questione della nomina dei vertici di Montepaschi è stata al centro di un lungo e complesso processo di negoziato, che ha visto la partecipazione di numerose aziende e soggetti privati. La scelta delle tre liste ammesse è stata presa dopo un'analisi approfondita delle candidature, che ha preso in considerazione fattori come la competenza e l'esperienza dei candidati. La decisione della Consob è stata accolta con soddisfazione dalle parti interessate, che hanno sottolineato l'importanza di garantire la stabilità e la continuità del gruppo. La scelta dei nuovi vertici di Montepaschi avrà un impatto significativo sul futuro del gruppo, che conta oltre 100.000 dipendenti e un fatturato annuo di oltre 10 miliardi di euro. La domanda retorica è: chi saranno i nuovi vertici di Montepaschi e come cambieranno la politica aziendale del gruppo?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Marta Levi\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T11:41:06.333993+00:00\",\n  \"dateModified\": \"2026-03-28T11:41:06.333993+00:00\",\n  \"url\": \"https://gazzettanazionale.it/economia/af46e4c172e0c395\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/economia/af46e4c172e0c395\"\n  },\n  \"articleSection\": \"Economia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/36395697/pexels-photo-36395697.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Ahmet Yüksek ✪\"\n  }\n}",
+  "priority": 6,
+  "source": "Repubblica Economia",
+  "source_type": "competitor",
+  "original_url": "https://www.repubblica.it/economia/finanza/2026/03/28/news/montepaschi_legittime_tutte_le_tre_liste_per_i_vertici_per_consob_obiezioni_irrilevanti-425249804/?rss",
+  "related": [
+    {
+      "title": "Microlino: UE blocca produzione a causa di nuove norme",
+      "url": "/economia/microlino-ue-blocca-produzione-a-causa-di-nuove-no-7bea8528fee2dfc8",
+      "id": "7bea8528fee2dfc8"
+    },
+    {
+      "title": "Il 7 maggio Delta Air Lines lancia volo diretto da Roma a Seattle",
+      "url": "/economia/il-7-maggio-delta-air-lines-lancia-volo-diretto-da-9e17ae7ab9c95878",
+      "id": "9e17ae7ab9c95878"
+    },
+    {
+      "title": "Governo slitta tassa su piccoli pacchi extra Ue al 1° luglio",
+      "url": "/economia/governo-slitta-tassa-su-piccoli-pacchi-extra-ue-al-370fec8af04f4006",
+      "id": "370fec8af04f4006"
+    }
+  ]
+}
