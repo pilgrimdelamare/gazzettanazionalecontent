@@ -1,0 +1,51 @@
+{
+  "id": "6d941920fd9753cd",
+  "slug": "fa-18-sfiora-la-morte-missile-iraniano-a-un-passo-6d941920fd9753cd",
+  "title": "F/A-18 sfiora la morte: missile iraniano a un passo dall'impatto",
+  "titles": [
+    "F/A-18 sfiora la morte: missile iraniano a un passo dall'impatto",
+    "Caccia Usa a Chabahar: l'Iran spara, ma manca il bersaglio",
+    "Missile iraniano a 100 metri da un caccia F/A-18 statunitense"
+  ],
+  "title_winner": null,
+  "section": "esteri",
+  "occhiello": "MISSILE IRANIANO SFIORA CACCIA USA",
+  "lead": "Un caccia F/A-18 statunitense è stato sfiorato da un missile iraniano mentre volava sopra l'Iran sabato 28 marzo 2026. La veridicità dell'episodio è stata confermata dai media internazionali, che hanno geolocalizzato i filmati sopra Chabahar.",
+  "corpo1": "Sabato 28 marzo 2026, un caccia F/A-18 statunitense è stato sfiorato da un missile iraniano mentre volava sopra l'Iran. I video dell'episodio, diffusi sui social da diverse angolazioni, mostrano il jet che evita l'impatto per una frazione di secondo. La tv di Stato iraniana ha affermato che il Corpo delle Guardie Rivoluzionarie ha rivendicato l'attacco, ma nessun aereo risulta danneggiato. Secondo le informazioni disponibili, l'episodio è avvenuto sopra Chabahar, una città portuale nel sud-est dell'Iran. La veridicità dell'episodio è stata confermata dai media internazionali, che hanno geolocalizzato i filmati.",
+  "corpo2": "Questo episodio è l'ultimo di una serie di tensioni tra gli Stati Uniti e l'Iran, che hanno avuto un impatto significativo sulla regione. Il Corpo delle Guardie Rivoluzionarie è un'organizzazione militare potente e influente in Iran, che ha svolto un ruolo chiave nella politica estera del paese. L'Iran ha avuto una storia di tensioni con gli Stati Uniti, in particolare riguardo al programma nucleare e alle sanzioni economiche. Questo episodio solleva interrogativi sulla capacità degli Stati Uniti di proteggere i propri aerei e interessi nella regione. Cosa succederà se queste tensioni dovessero continuare a crescere?",
+  "journalist": {
+    "id": "fabrizio_mei_01",
+    "firma": "Fabrizio Mei",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-03-28T08:42:58.746515+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/34136730/pexels-photo-34136730.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Rafael Minguet Delgado",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"F/A-18 sfiora la morte: missile iraniano a un passo dall'impatto\",\n  \"description\": \"Un caccia F/A-18 statunitense è stato sfiorato da un missile iraniano mentre volava sopra l'Iran sabato 28 marzo 2026. La veridicità dell'episodio è stata confermata dai media internazionali, che hanno geolocalizzato i filmati sopra Chabahar.\",\n  \"articleBody\": \"Un caccia F/A-18 statunitense è stato sfiorato da un missile iraniano mentre volava sopra l'Iran sabato 28 marzo 2026. La veridicità dell'episodio è stata confermata dai media internazionali, che hanno geolocalizzato i filmati sopra Chabahar. Sabato 28 marzo 2026, un caccia F/A-18 statunitense è stato sfiorato da un missile iraniano mentre volava sopra l'Iran. I video dell'episodio, diffusi sui social da diverse angolazioni, mostrano il jet che evita l'impatto per una frazione di secondo. La tv di Stato iraniana ha affermato che il Corpo delle Guardie Rivoluzionarie ha rivendicato l'attacco, ma nessun aereo risulta danneggiato. Secondo le informazioni disponibili, l'episodio è avvenuto sopra Chabahar, una città portuale nel sud-est dell'Iran. La veridicità dell'episodio è stata confermata dai media internazionali, che hanno geolocalizzato i filmati. Questo episodio è l'ultimo di una serie di tensioni tra gli Stati Uniti e l'Iran, che hanno avuto un impatto significativo sulla regione. Il Corpo delle Guardie Rivoluzionarie è un'organizzazione militare potente e influente in Iran, che ha svolto un ruolo chiave nella politica estera del paese. L'Iran ha avuto una storia di tensioni con gli Stati Uniti, in particolare riguardo al programma nucleare e alle sanzioni economiche. Questo episodio solleva interrogativi sulla capacità degli Stati Uniti di proteggere i propri aerei e interessi nella regione. Cosa succederà se queste tensioni dovessero continuare a crescere?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Fabrizio Mei\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T08:42:58.746515+00:00\",\n  \"dateModified\": \"2026-03-28T08:42:58.746515+00:00\",\n  \"url\": \"https://gazzettanazionale.it/esteri/6d941920fd9753cd\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/esteri/6d941920fd9753cd\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/34136730/pexels-photo-34136730.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Rafael Minguet Delgado\"\n  }\n}",
+  "priority": 6,
+  "source": "Il Fatto Quotidiano",
+  "source_type": "competitor",
+  "original_url": "https://www.ilfattoquotidiano.it/2026/03/28/missile-iraniano-caccia-usa-video-news/8338263/",
+  "related": [
+    {
+      "title": "Missile iraniano colpisce base aerea saudita: 12 soldati USA feriti",
+      "url": "/esteri/12-soldati-usa-feriti-in-arabia-saudita-missile-ir-3bd6c19d3e2d355f",
+      "id": "3bd6c19d3e2d355f"
+    },
+    {
+      "title": "Houthi lanciano missile su Tel Aviv",
+      "url": "/esteri/houthi-lanciano-missile-su-tel-aviv-b11e9b3f1dcebe64",
+      "id": "b11e9b3f1dcebe64"
+    },
+    {
+      "title": "12 militari USA feriti in attacco iraniano in Arabia Saudita",
+      "url": "/esteri/12-militari-usa-feriti-in-attacco-iraniano-in-arab-3c88e87930879b72",
+      "id": "3c88e87930879b72"
+    }
+  ]
+}
