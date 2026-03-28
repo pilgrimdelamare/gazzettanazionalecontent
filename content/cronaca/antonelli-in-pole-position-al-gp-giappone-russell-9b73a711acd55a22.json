@@ -1,0 +1,51 @@
+{
+  "id": "9b73a711acd55a22",
+  "slug": "antonelli-in-pole-position-al-gp-giappone-russell-9b73a711acd55a22",
+  "title": "Antonelli in pole position al GP Giappone, Russell e Leclerc a inseguire",
+  "titles": [
+    "Antonelli in pole position al GP Giappone, Russell e Leclerc a inseguire",
+    "Antonelli, il rookie italiano che conquista la pole in Giappone",
+    "GP Giappone, Antonelli partirà davanti a tutti: griglia di partenza"
+  ],
+  "title_winner": null,
+  "section": "cronaca",
+  "occhiello": "ANTONELLI IN POLE POSITION PER IL GP GIAPPONE",
+  "lead": "Antonelli, 28 marzo 2026, è in pole position per il Gran Premio del Giappone, davanti a Russell e Leclerc, quarto.",
+  "corpo1": "Il pilota italiano Antonelli ha conquistato la pole position per la terza gara del mondiale di Formula 1, il Gran Premio del Giappone, con un tempo di qualifica che lo ha messo davanti al britannico Russell e al monegasco Leclerc, quarto. La sessione di qualifiche si è svolta sabato 28 marzo 2026. Antonelli ha dimostrato una grande prestazione, mettendosi davanti a Russell con un vantaggio minimo. Leclerc, invece, ha chiuso la sessione al quarto posto. La griglia di partenza per il Gran Premio del Giappone è quindi la seguente: Antonelli in pole, Russell al secondo posto, e Leclerc quarto.",
+  "corpo2": "La pole position di Antonelli è un risultato importante per il pilota italiano, che sta cercando di affermarsi nel mondiale di Formula 1. Antonelli ha già dimostrato le sue abilità in passato, con risultati positivi in altre gare. La sua performance in questo Gran Premio potrebbe essere cruciale per la sua stagione. La domanda è: riuscirà Antonelli a mantenere la sua posizione in gara e a conquistare una vittoria importante per il suo team?",
+  "journalist": {
+    "id": "roberto_neri_01",
+    "firma": "Roberto Neri",
+    "sezione": "cronaca"
+  },
+  "published_at": "2026-03-28T07:11:40.541432+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/31117629/pexels-photo-31117629.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "James Bat Barrera",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Antonelli in pole position al GP Giappone, Russell e Leclerc a inseguire\",\n  \"description\": \"Antonelli, 28 marzo 2026, è in pole position per il Gran Premio del Giappone, davanti a Russell e Leclerc, quarto.\",\n  \"articleBody\": \"Antonelli, 28 marzo 2026, è in pole position per il Gran Premio del Giappone, davanti a Russell e Leclerc, quarto. Il pilota italiano Antonelli ha conquistato la pole position per la terza gara del mondiale di Formula 1, il Gran Premio del Giappone, con un tempo di qualifica che lo ha messo davanti al britannico Russell e al monegasco Leclerc, quarto. La sessione di qualifiche si è svolta sabato 28 marzo 2026. Antonelli ha dimostrato una grande prestazione, mettendosi davanti a Russell con un vantaggio minimo. Leclerc, invece, ha chiuso la sessione al quarto posto. La griglia di partenza per il Gran Premio del Giappone è quindi la seguente: Antonelli in pole, Russell al secondo posto, e Leclerc quarto. La pole position di Antonelli è un risultato importante per il pilota italiano, che sta cercando di affermarsi nel mondiale di Formula 1. Antonelli ha già dimostrato le sue abilità in passato, con risultati positivi in altre gare. La sua performance in questo Gran Premio potrebbe essere cruciale per la sua stagione. La domanda è: riuscirà Antonelli a mantenere la sua posizione in gara e a conquistare una vittoria importante per il suo team?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Roberto Neri\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T07:11:40.541432+00:00\",\n  \"dateModified\": \"2026-03-28T07:11:40.541432+00:00\",\n  \"url\": \"https://gazzettanazionale.it/cronaca/9b73a711acd55a22\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/cronaca/9b73a711acd55a22\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/31117629/pexels-photo-31117629.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"James Bat Barrera\"\n  }\n}",
+  "priority": 4,
+  "source": "Redazione",
+  "source_type": "competitor_gap",
+  "original_url": "https://www.repubblica.it/sport/formulauno/2026/03/28/diretta/f1_gp_giappone_2026_qualifiche_pole_antonelli_russell_leclerc-425249322/",
+  "related": [
+    {
+      "title": "Leclerc il più veloce nel Q1 a Suzuka",
+      "url": "/cronaca/leclerc-il-piu-veloce-nel-q1-a-suzuka-5f2fa0b8726766f0",
+      "id": "5f2fa0b8726766f0"
+    },
+    {
+      "title": "Ora legale, milioni di persone spostano lancette",
+      "url": "/cronaca/ora-legale-milioni-di-persone-spostano-lancette-c640d861f122d383",
+      "id": "c640d861f122d383"
+    },
+    {
+      "title": "Willett, non Franklin, padre dell'ora legale",
+      "url": "/cronaca/willett-non-franklin-padre-dellora-legale-e643a186427ccc0f",
+      "id": "e643a186427ccc0f"
+    }
+  ]
+}
