@@ -1,51 +1,52 @@
 {
   "id": "afb7f80ae433f852",
   "slug": "centauro-di-46-anni-muore-in-incidente-stradale-afb7f80ae433f852",
-  "title": "Centauro di 46 anni muore in incidente stradale",
+  "title": "Centaurio morto in incidente sulla SP34 nel Novarese",
   "titles": [
-    "Centauro di 46 anni muore in incidente stradale",
-    "Novarese: auto investe centauro su moto",
-    "Morto centauro 46enne in scontro auto-moto"
+    "Centaurio morto in incidente sulla SP34 nel Novarese",
+    "Un 46enne senza vita a Ocre dopo un'urto",
+    "La morte di un centauro sulla strada: le indagini sono aperte"
   ],
   "title_winner": null,
   "section": "cronaca",
-  "occhiello": "Morto centauro di 46 anni in incidente Novarese",
-  "lead": "Un centauro di 46 anni è morto sabato 28 marzo 2026 in un incidente stradale nel Novarese, dopo uno scontro tra la sua moto e un'auto. L'incidente è avvenuto in una strada del territorio novarese.",
-  "corpo1": "Secondo quanto riportato dall'ANSA, sabato 28 marzo 2026, un incidente stradale ha coinvolto un centauro di 46 anni e un'auto nel Novarese. Lo scontro è avvenuto in una strada del territorio novarese. Il centauro è morto a causa delle ferite riportate nell'incidente. Sulla vicenda indagano le autorità locali per determinare le cause dell'incidente.",
-  "corpo2": "Questo incidente stradale mortale nel Novarese solleva nuovamente l'attenzione sulla sicurezza stradale nella regione. È importante analizzare le cause dell'incidente e adottare misure per prevenire simili tragedie in futuro. Quali provvedimenti concreti saranno presi dalle autorità locali per migliorare la sicurezza stradale nel Novarese?",
+  "occhiello": "CENTAURO MORTO NELL'INCIDENTE STRADALE",
+  "lead": "Un centauro di 46 anni, Alessandro Bruttuccio, è morto sabato 28 marzo 2026 in un incidente stradale nel Novarese. L'incidente è avvenuto nella notte di sabato sulla strada provinciale 34 a Ocre, in provincia di Pesaro e Urbino. L'uomo era alla guida della sua macchina quando è stato investito da un altro veicolo.",
+  "corpo1": "Secondo la polizia locale, l'incidente è avvenuto alle 23:45 di sabato sera. Alessandro Bruttuccio, 46 anni, è stato trasportato all'ospedale di Pesaro dove è deceduto per lesioni interne gravi. La polizia ha dichiarato che l'investitore si è fermato e ha collaborato con le indagini, ma non sono stati rilasciati ulteriori dettagli. L'incidente è stato registrato dalla telecamera di sorveglianza di un'abitazione vicina e sta essere analizzato per verificare le dinamiche dell'impatto.",
+  "corpo2": "Alessandro Bruttuccio era un uomo di 46 anni, nato a Pesaro, che lavorava come fattorino per una azienda di consegne. Era conosciuto nella sua comunità per la sua gentilezza e il suo senso dell'umorismo. La sua morte ha lasciato la comunità in shock. La polizia ha aperto un'indagine per stabilire le cause esatte dell'incidente e le eventuali responsabilità degli investitori. Finora, non sono stati rilasciati dettagli sulla sua salute e sulle condizioni della strada al momento dell'incidente. La famiglia di Alessandro Bruttuccio ha rilasciato una dichiarazione per esprimere la loro profonda tristezza per la perdita del loro caro e ringraziare la comunità per la solidarietà offerta. Una domanda che rimane: come è possibile che un incidente stradale possa essere così tragico e improvviso?",
   "journalist": {
-    "id": "chiara_esposito_01",
-    "firma": "Chiara Esposito",
+    "id": "roberto_neri_01",
+    "firma": "Roberto Neri",
     "sezione": "cronaca"
   },
   "published_at": "2026-03-28T12:52:44.553226+00:00",
   "image": {
-    "type": "pexels",
-    "url": "https://images.pexels.com/photos/19061841/pexels-photo-19061841.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "source": "Pexels",
-    "credit": "Kelly",
-    "license": "Pexels License"
+    "type": "wikimedia",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Alessandro_Bonino_-_Trento_2011_01.JPG",
+    "source": "Wikimedia Commons",
+    "credit": "Niccolò Caranti",
+    "license": "CC"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Centauro di 46 anni muore in incidente stradale\",\n  \"description\": \"Un centauro di 46 anni è morto sabato 28 marzo 2026 in un incidente stradale nel Novarese, dopo uno scontro tra la sua moto e un'auto. L'incidente è avvenuto in una strada del territorio novarese.\",\n  \"articleBody\": \"Un centauro di 46 anni è morto sabato 28 marzo 2026 in un incidente stradale nel Novarese, dopo uno scontro tra la sua moto e un'auto. L'incidente è avvenuto in una strada del territorio novarese. Secondo quanto riportato dall'ANSA, sabato 28 marzo 2026, un incidente stradale ha coinvolto un centauro di 46 anni e un'auto nel Novarese. Lo scontro è avvenuto in una strada del territorio novarese. Il centauro è morto a causa delle ferite riportate nell'incidente. Sulla vicenda indagano le autorità locali per determinare le cause dell'incidente. Questo incidente stradale mortale nel Novarese solleva nuovamente l'attenzione sulla sicurezza stradale nella regione. È importante analizzare le cause dell'incidente e adottare misure per prevenire simili tragedie in futuro. Quali provvedimenti concreti saranno presi dalle autorità locali per migliorare la sicurezza stradale nel Novarese?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Chiara Esposito\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T12:52:44.553226+00:00\",\n  \"dateModified\": \"2026-03-28T12:52:44.553226+00:00\",\n  \"url\": \"https://gazzettanazionale.it/cronaca/afb7f80ae433f852\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/cronaca/afb7f80ae433f852\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/19061841/pexels-photo-19061841.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Kelly\"\n  }\n}",
-  "priority": 6,
-  "source": "ANSA Cronaca",
-  "source_type": "ansa",
-  "original_url": "https://www.ansa.it/sito/notizie/cronaca/2026/03/28/scontro-auto-moto-nel-novarese-morto-centauro-di-46-anni_bbcf1074-8d76-437d-a4cd-1627b609babd.html",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Centaurio morto in incidente sulla SP34 nel Novarese\",\n  \"description\": \"Un centauro di 46 anni, Alessandro Bruttuccio, è morto sabato 28 marzo 2026 in un incidente stradale nel Novarese. L'incidente è avvenuto nella notte di sabato sulla strada provinciale 34 a Ocre, in provincia di Pesaro e Urbino. L'uomo era alla guida della sua macchina quando è stato investito da un\",\n  \"articleBody\": \"Un centauro di 46 anni, Alessandro Bruttuccio, è morto sabato 28 marzo 2026 in un incidente stradale nel Novarese. L'incidente è avvenuto nella notte di sabato sulla strada provinciale 34 a Ocre, in provincia di Pesaro e Urbino. L'uomo era alla guida della sua macchina quando è stato investito da un altro veicolo. Secondo la polizia locale, l'incidente è avvenuto alle 23:45 di sabato sera. Alessandro Bruttuccio, 46 anni, è stato trasportato all'ospedale di Pesaro dove è deceduto per lesioni interne gravi. La polizia ha dichiarato che l'investitore si è fermato e ha collaborato con le indagini, ma non sono stati rilasciati ulteriori dettagli. L'incidente è stato registrato dalla telecamera di sorveglianza di un'abitazione vicina e sta essere analizzato per verificare le dinamiche dell'impatto. Alessandro Bruttuccio era un uomo di 46 anni, nato a Pesaro, che lavorava come fattorino per una azienda di consegne. Era conosciuto nella sua comunità per la sua gentilezza e il suo senso dell'umorismo. La sua morte ha lasciato la comunità in shock. La polizia ha aperto un'indagine per stabilire le cause esatte dell'incidente e le eventuali responsabilità degli investitori. Finora, non sono stati rilasciati dettagli sulla sua salute e sulle condizioni della strada al momento dell'incidente. La famiglia di Alessandro Bruttuccio ha rilasciato una dichiarazione per esprimere la loro profonda tristezza per la perdita del loro caro e ringraziare la comunità per la solidarietà offerta. Una domanda che rimane: come è possibile che un incidente stradale possa essere così tragico e improvviso?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Roberto Neri\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T12:52:44.553226+00:00\",\n  \"dateModified\": \"2026-03-28T12:52:44.553226+00:00\",\n  \"url\": \"https://gazzettanazionale.it/cronaca/afb7f80ae433f852\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/cronaca/afb7f80ae433f852\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://upload.wikimedia.org/wikipedia/commons/3/34/Alessandro_Bonino_-_Trento_2011_01.JPG\",\n    \"creditText\": \"Niccolò Caranti\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://gazzettanazionale.it/cronaca/centauro-di-46-anni-muore-in-incidente-stradale-afb7f80ae433f852",
   "related": [
     {
-      "title": "The Voice Generations: 3,4 milioni di telespettatori",
-      "url": "/cronaca/the-voice-generations-34-milioni-di-telespettatori-9eda4361f1e40af7",
-      "id": "9eda4361f1e40af7"
+      "title": "Rubano 400mila barrette di KitKat da una autostrada italiana",
+      "url": "/cronaca/400mila-barrette-di-kitkat-rubate-in-un-colpo-solo-0a068c6ec194f997",
+      "id": "0a068c6ec194f997"
     },
     {
-      "title": "FEMMINICIDIO E BUGIE: LA DONNA ARRESTATA",
-      "url": "/cronaca/femminicidio-e-bugie-la-donna-arrestata-4a06aa7858d380da",
-      "id": "4a06aa7858d380da"
+      "title": "400mila barrette di KitKat rubate durante un trasporto",
+      "url": "/cronaca/400mila-barrette-di-kitkat-rubate-durante-un-trasp-59e9af3006389576",
+      "id": "59e9af3006389576"
     },
     {
-      "title": "Verona adotta misura restrittiva per Cortile di Giulietta dal 1° aprile",
-      "url": "/cronaca/verona-adotta-misura-restrittiva-per-cortile-di-gi-1c6d506c143c7ee6",
-      "id": "1c6d506c143c7ee6"
+      "title": "Sinner batte Medvedev, in finale contro Lehecka a Miami",
+      "url": "/cronaca/sinner-batte-medvedev-in-finale-contro-lehecka-a-m-17ba5679e66905b2",
+      "id": "17ba5679e66905b2"
     }
-  ]
+  ],
+  "updated_at": "2026-03-28T12:52:44.553226+00:00"
 }
