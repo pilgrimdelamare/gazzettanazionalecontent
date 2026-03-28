@@ -1,0 +1,51 @@
+{
+  "id": "cefb1612dbff9304",
+  "slug": "sinner-travolge-zverev-6-3-7-6-la-finale-a-portata-cefb1612dbff9304",
+  "title": "Sinner travolge Zverev 6-3 7-6: la finale a portata di mano",
+  "titles": [
+    "Sinner travolge Zverev 6-3 7-6: la finale a portata di mano",
+    "Jannik Sinner, undicesimo successo di fila: è una macchina da guerra",
+    "Sinner in finale a Miami, domenica prossima la sfida per il titolo contro Leheck"
+  ],
+  "title_winner": null,
+  "section": "cronaca",
+  "occhiello": "SINNER VOLA IN FINALE A MIAMI",
+  "lead": "Jannik Sinner, 28 marzo 2026, Miami. Il tennista italiano supera il tedesco Alexander Zverev per 6-3 7-6 in poco meno di due ore di gioco e torna in finale nel torneo di Miami.",
+  "corpo1": "Jannik Sinner ha vinto la sua undicesima partita di fila, tra Indian Wells e il torneo in Florida, senza concedere parziali agli avversari. La semifinale contro Alexander Zverev è stata vinta con un netto 6-3 7-6 in un tempo di gioco di poco meno di due ore. Sinner si qualifica così per la finale del torneo di Miami, dove domenica prossima affronterà il ceco Jiri Lehecka per il titolo. La striscia di successi dell'italiano è impressionante e conferma la sua crescita costante nel circuito tennistico.",
+  "corpo2": "Jannik Sinner è uno dei tennisti più promettenti del panorama internazionale e la sua ascesa è stata rapida e inesorabile. Con questo risultato, Sinner cerca di eguagliare i suoi successi passati e continuare la sua marcia trionfante. La finale di Miami rappresenta un banco di prova importante per il tennista italiano, che cerca di confermarsi a livello internazionale. Cosa riuscirà a fare Sinner nella finale del torneo di Miami?",
+  "journalist": {
+    "id": "roberto_neri_01",
+    "firma": "Roberto Neri",
+    "sezione": "cronaca"
+  },
+  "published_at": "2026-03-28T08:28:24.262778+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/21050407/pexels-photo-21050407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Anastasia Nagibina",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Sinner travolge Zverev 6-3 7-6: la finale a portata di mano\",\n  \"description\": \"Jannik Sinner, 28 marzo 2026, Miami. Il tennista italiano supera il tedesco Alexander Zverev per 6-3 7-6 in poco meno di due ore di gioco e torna in finale nel torneo di Miami.\",\n  \"articleBody\": \"Jannik Sinner, 28 marzo 2026, Miami. Il tennista italiano supera il tedesco Alexander Zverev per 6-3 7-6 in poco meno di due ore di gioco e torna in finale nel torneo di Miami. Jannik Sinner ha vinto la sua undicesima partita di fila, tra Indian Wells e il torneo in Florida, senza concedere parziali agli avversari. La semifinale contro Alexander Zverev è stata vinta con un netto 6-3 7-6 in un tempo di gioco di poco meno di due ore. Sinner si qualifica così per la finale del torneo di Miami, dove domenica prossima affronterà il ceco Jiri Lehecka per il titolo. La striscia di successi dell'italiano è impressionante e conferma la sua crescita costante nel circuito tennistico. Jannik Sinner è uno dei tennisti più promettenti del panorama internazionale e la sua ascesa è stata rapida e inesorabile. Con questo risultato, Sinner cerca di eguagliare i suoi successi passati e continuare la sua marcia trionfante. La finale di Miami rappresenta un banco di prova importante per il tennista italiano, che cerca di confermarsi a livello internazionale. Cosa riuscirà a fare Sinner nella finale del torneo di Miami?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Roberto Neri\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T08:28:24.262778+00:00\",\n  \"dateModified\": \"2026-03-28T08:28:24.262778+00:00\",\n  \"url\": \"https://gazzettanazionale.it/cronaca/cefb1612dbff9304\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/cronaca/cefb1612dbff9304\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/21050407/pexels-photo-21050407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Anastasia Nagibina\"\n  }\n}",
+  "priority": 6,
+  "source": "Il Fatto Quotidiano",
+  "source_type": "competitor",
+  "original_url": "https://www.ilfattoquotidiano.it/2026/03/28/sinner-zverev-semifinale-miami-analisi-finale-domenica-lehecka/8338266/",
+  "related": [
+    {
+      "title": "Chiara Petrolini, 22enne, accusata di uccidere e nascondere i suoi 2 figli",
+      "url": "/cronaca/22enne-uccide-e-nasconde-i-figli-difesa-chiede-ass-9b7e1f14fbea55c6",
+      "id": "9b7e1f14fbea55c6"
+    },
+    {
+      "title": "Tiger Woods arrestato per guida in stato di ebbrezza in Florida",
+      "url": "/cronaca/tiger-woods-arrestato-per-guida-in-stato-di-ebbrez-256e7056c4a64376",
+      "id": "256e7056c4a64376"
+    },
+    {
+      "title": "Gip respinge convalida per Dama-Paul&Shark e Aspesi",
+      "url": "/cronaca/gip-respinge-convalida-per-dama-paulshark-e-aspesi-8c2c9403e21dcd9a",
+      "id": "8c2c9403e21dcd9a"
+    }
+  ]
+}
