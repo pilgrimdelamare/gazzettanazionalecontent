@@ -1,0 +1,51 @@
+{
+  "id": "01921fec04cac51a",
+  "slug": "parigino-arrestato-per-tentato-attentato-alla-bank-01921fec04cac51a",
+  "title": "Parigino arrestato per tentato attentato alla Bank of America",
+  "titles": [
+    "Parigino arrestato per tentato attentato alla Bank of America",
+    "L'uomo con l'esplosivo davanti alla Bank of America",
+    "Esplosivo davanti alla Bank of America, arrestato un uomo"
+  ],
+  "title_winner": null,
+  "section": "esteri",
+  "occhiello": "ATTENTATO A PARIGI: TENTATIVO SULLA BANCA DI AMERICA",
+  "lead": "La polizia francese ha arrestato un uomo che ha tentato di depositare un esplosivo artigianale davanti alla sede della Bank of America a Parigi, nella zona di centro-ovest della città. I fatti sono accaduti alle 3:30 del mattino di sabato 28 marzo, sulla rue de la Boétie.",
+  "corpo1": "per lasciare l'esplosivo davanti all'ingresso della banca. Secondo il comunicato del Parquet national antiterroriste, l'uomo è stato arrestato e condotto in un locale di polizia per ulteriori indagini. La polizia ha anche bloccato la zona circostante e ha evacuato i passanti. L'esplosivo artigianale è stato neutralizzato e la polizia sta eseguendo un'analisi per determinare se è stato costruito ad arte. La banca non",
+  "corpo2": "ha riportato danni significativi. La polizia francese ha anche rilasciato una dichiarazione in cui afferma che l'indagine è ancora in corso e che non sono state emesse ulteriori informazioni. La Bank of America non ha rilasciato alcuna dichiarazione ufficiale. L'uomo arrestato non è stato identificato, ma la polizia francese sta conducendo un'indagine per determinare se c'è un collegamento con altre organizzazioni terroristiche. La Bank of America è una delle principali banche americane a livello mondiale e ha una forte presenza in Francia. Questa notizia lascia aperto un dubbio preciso: come è possibile che un esplosivo artigianale possa raggiungere Parigi senza essere stato scoperto? La risposta potrebbe essere legata alla mancanza di controlli efficaci ai confini della Francia. polizia francese | Bank of America Parigi | esplosivo artigianale",
+  "journalist": {
+    "id": "fabrizio_mei_01",
+    "firma": "Fabrizio Mei",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-03-28T16:46:04.019997+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/4135324/pexels-photo-4135324.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Steve Pancrate",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Parigino arrestato per tentato attentato alla Bank of America\",\n  \"description\": \"La polizia francese ha arrestato un uomo che ha tentato di depositare un esplosivo artigianale davanti alla sede della Bank of America a Parigi, nella zona di centro-ovest della città. I fatti sono accaduti alle 3:30 del mattino di sabato 28 marzo, sulla rue de la Boétie.\",\n  \"articleBody\": \"La polizia francese ha arrestato un uomo che ha tentato di depositare un esplosivo artigianale davanti alla sede della Bank of America a Parigi, nella zona di centro-ovest della città. I fatti sono accaduti alle 3:30 del mattino di sabato 28 marzo, sulla rue de la Boétie. per lasciare l'esplosivo davanti all'ingresso della banca. Secondo il comunicato del Parquet national antiterroriste, l'uomo è stato arrestato e condotto in un locale di polizia per ulteriori indagini. La polizia ha anche bloccato la zona circostante e ha evacuato i passanti. L'esplosivo artigianale è stato neutralizzato e la polizia sta eseguendo un'analisi per determinare se è stato costruito ad arte. La banca non ha riportato danni significativi. La polizia francese ha anche rilasciato una dichiarazione in cui afferma che l'indagine è ancora in corso e che non sono state emesse ulteriori informazioni. La Bank of America non ha rilasciato alcuna dichiarazione ufficiale. L'uomo arrestato non è stato identificato, ma la polizia francese sta conducendo un'indagine per determinare se c'è un collegamento con altre organizzazioni terroristiche. La Bank of America è una delle principali banche americane a livello mondiale e ha una forte presenza in Francia. Questa notizia lascia aperto un dubbio preciso: come è possibile che un esplosivo artigianale possa raggiungere Parigi senza essere stato scoperto? La risposta potrebbe essere legata alla mancanza di controlli efficaci ai confini della Francia. polizia francese | Bank of America Parigi | esplosivo artigianale\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Fabrizio Mei\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T16:46:04.019997+00:00\",\n  \"dateModified\": \"2026-03-28T16:46:04.019997+00:00\",\n  \"url\": \"https://gazzettanazionale.it/esteri/01921fec04cac51a\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/esteri/01921fec04cac51a\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/4135324/pexels-photo-4135324.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Steve Pancrate\"\n  }\n}",
+  "priority": 3,
+  "source": "Le Monde",
+  "source_type": "esteri",
+  "original_url": "https://www.lemonde.fr/societe/article/2026/03/28/la-bank-of-america-visee-par-une-tentative-d-attentat-a-paris-un-engin-explosif-artisanal-depose-devant-l-etablissement_6675060_3224.html",
+  "related": [
+    {
+      "title": "Uomo fermato a Parigi con ordigno davanti Bank of America",
+      "url": "/esteri/uomo-fermato-a-parigi-con-ordigno-davanti-bank-of-2fa5295af8c8101d",
+      "id": "2fa5295af8c8101d"
+    },
+    {
+      "title": "Tentato omicidio: coppia accusata di avvelenamento di una donna incinta a Iowa",
+      "url": "/esteri/tentato-omicidio-coppia-accusata-di-avvelenamento-f641e65eeefd871b",
+      "id": "f641e65eeefd871b"
+    },
+    {
+      "title": "MISSIONE LOGEMENT SCONFESSA DALL'ESPERTO PARIGINO",
+      "url": "/esteri/missione-logement-sconfessa-dallesperto-parigino-0ff69850f5b76216",
+      "id": "0ff69850f5b76216"
+    }
+  ]
+}
