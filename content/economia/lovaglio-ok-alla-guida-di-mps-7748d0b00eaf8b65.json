@@ -1,0 +1,51 @@
+{
+  "id": "7748d0b00eaf8b65",
+  "slug": "lovaglio-ok-alla-guida-di-mps-7748d0b00eaf8b65",
+  "title": "Lovaglio ok alla guida di Mps",
+  "titles": [
+    "Lovaglio ok alla guida di Mps",
+    "Bce sdogana ricandidatura Lovaglio",
+    "Mps: via libera a Lovaglio"
+  ],
+  "title_winner": null,
+  "section": "economia",
+  "occhiello": "CONSOB SDOGANA RICANDIDATURA",
+  "lead": "Luigi Lovaglio, il 28 marzo 2026, ha visto la sua ricandidatura alla guida del Monte dei Paschi di Siena sdoganata da Consob e Bce.",
+  "corpo1": "Secondo quanto riportato, la vigilanza bancaria e dei mercati ha ridimensionato gli esposti di Mps contro la ricandidatura di Luigi Lovaglio, chiedendo all'istituto di fare immediatamente chiarezza sul mercato per evitare la diffusione di informazioni non corrette. In una riunione notturna, Bce, Consob e Bankitalia hanno chiarito che la ricandidatura di Lovaglio è \"legittima\" e che non ci sono dubbi di legittimità sulla validità di tutte e tre le liste. La decisione è stata presa nel corso di una riunione notturna e rappresenta un importante passo avanti per la banca senese. La vicenda ha suscitato grande interesse e attenzione nel mondo finanziario, soprattutto in considerazione della delicatezza del momento per i fondi d'investimento.",
+  "corpo2": "Luigi Lovaglio è una figura nota nel mondo finanziario italiano, con una lunga esperienza nella gestione di istituti bancari. La sua ricandidatura alla guida del Monte dei Paschi di Siena rappresenta un importante momento per la banca, che cerca di risollevarsi dopo una serie di difficoltà. La decisione di Consob e Bce di sdoganare la sua ricandidatura rappresenta un voto di fiducia per Lovaglio e per la banca, e potrebbe avere importanti ripercussioni per il settore finanziario italiano. Ma cosa significherà really questa decisione per i piccoli azionisti e per la stabilità del sistema bancario italiano?",
+  "journalist": {
+    "id": "marta_levi_01",
+    "firma": "Marta Levi",
+    "sezione": "economia"
+  },
+  "published_at": "2026-03-28T16:12:30.747423+00:00",
+  "image": {
+    "type": "wikimedia",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Mario_and_Luigi_hats_20210313.jpg",
+    "source": "Wikimedia Commons",
+    "credit": "Solomon203",
+    "license": "CC"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Lovaglio ok alla guida di Mps\",\n  \"description\": \"Luigi Lovaglio, il 28 marzo 2026, ha visto la sua ricandidatura alla guida del Monte dei Paschi di Siena sdoganata da Consob e Bce.\",\n  \"articleBody\": \"Luigi Lovaglio, il 28 marzo 2026, ha visto la sua ricandidatura alla guida del Monte dei Paschi di Siena sdoganata da Consob e Bce. Secondo quanto riportato, la vigilanza bancaria e dei mercati ha ridimensionato gli esposti di Mps contro la ricandidatura di Luigi Lovaglio, chiedendo all'istituto di fare immediatamente chiarezza sul mercato per evitare la diffusione di informazioni non corrette. In una riunione notturna, Bce, Consob e Bankitalia hanno chiarito che la ricandidatura di Lovaglio è \\\"legittima\\\" e che non ci sono dubbi di legittimità sulla validità di tutte e tre le liste. La decisione è stata presa nel corso di una riunione notturna e rappresenta un importante passo avanti per la banca senese. La vicenda ha suscitato grande interesse e attenzione nel mondo finanziario, soprattutto in considerazione della delicatezza del momento per i fondi d'investimento. Luigi Lovaglio è una figura nota nel mondo finanziario italiano, con una lunga esperienza nella gestione di istituti bancari. La sua ricandidatura alla guida del Monte dei Paschi di Siena rappresenta un importante momento per la banca, che cerca di risollevarsi dopo una serie di difficoltà. La decisione di Consob e Bce di sdoganare la sua ricandidatura rappresenta un voto di fiducia per Lovaglio e per la banca, e potrebbe avere importanti ripercussioni per il settore finanziario italiano. Ma cosa significherà really questa decisione per i piccoli azionisti e per la stabilità del sistema bancario italiano?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Marta Levi\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T16:12:30.747423+00:00\",\n  \"dateModified\": \"2026-03-28T16:12:30.747423+00:00\",\n  \"url\": \"https://gazzettanazionale.it/economia/7748d0b00eaf8b65\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/economia/7748d0b00eaf8b65\"\n  },\n  \"articleSection\": \"Economia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://upload.wikimedia.org/wikipedia/commons/9/97/Mario_and_Luigi_hats_20210313.jpg\",\n    \"creditText\": \"Solomon203\"\n  }\n}",
+  "priority": 7,
+  "source": "Il Fatto Quotidiano",
+  "source_type": "competitor",
+  "original_url": "https://www.ilfattoquotidiano.it/2026/03/28/consob-bce-mps-ok-lista-lovaglio/8338430/",
+  "related": [
+    {
+      "title": "Tassa a due euro sulle spedizioni extra UE slitta a luglio",
+      "url": "/economia/tassa-a-due-euro-sulle-spedizioni-extra-ue-slitta-c5cabe9f7292ce05",
+      "id": "c5cabe9f7292ce05"
+    },
+    {
+      "title": "I biglietti aereo sono saliti del 13% a Pasqua",
+      "url": "/economia/i-biglietti-aereo-sono-saliti-del-13-a-pasqua-51480b1683bb36f2",
+      "id": "51480b1683bb36f2"
+    },
+    {
+      "title": "2,3 miliardi risparmiati, l'ora legale torna a beneficiare i cittadini",
+      "url": "/economia/23-miliardi-risparmiati-lora-legale-torna-a-benefi-e5615b228a533c0e",
+      "id": "e5615b228a533c0e"
+    }
+  ]
+}
