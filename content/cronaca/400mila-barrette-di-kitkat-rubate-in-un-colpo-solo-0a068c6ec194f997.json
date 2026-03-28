@@ -1,0 +1,51 @@
+{
+  "id": "0a068c6ec194f997",
+  "slug": "400mila-barrette-di-kitkat-rubate-in-un-colpo-solo-0a068c6ec194f997",
+  "title": "400mila barrette di KitKat rubate in un colpo solo",
+  "titles": [
+    "400mila barrette di KitKat rubate in un colpo solo",
+    "Il furto del secolo: 12 tonnellate di KitKat sparite nel nulla",
+    "Nestlè in panna: 400mila barrette di KitKat rubate"
+  ],
+  "title_winner": null,
+  "section": "cronaca",
+  "occhiello": "MAXI FURTO DI KITKAT",
+  "lead": "Nestlè, 400mila barrette rubate. Un camion con un carico da 12 tonnellate di KitKat è stato rubato durante il trasporto, con il rischio concreto di creare carenze nei negozi. La notizia è stata riportata sabato 28 marzo 2026.",
+  "corpo1": "Un maxi furto di KitKat è stato segnalato sabato 28 marzo 2026. Un camion che trasportava 12 tonnellate di KitKat, pari a 400mila barrette, è stato rubato durante il trasporto. La Nestlè ha confermato che il furto potrebbe creare carenze nei negozi. Non sono state fornite informazioni sulle modalità del furto né sui responsabili. La polizia è stata informata e sta indagando sul caso. La Nestlè ha dichiarato che il furto potrebbe avere ripercussioni sulla disponibilità del prodotto nei negozi.",
+  "corpo2": "Il furto di un intero camion di KitKat non è un evento isolato. Negli ultimi anni, si sono verificati numerosi casi di furto di merci durante il trasporto, spesso a causa della mancanza di sicurezza e della crisi economica. La Nestlè, come altre aziende, potrebbe essere costretta a rivedere le sue strategie di sicurezza e di approvvigionamento. I consumatori saranno davvero disposti a pagare di più per il KitKat o sceglieranno un altro prodotto?",
+  "journalist": {
+    "id": "roberto_neri_01",
+    "firma": "Roberto Neri",
+    "sezione": "cronaca"
+  },
+  "published_at": "2026-03-28T12:52:45.231091+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/29174551/pexels-photo-29174551.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "SHOX ART",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"400mila barrette di KitKat rubate in un colpo solo\",\n  \"description\": \"Nestlè, 400mila barrette rubate. Un camion con un carico da 12 tonnellate di KitKat è stato rubato durante il trasporto, con il rischio concreto di creare carenze nei negozi. La notizia è stata riportata sabato 28 marzo 2026.\",\n  \"articleBody\": \"Nestlè, 400mila barrette rubate. Un camion con un carico da 12 tonnellate di KitKat è stato rubato durante il trasporto, con il rischio concreto di creare carenze nei negozi. La notizia è stata riportata sabato 28 marzo 2026. Un maxi furto di KitKat è stato segnalato sabato 28 marzo 2026. Un camion che trasportava 12 tonnellate di KitKat, pari a 400mila barrette, è stato rubato durante il trasporto. La Nestlè ha confermato che il furto potrebbe creare carenze nei negozi. Non sono state fornite informazioni sulle modalità del furto né sui responsabili. La polizia è stata informata e sta indagando sul caso. La Nestlè ha dichiarato che il furto potrebbe avere ripercussioni sulla disponibilità del prodotto nei negozi. Il furto di un intero camion di KitKat non è un evento isolato. Negli ultimi anni, si sono verificati numerosi casi di furto di merci durante il trasporto, spesso a causa della mancanza di sicurezza e della crisi economica. La Nestlè, come altre aziende, potrebbe essere costretta a rivedere le sue strategie di sicurezza e di approvvigionamento. I consumatori saranno davvero disposti a pagare di più per il KitKat o sceglieranno un altro prodotto?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Roberto Neri\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T12:52:45.231091+00:00\",\n  \"dateModified\": \"2026-03-28T12:52:45.231091+00:00\",\n  \"url\": \"https://gazzettanazionale.it/cronaca/0a068c6ec194f997\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/cronaca/0a068c6ec194f997\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/29174551/pexels-photo-29174551.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"SHOX ART\"\n  }\n}",
+  "priority": 6,
+  "source": "Il Fatto Quotidiano",
+  "source_type": "competitor",
+  "original_url": "https://www.ilfattoquotidiano.it/2026/03/28/maxi-furto-di-kitkat-sparito-un-camion-con-dentro-400mila-barrette-la-nestle-rischio-carenza-nei-negozi/8338468/",
+  "related": [
+    {
+      "title": "Centauro di 46 anni muore in incidente stradale",
+      "url": "/cronaca/centauro-di-46-anni-muore-in-incidente-stradale-afb7f80ae433f852",
+      "id": "afb7f80ae433f852"
+    },
+    {
+      "title": "The Voice Generations: 3,4 milioni di telespettatori",
+      "url": "/cronaca/the-voice-generations-34-milioni-di-telespettatori-9eda4361f1e40af7",
+      "id": "9eda4361f1e40af7"
+    },
+    {
+      "title": "FEMMINICIDIO E BUGIE: LA DONNA ARRESTATA",
+      "url": "/cronaca/femminicidio-e-bugie-la-donna-arrestata-4a06aa7858d380da",
+      "id": "4a06aa7858d380da"
+    }
+  ]
+}
