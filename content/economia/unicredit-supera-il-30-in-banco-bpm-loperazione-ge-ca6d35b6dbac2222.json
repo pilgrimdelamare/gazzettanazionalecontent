@@ -1,0 +1,51 @@
+{
+  "id": "ca6d35b6dbac2222",
+  "slug": "unicredit-supera-il-30-in-banco-bpm-loperazione-ge-ca6d35b6dbac2222",
+  "title": "UniCredit supera il 30% in Banco Bpm: l'operazione 'gentile' di Orcel",
+  "titles": [
+    "UniCredit supera il 30% in Banco Bpm: l'operazione 'gentile' di Orcel",
+    "Andrea Orcel, il CEO che fa scalpore: UniCredit al 30% in Banco Bpm",
+    "UniCredit verso la banca paneuropea: il piano Unlimited con Banco Bpm"
+  ],
+  "title_winner": null,
+  "section": "economia",
+  "occhiello": "Unicredit supera il 30% in Banco Bpm",
+  "lead": "UniCredit, guidata da Andrea Orcel, ha superato il 30% in Banco Bpm con un'operazione \"gentile\", senza esercitare il controllo. La mossa è stata resa possibile dopo che Orcel aveva agito come i francesi di Crédit Agricole su Banco Bpm, salendo fino al 30%. Secondo la strategia del gruppo bancario, questa operazione è coerente con il piano UniCredit Unlimited.",
+  "corpo1": "UniCredit ha superato il 30% in Banco Bpm con un'operazione \"gentile\", senza esercitare il controllo. La mossa è stata resa possibile dopo che Andrea Orcel, CEO di UniCredit, aveva agito come i francesi di Crédit Agricole su Banco Bpm, salendo fino al 30%. L'operazione è coerente con il piano strategico UniCredit Unlimited, che si concentra su obiettivi, crescita e creazione di valore. Secondo il gruppo bancario, questa operazione permetterà di creare la banca paneuropea del futuro. La strategia ESG è centrale in questo percorso, guidando le leve che generano un impatto significativo, coerente e misurabile.",
+  "corpo2": "Questa mossa di UniCredit solleva interrogativi sulla concentrazione nel settore bancario italiano. Con una quota di mercato in crescita, UniCredit sembra avere margine per crescere in Italia. La domanda è se questa strategia di crescita attraverso acquisizioni \"gentili\" sarà sufficiente per creare valore per gli azionisti e per il settore nel suo complesso. Quale sarà l'impatto di questa operazione sulla concorrenza nel mercato bancario italiano?",
+  "journalist": {
+    "id": "marta_levi_01",
+    "firma": "Marta Levi",
+    "sezione": "economia"
+  },
+  "published_at": "2026-03-28T07:41:42.540720+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/11035543/pexels-photo-11035543.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "RealToughCandy.com",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"UniCredit supera il 30% in Banco Bpm: l'operazione 'gentile' di Orcel\",\n  \"description\": \"UniCredit, guidata da Andrea Orcel, ha superato il 30% in Banco Bpm con un'operazione \\\"gentile\\\", senza esercitare il controllo. La mossa è stata resa possibile dopo che Orcel aveva agito come i francesi di Crédit Agricole su Banco Bpm, salendo fino al 30%. Secondo la strategia del gruppo bancario, q\",\n  \"articleBody\": \"UniCredit, guidata da Andrea Orcel, ha superato il 30% in Banco Bpm con un'operazione \\\"gentile\\\", senza esercitare il controllo. La mossa è stata resa possibile dopo che Orcel aveva agito come i francesi di Crédit Agricole su Banco Bpm, salendo fino al 30%. Secondo la strategia del gruppo bancario, questa operazione è coerente con il piano UniCredit Unlimited. UniCredit ha superato il 30% in Banco Bpm con un'operazione \\\"gentile\\\", senza esercitare il controllo. La mossa è stata resa possibile dopo che Andrea Orcel, CEO di UniCredit, aveva agito come i francesi di Crédit Agricole su Banco Bpm, salendo fino al 30%. L'operazione è coerente con il piano strategico UniCredit Unlimited, che si concentra su obiettivi, crescita e creazione di valore. Secondo il gruppo bancario, questa operazione permetterà di creare la banca paneuropea del futuro. La strategia ESG è centrale in questo percorso, guidando le leve che generano un impatto significativo, coerente e misurabile. Questa mossa di UniCredit solleva interrogativi sulla concentrazione nel settore bancario italiano. Con una quota di mercato in crescita, UniCredit sembra avere margine per crescere in Italia. La domanda è se questa strategia di crescita attraverso acquisizioni \\\"gentili\\\" sarà sufficiente per creare valore per gli azionisti e per il settore nel suo complesso. Quale sarà l'impatto di questa operazione sulla concorrenza nel mercato bancario italiano?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Marta Levi\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T07:41:42.540720+00:00\",\n  \"dateModified\": \"2026-03-28T07:41:42.540720+00:00\",\n  \"url\": \"https://gazzettanazionale.it/economia/ca6d35b6dbac2222\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/economia/ca6d35b6dbac2222\"\n  },\n  \"articleSection\": \"Economia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/11035543/pexels-photo-11035543.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"RealToughCandy.com\"\n  }\n}",
+  "priority": 6,
+  "source": "Repubblica Economia",
+  "source_type": "competitor",
+  "original_url": "https://www.repubblica.it/economia/2026/03/28/news/unicredit_e_la_strategia_dei_piccoli_passi-425247976/?rss",
+  "related": [
+    {
+      "title": "Guerra in Iran: +121 euro per gas",
+      "url": "/economia/guerra-in-iran-121-euro-per-gas-95aa229cd2c95afd",
+      "id": "95aa229cd2c95afd"
+    },
+    {
+      "title": "Moody's taglia il Pil italiano al +0,7% nel 2026",
+      "url": "/economia/moodys-taglia-pil-italia-2026-a-07-linflazione-acc-d802a706da0a1d7c",
+      "id": "d802a706da0a1d7c"
+    },
+    {
+      "title": "60 milioni di italiani online: il Fascicolo sanitario entra nella terza fase",
+      "url": "/economia/60-milioni-di-italiani-storia-clinica-online-dal-3-eb83cee35c42ada1",
+      "id": "eb83cee35c42ada1"
+    }
+  ]
+}
