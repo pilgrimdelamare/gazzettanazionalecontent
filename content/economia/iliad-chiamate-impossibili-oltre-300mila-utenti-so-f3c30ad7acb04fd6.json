@@ -1,0 +1,51 @@
+{
+  "id": "f3c30ad7acb04fd6",
+  "slug": "iliad-chiamate-impossibili-oltre-300mila-utenti-so-f3c30ad7acb04fd6",
+  "title": "Iliad, chiamate impossibili: oltre 300mila utenti sono bloccati",
+  "titles": [
+    "Iliad, chiamate impossibili: oltre 300mila utenti sono bloccati",
+    "Un numero in 10mila, il problema tecnico che blocca Iliad",
+    "Iliad, il caos delle chiamate da cellulare: il problema che riguarda centinaia d"
+  ],
+  "title_winner": null,
+  "section": "economia",
+  "occhiello": "CHIAMATE IMPOSSIBILI DOPO LA PORTABILITÀ DEL NUMERO MOBILE",
+  "lead": "Un cittadino italiana ha notato che dopo aver passato a Iliad per la rete e il telefono fisso a dicembre, è impossibile effettuare chiamate da telefono fisso a numero mobile. Succede da subito dopo la portabilità del numero mobile, a partire da dicembre del 2025. La vicenda riguarda centinaia di migliaia di utenti che hanno cambiato operatore.",
+  "corpo1": "subito ho notato che il mio cellulare, con il numero di telefono fisso, non riesce a effettuare chiamate verso il numero mobile di altre persone, a parte il mio stesso numero\". Il problema è piuttosto diffuso, stando a quanto riportato da La Repubblica, e sembra interessare centinaia di migliaia di utenti che hanno cambiato operatore. La Repubblica ha cercato di capire cosa stia succedendo. \"Secondo i tecnici di Iliad, il problema è causato da un problema tecnico con la rete di portabilità dei numeri. \"La portabilità dei numeri è un",
+  "corpo2": "processo complesso che coinvolge molte aziende diverse. In questo caso, sembra che sia stato commesso un errore tecnico che sta impedendo le chiamate verso il numero mobile di altre persone\", spiega un tecnico di Iliad. La Repubblica ha cercato di contattare anche le altre aziende coinvolte nel procedimento di portabilità dei numeri. \"Siamo al lavoro per risolvere il problema, ma non possiamo fornire ulteriori informazioni in questo momento\", ha detto un rappresentante di Vodafone. telefono cellulare | numero mobile | problema tecnico La portabilità dei numeri è un servizio che consente ai clienti di cambiare operatore mantenendo il proprio numero di telefono. È un servizio molto popolare, ma anche molto complesso, poiché coinvolge molte aziende diverse. In questo caso, sembra che sia stato commesso un errore tecnico che sta impedendo le chiamate verso il numero mobile di altre persone. La Repubblica ha cercato di capire cosa stia succedendo e ha contattato le aziende coinvolte nel procedimento di portabilità dei numeri. Il problema è piuttosto diffuso e sembra interessare centinaia di migliaia di utenti. E la domanda è: chi paga il conto?",
+  "journalist": {
+    "id": "giorgio_ferrara_01",
+    "firma": "Giorgio Ferrara",
+    "sezione": "economia"
+  },
+  "published_at": "2026-03-28T16:25:13.820484+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/6958769/pexels-photo-6958769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "www.kaboompics.com",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Iliad, chiamate impossibili: oltre 300mila utenti sono bloccati\",\n  \"description\": \"Un cittadino italiana ha notato che dopo aver passato a Iliad per la rete e il telefono fisso a dicembre, è impossibile effettuare chiamate da telefono fisso a numero mobile. Succede da subito dopo la portabilità del numero mobile, a partire da dicembre del 2025. La vicenda riguarda centinaia di mig\",\n  \"articleBody\": \"Un cittadino italiana ha notato che dopo aver passato a Iliad per la rete e il telefono fisso a dicembre, è impossibile effettuare chiamate da telefono fisso a numero mobile. Succede da subito dopo la portabilità del numero mobile, a partire da dicembre del 2025. La vicenda riguarda centinaia di migliaia di utenti che hanno cambiato operatore. subito ho notato che il mio cellulare, con il numero di telefono fisso, non riesce a effettuare chiamate verso il numero mobile di altre persone, a parte il mio stesso numero\\\". Il problema è piuttosto diffuso, stando a quanto riportato da La Repubblica, e sembra interessare centinaia di migliaia di utenti che hanno cambiato operatore. La Repubblica ha cercato di capire cosa stia succedendo. \\\"Secondo i tecnici di Iliad, il problema è causato da un problema tecnico con la rete di portabilità dei numeri. \\\"La portabilità dei numeri è un processo complesso che coinvolge molte aziende diverse. In questo caso, sembra che sia stato commesso un errore tecnico che sta impedendo le chiamate verso il numero mobile di altre persone\\\", spiega un tecnico di Iliad. La Repubblica ha cercato di contattare anche le altre aziende coinvolte nel procedimento di portabilità dei numeri. \\\"Siamo al lavoro per risolvere il problema, ma non possiamo fornire ulteriori informazioni in questo momento\\\", ha detto un rappresentante di Vodafone. telefono cellulare | numero mobile | problema tecnico La portabilità dei numeri è un servizio che consente ai clienti di cambiare operatore mantenendo il proprio numero di telefono. È un servizio molto popolare, ma anche molto complesso, poiché coinvolge molte aziende diverse. In questo caso, sembra che sia stato commesso un errore tecnico che sta impedendo le chiamate verso il numero mobile di altre persone. La Repubblica ha cercato di capire cosa stia succedendo e ha contattato le aziende coinvolte nel procedimento di portabilità dei numeri. Il problema è piuttosto diffuso e sembra interessare centinaia di migliaia di utenti. E la domanda è: chi paga il conto?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Giorgio Ferrara\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T16:25:13.820484+00:00\",\n  \"dateModified\": \"2026-03-28T16:25:13.820484+00:00\",\n  \"url\": \"https://gazzettanazionale.it/economia/f3c30ad7acb04fd6\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/economia/f3c30ad7acb04fd6\"\n  },\n  \"articleSection\": \"Economia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/6958769/pexels-photo-6958769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"www.kaboompics.com\"\n  }\n}",
+  "priority": 5,
+  "source": "Repubblica Economia",
+  "source_type": "competitor",
+  "original_url": "https://www.repubblica.it/economia/diritti-e-consumi/diritti-consumatori/domande-e-risposte/2026/03/28/news/chiamate_impossibili_dopo_la_portabilita_del_numero_mobile_perche_succede_e_come_risolvere-425250158/?rss",
+  "related": [
+    {
+      "title": "CONFINDIUSTRIA VALE AOSTA: \"GOVERNO DIFENDA SISTEMA PRODUTTIVO\" NEL D.L. FISCALE",
+      "url": "/economia/confindiustria-vale-aosta-governo-difenda-sistema-6b6f1b789cd3ec98",
+      "id": "6b6f1b789cd3ec98"
+    },
+    {
+      "title": "Cinquantasette sigle unite: il corteo pro ponte sullo Stretto",
+      "url": "/economia/cinquantasette-sigle-unite-il-corteo-pro-ponte-sul-0fb75483d3198d0b",
+      "id": "0fb75483d3198d0b"
+    },
+    {
+      "title": "Sconfitto a Porto Trieste: l'atteggiamento del sindaco uscente",
+      "url": "/economia/sconfitto-a-porto-trieste-latteggiamento-del-sinda-3f504ae7bbd4f660",
+      "id": "3f504ae7bbd4f660"
+    }
+  ]
+}
