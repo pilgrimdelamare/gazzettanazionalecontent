@@ -1,0 +1,51 @@
+{
+  "id": "a36ea83a25f1e354",
+  "slug": "gb-guerra-in-iran-a-rischio-la-fornitura-di-medici-a36ea83a25f1e354",
+  "title": "Gb, guerra in Iran: a rischio la fornitura di medicinali",
+  "titles": [
+    "Gb, guerra in Iran: a rischio la fornitura di medicinali",
+    "La Gran Bretagna a un passo dalle carenze di farmaci",
+    "Rischio farmaci introvabili: l'effetto della guerra in Iran"
+  ],
+  "title_winner": null,
+  "section": "esteri",
+  "occhiello": "MEDICINE IN SCORTESIA: GUERRA IN IRAN",
+  "lead": "La Gran Bretagna si avvicina alle medicine in scortesia a causa della guerra in Iran. Secondo gli esperti, il conflitto sta interrompendo la fornitura di materie prime cruciali per la produzione di medicinali, inclusi analgesici e trattamenti oncologici. Ciò potrebbe portare a carenze di farmaci e aumenti nei prezzi.",
+  "corpo1": "La penisola britannica si trova a poche settimane dalle medicine in scortesia se la guerra in Iran continua. È quanto affermano gli esperti, che temono carenze di farmaci e aumenti dei prezzi. La guerra ha interrotto la fornitura di materie prime cruciali per la produzione di medicinali, inclusi analgesici e trattamenti oncologici. \n\nSecondo la fonte, i flussi aerei e marittimi sono stati disconnessi a causa della guerra. Questo ha colpito le spedizioni dei produttori farmaceutici, che dipendono da queste importazioni per produrre farmaci. Gli esperti hanno avvertito di un potenziale shock per i servizi sanitari britannici, che potrebbero esserne colpiti non appena un po' di tempo.\n\nLa situazione è grave e potrebbe avere conseguenze per milioni di persone. Gli esperti sono preoccupati per la possibile mancanza di farmaci e per gli aumenti dei prezzi. La Gran Bretagna è già in una posizione delicata, e la guerra in Iran potrebbe ulteriormente aggravare la situazione.",
+  "corpo2": "La Gran Bretagna non è l'unica nazione coinvolta in questa crisi. La guerra in Iran sta interrompendo la fornitura di materie prime cruciali per la produzione di medicinali in tutto il mondo. Ciò potrebbe avere conseguenze a lungo termine per i servizi sanitari globali. La situazione è complessa e richiede una risposta coordinata da parte delle nazioni coinvolte. Ma la domanda è: chi può permettersi di pagare i prezzi più alti per i farmaci?",
+  "journalist": {
+    "id": "anna_colombo_01",
+    "firma": "Anna Colombo",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-03-28T07:11:47.550467+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/13955050/pexels-photo-13955050.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Sima Ghaffarzadeh",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Gb, guerra in Iran: a rischio la fornitura di medicinali\",\n  \"description\": \"La Gran Bretagna si avvicina alle medicine in scortesia a causa della guerra in Iran. Secondo gli esperti, il conflitto sta interrompendo la fornitura di materie prime cruciali per la produzione di medicinali, inclusi analgesici e trattamenti oncologici. Ciò potrebbe portare a carenze di farmaci e a\",\n  \"articleBody\": \"La Gran Bretagna si avvicina alle medicine in scortesia a causa della guerra in Iran. Secondo gli esperti, il conflitto sta interrompendo la fornitura di materie prime cruciali per la produzione di medicinali, inclusi analgesici e trattamenti oncologici. Ciò potrebbe portare a carenze di farmaci e aumenti nei prezzi. La penisola britannica si trova a poche settimane dalle medicine in scortesia se la guerra in Iran continua. È quanto affermano gli esperti, che temono carenze di farmaci e aumenti dei prezzi. La guerra ha interrotto la fornitura di materie prime cruciali per la produzione di medicinali, inclusi analgesici e trattamenti oncologici. \\n\\nSecondo la fonte, i flussi aerei e marittimi sono stati disconnessi a causa della guerra. Questo ha colpito le spedizioni dei produttori farmaceutici, che dipendono da queste importazioni per produrre farmaci. Gli esperti hanno avvertito di un potenziale shock per i servizi sanitari britannici, che potrebbero esserne colpiti non appena un po' di tempo.\\n\\nLa situazione è grave e potrebbe avere conseguenze per milioni di persone. Gli esperti sono preoccupati per la possibile mancanza di farmaci e per gli aumenti dei prezzi. La Gran Bretagna è già in una posizione delicata, e la guerra in Iran potrebbe ulteriormente aggravare la situazione. La Gran Bretagna non è l'unica nazione coinvolta in questa crisi. La guerra in Iran sta interrompendo la fornitura di materie prime cruciali per la produzione di medicinali in tutto il mondo. Ciò potrebbe avere conseguenze a lungo termine per i servizi sanitari globali. La situazione è complessa e richiede una risposta coordinata da parte delle nazioni coinvolte. Ma la domanda è: chi può permettersi di pagare i prezzi più alti per i farmaci?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T07:11:47.550467+00:00\",\n  \"dateModified\": \"2026-03-28T07:11:47.550467+00:00\",\n  \"url\": \"https://gazzettanazionale.it/esteri/a36ea83a25f1e354\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/esteri/a36ea83a25f1e354\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/13955050/pexels-photo-13955050.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Sima Ghaffarzadeh\"\n  }\n}",
+  "priority": 4,
+  "source": "The Guardian",
+  "source_type": "esteri",
+  "original_url": "https://www.theguardian.com/business/2026/mar/28/uk-weeks-away-medicine-shortages-iran-war-impacts-experts-warn",
+  "related": [
+    {
+      "title": "Iran, piano di guerra: paesi del Golfo in allarme per milizie",
+      "url": "/esteri/iran-piano-di-guerra-paesi-del-golfo-in-allarme-pe-0c1f2581a9dc0ffb",
+      "id": "0c1f2581a9dc0ffb"
+    },
+    {
+      "title": "Iran colpisce base USA in Arabia Saudita",
+      "url": "/esteri/iran-colpisce-base-usa-in-arabia-saudita-437b3c1d19f57460",
+      "id": "437b3c1d19f57460"
+    },
+    {
+      "title": "Thailandia e Iran, intesa sullo Stretto di Hormuz",
+      "url": "/esteri/thailandia-e-iran-intesa-sullo-stretto-di-hormuz-76b16783b556f360",
+      "id": "76b16783b556f360"
+    }
+  ]
+}
