@@ -1,5 +1,22 @@
 [
   {
+    "id": "78db4377c9dc39ec",
+    "slug": "arrestato-ex-premier-nepalese-oli-per-repressione-78db4377c9dc39ec",
+    "title": "Arrestato KP Sharma Oli, ex premier del Nepal, per repressione proteste",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-03-28T05:39:08.096587+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/11379563/pexels-photo-11379563.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "EX PREMIER NEPALESE OLI ARRESTATO",
+    "lead_preview": "KP Sharma Oli, ex premier del Nepal, è stato arrestato nella notte tra venerdì e sabato scorso, 27 marzo 2026, a Kathman",
+    "tags": [
+      "arresto kp sharma oli",
+      "nepal proteste"
+    ]
+  },
+  {
     "id": "ca6d35b6dbac2222",
     "slug": "unicredit-supera-il-30-in-banco-bpm-loperazione-ge-ca6d35b6dbac2222",
     "title": "UniCredit supera il 30% in Banco Bpm: l'operazione 'gentile' di Orcel",
@@ -625,23 +642,6 @@
     "lead_preview": "Mario Pomini, docente di Economia all'Università di Padova, ha dichiarato che la Costituzione è salva e ora i cittadini ",
     "tags": [
       "referendum costituzionale"
-    ]
-  },
-  {
-    "id": "78db4377c9dc39ec",
-    "slug": "arrestato-ex-premier-nepalese-oli-per-repressione-78db4377c9dc39ec",
-    "title": "Arrestato ex premier nepalese Oli per repressione proteste",
-    "section": "esteri",
-    "priority": 4,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-03-28T05:39:08.096587+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/17160682/pexels-photo-17160682.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "EX PREMIER NEPAL ARRSTATATO PER PROTESTE",
-    "lead_preview": "KP Sharma Oli, ex premier del Nepal, è stato arrestato nella notte tra venerdì e sabato scorso, 27 marzo 2026, a Kathman",
-    "tags": [
-      "arresto oli nepal",
-      "proteste nepal"
     ]
   },
   {
