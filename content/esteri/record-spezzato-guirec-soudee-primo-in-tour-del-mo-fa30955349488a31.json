@@ -1,51 +1,52 @@
 {
   "id": "fa30955349488a31",
   "slug": "record-spezzato-guirec-soudee-primo-in-tour-del-mo-fa30955349488a31",
-  "title": "Record spezzato: Guirec Soudée primo in tour del mondo in solitario",
+  "title": "Guirec Soudée, 34 anni, completa tour del mondo in solitario",
   "titles": [
-    "Record spezzato: Guirec Soudée primo in tour del mondo in solitario",
-    "L'uomo che ha fatto impazzire il mondo con la sua nave",
-    "L'avventura dell'anno: un navigatore di Bretagna completa il tour del mondo in 9"
+    "Guirec Soudée, 34 anni, completa tour del mondo in solitario",
+    "Bretagna: uomo di 34 anni naviga il mondo con un mul",
+    "28 marzo 2026: Francese compie impresa unica in mare"
   ],
   "title_winner": null,
   "section": "esteri",
-  "occhiello": "GUINEE: IL PRIMO NAVIGATORE A COMPLETARE IL TOUR DEL MONDO INVERTITO",
-  "lead": "Guirec Soudée, un navigatore di 34 anni di Bretagna, è il primo a completare il tour del mondo in solitario e con un multicoque, arrivando a Ouessant dopo 94 giorni, 21 ore e 58 minuti di navigazione.",
-  "corpo1": "Guirec Soudée, un navigatore di 34 anni di Bretagna, ha fatto la storia il 28 marzo scorso, diventando il primo a completare il tour del mondo in solitario e con un multicoque. La sua imbarcazione ha attraversato le 33 mila miglia del percorso in 94 giorni, 21 ore e 58 minuti, superando il record del tour del mondo in solitario in est-ovest detenuto da Jean-Luc Van Den Heede da 22 anni. La navigazione di Soudée è stata seguita da molti appassionati di vela e ha attirato l'attenzione dei media internazionali.\n\nIl percorso di Soudée ha iniziato a Ouessant, un'isola situata al largo della costa della Bretagna, e ha attraversato l'Atlantico, il Pacifico e l'India, prima di tornare a Ouessant. La navigazione è stata difficile e pericolosa, con condizioni meteo difficili e la necessità di affrontare la mancanza di risorse e la solitudine. Secondo un'intervista a Le Monde, Soudée ha affermato che \"la navigazione è stata una sfida fisica e mentale, ma anche un'esperienza di crescita personale e di scoperta del mondo\".\n\nIl record di Soudée non è solo un'impresa sportiva, ma anche un'opportunità per promuovere la cultura della navigazione e della vela. Soudée ha espresso la sua speranza di ispirare altre persone a seguire la sua passione e a scoprire il mondo attraverso la navigazione.\n\nFonti: Le Monde, 28 marzo 2026.",
-  "corpo2": "Guirec Soudée non è nuovo alla navigazione. Ha iniziato a navigare fin da bambino e ha partecipato a diverse competizioni di vela. Tuttavia, il tour del mondo in solitario è un'altra cosa del tutto. Soudée ha dovuto affrontare condizioni meteo difficili, la mancanza di risorse e la solitudine. Il suo percorso è stato seguito da molti appassionati di vela e ha attirato l'attenzione dei media internazionali.\n\nMa cosa cambia davvero per Soudée? La sua navigazione ha portato un riconoscimento internazionale, ma anche una nuova sfida. Soudée ha espresso la sua speranza di ispirare altre persone a seguire la sua passione e a scoprire il mondo attraverso la navigazione. Ma la vera domanda è: cosa significa per noi gli altri, che siamo seduti nella nostra riva, a guardare la navigazione di Soudée come una meraviglia da lontano? Che significa per noi il coraggio e la determinazione di Soudée, che ha affrontato la mancanza di risorse e la solitudine per portare a termine il suo percorso?",
+  "occhiello": "Guirec Soudée record tour del mondo in solitario",
+  "lead": "Guirec Soudée, 34 anni, di Bretagna, è il primo a completare il tour del mondo in solitario e con un mul. La notizia è stata resa pubblica il 28 marzo 2026.",
+  "corpo1": "Guirec Soudée, un navigatore di 34 anni di Bretagna, ha completato con successo il tour del mondo in solitario e con un mul, raggiungendo questo traguardo il 28 marzo 2026. Soudée ha navigato per mesi, affrontando diverse sfide climatiche e tecniche durante il suo viaggio intorno al mondo. ",
+  "corpo2": "Guirec Soudée non è nuovo a imprese nautiche impegnative, avendo già completato diverse traversate oceaniche in precedenza. Tuttavia, il tour del mondo in solitario e con un mul rappresenta un record significativo, che sottolinea la sua abilità e la sua determinazione come navigatore. Questa impresa potrebbe ispirare altri a intraprendere sfide simili, contribuendo a promuovere la navigazione a vela come sport e come mezzo per esplorare il mondo. ",
   "journalist": {
-    "id": "anna_colombo_01",
-    "firma": "Anna Colombo",
+    "id": "fabrizio_mei_01",
+    "firma": "Fabrizio Mei",
     "sezione": "esteri"
   },
   "published_at": "2026-03-28T11:43:56.920438+00:00",
   "image": {
     "type": "pexels",
-    "url": "https://images.pexels.com/photos/8662096/pexels-photo-8662096.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "url": "https://images.pexels.com/photos/14902028/pexels-photo-14902028.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "source": "Pexels",
-    "credit": "Clube Veleiros do Sul",
+    "credit": "Thomas Wilkinson",
     "license": "Pexels License"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Record spezzato: Guirec Soudée primo in tour del mondo in solitario\",\n  \"description\": \"Guirec Soudée, un navigatore di 34 anni di Bretagna, è il primo a completare il tour del mondo in solitario e con un multicoque, arrivando a Ouessant dopo 94 giorni, 21 ore e 58 minuti di navigazione.\",\n  \"articleBody\": \"Guirec Soudée, un navigatore di 34 anni di Bretagna, è il primo a completare il tour del mondo in solitario e con un multicoque, arrivando a Ouessant dopo 94 giorni, 21 ore e 58 minuti di navigazione. Guirec Soudée, un navigatore di 34 anni di Bretagna, ha fatto la storia il 28 marzo scorso, diventando il primo a completare il tour del mondo in solitario e con un multicoque. La sua imbarcazione ha attraversato le 33 mila miglia del percorso in 94 giorni, 21 ore e 58 minuti, superando il record del tour del mondo in solitario in est-ovest detenuto da Jean-Luc Van Den Heede da 22 anni. La navigazione di Soudée è stata seguita da molti appassionati di vela e ha attirato l'attenzione dei media internazionali.\\n\\nIl percorso di Soudée ha iniziato a Ouessant, un'isola situata al largo della costa della Bretagna, e ha attraversato l'Atlantico, il Pacifico e l'India, prima di tornare a Ouessant. La navigazione è stata difficile e pericolosa, con condizioni meteo difficili e la necessità di affrontare la mancanza di risorse e la solitudine. Secondo un'intervista a Le Monde, Soudée ha affermato che \\\"la navigazione è stata una sfida fisica e mentale, ma anche un'esperienza di crescita personale e di scoperta del mondo\\\".\\n\\nIl record di Soudée non è solo un'impresa sportiva, ma anche un'opportunità per promuovere la cultura della navigazione e della vela. Soudée ha espresso la sua speranza di ispirare altre persone a seguire la sua passione e a scoprire il mondo attraverso la navigazione.\\n\\nFonti: Le Monde, 28 marzo 2026. Guirec Soudée non è nuovo alla navigazione. Ha iniziato a navigare fin da bambino e ha partecipato a diverse competizioni di vela. Tuttavia, il tour del mondo in solitario è un'altra cosa del tutto. Soudée ha dovuto affrontare condizioni meteo difficili, la mancanza di risorse e la solitudine. Il suo percorso è stato seguito da molti appassionati di vela e ha attirato l'attenzione dei media internazionali.\\n\\nMa cosa cambia davvero per Soudée? La sua navigazione ha portato un riconoscimento internazionale, ma anche una nuova sfida. Soudée ha espresso la sua speranza di ispirare altre persone a seguire la sua passione e a scoprire il mondo attraverso la navigazione. Ma la vera domanda è: cosa significa per noi gli altri, che siamo seduti nella nostra riva, a guardare la navigazione di Soudée come una meraviglia da lontano? Che significa per noi il coraggio e la determinazione di Soudée, che ha affrontato la mancanza di risorse e la solitudine per portare a termine il suo percorso?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T11:43:56.920438+00:00\",\n  \"dateModified\": \"2026-03-28T11:43:56.920438+00:00\",\n  \"url\": \"https://gazzettanazionale.it/esteri/fa30955349488a31\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/esteri/fa30955349488a31\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/8662096/pexels-photo-8662096.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Clube Veleiros do Sul\"\n  }\n}",
-  "priority": 4,
-  "source": "Le Monde",
-  "source_type": "esteri",
-  "original_url": "https://www.lemonde.fr/sport/article/2026/03/28/guirec-soudee-premier-navigateur-a-boucler-un-tour-du-monde-a-l-envers-en-solitaire-et-en-multicoque_6675035_3242.html",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Guirec Soudée, 34 anni, completa tour del mondo in solitario\",\n  \"description\": \"Guirec Soudée, 34 anni, di Bretagna, è il primo a completare il tour del mondo in solitario e con un mul. La notizia è stata resa pubblica il 28 marzo 2026.\",\n  \"articleBody\": \"Guirec Soudée, 34 anni, di Bretagna, è il primo a completare il tour del mondo in solitario e con un mul. La notizia è stata resa pubblica il 28 marzo 2026. Guirec Soudée, un navigatore di 34 anni di Bretagna, ha completato con successo il tour del mondo in solitario e con un mul, raggiungendo questo traguardo il 28 marzo 2026. Soudée ha navigato per mesi, affrontando diverse sfide climatiche e tecniche durante il suo viaggio intorno al mondo.  Guirec Soudée non è nuovo a imprese nautiche impegnative, avendo già completato diverse traversate oceaniche in precedenza. Tuttavia, il tour del mondo in solitario e con un mul rappresenta un record significativo, che sottolinea la sua abilità e la sua determinazione come navigatore. Questa impresa potrebbe ispirare altri a intraprendere sfide simili, contribuendo a promuovere la navigazione a vela come sport e come mezzo per esplorare il mondo.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Fabrizio Mei\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T11:43:56.920438+00:00\",\n  \"dateModified\": \"2026-03-28T11:43:56.920438+00:00\",\n  \"url\": \"https://gazzettanazionale.it/esteri/fa30955349488a31\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/esteri/fa30955349488a31\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/14902028/pexels-photo-14902028.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Thomas Wilkinson\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://gazzettanazionale.it/esteri/record-spezzato-guirec-soudee-primo-in-tour-del-mo-fa30955349488a31",
   "related": [
     {
-      "title": "Decine di persone irrompono nella mairie di Fresnes",
-      "url": "/esteri/decine-di-persone-irrompono-nella-mairie-di-fresne-39405a1e9c6c973b",
-      "id": "39405a1e9c6c973b"
+      "title": "Amanda Smith torna a casa dopo 24 anni di distacco",
+      "url": "/esteri/madre-riassegnata-dopo-24-anni-di-silenzio-3f6d4ce9833b2dd6",
+      "id": "3f6d4ce9833b2dd6"
     },
     {
-      "title": "Russia uccide due e ferisce dodici a Odessa",
-      "url": "/esteri/russia-uccide-due-e-ferisce-dodici-a-odessa-8a919a5d0d32a5e8",
-      "id": "8a919a5d0d32a5e8"
+      "title": "Giovanni Satta condannato a 5 anni e 3 mesi per finanziamenti illeciti",
+      "url": "/esteri/pescatore-di-32-anni-accusa-i-trafficanti-di-migra-3efde28a374dd333",
+      "id": "3efde28a374dd333"
     },
     {
-      "title": "Convoglio internazionale arriva a Cuba con 50 tonnellate di aiuti",
-      "url": "/esteri/convoglio-internazionale-arriva-a-cuba-con-50-tonn-76b4881dc08561e6",
-      "id": "76b4881dc08561e6"
+      "title": "Uomo di 26 anni assassinato con coltello a Londra",
+      "url": "/esteri/uomo-di-26-anni-assassinato-con-coltello-a-londra-a5883ac7e09abb5f",
+      "id": "a5883ac7e09abb5f"
     }
-  ]
+  ],
+  "updated_at": "2026-03-28T11:43:56.920438+00:00"
 }
