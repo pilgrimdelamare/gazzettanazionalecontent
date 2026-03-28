@@ -1,5 +1,22 @@
 [
   {
+    "id": "ece9a115bff309ea",
+    "slug": "grignani-si-ferma-i-problemi-fisici-del-cantante-ece9a115bff309ea",
+    "title": "Notizia in primo piano",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-03-28T11:43:42.797025+00:00",
+    "image_type": "wikimedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Sanremo_1955.jpg",
+    "occhiello": "",
+    "lead_preview": "Gianluca Grignani annuncia la cancellazione di tre date del suo tour \"Menu In Edicola\" a causa di problemi fisici non gr",
+    "tags": [
+      "gianluca grignani",
+      "tour annullato"
+    ]
+  },
+  {
     "id": "fa30955349488a31",
     "slug": "record-spezzato-guirec-soudee-primo-in-tour-del-mo-fa30955349488a31",
     "title": "Guirec Soudée, 34 anni, completa tour del mondo in solitario",
@@ -2778,23 +2795,6 @@
     "tags": [
       "scontri a fresnes",
       "intrusione mairie fresnes"
-    ]
-  },
-  {
-    "id": "ece9a115bff309ea",
-    "slug": "grignani-si-ferma-i-problemi-fisici-del-cantante-ece9a115bff309ea",
-    "title": "GRIGNANI SI FERMA: I PROBLEMI FISICI DEL CANTANTE",
-    "section": "cultura",
-    "priority": 6,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-03-28T11:43:42.797025+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/10063145/pexels-photo-10063145.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "GRIGNANI SI FERMA: I PROBLEMI FISICI DEL CANTANTE",
-    "lead_preview": "Gianluca Grignani annuncia la cancellazione di tre date del suo tour \"Menu In Edicola\" a causa di problemi fisici non gr",
-    "tags": [
-      "grignani tour",
-      "grignani salute"
     ]
   },
   {
