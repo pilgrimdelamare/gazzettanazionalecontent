@@ -1,0 +1,51 @@
+{
+  "id": "fb9eb1c059075edd",
+  "slug": "iran-ammette-trattativa-per-evitare-escalation-con-fb9eb1c059075edd",
+  "title": "Iran ammette trattativa per evitare escalation con Usa",
+  "titles": [
+    "Iran ammette trattativa per evitare escalation con Usa",
+    "Governo iraniano nega qualunque coinvolgimento nel raid in Arabia Saudita",
+    "Stati Uniti e Iran si salvano la faccia ma tensioni in aumento"
+  ],
+  "title_winner": null,
+  "section": "esteri",
+  "occhiello": "SOLDATI USA FERITI IN UN RAID IRANIANO IN ARABIA SAUDITA",
+  "lead": "Teheran ammette la trattativa con gli Stati Uniti per evitare una escalation.  tra le due nazioni. Questo annuncio segue la notizia di soldati Usa feriti in un raid iraniano in Arabia Saudita e la dichiarazione di guerra degli Houthi contro gli Stati Uniti.",
+  "corpo1": ", che hanno riferito di soldati feriti in un raid iraniano in Arabia Saudita. Gli Houthi, un gruppo ribelle yemenita, hanno dichiarato guerra agli Stati Uniti.  tra le due nazioni. La notizia è stata confermata da ANSA, che ha riferito di un aumento delle tensioni tra gli Stati Uniti e l'Iran. Secondo ANSA, gli Stati Uniti hanno accusato l'Iran di essere coinvolto nel raid in Arabia Saudita. L'Iran ha negato qualunque coinvolgimento, ma ha ammesso la trattativa con gli Stati Uniti per evitare una escalation. .",
+  "corpo2": "Il rappresentante Usa per il Medio Oriente, Brett McGurk, ha una lunga storia di impegno nella regione. Prima di assumere questo ruolo, McGurk è stato coadiutore per la sicurezza nazionale degli Stati Uniti. La sua esperienza lo rende un giocatore chiave nella trattativa con l'Iran. La dichiarazione di guerra degli Houthi contro gli Stati Uniti potrebbe segnare un punto di svolta nella situazione. La guerra civile in Yemen è stata un punto di tensione tra gli Stati Uniti e l'Iran da anni. L'Iran ha sostenuto il governo yemenita, mentre gli Stati Uniti hanno sostenuto gli Houthi. La situazione è complessa e potrebbe avere conseguenze per la stabilità della regione. ",
+  "journalist": {
+    "id": "anna_colombo_01",
+    "firma": "Anna Colombo",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-03-28T17:52:05.049066+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/8531905/pexels-photo-8531905.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Beninu Andersen",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Iran ammette trattativa per evitare escalation con Usa\",\n  \"description\": \"Teheran ammette la trattativa con gli Stati Uniti per evitare una escalation.  tra le due nazioni. Questo annuncio segue la notizia di soldati Usa feriti in un raid iraniano in Arabia Saudita e la dichiarazione di guerra degli Houthi contro gli Stati Uniti.\",\n  \"articleBody\": \"Teheran ammette la trattativa con gli Stati Uniti per evitare una escalation.  tra le due nazioni. Questo annuncio segue la notizia di soldati Usa feriti in un raid iraniano in Arabia Saudita e la dichiarazione di guerra degli Houthi contro gli Stati Uniti. , che hanno riferito di soldati feriti in un raid iraniano in Arabia Saudita. Gli Houthi, un gruppo ribelle yemenita, hanno dichiarato guerra agli Stati Uniti.  tra le due nazioni. La notizia è stata confermata da ANSA, che ha riferito di un aumento delle tensioni tra gli Stati Uniti e l'Iran. Secondo ANSA, gli Stati Uniti hanno accusato l'Iran di essere coinvolto nel raid in Arabia Saudita. L'Iran ha negato qualunque coinvolgimento, ma ha ammesso la trattativa con gli Stati Uniti per evitare una escalation. . Il rappresentante Usa per il Medio Oriente, Brett McGurk, ha una lunga storia di impegno nella regione. Prima di assumere questo ruolo, McGurk è stato coadiutore per la sicurezza nazionale degli Stati Uniti. La sua esperienza lo rende un giocatore chiave nella trattativa con l'Iran. La dichiarazione di guerra degli Houthi contro gli Stati Uniti potrebbe segnare un punto di svolta nella situazione. La guerra civile in Yemen è stata un punto di tensione tra gli Stati Uniti e l'Iran da anni. L'Iran ha sostenuto il governo yemenita, mentre gli Stati Uniti hanno sostenuto gli Houthi. La situazione è complessa e potrebbe avere conseguenze per la stabilità della regione.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T17:52:05.049066+00:00\",\n  \"dateModified\": \"2026-03-28T17:52:05.049066+00:00\",\n  \"url\": \"https://gazzettanazionale.it/esteri/fb9eb1c059075edd\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/esteri/fb9eb1c059075edd\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/8531905/pexels-photo-8531905.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Beninu Andersen\"\n  }\n}",
+  "priority": 8,
+  "source": "ANSA Esteri",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/mondo/2026/03/28/soldati-usa-feriti-in-un-raid-iraniani-gli-houthi-dichiarano-guerra_82ce1fc0-9970-4e9a-a879-3cd0a3aab9bd.html",
+  "related": [
+    {
+      "title": "Iran: attacco di guerriglieri contro depositi britannici a Dubai e Abu Dhabi",
+      "url": "/esteri/houthi-attaccano-depositi-antidrone-uk-a-dubai-e-a-c0c30d00be6ce967",
+      "id": "c0c30d00be6ce967"
+    },
+    {
+      "title": "Iran colpisce il principale sito di produzione di aluminio a Abu Dhabi",
+      "url": "/esteri/iran-colpisce-il-principale-sito-di-produzione-di-0874e5248ebadaab",
+      "id": "0874e5248ebadaab"
+    },
+    {
+      "title": "Trump invia 10.000 soldati in Iran, la tensione sale",
+      "url": "/esteri/trump-invia-10000-soldati-in-iran-la-tensione-sale-05c4728cfbed343c",
+      "id": "05c4728cfbed343c"
+    }
+  ]
+}
