@@ -1,5 +1,22 @@
 [
   {
+    "id": "3d4dc668c3d8f50b",
+    "slug": "mezzo-milione-di-manifestanti-contro-lestremismo-d-3d4dc668c3d8f50b",
+    "title": "Mezzo milione a Londra contro l'estremismo di destra",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-03-28T16:40:25.791604+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/35524218/pexels-photo-35524218.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "MEZZO MILIONE DI MANIFESTANTI CONTRO L'ESTREMISMO DI DESTRASU A LONDRA",
+    "lead_preview": "28 marzo 2026, Londra. Oggi pomeriggio, un corteo di mezzo milione di persone ha riempito le strade della città britanni",
+    "tags": [
+      "manifestazione londra",
+      "estremismo destra"
+    ]
+  },
+  {
     "id": "84a007b86249cf2a",
     "slug": "17000-soldati-statunitensi-sbarcano-in-golfo-persi-84a007b86249cf2a",
     "title": "17.000 soldati USA in arrivo nel Golfo Persico",
@@ -31,22 +48,6 @@
     "tags": [
       "madre e figlio morti",
       "laghetto rodigino"
-    ]
-  },
-  {
-    "id": "3d4dc668c3d8f50b",
-    "slug": "mezzo-milione-di-manifestanti-contro-lestremismo-d-3d4dc668c3d8f50b",
-    "title": "Mezzo milione di persone scendono in piazza a Londra",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-03-28T16:40:25.791604+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/11428864/pexels-photo-11428864.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "",
-    "lead_preview": "Un corteo di mezzo milione di persone ha infiammato le strade di Londra oggi 28 marzo, in un momento di massima tensione",
-    "tags": [
-      "manifestazione londra"
     ]
   },
   {
