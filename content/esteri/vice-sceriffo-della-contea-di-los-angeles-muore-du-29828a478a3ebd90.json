@@ -1,0 +1,51 @@
+{
+  "id": "29828a478a3ebd90",
+  "slug": "vice-sceriffo-della-contea-di-los-angeles-muore-du-29828a478a3ebd90",
+  "title": "Vice sceriffo della contea di Los Angeles muore durante gara nel deserto del Moj",
+  "titles": [
+    "Vice sceriffo della contea di Los Angeles muore durante gara nel deserto del Moj",
+    "Levi Vargas, 30, non sopravvive a crisi medica durante Challenge Cup",
+    "Morto nel deserto: vice sceriffo ucciso durante gara di staffetta a Las Vegas"
+  ],
+  "title_winner": null,
+  "section": "esteri",
+  "occhiello": "VICE SHERIFF MUORE NEL DESERTO",
+  "lead": "Levi Vargas, vice sceriffo della contea di los angeles, è morto sabato dopo un'emergenza medica durante la Baker to Vegas Challenge Cup, una gara di corsa a staffetta nel deserto del Mojave.",
+  "corpo1": "Levi Vargas, 30 anni, partecipava alla Baker to Vegas Challenge Cup, una gara di 193 chilometri che attraversa il deserto del Mojave, dalla California a Las Vegas, nel Nevada. secondo quanto riportato, vargas ha avuto un'emergenza medica durante la gara e non è sopravvissuto. la contea di Los Angeles ha confermato la notizia. la gara di corsa a staffetta è un evento annuale che vede la partecipazione di diverse agenzie di polizia. vargas era un vice sceriffo della contea di los angeles e stava partecipando alla gara con la sua squadra. il deserto del Mojave è noto per le sue condizioni climatiche estreme.",
+  "corpo2": "La morte di leivi vargas è un tragico evento che evidenzia i rischi e le sfide che gli atleti affrontano durante le gare di endurance nel deserto. il deserto del mojave è un ambiente estremamente ostile, con condizioni climatiche che possono essere letali se non si prendono le dovute precauzioni. la contea di los angeles e le agenzie di polizia che partecipano alla gara devono garantire che gli atleti siano adeguatamente preparati e supportati durante l'evento. la morte di vargas solleva anche questioni sulla sicurezza e sulla prevenzione degli incidenti durante le gare di corsa a staffetta. è fondamentale che le autorità e gli organizzatori dell'evento prendano misure concrete per prevenire incidenti simili in futuro. la morte di Vargas solleva interrogativi sulla nostra società, che spinge gli atleti a superare i limiti umani in ambienti estremi come il deserto del Mojave.",
+  "journalist": {
+    "id": "anna_colombo_01",
+    "firma": "Anna Colombo",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-03-29T23:36:43.240376+00:00",
+  "image": {
+    "type": "unsplash",
+    "url": "https://images.unsplash.com/photo-1603462082910-b92319d86317?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxCYWtlciUyMHRvJTIwVmVnYXMlMjBDaGFsbGVuZ2UlMjBDdXB8ZW58MHwwfHx8MTc3NDgyNzQwMnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "source": "Unsplash",
+    "credit": "Toa Heftiba",
+    "license": "Unsplash License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Vice sceriffo della contea di Los Angeles muore durante gara nel deserto del Moj\",\n  \"description\": \"Levi Vargas, vice sceriffo della contea di los angeles, è morto sabato dopo un'emergenza medica durante la Baker to Vegas Challenge Cup, una gara di corsa a staffetta nel deserto del Mojave.\",\n  \"articleBody\": \"Levi Vargas, vice sceriffo della contea di los angeles, è morto sabato dopo un'emergenza medica durante la Baker to Vegas Challenge Cup, una gara di corsa a staffetta nel deserto del Mojave. Levi Vargas, 30 anni, partecipava alla Baker to Vegas Challenge Cup, una gara di 193 chilometri che attraversa il deserto del Mojave, dalla California a Las Vegas, nel Nevada. secondo quanto riportato, vargas ha avuto un'emergenza medica durante la gara e non è sopravvissuto. la contea di Los Angeles ha confermato la notizia. la gara di corsa a staffetta è un evento annuale che vede la partecipazione di diverse agenzie di polizia. vargas era un vice sceriffo della contea di los angeles e stava partecipando alla gara con la sua squadra. il deserto del Mojave è noto per le sue condizioni climatiche estreme. La morte di leivi vargas è un tragico evento che evidenzia i rischi e le sfide che gli atleti affrontano durante le gare di endurance nel deserto. il deserto del mojave è un ambiente estremamente ostile, con condizioni climatiche che possono essere letali se non si prendono le dovute precauzioni. la contea di los angeles e le agenzie di polizia che partecipano alla gara devono garantire che gli atleti siano adeguatamente preparati e supportati durante l'evento. la morte di vargas solleva anche questioni sulla sicurezza e sulla prevenzione degli incidenti durante le gare di corsa a staffetta. è fondamentale che le autorità e gli organizzatori dell'evento prendano misure concrete per prevenire incidenti simili in futuro. la morte di Vargas solleva interrogativi sulla nostra società, che spinge gli atleti a superare i limiti umani in ambienti estremi come il deserto del Mojave.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-29T23:36:43.240376+00:00\",\n  \"dateModified\": \"2026-03-29T23:36:43.240376+00:00\",\n  \"url\": \"https://gazzettanazionale.it/esteri/29828a478a3ebd90\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/esteri/29828a478a3ebd90\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1603462082910-b92319d86317?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxCYWtlciUyMHRvJTIwVmVnYXMlMjBDaGFsbGVuZ2UlMjBDdXB8ZW58MHwwfHx8MTc3NDgyNzQwMnww&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Toa Heftiba\"\n  }\n}",
+  "priority": 3,
+  "source": "The Guardian",
+  "source_type": "esteri",
+  "original_url": "https://www.theguardian.com/us-news/2026/mar/29/la-county-sheriff-deputy-death-relay-race",
+  "related": [
+    {
+      "title": "650.000 barili di petrolio russo arrivano a Cuba",
+      "url": "/esteri/650000-barili-di-petrolio-russo-arrivano-a-cuba-ad85dedf5faa01b3",
+      "id": "ad85dedf5faa01b3"
+    },
+    {
+      "title": "Bagayoko denuncia commenti razzisti su CNews",
+      "url": "/esteri/bagayoko-denuncia-commenti-razzisti-su-cnews-32835bae11bbb897",
+      "id": "32835bae11bbb897"
+    },
+    {
+      "title": "Casco blu ucciso in Libano",
+      "url": "/esteri/casco-blu-ucciso-in-libano-207d9907792ae095",
+      "id": "207d9907792ae095"
+    }
+  ]
+}
