@@ -1,5 +1,23 @@
 [
   {
+    "id": "a61f36439f4eb68a",
+    "slug": "300mila-persone-a-roma-contro-il-governo-a61f36439f4eb68a",
+    "title": "Raggiunge il milione, Roma: 300mila contro il governo",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Sergio Mancini",
+    "published_at": "2026-03-28T16:14:52.500971+00:00",
+    "image_type": "wikimedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Marco_di_battista.jpg",
+    "occhiello": "FONDI SCOMPARSI DOPO IL VOTO",
+    "lead_preview": "28 marzo 2026, Roma. 300mila persone si sono radunate in piazza del Popolo contro il governo, secondo le stime degli org",
+    "tags": [
+      "manifestazione roma",
+      "proteste governo",
+      "no kings"
+    ]
+  },
+  {
     "id": "d9e470e4f1fb0158",
     "slug": "kallas-e-rubio-duro-scontro-al-g7-quando-finira-la-d9e470e4f1fb0158",
     "title": "Ministro taglia 10% fondi sanità",
@@ -2872,23 +2890,6 @@
       "manifestazione londra",
       "estrema destra britannica",
       "proteste antiestremismo"
-    ]
-  },
-  {
-    "id": "a61f36439f4eb68a",
-    "slug": "300mila-persone-a-roma-contro-il-governo-a61f36439f4eb68a",
-    "title": "300mila persone a Roma contro il governo",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-03-28T16:14:52.500971+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Manifestazione_a_sostegno_del_popolo_iraniano_%28Roma%2C_17_gennaio_2026%29_11.jpg",
-    "occhiello": "CORTEO NO KINGS A ROMA, OLTRE 300MILA PERSONE",
-    "lead_preview": "Marco Landini, leader della Cgil, ha dichiarato che la manifestazione \"No Kings\" a Roma è la piazza del no al referendum",
-    "tags": [
-      "manifestazione no kings",
-      "referendum 2026"
     ]
   },
   {
