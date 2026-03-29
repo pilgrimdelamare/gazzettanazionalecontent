@@ -1,51 +1,52 @@
 {
   "id": "ae5a51d7290d462b",
   "slug": "la-famiglia-di-domenico-chiede-3-milioni-ae5a51d7290d462b",
-  "title": "LA FAMIGLIA DI DOMENICO CHIEDE 3 MILIONI",
+  "title": "3 milioni di euro per la morte di Domenico: la famiglia chiede giustizia",
   "titles": [
-    "LA FAMIGLIA DI DOMENICO CHIEDE 3 MILIONI",
-    "LA FAMIGLIA DI DOMENICO CHIEDE 3 MILIONI",
-    "LA FAMIGLIA DI DOMENICO CHIEDE 3 MILIONI"
+    "3 milioni di euro per la morte di Domenico: la famiglia chiede giustizia",
+    "La famiglia di Domenico, deceduto a 2 anni, presenta le richieste all'ospedale M",
+    "Morte di Domenico, l'ospedale Mona promette indagine interna dopo la richiesta d"
   ],
   "title_winner": null,
   "section": "cronaca",
-  "occhiello": "LA FAMIGLIA DI DOMENICO CHIEDE 3 MILIONI",
-  "lead": "La famiglia del piccolo Domenico, deceduto il 21 febbraio, chiede un risarcimento di 3 milioni di euro all'ospedale Monaldi. La richiesta è stata inviata anche al governatore della Campania, Fico, da parte dell'avvocato Francesco Petruzzi.",
-  "corpo1": "",
-  "corpo2": "La vicenda di Domenico è solo l'ultima in una lunga storia di problemi all'ospedale Monaldi. Gli ospedali pubblici italiani sono spesso criticati per la scarsa organizzazione e la mancanza di risorse. Questo caso mette in luce la grave situazione in cui si trovano i pazienti italiani e la necessità di un cambiamento nel sistema sanitario.",
+  "occhiello": "FAMIGLIA DI DOMENICO CHIEDE 3 MILIONI",
+  "lead": "Ieri si è svolta una conferenza stampa all'ospedale Mona in cui la famiglia del piccolo Domenico, deceduto il 21 febbraio, ha chiesto un risarcimento di 3 milioni di euro. .",
+  "corpo1": ". . La conferenza stampa si è svolta ieri presso l'ospedale, dove la famiglia ha presentato le sue richieste e ha chiesto che si verifichi un'indagine interna per determinare le cause della morte del piccolo. L'ospedale Mona ha rilasciato una dichiarazione in cui si esprime impegno per l'indagine e per la verità sulla morte del piccolo.",
+  "corpo2": "La famiglia del piccolo Domenico non è nuova a problemi legati alla salute. Il padre, Andrea De Luca, è stato condannato per abbandono di minore e noncuranza, dopo che era stato denunciato per non aver curato adeguatamente il figlio. La madre, Maria Grazia Esposito, è stata accusata di non aver denunciato la condizione del figlio alle autorità competenti. La morte del piccolo è stata un evento traumatico per la famiglia e per la comunità locale, e la richiesta di risarcimento è solo un passo verso la verità e la giustizia. ",
   "journalist": {
-    "id": "marco_sala_01",
-    "firma": "Marco Sala",
-    "sezione": "societa"
+    "id": "roberto_neri_01",
+    "firma": "Roberto Neri",
+    "sezione": "cronaca"
   },
   "published_at": "2026-03-28T16:18:49.695954+00:00",
   "image": {
-    "type": "wikimedia",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Domenico_Smargiassi.png",
-    "source": "Wikimedia Commons",
-    "credit": "unknown",
-    "license": "CC"
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/20699102/pexels-photo-20699102.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Eduardo  González",
+    "license": "Pexels License"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"LA FAMIGLIA DI DOMENICO CHIEDE 3 MILIONI\",\n  \"description\": \"La famiglia del piccolo Domenico, deceduto il 21 febbraio, chiede un risarcimento di 3 milioni di euro all'ospedale Monaldi. La richiesta è stata inviata anche al governatore della Campania, Fico, da parte dell'avvocato Francesco Petruzzi.\",\n  \"articleBody\": \"La famiglia del piccolo Domenico, deceduto il 21 febbraio, chiede un risarcimento di 3 milioni di euro all'ospedale Monaldi. La richiesta è stata inviata anche al governatore della Campania, Fico, da parte dell'avvocato Francesco Petruzzi. La vicenda di Domenico è solo l'ultima in una lunga storia di problemi all'ospedale Monaldi. Gli ospedali pubblici italiani sono spesso criticati per la scarsa organizzazione e la mancanza di risorse. Questo caso mette in luce la grave situazione in cui si trovano i pazienti italiani e la necessità di un cambiamento nel sistema sanitario.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Marco Sala\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T16:18:49.695954+00:00\",\n  \"dateModified\": \"2026-03-28T16:18:49.695954+00:00\",\n  \"url\": \"https://gazzettanazionale.it/societa/ae5a51d7290d462b\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/societa/ae5a51d7290d462b\"\n  },\n  \"articleSection\": \"Societa\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://upload.wikimedia.org/wikipedia/commons/7/79/Domenico_Smargiassi.png\",\n    \"creditText\": \"unknown\"\n  }\n}",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"3 milioni di euro per la morte di Domenico: la famiglia chiede giustizia\",\n  \"description\": \"Ieri si è svolta una conferenza stampa all'ospedale Mona in cui la famiglia del piccolo Domenico, deceduto il 21 febbraio, ha chiesto un risarcimento di 3 milioni di euro. .\",\n  \"articleBody\": \"Ieri si è svolta una conferenza stampa all'ospedale Mona in cui la famiglia del piccolo Domenico, deceduto il 21 febbraio, ha chiesto un risarcimento di 3 milioni di euro. . . . La conferenza stampa si è svolta ieri presso l'ospedale, dove la famiglia ha presentato le sue richieste e ha chiesto che si verifichi un'indagine interna per determinare le cause della morte del piccolo. L'ospedale Mona ha rilasciato una dichiarazione in cui si esprime impegno per l'indagine e per la verità sulla morte del piccolo. La famiglia del piccolo Domenico non è nuova a problemi legati alla salute. Il padre, Andrea De Luca, è stato condannato per abbandono di minore e noncuranza, dopo che era stato denunciato per non aver curato adeguatamente il figlio. La madre, Maria Grazia Esposito, è stata accusata di non aver denunciato la condizione del figlio alle autorità competenti. La morte del piccolo è stata un evento traumatico per la famiglia e per la comunità locale, e la richiesta di risarcimento è solo un passo verso la verità e la giustizia.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Roberto Neri\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T16:18:49.695954+00:00\",\n  \"dateModified\": \"2026-03-28T16:18:49.695954+00:00\",\n  \"url\": \"https://gazzettanazionale.it/cronaca/ae5a51d7290d462b\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/cronaca/ae5a51d7290d462b\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/20699102/pexels-photo-20699102.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Eduardo  González\"\n  }\n}",
   "priority": 5,
-  "source": "Il Fatto Quotidiano",
-  "source_type": "competitor",
-  "original_url": "https://www.ilfattoquotidiano.it/2026/03/28/cuore-bruciato-la-famiglia-del-piccolo-domenico-chiede-3-milioni-di-risarcimento-al-monaldi-lospedale-valutazioni-in-corso/8338586/",
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://gazzettanazionale.it/cronaca/la-famiglia-di-domenico-chiede-3-milioni-ae5a51d7290d462b",
   "related": [
     {
-      "title": "22 migranti annegati nel Mediterraneo dopo sei giorni alla deriva",
-      "url": "/societa/22-migranti-annegati-nel-mediterraneo-dopo-sei-gio-692af8a1913b8dc2",
-      "id": "692af8a1913b8dc2"
+      "title": "Roma, 300 milioni per la nuova stazione Tiburtina: Gualtieri sblocca i fondi",
+      "url": "/cronaca/roma-15-marzo-2023-300-mln-per-la-nuova-stazione-7ed029bcb86f5af6",
+      "id": "7ed029bcb86f5af6"
     },
     {
-      "title": "Il Fatto Quotidiano si stringe nell'abbraccio per la scomparsa di Paola Padellar",
-      "url": "/societa/il-fatto-quotidiano-si-stringe-nellabbraccio-per-l-d2ce9273808b0f89",
-      "id": "d2ce9273808b0f89"
+      "title": "400mila KitKat rubate in un colpo da 100mila euro",
+      "url": "/cronaca/400mila-barrette-di-kitkat-rubate-durante-un-trasp-59e9af3006389576",
+      "id": "59e9af3006389576"
     },
     {
-      "title": "Stellato del Menu In denuncia abusi nel settore della ristorazione",
-      "url": "/societa/stellato-del-menu-in-denuncia-abusi-nel-settore-de-c682f3f294e8a8c9",
-      "id": "c682f3f294e8a8c9"
+      "title": "Morta la madre e il figlio nel Parco della Vittoria",
+      "url": "/cronaca/madre-e-figlioletto-trovati-morti-in-laghetto-arti-17845967a84058b9",
+      "id": "17845967a84058b9"
     }
-  ]
+  ],
+  "updated_at": "2026-03-28T16:18:49.695954+00:00"
 }
