@@ -1,5 +1,22 @@
 [
   {
+    "id": "2fa5295af8c8101d",
+    "slug": "uomo-fermato-a-parigi-con-ordigno-davanti-bank-of-2fa5295af8c8101d",
+    "title": "Uomo fermato a Parigi con ordigno davanti Bank of America",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-03-28T16:42:04.059248+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/18596312/pexels-photo-18596312.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "ATTENTATO FALTO A PARIGI: UN UOMO FERMATO CON ORDIGNO PRIMA DI UNA BANCHE DI STATO",
+    "lead_preview": ". La polizia parigina ha fermato un uomo di 35 anni, identificato come Pierre Dupont, mentre stava per attivare un dispo",
+    "tags": [
+      "attentato parigi",
+      "bank of america"
+    ]
+  },
+  {
     "id": "459ecf7aa058077a",
     "slug": "giuseppe-tango-eletto-presidente-dei-magistrati-pe-459ecf7aa058077a",
     "title": "GIUSEPPE TANGO PRESIDENTE DEI MAGISTRATI",
@@ -1694,24 +1711,6 @@
       "protesta londra",
       "fascismo britannico",
       "manifestazione anti fascista"
-    ]
-  },
-  {
-    "id": "2fa5295af8c8101d",
-    "slug": "uomo-fermato-a-parigi-con-ordigno-davanti-bank-of-2fa5295af8c8101d",
-    "title": "Uomo fermato a Parigi con ordigno davanti Bank of America",
-    "section": "esteri",
-    "priority": 3,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-03-28T16:42:04.059248+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/La_ragazza_parigina_01.jpg",
-    "occhiello": "ATTENTATO IN FRANCIA: POLIZIA PARIGINA NE FOLA UNO",
-    "lead_preview": "La polizia parigina ha arrestato un uomo che stava per attivare un dispositivo esplosivo artigianale davanti a un edific",
-    "tags": [
-      "attentato francia",
-      "bank of america",
-      "parigi"
     ]
   },
   {
