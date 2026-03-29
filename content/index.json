@@ -1,5 +1,23 @@
 [
   {
+    "id": "d8627f964912e3de",
+    "slug": "pavic-accusa-azzurri-di-eccessiva-arroganza-d8627f964912e3de",
+    "title": "Il capitano Azzurri esulta da solo",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-03-28T12:37:32.006472+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/32531921/pexels-photo-32531921.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "IL CAPITANO AZZURRI SOTTO ACCUSA PER ARROGANZA",
+    "lead_preview": "Il capitano Azzurri sotto accusa per arroganza Domenica scorsa, in diretta televisiva, il capitano dell'Azzurri, Giovann",
+    "tags": [
+      "calcio italiano",
+      "giovanni dimarco",
+      "azzurri"
+    ]
+  },
+  {
     "id": "fe4e2e66e1d7970b",
     "slug": "tribunale-usa-annulla-multa-da-16-miliardi-allital-fe4e2e66e1d7970b",
     "title": "Italia, multa da 16 mld dollari annullata: sollievo per l'economia",
@@ -3920,23 +3938,6 @@
       "incidente di pesca",
       "arenamento chalutier",
       "decesso in mare"
-    ]
-  },
-  {
-    "id": "d8627f964912e3de",
-    "slug": "pavic-accusa-azzurri-di-eccessiva-arroganza-d8627f964912e3de",
-    "title": "Il capitano Azzurri sotto accusa per arroganza",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-03-28T12:37:32.006472+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Ilaria_Capua.jpg",
-    "occhiello": "LE AZZURRE GETTANO OMBRE SULLA BOSNIA",
-    "lead_preview": "Domenica scorsa, in diretta televisiva, il capitano dell'Azzurri, Giovanni Dimarco, esultava per la vittoria della squad",
-    "tags": [
-      "azzurri",
-      "processo dimarco"
     ]
   },
   {
