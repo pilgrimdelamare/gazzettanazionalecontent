@@ -1,5 +1,23 @@
 [
   {
+    "id": "4bbbea9f89dc04d5",
+    "slug": "la-corte-di-appello-del-lazio-vara-lalternativa-or-4bbbea9f89dc04d5",
+    "title": "L'alternativa Orale: Studenti Italiani Risparmiati dal Mondo dei Ricordi",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-03-28T16:54:42.332431+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/36551061/pexels-photo-36551061.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "LA CORTE DI APPELLO DEL LAZIO VARA L'ALTERNATIVA ORALE",
+    "lead_preview": "L'ordinanza della Corte di Appello del Lazio vara l'alternativa orale per gli studenti italiani che non superano l'esame",
+    "tags": [
+      "maturità",
+      "corte di appello",
+      "alternativa orale"
+    ]
+  },
+  {
     "id": "a5883ac7e09abb5f",
     "slug": "uomo-di-26-anni-assassinato-con-coltello-a-londra-a5883ac7e09abb5f",
     "title": "Uomo di 26 anni ucciso a Londra",
@@ -1479,23 +1497,6 @@
     "tags": [
       "attacco iran",
       "dubai abu dhabi"
-    ]
-  },
-  {
-    "id": "4bbbea9f89dc04d5",
-    "slug": "la-corte-di-appello-del-lazio-vara-lalternativa-or-4bbbea9f89dc04d5",
-    "title": "La Corte di Appello del Lazio vara l'alternativa orale",
-    "section": "giustizia",
-    "priority": 5,
-    "journalist_firma": "Chiara Esposito",
-    "published_at": "2026-03-28T16:54:42.332431+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/31526103/pexels-photo-31526103.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "FONDI SCOMPARSI DOPPO IL VOTO",
-    "lead_preview": "Napoli, 28 marzo 2026 - La Corte di Appello del Lazio ha emesso un'ordinanza che consente agli studenti italiani di sost",
-    "tags": [
-      "maturita orale",
-      "corte appello lazi"
     ]
   },
   {
