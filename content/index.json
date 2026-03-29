@@ -1,5 +1,22 @@
 [
   {
+    "id": "e0282a8857133ba2",
+    "slug": "attacco-a-ospedale-a-odessa-2-morti-e-11-feriti-e0282a8857133ba2",
+    "title": "Odessa, attacco a ospedale ostetrico: 2 morti e 11 feriti",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-03-28T18:23:20.118632+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/36551061/pexels-photo-36551061.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "ATTACCO ALL'OSPEDALE DI ODESSA: 2 MORTI E 11 FERITI",
+    "lead_preview": " ha denunciato l'attacco a un ospedale ostetrico di Odessa, dove due persone sono rimaste uccise e undici sono state fer",
+    "tags": [
+      "attacco odessa",
+      "guerra ucraina"
+    ]
+  },
+  {
     "id": "79dc260d453bb6a6",
     "slug": "22enne-in-arresto-per-aggressione-a-portiere-di-un-79dc260d453bb6a6",
     "title": "Aggressione a sassarese: arrestato reo di tentato omicidio",
@@ -3018,23 +3035,6 @@
       "arresto reporter cnn",
       "cisgiordania",
       "attacco coloni"
-    ]
-  },
-  {
-    "id": "e0282a8857133ba2",
-    "slug": "attacco-a-ospedale-a-odessa-2-morti-e-11-feriti-e0282a8857133ba2",
-    "title": "Attacco a ospedale a Odessa: 2 morti e 11 feriti",
-    "section": "esteri",
-    "priority": 7,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-03-28T18:23:20.118632+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/31583097/pexels-photo-31583097.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "OSPEDALE DI MATERNO COLPITO",
-    "lead_preview": "Volodymyr Zelensky ha denunciato l'attacco a un ospedale ostetrico di Odessa, dove due persone sono rimaste uccise e und",
-    "tags": [
-      "guerra ucraina",
-      "attacco ospedale odessa"
     ]
   },
   {
