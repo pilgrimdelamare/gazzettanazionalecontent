@@ -1,0 +1,35 @@
+{
+  "id": "de7aa78ec23edfcb",
+  "slug": "israele-ue-condanna-pena-di-morte-de7aa78ec23edfcb",
+  "title": "Israele: Ue condanna pena di morte",
+  "titles": [
+    "Israele: Ue condanna pena di morte",
+    "Pentagono prepara invasione di terra",
+    "Italia e Ue contro Israele sulla pena di morte"
+  ],
+  "title_winner": null,
+  "section": "esteri",
+  "occhiello": "ROMA, BERLINO, PARIGI E LONDRA CONTRO ddl PENA DI MORTE IN ISRAELE",
+  "lead": "Roma, 29 marzo 2026. Italia, Francia, Germania e Regno Unito hanno espresso la loro opposizione hanno condannato il disegno di legge sulla pena di morte in Israele. La missione Ue Aspides ha invitato alla cautela, avvertendo di possibili attacchi Houthi nel Mar Rosso. Il Washington Post ha riferito che il Pentagono si prepara a settimane di invasione di terra, con migliaia di marines nel Golfo.",
+  "corpo1": "I governi di Roma, Berlino, Parigi e Londra hanno espresso la loro opposizione al disegno di legge sulla pena di morte in Israele, definito \"inaccettabile\" e \"contrario ai valori fondamentali della comunità internazionale\". La missione Ue Aspides, che opera nel Mar Rosso per garantire la sicurezza delle navi mercantili, ha invitato alla cautela, avvertendo che gli Houthi potrebbero lanciare attacchi contro le navi che transitano nella regione. Il Washington Post ha riferito che il Pentagono si sta preparando a settimane di invasione di terra, con migliaia di marines già dislocati nel Golfo. Il Pakistan, intanto, ha annunciato che ospiterà presto colloqui tra Iran e Usa, nel tentativo di ridurre le tensioni tra i due paesi. Teheran ha minacciato di colpire le università americane in Medio Oriente, mentre Israele ha impedito al patriarca latino di Gerusalemme, Pierbattista Pizzaballa, di entrare nel Santo Sepolcro.",
+  "corpo2": "Con l'Iran e gli Usa che si affrontano in una guerra di parole e azioni. Il disegno di legge sulla pena di morte in Israele è stato condannato dalla comunità internazionale, mentre il Pakistan cerca di mediare tra Iran e Usa. La presenza di migliaia di marines nel Golfo è un chiaro segnale dell'intenzione degli Usa di intervenire militarmente nella regione. La domanda è: quale sarà il prezzo per la regione e per il mondo intero dell'eventuale scontro militare tra Iran e Usa, e quali saranno le conseguenze per la regione e per il mondo intero?",
+  "journalist": {
+    "id": "anna_colombo_01",
+    "firma": "Anna Colombo",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-03-29T19:37:21.545150+00:00",
+  "image": {
+    "type": "unsplash",
+    "url": "https://images.unsplash.com/photo-1758138258458-64ee0fbdef4c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxkaXBsb21hdGljJTIwbWVldGluZ3xlbnwwfDB8fHwxNzc0ODEzMDQxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "source": "Unsplash",
+    "credit": "Zulfugar Karimov",
+    "license": "Unsplash License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Israele: Ue condanna pena di morte\",\n  \"description\": \"Roma, 29 marzo 2026. Italia, Francia, Germania e Regno Unito hanno espresso la loro opposizione hanno condannato il disegno di legge sulla pena di morte in Israele. La missione Ue Aspides ha invitato alla cautela, avvertendo di possibili attacchi Houthi nel Mar Rosso. Il Washington Post ha riferito \",\n  \"articleBody\": \"Roma, 29 marzo 2026. Italia, Francia, Germania e Regno Unito hanno espresso la loro opposizione hanno condannato il disegno di legge sulla pena di morte in Israele. La missione Ue Aspides ha invitato alla cautela, avvertendo di possibili attacchi Houthi nel Mar Rosso. Il Washington Post ha riferito che il Pentagono si prepara a settimane di invasione di terra, con migliaia di marines nel Golfo. I governi di Roma, Berlino, Parigi e Londra hanno espresso la loro opposizione al disegno di legge sulla pena di morte in Israele, definito \\\"inaccettabile\\\" e \\\"contrario ai valori fondamentali della comunità internazionale\\\". La missione Ue Aspides, che opera nel Mar Rosso per garantire la sicurezza delle navi mercantili, ha invitato alla cautela, avvertendo che gli Houthi potrebbero lanciare attacchi contro le navi che transitano nella regione. Il Washington Post ha riferito che il Pentagono si sta preparando a settimane di invasione di terra, con migliaia di marines già dislocati nel Golfo. Il Pakistan, intanto, ha annunciato che ospiterà presto colloqui tra Iran e Usa, nel tentativo di ridurre le tensioni tra i due paesi. Teheran ha minacciato di colpire le università americane in Medio Oriente, mentre Israele ha impedito al patriarca latino di Gerusalemme, Pierbattista Pizzaballa, di entrare nel Santo Sepolcro. Con l'Iran e gli Usa che si affrontano in una guerra di parole e azioni. Il disegno di legge sulla pena di morte in Israele è stato condannato dalla comunità internazionale, mentre il Pakistan cerca di mediare tra Iran e Usa. La presenza di migliaia di marines nel Golfo è un chiaro segnale dell'intenzione degli Usa di intervenire militarmente nella regione. La domanda è: quale sarà il prezzo per la regione e per il mondo intero dell'eventuale scontro militare tra Iran e Usa, e quali saranno le conseguenze per la regione e per il mondo intero?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-29T19:37:21.545150+00:00\",\n  \"dateModified\": \"2026-03-29T19:37:21.545150+00:00\",\n  \"url\": \"https://gazzettanazionale.it/esteri/de7aa78ec23edfcb\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/esteri/de7aa78ec23edfcb\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1758138258458-64ee0fbdef4c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxkaXBsb21hdGljJTIwbWVldGluZ3xlbnwwfDB8fHwxNzc0ODEzMDQxfDA&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Zulfugar Karimov\"\n  }\n}",
+  "priority": 7,
+  "source": "Redazione",
+  "source_type": "competitor_gap",
+  "original_url": "https://www.repubblica.it/esteri/2026/03/29/diretta/guerra_iran_usa_israele_news_oggi-425250993/",
+  "related": []
+}
