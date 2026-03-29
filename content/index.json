@@ -1,5 +1,23 @@
 [
   {
+    "id": "4028e82bad5f1755",
+    "slug": "la-baia-di-saint-brieuc-trema-un-chalutier-si-e-ar-4028e82bad5f1755",
+    "title": "Chalutier francese si arena a Saint-Brieuc, muore patron",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-03-28T12:53:01.683256+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/34875472/pexels-photo-34875472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "ARENAZIONE DI UN CHALUTIER IN FRANCIA: UN PATRON PERDUTO LA VITA",
+    "lead_preview": "Un chalutier francese, il \"Cassiopée II\", si è arenato nella baia di Saint-Brieuc il 15 aprile 2026. È stato ucciso un p",
+    "tags": [
+      "naufragio chalutier",
+      "saint-brieuc",
+      "morte patron jean-luc dupont"
+    ]
+  },
+  {
     "id": "c0c30d00be6ce967",
     "slug": "houthi-attaccano-depositi-antidrone-uk-a-dubai-e-a-c0c30d00be6ce967",
     "title": "Iran lancia attacco contro depositi britannici a Dubai e Abu Dhabi",
@@ -3921,24 +3939,6 @@
       "papa a monaco",
       "pace mondiale",
       "papa americano"
-    ]
-  },
-  {
-    "id": "4028e82bad5f1755",
-    "slug": "la-baia-di-saint-brieuc-trema-un-chalutier-si-e-ar-4028e82bad5f1755",
-    "title": "Patron 45enne deceduto in un incidente di pesca nella baia di Saint-Brieuc",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-03-28T12:53:01.683256+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/31122774/pexels-photo-31122774.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "Un chalutier si è arenato in Francia: morto un patron",
-    "lead_preview": "Un chalutier, il \"Cassiopée II\", si è arenato nella baia di Saint-Brieuc, in Francia, il 15 aprile 2026. Un patron è mor",
-    "tags": [
-      "incidente di pesca",
-      "arenamento chalutier",
-      "decesso in mare"
     ]
   },
   {
