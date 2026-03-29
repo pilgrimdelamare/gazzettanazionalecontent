@@ -1,0 +1,51 @@
+{
+  "id": "a431012e55751cd1",
+  "slug": "motogp-bezzecchi-vince-terza-volta-consecutiva-a-a-a431012e55751cd1",
+  "title": "MotoGP: Bezzecchi vince terza volta consecutiva a Austin",
+  "titles": [
+    "MotoGP: Bezzecchi vince terza volta consecutiva a Austin",
+    "Bezzecchi torna in testa alla classifica del mondiale",
+    "Austin 2026: Bezzecchi 'impressionante', marquez lo considera favorito per il ti"
+  ],
+  "title_winner": null,
+  "section": "sport",
+  "occhiello": "BEZZECCHI TRIS AD AUSTIN",
+  "lead": "Marco bezzecchi, il 30 marzo 2026, ha vinto la sua terza vittoria consecutiva nel mondiale motogp, tornando in testa alla classifica generale, dopo la gara di austin, negli stati uniti.",
+  "corpo1": "Bezzecchi, pilota della squadra aprilia, ha commentato la sua vittoria su sky sport, esprimendo la sua emozione per aver finalmente vinto ad austin, un obiettivo che sognavo da tanto. la sua vittoria è la quinta consecutiva, inclusi i due GP del 2025. secondo bezzecchi, la squadra gli è stata vicina dopo l'errore commesso nella gara della sprint, che lo aveva lasciato abbattuto. la classifica del mondiale motogp è stata aggiornata dopo la gara di Austin, con bezzecchi che torna al comando. la gara ha visto anche la bagarre tra bagnaia, bastianini e marquez, ma alla fine è stato bezzecchi a tagliare il traguardo per primo. marquez ha definito bezzecchi \"impressionante\" e lo considera il favorito per il titolo. acosta ha commentato il suo lavoro come \"bel lavoro\", ma sottolinea la necessità di continuare a lavorare per migliorare.",
+  "corpo2": "Marco bezzecchi è un pilota italiano di motogp che compete per aprilia racing. la sua carriera è stata segnata da alti e bassi, ma la sua costanza e determinazione lo hanno portato a diventare uno dei piloti più temuti nel mondiale. la sua vittoria ad austin non è solo il risultato di una gara ben condotta, ma anche il frutto del lavoro della sua squadra e della sua capacità di gestire la pressione. il mondiale motogp è un campionato molto competitivo, con piloti e squadre di alto livello, e la vittoria di bezzecchi è un risultato importante per la sua carriera e per la squadra aprilia. la domanda è chi pagherà il conto per la sua vittoria — e la risposta, come sempre, non è Palazzo Chigi",
+  "journalist": {
+    "id": "davide_longo_01",
+    "firma": "Davide Longo",
+    "sezione": "sport"
+  },
+  "published_at": "2026-03-29T23:33:00.875754+00:00",
+  "image": {
+    "type": "unsplash",
+    "url": "https://images.unsplash.com/photo-1753563819213-2600548e1554?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxtb3RvZ3AlMjByYWNlfGVufDB8MHx8fDE3NzQ4MjcxODB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "source": "Unsplash",
+    "credit": "Mario Amé",
+    "license": "Unsplash License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"MotoGP: Bezzecchi vince terza volta consecutiva a Austin\",\n  \"description\": \"Marco bezzecchi, il 30 marzo 2026, ha vinto la sua terza vittoria consecutiva nel mondiale motogp, tornando in testa alla classifica generale, dopo la gara di austin, negli stati uniti.\",\n  \"articleBody\": \"Marco bezzecchi, il 30 marzo 2026, ha vinto la sua terza vittoria consecutiva nel mondiale motogp, tornando in testa alla classifica generale, dopo la gara di austin, negli stati uniti. Bezzecchi, pilota della squadra aprilia, ha commentato la sua vittoria su sky sport, esprimendo la sua emozione per aver finalmente vinto ad austin, un obiettivo che sognavo da tanto. la sua vittoria è la quinta consecutiva, inclusi i due GP del 2025. secondo bezzecchi, la squadra gli è stata vicina dopo l'errore commesso nella gara della sprint, che lo aveva lasciato abbattuto. la classifica del mondiale motogp è stata aggiornata dopo la gara di Austin, con bezzecchi che torna al comando. la gara ha visto anche la bagarre tra bagnaia, bastianini e marquez, ma alla fine è stato bezzecchi a tagliare il traguardo per primo. marquez ha definito bezzecchi \\\"impressionante\\\" e lo considera il favorito per il titolo. acosta ha commentato il suo lavoro come \\\"bel lavoro\\\", ma sottolinea la necessità di continuare a lavorare per migliorare. Marco bezzecchi è un pilota italiano di motogp che compete per aprilia racing. la sua carriera è stata segnata da alti e bassi, ma la sua costanza e determinazione lo hanno portato a diventare uno dei piloti più temuti nel mondiale. la sua vittoria ad austin non è solo il risultato di una gara ben condotta, ma anche il frutto del lavoro della sua squadra e della sua capacità di gestire la pressione. il mondiale motogp è un campionato molto competitivo, con piloti e squadre di alto livello, e la vittoria di bezzecchi è un risultato importante per la sua carriera e per la squadra aprilia. la domanda è chi pagherà il conto per la sua vittoria — e la risposta, come sempre, non è Palazzo Chigi\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Davide Longo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-29T23:33:00.875754+00:00\",\n  \"dateModified\": \"2026-03-29T23:33:00.875754+00:00\",\n  \"url\": \"https://gazzettanazionale.it/sport/a431012e55751cd1\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/sport/a431012e55751cd1\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1753563819213-2600548e1554?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxtb3RvZ3AlMjByYWNlfGVufDB8MHx8fDE3NzQ4MjcxODB8MA&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Mario Amé\"\n  }\n}",
+  "priority": 5,
+  "source": "Sky Sport",
+  "source_type": "competitor",
+  "original_url": "https://sport.sky.it/motogp/video/2026/03/29/bezzecchi-vittoria-gara-gp-austin-usa-intervista-1086363",
+  "related": [
+    {
+      "title": "MotoGP: Bezzecchi vince ad Austin",
+      "url": "/sport/motogp-bezzecchi-vince-ad-austin-9e51af5c19610693",
+      "id": "9e51af5c19610693"
+    },
+    {
+      "title": "Bezzecchi vince a Austin",
+      "url": "/sport/bezzecchi-vince-a-austin-e7ee657cb40597c7",
+      "id": "e7ee657cb40597c7"
+    },
+    {
+      "title": "Bezzecchi vince a Austin",
+      "url": "/sport/bezzecchi-vince-a-austin-cb375f2fb150f5f4",
+      "id": "cb375f2fb150f5f4"
+    }
+  ]
+}
