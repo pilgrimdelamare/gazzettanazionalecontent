@@ -1,5 +1,21 @@
 [
   {
+    "id": "e0282a8857133ba2",
+    "slug": "attacco-a-ospedale-a-odessa-2-morti-e-11-feriti-e0282a8857133ba2",
+    "title": "2 morti a Odessa",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-03-28T18:23:20.118632+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/11477792/pexels-photo-11477792.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "ATTACCO A OSPEDALE DI ODESSA",
+    "lead_preview": "Il 28 marzo 2026, un attacco a un ospedale ostetrico di Odessa ha causato la morte di due persone e il ferimento di undi",
+    "tags": [
+      "attacco odessa"
+    ]
+  },
+  {
     "id": "e19b484afe666220",
     "slug": "universita-americane-sotto-minaccia-lallarme-delli-e19b484afe666220",
     "title": "Iran avvisa studenti USA",
@@ -460,23 +476,6 @@
       "attacco hebron",
       "cnn arrestati",
       "soldati israeliani"
-    ]
-  },
-  {
-    "id": "e0282a8857133ba2",
-    "slug": "attacco-a-ospedale-a-odessa-2-morti-e-11-feriti-e0282a8857133ba2",
-    "title": "Odessa, attacco a ospedale ostetrico: 2 morti e 11 feriti",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-03-28T18:23:20.118632+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/36551061/pexels-photo-36551061.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "ATTACCO ALL'OSPEDALE DI ODESSA: 2 MORTI E 11 FERITI",
-    "lead_preview": " ha denunciato l'attacco a un ospedale ostetrico di Odessa, dove due persone sono rimaste uccise e undici sono state fer",
-    "tags": [
-      "attacco odessa",
-      "guerra ucraina"
     ]
   },
   {
