@@ -1,5 +1,22 @@
 [
   {
+    "id": "fcd36b91b9b71b9e",
+    "slug": "bollette-a-14mwh-in-spagna-litalia-paga-100-fcd36b91b9b71b9e",
+    "title": "Spagna a 14€/MWh, l'Italia a 150€",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-03-28T16:13:13.094305+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/30036975/pexels-photo-30036975.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "Spagna a 14€/MWh, l'Italia a 150€",
+    "lead_preview": "Lo scorso sabato, la Spagna ha registrato un prezzo dell'elettricità di soli 14 euro per megawattora, mentre in Italia i",
+    "tags": [
+      "prezzi energia",
+      "crisi energetica"
+    ]
+  },
+  {
     "id": "379d9396ebb9d8b8",
     "slug": "il-documentario-a-tu-lado-arriva-in-italia-il-14-a-379d9396ebb9d8b8",
     "title": "Fonti ufficiali: notizia diffusa alle 16:13 di martedì 28 marzo",
@@ -2925,23 +2942,6 @@
       "manifestazione londra",
       "estrema destra britannica",
       "proteste antiestremismo"
-    ]
-  },
-  {
-    "id": "fcd36b91b9b71b9e",
-    "slug": "bollette-a-14mwh-in-spagna-litalia-paga-100-fcd36b91b9b71b9e",
-    "title": "Bollette a 14€/MWh in Spagna, l'Italia paga 100€",
-    "section": "economia",
-    "priority": 7,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-03-28T16:13:13.094305+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Instalaci%C3%B3n_de_paneles_solares.jpg",
-    "occhiello": "SPAGNA, BOLLETTE A 14 EURO AL MEGAWATTORA",
-    "lead_preview": "Sanchez, premier spagnolo, ha ottenuto un risultato sorprendente con la sua politica energetica: le bollette elettriche ",
-    "tags": [
-      "bollette spagna",
-      "crisi energetica"
     ]
   },
   {
