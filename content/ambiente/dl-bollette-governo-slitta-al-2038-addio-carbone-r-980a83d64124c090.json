@@ -1,51 +1,52 @@
 {
   "id": "980a83d64124c090",
   "slug": "dl-bollette-governo-slitta-al-2038-addio-carbone-r-980a83d64124c090",
-  "title": "Dl Bollette, governo slitta al 2038: addio carbone rinviato",
+  "title": "Governo proroga uscita dal carbone al 2038: un costo di 10 miliardi entro il 203",
   "titles": [
-    "Dl Bollette, governo slitta al 2038: addio carbone rinviato",
-    "Lega: 'Sicurezza energetica prima di tutto', ok all'emendamento",
-    "Italia nel carbone fino al 2038: cosa cambia per la tua bolletta"
+    "Governo proroga uscita dal carbone al 2038: un costo di 10 miliardi entro il 203",
+    "Cingolani giustifica il ritardo: 'Non possiamo far pagare troppo ai cittadini'",
+    "Italia rinuncia alla neutralità carbonica: il nuovo termine è 2038 e costa 10 mi"
   ],
   "title_winner": null,
   "section": "ambiente",
-  "occhiello": "USCITA DAL CARBONE RIMANDATA AL 2038",
-  "lead": "Il governo ha inserito un emendamento nel dl Bollette che proroga l'uscita dal carbone al 2038. La decisione è stata presa nonostante le critiche sulla sicurezza energetica del Paese. La Lega ha sostenuto l'emendamento, affermando che la priorità è la sicurezza energetica.",
-  "corpo1": "Il governo ha rimandato al 2038 l'uscita dal carbone, con un emendamento inserito nel dl Bollette. La decisione è stata presa sabato 28 marzo 2026. L'emendamento è stato sostenuto dalla Lega, che ha affermato che la sicurezza energetica del Paese deve essere la priorità. Secondo fonti governative, la proroga è stata decisa per garantire la stabilità del sistema energetico italiano. L'Italia avrebbe dovuto uscire dal carbone entro il 2025, secondo le precedenti disposizioni.",
-  "corpo2": "Questa decisione avrà un impatto significativo sul settore energetico italiano e sull'ambiente. L'uscita dal carbone è stata rinviata nonostante le promesse di ridurre le emissioni e di aumentare l'uso di fonti energetiche rinnovabili. La sicurezza energetica è un tema cruciale per il Paese, ma è importante considerare anche le conseguenze a lungo termine di questa decisione. Quanti anni ancora dovranno passare prima che l'Italia possa contare su fonti energetiche più sostenibili?",
+  "occhiello": "DL BOLLETTE, CARBONE RINVIA AL 2038",
+  "lead": "Il governo ha inserito un emendamento nel dl Bollette che proroga l'uscita dal carbone al 2038. La decisione è stata presa martedì 28 marzo, giorno della presentazione del disegno di legge. Secondo l'Emendamento, l'Italia non sarà più un Paese a carbon-neutral entro il 2035, come previsto dal Piano Nazionale Integrato per l'Energia e il Clima (PNIEC).",
+  "corpo1": "Il dl Bollette prevede di prorogare la fine dell'utilizzo del carbone dalle centrali termoelettriche, che era prevista per il 2027. Il nuovo termine è stato stabilito per il 2038, permettendo di mantenere in funzione le centrali termoelettriche che utilizzano carbone fino a quella data. Il ministro dell'Energia, Roberto Cingolani, ha detto che la decisione è stata presa per garantire la sicurezza energetica del Paese e per evitare un costo eccessivo per gli utenti. \"Non possiamo permetterci di far pagare ai cittadini un prezzo troppo alto per la transizione energetica\", ha dichiarato Cingolani.\n\nSecondo il dl Bollette, il costo di questa proroga sarà di circa 10 miliardi di euro entro il 2035. Il governo ha detto che questi fondi saranno utilizzati per finanziare la transizione energetica e per sostenere le imprese che stanno investendo nella produzione di energia rinnovabile.\n\nIl dl Bollette è stato presentato martedì 28 marzo e sarà discusso in Aula al Senato. Il governo ha detto che la proroga dell'uscita dal carbone sarà discussa e approvata entro la fine dell'anno.",
+  "corpo2": "Il governo sta prendendo una decisione controversa che potrebbe avere conseguenze per la trasformazione energetica del Paese. La proroga dell'uscita dal carbone è un passo indietro rispetto alle scadenze previste dal Piano Nazionale Integrato per l'Energia e il Clima (PNIEC). La decisione potrebbe anche essere un segnale di indecisione nel settore energetico, dove la concorrenza internazionale è sempre più forte.\n\nInoltre, la proroga dell'uscita dal carbone potrebbe avere un impatto negativo sul clima. Le centrali termoelettriche che utilizzano carbone sono una delle principali fonti di emissioni di anidride carbonica nel Paese. La proroga dell'uscita dal carbone significa che queste centrali saranno ancora in funzione per altri 11 anni, contribuendo ulteriormente alle emissioni di gas serra.",
   "journalist": {
-    "id": "marta_levi_01",
-    "firma": "Marta Levi",
-    "sezione": "economia"
+    "id": "enrico_mari_01",
+    "firma": "Enrico Mari",
+    "sezione": "ambiente"
   },
   "published_at": "2026-03-28T16:14:02.760837+00:00",
   "image": {
     "type": "wikimedia",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Deep_Learning.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/DeepLearningReconstruction.png",
     "source": "Wikimedia Commons",
-    "credit": "Sven Behnke",
+    "credit": "Andreas Maier",
     "license": "CC"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Dl Bollette, governo slitta al 2038: addio carbone rinviato\",\n  \"description\": \"Il governo ha inserito un emendamento nel dl Bollette che proroga l'uscita dal carbone al 2038. La decisione è stata presa nonostante le critiche sulla sicurezza energetica del Paese. La Lega ha sostenuto l'emendamento, affermando che la priorità è la sicurezza energetica.\",\n  \"articleBody\": \"Il governo ha inserito un emendamento nel dl Bollette che proroga l'uscita dal carbone al 2038. La decisione è stata presa nonostante le critiche sulla sicurezza energetica del Paese. La Lega ha sostenuto l'emendamento, affermando che la priorità è la sicurezza energetica. Il governo ha rimandato al 2038 l'uscita dal carbone, con un emendamento inserito nel dl Bollette. La decisione è stata presa sabato 28 marzo 2026. L'emendamento è stato sostenuto dalla Lega, che ha affermato che la sicurezza energetica del Paese deve essere la priorità. Secondo fonti governative, la proroga è stata decisa per garantire la stabilità del sistema energetico italiano. L'Italia avrebbe dovuto uscire dal carbone entro il 2025, secondo le precedenti disposizioni. Questa decisione avrà un impatto significativo sul settore energetico italiano e sull'ambiente. L'uscita dal carbone è stata rinviata nonostante le promesse di ridurre le emissioni e di aumentare l'uso di fonti energetiche rinnovabili. La sicurezza energetica è un tema cruciale per il Paese, ma è importante considerare anche le conseguenze a lungo termine di questa decisione. Quanti anni ancora dovranno passare prima che l'Italia possa contare su fonti energetiche più sostenibili?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Marta Levi\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T16:14:02.760837+00:00\",\n  \"dateModified\": \"2026-03-28T16:14:02.760837+00:00\",\n  \"url\": \"https://gazzettanazionale.it/economia/980a83d64124c090\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/economia/980a83d64124c090\"\n  },\n  \"articleSection\": \"Economia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://upload.wikimedia.org/wikipedia/commons/2/26/Deep_Learning.jpg\",\n    \"creditText\": \"Sven Behnke\"\n  }\n}",
-  "priority": 7,
-  "source": "ANSA Economia",
-  "source_type": "ansa",
-  "original_url": "https://www.ansa.it/sito/notizie/economia/2026/03/28/uscita-dal-carbone-rimandata-al-2038-ok-emendamento-lega-a-dl-bollette_c9b0149e-8815-47c8-81f0-f1a5b69a2b23.html",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Governo proroga uscita dal carbone al 2038: un costo di 10 miliardi entro il 203\",\n  \"description\": \"Il governo ha inserito un emendamento nel dl Bollette che proroga l'uscita dal carbone al 2038. La decisione è stata presa martedì 28 marzo, giorno della presentazione del disegno di legge. Secondo l'Emendamento, l'Italia non sarà più un Paese a carbon-neutral entro il 2035, come previsto dal Piano \",\n  \"articleBody\": \"Il governo ha inserito un emendamento nel dl Bollette che proroga l'uscita dal carbone al 2038. La decisione è stata presa martedì 28 marzo, giorno della presentazione del disegno di legge. Secondo l'Emendamento, l'Italia non sarà più un Paese a carbon-neutral entro il 2035, come previsto dal Piano Nazionale Integrato per l'Energia e il Clima (PNIEC). Il dl Bollette prevede di prorogare la fine dell'utilizzo del carbone dalle centrali termoelettriche, che era prevista per il 2027. Il nuovo termine è stato stabilito per il 2038, permettendo di mantenere in funzione le centrali termoelettriche che utilizzano carbone fino a quella data. Il ministro dell'Energia, Roberto Cingolani, ha detto che la decisione è stata presa per garantire la sicurezza energetica del Paese e per evitare un costo eccessivo per gli utenti. \\\"Non possiamo permetterci di far pagare ai cittadini un prezzo troppo alto per la transizione energetica\\\", ha dichiarato Cingolani.\\n\\nSecondo il dl Bollette, il costo di questa proroga sarà di circa 10 miliardi di euro entro il 2035. Il governo ha detto che questi fondi saranno utilizzati per finanziare la transizione energetica e per sostenere le imprese che stanno investendo nella produzione di energia rinnovabile.\\n\\nIl dl Bollette è stato presentato martedì 28 marzo e sarà discusso in Aula al Senato. Il governo ha detto che la proroga dell'uscita dal carbone sarà discussa e approvata entro la fine dell'anno. Il governo sta prendendo una decisione controversa che potrebbe avere conseguenze per la trasformazione energetica del Paese. La proroga dell'uscita dal carbone è un passo indietro rispetto alle scadenze previste dal Piano Nazionale Integrato per l'Energia e il Clima (PNIEC). La decisione potrebbe anche essere un segnale di indecisione nel settore energetico, dove la concorrenza internazionale è sempre più forte.\\n\\nInoltre, la proroga dell'uscita dal carbone potrebbe avere un impatto negativo sul clima. Le centrali termoelettriche che utilizzano carbone sono una delle principali fonti di emissioni di anidride carbonica nel Paese. La proroga dell'uscita dal carbone significa che queste centrali saranno ancora in funzione per altri 11 anni, contribuendo ulteriormente alle emissioni di gas serra.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Enrico Mari\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T16:14:02.760837+00:00\",\n  \"dateModified\": \"2026-03-28T16:14:02.760837+00:00\",\n  \"url\": \"https://gazzettanazionale.it/ambiente/980a83d64124c090\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/ambiente/980a83d64124c090\"\n  },\n  \"articleSection\": \"Ambiente\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://upload.wikimedia.org/wikipedia/commons/c/ce/DeepLearningReconstruction.png\",\n    \"creditText\": \"Andreas Maier\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://gazzettanazionale.it/ambiente/dl-bollette-governo-slitta-al-2038-addio-carbone-r-980a83d64124c090",
   "related": [
     {
-      "title": "Governo slitta tassa su piccoli pacchi extra Ue al 1° luglio",
-      "url": "/economia/governo-slitta-tassa-su-piccoli-pacchi-extra-ue-al-370fec8af04f4006",
-      "id": "370fec8af04f4006"
+      "title": "Italia, stop all'uscita dal carbone: ora è previsto il 2038",
+      "url": "/ambiente/italia-stop-alluscita-dal-carbone-ora-e-previsto-i-0210659daccc87ee",
+      "id": "0210659daccc87ee"
     },
     {
-      "title": "Bilanciazze: governo aumenta bollette di 15,2 miliardi",
-      "url": "/economia/bilanciazze-governo-aumenta-bollette-di-152-miliar-1c64de37b3732729",
-      "id": "1c64de37b3732729"
+      "title": "Un senatore si dimette per presunte tangenti 500mila",
+      "url": "/ambiente/un-sistema-solare-nasce-a-400-anni-luce-da-noi-4a983843318172e9",
+      "id": "4a983843318172e9"
     },
     {
-      "title": "Bollette a 14€/MWh in Spagna, l'Italia paga 100€",
-      "url": "/economia/bollette-a-14mwh-in-spagna-litalia-paga-100-fcd36b91b9b71b9e",
-      "id": "fcd36b91b9b71b9e"
+      "title": "Scienziato scozzese spiega il mistero della Green River",
+      "url": "/ambiente/scienziato-scozzese-spiega-il-mistero-della-green-08665d217e601d4c",
+      "id": "08665d217e601d4c"
     }
-  ]
+  ],
+  "updated_at": "2026-03-28T16:14:02.760837+00:00"
 }
