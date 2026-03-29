@@ -1,0 +1,51 @@
+{
+  "id": "93b5492ba207546a",
+  "slug": "meloni-incontra-tajani-e-salvini-un-punto-di-svolt-93b5492ba207546a",
+  "title": "Meloni incontra Tajani e Salvini: un punto di svolta per la coalizione?",
+  "titles": [
+    "Meloni incontra Tajani e Salvini: un punto di svolta per la coalizione?",
+    "Giorgia Meloni chiama i vice a Roma: la coalizione è al bivio",
+    "La premier incontra i suoi: cosa aspettano dalla riunione?"
+  ],
+  "title_winner": null,
+  "section": "politica",
+  "occhiello": "VERTICE NELLA VILLA DI MELONI, PANICO NEI SONDAGGI.",
+  "lead": "Giorgia Meloni, premier, incontra venerdì sera i suoi vice, Antonio Tajani e Matteo Salvini, nella residenza romana del capo del governo, per discutere del rilancio della coalizione. La notizia viene pubblicata sulla Repubblica il 29 marzo 2026.",
+  "corpo1": "La situazione politica italiana si fa sempre più tesa. La premier Giorgia Meloni, incontrata venerdì sera i suoi vice, Antonio Tajani e Matteo Salvini, nella residenza romana del capo del governo, per discutere del rilancio della coalizione. L'incontro è un chiaro segnale di ansia e preoccupazione per la situazione politica italiana, che sembra essere in costante agitazione.  Il panico nei sondaggi è un altro aspetto della situazione politica italiana, che sembra essere in costante agitazione. ",
+  "corpo2": "La coalizione di Meloni è stata messa a dura prova da più di un anno di governo, e ora si trova di fronte a una serie di sfide, tra cui la gestione dell'economia, la politica estera e le relazioni con l'Unione Europea. Il centrosinistra, guidato da Nicola Zingaretti, ha lanciato una lettera ai presidenti delle Camere per chiedere che la premier riferisca in Parlamento e risponda alle domande dei parlamentari. La lettera è un chiaro segnale di dissenso e di criticità rispetto alla gestione della coalizione.   ",
+  "journalist": {
+    "id": "elena_russo_01",
+    "firma": "Elena Russo",
+    "sezione": "politica"
+  },
+  "published_at": "2026-03-29T00:24:43.546589+00:00",
+  "image": {
+    "type": "wikimedia",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Giorgia_Meloni_2019.jpg",
+    "source": "Wikimedia Commons",
+    "credit": "Presidenza della Repubblica",
+    "license": "CC"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Meloni incontra Tajani e Salvini: un punto di svolta per la coalizione?\",\n  \"description\": \"Giorgia Meloni, premier, incontra venerdì sera i suoi vice, Antonio Tajani e Matteo Salvini, nella residenza romana del capo del governo, per discutere del rilancio della coalizione. La notizia viene pubblicata sulla Repubblica il 29 marzo 2026.\",\n  \"articleBody\": \"Giorgia Meloni, premier, incontra venerdì sera i suoi vice, Antonio Tajani e Matteo Salvini, nella residenza romana del capo del governo, per discutere del rilancio della coalizione. La notizia viene pubblicata sulla Repubblica il 29 marzo 2026. La situazione politica italiana si fa sempre più tesa. La premier Giorgia Meloni, incontrata venerdì sera i suoi vice, Antonio Tajani e Matteo Salvini, nella residenza romana del capo del governo, per discutere del rilancio della coalizione. L'incontro è un chiaro segnale di ansia e preoccupazione per la situazione politica italiana, che sembra essere in costante agitazione.  Il panico nei sondaggi è un altro aspetto della situazione politica italiana, che sembra essere in costante agitazione.  La coalizione di Meloni è stata messa a dura prova da più di un anno di governo, e ora si trova di fronte a una serie di sfide, tra cui la gestione dell'economia, la politica estera e le relazioni con l'Unione Europea. Il centrosinistra, guidato da Nicola Zingaretti, ha lanciato una lettera ai presidenti delle Camere per chiedere che la premier riferisca in Parlamento e risponda alle domande dei parlamentari. La lettera è un chiaro segnale di dissenso e di criticità rispetto alla gestione della coalizione.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Elena Russo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-29T00:24:43.546589+00:00\",\n  \"dateModified\": \"2026-03-29T00:24:43.546589+00:00\",\n  \"url\": \"https://gazzettanazionale.it/politica/93b5492ba207546a\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/politica/93b5492ba207546a\"\n  },\n  \"articleSection\": \"Politica\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://upload.wikimedia.org/wikipedia/commons/4/47/Giorgia_Meloni_2019.jpg\",\n    \"creditText\": \"Presidenza della Repubblica\"\n  }\n}",
+  "priority": 9,
+  "source": "Redazione",
+  "source_type": "competitor_gap",
+  "original_url": "https://www.repubblica.it/politica/2026/03/29/news/meloni_cena_tajani_salvini_governo_dopo_referendum-425250967/",
+  "related": [
+    {
+      "title": "Giorgia Meloni chiamata a chiarimenti dal centro-sinistra",
+      "url": "/politica/giorgia-meloni-chiamata-a-chiarire-programmazione-ddf756345ecb43a5",
+      "id": "ddf756345ecb43a5"
+    },
+    {
+      "title": "Giorgia Meloni: l'ora della verità sui fondi dopo il referendum",
+      "url": "/politica/la-presidente-meloni-chiamata-a-verifiche-per-la-g-1ef251ceca72d58c",
+      "id": "1ef251ceca72d58c"
+    },
+    {
+      "title": "40% di consensi, Meloni incassa un duro colpo",
+      "url": "/politica/meloni-spazzata-via-dai-voti-60-contrari-alla-sua-850d2c9cb54a88d0",
+      "id": "850d2c9cb54a88d0"
+    }
+  ]
+}
