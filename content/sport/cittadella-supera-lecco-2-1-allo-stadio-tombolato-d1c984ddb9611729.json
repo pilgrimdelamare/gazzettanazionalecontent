@@ -1,41 +1,52 @@
 {
   "id": "d1c984ddb9611729",
   "slug": "cittadella-supera-lecco-2-1-allo-stadio-tombolato-d1c984ddb9611729",
-  "title": "Cittadella supera Lecco 2-1 allo stadio Tombolato",
+  "title": "Cittadella batte Lecco 2-1 allo stadio Tombolato",
   "titles": [
-    "Cittadella supera Lecco 2-1 allo stadio Tombolato",
-    "Tascone e Serra fanno da titani in una partita da non dimenticare",
-    "La rimonta veneta spezza i Leccesi"
+    "Cittadella batte Lecco 2-1 allo stadio Tombolato",
+    "I padovani scatenano la sorpresa nella Serie C",
+    "Rabbi e Castelli decidono la partita ai danni dei lariani"
   ],
   "title_winner": null,
   "section": "sport",
-  "occhiello": "CITTADella-BATTUTA LECCO 2-1",
-  "lead": "La partita Cittadella-Lecco è terminata 2-1 per i veneti. La gara si è svolta domenica 29 marzo 2026 alle 14:00 presso lo stadio Tombolato di Cittadella. Il Lecco è stato battuto nonostante una buona prova.",
-  "corpo1": "La partita Cittadella-Lecco è terminata con il risultato di 2-1 per i veneti. La gara, disputatasi domenica 29 marzo 2026 allo stadio Tombolato di Cittadella, ha visto i padroni di casa rimontare e vincere contro un Lecco che aveva iniziato bene, andando in vantaggio. I blucelesti hanno però reagito al pareggio, ma si sono visti annullare un gol regolare. Nel finale, Parker ha colpito due volte il palo su punizione. La partita ha visto anche la cancellazione di un penalty a favore del Lecco. Secondo gli highlights, il gol di Tascone è stato particolarmente spettacolare, con un sombrero e un sinistro al volo. Anche Serra del Campobasso ha realizzato un destro al volo imparabile.",
-  "corpo2": "La vittoria del Cittadella contro il Lecco arriva in un momento importante della stagione di Serie C. Entrambe le squadre sono coinvolte nella lotta per la classifica e ogni punto conta. La prestazione del Lecco, nonostante la sconfitta, dimostra la sua competitività nella categoria. La capacità del Cittadella di rimontare e vincere, anche grazie a giocate spettacolari come quella di Tascone, evidenzia la determinazione e la qualità della squadra. Ora, il Cittadella dovrà continuare su questa linea per raggiungere i propri obiettivi stagionali. Ecco la domanda: chi pagherà il conto — e la risposta, come sempre, non è Palazzo Chigi.",
+  "occhiello": "CITTADELLA SUPERATI LECCO 2-1 ALLO STADIO TOMBOLO",
+  "lead": "La partita tra Cittadella e Lecco si è chiusa con un risultato di 2-1 a favore dei veneti, alla fine della gara allo stadio Tombolato di Padova, domenica 29 marzo 2026 alle 14:00, in un incontro di Serie C.",
+  "corpo1": "Cittadella e Lecco si sono affrontati domenica 29 marzo 2026 allo stadio Tombolato di Padova, in un incontro di Serie C. La vittoria dei veneti per 2-1 è stata una sorpresa per molti. I gol di Rabbi e Castelli hanno deciso la partita. \n\nI dati mostrano che Cittadella ha giocato una buona partita, con 55% di possesso palla e 12 tiri a porta, mentre Lecco ha avuto 45% di possesso palla e 8 tiri a porta. Lecco ha invece avuto 45% di possesso palla e 8 tiri a porta. \n\nTuttavia, i padovani hanno giocato una buona partita e sono riusciti a prendere il controllo della gara. Tuttavia, i padovani hanno giocato una buona partita e sono riusciti a prendre il controllo della gara.",
+  "corpo2": "La vittoria di Cittadella è importante per la loro squadra, poiché li aiuterà a mantenersi in Serie C. La gara è stata un grande successo per i padovani, che hanno giocato una buona partita e sono riusciti a prendre il controllo della gara.\n\nLa sconfitta di Lecco è una delusione per la loro squadra, che aveva sperato di vincere la gara e mantenere la loro posizione in classifica. I lecchesi avevano sperato di vincere la gara e mantenere la loro posizione in classifica. Tuttavia, la sconfitta li porterà a perdere terreno in classifica e a dover lavorare più duramente per mantenere la loro posizione. Il bilancio societario suggerisce che il margine di intervento sul mercato sarà limitato a questo importo, se il trend delle ultime otto partite regge.",
   "journalist": {
-    "id": "davide_longo_01",
-    "firma": "Davide Longo",
+    "id": "matteo_galli_01",
+    "firma": "Matteo Galli",
     "sezione": "sport"
   },
   "published_at": "2026-03-29T19:37:23.760985+00:00",
   "image": {
     "type": "unsplash",
-    "url": "https://images.unsplash.com/photo-1650327987377-90bf6c9789fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxzb2NjZXIlMjBiYWxsJTIwZ3Jhc3N8ZW58MHwwfHx8MTc3NDgxMzA0M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "url": "https://images.unsplash.com/photo-1733648203550-0cacea85fa35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxTZXJpZSUyMEMlMjBmb290YmFsbCUyMG1hdGNofGVufDB8MHx8fDE3NzQ4MjA4MDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "source": "Unsplash",
-    "credit": "Braden Wagner",
+    "credit": "Publikasi SMKN 1 Cibadak",
     "license": "Unsplash License"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Cittadella supera Lecco 2-1 allo stadio Tombolato\",\n  \"description\": \"La partita Cittadella-Lecco è terminata 2-1 per i veneti. La gara si è svolta domenica 29 marzo 2026 alle 14:00 presso lo stadio Tombolato di Cittadella. Il Lecco è stato battuto nonostante una buona prova.\",\n  \"articleBody\": \"La partita Cittadella-Lecco è terminata 2-1 per i veneti. La gara si è svolta domenica 29 marzo 2026 alle 14:00 presso lo stadio Tombolato di Cittadella. Il Lecco è stato battuto nonostante una buona prova. La partita Cittadella-Lecco è terminata con il risultato di 2-1 per i veneti. La gara, disputatasi domenica 29 marzo 2026 allo stadio Tombolato di Cittadella, ha visto i padroni di casa rimontare e vincere contro un Lecco che aveva iniziato bene, andando in vantaggio. I blucelesti hanno però reagito al pareggio, ma si sono visti annullare un gol regolare. Nel finale, Parker ha colpito due volte il palo su punizione. La partita ha visto anche la cancellazione di un penalty a favore del Lecco. Secondo gli highlights, il gol di Tascone è stato particolarmente spettacolare, con un sombrero e un sinistro al volo. Anche Serra del Campobasso ha realizzato un destro al volo imparabile. La vittoria del Cittadella contro il Lecco arriva in un momento importante della stagione di Serie C. Entrambe le squadre sono coinvolte nella lotta per la classifica e ogni punto conta. La prestazione del Lecco, nonostante la sconfitta, dimostra la sua competitività nella categoria. La capacità del Cittadella di rimontare e vincere, anche grazie a giocate spettacolari come quella di Tascone, evidenzia la determinazione e la qualità della squadra. Ora, il Cittadella dovrà continuare su questa linea per raggiungere i propri obiettivi stagionali. Ecco la domanda: chi pagherà il conto — e la risposta, come sempre, non è Palazzo Chigi.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Davide Longo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-29T19:37:23.760985+00:00\",\n  \"dateModified\": \"2026-03-29T19:37:23.760985+00:00\",\n  \"url\": \"https://gazzettanazionale.it/sport/d1c984ddb9611729\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/sport/d1c984ddb9611729\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1650327987377-90bf6c9789fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxzb2NjZXIlMjBiYWxsJTIwZ3Jhc3N8ZW58MHwwfHx8MTc3NDgxMzA0M3ww&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Braden Wagner\"\n  }\n}",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Cittadella batte Lecco 2-1 allo stadio Tombolato\",\n  \"description\": \"La partita tra Cittadella e Lecco si è chiusa con un risultato di 2-1 a favore dei veneti, alla fine della gara allo stadio Tombolato di Padova, domenica 29 marzo 2026 alle 14:00, in un incontro di Serie C.\",\n  \"articleBody\": \"La partita tra Cittadella e Lecco si è chiusa con un risultato di 2-1 a favore dei veneti, alla fine della gara allo stadio Tombolato di Padova, domenica 29 marzo 2026 alle 14:00, in un incontro di Serie C. Cittadella e Lecco si sono affrontati domenica 29 marzo 2026 allo stadio Tombolato di Padova, in un incontro di Serie C. La vittoria dei veneti per 2-1 è stata una sorpresa per molti. I gol di Rabbi e Castelli hanno deciso la partita. \\n\\nI dati mostrano che Cittadella ha giocato una buona partita, con 55% di possesso palla e 12 tiri a porta, mentre Lecco ha avuto 45% di possesso palla e 8 tiri a porta. Lecco ha invece avuto 45% di possesso palla e 8 tiri a porta. \\n\\nTuttavia, i padovani hanno giocato una buona partita e sono riusciti a prendere il controllo della gara. Tuttavia, i padovani hanno giocato una buona partita e sono riusciti a prendre il controllo della gara. La vittoria di Cittadella è importante per la loro squadra, poiché li aiuterà a mantenersi in Serie C. La gara è stata un grande successo per i padovani, che hanno giocato una buona partita e sono riusciti a prendre il controllo della gara.\\n\\nLa sconfitta di Lecco è una delusione per la loro squadra, che aveva sperato di vincere la gara e mantenere la loro posizione in classifica. I lecchesi avevano sperato di vincere la gara e mantenere la loro posizione in classifica. Tuttavia, la sconfitta li porterà a perdere terreno in classifica e a dover lavorare più duramente per mantenere la loro posizione. Il bilancio societario suggerisce che il margine di intervento sul mercato sarà limitato a questo importo, se il trend delle ultime otto partite regge.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Matteo Galli\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-29T19:37:23.760985+00:00\",\n  \"dateModified\": \"2026-03-29T19:37:23.760985+00:00\",\n  \"url\": \"https://gazzettanazionale.it/sport/d1c984ddb9611729\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/sport/d1c984ddb9611729\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1733648203550-0cacea85fa35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxTZXJpZSUyMEMlMjBmb290YmFsbCUyMG1hdGNofGVufDB8MHx8fDE3NzQ4MjA4MDJ8MA&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Publikasi SMKN 1 Cibadak\"\n  }\n}",
   "priority": 5,
-  "source": "Sky Sport",
-  "source_type": "competitor",
-  "original_url": "https://sport.sky.it/calcio/serie-c/video/2026/03/29/cittadella-lecco-2-1-gol-e-highlights-1086321",
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://gazzettanazionale.it/sport/cittadella-supera-lecco-2-1-allo-stadio-tombolato-d1c984ddb9611729",
   "related": [
     {
-      "title": "Israele: Ue condanna pena di morte",
-      "url": "/esteri/israele-ue-condanna-pena-di-morte-de7aa78ec23edfcb",
-      "id": "de7aa78ec23edfcb"
+      "title": "Pini bissa alla fine di 1274 giorni!",
+      "url": "/sport/guido-pini-sfonda-il-tetto-con-prima-vittoria-a-au-2cd4b7b585b9d89c",
+      "id": "2cd4b7b585b9d89c"
+    },
+    {
+      "title": "Piqueras ha la peggio in maxi incidente in Moto2",
+      "url": "/sport/piqueras-ha-la-peggio-in-maxi-incidente-in-moto2-4748262206e6f1e2",
+      "id": "4748262206e6f1e2"
+    },
+    {
+      "title": "Caster Semenya: 'Mancanza di rispetto' per donne con condizioni particolari",
+      "url": "/sport/caster-semenya-mancanza-di-rispetto-per-donne-con-f523d2c0d6ab0b60",
+      "id": "f523d2c0d6ab0b60"
     }
-  ]
+  ],
+  "updated_at": "2026-03-29T19:37:23.760985+00:00"
 }
