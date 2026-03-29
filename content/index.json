@@ -1,5 +1,22 @@
 [
   {
+    "id": "c7d8fc76ac42bcb6",
+    "slug": "nove-bambini-tra-vittime-di-e-coli-in-california-c7d8fc76ac42bcb6",
+    "title": "7 bambini intossicati da formaggio crudo in California",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-03-28T16:45:06.870955+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/23459014/pexels-photo-23459014.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "EPIDEMIA DI E. COLI IN CALIFORNIA: Nove Bambini Colpiti",
+    "lead_preview": ". .",
+    "tags": [
+      "epidemia e coli",
+      "intossicazione california"
+    ]
+  },
+  {
     "id": "f641e65eeefd871b",
     "slug": "tentato-omicidio-coppia-accusata-di-avvelenamento-f641e65eeefd871b",
     "title": "Coppia accusata di avvelenamento a Iowa: donna incinta in pericolo",
@@ -1670,24 +1687,6 @@
       "vandalismo fresnes",
       "violence elettorale",
       "sabato vandalismo"
-    ]
-  },
-  {
-    "id": "c7d8fc76ac42bcb6",
-    "slug": "nove-bambini-tra-vittime-di-e-coli-in-california-c7d8fc76ac42bcb6",
-    "title": "Nove bambini tra vittime di E. coli in California",
-    "section": "salute",
-    "priority": 3,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-03-28T16:45:06.870955+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Mazzarino_Sicilia_Monte_Formaggio_12.jpg",
-    "occhiello": "Nove bambini tra vittime di E. coli in California",
-    "lead_preview": "Un gruppo di nove persone, tra cui sette bambini, è stato colpito da un'epidemia di E. coli legata a un formaggio crudo ",
-    "tags": [
-      "epidemia e. coli",
-      "california",
-      "raw farm"
     ]
   },
   {
