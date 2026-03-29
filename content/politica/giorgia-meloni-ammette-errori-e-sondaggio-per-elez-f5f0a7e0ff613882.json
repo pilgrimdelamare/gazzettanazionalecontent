@@ -1,0 +1,51 @@
+{
+  "id": "f5f0a7e0ff613882",
+  "slug": "giorgia-meloni-ammette-errori-e-sondaggio-per-elez-f5f0a7e0ff613882",
+  "title": "Giorgia Meloni ammette errori e sondaggio per elezioni anticipate",
+  "titles": [
+    "Giorgia Meloni ammette errori e sondaggio per elezioni anticipate",
+    "Tensioni al governo: Meloni incontra Tajani e Salvini per discutere urne a breve",
+    "Lega non si oppone alle urne: Meloni in cerca di un'uscita dal calderone"
+  ],
+  "title_winner": null,
+  "section": "politica",
+  "occhiello": "TROPPI ERRORI DAL GOVERNO.",
+  "lead": "La premier Giorgia Meloni ha dichiarato che ci sono troppi errori dai suoi, e ha iniziato a sondare i vicepremier Tajani e Salvini sulle elezioni anticipate. La notizia è emersa durante una cena convocata da Meloni stessa. Il governo è in preda a tensioni dopo il referendum, e la Lega non si oppone all'ipotesi di urne a breve.",
+  "corpo1": "Il governo di Meloni è in crisi da tempo, e il referendum ha solo esacerbato le tensioni. Secondo fonti interne, la premier ha convocato una cena con i due vicepremier, Tajani e Salvini, per discutere della possibilità di elezioni anticipate. La notizia è emersa durante un'intervista rilasciata da Meloni ieri sera. \"Troppi errori dai miei\", ha detto la premier, senza fornire ulteriori dettagli. La Lega, il partito di Salvini, ha dichiarato di non opporsi all'ipotesi di urne a breve, ma non ha fornito ulteriori informazioni. Il governo è in preda a tensioni da tempo, e il referendum ha solo esacerbato le cose. Secondo un comunicato del governo, i ministri sono \"preoccupati per la situazione politica\" e stanno lavorando su una possibile soluzione.",
+  "corpo2": "La premier Meloni ha sempre avuto un rapporto difficile con i suoi vicepremier, Tajani e Salvini. Il loro partito, la Lega, è stato coinvolto in diverse vicende giudiziarie negli ultimi anni, e la loro credibilità è stata messa in dubbio più volte. Il referendum ha solo esacerbato le tensioni, e ora il governo è in preda a una crisi di fiducia. La domanda è: chi sarà il prossimo a cadere? La risposta, per ora, è ignota. Ma una cosa è certa: il governo di Meloni non è più in grado di governare da solo.",
+  "journalist": {
+    "id": "elena_russo_01",
+    "firma": "Elena Russo",
+    "sezione": "politica"
+  },
+  "published_at": "2026-03-29T00:40:16.194881+00:00",
+  "image": {
+    "type": "wikimedia",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Giorgia_Meloni_2019.jpg",
+    "source": "Wikimedia Commons",
+    "credit": "Presidenza della Repubblica",
+    "license": "CC"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Giorgia Meloni ammette errori e sondaggio per elezioni anticipate\",\n  \"description\": \"La premier Giorgia Meloni ha dichiarato che ci sono troppi errori dai suoi, e ha iniziato a sondare i vicepremier Tajani e Salvini sulle elezioni anticipate. La notizia è emersa durante una cena convocata da Meloni stessa. Il governo è in preda a tensioni dopo il referendum, e la Lega non si oppone \",\n  \"articleBody\": \"La premier Giorgia Meloni ha dichiarato che ci sono troppi errori dai suoi, e ha iniziato a sondare i vicepremier Tajani e Salvini sulle elezioni anticipate. La notizia è emersa durante una cena convocata da Meloni stessa. Il governo è in preda a tensioni dopo il referendum, e la Lega non si oppone all'ipotesi di urne a breve. Il governo di Meloni è in crisi da tempo, e il referendum ha solo esacerbato le tensioni. Secondo fonti interne, la premier ha convocato una cena con i due vicepremier, Tajani e Salvini, per discutere della possibilità di elezioni anticipate. La notizia è emersa durante un'intervista rilasciata da Meloni ieri sera. \\\"Troppi errori dai miei\\\", ha detto la premier, senza fornire ulteriori dettagli. La Lega, il partito di Salvini, ha dichiarato di non opporsi all'ipotesi di urne a breve, ma non ha fornito ulteriori informazioni. Il governo è in preda a tensioni da tempo, e il referendum ha solo esacerbato le cose. Secondo un comunicato del governo, i ministri sono \\\"preoccupati per la situazione politica\\\" e stanno lavorando su una possibile soluzione. La premier Meloni ha sempre avuto un rapporto difficile con i suoi vicepremier, Tajani e Salvini. Il loro partito, la Lega, è stato coinvolto in diverse vicende giudiziarie negli ultimi anni, e la loro credibilità è stata messa in dubbio più volte. Il referendum ha solo esacerbato le tensioni, e ora il governo è in preda a una crisi di fiducia. La domanda è: chi sarà il prossimo a cadere? La risposta, per ora, è ignota. Ma una cosa è certa: il governo di Meloni non è più in grado di governare da solo.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Elena Russo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-29T00:40:16.194881+00:00\",\n  \"dateModified\": \"2026-03-29T00:40:16.194881+00:00\",\n  \"url\": \"https://gazzettanazionale.it/politica/f5f0a7e0ff613882\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/politica/f5f0a7e0ff613882\"\n  },\n  \"articleSection\": \"Politica\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://upload.wikimedia.org/wikipedia/commons/4/47/Giorgia_Meloni_2019.jpg\",\n    \"creditText\": \"Presidenza della Repubblica\"\n  }\n}",
+  "priority": 5,
+  "source": "Redazione",
+  "source_type": "competitor_gap",
+  "original_url": "https://www.repubblica.it/politica/2026/03/29/news/cena_casa_meloni_tajani_salvini_ipotesi_voto_anticipato-425250971/",
+  "related": [
+    {
+      "title": "Giorgia Meloni organizza cene riservate sul futuro del governo",
+      "url": "/politica/giorgia-meloni-organizza-cene-riservate-sul-futuro-a19dd7b412ccb338",
+      "id": "a19dd7b412ccb338"
+    },
+    {
+      "title": "Giorgia Meloni chiamata a chiarimenti dal centro-sinistra",
+      "url": "/politica/giorgia-meloni-chiamata-a-chiarire-programmazione-ddf756345ecb43a5",
+      "id": "ddf756345ecb43a5"
+    },
+    {
+      "title": "Giorgia Meloni: l'ora della verità sui fondi dopo il referendum",
+      "url": "/politica/la-presidente-meloni-chiamata-a-verifiche-per-la-g-1ef251ceca72d58c",
+      "id": "1ef251ceca72d58c"
+    }
+  ]
+}
