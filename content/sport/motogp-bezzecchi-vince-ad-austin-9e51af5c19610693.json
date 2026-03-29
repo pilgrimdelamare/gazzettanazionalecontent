@@ -1,0 +1,51 @@
+{
+  "id": "9e51af5c19610693",
+  "slug": "motogp-bezzecchi-vince-ad-austin-9e51af5c19610693",
+  "title": "MotoGP: Bezzecchi vince ad Austin",
+  "titles": [
+    "MotoGP: Bezzecchi vince ad Austin",
+    "MotoGP: Bezzecchi favorito per il titolo",
+    "MotoGP: Bezzecchi stravince in Texas"
+  ],
+  "title_winner": null,
+  "section": "sport",
+  "occhiello": "GP AUSTIN VINTO DA BEZZECCHI",
+  "lead": "Marco bezzecchi ha vinto il gp austin, secondo appuntamento del mondiale moto gp, svoltosi il 29 marzo 2026 austin, texas.",
+  "corpo1": "La gara è stata caratterizzata da una bagarre tra bagnaia, bastianini e marquez, con bezzecchi che ha fatto valere la sua supremazia tecnica e atletica. secondo marquez, bezzecchi è il favorito per il titolo. bezzecchi ha espresso la sua emozione per la vittoria, affermando di aver \"sognato da tanto di vincere qui\". acosta ha commentato la sua prestazione, affermando di aver \"fatto bel lavoro\" e che deve \"continuare a lavorare\". la gara è stata trasmessa in diretta su sky, con analisi e commenti dei piloti nel retropodio. il gp austin è stato il secondo appuntamento del mondiale moto gp, dopo il gp brasile, dove Bezzecchi aveva già mostrato la sua competitività.",
+  "corpo2": "Marco bezzecchi è un pilota italiano di moto gp, che ha già mostrato la sua abilità in diverse gare. la sua vittoria al gp austin è il risultato di una combinazione di fattori, tra cui la sua tecnica, la sua atleticità e la strategia della sua squadra. la gara di austin è stata anche caratterizzata da una forte concorrenza tra i piloti, con bagnaia, bastianini e marquez che hanno lottato per la vittoria. il gp austin è stato un appuntamento importante per il mondiale moto gp, e la vittoria di Bezzecchi ha confermato la sua posizione di favorito per il titolo. cosa cambierà per bezzecchi e per il mondiale moto gp dopo questa vittoria, e come reagiranno gli altri piloti e le loro squadre?",
+  "journalist": {
+    "id": "davide_longo_01",
+    "firma": "Davide Longo",
+    "sezione": "sport"
+  },
+  "published_at": "2026-03-29T23:32:12.513532+00:00",
+  "image": {
+    "type": "unsplash",
+    "url": "https://images.unsplash.com/photo-1753563819213-2600548e1554?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxtb3RvJTIwZ3AlMjByYWNlfGVufDB8MHx8fDE3NzQ4MjcxMzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "source": "Unsplash",
+    "credit": "Mario Amé",
+    "license": "Unsplash License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"MotoGP: Bezzecchi vince ad Austin\",\n  \"description\": \"Marco bezzecchi ha vinto il gp austin, secondo appuntamento del mondiale moto gp, svoltosi il 29 marzo 2026 austin, texas.\",\n  \"articleBody\": \"Marco bezzecchi ha vinto il gp austin, secondo appuntamento del mondiale moto gp, svoltosi il 29 marzo 2026 austin, texas. La gara è stata caratterizzata da una bagarre tra bagnaia, bastianini e marquez, con bezzecchi che ha fatto valere la sua supremazia tecnica e atletica. secondo marquez, bezzecchi è il favorito per il titolo. bezzecchi ha espresso la sua emozione per la vittoria, affermando di aver \\\"sognato da tanto di vincere qui\\\". acosta ha commentato la sua prestazione, affermando di aver \\\"fatto bel lavoro\\\" e che deve \\\"continuare a lavorare\\\". la gara è stata trasmessa in diretta su sky, con analisi e commenti dei piloti nel retropodio. il gp austin è stato il secondo appuntamento del mondiale moto gp, dopo il gp brasile, dove Bezzecchi aveva già mostrato la sua competitività. Marco bezzecchi è un pilota italiano di moto gp, che ha già mostrato la sua abilità in diverse gare. la sua vittoria al gp austin è il risultato di una combinazione di fattori, tra cui la sua tecnica, la sua atleticità e la strategia della sua squadra. la gara di austin è stata anche caratterizzata da una forte concorrenza tra i piloti, con bagnaia, bastianini e marquez che hanno lottato per la vittoria. il gp austin è stato un appuntamento importante per il mondiale moto gp, e la vittoria di Bezzecchi ha confermato la sua posizione di favorito per il titolo. cosa cambierà per bezzecchi e per il mondiale moto gp dopo questa vittoria, e come reagiranno gli altri piloti e le loro squadre?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Davide Longo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-29T23:32:12.513532+00:00\",\n  \"dateModified\": \"2026-03-29T23:32:12.513532+00:00\",\n  \"url\": \"https://gazzettanazionale.it/sport/9e51af5c19610693\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/sport/9e51af5c19610693\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1753563819213-2600548e1554?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxtb3RvJTIwZ3AlMjByYWNlfGVufDB8MHx8fDE3NzQ4MjcxMzJ8MA&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Mario Amé\"\n  }\n}",
+  "priority": 5,
+  "source": "Sky Sport",
+  "source_type": "competitor",
+  "original_url": "https://sport.sky.it/motogp/video/2026/03/30/gp-austin-partenza-analisi-sky-tech-1086364",
+  "related": [
+    {
+      "title": "Bezzecchi vince a Austin",
+      "url": "/sport/bezzecchi-vince-a-austin-e7ee657cb40597c7",
+      "id": "e7ee657cb40597c7"
+    },
+    {
+      "title": "Bezzecchi vince a Austin",
+      "url": "/sport/bezzecchi-vince-a-austin-cb375f2fb150f5f4",
+      "id": "cb375f2fb150f5f4"
+    },
+    {
+      "title": "MotoGP: Bagnaia si classifica decimo a Austin, rallentato dalla gomma posteriore",
+      "url": "/sport/motogp-bagnaia-si-classifica-decimo-a-austin-ralle-83adadbd50e75d7e",
+      "id": "83adadbd50e75d7e"
+    }
+  ]
+}
