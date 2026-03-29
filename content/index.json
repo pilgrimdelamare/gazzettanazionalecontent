@@ -1,5 +1,21 @@
 [
   {
+    "id": "d9e470e4f1fb0158",
+    "slug": "kallas-e-rubio-duro-scontro-al-g7-quando-finira-la-d9e470e4f1fb0158",
+    "title": "Ministro taglia 10% fondi sanità",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-03-28T16:14:06.061732+00:00",
+    "image_type": "wikimedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Marco_Rubio_%2824634232483%29.jpg",
+    "occhiello": "FONDI SCOMPARSI DOPO IL VOTO: Kallas e Rubio in contrasto al G7",
+    "lead_preview": ". .",
+    "tags": [
+      "fondi sanità"
+    ]
+  },
+  {
     "id": "f64f8b337ae975c1",
     "slug": "300mila-a-roma-contro-il-governo-landini-questa-e-f64f8b337ae975c1",
     "title": "300mila a Roma contro il governo: Landini 'Questa è la piazza del no al referend",
@@ -2873,22 +2889,6 @@
     "tags": [
       "manifestazione no kings",
       "referendum 2026"
-    ]
-  },
-  {
-    "id": "d9e470e4f1fb0158",
-    "slug": "kallas-e-rubio-duro-scontro-al-g7-quando-finira-la-d9e470e4f1fb0158",
-    "title": "Kallas e Rubio, duro scontro al G7: 'Quando finirà la sua pazienza?'",
-    "section": "esteri",
-    "priority": 6,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-03-28T16:14:06.061732+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Burg_Kaja_080524_1.jpg",
-    "occhiello": "DURO SCAMBIO DI BATTUTE TRA KALLAS E RUBIO",
-    "lead_preview": "Kaja Kallas, Alto rappresentante Ue, e Marco Rubio, segretario di Stato Usa, hanno avuto un duro scambio di battute al v",
-    "tags": [
-      "kallas rubio"
     ]
   },
   {
