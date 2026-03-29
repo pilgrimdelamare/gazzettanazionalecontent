@@ -1,5 +1,23 @@
 [
   {
+    "id": "36e05171f9d2d304",
+    "slug": "zelensky-firma-accordo-di-difesa-10-anno-tra-ucrai-36e05171f9d2d304",
+    "title": "Zelensky firma accordo con il Qatar per 10.000 soldati e 50 aerei",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-03-28T16:39:03.985032+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/15247902/pexels-photo-15247902.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "UN ACCORDO DI DIFESA TRA UCRAINA E QATAR",
+    "lead_preview": "Il presidente ucraino Volodymyr Zelensky ha firmato un accordo di difesa a lungo termine tra l'Ucraina e il Qatar, che p",
+    "tags": [
+      "ucraina qatar",
+      "accordo difesa",
+      "zelensky"
+    ]
+  },
+  {
     "id": "3d4dc668c3d8f50b",
     "slug": "mezzo-milione-di-manifestanti-contro-lestremismo-d-3d4dc668c3d8f50b",
     "title": "Mezzo milione a Londra contro l'estremismo di destra",
@@ -1824,24 +1842,6 @@
       "manifestazione londra",
       "estrema destra britannica",
       "proteste antiestremismo"
-    ]
-  },
-  {
-    "id": "36e05171f9d2d304",
-    "slug": "zelensky-firma-accordo-di-difesa-10-anno-tra-ucrai-36e05171f9d2d304",
-    "title": "Zelensky firma accordo di difesa 10-anno tra Ucraina e Qatar",
-    "section": "esteri",
-    "priority": 3,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-03-28T16:39:03.985032+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/34911965/pexels-photo-34911965.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "Ucraina e Qatar, accordo di difesa a lungo termine",
-    "lead_preview": "Il presidente ucraino Volodymyr Zelensky ha annunciato la firma di un accordo di difesa tra l'Ucraina e il Qatar, che pr",
-    "tags": [
-      "accordo difesa",
-      "zelensky qatar",
-      "guerra ucraina"
     ]
   },
   {
