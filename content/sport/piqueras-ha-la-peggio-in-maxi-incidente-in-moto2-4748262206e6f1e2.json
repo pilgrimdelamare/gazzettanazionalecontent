@@ -1,0 +1,51 @@
+{
+  "id": "4748262206e6f1e2",
+  "slug": "piqueras-ha-la-peggio-in-maxi-incidente-in-moto2-4748262206e6f1e2",
+  "title": "Piqueras ha la peggio in maxi incidente in Moto2",
+  "titles": [
+    "Piqueras ha la peggio in maxi incidente in Moto2",
+    "Piqueras ha la peggio in maxi incidente in Moto2",
+    "Piqueras ha la peggio in maxi incidente in Moto2"
+  ],
+  "title_winner": null,
+  "section": "sport",
+  "occhiello": "Piqueras ha la peggio in maxi incidente in Moto2",
+  "lead": "Ilaria Agius vince la gara di Moto2 a Austin, mentre Joan Piqueras soffre una grave frattura al femore sinistro dopo un maxi incidente al via. L'inglese di 25 anni ha trionfato nella gara di 21 giri, precedendo il francese Lorenzo Vietti e il colombiano Ivan Guevara.",
+  "corpo1": "Il maxi incidente è avvenuto all'inizio della gara, quando il pilota spagnolo Joan Piqueras, 23 anni, ha avuto la peggio in una collisione con altri sei piloti. La frattura al femore sinistro è stata diagnosticata immediatamente, e Piqueras è stato trasportato in ospedale. La gara è stata sospesa per alcuni minuti prima di riprendere con una nuova gara di 10 giri, che è stata vinta da Ilaria Agius, 25 anni. Il francese Lorenzo Vietti è arrivato secondo, seguito dal colombiano Ivan Guevara, 23 anni. L'italiano Armando Arbolino ha chiuso in decima posizione, mentre il francese Lorenzo Foggia, 20 anni, è arrivato 19°.",
+  "corpo2": "Piqueras, che aveva già subito un infortunio grave, si trova ora in una situazione difficile. La sua carriera in Moto2 potrebbe essere a rischio. Il maxi incidente ha anche sollevato questioni sulla sicurezza delle gare di Moto2. La Federazione Internazionale di Motociclismo (FIM) dovrà indagare sull'accaduto e prendere misure per prevenire incidenti simili in futuro. La gara di MotoGP si terrà oggi alle 22, e sarà trasmessa in diretta su Sky Sport Uno e Sky Sport MotoGP.",
+  "journalist": {
+    "id": "matteo_galli_01",
+    "firma": "Matteo Galli",
+    "sezione": "sport"
+  },
+  "published_at": "2026-03-29T21:31:16.072417+00:00",
+  "image": {
+    "type": "unsplash",
+    "url": "https://images.unsplash.com/photo-1725623851398-45ca8236a95b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxMb3JlbnpvJTIwVmlldHRpfGVufDB8MHx8fDE3NzQ4MTk4NzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "source": "Unsplash",
+    "credit": "Khanh Do",
+    "license": "Unsplash License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Piqueras ha la peggio in maxi incidente in Moto2\",\n  \"description\": \"Ilaria Agius vince la gara di Moto2 a Austin, mentre Joan Piqueras soffre una grave frattura al femore sinistro dopo un maxi incidente al via. L'inglese di 25 anni ha trionfato nella gara di 21 giri, precedendo il francese Lorenzo Vietti e il colombiano Ivan Guevara.\",\n  \"articleBody\": \"Ilaria Agius vince la gara di Moto2 a Austin, mentre Joan Piqueras soffre una grave frattura al femore sinistro dopo un maxi incidente al via. L'inglese di 25 anni ha trionfato nella gara di 21 giri, precedendo il francese Lorenzo Vietti e il colombiano Ivan Guevara. Il maxi incidente è avvenuto all'inizio della gara, quando il pilota spagnolo Joan Piqueras, 23 anni, ha avuto la peggio in una collisione con altri sei piloti. La frattura al femore sinistro è stata diagnosticata immediatamente, e Piqueras è stato trasportato in ospedale. La gara è stata sospesa per alcuni minuti prima di riprendere con una nuova gara di 10 giri, che è stata vinta da Ilaria Agius, 25 anni. Il francese Lorenzo Vietti è arrivato secondo, seguito dal colombiano Ivan Guevara, 23 anni. L'italiano Armando Arbolino ha chiuso in decima posizione, mentre il francese Lorenzo Foggia, 20 anni, è arrivato 19°. Piqueras, che aveva già subito un infortunio grave, si trova ora in una situazione difficile. La sua carriera in Moto2 potrebbe essere a rischio. Il maxi incidente ha anche sollevato questioni sulla sicurezza delle gare di Moto2. La Federazione Internazionale di Motociclismo (FIM) dovrà indagare sull'accaduto e prendere misure per prevenire incidenti simili in futuro. La gara di MotoGP si terrà oggi alle 22, e sarà trasmessa in diretta su Sky Sport Uno e Sky Sport MotoGP.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Matteo Galli\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-29T21:31:16.072417+00:00\",\n  \"dateModified\": \"2026-03-29T21:31:16.072417+00:00\",\n  \"url\": \"https://gazzettanazionale.it/sport/4748262206e6f1e2\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/sport/4748262206e6f1e2\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1725623851398-45ca8236a95b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxMb3JlbnpvJTIwVmlldHRpfGVufDB8MHx8fDE3NzQ4MTk4NzV8MA&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Khanh Do\"\n  }\n}",
+  "priority": 5,
+  "source": "Sky Sport",
+  "source_type": "competitor",
+  "original_url": "https://sport.sky.it/motogp/moto-2/gp/2026/granpremio-americhe/diretta/gara",
+  "related": [
+    {
+      "title": "Caster Semenya: 'Mancanza di rispetto' per donne con condizioni particolari",
+      "url": "/sport/caster-semenya-mancanza-di-rispetto-per-donne-con-f523d2c0d6ab0b60",
+      "id": "f523d2c0d6ab0b60"
+    },
+    {
+      "title": "Nicky Hayden ricordato prima del GP di Austin",
+      "url": "/sport/nicky-hayden-ricordato-prima-del-gp-di-austin-0f81a682e034614a",
+      "id": "0f81a682e034614a"
+    },
+    {
+      "title": "Guido Pini fa impazzire il pubblico con vittoria in Moto3 a Austin!",
+      "url": "/sport/guido-pini-fa-impazzire-il-pubblico-con-vittoria-i-d40dc60b6099a920",
+      "id": "d40dc60b6099a920"
+    }
+  ]
+}
