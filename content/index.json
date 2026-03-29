@@ -1,5 +1,23 @@
 [
   {
+    "id": "1c3626f094e01e86",
+    "slug": "zelensky-annuncia-cessione-del-donbass-a-patto-di-1c3626f094e01e86",
+    "title": "Zelensky: Stati Uniti offrono garanzie di sicurezza al Donbass",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-03-28T17:52:30.805977+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/36539811/pexels-photo-36539811.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "ZELENSKY LANCIA OFFERTA A L'UCRAINA: DONBASS A PATTO DI GARANZIE USA",
+    "lead_preview": "Volodymyr Zelensky ha dichiarato che gli Stati Uniti sono pronti a dare garanzie di sicurezza se l'Ucraina cederà il Don",
+    "tags": [
+      "guerra ucraina",
+      "zelensky",
+      "donbass"
+    ]
+  },
+  {
     "id": "2f7b77eda19efa20",
     "slug": "antagonisti-e-anarchici-scontri-a-pisa-contro-azio-2f7b77eda19efa20",
     "title": "10 arrests a Pisa",
@@ -1614,24 +1632,6 @@
     "lead_preview": "Paolo Mocavero, leader di Centopercentoanimalisti, è stato assolto in Cassazione dall'accusa di diffamazione nei confron",
     "tags": [
       "caso mocavero"
-    ]
-  },
-  {
-    "id": "1c3626f094e01e86",
-    "slug": "zelensky-annuncia-cessione-del-donbass-a-patto-di-1c3626f094e01e86",
-    "title": "Zelensky annuncia cessione del Donbass a patto di garanzie USA",
-    "section": "esteri",
-    "priority": 6,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-03-28T17:52:30.805977+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/20593752/pexels-photo-20593752.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "ZELINSKY INSISTE SUL DONBASS",
-    "lead_preview": "Volodymyr Zelensky ha dichiarato che gli Stati Uniti sono pronti a dare garanzie di sicurezza se l'Ucraina cederà il Don",
-    "tags": [
-      "zelensky",
-      "guerra ucraina",
-      "donbass"
     ]
   },
   {
