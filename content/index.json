@@ -1,5 +1,21 @@
 [
   {
+    "id": "a3585b6f15993871",
+    "slug": "reporter-cnn-arrestati-in-cisgiordania-mentre-docu-a3585b6f15993871",
+    "title": "Due giornalisti CNN arrestati in Cisgiordania",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-03-28T18:26:18.869073+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/18717340/pexels-photo-18717340.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "Due giornalisti CNN arrestati a Hebron",
+    "lead_preview": "David Culver e Christina Hartman, giornalisti della CNN, sono stati arrestati il 28 marzo 2026 a Hebron, in Cisgiordania",
+    "tags": [
+      "arresto giornalisti cisgiordania"
+    ]
+  },
+  {
     "id": "4f78060a1f12b701",
     "slug": "23-miliardi-di-euro-risparmiati-la-societa-elettri-4f78060a1f12b701",
     "title": "Terna S.p.A. risparmia 2,3 miliardi, i consumatori beneficiati",
@@ -475,24 +491,6 @@
       "televisivo",
       "imma tataranni",
       "vanessa scalera"
-    ]
-  },
-  {
-    "id": "a3585b6f15993871",
-    "slug": "reporter-cnn-arrestati-in-cisgiordania-mentre-docu-a3585b6f15993871",
-    "title": "Due giornalisti CNN arrestati da soldati israeliani a Hebron",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-03-28T18:26:18.869073+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/16986205/pexels-photo-16986205.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "REPORTER CNN IN CATTIVI GUAI",
-    "lead_preview": "Due giornalisti della CNN, David Culver e Christina Hartman, sono stati arrestati da soldati israeliani mentre raccoglie",
-    "tags": [
-      "attacco hebron",
-      "cnn arrestati",
-      "soldati israeliani"
     ]
   },
   {
