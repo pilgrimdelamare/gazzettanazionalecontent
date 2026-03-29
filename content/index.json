@@ -1,5 +1,22 @@
 [
   {
+    "id": "f56ccdecc0b5fb6a",
+    "slug": "22-passeggeri-persi-in-mare-per-6-giorni-nessuna-a-f56ccdecc0b5fb6a",
+    "title": "La 'Blue Ocean' si perde in mare, 22 passeggeri abbandonati alla fortuna per più",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-03-28T16:37:30.814692+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/34234969/pexels-photo-34234969.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "22 PASSEGGERI IN MARE PER 6 GIORNI SENZA AQUA NÉ CIBO",
+    "lead_preview": "Un tragitto di 22 passeggeri in mare che si è trasformato in un incubo. Alcuni hanno persino perso la loro nave, la \"Blu",
+    "tags": [
+      "nave blue ocean",
+      "passeggeri abbandonati"
+    ]
+  },
+  {
     "id": "2a49af4e3a9fb285",
     "slug": "piquemal-accusa-hacking-il-ricorso-al-tribunale-di-2a49af4e3a9fb285",
     "title": "Piquemal accusa hacking alle elezioni di Toulouse",
@@ -1895,22 +1912,6 @@
       "ora estiva",
       "francia",
       "cambiamento orario"
-    ]
-  },
-  {
-    "id": "f56ccdecc0b5fb6a",
-    "slug": "22-passeggeri-persi-in-mare-per-6-giorni-nessuna-a-f56ccdecc0b5fb6a",
-    "title": "22 passeggeri persi in mare per 6 giorni, nessuna acqua né cibo",
-    "section": "esteri",
-    "priority": 3,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-03-28T16:37:30.814692+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/28411657/pexels-photo-28411657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "Dramma in Mediterraneo: 22 vite perse in sei giorni di solitudine",
-    "lead_preview": "Au cours du trajet, les passagers ont perdu leur orientation et sont restés en mer pendant six jours sans eau ni nourrit",
-    "tags": [
-      "naufragio mediterraneo"
     ]
   },
   {
