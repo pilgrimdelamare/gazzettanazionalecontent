@@ -1,0 +1,51 @@
+{
+  "id": "b696bf2e3d74fd0d",
+  "slug": "ragione-di-stato-petroliera-russa-autorizzata-a-ra-b696bf2e3d74fd0d",
+  "title": "Ragione di Stato: petroliera russa autorizzata a raggiungere la costa cubana a m",
+  "titles": [
+    "Ragione di Stato: petroliera russa autorizzata a raggiungere la costa cubana a m",
+    "Washington si arrende: la Russia approfitta della guerra in Ucraina",
+    "Petroliera russa a Cuba, la decisione che mette all'angolo l'Italia"
+  ],
+  "title_winner": null,
+  "section": "esteri",
+  "occhiello": "Gli Stati Uniti consentono a una petroliera russa di raggiungere Cuba",
+  "lead": "Il governo degli Stati Uniti ha deciso di consentire a una petroliera russa di raggiungere Cuba, a meno di 30 chilometri dalla costa, secondo un articolo del New York Times pubblicato il 29 marzo 2026.",
+  "corpo1": "Secondo l'articolo, la decisione è stata presa nonostante le tensioni tra gli Stati Uniti e la Russia, a causa della guerra in Ucraina. La petroliera russa, che trasporta carburante per la produzione di elettricità, è stata autorizzata a raggiungere il porto di Mariel, sulla costa nord-occidentale di Cuba. La decisione è stata presa dopo che la Russia ha assicurato che la petroliera sarebbe stata utilizzata solo per scopi pacifici e che non sarebbe stata utilizzata per trasportare armi o materiale militare. La decisione è stata criticata da alcuni esponenti politici americani, che hanno espresso preoccupazioni riguardo all'impatto della Russia sull'America Latina e sulla sicurezza nazionale statunitense, e che potrebbe avere importanti conseguenze per l'Italia.",
+  "corpo2": "La decisione degli Stati Uniti di consentire a una petroliera russa di raggiungere Cuba è un segno significativo delle complesse relazioni tra gli Stati Uniti e la Russia, e potrebbe avere importanti conseguenze per la sicurezza nazionale statunitense e per la stabilità della regione. La Russia ha già una forte presenza in America Latina e ha stretti legami con il governo cubano, e potrebbe utilizzare la petroliera per rafforzare la sua influenza nella regione. La decisione di consentire alla petroliera di raggiungere Cuba potrebbe avere importanti conseguenze per la sicurezza nazionale statunitense e per la stabilità della regione, e potrebbe dover essere valutata attentamente dal governo italiano. Se gli equilibri geopolitici continuano a evolversi in questo modo, l'impatto potrebbe essere sentito anche in Italia, dove il governo potrebbe dover riconsiderare la sua politica di rapporti con la Russia e la Cina, e potrebbe dover affrontare nuove sfide per la sua sicurezza nazionale.",
+  "journalist": {
+    "id": "anna_colombo_01",
+    "firma": "Anna Colombo",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-03-29T21:45:50.305744+00:00",
+  "image": {
+    "type": "flickr",
+    "url": "https://live.staticflickr.com/65535/55175429044_a110a4b70a_b.jpg",
+    "source": "Flickr",
+    "credit": "Robstours",
+    "license": "CC"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Ragione di Stato: petroliera russa autorizzata a raggiungere la costa cubana a m\",\n  \"description\": \"Il governo degli Stati Uniti ha deciso di consentire a una petroliera russa di raggiungere Cuba, a meno di 30 chilometri dalla costa, secondo un articolo del New York Times pubblicato il 29 marzo 2026.\",\n  \"articleBody\": \"Il governo degli Stati Uniti ha deciso di consentire a una petroliera russa di raggiungere Cuba, a meno di 30 chilometri dalla costa, secondo un articolo del New York Times pubblicato il 29 marzo 2026. Secondo l'articolo, la decisione è stata presa nonostante le tensioni tra gli Stati Uniti e la Russia, a causa della guerra in Ucraina. La petroliera russa, che trasporta carburante per la produzione di elettricità, è stata autorizzata a raggiungere il porto di Mariel, sulla costa nord-occidentale di Cuba. La decisione è stata presa dopo che la Russia ha assicurato che la petroliera sarebbe stata utilizzata solo per scopi pacifici e che non sarebbe stata utilizzata per trasportare armi o materiale militare. La decisione è stata criticata da alcuni esponenti politici americani, che hanno espresso preoccupazioni riguardo all'impatto della Russia sull'America Latina e sulla sicurezza nazionale statunitense, e che potrebbe avere importanti conseguenze per l'Italia. La decisione degli Stati Uniti di consentire a una petroliera russa di raggiungere Cuba è un segno significativo delle complesse relazioni tra gli Stati Uniti e la Russia, e potrebbe avere importanti conseguenze per la sicurezza nazionale statunitense e per la stabilità della regione. La Russia ha già una forte presenza in America Latina e ha stretti legami con il governo cubano, e potrebbe utilizzare la petroliera per rafforzare la sua influenza nella regione. La decisione di consentire alla petroliera di raggiungere Cuba potrebbe avere importanti conseguenze per la sicurezza nazionale statunitense e per la stabilità della regione, e potrebbe dover essere valutata attentamente dal governo italiano. Se gli equilibri geopolitici continuano a evolversi in questo modo, l'impatto potrebbe essere sentito anche in Italia, dove il governo potrebbe dover riconsiderare la sua politica di rapporti con la Russia e la Cina, e potrebbe dover affrontare nuove sfide per la sua sicurezza nazionale.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-29T21:45:50.305744+00:00\",\n  \"dateModified\": \"2026-03-29T21:45:50.305744+00:00\",\n  \"url\": \"https://gazzettanazionale.it/esteri/b696bf2e3d74fd0d\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/esteri/b696bf2e3d74fd0d\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://live.staticflickr.com/65535/55175429044_a110a4b70a_b.jpg\",\n    \"creditText\": \"Robstours\"\n  }\n}",
+  "priority": 5,
+  "source": "ANSA Esteri",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/03/29/nyt-gli-usa-consentono-a-una-petroliera-russa-di-raggiungere-cuba_f0b781e7-9015-4d3b-aac0-eb62339f4475.html",
+  "related": [
+    {
+      "title": "Instagram rimosse foto di Erin O'Connor in stato di gravidanza",
+      "url": "/esteri/instagram-rimosse-foto-di-erin-oconnor-in-stato-di-f52ca90ea85d761f",
+      "id": "f52ca90ea85d761f"
+    },
+    {
+      "title": "Chalmers: inflazione prevista al 4,5% nel 2026, 1 punto in più rispetto a due se",
+      "url": "/esteri/chalmers-inflazione-prevista-al-45-nel-2026-1-punt-2606592f8bac2c79",
+      "id": "2606592f8bac2c79"
+    },
+    {
+      "title": "Fondi scomparsi dopo il voto, i fan di trump adorano un romanzo.",
+      "url": "/esteri/trump-e-i-suoi-seguaci-adorano-un-libro-che-descri-0f038bcadba99164",
+      "id": "0f038bcadba99164"
+    }
+  ]
+}
