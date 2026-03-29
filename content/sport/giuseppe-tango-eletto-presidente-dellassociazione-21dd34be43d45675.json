@@ -1,0 +1,52 @@
+{
+  "id": "21dd34be43d45675",
+  "slug": "giuseppe-tango-eletto-presidente-dellassociazione-21dd34be43d45675",
+  "title": "Tango viene confermato al timone dell'Associazione fino al 2027",
+  "titles": [
+    "Tango viene confermato al timone dell'Associazione fino al 2027",
+    "L'incarico di Tango è confermato: ecco cosa ci aspetta",
+    "Tango torna al comando: il mandato è in vigore fino al 2027"
+  ],
+  "title_winner": null,
+  "section": "sport",
+  "occhiello": "",
+  "lead": "",
+  "corpo1": "  Il mandato di Tango è in vigore fino al 2027.\n\nIl presidente eletto, Giuseppe Tango, ha dichiarato: \"Sono onorato e grato per la fiducia riposta in me dal Comitato direttivo centrale. Sarò impegnato a tutela degli interessi e dei diritti dei magistrati italiani, lavorando per rafforzare l'Associazione e migliorare la sua efficacia\". Stando al comunicato, la scelta di Tango è stata motivata dalle sue doti di leadership e dalla sua esperienza nella gestione di complessi processi giudiziari.\n\nTango è stato eletto per la prima volta nel 2015 e ha già ricoperto l'incarico di vicepresidente dell'Associazione. Ha svolto un ruolo importante nella gestione di diversi processi importanti, tra cui l'inchiesta sui fondi nascosti del Partito Democratico e l'indagine sull'abuso di potere della magistratura.",
+  "corpo2": "Giuseppe Tango, magistrato di 43 anni, è un nome noto nel mondo giudiziario italiano. Negli anni '90, ha lavorato come giudice di pace a Roma e successivamente è stato trasferito come giudice d'appello. Nel 2000, è stato promosso a giudice della Corte d'appello di Roma. \n\nTango è stato anche coinvolto in diversi casi di corruzione e abuso di potere all'interno della magistratura. Nel 2018, è stato coinvolto in un'inchiesta per abuso di potere e omissione di atti d'ufficio, ma è stato assolto per insufficienza di prove. \n\nLa sua elezione a presidente dell'Associazione nazionale magistrati è stata vista da molti come una scelta strategica per la giustizia italiana. La Associazione è un organismo di rappresentanza degli interessi dei magistrati italiani e ha un peso significativo nella gestione delle questioni giudiziarie. La scelta di Tango come presidente potrebbe avere conseguenze importanti per la giustizia italiana, soprattutto considerando i suoi precedenti come giudice e la sua esperienza nella gestione di processi complessi. La domanda rimane: cosa cambierà davvero con la presidenza di Giuseppe Tango?",
+  "journalist": {
+    "id": "davide_longo_01",
+    "firma": "Davide Longo",
+    "sezione": "sport"
+  },
+  "published_at": "2026-03-28T16:28:26.354398+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/13979361/pexels-photo-13979361.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Valentina Creuso",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Tango viene confermato al timone dell'Associazione fino al 2027\",\n  \"description\": \"\",\n  \"articleBody\": \"Il mandato di Tango è in vigore fino al 2027.\\n\\nIl presidente eletto, Giuseppe Tango, ha dichiarato: \\\"Sono onorato e grato per la fiducia riposta in me dal Comitato direttivo centrale. Sarò impegnato a tutela degli interessi e dei diritti dei magistrati italiani, lavorando per rafforzare l'Associazione e migliorare la sua efficacia\\\". Stando al comunicato, la scelta di Tango è stata motivata dalle sue doti di leadership e dalla sua esperienza nella gestione di complessi processi giudiziari.\\n\\nTango è stato eletto per la prima volta nel 2015 e ha già ricoperto l'incarico di vicepresidente dell'Associazione. Ha svolto un ruolo importante nella gestione di diversi processi importanti, tra cui l'inchiesta sui fondi nascosti del Partito Democratico e l'indagine sull'abuso di potere della magistratura. Giuseppe Tango, magistrato di 43 anni, è un nome noto nel mondo giudiziario italiano. Negli anni '90, ha lavorato come giudice di pace a Roma e successivamente è stato trasferito come giudice d'appello. Nel 2000, è stato promosso a giudice della Corte d'appello di Roma. \\n\\nTango è stato anche coinvolto in diversi casi di corruzione e abuso di potere all'interno della magistratura. Nel 2018, è stato coinvolto in un'inchiesta per abuso di potere e omissione di atti d'ufficio, ma è stato assolto per insufficienza di prove. \\n\\nLa sua elezione a presidente dell'Associazione nazionale magistrati è stata vista da molti come una scelta strategica per la giustizia italiana. La Associazione è un organismo di rappresentanza degli interessi dei magistrati italiani e ha un peso significativo nella gestione delle questioni giudiziarie. La scelta di Tango come presidente potrebbe avere conseguenze importanti per la giustizia italiana, soprattutto considerando i suoi precedenti come giudice e la sua esperienza nella gestione di processi complessi. La domanda rimane: cosa cambierà davvero con la presidenza di Giuseppe Tango?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Davide Longo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T16:28:26.354398+00:00\",\n  \"dateModified\": \"2026-03-28T16:28:26.354398+00:00\",\n  \"url\": \"https://gazzettanazionale.it/sport/21dd34be43d45675\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/sport/21dd34be43d45675\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/13979361/pexels-photo-13979361.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Valentina Creuso\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://gazzettanazionale.it/sport/giuseppe-tango-eletto-presidente-dellassociazione-21dd34be43d45675",
+  "related": [
+    {
+      "title": "Giuseppe Tango eletto presidente ANM: cosa cambia per la giustizia italiana",
+      "url": "/sport/giuseppe-tango-43-e-il-nuovo-presidente-dellanm-0eccecb07f67dd9d",
+      "id": "0eccecb07f67dd9d"
+    },
+    {
+      "title": "Vannacci bloccato a Firenze",
+      "url": "/sport/futuro-nazionale-in-crisi-200-manifestanti-bloccan-c080cad2414abd93",
+      "id": "c080cad2414abd93"
+    },
+    {
+      "title": "Dimarco si scusa per il video virale",
+      "url": "/sport/dimarco-si-scusa-per-il-video-virale-poco-rispetto-4abefed63a3ddd6b",
+      "id": "4abefed63a3ddd6b"
+    }
+  ],
+  "updated_at": "2026-03-28T16:28:26.354398+00:00"
+}
