@@ -1,0 +1,51 @@
+{
+  "id": "207d9907792ae095",
+  "slug": "casco-blu-ucciso-in-libano-207d9907792ae095",
+  "title": "Casco blu ucciso in Libano",
+  "titles": [
+    "Casco blu ucciso in Libano",
+    "Unifil: 1 morto in esplosione",
+    "Libano: morto soldato Onu"
+  ],
+  "title_winner": null,
+  "section": "esteri",
+  "occhiello": "UN CASCO BLU UCCISO NELL'ESPLOSIONE",
+  "lead": "Unifil, 30 marzo 2026 - Un casco blu è stato ucciso in un'esplosione nel sud del Libano. La Forza di Interposizione delle Nazioni Unite ha confermato l'avvio di un'indagine. Non si conoscono ancora le circostanze dell'incidente.",
+  "corpo1": "La Forza di Interposizione in Libano delle Nazioni Unite (Unifil) ha confermato l'uccisione di un casco blu in un'esplosione nel sud del Libano. L'incidente è avvenuto il 30 marzo 2026, la stessa data della fonte. La Unifil ha confermato l'avvio di un'indagine per chiarire le circostanze dell'esplosione. La Unifil è presente in Libano dal 1978, con il mandato di sovrintendere al ritiro delle forze israeliane e di contribuire alla stabilizzazione della regione. La Unifil conta circa 17.000 soldati provenienti da diverse nazioni, come riportato nella fonte. \nL'esplosione che ha ucciso il casco blu è avvenuta in una zona dove la Unifil ha una presenza significativa. La Unifil lavora a stretto contatto con le forze libanesi per mantenere la stabilità nella regione. La notizia dell'uccisione del casco blu ha destato preoccupazione tra le truppe e il personale civile impiegato nella missione, come riportato nella fonte.",
+  "corpo2": "L'uccisione del casco blu rappresenta un nuovo capitolo nella storia complessa del Libano, un paese che ha vissuto periodi di grande instabilità e conflitto. La presenza della Unifil nel paese è stata fondamentale per cercare di mantenere una fragile pace, soprattutto nella regione meridionale, dove si sono spesso registrati scontri tra fazioni rivali e gruppi estremisti. \nLa morte del casco blu ricorda anche il difficile compito che i soldati delle Nazioni Unite svolgono in zone di conflitto e a rischio. La loro presenza è spesso vista come un fattore di stabilizzazione, ma anche come un bersaglio per coloro che intendono minare la pace. \nL'incidente avrà sicuramente un impatto sulle operazioni della Unifil nel Libano e potrebbe influenzare il futuro della missione. La comunità internazionale seguirà con attenzione gli sviluppi dell'indagine e le reazioni delle diverse parti coinvolte. \nLa domanda è chi pagherà il conto — e la risposta, come sempre, non è Palazzo Chigi.",
+  "journalist": {
+    "id": "fabrizio_mei_01",
+    "firma": "Fabrizio Mei",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-03-29T22:31:47.924212+00:00",
+  "image": {
+    "type": "unsplash",
+    "url": "https://images.unsplash.com/photo-1601779212261-e9f52bde34dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxjYXNjbyUyMGJsdSUyMHVjY2lzb3xlbnwwfDB8fHwxNzc0ODIzNTA3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "source": "Unsplash",
+    "credit": "Taylor Smith",
+    "license": "Unsplash License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Casco blu ucciso in Libano\",\n  \"description\": \"Unifil, 30 marzo 2026 - Un casco blu è stato ucciso in un'esplosione nel sud del Libano. La Forza di Interposizione delle Nazioni Unite ha confermato l'avvio di un'indagine. Non si conoscono ancora le circostanze dell'incidente.\",\n  \"articleBody\": \"Unifil, 30 marzo 2026 - Un casco blu è stato ucciso in un'esplosione nel sud del Libano. La Forza di Interposizione delle Nazioni Unite ha confermato l'avvio di un'indagine. Non si conoscono ancora le circostanze dell'incidente. La Forza di Interposizione in Libano delle Nazioni Unite (Unifil) ha confermato l'uccisione di un casco blu in un'esplosione nel sud del Libano. L'incidente è avvenuto il 30 marzo 2026, la stessa data della fonte. La Unifil ha confermato l'avvio di un'indagine per chiarire le circostanze dell'esplosione. La Unifil è presente in Libano dal 1978, con il mandato di sovrintendere al ritiro delle forze israeliane e di contribuire alla stabilizzazione della regione. La Unifil conta circa 17.000 soldati provenienti da diverse nazioni, come riportato nella fonte. \\nL'esplosione che ha ucciso il casco blu è avvenuta in una zona dove la Unifil ha una presenza significativa. La Unifil lavora a stretto contatto con le forze libanesi per mantenere la stabilità nella regione. La notizia dell'uccisione del casco blu ha destato preoccupazione tra le truppe e il personale civile impiegato nella missione, come riportato nella fonte. L'uccisione del casco blu rappresenta un nuovo capitolo nella storia complessa del Libano, un paese che ha vissuto periodi di grande instabilità e conflitto. La presenza della Unifil nel paese è stata fondamentale per cercare di mantenere una fragile pace, soprattutto nella regione meridionale, dove si sono spesso registrati scontri tra fazioni rivali e gruppi estremisti. \\nLa morte del casco blu ricorda anche il difficile compito che i soldati delle Nazioni Unite svolgono in zone di conflitto e a rischio. La loro presenza è spesso vista come un fattore di stabilizzazione, ma anche come un bersaglio per coloro che intendono minare la pace. \\nL'incidente avrà sicuramente un impatto sulle operazioni della Unifil nel Libano e potrebbe influenzare il futuro della missione. La comunità internazionale seguirà con attenzione gli sviluppi dell'indagine e le reazioni delle diverse parti coinvolte. \\nLa domanda è chi pagherà il conto — e la risposta, come sempre, non è Palazzo Chigi.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Fabrizio Mei\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-29T22:31:47.924212+00:00\",\n  \"dateModified\": \"2026-03-29T22:31:47.924212+00:00\",\n  \"url\": \"https://gazzettanazionale.it/esteri/207d9907792ae095\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/esteri/207d9907792ae095\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1601779212261-e9f52bde34dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxjYXNjbyUyMGJsdSUyMHVjY2lzb3xlbnwwfDB8fHwxNzc0ODIzNTA3fDA&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Taylor Smith\"\n  }\n}",
+  "priority": 5,
+  "source": "ANSA Esteri",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/03/30/unifil-ucciso-un-casco-blu-in-unesplosione-nel-sud-del-libano_1d2489e5-7195-42d6-bfc6-aa3527120d57.html",
+  "related": [
+    {
+      "title": "Israele, via libera alla pena di morte per i terroristi: 39 sì e 16 no in Knesse",
+      "url": "/esteri/israele-ue-condanna-pena-di-morte-de7aa78ec23edfcb",
+      "id": "de7aa78ec23edfcb"
+    },
+    {
+      "title": "Cory Booker sfida Trump con record di discorso",
+      "url": "/esteri/cory-booker-lamerica-democratica-e-fallita-17d9edbc6ac9d0db",
+      "id": "17d9edbc6ac9d0db"
+    },
+    {
+      "title": "Starmer lancia campagna elettorale sul costo della vita",
+      "url": "/esteri/starmer-lancia-campagna-elettorale-sul-costo-della-a282a0852dbd2c9f",
+      "id": "a282a0852dbd2c9f"
+    }
+  ]
+}
