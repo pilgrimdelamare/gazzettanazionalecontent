@@ -1,0 +1,52 @@
+{
+  "id": "73cdc3912141efef",
+  "slug": "crozza-si-prende-in-giro-calenda-su-referendum-e-f-73cdc3912141efef",
+  "title": "Crozza si prende gioco di Calenda",
+  "titles": [
+    "Crozza si prende gioco di Calenda",
+    "Calenda ridicolizzato su YouTube",
+    "Maurizio Crozza ironizza sui fallimenti di Calenda"
+  ],
+  "title_winner": null,
+  "section": "cultura",
+  "occhiello": "CROZZA SI PRENDE IN GIOCO CALENDA SU REFERENDUM",
+  "lead": ", 28 marzo 2026. ",
+  "corpo1": "Maurizio Crozza, noto per le sue imitazioni di personaggi famosi, ha pubblicato un nuovo video su YouTube in cui si prende gioco di Carlo Calenda, leader di Azione. Nel video, Crozza mostra una collezione di figurine che rappresentano i fallimenti politici di Calenda.   Il video ha suscitato grande interesse sui social media, con molti utenti che hanno apprezzato la satira di Crozza.",
+  "corpo2": "Maurizio Crozza è un comico e satirista italiano che ha spesso criticato la politica italiana. La sua imitazione di Carlo Calenda non è nuova, ma la pubblicazione di questo video arriva in un momento in cui Calenda è impegnato nella campagna elettorale per le prossime elezioni. La satira di Crozza può essere vista come un modo per criticare la politica di Calenda e il suo stile di leadership. ",
+  "journalist": {
+    "id": "laura_bianchi_01",
+    "firma": "Laura Bianchi",
+    "sezione": "cultura"
+  },
+  "published_at": "2026-03-28T16:30:40.961787+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/1319584/pexels-photo-1319584.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Magda Ehlers",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Crozza si prende gioco di Calenda\",\n  \"description\": \", 28 marzo 2026. \",\n  \"articleBody\": \", 28 marzo 2026.  Maurizio Crozza, noto per le sue imitazioni di personaggi famosi, ha pubblicato un nuovo video su YouTube in cui si prende gioco di Carlo Calenda, leader di Azione. Nel video, Crozza mostra una collezione di figurine che rappresentano i fallimenti politici di Calenda.   Il video ha suscitato grande interesse sui social media, con molti utenti che hanno apprezzato la satira di Crozza. Maurizio Crozza è un comico e satirista italiano che ha spesso criticato la politica italiana. La sua imitazione di Carlo Calenda non è nuova, ma la pubblicazione di questo video arriva in un momento in cui Calenda è impegnato nella campagna elettorale per le prossime elezioni. La satira di Crozza può essere vista come un modo per criticare la politica di Calenda e il suo stile di leadership.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Laura Bianchi\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T16:30:40.961787+00:00\",\n  \"dateModified\": \"2026-03-28T16:30:40.961787+00:00\",\n  \"url\": \"https://gazzettanazionale.it/cultura/73cdc3912141efef\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/cultura/73cdc3912141efef\"\n  },\n  \"articleSection\": \"Cultura\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/1319584/pexels-photo-1319584.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Magda Ehlers\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://gazzettanazionale.it/cultura/crozza-si-prende-in-giro-calenda-su-referendum-e-f-73cdc3912141efef",
+  "related": [
+    {
+      "title": "Heather Graham attacca gli intimacy coordinator sul set",
+      "url": "/cultura/heather-graham-gli-intimacy-coordinator-imbarazzan-50180f3acfc22205",
+      "id": "50180f3acfc22205"
+    },
+    {
+      "title": "Notizia in primo piano",
+      "url": "/cultura/grignani-si-ferma-i-problemi-fisici-del-cantante-ece9a115bff309ea",
+      "id": "ece9a115bff309ea"
+    },
+    {
+      "title": "Il documentario 'A tu lado' arriva in Italia il 14 aprile",
+      "url": "/cultura/il-documentario-a-tu-lado-arriva-in-italia-il-14-a-379d9396ebb9d8b8",
+      "id": "379d9396ebb9d8b8"
+    }
+  ],
+  "updated_at": "2026-03-28T16:30:40.961787+00:00"
+}
