@@ -1,5 +1,21 @@
 [
   {
+    "id": "ae24ea844b15a7c6",
+    "slug": "40000-persone-tornano-alla-luce-e-la-storia-nascos-ae24ea844b15a7c6",
+    "title": "40.000 desaparecidos in Messico: la scoperta del governo",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-03-28T16:25:26.154134+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/33911991/pexels-photo-33911991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "",
+    "lead_preview": "  La notizia è stata data alla stampa martedì 28 marzo dal ministro degli Interni, Omar Fayad.",
+    "tags": [
+      "disparizioni messico"
+    ]
+  },
+  {
     "id": "05f1b0affd114c93",
     "slug": "scoiattolo-di-brixton-il-roditori-rosicchia-sigare-05f1b0affd114c93",
     "title": "Scoiattolo fuma sigaretta elettronica",
@@ -2423,24 +2439,6 @@
     "tags": [
       "caso salis",
       "interrogatorio digos"
-    ]
-  },
-  {
-    "id": "ae24ea844b15a7c6",
-    "slug": "40000-persone-tornano-alla-luce-e-la-storia-nascos-ae24ea844b15a7c6",
-    "title": "40.000 persone tornano alla luce: è la storia nascosta del Messico",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-03-28T16:25:26.154134+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Claudia_Sheinbaum_%2849544110553%29.jpg",
-    "occhiello": "Messico, 40 mila vittime della violenza riappaiono nei registri",
-    "lead_preview": "Il governo messicano annuncia di avere trovato 40 mila persone scomparse nella revisione dei casi di \"desaparecidos\", le",
-    "tags": [
-      "desaparecidos",
-      "messico",
-      "violenza"
     ]
   },
   {
