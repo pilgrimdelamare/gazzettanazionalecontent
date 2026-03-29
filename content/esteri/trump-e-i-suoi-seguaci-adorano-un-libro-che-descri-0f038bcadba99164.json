@@ -1,0 +1,51 @@
+{
+  "id": "0f038bcadba99164",
+  "slug": "trump-e-i-suoi-seguaci-adorano-un-libro-che-descri-0f038bcadba99164",
+  "title": "Trump e i suoi seguaci adorano un libro che descrive un'Italia invasa da popoli ",
+  "titles": [
+    "Trump e i suoi seguaci adorano un libro che descrive un'Italia invasa da popoli ",
+    "Il libro 'Il Camp dei santi' è diventato un testo sacro per estremisti della des",
+    "La Francia invade se stessa: come un romanzo di Jean Raspail sta influenzando la"
+  ],
+  "title_winner": null,
+  "section": "esteri",
+  "occhiello": "Il \"Camp dei santi\" diventa culto delle estreme destre",
+  "lead": "Gli estremisti di destra hanno trovato un nuovo libro da idolatrare: \"Il Camp dei santi\", un romanzo del 1973 di Jean Raspail che immagina un'invasione di indiani in Francia. La storia è stata recentemente ripubblicata negli Stati Uniti e ora fa parte delle letture consigliate dall'entourage di Donald Trump.",
+  "corpo1": "Adottato come un testo sacro, che descrive un mondo in cui l'Europa è invasa da popoli stranieri e le autorità non sono più in grado di proteggere i propri cittadini. Secondo l'autore, la sola soluzione è la resistenza armata, un'idea estremamente pericolosa. Jean Raspail, un intellettuale francese noto per le sue posizioni di destra, descrive la invasione come un evento inevitabile, e le popolazioni europee come deboli e incapaci di difendersi. Il libro è stato recentemente ripubblicato negli Stati Uniti, e ora fa",
+  "corpo2": "Parte delle letture consigliate dall'entourage di Donald Trump, il presidente degli Stati Uniti, che è noto per le sue posizioni xenofobe e nazionaliste. un romanzo di fantascienza che immagina un mondo in cui le autorità sono deboli e incapaci di proteggere i propri cittadini, ma le idee che esprime sono estremamente pericolose. La storia immagina un mondo in cui le autorità sono deboli e incapaci di proteggere i propri cittadini, e la sola soluzione è la resistenza armata. Queste idee sono state adottate da estremisti di tutto il mondo, compresi quelli che sono stati coinvolti in attività violente e discriminatorie. Il fatto che questo libro sia stato ripubblicato e sia stato adottato come un testo sacro da estremisti di destra è un sintomo di un problema più profondo: la crescente xenofobia e nazionalismo che sta attraversando il mondo.",
+  "journalist": {
+    "id": "anna_colombo_01",
+    "firma": "Anna Colombo",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-03-29T19:39:50.756015+00:00",
+  "image": {
+    "type": "unsplash",
+    "url": "https://images.unsplash.com/photo-1550531996-ff3dcede9477?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxEb25hbGQlMjBUcnVtcHxlbnwwfDB8fHwxNzc0ODEzMTkwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "source": "Unsplash",
+    "credit": "History in HD",
+    "license": "Unsplash License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Trump e i suoi seguaci adorano un libro che descrive un'Italia invasa da popoli \",\n  \"description\": \"Gli estremisti di destra hanno trovato un nuovo libro da idolatrare: \\\"Il Camp dei santi\\\", un romanzo del 1973 di Jean Raspail che immagina un'invasione di indiani in Francia. La storia è stata recentemente ripubblicata negli Stati Uniti e ora fa parte delle letture consigliate dall'entourage di Dona\",\n  \"articleBody\": \"Gli estremisti di destra hanno trovato un nuovo libro da idolatrare: \\\"Il Camp dei santi\\\", un romanzo del 1973 di Jean Raspail che immagina un'invasione di indiani in Francia. La storia è stata recentemente ripubblicata negli Stati Uniti e ora fa parte delle letture consigliate dall'entourage di Donald Trump. Adottato come un testo sacro, che descrive un mondo in cui l'Europa è invasa da popoli stranieri e le autorità non sono più in grado di proteggere i propri cittadini. Secondo l'autore, la sola soluzione è la resistenza armata, un'idea estremamente pericolosa. Jean Raspail, un intellettuale francese noto per le sue posizioni di destra, descrive la invasione come un evento inevitabile, e le popolazioni europee come deboli e incapaci di difendersi. Il libro è stato recentemente ripubblicato negli Stati Uniti, e ora fa Parte delle letture consigliate dall'entourage di Donald Trump, il presidente degli Stati Uniti, che è noto per le sue posizioni xenofobe e nazionaliste. un romanzo di fantascienza che immagina un mondo in cui le autorità sono deboli e incapaci di proteggere i propri cittadini, ma le idee che esprime sono estremamente pericolose. La storia immagina un mondo in cui le autorità sono deboli e incapaci di proteggere i propri cittadini, e la sola soluzione è la resistenza armata. Queste idee sono state adottate da estremisti di tutto il mondo, compresi quelli che sono stati coinvolti in attività violente e discriminatorie. Il fatto che questo libro sia stato ripubblicato e sia stato adottato come un testo sacro da estremisti di destra è un sintomo di un problema più profondo: la crescente xenofobia e nazionalismo che sta attraversando il mondo.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-29T19:39:50.756015+00:00\",\n  \"dateModified\": \"2026-03-29T19:39:50.756015+00:00\",\n  \"url\": \"https://gazzettanazionale.it/esteri/0f038bcadba99164\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/esteri/0f038bcadba99164\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1550531996-ff3dcede9477?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxEb25hbGQlMjBUcnVtcHxlbnwwfDB8fHwxNzc0ODEzMTkwfDA&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"History in HD\"\n  }\n}",
+  "priority": 3,
+  "source": "Le Monde",
+  "source_type": "esteri",
+  "original_url": "https://www.lemonde.fr/m-le-mag/article/2026/03/29/comment-le-camp-des-saints-est-devenu-le-roman-culte-des-extremes-droites-de-la-famille-le-pen-a-l-entourage-de-donald-trump_6675266_4500055.html",
+  "related": [
+    {
+      "title": "Germania, Francia, Italia e Regno Unito chiedono a Israele di ritirare il ddl su",
+      "url": "/esteri/germania-francia-italia-e-regno-unito-chiedono-a-i-ba7d797b69f97973",
+      "id": "ba7d797b69f97973"
+    },
+    {
+      "title": "Désiré Doué dà la vittoria alla Francia",
+      "url": "/esteri/desire-doue-da-la-vittoria-alla-francia-9666391e8b7d88ea",
+      "id": "9666391e8b7d88ea"
+    },
+    {
+      "title": "Ministri degli Esteri d'Europa inaspettata dichiarazione sulla pena di morte in ",
+      "url": "/esteri/ministri-degli-esteri-deuropa-inaspettata-dichiara-33b5520292edd91d",
+      "id": "33b5520292edd91d"
+    }
+  ]
+}
