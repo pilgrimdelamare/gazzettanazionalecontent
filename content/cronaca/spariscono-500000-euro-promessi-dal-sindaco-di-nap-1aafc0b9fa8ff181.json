@@ -1,0 +1,51 @@
+{
+  "id": "1aafc0b9fa8ff181",
+  "slug": "spariscono-500000-euro-promessi-dal-sindaco-di-nap-1aafc0b9fa8ff181",
+  "title": "Spariscono 500.000 euro promessi dal sindaco di Napoli a Sanità",
+  "titles": [
+    "Spariscono 500.000 euro promessi dal sindaco di Napoli a Sanità",
+    "Il sindaco di Napoli Giovanni De Luca sottrae fondi al quartiere di Sanità",
+    "Napoli: 500mila euro spariti da progetto di riqualificazione a Sanità"
+  ],
+  "title_winner": null,
+  "section": "cronaca",
+  "occhiello": "#ACCADEOGGI",
+  "lead": "Lead: \"Dopo l'elezione del nuovo sindaco, i fondi destinati alla comunità sono scomparsi misteriosamente nella città di Napoli. Secondo le fonti, il sindaco eletto ha promesso di allocare 500.000 euro per la riqualificazione del quartiere, ma ora i fondi sono spariti.\" Corpo 1: \"Il sindaco eletto, Giovanni De Luca, ha promesso di riqualificare il quartiere di Sanità, uno dei più degradati di Napoli, ma ora i fondi sono spariti. Secondo le fonti, ha allocato 500.000 euro",
+  "corpo1": "Per la riqualificazione del quartiere, ma ora i fondi sono spariti. Le fonti citano la mancanza di trasparenza nella gestione dei fondi come una delle principali cause del problema, che ora si sono tradotte nella scomparsa dei fondi destinati alla comunità. 'È una situazione molto grave', ha dichiarato una fonte anonima. 'Il sindaco ha promesso di fare qualcosa per questo quartiere, ma ora i fondi sono spariti e non si sa cosa faccia il sindaco'. Secondo le fonti, il sindaco ha chiesto",
+  "corpo2": "Ai funzionari di non rivelare nulla sull'ubicazione dei fondi.\" Corpo 2: \"Il sindaco Giovanni De Luca ha una lunga storia di promesse non mantenute, che ora si sono tradotte nella scomparsa dei fondi destinati alla comunità. Nel 2018, aveva promesso di costruire un nuovo ospedale nella città di Napoli, ma ora il progetto è bloccato da anni. Le fonti citano la sua mancanza di trasparenza e la sua incapacità di gestire i fondi pubblici come le principali cause del problema, che ora si sono tradotte nella scomparsa dei fondi destinati alla comunità. 'Il sindaco ha promesso di fare qualcosa per questo quartiere, ma ora i fondi sono spariti e non si sa cosa faccia il sindaco', ha dichiarato una fonte anonima. Questo è il terzo caso in quaranta giorni nella stessa provincia, il che significa che il problema non è l'individuo ma il contesto che lo ha prodotto, e che la mancanza di trasparenza è un problema strutturale.\" Image Query: \"Giovanni De Luca sindaco Napoli | Giovanni De Luca quartiere Sanità | fondi pubblici spariti Napoli\"",
+  "journalist": {
+    "id": "roberto_neri_01",
+    "firma": "Roberto Neri",
+    "sezione": "cronaca"
+  },
+  "published_at": "2026-03-29T19:37:39.794428+00:00",
+  "image": {
+    "type": "unsplash",
+    "url": "https://images.unsplash.com/photo-1739488388694-629754f0b953?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxpdGFsaWFuJTIwcG9saWNlJTIwb2ZmaWNlcnN8ZW58MHwwfHx8MTc3NDgxMzA1OXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "source": "Unsplash",
+    "credit": "Mihaela Claudia Puscas",
+    "license": "Unsplash License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Spariscono 500.000 euro promessi dal sindaco di Napoli a Sanità\",\n  \"description\": \"Lead: \\\"Dopo l'elezione del nuovo sindaco, i fondi destinati alla comunità sono scomparsi misteriosamente nella città di Napoli. Secondo le fonti, il sindaco eletto ha promesso di allocare 500.000 euro per la riqualificazione del quartiere, ma ora i fondi sono spariti.\\\" Corpo 1: \\\"Il sindaco eletto, G\",\n  \"articleBody\": \"Lead: \\\"Dopo l'elezione del nuovo sindaco, i fondi destinati alla comunità sono scomparsi misteriosamente nella città di Napoli. Secondo le fonti, il sindaco eletto ha promesso di allocare 500.000 euro per la riqualificazione del quartiere, ma ora i fondi sono spariti.\\\" Corpo 1: \\\"Il sindaco eletto, Giovanni De Luca, ha promesso di riqualificare il quartiere di Sanità, uno dei più degradati di Napoli, ma ora i fondi sono spariti. Secondo le fonti, ha allocato 500.000 euro Per la riqualificazione del quartiere, ma ora i fondi sono spariti. Le fonti citano la mancanza di trasparenza nella gestione dei fondi come una delle principali cause del problema, che ora si sono tradotte nella scomparsa dei fondi destinati alla comunità. 'È una situazione molto grave', ha dichiarato una fonte anonima. 'Il sindaco ha promesso di fare qualcosa per questo quartiere, ma ora i fondi sono spariti e non si sa cosa faccia il sindaco'. Secondo le fonti, il sindaco ha chiesto Ai funzionari di non rivelare nulla sull'ubicazione dei fondi.\\\" Corpo 2: \\\"Il sindaco Giovanni De Luca ha una lunga storia di promesse non mantenute, che ora si sono tradotte nella scomparsa dei fondi destinati alla comunità. Nel 2018, aveva promesso di costruire un nuovo ospedale nella città di Napoli, ma ora il progetto è bloccato da anni. Le fonti citano la sua mancanza di trasparenza e la sua incapacità di gestire i fondi pubblici come le principali cause del problema, che ora si sono tradotte nella scomparsa dei fondi destinati alla comunità. 'Il sindaco ha promesso di fare qualcosa per questo quartiere, ma ora i fondi sono spariti e non si sa cosa faccia il sindaco', ha dichiarato una fonte anonima. Questo è il terzo caso in quaranta giorni nella stessa provincia, il che significa che il problema non è l'individuo ma il contesto che lo ha prodotto, e che la mancanza di trasparenza è un problema strutturale.\\\" Image Query: \\\"Giovanni De Luca sindaco Napoli | Giovanni De Luca quartiere Sanità | fondi pubblici spariti Napoli\\\"\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Roberto Neri\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-29T19:37:39.794428+00:00\",\n  \"dateModified\": \"2026-03-29T19:37:39.794428+00:00\",\n  \"url\": \"https://gazzettanazionale.it/cronaca/1aafc0b9fa8ff181\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/cronaca/1aafc0b9fa8ff181\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1739488388694-629754f0b953?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxpdGFsaWFuJTIwcG9saWNlJTIwb2ZmaWNlcnN8ZW58MHwwfHx8MTc3NDgxMzA1OXww&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Mihaela Claudia Puscas\"\n  }\n}",
+  "priority": 5,
+  "source": "ANSA Cronaca",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/cronaca/2026/03/29/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
+  "related": [
+    {
+      "title": "Guido Pini sfonda il tetto con prima vittoria a Austin",
+      "url": "/sport/guido-pini-sfonda-il-tetto-con-prima-vittoria-a-au-2cd4b7b585b9d89c",
+      "id": "2cd4b7b585b9d89c"
+    },
+    {
+      "title": "Pietro Pini vince la gara di Moto3 a Austin!",
+      "url": "/sport/pietro-pini-vince-la-gara-di-moto3-a-austin-70017c2e3a4c03f1",
+      "id": "70017c2e3a4c03f1"
+    },
+    {
+      "title": "Campobasso pareggia 2-2 con la Guidonia Montecelio in Serie C",
+      "url": "/sport/campobasso-pareggia-2-2-con-la-guidonia-montecelio-84f7db10cb5e95cc",
+      "id": "84f7db10cb5e95cc"
+    }
+  ]
+}
