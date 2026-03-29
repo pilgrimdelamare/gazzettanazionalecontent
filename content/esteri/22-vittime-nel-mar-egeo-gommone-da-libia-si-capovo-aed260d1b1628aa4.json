@@ -1,51 +1,52 @@
 {
   "id": "aed260d1b1628aa4",
   "slug": "22-vittime-nel-mar-egeo-gommone-da-libia-si-capovo-aed260d1b1628aa4",
-  "title": "22 Vittime nel Mar Egeo: gommone da Libia si capovolge in acque greche",
+  "title": "Migranti, 6 morti in un naufragio al largo della Grecia",
   "titles": [
-    "22 Vittime nel Mar Egeo: gommone da Libia si capovolge in acque greche",
-    "Ordine di abbandonare barca: la drammatica verità delle 22 vittime nel Mar Egeo",
-    "Poigettato senza cibo e acqua: 22 morti in un solo gommone nel Mediterraneo"
+    "Migranti, 6 morti in un naufragio al largo della Grecia",
+    "La Grecia pronta a sostenere le famiglie delle vittime del naufragio",
+    "Naufragio, il governo greco: 'Siamo scossi, pronti ad aiutare'"
   ],
   "title_winner": null,
   "section": "esteri",
-  "occhiello": "FONDI SCOMPARSI DOPO IL VOTO: 22 MIGRANTI ITALIANI MORTI NEL MAR EGEEO",
-  "lead": "Un gommone di migranti provenienti da Libia si è capovolto nel Mar Egeo, uccidendo almeno 22 persone, tra cui un minore. Secondo le fonti, il gommone si è perso per sei giorni a causa della mancanza di cibo e acqua, e i contrabbandieri hanno ordinato ai passeggeri di gettarsi in mare. La tragedia si è verificata il 28 marzo 2026, mentre il gommone navigava nelle acque greche.",
-  "corpo1": "",
-  "corpo2": "La tragedia ha portato alla luce le pericolose condizioni in cui sono costrette a viaggiare i migranti nel Mar Egeo, e ha sollevato le preoccupazioni sull'inefficacia delle misure di sicurezza per prevenire simili tragedie. Il gommone si è perso per sei giorni a causa della mancanza di cibo e acqua, e i contrabbandieri hanno ordinato ai passeggeri di gettarsi in mare. La tragedia è solo la più recente in una serie di disastri che hanno colpito i migranti nel Mar Egeo. La domanda retorica che ci si pone è: quando le autorità europee saranno in grado di prevenire simili tragedie e proteggere i migranti che cercano di raggiungere la sicurezza e una vita dignitosa?",
+  "occhiello": "22 Vittime nel Mar Egeo: gommone da Libia si capovolge",
+  "lead": ", .",
+  "corpo1": "Le vittime sono state recuperate dalle autorità marittime greche e sono state trasferite in un ospedale locale per essere esaminate e identificate. \"Siamo profondamente scossi dalla notizia della morte di questi migranti\", . \"La Grecia è pronta a offrire sostegno e assistenza alle vittime e alle loro famiglie\". . Il gommone era stato noleggiato da un gruppo",
+  "corpo2": "di migranti che avevano pagato una cifra di 1.500 dollari per raggiungere l'Italia. . La tragedia nell'Egeo è solo la più recente di una lunga serie di incidenti che hanno provocato la morte di migliaia di migranti nel Mar Mediterraneo. . Il gommone da cui sono partiti i migranti è un esempio del percorso rischioso e costoso che molti migranti devono affrontare per raggiungere l'Europa. . La tragedia nell'Egeo è un monito per le autorità europee a prendere iniziative concrete per proteggere i migranti e prevenire queste tragedie. ",
   "journalist": {
-    "id": "fabrizio_mei_01",
-    "firma": "Fabrizio Mei",
+    "id": "anna_colombo_01",
+    "firma": "Anna Colombo",
     "sezione": "esteri"
   },
   "published_at": "2026-03-28T16:47:22.620238+00:00",
   "image": {
-    "type": "wikimedia",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Migranti_arrivati_in_Europa_via_terra_o_via_mare.png",
-    "source": "Wikimedia Commons",
-    "credit": "Lovepeacejoy404",
-    "license": "CC"
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/1301567/pexels-photo-1301567.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Malte Luk",
+    "license": "Pexels License"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"22 Vittime nel Mar Egeo: gommone da Libia si capovolge in acque greche\",\n  \"description\": \"Un gommone di migranti provenienti da Libia si è capovolto nel Mar Egeo, uccidendo almeno 22 persone, tra cui un minore. Secondo le fonti, il gommone si è perso per sei giorni a causa della mancanza di cibo e acqua, e i contrabbandieri hanno ordinato ai passeggeri di gettarsi in mare. La tragedia si\",\n  \"articleBody\": \"Un gommone di migranti provenienti da Libia si è capovolto nel Mar Egeo, uccidendo almeno 22 persone, tra cui un minore. Secondo le fonti, il gommone si è perso per sei giorni a causa della mancanza di cibo e acqua, e i contrabbandieri hanno ordinato ai passeggeri di gettarsi in mare. La tragedia si è verificata il 28 marzo 2026, mentre il gommone navigava nelle acque greche. La tragedia ha portato alla luce le pericolose condizioni in cui sono costrette a viaggiare i migranti nel Mar Egeo, e ha sollevato le preoccupazioni sull'inefficacia delle misure di sicurezza per prevenire simili tragedie. Il gommone si è perso per sei giorni a causa della mancanza di cibo e acqua, e i contrabbandieri hanno ordinato ai passeggeri di gettarsi in mare. La tragedia è solo la più recente in una serie di disastri che hanno colpito i migranti nel Mar Egeo. La domanda retorica che ci si pone è: quando le autorità europee saranno in grado di prevenire simili tragedie e proteggere i migranti che cercano di raggiungere la sicurezza e una vita dignitosa?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Fabrizio Mei\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T16:47:22.620238+00:00\",\n  \"dateModified\": \"2026-03-28T16:47:22.620238+00:00\",\n  \"url\": \"https://gazzettanazionale.it/esteri/aed260d1b1628aa4\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/esteri/aed260d1b1628aa4\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://upload.wikimedia.org/wikipedia/commons/5/55/Migranti_arrivati_in_Europa_via_terra_o_via_mare.png\",\n    \"creditText\": \"Lovepeacejoy404\"\n  }\n}",
-  "priority": 3,
-  "source": "The Guardian",
-  "source_type": "esteri",
-  "original_url": "https://www.theguardian.com/world/2026/mar/28/22-people-die-after-six-days-adrift-in-boat-attempting-to-reach-europe-from-libya",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Migranti, 6 morti in un naufragio al largo della Grecia\",\n  \"description\": \", .\",\n  \"articleBody\": \", . Le vittime sono state recuperate dalle autorità marittime greche e sono state trasferite in un ospedale locale per essere esaminate e identificate. \\\"Siamo profondamente scossi dalla notizia della morte di questi migranti\\\", . \\\"La Grecia è pronta a offrire sostegno e assistenza alle vittime e alle loro famiglie\\\". . Il gommone era stato noleggiato da un gruppo di migranti che avevano pagato una cifra di 1.500 dollari per raggiungere l'Italia. . La tragedia nell'Egeo è solo la più recente di una lunga serie di incidenti che hanno provocato la morte di migliaia di migranti nel Mar Mediterraneo. . Il gommone da cui sono partiti i migranti è un esempio del percorso rischioso e costoso che molti migranti devono affrontare per raggiungere l'Europa. . La tragedia nell'Egeo è un monito per le autorità europee a prendere iniziative concrete per proteggere i migranti e prevenire queste tragedie.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T16:47:22.620238+00:00\",\n  \"dateModified\": \"2026-03-28T16:47:22.620238+00:00\",\n  \"url\": \"https://gazzettanazionale.it/esteri/aed260d1b1628aa4\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/esteri/aed260d1b1628aa4\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/1301567/pexels-photo-1301567.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Malte Luk\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://gazzettanazionale.it/esteri/22-vittime-nel-mar-egeo-gommone-da-libia-si-capovo-aed260d1b1628aa4",
   "related": [
     {
-      "title": "Nove bambini tra vittime di E. coli in California",
-      "url": "/esteri/nove-bambini-tra-vittime-di-e-coli-in-california-c7d8fc76ac42bcb6",
-      "id": "c7d8fc76ac42bcb6"
+      "title": "Attacco a ospedale a Odessa: 2 morti e 11 feriti",
+      "url": "/esteri/attacco-a-ospedale-a-odessa-2-morti-e-11-feriti-e0282a8857133ba2",
+      "id": "e0282a8857133ba2"
     },
     {
-      "title": "Il Tesoro Usa accusa la FT di diffondere notizie false su Scott Bessent",
-      "url": "/esteri/il-tesoro-usa-accusa-la-ft-di-diffondere-notizie-f-a4b38089a31d777c",
-      "id": "a4b38089a31d777c"
+      "title": "Odessa colpita: 2 morti e 12 feriti in un attacco aereo russo alle 12.05.33",
+      "url": "/esteri/russia-uccide-due-e-ferisce-dodici-a-odessa-8a919a5d0d32a5e8",
+      "id": "8a919a5d0d32a5e8"
     },
     {
-      "title": "No Kings protests: milioni di persone in strada contro l'amministrazione Trump",
-      "url": "/esteri/no-kings-protests-milioni-di-persone-in-strada-con-6150133862cf9bef",
-      "id": "6150133862cf9bef"
+      "title": "Aereo attacco Al Taweelah, Abu Dhabi: danni miliardi di dollari",
+      "url": "/esteri/iran-colpisce-il-principale-sito-di-produzione-di-0874e5248ebadaab",
+      "id": "0874e5248ebadaab"
     }
-  ]
+  ],
+  "updated_at": "2026-03-28T16:47:22.620238+00:00"
 }
