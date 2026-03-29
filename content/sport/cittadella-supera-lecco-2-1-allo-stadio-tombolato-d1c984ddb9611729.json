@@ -1,0 +1,41 @@
+{
+  "id": "d1c984ddb9611729",
+  "slug": "cittadella-supera-lecco-2-1-allo-stadio-tombolato-d1c984ddb9611729",
+  "title": "Cittadella supera Lecco 2-1 allo stadio Tombolato",
+  "titles": [
+    "Cittadella supera Lecco 2-1 allo stadio Tombolato",
+    "Tascone e Serra fanno da titani in una partita da non dimenticare",
+    "La rimonta veneta spezza i Leccesi"
+  ],
+  "title_winner": null,
+  "section": "sport",
+  "occhiello": "CITTADella-BATTUTA LECCO 2-1",
+  "lead": "La partita Cittadella-Lecco è terminata 2-1 per i veneti. La gara si è svolta domenica 29 marzo 2026 alle 14:00 presso lo stadio Tombolato di Cittadella. Il Lecco è stato battuto nonostante una buona prova.",
+  "corpo1": "La partita Cittadella-Lecco è terminata con il risultato di 2-1 per i veneti. La gara, disputatasi domenica 29 marzo 2026 allo stadio Tombolato di Cittadella, ha visto i padroni di casa rimontare e vincere contro un Lecco che aveva iniziato bene, andando in vantaggio. I blucelesti hanno però reagito al pareggio, ma si sono visti annullare un gol regolare. Nel finale, Parker ha colpito due volte il palo su punizione. La partita ha visto anche la cancellazione di un penalty a favore del Lecco. Secondo gli highlights, il gol di Tascone è stato particolarmente spettacolare, con un sombrero e un sinistro al volo. Anche Serra del Campobasso ha realizzato un destro al volo imparabile.",
+  "corpo2": "La vittoria del Cittadella contro il Lecco arriva in un momento importante della stagione di Serie C. Entrambe le squadre sono coinvolte nella lotta per la classifica e ogni punto conta. La prestazione del Lecco, nonostante la sconfitta, dimostra la sua competitività nella categoria. La capacità del Cittadella di rimontare e vincere, anche grazie a giocate spettacolari come quella di Tascone, evidenzia la determinazione e la qualità della squadra. Ora, il Cittadella dovrà continuare su questa linea per raggiungere i propri obiettivi stagionali. Ecco la domanda: chi pagherà il conto — e la risposta, come sempre, non è Palazzo Chigi.",
+  "journalist": {
+    "id": "davide_longo_01",
+    "firma": "Davide Longo",
+    "sezione": "sport"
+  },
+  "published_at": "2026-03-29T19:37:23.760985+00:00",
+  "image": {
+    "type": "unsplash",
+    "url": "https://images.unsplash.com/photo-1650327987377-90bf6c9789fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxzb2NjZXIlMjBiYWxsJTIwZ3Jhc3N8ZW58MHwwfHx8MTc3NDgxMzA0M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "source": "Unsplash",
+    "credit": "Braden Wagner",
+    "license": "Unsplash License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Cittadella supera Lecco 2-1 allo stadio Tombolato\",\n  \"description\": \"La partita Cittadella-Lecco è terminata 2-1 per i veneti. La gara si è svolta domenica 29 marzo 2026 alle 14:00 presso lo stadio Tombolato di Cittadella. Il Lecco è stato battuto nonostante una buona prova.\",\n  \"articleBody\": \"La partita Cittadella-Lecco è terminata 2-1 per i veneti. La gara si è svolta domenica 29 marzo 2026 alle 14:00 presso lo stadio Tombolato di Cittadella. Il Lecco è stato battuto nonostante una buona prova. La partita Cittadella-Lecco è terminata con il risultato di 2-1 per i veneti. La gara, disputatasi domenica 29 marzo 2026 allo stadio Tombolato di Cittadella, ha visto i padroni di casa rimontare e vincere contro un Lecco che aveva iniziato bene, andando in vantaggio. I blucelesti hanno però reagito al pareggio, ma si sono visti annullare un gol regolare. Nel finale, Parker ha colpito due volte il palo su punizione. La partita ha visto anche la cancellazione di un penalty a favore del Lecco. Secondo gli highlights, il gol di Tascone è stato particolarmente spettacolare, con un sombrero e un sinistro al volo. Anche Serra del Campobasso ha realizzato un destro al volo imparabile. La vittoria del Cittadella contro il Lecco arriva in un momento importante della stagione di Serie C. Entrambe le squadre sono coinvolte nella lotta per la classifica e ogni punto conta. La prestazione del Lecco, nonostante la sconfitta, dimostra la sua competitività nella categoria. La capacità del Cittadella di rimontare e vincere, anche grazie a giocate spettacolari come quella di Tascone, evidenzia la determinazione e la qualità della squadra. Ora, il Cittadella dovrà continuare su questa linea per raggiungere i propri obiettivi stagionali. Ecco la domanda: chi pagherà il conto — e la risposta, come sempre, non è Palazzo Chigi.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Davide Longo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-29T19:37:23.760985+00:00\",\n  \"dateModified\": \"2026-03-29T19:37:23.760985+00:00\",\n  \"url\": \"https://gazzettanazionale.it/sport/d1c984ddb9611729\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/sport/d1c984ddb9611729\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1650327987377-90bf6c9789fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxzb2NjZXIlMjBiYWxsJTIwZ3Jhc3N8ZW58MHwwfHx8MTc3NDgxMzA0M3ww&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Braden Wagner\"\n  }\n}",
+  "priority": 5,
+  "source": "Sky Sport",
+  "source_type": "competitor",
+  "original_url": "https://sport.sky.it/calcio/serie-c/video/2026/03/29/cittadella-lecco-2-1-gol-e-highlights-1086321",
+  "related": [
+    {
+      "title": "Israele: Ue condanna pena di morte",
+      "url": "/esteri/israele-ue-condanna-pena-di-morte-de7aa78ec23edfcb",
+      "id": "de7aa78ec23edfcb"
+    }
+  ]
+}
