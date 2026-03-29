@@ -1,0 +1,51 @@
+{
+  "id": "039fcb5a534f76ce",
+  "slug": "federica-brignone-riceve-applausi-dal-presidente-m-039fcb5a534f76ce",
+  "title": "Federica Brignone riceve applausi dal Presidente Mattarella",
+  "titles": [
+    "Federica Brignone riceve applausi dal Presidente Mattarella",
+    "Il Presidente ci contava: l'incontro di Brignone con Mattarella",
+    "Risalita d'orgoglio per Brignone: il Presidente ha detto 'io ci contavo'"
+  ],
+  "title_winner": null,
+  "section": "sport",
+  "occhiello": "BRIGNONE RIVELA LE PAROLE DI MATTARELLA",
+  "lead": "Federica brignone, la campionessa olimpica, ha raccontato il suo incontro con il presidente della repubblica, sergio mattarella, avvenuto dopo la sua vittoria ai giochi di milano-cortina, il 29 marzo 2026.",
+  "corpo1": "Il presidente Mattarella le disse \"io ci contavo\" dopo la sua vittoria olimpica, mentre Brignone ammette di non averci contato. brignone ha aggiunto che lei stessa non si aspettava di vincere inoltre, ha parlato dell'infortunio patito ai campionati italiani, affermando di aver sempre partecipato a questi eventi per ispirare i più giovani, proprio come lei stessa si era sentita ispirata dalle campionesse quando era una ragazzina. brignone ha espresso la speranza che i giovani possano prendere spunto anche da lei, sottolineando l'importanza dell'esempio e della motivazione nel mondo dello sport. L'incontro con Mattarella è stato per Brignone un momento di grande orgoglio, reso ancora più significativo dalle parole di apprezzamento del Presidente e dall'energia del pubblico.",
+  "corpo2": "Federica brignone è una figura di spicco nello sci alpino italiano, nota per le sue prestazioni di alto livello e per la sua capacità di ispirare le nuove generazioni. il suo exploit olimpico ai giochi di milano-cortina rappresenta il culmine di una carriera segnata da sacrificio e dedizione. l'incontro con il presidente mattarella simboleggia il riconoscimento dell'intero paese per i suoi risultati e per il suo contributo allo sport italiano. Atleti come Brignone dimostrano che impegno e passione possono trasformare sogni ambiziosi in realtà, ispirando le nuove generazioni a emulare i loro idoli e a spingere lo sport italiano verso nuove conquiste.",
+  "journalist": {
+    "id": "matteo_galli_01",
+    "firma": "Matteo Galli",
+    "sezione": "sport"
+  },
+  "published_at": "2026-03-29T23:36:18.294228+00:00",
+  "image": {
+    "type": "unsplash",
+    "url": "https://images.unsplash.com/photo-1567454998813-d38739a57dbb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxDYW1waW9uZXNzYSUyMG9saW1waWNhfGVufDB8MHx8fDE3NzQ4MjczNzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "source": "Unsplash",
+    "credit": "Umanoide",
+    "license": "Unsplash License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Federica Brignone riceve applausi dal Presidente Mattarella\",\n  \"description\": \"Federica brignone, la campionessa olimpica, ha raccontato il suo incontro con il presidente della repubblica, sergio mattarella, avvenuto dopo la sua vittoria ai giochi di milano-cortina, il 29 marzo 2026.\",\n  \"articleBody\": \"Federica brignone, la campionessa olimpica, ha raccontato il suo incontro con il presidente della repubblica, sergio mattarella, avvenuto dopo la sua vittoria ai giochi di milano-cortina, il 29 marzo 2026. Il presidente Mattarella le disse \\\"io ci contavo\\\" dopo la sua vittoria olimpica, mentre Brignone ammette di non averci contato. brignone ha aggiunto che lei stessa non si aspettava di vincere inoltre, ha parlato dell'infortunio patito ai campionati italiani, affermando di aver sempre partecipato a questi eventi per ispirare i più giovani, proprio come lei stessa si era sentita ispirata dalle campionesse quando era una ragazzina. brignone ha espresso la speranza che i giovani possano prendere spunto anche da lei, sottolineando l'importanza dell'esempio e della motivazione nel mondo dello sport. L'incontro con Mattarella è stato per Brignone un momento di grande orgoglio, reso ancora più significativo dalle parole di apprezzamento del Presidente e dall'energia del pubblico. Federica brignone è una figura di spicco nello sci alpino italiano, nota per le sue prestazioni di alto livello e per la sua capacità di ispirare le nuove generazioni. il suo exploit olimpico ai giochi di milano-cortina rappresenta il culmine di una carriera segnata da sacrificio e dedizione. l'incontro con il presidente mattarella simboleggia il riconoscimento dell'intero paese per i suoi risultati e per il suo contributo allo sport italiano. Atleti come Brignone dimostrano che impegno e passione possono trasformare sogni ambiziosi in realtà, ispirando le nuove generazioni a emulare i loro idoli e a spingere lo sport italiano verso nuove conquiste.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Matteo Galli\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-29T23:36:18.294228+00:00\",\n  \"dateModified\": \"2026-03-29T23:36:18.294228+00:00\",\n  \"url\": \"https://gazzettanazionale.it/sport/039fcb5a534f76ce\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/sport/039fcb5a534f76ce\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1567454998813-d38739a57dbb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxDYW1waW9uZXNzYSUyMG9saW1waWNhfGVufDB8MHx8fDE3NzQ4MjczNzd8MA&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Umanoide\"\n  }\n}",
+  "priority": 5,
+  "source": "Sky Sport",
+  "source_type": "competitor",
+  "original_url": "https://sport.sky.it/olimpiadi/2026/03/29/brignone-mattarella-olimpiade-milano-cortina-2026-intervista",
+  "related": [
+    {
+      "title": "Calcio: Thuram torna a splendere con un gol e due assist",
+      "url": "/sport/calcio-thuram-torna-a-splendere-con-un-gol-e-due-a-6f79136d2f13b48a",
+      "id": "6f79136d2f13b48a"
+    },
+    {
+      "title": "MotoGP: Bezzecchi vince in USA",
+      "url": "/sport/motogp-bezzecchi-vince-in-usa-12fae2d6855966b8",
+      "id": "12fae2d6855966b8"
+    },
+    {
+      "title": "MotoGP: Bezzecchi vince terza volta consecutiva a Austin",
+      "url": "/sport/motogp-bezzecchi-vince-terza-volta-consecutiva-a-a-a431012e55751cd1",
+      "id": "a431012e55751cd1"
+    }
+  ]
+}
