@@ -1,5 +1,23 @@
 [
   {
+    "id": "c28b31bb746e795b",
+    "slug": "bezzecchi-conquista-la-vittoria-a-austin-davanti-a-c28b31bb746e795b",
+    "title": "Bezzecchi spunta al primo posto al GP di Austin",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Chiara Esposito",
+    "published_at": "2026-03-29T21:30:55.852172+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1627657244575-68af973a48ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxjYXIlMjBjcmFzaCUyMHJvYWQlMjBpdGFseXxlbnwwfDB8fHwxNzc0ODI3NTIwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "BEZZECCHI VINCE A AUSTIN",
+    "lead_preview": "Marco Bezzecchi ha vinto la gara di motogp a austin, texas, davanti a Joan Martin, mentre Augusto Acosta ha completato i",
+    "tags": [
+      "gp di austin",
+      "motogp",
+      "bezzecchi"
+    ]
+  },
+  {
     "id": "f52ca90ea85d761f",
     "slug": "instagram-rimosse-foto-di-erin-oconnor-in-stato-di-f52ca90ea85d761f",
     "title": "Instagram cancella foto gravidanza modella, è la seconda volta",
@@ -923,24 +941,6 @@
       "transizione 5.0",
       "incentivi",
       "mimit"
-    ]
-  },
-  {
-    "id": "c28b31bb746e795b",
-    "slug": "bezzecchi-conquista-la-vittoria-a-austin-davanti-a-c28b31bb746e795b",
-    "title": "Bezzecchi conquista la vittoria a Austin davanti a Martin",
-    "section": "cronaca",
-    "priority": 4,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-03-29T21:30:55.852172+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Marco_di_battista.jpg",
-    "occhiello": "BEZZECCHI TRIONFA AUSTIN",
-    "lead_preview": "Marco Bezzecchi ha vinto la gara di MotoGP a Austin, Texas, davanti a Joan Martin, mentre Augusto Acosta ha completato i",
-    "tags": [
-      "moto gp",
-      "austin",
-      "bezzecchi"
     ]
   },
   {
