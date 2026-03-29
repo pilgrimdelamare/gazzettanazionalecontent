@@ -1,5 +1,22 @@
 [
   {
+    "id": "507a6d2b441133be",
+    "slug": "la-cassazione-condanna-bertolazzi-a-100000-euro-507a6d2b441133be",
+    "title": "Bertolazzi condannato a 100.000 euro per riciclaggio di denaro sporco",
+    "section": "giustizia",
+    "priority": 5,
+    "journalist_firma": "Silvia Greco",
+    "published_at": "2026-03-28T16:19:45.881468+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/3038555/pexels-photo-3038555.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "La Cassazione condanna Bertolazzi a 100.000 euro",
+    "lead_preview": "La Cassazione ha depositato la sentenza che riguarda il maxi-acquisto di azioni della Poltrona Frau alla vigilia delle e",
+    "tags": [
+      "processo bertolazzi",
+      "riciclaggio denaro sporco"
+    ]
+  },
+  {
     "id": "b558da11a20f2860",
     "slug": "la-polizia-sveglia-ilaria-salis-alle-730-a-roma-se-b558da11a20f2860",
     "title": "La polizia interroga l'ex europarlamentare Ilaria Salis",
@@ -2734,23 +2751,6 @@
       "rovigo",
       "alluvione",
       "delitto"
-    ]
-  },
-  {
-    "id": "507a6d2b441133be",
-    "slug": "la-cassazione-condanna-bertolazzi-a-100000-euro-507a6d2b441133be",
-    "title": "La Cassazione condanna Bertolazzi a 100.000 euro",
-    "section": "giustizia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-03-28T16:19:45.881468+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Poltrona_%281-05-02-000-05865-00-00-12%29%2C_Acervo_do_Museu_Paulista_da_USP.jpg",
-    "occhiello": "Informazioni privilegiate alla Poltrona Frau",
-    "lead_preview": "La Cassazione ha depositato una sentenza che riguarda il maxi-acquisto di azioni della Poltrona Frau alla vigilia della ",
-    "tags": [
-      "cassazione bertolazzi",
-      "poltrona frau"
     ]
   },
   {
