@@ -1,0 +1,51 @@
+{
+  "id": "382a3eeda9e8aa82",
+  "slug": "il-governo-di-allan-regala-un-mese-di-trasporto-gr-382a3eeda9e8aa82",
+  "title": "Il governo di Allan regala un mese di trasporto gratuito a cittadini di Victoria",
+  "titles": [
+    "Il governo di Allan regala un mese di trasporto gratuito a cittadini di Victoria",
+    "Victoria: petrolio a 1,50 dollari al litro, il governo fa entrare in scena l'ero",
+    "Gratis fino al 30 aprile: il Piano di emergenza del governo per contenere la cri"
+  ],
+  "title_winner": null,
+  "section": "esteri",
+  "occhiello": "TRANSPORTO PUBBLICO GRATUITO IN VICTORIA",
+  "lead": ". Il governo di Allan annuncia che il trasporto pubblico in Victoria sarà gratuito per un mese, dal 31 marzo al 30 aprile 2026, per aiutare a mitigare la crisi energetica causata dal conflitto nel Medio Oriente.",
+  "corpo1": "Il governo di Allan ha deciso di rendere gratuito il trasporto pubblico in Victoria per un mese, a partire dal 31 marzo e fino al 30 aprile 2026. , il governo ha preso questa decisione per aiutare a mitigare la crisi energetica causata dal conflitto nel Medio Oriente, che ha portato a un aumento dei prezzi del petrolio. Il trasporto pubblico sarà gratuito per tutti i passeggeri, . Il governo spera che questa misura aiuti a ridurre la congestione stradale e a incentivare l'uso del trasporto pubblico.\n\n, a causa del conflitto nel Medio Oriente. , il prezzo del petrolio è ora di 1,50 dollari al litro, il che ha portato a un aumento dei prezzi dei combustibili per le automobili. Il governo spera che la misura del trasporto pubblico gratuito aiuti a ridurre la pressione sulle famiglie e sugli impiegati che utilizzano quotidianamente le auto.\n\nIl trasporto pubblico in Victoria è gestito da V/Line e da Metro, due delle principali società di trasporto pubblico del Victoria. Il governo di Allan ha annunciato che tutti i servizi di trasporto pubblico, compresi i traghetti e le linee ferroviarie, saranno gratuiti per un mese.\n\n, il governo di Allan ha anche annunciato che sta lavorando per ridurre la dipendenza del Victoria dal petrolio e per promuovere l'uso di fonti di energia rinnovabile. Il governo spera che queste misure aiutino a ridurre la pressione sulle famiglie e sugli impiegati che utilizzano quotidianamente le auto e a promuovere un futuro più sostenibile per il Victoria.",
+  "corpo2": "",
+  "journalist": {
+    "id": "anna_colombo_01",
+    "firma": "Anna Colombo",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-03-28T18:31:34.382873+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/36483358/pexels-photo-36483358.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Optical Chemist",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Il governo di Allan regala un mese di trasporto gratuito a cittadini di Victoria\",\n  \"description\": \". Il governo di Allan annuncia che il trasporto pubblico in Victoria sarà gratuito per un mese, dal 31 marzo al 30 aprile 2026, per aiutare a mitigare la crisi energetica causata dal conflitto nel Medio Oriente.\",\n  \"articleBody\": \". Il governo di Allan annuncia che il trasporto pubblico in Victoria sarà gratuito per un mese, dal 31 marzo al 30 aprile 2026, per aiutare a mitigare la crisi energetica causata dal conflitto nel Medio Oriente. Il governo di Allan ha deciso di rendere gratuito il trasporto pubblico in Victoria per un mese, a partire dal 31 marzo e fino al 30 aprile 2026. , il governo ha preso questa decisione per aiutare a mitigare la crisi energetica causata dal conflitto nel Medio Oriente, che ha portato a un aumento dei prezzi del petrolio. Il trasporto pubblico sarà gratuito per tutti i passeggeri, . Il governo spera che questa misura aiuti a ridurre la congestione stradale e a incentivare l'uso del trasporto pubblico.\\n\\n, a causa del conflitto nel Medio Oriente. , il prezzo del petrolio è ora di 1,50 dollari al litro, il che ha portato a un aumento dei prezzi dei combustibili per le automobili. Il governo spera che la misura del trasporto pubblico gratuito aiuti a ridurre la pressione sulle famiglie e sugli impiegati che utilizzano quotidianamente le auto.\\n\\nIl trasporto pubblico in Victoria è gestito da V/Line e da Metro, due delle principali società di trasporto pubblico del Victoria. Il governo di Allan ha annunciato che tutti i servizi di trasporto pubblico, compresi i traghetti e le linee ferroviarie, saranno gratuiti per un mese.\\n\\n, il governo di Allan ha anche annunciato che sta lavorando per ridurre la dipendenza del Victoria dal petrolio e per promuovere l'uso di fonti di energia rinnovabile. Il governo spera che queste misure aiutino a ridurre la pressione sulle famiglie e sugli impiegati che utilizzano quotidianamente le auto e a promuovere un futuro più sostenibile per il Victoria.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T18:31:34.382873+00:00\",\n  \"dateModified\": \"2026-03-28T18:31:34.382873+00:00\",\n  \"url\": \"https://gazzettanazionale.it/esteri/382a3eeda9e8aa82\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/esteri/382a3eeda9e8aa82\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/36483358/pexels-photo-36483358.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Optical Chemist\"\n  }\n}",
+  "priority": 4,
+  "source": "The Guardian",
+  "source_type": "esteri",
+  "original_url": "https://www.theguardian.com/australia-news/2026/mar/29/victoria-free-public-transport-april-petrol-prices",
+  "related": [
+    {
+      "title": "Reporter CNN arrestati in Cisgiordania mentre documentano attacco",
+      "url": "/esteri/reporter-cnn-arrestati-in-cisgiordania-mentre-docu-a3585b6f15993871",
+      "id": "a3585b6f15993871"
+    },
+    {
+      "title": "Rubio attacca Cuba, risposta del ministro Rodríguez",
+      "url": "/esteri/rubio-attacca-cuba-risposta-del-ministro-rodriguez-806e5e36a9eb94c8",
+      "id": "806e5e36a9eb94c8"
+    },
+    {
+      "title": "Attacco a ospedale a Odessa: 2 morti e 11 feriti",
+      "url": "/esteri/attacco-a-ospedale-a-odessa-2-morti-e-11-feriti-e0282a8857133ba2",
+      "id": "e0282a8857133ba2"
+    }
+  ]
+}
