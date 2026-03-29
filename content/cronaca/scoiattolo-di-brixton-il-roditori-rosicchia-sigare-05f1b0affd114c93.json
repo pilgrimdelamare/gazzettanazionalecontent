@@ -1,50 +1,52 @@
 {
   "id": "05f1b0affd114c93",
   "slug": "scoiattolo-di-brixton-il-roditori-rosicchia-sigare-05f1b0affd114c93",
-  "title": "Scoiattolo di Brixton: il roditori rosicchia sigaretta elettronica (VIDEO)",
+  "title": "Scoiattolo fuma sigaretta elettronica",
   "titles": [
-    "Scoiattolo di Brixton: il roditori rosicchia sigaretta elettronica (VIDEO)",
-    "Lui fa i capricci? Un scoiattolo britannico fa una scelta 'fumosa'",
-    "La sigaretta che attira l'attenzione di un piccolo scoiattolo a Brixton"
+    "Scoiattolo fuma sigaretta elettronica",
+    "Video virale: roditore rosicchia vape",
+    "Sigaretta elettronica in zampa a scoiattolo"
   ],
   "title_winner": null,
   "section": "cronaca",
-  "occhiello": "Scoiattoli finiti mentre \"svapano\" sigarette elettroniche",
-  "lead": "Un video diventato virale mostra un piccolo scoiattolo tenere tra le zampine una sigaretta elettronica a Brixton, nel sud di Londra, il 28 marzo 2026. Secondo il Telegraph, il piccolo roditore sembrerebbe rosicchiare il dispositivo. I video virali hanno sollevato preoccupazioni per la salute dei piccoli roditori.",
-  "corpo1": "La storia arriva dal Telegraph, che cita gli esperti secondo cui l'immagine potrebbe essere stata scattata ieri, 28 marzo 2026, a Brixton, nel sud di Londra. È probabile che il piccolo scoiattolo sia stato attirato dalla sigaretta elettronica rimasta sulla strada. \"Secondo gli esperti, i piccoli roditori possono essere attratti dalle sostanze chimiche presenti nelle sigarette elettroniche\", spiega il Telegraph. Secondo la fonte, i video virali sono stati pubblicati su social media e hanno sollevato preoccupazioni per la salute dei piccoli roditori. La storia è stata condivisa su Twitter e Instagram, dove è stata vista da migliaia di persone. Il Telegraph precisa che i video non sono stati ancora confermati come autentici, ma che la storia è stata verificata dai loro giornalisti.",
-  "corpo2": "Il fatto che i piccoli roditori possano essere attratti dalle sigarette elettroniche è un problema serio. Secondo gli esperti, la sigaretta elettronica può contenere sostanze chimiche che possono essere pericolose per i piccoli roditori. È importante che le persone si rendano conto del pericolo che rappresentano queste sostanze per la salute dei piccoli animali. Ecco una domanda: cosa faremmo se fossimo in loro pelle?",
+  "occhiello": "SCOIATTOLO FUMA SIGARETTA ELETTRONICA A BRIXTON",
+  "lead": " ",
+  "corpo1": " Un video diventato virale sui social media mostra uno scoiattolo con una sigaretta elettronica tra le zampine. Il roditore è stato ripreso mentre rosicchiava l'apparecchio, suscitando sorpresa e curiosità tra gli abitanti del quartiere. Non sono state fornite informazioni sulla provenienza della sigaretta elettronica o sulle intenzioni dello scoiattolo. ",
+  "corpo2": "Questo evento insolito solleva questioni sulla presenza di rifiuti elettronici nel quartiere e sulla possibilità che gli animali selvatici siano attratti da tali oggetti. La scena ha anche suscitato dibattiti sulla diffusione dell'uso di sigarette elettroniche tra gli esseri umani e sulla possibilità che questi dispositivi possano essere dannosi per l'ambiente e per gli animali. ",
   "journalist": {
-    "id": "chiara_esposito_01",
-    "firma": "Chiara Esposito",
+    "id": "roberto_neri_01",
+    "firma": "Roberto Neri",
     "sezione": "cronaca"
   },
   "published_at": "2026-03-28T16:26:27.346801+00:00",
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/0205jfLandscapes_Quezon_City_Santa_Mesa_Manila_Boundary_Magsaysay_Aurora_Boulevardfvf_07.jpg",
-    "source": "Wikimedia Commons",
-    "credit": "Wikimedia Commons",
-    "license": "CC"
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/33213570/pexels-photo-33213570.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Adam Clark",
+    "license": "Pexels License"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Scoiattolo di Brixton: il roditori rosicchia sigaretta elettronica (VIDEO)\",\n  \"description\": \"Un video diventato virale mostra un piccolo scoiattolo tenere tra le zampine una sigaretta elettronica a Brixton, nel sud di Londra, il 28 marzo 2026. Secondo il Telegraph, il piccolo roditore sembrerebbe rosicchiare il dispositivo. I video virali hanno sollevato preoccupazioni per la salute dei pic\",\n  \"articleBody\": \"Un video diventato virale mostra un piccolo scoiattolo tenere tra le zampine una sigaretta elettronica a Brixton, nel sud di Londra, il 28 marzo 2026. Secondo il Telegraph, il piccolo roditore sembrerebbe rosicchiare il dispositivo. I video virali hanno sollevato preoccupazioni per la salute dei piccoli roditori. La storia arriva dal Telegraph, che cita gli esperti secondo cui l'immagine potrebbe essere stata scattata ieri, 28 marzo 2026, a Brixton, nel sud di Londra. È probabile che il piccolo scoiattolo sia stato attirato dalla sigaretta elettronica rimasta sulla strada. \\\"Secondo gli esperti, i piccoli roditori possono essere attratti dalle sostanze chimiche presenti nelle sigarette elettroniche\\\", spiega il Telegraph. Secondo la fonte, i video virali sono stati pubblicati su social media e hanno sollevato preoccupazioni per la salute dei piccoli roditori. La storia è stata condivisa su Twitter e Instagram, dove è stata vista da migliaia di persone. Il Telegraph precisa che i video non sono stati ancora confermati come autentici, ma che la storia è stata verificata dai loro giornalisti. Il fatto che i piccoli roditori possano essere attratti dalle sigarette elettroniche è un problema serio. Secondo gli esperti, la sigaretta elettronica può contenere sostanze chimiche che possono essere pericolose per i piccoli roditori. È importante che le persone si rendano conto del pericolo che rappresentano queste sostanze per la salute dei piccoli animali. Ecco una domanda: cosa faremmo se fossimo in loro pelle?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Chiara Esposito\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T16:26:27.346801+00:00\",\n  \"dateModified\": \"2026-03-28T16:26:27.346801+00:00\",\n  \"url\": \"https://gazzettanazionale.it/cronaca/05f1b0affd114c93\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/cronaca/05f1b0affd114c93\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://upload.wikimedia.org/wikipedia/commons/5/56/Paris_-_Bonhams_2017_-_CAP-FIAT_500_Scoiattolo_-_1971_-_002.jpg\",\n    \"creditText\": \"Thesupermat\"\n  }\n}",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Scoiattolo fuma sigaretta elettronica\",\n  \"description\": \" \",\n  \"articleBody\": \"Un video diventato virale sui social media mostra uno scoiattolo con una sigaretta elettronica tra le zampine. Il roditore è stato ripreso mentre rosicchiava l'apparecchio, suscitando sorpresa e curiosità tra gli abitanti del quartiere. Non sono state fornite informazioni sulla provenienza della sigaretta elettronica o sulle intenzioni dello scoiattolo.  Questo evento insolito solleva questioni sulla presenza di rifiuti elettronici nel quartiere e sulla possibilità che gli animali selvatici siano attratti da tali oggetti. La scena ha anche suscitato dibattiti sulla diffusione dell'uso di sigarette elettroniche tra gli esseri umani e sulla possibilità che questi dispositivi possano essere dannosi per l'ambiente e per gli animali.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Roberto Neri\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T16:26:27.346801+00:00\",\n  \"dateModified\": \"2026-03-28T16:26:27.346801+00:00\",\n  \"url\": \"https://gazzettanazionale.it/cronaca/05f1b0affd114c93\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/cronaca/05f1b0affd114c93\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/33213570/pexels-photo-33213570.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Adam Clark\"\n  }\n}",
   "priority": 5,
-  "source": "Il Fatto Quotidiano",
-  "source_type": "competitor",
-  "original_url": "https://www.ilfattoquotidiano.it/2026/03/28/scoiattoli-fimati-mentre-svapano-sigarette-elettroniche-raccolte-dalla-strada-i-video-virali-e-i-pericoli-per-i-piccoli-roditori/8338503/",
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://gazzettanazionale.it/cronaca/scoiattolo-di-brixton-il-roditori-rosicchia-sigare-05f1b0affd114c93",
   "related": [
     {
-      "title": "Professoressa accoltellata: polizia arresta 22enne preordinato",
-      "url": "/cronaca/professoressa-accoltellata-polizia-arresta-22enne-5b7464f305344961",
-      "id": "5b7464f305344961"
+      "title": "Torino, 25enne arrestata per omicidio",
+      "url": "/cronaca/arrestata-la-fidanzata-per-omicidio-95135110fb369551",
+      "id": "95135110fb369551"
     },
     {
-      "title": "Madre e figlioletto trovati morti in laghetto artificiale a Rovigo",
-      "url": "/cronaca/madre-e-figlioletto-trovati-morti-in-laghetto-arti-17845967a84058b9",
-      "id": "17845967a84058b9"
+      "title": "Decine di antagonisti contro Azione a Pisa",
+      "url": "/cronaca/antagonisti-e-anarchici-scontri-a-pisa-contro-azio-2f7b77eda19efa20",
+      "id": "2f7b77eda19efa20"
     },
     {
-      "title": "Frana a Silvi, Teramo: evacuate case a rischio crollo",
-      "url": "/cronaca/frana-a-silvi-teramo-evacuate-case-a-rischio-croll-de53b51bcb61e9cb",
-      "id": "de53b51bcb61e9cb"
+      "title": "Papa Francesco a Monaco: 'Le armi sono il primo linguaggio'",
+      "url": "/cronaca/papa-francesco-a-monaco-le-guerre-sono-il-frutto-d-747ee2e8fda1f7da",
+      "id": "747ee2e8fda1f7da"
     }
-  ]
+  ],
+  "updated_at": "2026-03-28T16:26:27.346801+00:00"
 }
