@@ -1,5 +1,22 @@
 [
   {
+    "id": "5a32f5858217ffc7",
+    "slug": "sindaci-di-bonelli-e-fratoianni-chiedono-spiegazio-5a32f5858217ffc7",
+    "title": "120.000 euro scomparsi, sindaci chiedono spiegazioni",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Elena Russo",
+    "published_at": "2026-03-28T16:26:52.873993+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/12602990/pexels-photo-12602990.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "Sindaci chiedono spiegazioni al questore per la scomparsa dei fondi per la sicurezza",
+    "lead_preview": "I sindaci di Bonelli e Fratoianni hanno chiesto spiegazioni al questore dopo l'aggressione a Salis avvenuta a metà marzo",
+    "tags": [
+      "caso salis",
+      "fondi sicurezza"
+    ]
+  },
+  {
     "id": "b11c1251292ecdb2",
     "slug": "12-militari-usa-feriti-nel-raid-iraniano-a-al-dhaf-b11c1251292ecdb2",
     "title": "Iran attacca Arabia Saudita, 12 militari USA feriti",
@@ -2337,24 +2354,6 @@
     "tags": [
       "guerra mondiale",
       "manifestazione romana"
-    ]
-  },
-  {
-    "id": "5a32f5858217ffc7",
-    "slug": "sindaci-di-bonelli-e-fratoianni-chiedono-spiegazio-5a32f5858217ffc7",
-    "title": "Sindaci di Bonelli e Fratoianni chiedono spiegazioni al questore",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Elena Russo",
-    "published_at": "2026-03-28T16:26:52.873993+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/10015836/pexels-photo-10015836.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "VIOLATE GARANZIE DI EUREODEPUTATA",
-    "lead_preview": "Il questore rischia di essere coinvolto nelle indagini sull'aggressione a Salis, avvenuta a metà marzo. La polizia ha di",
-    "tags": [
-      "aggressione salis",
-      "eurodeputata",
-      "questore coinvolto"
     ]
   },
   {
