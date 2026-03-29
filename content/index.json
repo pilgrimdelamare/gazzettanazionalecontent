@@ -1,5 +1,22 @@
 [
   {
+    "id": "ce58a0424a8c4bec",
+    "slug": "morta-una-madre-e-suo-figlio-di-un-anno-nel-laghet-ce58a0424a8c4bec",
+    "title": "Morta la madre e il figlio di un anno in un laghetto di Milano venerdì 27 marzo ",
+    "section": "societa",
+    "priority": 5,
+    "journalist_firma": "Federica Conti",
+    "published_at": "2026-03-28T16:44:23.784512+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/26082992/pexels-photo-26082992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "MORTI IN UN LAGHETTO: LA DISASTROSA SQUALLA DELLA DISCIPLINA SOCIALE",
+    "lead_preview": "Un bambino di un anno e sua madre sono stati trovati morti nel laghetto di Rodigino venerdì 27 marzo 2026 alle ore 14.00",
+    "tags": [
+      "laghetto milano",
+      "morte rodigino"
+    ]
+  },
+  {
     "id": "d30753df03996bf6",
     "slug": "houthi-rivendicano-attacco-missilistico-contro-isr-d30753df03996bf6",
     "title": "Haifa colpita dai missili: l'Iran nega la sua imputabilità",
@@ -1720,23 +1737,6 @@
       "manifestazione londra",
       "estrema destra britannica",
       "proteste antiestremismo"
-    ]
-  },
-  {
-    "id": "ce58a0424a8c4bec",
-    "slug": "morta-una-madre-e-suo-figlio-di-un-anno-nel-laghet-ce58a0424a8c4bec",
-    "title": "Morta una madre e suo figlio di un anno nel laghetto di Rodigino venerdì 27 marz",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Federica Conti",
-    "published_at": "2026-03-28T16:44:23.784512+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/17880005/pexels-photo-17880005.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "UN BAMBINO DI UN ANNO TROVATO MORTO IN UN LAGHETTO",
-    "lead_preview": "Donna e bambino di un anno trovati morti in un laghetto nel Rodigino, i corpi recuperati. Non sarebbero stati individuat",
-    "tags": [
-      "morti nel rodigino",
-      "laghetto rodigino"
     ]
   },
   {
