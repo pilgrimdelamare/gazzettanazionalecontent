@@ -1,5 +1,23 @@
 [
   {
+    "id": "705624ef2e219ace",
+    "slug": "attacco-iraniano-ad-abu-dhabi-705624ef2e219ace",
+    "title": "Attacco iraniano alla Emirates Global Aluminium ad Abu Dhabi",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-03-28T17:53:26.499525+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/35639522/pexels-photo-35639522.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "ATTACCO IRANIANO AD ABU DHABI: FONDI SCOMPARSI DOPO IL VOTO",
+    "lead_preview": "Fabrizio Mei, La Gazzetta Nazionale - 28 marzo 2026. Emirates Global Aluminium, il premier produttore del Medio Oriente,",
+    "tags": [
+      "attacco iraniano",
+      "emirates global aluminium",
+      "abu dhabi"
+    ]
+  },
+  {
     "id": "447619e1b84d251d",
     "slug": "2-sudanesi-accusati-22-morti-in-mare-447619e1b84d251d",
     "title": "Due sudanesi accusati di traffico migranti a Creta",
@@ -14,24 +32,6 @@
     "tags": [
       "traffico migranti",
       "processo creta"
-    ]
-  },
-  {
-    "id": "705624ef2e219ace",
-    "slug": "attacco-iraniano-ad-abu-dhabi-705624ef2e219ace",
-    "title": "Missile iraniano colpisce Emirates Global Aluminium a Al Taweelah",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-03-28T17:53:26.499525+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/35639522/pexels-photo-35639522.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "ATTACCO IRANIANO AD ABU DHABI",
-    "lead_preview": "Un attacco di missile lanciato dallo spazio aereo iraniano ha colpito lo stabilimento di Al Taweelah di Emirates Global ",
-    "tags": [
-      "attacco iraniano",
-      "emirates aluminium",
-      "crisi medio oriente"
     ]
   },
   {
