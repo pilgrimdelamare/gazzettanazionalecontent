@@ -1,0 +1,51 @@
+{
+  "id": "18a8226f2dccdd21",
+  "slug": "malinin-21enne-usa-vince-il-terzo-mondiale-a-praga-18a8226f2dccdd21",
+  "title": "Malinin, 21enne USA, vince il terzo Mondiale a Praga",
+  "titles": [
+    "Malinin, 21enne USA, vince il terzo Mondiale a Praga",
+    "Il riscatto di Malinin: oro nel pattinaggio di figura",
+    "Praga, tris di Malinin nel pattinaggio: la sua terza medaglia d'oro"
+  ],
+  "title_winner": null,
+  "section": "sport",
+  "occhiello": "PATTINAGGIO DI FIGURA, RISCATTO MALININ DOPO LE OLIMPIADI: VINCE IL TERZO MONDIA",
+  "lead": "Ilia Malinin, 21enne statunitense,, vince per la terza volta il Mondiale nel pattinaggio di figura a Praga, dopo la delusione dei Giochi Olimpici. \"\" ha detto dopo il trionfo.",
+  "corpo1": "dopo il trionfo, completando il podio i giapponesi Yuma Kagiyama e Shun Sato.  per Malinin, che ha dovuto affrontare la delusione olimpica e la pressione di essere il favorito assoluto. Tuttavia, il 21enne statunitense ha dimostrato di avere la forza e la determinazione per superare le sfide e conquistare la vittoria. La vittoria di Malinin è un successo personale e un traguardo importante per la sua carriera. Ha dimostrato di essere uno dei migliori pattinatori di",
+  "corpo2": "figura del momento e ha conquistato un posto nella storia del pattinaggio di figura. Malinin ha già vinto due titoli mondiali precedenti e ha conquistato la medaglia d'argento ai Giochi Olimpici. La sua vittoria a Praga è un ulteriore riconoscimento della sua abilità e della sua dedizione al pattinaggio di figura.  per Malinin, ma ora è pronto a guardare avanti e a prepararsi per le future sfide. Ha dimostrato di avere la forza e la determinazione per superare le sfide e conquistare la vittoria. . Malinin ha dimostrato di avere tutto questo e di più.  per la sua carriera. E adesso, cosa aspetta Malinin? La sua prossima sfida è già in vista, e sarà interessante vedere come si presenterà sul ghiaccio.  Solo il tempo lo dirà.",
+  "journalist": {
+    "id": "davide_longo_01",
+    "firma": "Davide Longo",
+    "sezione": "sport"
+  },
+  "published_at": "2026-03-29T00:28:58.405786+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/3778028/pexels-photo-3778028.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "cottonbro studio",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Malinin, 21enne USA, vince il terzo Mondiale a Praga\",\n  \"description\": \"Ilia Malinin, 21enne statunitense,, vince per la terza volta il Mondiale nel pattinaggio di figura a Praga, dopo la delusione dei Giochi Olimpici. \\\"\\\" ha detto dopo il trionfo.\",\n  \"articleBody\": \"Ilia Malinin, 21enne statunitense,, vince per la terza volta il Mondiale nel pattinaggio di figura a Praga, dopo la delusione dei Giochi Olimpici. \\\"\\\" ha detto dopo il trionfo. dopo il trionfo, completando il podio i giapponesi Yuma Kagiyama e Shun Sato.  per Malinin, che ha dovuto affrontare la delusione olimpica e la pressione di essere il favorito assoluto. Tuttavia, il 21enne statunitense ha dimostrato di avere la forza e la determinazione per superare le sfide e conquistare la vittoria. La vittoria di Malinin è un successo personale e un traguardo importante per la sua carriera. Ha dimostrato di essere uno dei migliori pattinatori di figura del momento e ha conquistato un posto nella storia del pattinaggio di figura. Malinin ha già vinto due titoli mondiali precedenti e ha conquistato la medaglia d'argento ai Giochi Olimpici. La sua vittoria a Praga è un ulteriore riconoscimento della sua abilità e della sua dedizione al pattinaggio di figura.  per Malinin, ma ora è pronto a guardare avanti e a prepararsi per le future sfide. Ha dimostrato di avere la forza e la determinazione per superare le sfide e conquistare la vittoria. . Malinin ha dimostrato di avere tutto questo e di più.  per la sua carriera. E adesso, cosa aspetta Malinin? La sua prossima sfida è già in vista, e sarà interessante vedere come si presenterà sul ghiaccio.  Solo il tempo lo dirà.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Davide Longo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-29T00:28:58.405786+00:00\",\n  \"dateModified\": \"2026-03-29T00:28:58.405786+00:00\",\n  \"url\": \"https://gazzettanazionale.it/sport/18a8226f2dccdd21\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/sport/18a8226f2dccdd21\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/3778028/pexels-photo-3778028.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"cottonbro studio\"\n  }\n}",
+  "priority": 5,
+  "source": "Sky Sport",
+  "source_type": "competitor",
+  "original_url": "https://sport.sky.it/altri-sport/2026/03/28/pattinaggio-mondiali-malinin-oro",
+  "related": [
+    {
+      "title": "Archie McDonald vince con stacchi record laddove non era mai riuscito",
+      "url": "/sport/archie-mcdonald-vince-con-stacchi-record-laddove-n-23ec9525006d3cb8",
+      "id": "23ec9525006d3cb8"
+    },
+    {
+      "title": "Hamilton terzo nella gara del Giappone: quanto è vicino al campione?",
+      "url": "/sport/hamilton-il-divario-e-troppo-grande-nel-gp-del-gia-4e6fda5aab0b5cd5",
+      "id": "4e6fda5aab0b5cd5"
+    },
+    {
+      "title": "Sabalenka conquista Miami, quarta vittoria stagionale",
+      "url": "/sport/sabalenka-conquista-miami-quarta-vittoria-stagiona-57aece836f164769",
+      "id": "57aece836f164769"
+    }
+  ]
+}
