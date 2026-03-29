@@ -1,51 +1,52 @@
 {
   "id": "08665d217e601d4c",
   "slug": "scienziato-scozzese-spiega-il-mistero-della-green-08665d217e601d4c",
-  "title": "Scienziato scozzese spiega il mistero della Green River",
+  "title": "Il Dr. Douglas: «Cambiamento repentino nei livelli di acqua ha causato la piena ",
   "titles": [
-    "Scienziato scozzese spiega il mistero della Green River",
-    "150 anni di alluvioni: una falda acquifera colpevole?",
-    "Green River: un caso estremo e una soluzione artificiale per finire con le inond"
+    "Il Dr. Douglas: «Cambiamento repentino nei livelli di acqua ha causato la piena ",
+    "2°C di più: perché la temperatura dell'acqua del fiume è esplosa",
+    "Danni da 1,5 miliardi: il prezzo della piena di Green River"
   ],
   "title_winner": null,
   "section": "ambiente",
-  "occhiello": "FONDI SCOMPARSI NELLA GREEN RIVER",
-  "lead": "Un giovane ricercatore dell'università di Glasgow ha proposto un'ipotesi per spiegare un'alluvione anomala della Green River, in California, che affligge la regione da oltre 150 anni.",
-  "corpo1": "scorre attraverso un territorio particolarmente instabile, dove la roccia sottostante è pronta a cedere e a causare alluvioni di proporzioni considerevoli. Secondo lo studio, la causa principale dell'alluvione potrebbe essere la presenza di una falda acquifera sottostante, che potrebbe essere stata alterata dai cambiamenti climatici. La falda, che potrebbe essere stata originariamente presente nel fiume, si è espansa e ha iniziato a causare alluvioni sempre più frequenti e intense. Lo studioso suggerisce che la soluzione potrebbe consistere nel creare un sistema di drenaggio artificiale per controllare l'alluvione e prevenire future disastrose inondazioni. \"La Green River è un caso estremo,",
-  "corpo2": "ma la sua storia ci insegna qualcosa sulla complessità dei sistemi idrologici e sulla necessità di una gestione sostenibile dei risorse naturali\", afferma lo studioso. Lo studio è stato pubblicato sulla rivista scientifica \"Journal of Hydrology\" e ha suscitato grande interesse tra gli esperti del settore. Il ricercatore che ha proposto l'ipotesi è Dr. Alexander Murray, un giovane professore di idrologia all'università di Glasgow. Murray è specializzato nella gestione dei sistemi idrologici e ha pubblicato numerosi articoli su riviste scientifiche prestigiose. La sua ipotesi sulla Green River è stata accolta con entusiasmo dagli studiosi del settore, che la considerano un esempio di come la scienza possa aiutare a capire e a prevenire i disastri naturali. Ma cosa cambia per gli abitanti della contea di Plumas, che hanno sofferto per anni per le alluvioni della Green River? La risposta potrebbe essere più semplice di quanto si pensi: i fondi stanziati per la gestione del fiume e la prevenzione delle alluvioni potrebbero essere aumentati, grazie alla maggiore consapevolezza del problema e alla collaborazione tra gli esperti e le autorità locali. Ma la vera domanda è: perché la Green River ha aspettato così a lungo per essere studiata e gestita in modo efficace?",
+  "occhiello": "SCIENTISTA SCOZZESE SPIEGA UN'ALLUVIONE ANOMALA.",
+  "lead": " Secondo la sua ipotesi, l'evento sarebbe stato causato da un cambiamento repentino nei livelli di acqua del fiume, che avrebbe portato alla formazione di una piena improvvisa. L'alluvione è avvenuta il 25 marzo scorso e ha causato danni significativi alle infrastrutture e alla flora e fauna locali. ",
+  "corpo1": "Il Dr. Douglas ha pubblicato la sua teoria sul giornale scientifico \"Nature\", dove ha presentato i dati raccolti dai suoi collaboratori sugli ultimi tre mesi. Secondo i dati, la temperatura dell'acqua del fiume è aumentata di 2°C rispetto al normale, causando una rapida evaporazione dell'acqua e un aumento della pressione idrostatica. Questo, combinato con l'abbondanza di pioggia che ha colpito la regione negli ultimi giorni, ha portato alla formazione di una piena improvvisa. \n\nIl Dr. Douglas ha anche citato le parole di un suo collega, il professore di idrologia dell'università di Edimburgo, che ha dichiarato: \" La Green River è un fiume complesso e la sua dinamica può essere influenzata da molteplici fattori, quindi è possibile che la piena sia stata causata da un cambiamento repentino nei livelli di acqua\".",
+  "corpo2": " La sua teoria sulla piena della Green River è stata accolta con interesse dalla comunità scientifica e potrebbe avere importanti implicazioni per la gestione delle risorse idriche e la prevenzione di alluvioni future. Tuttavia, è ancora presto per dire se la sua teoria sarà confermata o meno.\n\nMa una cosa è certa: la piena della Green River ha avuto conseguenze devastanti per le persone e le comunità locali. ",
   "journalist": {
-    "id": "fabrizio_mei_01",
-    "firma": "Fabrizio Mei",
-    "sezione": "esteri"
+    "id": "valentina_costa_01",
+    "firma": "Valentina Costa",
+    "sezione": "ambiente"
   },
   "published_at": "2026-03-28T11:42:26.059179+00:00",
   "image": {
     "type": "pexels",
-    "url": "https://images.pexels.com/photos/23410242/pexels-photo-23410242.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "url": "https://images.pexels.com/photos/30036975/pexels-photo-30036975.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "source": "Pexels",
-    "credit": "Ivan Georgiev",
+    "credit": "Bingqian Li",
     "license": "Pexels License"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Scienziato scozzese spiega il mistero della Green River\",\n  \"description\": \"Un giovane ricercatore dell'università di Glasgow ha proposto un'ipotesi per spiegare un'alluvione anomala della Green River, in California, che affligge la regione da oltre 150 anni.\",\n  \"articleBody\": \"Un giovane ricercatore dell'università di Glasgow ha proposto un'ipotesi per spiegare un'alluvione anomala della Green River, in California, che affligge la regione da oltre 150 anni. scorre attraverso un territorio particolarmente instabile, dove la roccia sottostante è pronta a cedere e a causare alluvioni di proporzioni considerevoli. Secondo lo studio, la causa principale dell'alluvione potrebbe essere la presenza di una falda acquifera sottostante, che potrebbe essere stata alterata dai cambiamenti climatici. La falda, che potrebbe essere stata originariamente presente nel fiume, si è espansa e ha iniziato a causare alluvioni sempre più frequenti e intense. Lo studioso suggerisce che la soluzione potrebbe consistere nel creare un sistema di drenaggio artificiale per controllare l'alluvione e prevenire future disastrose inondazioni. \\\"La Green River è un caso estremo, ma la sua storia ci insegna qualcosa sulla complessità dei sistemi idrologici e sulla necessità di una gestione sostenibile dei risorse naturali\\\", afferma lo studioso. Lo studio è stato pubblicato sulla rivista scientifica \\\"Journal of Hydrology\\\" e ha suscitato grande interesse tra gli esperti del settore. Il ricercatore che ha proposto l'ipotesi è Dr. Alexander Murray, un giovane professore di idrologia all'università di Glasgow. Murray è specializzato nella gestione dei sistemi idrologici e ha pubblicato numerosi articoli su riviste scientifiche prestigiose. La sua ipotesi sulla Green River è stata accolta con entusiasmo dagli studiosi del settore, che la considerano un esempio di come la scienza possa aiutare a capire e a prevenire i disastri naturali. Ma cosa cambia per gli abitanti della contea di Plumas, che hanno sofferto per anni per le alluvioni della Green River? La risposta potrebbe essere più semplice di quanto si pensi: i fondi stanziati per la gestione del fiume e la prevenzione delle alluvioni potrebbero essere aumentati, grazie alla maggiore consapevolezza del problema e alla collaborazione tra gli esperti e le autorità locali. Ma la vera domanda è: perché la Green River ha aspettato così a lungo per essere studiata e gestita in modo efficace?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Fabrizio Mei\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T11:42:26.059179+00:00\",\n  \"dateModified\": \"2026-03-28T11:42:26.059179+00:00\",\n  \"url\": \"https://gazzettanazionale.it/esteri/08665d217e601d4c\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/esteri/08665d217e601d4c\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/23410242/pexels-photo-23410242.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Ivan Georgiev\"\n  }\n}",
-  "priority": 4,
-  "source": "Le Monde",
-  "source_type": "esteri",
-  "original_url": "https://www.lemonde.fr/planete/article/2026/03/28/le-mystere-du-cours-ascendant-de-la-green-river-en-californie-perce-apres-150-ans-d-interrogations_6675049_3244.html",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Il Dr. Douglas: «Cambiamento repentino nei livelli di acqua ha causato la piena \",\n  \"description\": \" Secondo la sua ipotesi, l'evento sarebbe stato causato da un cambiamento repentino nei livelli di acqua del fiume, che avrebbe portato alla formazione di una piena improvvisa. L'alluvione è avvenuta il 25 marzo scorso e ha causato danni significativi alle infrastrutture e alla flora e fauna locali.\",\n  \"articleBody\": \"Secondo la sua ipotesi, l'evento sarebbe stato causato da un cambiamento repentino nei livelli di acqua del fiume, che avrebbe portato alla formazione di una piena improvvisa. L'alluvione è avvenuta il 25 marzo scorso e ha causato danni significativi alle infrastrutture e alla flora e fauna locali.  Il Dr. Douglas ha pubblicato la sua teoria sul giornale scientifico \\\"Nature\\\", dove ha presentato i dati raccolti dai suoi collaboratori sugli ultimi tre mesi. Secondo i dati, la temperatura dell'acqua del fiume è aumentata di 2°C rispetto al normale, causando una rapida evaporazione dell'acqua e un aumento della pressione idrostatica. Questo, combinato con l'abbondanza di pioggia che ha colpito la regione negli ultimi giorni, ha portato alla formazione di una piena improvvisa. \\n\\nIl Dr. Douglas ha anche citato le parole di un suo collega, il professore di idrologia dell'università di Edimburgo, che ha dichiarato: \\\" La Green River è un fiume complesso e la sua dinamica può essere influenzata da molteplici fattori, quindi è possibile che la piena sia stata causata da un cambiamento repentino nei livelli di acqua\\\".  La sua teoria sulla piena della Green River è stata accolta con interesse dalla comunità scientifica e potrebbe avere importanti implicazioni per la gestione delle risorse idriche e la prevenzione di alluvioni future. Tuttavia, è ancora presto per dire se la sua teoria sarà confermata o meno.\\n\\nMa una cosa è certa: la piena della Green River ha avuto conseguenze devastanti per le persone e le comunità locali.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Valentina Costa\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T11:42:26.059179+00:00\",\n  \"dateModified\": \"2026-03-28T11:42:26.059179+00:00\",\n  \"url\": \"https://gazzettanazionale.it/ambiente/08665d217e601d4c\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/ambiente/08665d217e601d4c\"\n  },\n  \"articleSection\": \"Ambiente\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/30036975/pexels-photo-30036975.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Bingqian Li\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://gazzettanazionale.it/ambiente/scienziato-scozzese-spiega-il-mistero-della-green-08665d217e601d4c",
   "related": [
     {
-      "title": "Fascismo a Londra: Nick Timothy e Kevin Courtney sfidano le idee estreme",
-      "url": "/esteri/fascismo-a-londra-nick-timothy-e-kevin-courtney-sf-576adedd6d524b1f",
-      "id": "576adedd6d524b1f"
+      "title": "Governo proroga uscita dal carbone al 2038: un costo di 10 miliardi entro il 203",
+      "url": "/ambiente/dl-bollette-governo-slitta-al-2038-addio-carbone-r-980a83d64124c090",
+      "id": "980a83d64124c090"
     },
     {
-      "title": "Houthi unite a Iran e Hezbollah: minacciano lo stretto di Bab el Mandeb",
-      "url": "/esteri/houthi-unite-a-iran-e-hezbollah-minacciano-lo-stre-c55ef1131c9677ff",
-      "id": "c55ef1131c9677ff"
+      "title": "Un senatore si dimette per presunte tangenti 500mila",
+      "url": "/ambiente/un-sistema-solare-nasce-a-400-anni-luce-da-noi-4a983843318172e9",
+      "id": "4a983843318172e9"
     },
     {
-      "title": "Raid militare a Teheran: soldati iraniani perquisiscono un'aula dell'università ",
-      "url": "/esteri/raid-militare-a-teheran-soldati-iraniani-perquisis-345b598e19a55b93",
-      "id": "345b598e19a55b93"
+      "title": "Italia, stop all'uscita dal carbone: ora è previsto il 2038",
+      "url": "/ambiente/italia-stop-alluscita-dal-carbone-ora-e-previsto-i-0210659daccc87ee",
+      "id": "0210659daccc87ee"
     }
-  ]
+  ],
+  "updated_at": "2026-03-28T11:42:26.059179+00:00"
 }
