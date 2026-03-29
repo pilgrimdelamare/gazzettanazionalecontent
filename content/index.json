@@ -1,5 +1,23 @@
 [
   {
+    "id": "17d9edbc6ac9d0db",
+    "slug": "cory-booker-lamerica-democratica-e-fallita-17d9edbc6ac9d0db",
+    "title": "Cory Booker sfida Trump con record di discorso",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-03-29T19:45:49.874213+00:00",
+    "image_type": "flickr",
+    "image_url": "https://live.staticflickr.com/65535/54522328087_c0142131e4_b.jpg",
+    "occhiello": "IL DEMOCRATICO CORY BOOKER HA TENUTO UN DISCORSO DA REORD",
+    "lead_preview": "Cory Booker, senatore democratico del New Jersey, ha tenuto un discorso da record al Senato Usa, durato 25 ore e 5 minut",
+    "tags": [
+      "senato usa",
+      "cory booker",
+      "discorso record"
+    ]
+  },
+  {
     "id": "70017c2e3a4c03f1",
     "slug": "pietro-pini-vince-la-gara-di-moto3-a-austin-70017c2e3a4c03f1",
     "title": "Pini primo italiano a vincere Moto3 dopo 4 anni!",
@@ -418,24 +436,6 @@
     "lead_preview": "Il ministro dell'Agricoltura, Francesco Lollobrigida, ha dichiarato il 29 marzo 2026, alle 22:42:49 +0200, al \"Forum del",
     "tags": [
       "governo lollobrigida"
-    ]
-  },
-  {
-    "id": "17d9edbc6ac9d0db",
-    "slug": "cory-booker-lamerica-democratica-e-fallita-17d9edbc6ac9d0db",
-    "title": "Cory booker: l'america democratica è fallita",
-    "section": "esteri",
-    "priority": 3,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-03-29T19:45:49.874213+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Cory%2C_Indiana.jpg",
-    "occhiello": "CORY BOOKER: L'AMERICA DEMOCRATICA È FALLITA",
-    "lead_preview": "Cory Booker, senatore democratico del New Jersey, Newark, ha lanciato un nuovo attacco alla leadership della sua partito",
-    "tags": [
-      "cory booker",
-      "partito democratico",
-      "fallimento americano"
     ]
   },
   {
