@@ -1,0 +1,51 @@
+{
+  "id": "a3585b6f15993871",
+  "slug": "reporter-cnn-arrestati-in-cisgiordania-mentre-docu-a3585b6f15993871",
+  "title": "Reporter CNN arrestati in Cisgiordania mentre documentano attacco",
+  "titles": [
+    "Reporter CNN arrestati in Cisgiordania mentre documentano attacco",
+    "Coloni israeliani, reporter CNN fermati: condanna della Foreign Press",
+    "Libertà di stampa sotto attacco: reporter CNN liberati dopo ore in cella"
+  ],
+  "title_winner": null,
+  "section": "esteri",
+  "occhiello": "ASSALTO A CNN: SOLDATI ISRAELIANI DETENGONO EQUIPO DI REPORTAGE",
+  "lead": "Un gruppo di reporter della CNN è stato arrestato da soldati israeliani mentre raccoglieva informazioni sull'attacco di un gruppo di coloni in Cisgiordania. La scena dell'incidente si è verificata la scorsa sera, a Tayasir, in Cisgiordania. La Foreign Press Association ha condannato la \"violenta aggressione\" e chiede l'immediata liberazione degli arrestati.",
+  "corpo1": "informazioni sull'attacco, sono stati arrestati e tenuti in prigione per alcune ore. La Foreign Press Association ha condannato l'azione della polizia e ha chiesto l'immediata liberazione degli arrestati. \"La violenza contro i media è inaccettabile e va severamente condannata\", ha dichiarato il presidente della associazione. La CNN ha confermato che gli arresti sono avvenuti e ha chiesto l'indipendenza dei media e la libertà di informazione. La polizia israeliana ha dichiarato che l'incidente è stato \"investigato\" e che le indagini sono in corso. La Foreign Press Association ha chiesto che le",
+  "corpo2": "indagini siano condotte con trasparenza e che gli arrestati siano liberati immediatamente. La CNN è uno dei media più importanti al mondo e la sua squadra di reporter in Cisgiordania è composta da professionisti esperti. L'arresto di questi reporter è un chiaro segno di una crescente violenza contro i media in Israele. La Foreign Press Association ha già espresso preoccupazione per la situazione dei media in Israele e ha chiesto che il governo israeliano garantisca la libertà di informazione e la sicurezza dei media. La Cisgiordania è un luogo di grande tensione e conflitto, e l'arresto di questi reporter è solo un esempio della crescente violenza contro i media in questa zona. La libertà di informazione è essenziale per la democrazia e la sicurezza dei media è fondamentale per garantire la libertà di informazione. Cosa succederà adesso? Sarà sufficiente una semplice denuncia del governo israeliano per calmare la situazione? O il conflitto tra i media e il governo israeliano continuerà a crescere? La risposta è ancora incerta, ma una cosa è certa: la libertà di informazione è in pericolo in Israele.",
+  "journalist": {
+    "id": "fabrizio_mei_01",
+    "firma": "Fabrizio Mei",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-03-28T18:26:18.869073+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/11388504/pexels-photo-11388504.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Nataliia Pugach",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Reporter CNN arrestati in Cisgiordania mentre documentano attacco\",\n  \"description\": \"Un gruppo di reporter della CNN è stato arrestato da soldati israeliani mentre raccoglieva informazioni sull'attacco di un gruppo di coloni in Cisgiordania. La scena dell'incidente si è verificata la scorsa sera, a Tayasir, in Cisgiordania. La Foreign Press Association ha condannato la \\\"violenta agg\",\n  \"articleBody\": \"Un gruppo di reporter della CNN è stato arrestato da soldati israeliani mentre raccoglieva informazioni sull'attacco di un gruppo di coloni in Cisgiordania. La scena dell'incidente si è verificata la scorsa sera, a Tayasir, in Cisgiordania. La Foreign Press Association ha condannato la \\\"violenta aggressione\\\" e chiede l'immediata liberazione degli arrestati. informazioni sull'attacco, sono stati arrestati e tenuti in prigione per alcune ore. La Foreign Press Association ha condannato l'azione della polizia e ha chiesto l'immediata liberazione degli arrestati. \\\"La violenza contro i media è inaccettabile e va severamente condannata\\\", ha dichiarato il presidente della associazione. La CNN ha confermato che gli arresti sono avvenuti e ha chiesto l'indipendenza dei media e la libertà di informazione. La polizia israeliana ha dichiarato che l'incidente è stato \\\"investigato\\\" e che le indagini sono in corso. La Foreign Press Association ha chiesto che le indagini siano condotte con trasparenza e che gli arrestati siano liberati immediatamente. La CNN è uno dei media più importanti al mondo e la sua squadra di reporter in Cisgiordania è composta da professionisti esperti. L'arresto di questi reporter è un chiaro segno di una crescente violenza contro i media in Israele. La Foreign Press Association ha già espresso preoccupazione per la situazione dei media in Israele e ha chiesto che il governo israeliano garantisca la libertà di informazione e la sicurezza dei media. La Cisgiordania è un luogo di grande tensione e conflitto, e l'arresto di questi reporter è solo un esempio della crescente violenza contro i media in questa zona. La libertà di informazione è essenziale per la democrazia e la sicurezza dei media è fondamentale per garantire la libertà di informazione. Cosa succederà adesso? Sarà sufficiente una semplice denuncia del governo israeliano per calmare la situazione? O il conflitto tra i media e il governo israeliano continuerà a crescere? La risposta è ancora incerta, ma una cosa è certa: la libertà di informazione è in pericolo in Israele.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Fabrizio Mei\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T18:26:18.869073+00:00\",\n  \"dateModified\": \"2026-03-28T18:26:18.869073+00:00\",\n  \"url\": \"https://gazzettanazionale.it/esteri/a3585b6f15993871\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/esteri/a3585b6f15993871\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/11388504/pexels-photo-11388504.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Nataliia Pugach\"\n  }\n}",
+  "priority": 4,
+  "source": "The Guardian",
+  "source_type": "esteri",
+  "original_url": "https://www.theguardian.com/world/2026/mar/28/israeli-soldiers-cnn-crew-west-bank-foreign-press-association",
+  "related": [
+    {
+      "title": "Attacco a ospedale a Odessa: 2 morti e 11 feriti",
+      "url": "/esteri/attacco-a-ospedale-a-odessa-2-morti-e-11-feriti-e0282a8857133ba2",
+      "id": "e0282a8857133ba2"
+    },
+    {
+      "title": "Odessa colpita: 2 morti e 12 feriti in un attacco aereo russo alle 12.05.33",
+      "url": "/esteri/russia-uccide-due-e-ferisce-dodici-a-odessa-8a919a5d0d32a5e8",
+      "id": "8a919a5d0d32a5e8"
+    },
+    {
+      "title": "ATTACCO IRANIANO AD ABU DHABI",
+      "url": "/esteri/attacco-iraniano-ad-abu-dhabi-705624ef2e219ace",
+      "id": "705624ef2e219ace"
+    }
+  ]
+}
