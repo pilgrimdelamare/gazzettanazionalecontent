@@ -1,0 +1,52 @@
+{
+  "id": "0eccecb07f67dd9d",
+  "slug": "giuseppe-tango-43-e-il-nuovo-presidente-dellanm-0eccecb07f67dd9d",
+  "title": "Giuseppe Tango eletto capo dell'ANM",
+  "titles": [
+    "Giuseppe Tango eletto capo dell'ANM",
+    "Il cambiamento giunge all'ANM: Giuseppe Tango al comando",
+    "L'Associazione nomina un leader: Giuseppe Tango al vertice"
+  ],
+  "title_winner": null,
+  "section": "sport",
+  "occhiello": "GIUSEPPE TANGO, IL NUOVO PRESIDENTE DELL'ANM",
+  "lead": ", dopo la votazione del 28 marzo 2026. ",
+  "corpo1": "Giuseppe Tango è un magistrato con una lunga esperienza nel settore giudiziario. Ha lavorato come giudice in varie corti di appello e ha partecipato a diverse commissioni d'inchiesta.  La votazione è stata condotta in modo segreto e anonimo, come previsto dalle normative interne dell'Associazione. La presenza di Tango all'incarico è stata definita \"un cambio di passo\" per l'ANM, che necessita di nuove prospettive e strategie per affrontare le sfide attuali nel settore giudiziario. ",
+  "corpo2": "",
+  "journalist": {
+    "id": "matteo_galli_01",
+    "firma": "Matteo Galli",
+    "sezione": "sport"
+  },
+  "published_at": "2026-03-28T17:52:17.219009+00:00",
+  "image": {
+    "type": "wikimedia",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/TANGO_GIUSEPPE_%28page_759_crop%29.jpg",
+    "source": "Wikimedia Commons",
+    "credit": "Enrico Giannelli",
+    "license": "CC"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Giuseppe Tango eletto capo dell'ANM\",\n  \"description\": \", dopo la votazione del 28 marzo 2026. \",\n  \"articleBody\": \", dopo la votazione del 28 marzo 2026.  Giuseppe Tango è un magistrato con una lunga esperienza nel settore giudiziario. Ha lavorato come giudice in varie corti di appello e ha partecipato a diverse commissioni d'inchiesta.  La votazione è stata condotta in modo segreto e anonimo, come previsto dalle normative interne dell'Associazione. La presenza di Tango all'incarico è stata definita \\\"un cambio di passo\\\" per l'ANM, che necessita di nuove prospettive e strategie per affrontare le sfide attuali nel settore giudiziario.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Matteo Galli\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T17:52:17.219009+00:00\",\n  \"dateModified\": \"2026-03-28T17:52:17.219009+00:00\",\n  \"url\": \"https://gazzettanazionale.it/sport/0eccecb07f67dd9d\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/sport/0eccecb07f67dd9d\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://upload.wikimedia.org/wikipedia/commons/7/74/TANGO_GIUSEPPE_%28page_759_crop%29.jpg\",\n    \"creditText\": \"Enrico Giannelli\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://gazzettanazionale.it/sport/giuseppe-tango-43-e-il-nuovo-presidente-dellanm-0eccecb07f67dd9d",
+  "related": [
+    {
+      "title": "300mila italiani si mobilitano contro la scomparsa di fondi pubblici a Roma",
+      "url": "/sport/300mila-persone-in-piazza-per-chiedere-giustizia-f3e15b6e94b440a2",
+      "id": "f3e15b6e94b440a2"
+    },
+    {
+      "title": "Duplessis Kergomard aggredisce Deromedis",
+      "url": "/sport/deromedis-fuori-dalla-gaellivaere-dopo-pugno-di-du-b09a9b376212d765",
+      "id": "b09a9b376212d765"
+    },
+    {
+      "title": "Lusso in Svizzera: nuovo locale a Lugano entro aprile",
+      "url": "/sport/exministra-santanche-apre-a-lugano-un-locale-di-lu-74abf4db2a5282cb",
+      "id": "74abf4db2a5282cb"
+    }
+  ],
+  "updated_at": "2026-03-28T17:52:17.219009+00:00"
+}
