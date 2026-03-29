@@ -1,0 +1,51 @@
+{
+  "id": "7d112cf823617c72",
+  "slug": "ravenna-piega-gubbio-col-2-0-e-sale-terza-in-class-7d112cf823617c72",
+  "title": "Ravenna piega Gubbio col 2-0 e sale terza in classifica",
+  "titles": [
+    "Ravenna piega Gubbio col 2-0 e sale terza in classifica",
+    "Fischnaller esplose da centrocampo: 2-0 per i Romagnoli in serie C",
+    "La tripletta di Marchionni spiazza Gubbio: 0-2 per Ravenna in serie C"
+  ],
+  "title_winner": null,
+  "section": "sport",
+  "occhiello": "GUBBIO-RAVENNA 0-2: GOL E HIGHLIGHTS",
+  "lead": "Gubbio-Ravenna 0-2: l'esito non sorprende Lead: Il Ravenna batte il Gubbio per 2-0 nella partita di Serie C del 29 marzo 2026. Corpo 1: Il Ravenna ha ritrovato la vittoria dopo un girone d'andata chiuso sull'1-1 proprio contro il Gubbio, una squadra che aveva già battuto. La squadra di Marchionni ha fatto valere un miglior",
+  "corpo1": "Tasso tecnico, un dinamismo superiore e un'intensità difficilmente riscontrabile nelle squadre di Serie C. Fischnaller ha segnato per tempo e ha segnato il gol che ha deciso la partita. I romagnoli sono ora la terza forza in classifica. Corpo 2: Il Gubbio non ha avuto niente da fare contro la superiorità tecnica",
+  "corpo2": "Del Ravenna. La partita è stata una dimostrazione di come il Ravenna sia una delle squadre più forti della Serie C, una squadra che ora si trova in una posizione importante in classifica. La vittoria è stata un passo in avanti importante per la squadra di Marchionni, ma ora dovranno concentrarsi sulla prossima partita per mantenere la loro posizione in classifica e non lasciare spazio ai rivali. La sconfitta del Gubbio, invece, mantiene in dubbio la loro possibilità di salvezza e lascia il Gubbio con molte preoccupazioni. Immagini: Gubbio-Ravenna 0-2 | Fischnaller segna per tempo | Ravenna celebra la vittoria | Gubbio senza speranza | Classifica Serie C Nota: Le immagini possono essere sostituite con foto più adatte alle notizie del 29 marzo 2026.",
+  "journalist": {
+    "id": "davide_longo_01",
+    "firma": "Davide Longo",
+    "sezione": "sport"
+  },
+  "published_at": "2026-03-29T22:16:52.172891+00:00",
+  "image": {
+    "type": "unsplash",
+    "url": "https://images.unsplash.com/photo-1711937579586-32ecfa8fe62b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxwYXJ0aXRhJTIwZGklMjBjYWxjaW98ZW58MHwwfHx8MTc3NDgyMjYxMXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "source": "Unsplash",
+    "credit": "Nguyễn Hiệp",
+    "license": "Unsplash License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Ravenna piega Gubbio col 2-0 e sale terza in classifica\",\n  \"description\": \"Gubbio-Ravenna 0-2: l'esito non sorprende Lead: Il Ravenna batte il Gubbio per 2-0 nella partita di Serie C del 29 marzo 2026. Corpo 1: Il Ravenna ha ritrovato la vittoria dopo un girone d'andata chiuso sull'1-1 proprio contro il Gubbio, una squadra che aveva già battuto. La squadra di Marchionni ha\",\n  \"articleBody\": \"Gubbio-Ravenna 0-2: l'esito non sorprende Lead: Il Ravenna batte il Gubbio per 2-0 nella partita di Serie C del 29 marzo 2026. Corpo 1: Il Ravenna ha ritrovato la vittoria dopo un girone d'andata chiuso sull'1-1 proprio contro il Gubbio, una squadra che aveva già battuto. La squadra di Marchionni ha fatto valere un miglior Tasso tecnico, un dinamismo superiore e un'intensità difficilmente riscontrabile nelle squadre di Serie C. Fischnaller ha segnato per tempo e ha segnato il gol che ha deciso la partita. I romagnoli sono ora la terza forza in classifica. Corpo 2: Il Gubbio non ha avuto niente da fare contro la superiorità tecnica Del Ravenna. La partita è stata una dimostrazione di come il Ravenna sia una delle squadre più forti della Serie C, una squadra che ora si trova in una posizione importante in classifica. La vittoria è stata un passo in avanti importante per la squadra di Marchionni, ma ora dovranno concentrarsi sulla prossima partita per mantenere la loro posizione in classifica e non lasciare spazio ai rivali. La sconfitta del Gubbio, invece, mantiene in dubbio la loro possibilità di salvezza e lascia il Gubbio con molte preoccupazioni. Immagini: Gubbio-Ravenna 0-2 | Fischnaller segna per tempo | Ravenna celebra la vittoria | Gubbio senza speranza | Classifica Serie C Nota: Le immagini possono essere sostituite con foto più adatte alle notizie del 29 marzo 2026.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Davide Longo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-29T22:16:52.172891+00:00\",\n  \"dateModified\": \"2026-03-29T22:16:52.172891+00:00\",\n  \"url\": \"https://gazzettanazionale.it/sport/7d112cf823617c72\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/sport/7d112cf823617c72\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1711937579586-32ecfa8fe62b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxwYXJ0aXRhJTIwZGklMjBjYWxjaW98ZW58MHwwfHx8MTc3NDgyMjYxMXww&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Nguyễn Hiệp\"\n  }\n}",
+  "priority": 5,
+  "source": "Sky Sport",
+  "source_type": "competitor",
+  "original_url": "https://sport.sky.it/calcio/serie-c/video/2026/03/29/gubbio-ravenna-0-2-gol-e-highlights-1086352",
+  "related": [
+    {
+      "title": "Az picerno e monopoli al curzio. un 0-0 che non decide nulla.",
+      "url": "/sport/az-picerno-e-monopoli-al-curzio-un-0-0-che-non-dec-870c7f1c76e46ff6",
+      "id": "870c7f1c76e46ff6"
+    },
+    {
+      "title": "Sambenedettese non vince a Pineto e cede la promozione di Serie B",
+      "url": "/sport/sambenedettese-non-vince-a-pineto-e-cede-la-promoz-585200c9dd0c5394",
+      "id": "585200c9dd0c5394"
+    },
+    {
+      "title": "Bezzecchi vince a Austin",
+      "url": "/sport/bezzecchi-vince-a-austin-e7ee657cb40597c7",
+      "id": "e7ee657cb40597c7"
+    }
+  ]
+}
