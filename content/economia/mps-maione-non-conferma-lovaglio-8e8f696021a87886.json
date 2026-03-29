@@ -1,0 +1,51 @@
+{
+  "id": "8e8f696021a87886",
+  "slug": "mps-maione-non-conferma-lovaglio-8e8f696021a87886",
+  "title": "MPS: Maione non conferma Lovaglio",
+  "titles": [
+    "MPS: Maione non conferma Lovaglio",
+    "Lovaglio fuori dalla MPS",
+    "MPS sceglie equilibrio, via Lovaglio"
+  ],
+  "title_winner": null,
+  "section": "economia",
+  "occhiello": "MPS, ATTACCO A LOVAGLIO: “NON È L’UOMO GIUSTO PER LA FASE CHE SI APERE”",
+  "lead": "Il presidente del consiglio di amministrazione della MPS, Maione, ha scritto una lettera agli azionisti in cui spiega perché non ha confermato Lovaglio nella carica di amministratore delegato. La decisione è stata presa per garantire un equilibrio tra uscenti e nuovi componenti nel consiglio di amministrazione",
+  "corpo1": "La MPS ha deciso di non confermare Lovaglio nella carica di amministratore delegato. Secondo la lettera del presidente del consiglio di amministrazione, Maione, la scelta è stata fatta per garantire un equilibrio tra uscenti e nuovi componenti nel consiglio di amministrazione. La lista dei nuovi componenti presenta un equilibrio tra uscenti e nuovi. La decisione è stata presa dopo una serie di consultazioni con i vari componenti del consiglio di amministrazione. Secondo Maione, la scelta è stata fatta per garantire la stabilità e la continuità dell'azienda. La lettera non fornisce ulteriori dettagli sulla motivazione della scelta.",
+  "corpo2": "Ilaria Lovaglio è stata una delle figure chiave della MPS in questi anni e la sua mancata conferma nella carica di amministratore delegato potrebbe avere conseguenze sulla strategia aziendale. La MPS è stata oggetto di numerose critiche per la sua gestione e la scelta di non confermare Lovaglio potrebbe essere vista come un segno di indecisione. La domanda è: chi sarà il nuovo amministratore delegato e come affronterà i problemi della MPS?",
+  "journalist": {
+    "id": "giorgio_ferrara_01",
+    "firma": "Giorgio Ferrara",
+    "sezione": "economia"
+  },
+  "published_at": "2026-03-29T23:13:05.588843+00:00",
+  "image": {
+    "type": "unsplash",
+    "url": "https://images.unsplash.com/photo-1645226880663-81561dcab0ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxzdG9jayUyMG1hcmtldCUyMGNoYXJ0fGVufDB8MHx8fDE3NzQ4MjU5ODV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "source": "Unsplash",
+    "credit": "Adam Śmigielski",
+    "license": "Unsplash License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"MPS: Maione non conferma Lovaglio\",\n  \"description\": \"Il presidente del consiglio di amministrazione della MPS, Maione, ha scritto una lettera agli azionisti in cui spiega perché non ha confermato Lovaglio nella carica di amministratore delegato. La decisione è stata presa per garantire un equilibrio tra uscenti e nuovi componenti nel consiglio di ammi\",\n  \"articleBody\": \"Il presidente del consiglio di amministrazione della MPS, Maione, ha scritto una lettera agli azionisti in cui spiega perché non ha confermato Lovaglio nella carica di amministratore delegato. La decisione è stata presa per garantire un equilibrio tra uscenti e nuovi componenti nel consiglio di amministrazione La MPS ha deciso di non confermare Lovaglio nella carica di amministratore delegato. Secondo la lettera del presidente del consiglio di amministrazione, Maione, la scelta è stata fatta per garantire un equilibrio tra uscenti e nuovi componenti nel consiglio di amministrazione. La lista dei nuovi componenti presenta un equilibrio tra uscenti e nuovi. La decisione è stata presa dopo una serie di consultazioni con i vari componenti del consiglio di amministrazione. Secondo Maione, la scelta è stata fatta per garantire la stabilità e la continuità dell'azienda. La lettera non fornisce ulteriori dettagli sulla motivazione della scelta. Ilaria Lovaglio è stata una delle figure chiave della MPS in questi anni e la sua mancata conferma nella carica di amministratore delegato potrebbe avere conseguenze sulla strategia aziendale. La MPS è stata oggetto di numerose critiche per la sua gestione e la scelta di non confermare Lovaglio potrebbe essere vista come un segno di indecisione. La domanda è: chi sarà il nuovo amministratore delegato e come affronterà i problemi della MPS?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Giorgio Ferrara\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-29T23:13:05.588843+00:00\",\n  \"dateModified\": \"2026-03-29T23:13:05.588843+00:00\",\n  \"url\": \"https://gazzettanazionale.it/economia/8e8f696021a87886\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/economia/8e8f696021a87886\"\n  },\n  \"articleSection\": \"Economia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1645226880663-81561dcab0ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxzdG9jayUyMG1hcmtldCUyMGNoYXJ0fGVufDB8MHx8fDE3NzQ4MjU5ODV8MA&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Adam Śmigielski\"\n  }\n}",
+  "priority": 5,
+  "source": "Repubblica Economia",
+  "source_type": "competitor",
+  "original_url": "https://www.repubblica.it/economia/2026/03/30/news/mps_attacco_lovaglio_non_uomo_giusto_per_fase_si_apre-425252377/?rss",
+  "related": [
+    {
+      "title": "Mps esclude Lovaglio dal rinnovo del board di Siena",
+      "url": "/economia/mps-esclude-lovaglio-dal-rinnovo-del-board-di-sien-51511cd2555886f9",
+      "id": "51511cd2555886f9"
+    },
+    {
+      "title": "650.000 barili di petrolio russo arrivano a Cuba",
+      "url": "/esteri/650000-barili-di-petrolio-russo-arrivano-a-cuba-ad85dedf5faa01b3",
+      "id": "ad85dedf5faa01b3"
+    },
+    {
+      "title": "Bagayoko denuncia commenti razzisti su CNews",
+      "url": "/esteri/bagayoko-denuncia-commenti-razzisti-su-cnews-32835bae11bbb897",
+      "id": "32835bae11bbb897"
+    }
+  ]
+}
