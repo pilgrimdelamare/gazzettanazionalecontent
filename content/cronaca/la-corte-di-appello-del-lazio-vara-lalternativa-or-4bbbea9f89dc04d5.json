@@ -1,0 +1,52 @@
+{
+  "id": "4bbbea9f89dc04d5",
+  "slug": "la-corte-di-appello-del-lazio-vara-lalternativa-or-4bbbea9f89dc04d5",
+  "title": "L'alternativa Orale: Studenti Italiani Risparmiati dal Mondo dei Ricordi",
+  "titles": [
+    "L'alternativa Orale: Studenti Italiani Risparmiati dal Mondo dei Ricordi",
+    "La Corte del Lazio Spezza la Crisi delle Maturità: Il Colloquio Orale è la Soluz",
+    "28 Marzo 2026: La Corte del Lazio Varerà la Regola con la Maturità Orale"
+  ],
+  "title_winner": null,
+  "section": "cronaca",
+  "occhiello": "LA CORTE DI APPELLO DEL LAZIO VARA L'ALTERNATIVA ORALE",
+  "lead": "L'ordinanza della Corte di Appello del Lazio vara l'alternativa orale per gli studenti italiani che non superano l'esame di maturità. La misura è stata adottata dal presidente della Corte, Giovanni Maria Ruggiero, in data 28 marzo 2026. L'ordinanza riguarda gli studenti che hanno sostenuto l'esame di maturità nelle scorse settimane e che non hanno ottenuto la sufficienza.",
+  "corpo1": "La Corte di Appello del Lazio ha emesso un'ordinanza che consente agli studenti italiani di sostituire l'esame scritto con un colloquio orale. La misura è stata adottata dal presidente della Corte, Giovanni Maria Ruggiero, in data 28 marzo 2026. Secondo l'ordinanza, gli studenti che non superano l'esame scritto potranno sostenere un colloquio orale per ottenere la maturità. L'ordinanza riguarda gli studenti che hanno sostenuto l'esame di maturità nelle scorse settimane e che non hanno ottenuto la sufficienza. La Corte ha deciso di adottare questa misura per evitare che gli studenti rimangano senza una maturità e per aiutarli a proseguire gli studi.",
+  "corpo2": "Giovanni Maria Ruggiero, presidente della Corte di Appello del Lazio, ha detto che l'ordinanza è stata adottata per far fronte alla situazione di emergenza che si è creata a seguito dell'esame di maturità. Secondo lui, molti studenti hanno avuto difficoltà a superare l'esame scritto e hanno quindi bisogno di un'altra possibilità per ottenere la maturità. L'ordinanza della Corte di Appello del Lazio vara l'alternativa orale per gli studenti italiani che non superano l'esame di maturità.  La risposta è che possono proseguire gli studi senza dover rinunciare alla maturità. .  ",
+  "journalist": {
+    "id": "roberto_neri_01",
+    "firma": "Roberto Neri",
+    "sezione": "cronaca"
+  },
+  "published_at": "2026-03-28T16:54:42.332431+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/36551061/pexels-photo-36551061.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Mattia Sinisi",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"L'alternativa Orale: Studenti Italiani Risparmiati dal Mondo dei Ricordi\",\n  \"description\": \"L'ordinanza della Corte di Appello del Lazio vara l'alternativa orale per gli studenti italiani che non superano l'esame di maturità. La misura è stata adottata dal presidente della Corte, Giovanni Maria Ruggiero, in data 28 marzo 2026. L'ordinanza riguarda gli studenti che hanno sostenuto l'esame d\",\n  \"articleBody\": \"L'ordinanza della Corte di Appello del Lazio vara l'alternativa orale per gli studenti italiani che non superano l'esame di maturità. La misura è stata adottata dal presidente della Corte, Giovanni Maria Ruggiero, in data 28 marzo 2026. L'ordinanza riguarda gli studenti che hanno sostenuto l'esame di maturità nelle scorse settimane e che non hanno ottenuto la sufficienza. La Corte di Appello del Lazio ha emesso un'ordinanza che consente agli studenti italiani di sostituire l'esame scritto con un colloquio orale. La misura è stata adottata dal presidente della Corte, Giovanni Maria Ruggiero, in data 28 marzo 2026. Secondo l'ordinanza, gli studenti che non superano l'esame scritto potranno sostenere un colloquio orale per ottenere la maturità. L'ordinanza riguarda gli studenti che hanno sostenuto l'esame di maturità nelle scorse settimane e che non hanno ottenuto la sufficienza. La Corte ha deciso di adottare questa misura per evitare che gli studenti rimangano senza una maturità e per aiutarli a proseguire gli studi. Giovanni Maria Ruggiero, presidente della Corte di Appello del Lazio, ha detto che l'ordinanza è stata adottata per far fronte alla situazione di emergenza che si è creata a seguito dell'esame di maturità. Secondo lui, molti studenti hanno avuto difficoltà a superare l'esame scritto e hanno quindi bisogno di un'altra possibilità per ottenere la maturità. L'ordinanza della Corte di Appello del Lazio vara l'alternativa orale per gli studenti italiani che non superano l'esame di maturità.  La risposta è che possono proseguire gli studi senza dover rinunciare alla maturità. .\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Roberto Neri\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T16:54:42.332431+00:00\",\n  \"dateModified\": \"2026-03-28T16:54:42.332431+00:00\",\n  \"url\": \"https://gazzettanazionale.it/cronaca/4bbbea9f89dc04d5\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/cronaca/4bbbea9f89dc04d5\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/36551061/pexels-photo-36551061.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Mattia Sinisi\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://gazzettanazionale.it/cronaca/la-corte-di-appello-del-lazio-vara-lalternativa-or-4bbbea9f89dc04d5",
+  "related": [
+    {
+      "title": "Insegnante di 42 anni del Novarese sospeso per violenza sessuale su studenti",
+      "url": "/cronaca/insegnante-sospeso-per-violenza-sessuale-su-studen-c653df110d1c3353",
+      "id": "c653df110d1c3353"
+    },
+    {
+      "title": "400mila KitKat rubate in un colpo da 100mila euro",
+      "url": "/cronaca/400mila-barrette-di-kitkat-rubate-durante-un-trasp-59e9af3006389576",
+      "id": "59e9af3006389576"
+    },
+    {
+      "title": "Giuseppe Tango eletto presidente Anm senza opposizione",
+      "url": "/cronaca/giuseppe-tango-eletto-presidente-dellanm-597ba33253af4770",
+      "id": "597ba33253af4770"
+    }
+  ],
+  "updated_at": "2026-03-28T16:54:42.332431+00:00"
+}
