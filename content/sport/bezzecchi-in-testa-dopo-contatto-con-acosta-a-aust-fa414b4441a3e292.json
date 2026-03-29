@@ -1,0 +1,51 @@
+{
+  "id": "fa414b4441a3e292",
+  "slug": "bezzecchi-in-testa-dopo-contatto-con-acosta-a-aust-fa414b4441a3e292",
+  "title": "Bezzecchi in testa dopo contatto con Acosta a Austin",
+  "titles": [
+    "Bezzecchi in testa dopo contatto con Acosta a Austin",
+    "Il sorpasso di Bezzecchi: una piazza per la vittoria a gran premi iniziale!",
+    "Austin: Bezzecchi si regala la vittoria con strategia vincente"
+  ],
+  "title_winner": null,
+  "section": "sport",
+  "occhiello": "ACOSTA E BEZZECCHI SI SFIDANO",
+  "lead": "Domenica 29 marzo 2026, il Gran Premio di Austin è partito con un contatto tra Acosta e Bezzecchi, che si è poi preso la testa della gara.",
+  "corpo1": "Il Gran Premio di Austin ha visto una partenza molto movimentata, con un contatto tra Acosta e Bezzecchi che ha subito cambiato il corso della gara. Bezzecchi, nonostante l'incidente, è riuscito a prendere la testa della gara, dimostrando una grande abilità e una strategia vincente. La gara è stata caratterizzata da una forte competizione tra i piloti, con molti cambi di posizione e sorpassi. Il circuito di Austin ha messo a dura prova le abilità dei piloti, con curve strette e rettilinei lunghi che hanno richiesto una grande concentrazione e una perfetta gestione della velocità. La vittoria di Bezzecchi è stata il risultato di una combinazione di abilità, strategia e una buona dose di fortuna, considerando il contatto iniziale con Acosta. Il Gran Premio di Austin è stato un evento emozionante e pieno di azione, che ha lasciato i tifosi del motociclismo con il fiato sospeso fino alla fine.",
+  "corpo2": "Bezzecchi è un pilota italiano che ha già dimostrato le sue abilità in passato, con diverse vittorie e piazzamenti importanti nella sua carriera. La sua vittoria ad Austin è il risultato di un lungo e duro lavoro, che lo ha portato a diventare uno dei piloti più competitivi del campionato. Il circuito di Austin è noto per essere uno dei più difficili del calendario, con una combinazione di curve strette e rettilinei lunghi che richiedono una grande abilità e una perfetta gestione della velocità. La vittoria di Bezzecchi è quindi ancora più meritevole, considerando la difficoltà del circuito e la forte competizione dei suoi avversari. Il Gran Premio di Austin è stato anche un evento importante per la città di Austin, che ha ospitato l'evento e ha offerto ai suoi cittadini e ai tifosi del motociclismo una giornata di emozione e divertimento. Bezzecchi dovrà confermarsi nelle prossime gare per mantenere la sua posizione di lider, con gli altri piloti pronti a sfidarlo",
+  "journalist": {
+    "id": "davide_longo_01",
+    "firma": "Davide Longo",
+    "sezione": "sport"
+  },
+  "published_at": "2026-03-29T22:17:05.702007+00:00",
+  "image": {
+    "type": "unsplash",
+    "url": "https://images.unsplash.com/photo-1753563819213-2600548e1554?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxtb3RvZ3AlMjByYWNlJTIwc3RhcnR8ZW58MHwwfHx8MTc3NDgyMjYyNXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "source": "Unsplash",
+    "credit": "Mario Amé",
+    "license": "Unsplash License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Bezzecchi in testa dopo contatto con Acosta a Austin\",\n  \"description\": \"Domenica 29 marzo 2026, il Gran Premio di Austin è partito con un contatto tra Acosta e Bezzecchi, che si è poi preso la testa della gara.\",\n  \"articleBody\": \"Domenica 29 marzo 2026, il Gran Premio di Austin è partito con un contatto tra Acosta e Bezzecchi, che si è poi preso la testa della gara. Il Gran Premio di Austin ha visto una partenza molto movimentata, con un contatto tra Acosta e Bezzecchi che ha subito cambiato il corso della gara. Bezzecchi, nonostante l'incidente, è riuscito a prendere la testa della gara, dimostrando una grande abilità e una strategia vincente. La gara è stata caratterizzata da una forte competizione tra i piloti, con molti cambi di posizione e sorpassi. Il circuito di Austin ha messo a dura prova le abilità dei piloti, con curve strette e rettilinei lunghi che hanno richiesto una grande concentrazione e una perfetta gestione della velocità. La vittoria di Bezzecchi è stata il risultato di una combinazione di abilità, strategia e una buona dose di fortuna, considerando il contatto iniziale con Acosta. Il Gran Premio di Austin è stato un evento emozionante e pieno di azione, che ha lasciato i tifosi del motociclismo con il fiato sospeso fino alla fine. Bezzecchi è un pilota italiano che ha già dimostrato le sue abilità in passato, con diverse vittorie e piazzamenti importanti nella sua carriera. La sua vittoria ad Austin è il risultato di un lungo e duro lavoro, che lo ha portato a diventare uno dei piloti più competitivi del campionato. Il circuito di Austin è noto per essere uno dei più difficili del calendario, con una combinazione di curve strette e rettilinei lunghi che richiedono una grande abilità e una perfetta gestione della velocità. La vittoria di Bezzecchi è quindi ancora più meritevole, considerando la difficoltà del circuito e la forte competizione dei suoi avversari. Il Gran Premio di Austin è stato anche un evento importante per la città di Austin, che ha ospitato l'evento e ha offerto ai suoi cittadini e ai tifosi del motociclismo una giornata di emozione e divertimento. Bezzecchi dovrà confermarsi nelle prossime gare per mantenere la sua posizione di lider, con gli altri piloti pronti a sfidarlo\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Davide Longo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-29T22:17:05.702007+00:00\",\n  \"dateModified\": \"2026-03-29T22:17:05.702007+00:00\",\n  \"url\": \"https://gazzettanazionale.it/sport/fa414b4441a3e292\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/sport/fa414b4441a3e292\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1753563819213-2600548e1554?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxtb3RvZ3AlMjByYWNlJTIwc3RhcnR8ZW58MHwwfHx8MTc3NDgyMjYyNXww&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Mario Amé\"\n  }\n}",
+  "priority": 5,
+  "source": "Sky Sport",
+  "source_type": "competitor",
+  "original_url": "https://sport.sky.it/motogp/video/2026/03/29/motogp-gp-austin-partenza-primo-giro-video-1086345",
+  "related": [
+    {
+      "title": "Bezzecchi vince a Austin",
+      "url": "/sport/bezzecchi-vince-a-austin-e7ee657cb40597c7",
+      "id": "e7ee657cb40597c7"
+    },
+    {
+      "title": "Bezzecchi vince a Austin",
+      "url": "/sport/bezzecchi-vince-a-austin-cb375f2fb150f5f4",
+      "id": "cb375f2fb150f5f4"
+    },
+    {
+      "title": "Nicky Hayden ricordato prima del GP di Austin",
+      "url": "/sport/nicky-hayden-ricordato-prima-del-gp-di-austin-0f81a682e034614a",
+      "id": "0f81a682e034614a"
+    }
+  ]
+}
