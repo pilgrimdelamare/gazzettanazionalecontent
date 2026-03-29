@@ -1,0 +1,51 @@
+{
+  "id": "30cadb992213d3ae",
+  "slug": "motogp-austin-30cadb992213d3ae",
+  "title": "MotoGP: Austin",
+  "titles": [
+    "MotoGP: Austin",
+    "Martin sorprende Acosta con un sorpasso da ghiaccio",
+    "Il titolo è in palio: Bezzechi si consacra a Austin"
+  ],
+  "title_winner": null,
+  "section": "sport",
+  "occhiello": "ACOSTA SUPERATO DA MARTIN A AUSTIN",
+  "lead": "Martin ha superato acosta durante il gp di austin, che si è svolto il 30 marzo 2026.",
+  "corpo1": "Il GP di Austin ha visto una serie di colpi di scena, con acosta che è andato lungo e ha perso la posizione a favore di martin. secondo quanto riportato da Marquez, la gara è stata molto combattuta, con diversi piloti che hanno lottato per la posizione. marquez ha definito bez \"impressionante\" e lo ha indicato come favorito per il titolo. Bezzechi ha espresso la sua emozione per la vittoria, affermando di aver 'sognato da tanto di vincere qui', affermando di aver \"sognato da tanto di vincere qui\". Acosta ha commentato il suo risultato, affermando di aver 'fatto bel lavoro' e di dover 'continuare a lavorare', affermando di aver \"fatto bel lavoro\" e di dover \"continuare a lavorare\". la gara ha visto anche una bagarre tra bagnaia, bastianini e marquez. Il GP di Austin è stato caratterizzato da una serie di sorpassi e colpi di scena, con i piloti che hanno dato il massimo per conquistare la posizione.",
+  "corpo2": "Acosta è un pilota spagnolo che ha già dimostrato le sue capacità in diverse gare. la sua sconfitta a opera di martin non deve essere vista come un fallimento, ma piuttosto come un'opportunità per crescere e migliorare. il gp di austin è solo uno dei tanti appuntamenti del calendario della motogp, e acosta avrà altre occasioni per dimostrare le sue abilità. la motogp è un campionato molto competitivo, con piloti di alto livello che lottano per la posizione. la vittoria di bezzechi e la prestazione di martin sono solo due esempi della competitività del campionato. cosa cambierà per Acosta dopo questa sconfitta, e come riuscirà a tornare alla ribalta nel prossimo GP?, e come riuscirà a tornare alla ribalta nel prossimo gp?",
+  "journalist": {
+    "id": "matteo_galli_01",
+    "firma": "Matteo Galli",
+    "sezione": "sport"
+  },
+  "published_at": "2026-03-29T23:30:33.595881+00:00",
+  "image": {
+    "type": "flickr",
+    "url": "https://live.staticflickr.com/65535/55173845219_ee156f0626_b.jpg",
+    "source": "Flickr",
+    "credit": "Pán Marek - 583.sk",
+    "license": "CC"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"MotoGP: Austin\",\n  \"description\": \"Martin ha superato acosta durante il gp di austin, che si è svolto il 30 marzo 2026.\",\n  \"articleBody\": \"Martin ha superato acosta durante il gp di austin, che si è svolto il 30 marzo 2026. Il GP di Austin ha visto una serie di colpi di scena, con acosta che è andato lungo e ha perso la posizione a favore di martin. secondo quanto riportato da Marquez, la gara è stata molto combattuta, con diversi piloti che hanno lottato per la posizione. marquez ha definito bez \\\"impressionante\\\" e lo ha indicato come favorito per il titolo. Bezzechi ha espresso la sua emozione per la vittoria, affermando di aver 'sognato da tanto di vincere qui', affermando di aver \\\"sognato da tanto di vincere qui\\\". Acosta ha commentato il suo risultato, affermando di aver 'fatto bel lavoro' e di dover 'continuare a lavorare', affermando di aver \\\"fatto bel lavoro\\\" e di dover \\\"continuare a lavorare\\\". la gara ha visto anche una bagarre tra bagnaia, bastianini e marquez. Il GP di Austin è stato caratterizzato da una serie di sorpassi e colpi di scena, con i piloti che hanno dato il massimo per conquistare la posizione. Acosta è un pilota spagnolo che ha già dimostrato le sue capacità in diverse gare. la sua sconfitta a opera di martin non deve essere vista come un fallimento, ma piuttosto come un'opportunità per crescere e migliorare. il gp di austin è solo uno dei tanti appuntamenti del calendario della motogp, e acosta avrà altre occasioni per dimostrare le sue abilità. la motogp è un campionato molto competitivo, con piloti di alto livello che lottano per la posizione. la vittoria di bezzechi e la prestazione di martin sono solo due esempi della competitività del campionato. cosa cambierà per Acosta dopo questa sconfitta, e come riuscirà a tornare alla ribalta nel prossimo GP?, e come riuscirà a tornare alla ribalta nel prossimo gp?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Matteo Galli\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-29T23:30:33.595881+00:00\",\n  \"dateModified\": \"2026-03-29T23:30:33.595881+00:00\",\n  \"url\": \"https://gazzettanazionale.it/sport/30cadb992213d3ae\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/sport/30cadb992213d3ae\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://live.staticflickr.com/65535/55173845219_ee156f0626_b.jpg\",\n    \"creditText\": \"Pán Marek - 583.sk\"\n  }\n}",
+  "priority": 5,
+  "source": "Sky Sport",
+  "source_type": "competitor",
+  "original_url": "https://sport.sky.it/motogp/video/2026/03/30/gp-austin-acosta-sky-tech-1086370",
+  "related": [
+    {
+      "title": "MotoGP: Bastianini soddisfatta",
+      "url": "/sport/motogp-bastianini-soddisfatta-f3142b583c75a9fb",
+      "id": "f3142b583c75a9fb"
+    },
+    {
+      "title": "MotoGP: Bagnaia in preallarme per le piste europee",
+      "url": "/sport/motogp-bagnaia-in-preallarme-per-le-piste-europee-1ad0739185a10503",
+      "id": "1ad0739185a10503"
+    },
+    {
+      "title": "Bezzecchi in testa dopo contatto con Acosta a Austin",
+      "url": "/sport/bezzecchi-in-testa-dopo-contatto-con-acosta-a-aust-fa414b4441a3e292",
+      "id": "fa414b4441a3e292"
+    }
+  ]
+}
