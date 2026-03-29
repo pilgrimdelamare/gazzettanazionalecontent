@@ -1,5 +1,23 @@
 [
   {
+    "id": "a2dcca765649e9b2",
+    "slug": "avs-annuncia-controllo-di-polizia-in-hotel-di-roma-a2dcca765649e9b2",
+    "title": "Questura di Roma controlla eurodeputata Ilaria Salis in hotel",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Elena Russo",
+    "published_at": "2026-03-28T16:24:41.759111+00:00",
+    "image_type": "twitter_embed",
+    "image_url": "",
+    "occhiello": "AVS CONTROLLA ILARIA SALIS IN ALBERGO ROMA",
+    "lead_preview": "La Questura di Roma ha motivato con un atto dovuto il controllo di polizia preventivo in un hotel della capitale, dove s",
+    "tags": [
+      "controllo polizia",
+      "ilaria salis",
+      "questura roma"
+    ]
+  },
+  {
     "id": "a48755a72e4dbd9d",
     "slug": "donna-bloccata-nel-pozzo-a-roma-15-metri-di-profon-a48755a72e4dbd9d",
     "title": "Donna bloccata a 15 metri",
@@ -2490,23 +2508,6 @@
     "tags": [
       "dl fiscale",
       "confindustria valle aosta"
-    ]
-  },
-  {
-    "id": "a2dcca765649e9b2",
-    "slug": "avs-annuncia-controllo-di-polizia-in-hotel-di-roma-a2dcca765649e9b2",
-    "title": "Avs annuncia controllo di polizia in hotel di Roma",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Elena Russo",
-    "published_at": "2026-03-28T16:24:41.759111+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/2827999/pexels-photo-2827999.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "AVS: CONTROLLO DI POLIZIA PREVENTIVO IN HOTEL",
-    "lead_preview": "Il partito Avs ha annunciato un controllo di polizia preventivo in un hotel di Roma, dove si è tenuta una riunione con l",
-    "tags": [
-      "avs roma",
-      "controllo polizia roma"
     ]
   },
   {
