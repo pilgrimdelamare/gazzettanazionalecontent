@@ -1,5 +1,22 @@
 [
   {
+    "id": "dc77a29e9db5e0e2",
+    "slug": "ilaria-salis-fermata-dalla-polizia-a-roma-senza-pr-dc77a29e9db5e0e2",
+    "title": "Ilaria Salis fermata a Roma: perquisizione domiciliare e arresto",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Elena Russo",
+    "published_at": "2026-03-28T18:54:34.554423+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/31175298/pexels-photo-31175298.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "ARRESTO DELLA SALIS: IL CASO CHE FA TUTTI RIFLETTERE",
+    "lead_preview": " è stata fermata dalla polizia a Roma senza previo avviso il 28 marzo 2026.  ",
+    "tags": [
+      "fermata salis",
+      "processo salis"
+    ]
+  },
+  {
     "id": "db1228bb4715517e",
     "slug": "kemi-badenoch-attacca-il-governo-fantasia-pericolo-db1228bb4715517e",
     "title": "Kemi Badenoch attacca il governo: \"Fantasia pericolosa\" la politica sul gas",
@@ -2529,23 +2546,6 @@
     "tags": [
       "no kings",
       "manifestazione no kings"
-    ]
-  },
-  {
-    "id": "dc77a29e9db5e0e2",
-    "slug": "ilaria-salis-fermata-dalla-polizia-a-roma-senza-pr-dc77a29e9db5e0e2",
-    "title": "Ilaria Salis fermata dalla polizia a Roma senza previo avviso",
-    "section": "politica",
-    "priority": 6,
-    "journalist_firma": "Elena Russo",
-    "published_at": "2026-03-28T18:54:34.554423+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/23459014/pexels-photo-23459014.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "CONTROLLI DI POLIZIA PER ILARIASALIS: 'SIAMO IN UN REGIME'.",
-    "lead_preview": "Ilaria Salis, europarlamentare del Partito Democratico,, europarlamentare del Partito Democratico, è stata sottoposta a ",
-    "tags": [
-      "ilariasalis",
-      "controlli polizia"
     ]
   },
   {
