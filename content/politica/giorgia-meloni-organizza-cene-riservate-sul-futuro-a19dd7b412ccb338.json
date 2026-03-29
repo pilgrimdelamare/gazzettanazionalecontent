@@ -1,0 +1,51 @@
+{
+  "id": "a19dd7b412ccb338",
+  "slug": "giorgia-meloni-organizza-cene-riservate-sul-futuro-a19dd7b412ccb338",
+  "title": "Giorgia Meloni organizza cene riservate sul futuro del governo",
+  "titles": [
+    "Giorgia Meloni organizza cene riservate sul futuro del governo",
+    "La casa privata di Meloni, scena delle discussioni segrete sul referendum",
+    "Il governo alle corde: Meloni chiamata a tavola per valutare la sconfitta al ref"
+  ],
+  "title_winner": null,
+  "section": "politica",
+  "occhiello": "GIORGIA MELONI SI RIFUGIA A CASA",
+  "lead": "La presidente del Consiglio, Giorgia Meloni, ha ospitato venerdì sera un vertice informale con i due vicepremier, Matteo Salvini e Antonio Tajani, nella sua villa a Roma sud. Il tema della notte era la sconfitta al referendum. Il luogo scelto è stato il salotto della villa di Meloni.",
+  "corpo1": "La cena riservata è stata l'occasione per analizzare la sconfitta al referendum e valutare le prossime mosse politiche. Fonti del vertice hanno riferito che il tema al centro dell'incontro è stato il futuro del governo e le strategie per riprendersi dall'umiliante sconfitta. La villa di Meloni è stata scelta per l'informalità del luogo, lontano dagli occhi della stampa e dei curiosi. Il vertice è stato chiamato \"cena riservata\" per evitare di coinvolgere la stampa e mantenere l'immagine di un governo forte e unito. Fonti del vertice hanno confermato che il tema principale della notte è stato il futuro del governo e le strategie per riprendersi dall'umiliante sconfitta al referendum. Tuttavia, è stato chiarito che nessuna decisione è stata presa in merito alle future mosse politiche. Il vertice è stato un chiaro segno di come il governo Meloni sia disposto a fare qualsiasi cosa per mantenere il potere, anche se significa nascondere la verità dalla stampa e dal pubblico.",
+  "corpo2": "Giorgia Meloni ha dimostrato di essere una leader determinata e capace di prendere decisioni difficili, anche se questo significa nascondere la verità dalla stampa e dal pubblico. .  . .",
+  "journalist": {
+    "id": "sergio_mancini_01",
+    "firma": "Sergio Mancini",
+    "sezione": "politica"
+  },
+  "published_at": "2026-03-29T00:24:49.381633+00:00",
+  "image": {
+    "type": "wikimedia",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Giorgia_Meloni_2019.jpg",
+    "source": "Wikimedia Commons",
+    "credit": "Presidenza della Repubblica",
+    "license": "CC"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Giorgia Meloni organizza cene riservate sul futuro del governo\",\n  \"description\": \"La presidente del Consiglio, Giorgia Meloni, ha ospitato venerdì sera un vertice informale con i due vicepremier, Matteo Salvini e Antonio Tajani, nella sua villa a Roma sud. Il tema della notte era la sconfitta al referendum. Il luogo scelto è stato il salotto della villa di Meloni.\",\n  \"articleBody\": \"La presidente del Consiglio, Giorgia Meloni, ha ospitato venerdì sera un vertice informale con i due vicepremier, Matteo Salvini e Antonio Tajani, nella sua villa a Roma sud. Il tema della notte era la sconfitta al referendum. Il luogo scelto è stato il salotto della villa di Meloni. La cena riservata è stata l'occasione per analizzare la sconfitta al referendum e valutare le prossime mosse politiche. Fonti del vertice hanno riferito che il tema al centro dell'incontro è stato il futuro del governo e le strategie per riprendersi dall'umiliante sconfitta. La villa di Meloni è stata scelta per l'informalità del luogo, lontano dagli occhi della stampa e dei curiosi. Il vertice è stato chiamato \\\"cena riservata\\\" per evitare di coinvolgere la stampa e mantenere l'immagine di un governo forte e unito. Fonti del vertice hanno confermato che il tema principale della notte è stato il futuro del governo e le strategie per riprendersi dall'umiliante sconfitta al referendum. Tuttavia, è stato chiarito che nessuna decisione è stata presa in merito alle future mosse politiche. Il vertice è stato un chiaro segno di come il governo Meloni sia disposto a fare qualsiasi cosa per mantenere il potere, anche se significa nascondere la verità dalla stampa e dal pubblico. Giorgia Meloni ha dimostrato di essere una leader determinata e capace di prendere decisioni difficili, anche se questo significa nascondere la verità dalla stampa e dal pubblico. .  . .\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Sergio Mancini\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-29T00:24:49.381633+00:00\",\n  \"dateModified\": \"2026-03-29T00:24:49.381633+00:00\",\n  \"url\": \"https://gazzettanazionale.it/politica/a19dd7b412ccb338\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/politica/a19dd7b412ccb338\"\n  },\n  \"articleSection\": \"Politica\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://upload.wikimedia.org/wikipedia/commons/4/47/Giorgia_Meloni_2019.jpg\",\n    \"creditText\": \"Presidenza della Repubblica\"\n  }\n}",
+  "priority": 6,
+  "source": "Redazione",
+  "source_type": "competitor_gap",
+  "original_url": "https://www.ilfattoquotidiano.it/2026/03/28/vertice-meloni-salvini-tajani-referendum-notizie/8338812/",
+  "related": [
+    {
+      "title": "Giorgia Meloni chiamata a chiarimenti dal centro-sinistra",
+      "url": "/politica/giorgia-meloni-chiamata-a-chiarire-programmazione-ddf756345ecb43a5",
+      "id": "ddf756345ecb43a5"
+    },
+    {
+      "title": "850 manifestazioni di sostegno, 1400 arresti, il governo si organizza",
+      "url": "/politica/gli-italiani-in-strada-per-il-governo-850-manifest-ebe5b3d4bfc4c9fa",
+      "id": "ebe5b3d4bfc4c9fa"
+    },
+    {
+      "title": "Giorgia Meloni: l'ora della verità sui fondi dopo il referendum",
+      "url": "/politica/la-presidente-meloni-chiamata-a-verifiche-per-la-g-1ef251ceca72d58c",
+      "id": "1ef251ceca72d58c"
+    }
+  ]
+}
