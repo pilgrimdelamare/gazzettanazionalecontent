@@ -1,0 +1,52 @@
+{
+  "id": "ce58a0424a8c4bec",
+  "slug": "morta-una-madre-e-suo-figlio-di-un-anno-nel-laghet-ce58a0424a8c4bec",
+  "title": "Morta la madre e il figlio di un anno in un laghetto di Milano venerdì 27 marzo ",
+  "titles": [
+    "Morta la madre e il figlio di un anno in un laghetto di Milano venerdì 27 marzo ",
+    "Bambino di un anno e madre trovati morti nel laghetto di Rodigino a Milano, inch",
+    "La tragedia del laghetto di Rodigino: un bambino di un anno e la madre trovati m"
+  ],
+  "title_winner": null,
+  "section": "societa",
+  "occhiello": "MORTI IN UN LAGHETTO: LA DISASTROSA SQUALLA DELLA DISCIPLINA SOCIALE",
+  "lead": "Un bambino di un anno e sua madre sono stati trovati morti nel laghetto di Rodigino venerdì 27 marzo 2026 alle ore 14.00. ",
+  "corpo1": "Il corpo di un bambino di un anno è stato recuperato nel laghetto di Rodigino venerdì 27 marzo 2026. La madre del piccolo, una donna di 25 anni, è stata trovata morta a pochi metri di distanza. I corpi sono stati estratti dal laghetto dalle squadre di soccorso della polizia e dell'acqua. Secondo le prime indagini, i due non sarebbero stati identificati subito, ma solo dopo un'attenta identificazione. Le cause della morte sono ancora sconosciute. La polizia sta indagando sulle circostanze della morte e sulla possibile causa. Secondo le prime dichiarazioni della polizia, non ci sono indizi sulla presenza di aggressione o violenza.",
+  "corpo2": "La morte di un bambino e sua madre nel laghetto di Rodigino è un'altra pagina di una storia tragica di disfunzione della società.  Secondo le autorità, la madre aveva perso la custodia del bambino a causa delle sue condizioni di salute mentale.  ",
+  "journalist": {
+    "id": "federica_conti_01",
+    "firma": "Federica Conti",
+    "sezione": "societa"
+  },
+  "published_at": "2026-03-28T16:44:23.784512+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/26082992/pexels-photo-26082992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Vash Project",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Morta la madre e il figlio di un anno in un laghetto di Milano venerdì 27 marzo \",\n  \"description\": \"Un bambino di un anno e sua madre sono stati trovati morti nel laghetto di Rodigino venerdì 27 marzo 2026 alle ore 14.00. \",\n  \"articleBody\": \"Un bambino di un anno e sua madre sono stati trovati morti nel laghetto di Rodigino venerdì 27 marzo 2026 alle ore 14.00.  Il corpo di un bambino di un anno è stato recuperato nel laghetto di Rodigino venerdì 27 marzo 2026. La madre del piccolo, una donna di 25 anni, è stata trovata morta a pochi metri di distanza. I corpi sono stati estratti dal laghetto dalle squadre di soccorso della polizia e dell'acqua. Secondo le prime indagini, i due non sarebbero stati identificati subito, ma solo dopo un'attenta identificazione. Le cause della morte sono ancora sconosciute. La polizia sta indagando sulle circostanze della morte e sulla possibile causa. Secondo le prime dichiarazioni della polizia, non ci sono indizi sulla presenza di aggressione o violenza. La morte di un bambino e sua madre nel laghetto di Rodigino è un'altra pagina di una storia tragica di disfunzione della società.  Secondo le autorità, la madre aveva perso la custodia del bambino a causa delle sue condizioni di salute mentale.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Federica Conti\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T16:44:23.784512+00:00\",\n  \"dateModified\": \"2026-03-28T16:44:23.784512+00:00\",\n  \"url\": \"https://gazzettanazionale.it/societa/ce58a0424a8c4bec\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/societa/ce58a0424a8c4bec\"\n  },\n  \"articleSection\": \"Societa\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/26082992/pexels-photo-26082992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Vash Project\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://gazzettanazionale.it/societa/morta-una-madre-e-suo-figlio-di-un-anno-nel-laghet-ce58a0424a8c4bec",
+  "related": [
+    {
+      "title": "Domenica 29 marzo: un'ora in meno, una sera più lunga",
+      "url": "/societa/ora-legale-milioni-di-persone-spostano-lancette-c640d861f122d383",
+      "id": "c640d861f122d383"
+    },
+    {
+      "title": "L'imprevisto sul palco: Kamolwan Chanago perde una protesi mentre parla",
+      "url": "/societa/kamolwan-chanago-perde-protesi-dentale-sul-palco-62a8d271b9030250",
+      "id": "62a8d271b9030250"
+    },
+    {
+      "title": "10 milioni di turisti a Pasqua, l'Italia è pronta",
+      "url": "/societa/10-milioni-di-turisti-in-italia-le-13-mete-imperdi-d85e7323b4925f54",
+      "id": "d85e7323b4925f54"
+    }
+  ],
+  "updated_at": "2026-03-28T16:44:23.784512+00:00"
+}
