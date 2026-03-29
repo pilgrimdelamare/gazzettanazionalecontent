@@ -1,5 +1,21 @@
 [
   {
+    "id": "01921fec04cac51a",
+    "slug": "parigino-arrestato-per-tentato-attentato-alla-bank-01921fec04cac51a",
+    "title": "Fragile valigetta a Porta d'Ottavo",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-03-28T16:46:04.019997+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/10168623/pexels-photo-10168623.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "PARIGINO ARRESTATO PER TENTATO ATTENTATO ALLA BANK OF AMERICA",
+    "lead_preview": " L'attentato è stato neutralizzato senza vittime.  ",
+    "tags": [
+      "tentato attentato bank of america"
+    ]
+  },
+  {
     "id": "59e9af3006389576",
     "slug": "400mila-barrette-di-kitkat-rubate-durante-un-trasp-59e9af3006389576",
     "title": "400mila KitKat rubate in un colpo da 100mila euro",
@@ -1549,23 +1565,6 @@
     "tags": [
       "proteste trump",
       "manifestazione no kings"
-    ]
-  },
-  {
-    "id": "01921fec04cac51a",
-    "slug": "parigino-arrestato-per-tentato-attentato-alla-bank-01921fec04cac51a",
-    "title": "Parigino arrestato per tentato attentato alla Bank of America",
-    "section": "esteri",
-    "priority": 3,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-03-28T16:46:04.019997+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/4135324/pexels-photo-4135324.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "ATTENTATO A PARIGI: TENTATIVO SULLA BANCA DI AMERICA",
-    "lead_preview": "La polizia francese ha arrestato un uomo che ha tentato di depositare un esplosivo artigianale davanti alla sede della B",
-    "tags": [
-      "attentato parigi",
-      "bank of america"
     ]
   },
   {
