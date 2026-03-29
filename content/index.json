@@ -1,5 +1,22 @@
 [
   {
+    "id": "4748262206e6f1e2",
+    "slug": "piqueras-ha-la-peggio-in-maxi-incidente-in-moto2-4748262206e6f1e2",
+    "title": "Moto2: incidente in gara, Piqueras frattura il femore",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-03-29T21:31:16.072417+00:00",
+    "image_type": "flickr",
+    "image_url": "https://live.staticflickr.com/65535/55170566617_3b3fae0859_b.jpg",
+    "occhiello": "PIQUERAS FUORI DAL CIRCUITO",
+    "lead_preview": "Il 29 marzo 2026, joan piqueras ha subito una grave frattura al femore sinistro durante un incidente in moto2 ad austin,",
+    "tags": [
+      "incidente piqueras",
+      "moto2 austin"
+    ]
+  },
+  {
     "id": "86aefcb6c0dd96e6",
     "slug": "attacco-ucraino-a-taganrog-un-morto-e-danni-86aefcb6c0dd96e6",
     "title": "Attacco ucraino a Taganrog: un morto e danni",
@@ -939,24 +956,6 @@
       "israele ddl",
       "critica israele",
       "unione europea"
-    ]
-  },
-  {
-    "id": "4748262206e6f1e2",
-    "slug": "piqueras-ha-la-peggio-in-maxi-incidente-in-moto2-4748262206e6f1e2",
-    "title": "Piqueras ha la peggio in maxi incidente in Moto2",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-03-29T21:31:16.072417+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1725623851398-45ca8236a95b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxMb3JlbnpvJTIwVmlldHRpfGVufDB8MHx8fDE3NzQ4MTk4NzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "Piqueras ha la peggio in maxi incidente in Moto2",
-    "lead_preview": "Ilaria Agius vince la gara di Moto2 a Austin, mentre Joan Piqueras soffre una grave frattura al femore sinistro dopo un ",
-    "tags": [
-      "moto2",
-      "incidente",
-      "piqueras"
     ]
   },
   {
