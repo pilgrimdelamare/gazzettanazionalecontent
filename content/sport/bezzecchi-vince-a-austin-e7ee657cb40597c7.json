@@ -1,0 +1,50 @@
+{
+  "id": "e7ee657cb40597c7",
+  "slug": "bezzecchi-vince-a-austin-e7ee657cb40597c7",
+  "title": "Bezzecchi vince a Austin",
+  "titles": [
+    "Bezzecchi vince a Austin",
+    "63 punti per Bezzecchi",
+    "Bezzecchi leader Mondiale"
+  ],
+  "title_winner": null,
+  "section": "sport",
+  "occhiello": "BEZZECCHI DOMINA AUSTIN, PUNTA SUL TITOLI DI CLASSE",
+  "lead": "Marco Bezzecchi ha vinto il Gran Premio degli Stati Uniti di MotoGP, conquistando la sua terza vittoria consecutiva in stagione. La gara si è tenuta a Austin, in Texas, il 29 marzo 2026.",
+  "corpo1": "La gara di MotoGP a Austin è stata una battaglia serrata, con Bezzecchi che ha dimostrato la sua superiorità tecnica e atletica., con Bezzecchi che ha dimostrato la sua superiorità tecnica e atletica. Il pilota italiano ha guidato la sua Ducati a vittoria, precedendo Jorge Martin e Pedro Acosta. Bezzecchi ha ora 63 punti nel mondiale, tornando al primo posto in classifica. \"Era importante cancellare l'errore di sabato e la squadra mi ha sostenuto\", ha dichiarato Bezzecchi dopo la gara. \"Sono emozionato, sognavo da tanto di vincere qui\". La vittoria di Bezzecchi è stata celebrata con l'inno italiano sul podio, dopo 1274 giorni dall'ultima volta che è stato suonato in Moto 3, un momento emozionante per il pubblico.. Il romagnolo è ora il leader del Mondiale con 63 punti.",
+  "corpo2": "Bezzecchi è un pilota esperto, con una lunga storia di successi in MotoGP. Ha già vinto due titoli di campione del mondo in categoria Moto2 e ora punta a conquistare il terzo. La sua vittoria a Austin è stata una dimostrazione della sua superiorità tecnica e atletica, nonché del lavoro duro e della determinazione della sua squadra. \"Fatto bel lavoro, ora dobbiamo continuare a lavorare per migliorare.\", ha dichiarato Acosta dopo la gara. Bezzecchi ora punta a mantenere la sua posizione di leader del Mondiale e a conquistare il terzo titolo di campione del mondo, un obiettivo ambizioso ma raggiungibile..",
+  "journalist": {
+    "id": "matteo_galli_01",
+    "firma": "Matteo Galli",
+    "sezione": "sport"
+  },
+  "published_at": "2026-03-29T22:16:23.681371+00:00",
+  "image": {
+    "type": "twitter_embed",
+    "tweet_id": "2038356986190872659",
+    "embed_url": "https://platform.twitter.com/embed/Tweet.html?id=2038356986190872659",
+    "source": "X (Twitter)"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Bezzecchi vince a Austin\",\n  \"description\": \"Marco Bezzecchi ha vinto il Gran Premio degli Stati Uniti di MotoGP, conquistando la sua terza vittoria consecutiva in stagione. La gara si è tenuta a Austin, in Texas, il 29 marzo 2026.\",\n  \"articleBody\": \"Marco Bezzecchi ha vinto il Gran Premio degli Stati Uniti di MotoGP, conquistando la sua terza vittoria consecutiva in stagione. La gara si è tenuta a Austin, in Texas, il 29 marzo 2026. La gara di MotoGP a Austin è stata una battaglia serrata, con Bezzecchi che ha dimostrato la sua superiorità tecnica e atletica., con Bezzecchi che ha dimostrato la sua superiorità tecnica e atletica. Il pilota italiano ha guidato la sua Ducati a vittoria, precedendo Jorge Martin e Pedro Acosta. Bezzecchi ha ora 63 punti nel mondiale, tornando al primo posto in classifica. \\\"Era importante cancellare l'errore di sabato e la squadra mi ha sostenuto\\\", ha dichiarato Bezzecchi dopo la gara. \\\"Sono emozionato, sognavo da tanto di vincere qui\\\". La vittoria di Bezzecchi è stata celebrata con l'inno italiano sul podio, dopo 1274 giorni dall'ultima volta che è stato suonato in Moto 3, un momento emozionante per il pubblico.. Il romagnolo è ora il leader del Mondiale con 63 punti. Bezzecchi è un pilota esperto, con una lunga storia di successi in MotoGP. Ha già vinto due titoli di campione del mondo in categoria Moto2 e ora punta a conquistare il terzo. La sua vittoria a Austin è stata una dimostrazione della sua superiorità tecnica e atletica, nonché del lavoro duro e della determinazione della sua squadra. \\\"Fatto bel lavoro, ora dobbiamo continuare a lavorare per migliorare.\\\", ha dichiarato Acosta dopo la gara. Bezzecchi ora punta a mantenere la sua posizione di leader del Mondiale e a conquistare il terzo titolo di campione del mondo, un obiettivo ambizioso ma raggiungibile..\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Matteo Galli\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-29T22:16:23.681371+00:00\",\n  \"dateModified\": \"2026-03-29T22:16:23.681371+00:00\",\n  \"url\": \"https://gazzettanazionale.it/sport/e7ee657cb40597c7\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/sport/e7ee657cb40597c7\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
+  "priority": 5,
+  "source": "Sky Sport",
+  "source_type": "competitor",
+  "original_url": "https://sport.sky.it/motogp/video/2026/03/29/motogp-gp-austin-usa-gara-highlights-gara-1086368",
+  "related": [
+    {
+      "title": "Bezzecchi vince a Austin",
+      "url": "/sport/bezzecchi-vince-a-austin-cb375f2fb150f5f4",
+      "id": "cb375f2fb150f5f4"
+    },
+    {
+      "title": "Nicky Hayden ricordato prima del GP di Austin",
+      "url": "/sport/nicky-hayden-ricordato-prima-del-gp-di-austin-0f81a682e034614a",
+      "id": "0f81a682e034614a"
+    },
+    {
+      "title": "Guido Pini fa impazzire il pubblico con vittoria in Moto3 a Austin!",
+      "url": "/sport/guido-pini-fa-impazzire-il-pubblico-con-vittoria-i-d40dc60b6099a920",
+      "id": "d40dc60b6099a920"
+    }
+  ]
+}
