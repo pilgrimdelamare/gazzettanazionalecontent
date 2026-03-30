@@ -1,18 +1,18 @@
 {
   "id": "c74df10048d09fbd",
   "slug": "motogp-ogura-ritirato-c74df10048d09fbd",
-  "title": "MotoGP: Ogura ritirato",
+  "title": "MotoGP: Ogura costretto al ritiro ad Austin per problema tecnico",
   "titles": [
-    "MotoGP: Ogura ritirato",
-    "MotoGP: Bezzecchi vince ad Austin",
-    "MotoGP: guasto ferma Ogura"
+    "MotoGP: Ogura costretto al ritiro ad Austin per problema tecnico",
+    "Il pilota giapponese Ogura fuori dalla gara di Austin per guasto",
+    "MotoGP: problema tecnico, Ogura in ospedale e ritirato dalla gara"
   ],
   "title_winner": null,
   "section": "sport",
-  "occhiello": "OGURA SI RITIRA A AUSTIN",
-  "lead": "Il pilota Ogura è stato costretto al ritiro durante il GP Austin a causa di un problema tecnico.",
-  "corpo1": "Il gp austin ha visto il ritiro di ogura a causa di un problema tecnico. secondo quanto riportato, il pilota ha dovuto abbandonare la gara a causa di un guasto alla sua motocicletta. La notizia è stata confermata dai commenti dei piloti nel retropodio, dove Marquez ha definito Bezzecchi \"impressionante\" e \"favorito per il titolo\". Bezzecchi ha espresso la sua emozione per la vittoria, affermando di aver \"sognato da tanto di vincere qui\". Acosta ha commentato il suo lavoro, dichiarando di aver \"fatto un bel lavoro\" e di dover \"continuare a lavorare\". Il GP Austin ha registrato una bagarre tra Bagnaia, Bastianini e Marquez, con Bezzecchi che si è imposto come vincitore. la gara ha avuto luogo ad austin, in texas, città con una popolazione di circa 2,5 milioni di abitanti nell'area metropolitana.",
-  "corpo2": "Ogura è un pilota che ha già mostrato le sue capacità in passato, ma questo ritiro a causa di un problema tecnico potrebbe avere conseguenze per la sua classifica nel campionato. il meccanismo strutturale che spiega questo problema tecnico potrebbe essere legato alla gestione della squadra o alla qualità della motocicletta. ciò che cambia davvero è la possibilità per ogura di recuperare punti nella classifica, considerando che la competizione è molto alta in questo campionato. Cosa significa questo ritiro per il futuro di Ogura nel Motomondiale: potrebbe essere un semplice incidente o un segnale di problemi più profondi nella sua squadra, come ad esempio una gestione della squadra inefficiente o una qualità della motocicletta non all'altezza?",
+  "occhiello": "OGURA FORZATO AL RITIRO NEL GP AUSTIN",
+  "lead": "Il pilota giapponese Kazuki Ogura è stato costretto al ritiro durante il GP Austin il 29 marzo 2026 a causa di un problema tecnico.",
+  "corpo1": "La causa del problema tecnico è ancora sconosciuta, ma la MotoGP sta indagando. Secondo le informazioni fornite dalla MotoGP, il pilota giapponese è stato portato in ospedale per un esame medico e successivamente è stato certificato il suo ritiro. Ogura stava correndo al 12º posto alla fine della 14ª gara quando il problema tecnico è intervenuto. Il pilota è stato portato in ospedale per un esame medico e poi rilasciato. La causa del problema tecnico è ancora sottoposta a indagine. La MotoGP ha rilasciato una dichiarazione in cui si afferma che \"la sicurezza del pilota è stata prioritaria\" e che \"tutti i possibili problemi tecnici sono stati esaminati\". La gara è stata interrotta e i piloti sono stati portati in ospedale per un controllo medico, come previsto. La MotoGP ha anche rilasciato una dichiarazione in cui si afferma che \"tutti i possibili problemi tecnici sono stati esaminati\" e che \"la sicurezza del pilota è stata prioritaria\".",
+  "corpo2": "",
   "journalist": {
     "id": "matteo_galli_01",
     "firma": "Matteo Galli",
@@ -20,32 +20,39 @@
   },
   "published_at": "2026-03-29T23:32:15.999895+00:00",
   "image": {
-    "type": "flickr",
-    "url": "https://live.staticflickr.com/65535/54549380876_82877a2f36_b.jpg",
-    "source": "Flickr",
-    "credit": "\"TDG-77\"",
-    "license": "CC"
+    "type": "unsplash",
+    "url": "https://images.unsplash.com/photo-1609559376775-38cdfa504de1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxLYXp1a2klMjBPZ3VyYXxlbnwwfDB8fHwxNzc0OTEyNDc0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "source": "Unsplash",
+    "credit": "Beth Macdonald",
+    "license": "Unsplash License"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"MotoGP: Ogura ritirato\",\n  \"description\": \"Il pilota Ogura è stato costretto al ritiro durante il GP Austin a causa di un problema tecnico.\",\n  \"articleBody\": \"Il pilota Ogura è stato costretto al ritiro durante il GP Austin a causa di un problema tecnico. Il gp austin ha visto il ritiro di ogura a causa di un problema tecnico. secondo quanto riportato, il pilota ha dovuto abbandonare la gara a causa di un guasto alla sua motocicletta. La notizia è stata confermata dai commenti dei piloti nel retropodio, dove Marquez ha definito Bezzecchi \\\"impressionante\\\" e \\\"favorito per il titolo\\\". Bezzecchi ha espresso la sua emozione per la vittoria, affermando di aver \\\"sognato da tanto di vincere qui\\\". Acosta ha commentato il suo lavoro, dichiarando di aver \\\"fatto un bel lavoro\\\" e di dover \\\"continuare a lavorare\\\". Il GP Austin ha registrato una bagarre tra Bagnaia, Bastianini e Marquez, con Bezzecchi che si è imposto come vincitore. la gara ha avuto luogo ad austin, in texas, città con una popolazione di circa 2,5 milioni di abitanti nell'area metropolitana. Ogura è un pilota che ha già mostrato le sue capacità in passato, ma questo ritiro a causa di un problema tecnico potrebbe avere conseguenze per la sua classifica nel campionato. il meccanismo strutturale che spiega questo problema tecnico potrebbe essere legato alla gestione della squadra o alla qualità della motocicletta. ciò che cambia davvero è la possibilità per ogura di recuperare punti nella classifica, considerando che la competizione è molto alta in questo campionato. Cosa significa questo ritiro per il futuro di Ogura nel Motomondiale: potrebbe essere un semplice incidente o un segnale di problemi più profondi nella sua squadra, come ad esempio una gestione della squadra inefficiente o una qualità della motocicletta non all'altezza?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Matteo Galli\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-29T23:32:15.999895+00:00\",\n  \"dateModified\": \"2026-03-29T23:32:15.999895+00:00\",\n  \"url\": \"https://gazzettanazionale.it/sport/c74df10048d09fbd\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/sport/c74df10048d09fbd\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://upload.wikimedia.org/wikipedia/commons/e/ee/1973_Austin_1300_Mk_III_%2810552072926%29.jpg\",\n    \"creditText\": \"Riley from Christchurch, New Zealand\"\n  }\n}",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"MotoGP: Ogura costretto al ritiro ad Austin per problema tecnico\",\n  \"description\": \"Il pilota giapponese Kazuki Ogura è stato costretto al ritiro durante il GP Austin il 29 marzo 2026 a causa di un problema tecnico.\",\n  \"articleBody\": \"Il pilota giapponese Kazuki Ogura è stato costretto al ritiro durante il GP Austin il 29 marzo 2026 a causa di un problema tecnico. La causa del problema tecnico è ancora sconosciuta, ma la MotoGP sta indagando. Secondo le informazioni fornite dalla MotoGP, il pilota giapponese è stato portato in ospedale per un esame medico e successivamente è stato certificato il suo ritiro. Ogura stava correndo al 12º posto alla fine della 14ª gara quando il problema tecnico è intervenuto. Il pilota è stato portato in ospedale per un esame medico e poi rilasciato. La causa del problema tecnico è ancora sottoposta a indagine. La MotoGP ha rilasciato una dichiarazione in cui si afferma che \\\"la sicurezza del pilota è stata prioritaria\\\" e che \\\"tutti i possibili problemi tecnici sono stati esaminati\\\". La gara è stata interrotta e i piloti sono stati portati in ospedale per un controllo medico, come previsto. La MotoGP ha anche rilasciato una dichiarazione in cui si afferma che \\\"tutti i possibili problemi tecnici sono stati esaminati\\\" e che \\\"la sicurezza del pilota è stata prioritaria\\\".\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Matteo Galli\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-29T23:32:15.999895+00:00\",\n  \"dateModified\": \"2026-03-29T23:32:15.999895+00:00\",\n  \"url\": \"https://lentemattutina.it/sport/c74df10048d09fbd\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/sport/c74df10048d09fbd\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1609559376775-38cdfa504de1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxLYXp1a2klMjBPZ3VyYXxlbnwwfDB8fHwxNzc0OTEyNDc0fDA&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Beth Macdonald\"\n  }\n}",
   "priority": 5,
-  "source": "Sky Sport",
-  "source_type": "competitor",
-  "original_url": "https://sport.sky.it/motogp/video/2026/03/30/gp-austin-ogura-ritiro-video-1086350",
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://lentemattutina.it/sport/motogp-ogura-ritirato-c74df10048d09fbd",
   "related": [
     {
       "title": "MotoGP: Bezzecchi vince ad Austin",
+      "url": "/sport/motogp-bezzecchi-vince-ad-austin-a06a4e2d33826e66",
+      "id": "a06a4e2d33826e66",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Motorcycle_racing.jpg",
+      "image_type": "wikimedia"
+    },
+    {
+      "title": "MotoGP: Bezzecchi vince ad Austin",
       "url": "/sport/motogp-bezzecchi-vince-ad-austin-9e51af5c19610693",
-      "id": "9e51af5c19610693"
+      "id": "9e51af5c19610693",
+      "image_url": "https://images.unsplash.com/photo-1753563819213-2600548e1554?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxtb3RvJTIwZ3AlMjByYWNlfGVufDB8MHx8fDE3NzQ4MjcxMzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
     },
     {
       "title": "MotoGP: Bagnaia si classifica decimo a Austin, rallentato dalla gomma posteriore",
       "url": "/sport/motogp-bagnaia-si-classifica-decimo-a-austin-ralle-83adadbd50e75d7e",
-      "id": "83adadbd50e75d7e"
-    },
-    {
-      "title": "MotoGP:",
-      "url": "/sport/motogp-534ca90b3c5af9d0",
-      "id": "534ca90b3c5af9d0"
+      "id": "83adadbd50e75d7e",
+      "image_url": "https://live.staticflickr.com/65535/54546362176_7f08ce5439_b.jpg",
+      "image_type": "flickr"
     }
-  ]
+  ],
+  "updated_at": "2026-03-29T23:32:15.999895+00:00"
 }
