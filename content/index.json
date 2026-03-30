@@ -1,5 +1,22 @@
 [
   {
+    "id": "5a0bcc1c0c67e684",
+    "slug": "crosetto-elezioni-solo-dopo-la-guerra-5a0bcc1c0c67e684",
+    "title": "Crosetto: non c'è elezione finché dura la guerra",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Elena Russo",
+    "published_at": "2026-03-29T23:30:36.841276+00:00",
+    "image_type": "flickr",
+    "image_url": "https://live.staticflickr.com/65535/52679566547_2b302711c3_b.jpg",
+    "occhiello": "CROSETTO: NIENTE ELEZIONI FINCHÉ DURA LA GUERRA",
+    "lead_preview": "Il ministro della Difesa Guido Crosetto ha dichiarato il 30 marzo 2026 che le elezioni non si devono tenere finché c'è l",
+    "tags": [
+      "guerra ucraina",
+      "elezioni italiane"
+    ]
+  },
+  {
     "id": "f3142b583c75a9fb",
     "slug": "motogp-bastianini-soddisfatta-f3142b583c75a9fb",
     "title": "MotoGP: 'Siamo stati vicini a risultati migliori', dice Ilaria Bastianini",
@@ -1611,23 +1628,6 @@
     "tags": [
       "motogp austin",
       "ktm"
-    ]
-  },
-  {
-    "id": "5a0bcc1c0c67e684",
-    "slug": "crosetto-elezioni-solo-dopo-la-guerra-5a0bcc1c0c67e684",
-    "title": "Crosetto: elezioni solo dopo la guerra",
-    "section": "politica",
-    "priority": 7,
-    "journalist_firma": "Elena Russo",
-    "published_at": "2026-03-29T23:30:36.841276+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Guido_Crosetto_foto_ufficiale_%28cropped%29.jpg",
-    "occhiello": "CROSETTO STOPPA LE ELEZIONI",
-    "lead_preview": "Il ministro della Difesa Guido Crosetto ha dichiarato il 30 marzo 2026 che le elezioni non si devono tenere finché dura ",
-    "tags": [
-      "guerra ucraina",
-      "elezioni italiane"
     ]
   },
   {
