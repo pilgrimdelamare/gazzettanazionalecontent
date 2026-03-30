@@ -1,0 +1,57 @@
+{
+  "id": "18330f592bc7e88e",
+  "slug": "calcio-barbarez-nuova-polemica-18330f592bc7e88e",
+  "title": "Calcio: Barbarez, nuova polemica",
+  "titles": [
+    "Calcio: Barbarez, nuova polemica",
+    "Barbarez dichiara vantaggio",
+    "Calcio: Bosnia, nuove critiche"
+  ],
+  "title_winner": null,
+  "section": "sport",
+  "occhiello": "BARBAREZ: SCONFIANO NELLA CHIARIMENTA GUIDATA",
+  "lead": "Il 30 marzo 2026, durante un'intervista, Sergej Barbarez, allenatore della Bosnia e Herzegovina, ha affermato di essere \"in vantaggio\" in una partita non specificata, riferendosi a un giocatore avversario che si trovava in area di penalty. La dichiarazione è stata resa pubblica attraverso un un video pubblicato da Sky Sport.",
+  "corpo1": "Un chiarimento sulla partita recente, nella quale la Bosnia e Herzegovina ha ottenuto un risultato non specificato. Tuttavia, la dichiarazione ha suscitato polemiche, poiché alcuni hanno interpretato la frase come un'allusione a un giocatore avversario che si trovava in area di penalty. Il un video pubblicato da Sky Sport mostra Barbarez che parla con un giornalista, dicendo: \"Noi in vantaggio? Pullman in area\".",
+  "corpo2": "La frase è stata resa pubblica senza ulteriori spiegazioni o contesto. Secondo la fonte, la frase di Barbarez è stata resa pubblica attraverso un un video pubblicato da Sky Sport. Sergej Barbarez è un allenatore bosniaco e ex giocatore di calcio che è attualmente alla guida della Bosnia e Herzegovina. La sua frase ha suscitato polemiche, poiché alcuni hanno interpretato la frase come un'allusione a un giocatore aversario che si trovava in area di penalty. La Bosnia e Herzegovina ha ottenuto un risultato non specificato nella partita recente. La frase di Barbarez è stata resa pubblica senza ulteriori spiegazioni o contesto. La polemica attorno alla frase di Barbarez mette in discussione la sua capacità di gestire la squadra e la sua attitudine a prendere decisioni chiare e nette.",
+  "journalist": {
+    "id": "matteo_galli_01",
+    "firma": "Matteo Galli",
+    "sezione": "sport"
+  },
+  "published_at": "2026-03-30T22:45:38.523284+00:00",
+  "image": {
+    "type": "unsplash",
+    "url": "https://images.unsplash.com/photo-1637559508411-e6d65573efff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxzb2NjZXIlMjBjb2FjaCUyMGludGVydmlld3xlbnwwfDB8fHwxNzc0OTEwNzM4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "source": "Unsplash",
+    "credit": "Vann",
+    "license": "Unsplash License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Calcio: Barbarez, nuova polemica\",\n  \"description\": \"Il 30 marzo 2026, durante un'intervista, Sergej Barbarez, allenatore della Bosnia e Herzegovina, ha affermato di essere \\\"in vantaggio\\\" in una partita non specificata, riferendosi a un giocatore avversario che si trovava in area di penalty. La dichiarazione è stata resa pubblica attraverso un un vide\",\n  \"articleBody\": \"Il 30 marzo 2026, durante un'intervista, Sergej Barbarez, allenatore della Bosnia e Herzegovina, ha affermato di essere \\\"in vantaggio\\\" in una partita non specificata, riferendosi a un giocatore avversario che si trovava in area di penalty. La dichiarazione è stata resa pubblica attraverso un un video pubblicato da Sky Sport. Un chiarimento sulla partita recente, nella quale la Bosnia e Herzegovina ha ottenuto un risultato non specificato. Tuttavia, la dichiarazione ha suscitato polemiche, poiché alcuni hanno interpretato la frase come un'allusione a un giocatore avversario che si trovava in area di penalty. Il un video pubblicato da Sky Sport mostra Barbarez che parla con un giornalista, dicendo: \\\"Noi in vantaggio? Pullman in area\\\". La frase è stata resa pubblica senza ulteriori spiegazioni o contesto. Secondo la fonte, la frase di Barbarez è stata resa pubblica attraverso un un video pubblicato da Sky Sport. Sergej Barbarez è un allenatore bosniaco e ex giocatore di calcio che è attualmente alla guida della Bosnia e Herzegovina. La sua frase ha suscitato polemiche, poiché alcuni hanno interpretato la frase come un'allusione a un giocatore aversario che si trovava in area di penalty. La Bosnia e Herzegovina ha ottenuto un risultato non specificato nella partita recente. La frase di Barbarez è stata resa pubblica senza ulteriori spiegazioni o contesto. La polemica attorno alla frase di Barbarez mette in discussione la sua capacità di gestire la squadra e la sua attitudine a prendere decisioni chiare e nette.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Matteo Galli\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-30T22:45:38.523284+00:00\",\n  \"dateModified\": \"2026-03-30T22:45:38.523284+00:00\",\n  \"url\": \"https://lentemattutina.it/sport/18330f592bc7e88e\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/sport/18330f592bc7e88e\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1637559508411-e6d65573efff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxzb2NjZXIlMjBjb2FjaCUyMGludGVydmlld3xlbnwwfDB8fHwxNzc0OTEwNzM4fDA&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Vann\"\n  }\n}",
+  "priority": 5,
+  "source": "Sky Sport",
+  "source_type": "competitor",
+  "original_url": "https://sport.sky.it/calcio/mondiali/video/2026/03/30/bosnia-italia-barbarez-pullman-conferenza-video-1086635",
+  "related": [
+    {
+      "title": "Calcio: Ascoli vince 2-1 ad Arezzo",
+      "url": "/sport/calcio-ascoli-vince-2-1-ad-arezzo-1c5b106c4a1fb8a8",
+      "id": "1c5b106c4a1fb8a8",
+      "image_url": "https://live.staticflickr.com/4522/38446350896_f68eed6d7f_b.jpg",
+      "image_type": "flickr"
+    },
+    {
+      "title": "Calcio: Cipro vince 3-2",
+      "url": "/sport/calcio-cipro-vince-3-2-b2b1fe7cc3af9429",
+      "id": "b2b1fe7cc3af9429",
+      "image_url": "https://images.unsplash.com/photo-1712168483326-545d831e4673?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxDaXBybyUyMHZzJTIwTW9sZG92YSUyMGNhbGNpb3xlbnwwfDB8fHwxNzc0OTEwNjI2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Calcio: Cipro vince 3-2",
+      "url": "/sport/calcio-cipro-vince-3-2-827346aafd26f491",
+      "id": "827346aafd26f491",
+      "image_url": "https://images.unsplash.com/photo-1634114441919-7636abb21cae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxzb2NjZXIlMjBiYWxsJTIwZ29hbHxlbnwwfDB8fHwxNzc0OTEwNjIyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    }
+  ]
+}
