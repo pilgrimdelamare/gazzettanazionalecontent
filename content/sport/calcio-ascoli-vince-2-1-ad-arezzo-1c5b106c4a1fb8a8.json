@@ -1,0 +1,57 @@
+{
+  "id": "1c5b106c4a1fb8a8",
+  "slug": "calcio-ascoli-vince-2-1-ad-arezzo-1c5b106c4a1fb8a8",
+  "title": "Calcio: Ascoli vince 2-1 ad Arezzo",
+  "titles": [
+    "Calcio: Ascoli vince 2-1 ad Arezzo",
+    "Calcio: Arezzo perde 1-2 contro Ascoli",
+    "Calcio: Ascoli sbanca Arezzo con gol decisivi"
+  ],
+  "title_winner": null,
+  "section": "sport",
+  "occhiello": "AREZZO-ASCOLI 1-2: GOL E HIGHLIGHTS",
+  "lead": "Lunedì 30 marzo 2026, Arezzo - La partita di Serie C tra Arezzo e Ascoli si è conclusa con il risultato di 1-2. I gol e gli highlights della partita saranno mostrati su Sky Sport.",
+  "corpo1": "Lunedì 30 marzo 2026, presso lo stadio di Arezzo, si è svolta la partita di Serie C tra Arezzo e Ascoli, terminata con la vittoria degli ascolani per 2-1. La partita è stata trasmessa su Sky Sport, che ha anche reso disponibili i gol e gli highlights dell'incontro. Non sono state fornite informazioni dettagliate sui gol o sugli eventi salienti della partita, ma è possibile trovare i video degli highlights sul sito di Sky Sport.",
+  "corpo2": "La Serie C è una delle categorie calcistiche italiane, con un seguito significativo e una struttura competitiva ben definita. La partita tra Arezzo e Ascoli è stata seguita con interesse dai tifosi delle due squadre e dagli appassionati di calcio in generale. La vittoria dell'Ascoli potrebbe avere un impatto sulla classifica del campionato, ma senza ulteriori informazioni non è possibile determinare l'entità di questo impatto. La presenza di highlights su Sky Sport testimonia l'interesse dei media per il campionato e la sua capacità di attirare un pubblico ampio. Cosa succederà nelle prossime partite?",
+  "journalist": {
+    "id": "matteo_galli_01",
+    "firma": "Matteo Galli",
+    "sezione": "sport"
+  },
+  "published_at": "2026-03-30T22:44:32.809350+00:00",
+  "image": {
+    "type": "flickr",
+    "url": "https://live.staticflickr.com/4522/38446350896_f68eed6d7f_b.jpg",
+    "source": "Flickr",
+    "credit": "calciocatania",
+    "license": "CC"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Calcio: Ascoli vince 2-1 ad Arezzo\",\n  \"description\": \"Lunedì 30 marzo 2026, Arezzo - La partita di Serie C tra Arezzo e Ascoli si è conclusa con il risultato di 1-2. I gol e gli highlights della partita saranno mostrati su Sky Sport.\",\n  \"articleBody\": \"Lunedì 30 marzo 2026, Arezzo - La partita di Serie C tra Arezzo e Ascoli si è conclusa con il risultato di 1-2. I gol e gli highlights della partita saranno mostrati su Sky Sport. Lunedì 30 marzo 2026, presso lo stadio di Arezzo, si è svolta la partita di Serie C tra Arezzo e Ascoli, terminata con la vittoria degli ascolani per 2-1. La partita è stata trasmessa su Sky Sport, che ha anche reso disponibili i gol e gli highlights dell'incontro. Non sono state fornite informazioni dettagliate sui gol o sugli eventi salienti della partita, ma è possibile trovare i video degli highlights sul sito di Sky Sport. La Serie C è una delle categorie calcistiche italiane, con un seguito significativo e una struttura competitiva ben definita. La partita tra Arezzo e Ascoli è stata seguita con interesse dai tifosi delle due squadre e dagli appassionati di calcio in generale. La vittoria dell'Ascoli potrebbe avere un impatto sulla classifica del campionato, ma senza ulteriori informazioni non è possibile determinare l'entità di questo impatto. La presenza di highlights su Sky Sport testimonia l'interesse dei media per il campionato e la sua capacità di attirare un pubblico ampio. Cosa succederà nelle prossime partite?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Matteo Galli\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-30T22:44:32.809350+00:00\",\n  \"dateModified\": \"2026-03-30T22:44:32.809350+00:00\",\n  \"url\": \"https://lentemattutina.it/sport/1c5b106c4a1fb8a8\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/sport/1c5b106c4a1fb8a8\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://live.staticflickr.com/4522/38446350896_f68eed6d7f_b.jpg\",\n    \"creditText\": \"calciocatania\"\n  }\n}",
+  "priority": 5,
+  "source": "Sky Sport",
+  "source_type": "competitor",
+  "original_url": "https://sport.sky.it/calcio/serie-c/video/2026/03/30/arezzo-ascoli-1-2-gol-e-highlights-1086651",
+  "related": [
+    {
+      "title": "Calcio: Cipro vince 3-2",
+      "url": "/sport/calcio-cipro-vince-3-2-b2b1fe7cc3af9429",
+      "id": "b2b1fe7cc3af9429",
+      "image_url": "https://images.unsplash.com/photo-1712168483326-545d831e4673?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxDaXBybyUyMHZzJTIwTW9sZG92YSUyMGNhbGNpb3xlbnwwfDB8fHwxNzc0OTEwNjI2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Calcio: Cipro vince 3-2",
+      "url": "/sport/calcio-cipro-vince-3-2-827346aafd26f491",
+      "id": "827346aafd26f491",
+      "image_url": "https://images.unsplash.com/photo-1634114441919-7636abb21cae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxzb2NjZXIlMjBiYWxsJTIwZ29hbHxlbnwwfDB8fHwxNzc0OTEwNjIyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Calcio: Montella guida Turchia",
+      "url": "/sport/calcio-montella-guida-turchia-40336afc724bce8c",
+      "id": "40336afc724bce8c",
+      "image_url": "https://images.unsplash.com/photo-1664673894940-4accd819ccf6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxzb2NjZXIlMjBiYWxsJTIwdHVya2V5fGVufDB8MHx8fDE3NzQ5MTA2MjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    }
+  ]
+}
