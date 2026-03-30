@@ -1,0 +1,57 @@
+{
+  "id": "b2b1fe7cc3af9429",
+  "slug": "calcio-cipro-vince-3-2-b2b1fe7cc3af9429",
+  "title": "Calcio: Cipro vince 3-2",
+  "titles": [
+    "Calcio: Cipro vince 3-2",
+    "Calcio: Moldova sconfitta 3-2",
+    "Calcio: Cipro batte Moldova 3-2"
+  ],
+  "title_winner": null,
+  "section": "sport",
+  "occhiello": "CIPRO-MOLDOVA 3-2: HIGHLIGHTS E ANALISI",
+  "lead": "Domenica 30 marzo 2026, la nazionale di calcio di Cipro ha battuto la Moldova con un punteggio di 3-2 in un match di qualificazione ai Mondiali. La partita è stata segnata da diversi gol e momenti salienti.",
+  "corpo1": "La partita tra Cipro e Moldova si è conclusa con un punteggio di 3-2 a favore dei ciprioti. I gol della partita sono stati segnati da diversi giocatori, ma la fonte non ha fornito dettagli specifici sui marcatori. La vittoria di Cipro è importante per le qualificazioni ai Mondiali, ma la classifica attuale del gruppo è ancora un mistero. La prossima partita sarà cruciale per determinare le loro possibilità di qualificarsi per il torneo, e sarà interessante vedere come si presenteranno in campo.",
+  "corpo2": "Questa vittoria è importante per Cipro, che cerca di tornare a competere ai massimi livelli nel calcio internazionale. La squadra cipriota ha scelto di ignorare i suoi alti e bassi, ma sembra essere in una fase di crescita. La Moldova, invece, cerca di migliorare la sua posizione nel calcio europeo, ma questa sconfitta potrebbe essere un passo indietro. La prossima partita sarà cruciale per entrambe le squadre e sarà interessante vedere come si presenteranno in campo. La domanda è: chi pagherà il conto — e la risposta, come sempre, non è Palazzo Chigi.",
+  "journalist": {
+    "id": "davide_longo_01",
+    "firma": "Davide Longo",
+    "sezione": "sport"
+  },
+  "published_at": "2026-03-30T22:43:46.894867+00:00",
+  "image": {
+    "type": "unsplash",
+    "url": "https://images.unsplash.com/photo-1712168483326-545d831e4673?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxDaXBybyUyMHZzJTIwTW9sZG92YSUyMGNhbGNpb3xlbnwwfDB8fHwxNzc0OTEwNjI2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "source": "Unsplash",
+    "credit": "ERDi UĞURLU",
+    "license": "Unsplash License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Calcio: Cipro vince 3-2\",\n  \"description\": \"Domenica 30 marzo 2026, la nazionale di calcio di Cipro ha battuto la Moldova con un punteggio di 3-2 in un match di qualificazione ai Mondiali. La partita è stata segnata da diversi gol e momenti salienti.\",\n  \"articleBody\": \"Domenica 30 marzo 2026, la nazionale di calcio di Cipro ha battuto la Moldova con un punteggio di 3-2 in un match di qualificazione ai Mondiali. La partita è stata segnata da diversi gol e momenti salienti. La partita tra Cipro e Moldova si è conclusa con un punteggio di 3-2 a favore dei ciprioti. I gol della partita sono stati segnati da diversi giocatori, ma la fonte non ha fornito dettagli specifici sui marcatori. La vittoria di Cipro è importante per le qualificazioni ai Mondiali, ma la classifica attuale del gruppo è ancora un mistero. La prossima partita sarà cruciale per determinare le loro possibilità di qualificarsi per il torneo, e sarà interessante vedere come si presenteranno in campo. Questa vittoria è importante per Cipro, che cerca di tornare a competere ai massimi livelli nel calcio internazionale. La squadra cipriota ha scelto di ignorare i suoi alti e bassi, ma sembra essere in una fase di crescita. La Moldova, invece, cerca di migliorare la sua posizione nel calcio europeo, ma questa sconfitta potrebbe essere un passo indietro. La prossima partita sarà cruciale per entrambe le squadre e sarà interessante vedere come si presenteranno in campo. La domanda è: chi pagherà il conto — e la risposta, come sempre, non è Palazzo Chigi.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Davide Longo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-30T22:43:46.894867+00:00\",\n  \"dateModified\": \"2026-03-30T22:43:46.894867+00:00\",\n  \"url\": \"https://lentemattutina.it/sport/b2b1fe7cc3af9429\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/sport/b2b1fe7cc3af9429\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1712168483326-545d831e4673?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxDaXBybyUyMHZzJTIwTW9sZG92YSUyMGNhbGNpb3xlbnwwfDB8fHwxNzc0OTEwNjI2fDA&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"ERDi UĞURLU\"\n  }\n}",
+  "priority": 5,
+  "source": "Sky Sport",
+  "source_type": "competitor",
+  "original_url": "https://sport.sky.it/calcio/mondiali/video/2026/03/30/cipro-moldova-3-2-gol-e-highlights-1086648",
+  "related": [
+    {
+      "title": "Calcio: Cipro vince 3-2",
+      "url": "/sport/calcio-cipro-vince-3-2-827346aafd26f491",
+      "id": "827346aafd26f491",
+      "image_url": "https://images.unsplash.com/photo-1634114441919-7636abb21cae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxzb2NjZXIlMjBiYWxsJTIwZ29hbHxlbnwwfDB8fHwxNzc0OTEwNjIyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Calcio: Montella guida Turchia",
+      "url": "/sport/calcio-montella-guida-turchia-40336afc724bce8c",
+      "id": "40336afc724bce8c",
+      "image_url": "https://images.unsplash.com/photo-1664673894940-4accd819ccf6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxzb2NjZXIlMjBiYWxsJTIwdHVya2V5fGVufDB8MHx8fDE3NzQ5MTA2MjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Calcio: Italia in campo a Zenica per la finale playoff",
+      "url": "/sport/calcio-italia-in-campo-a-zenica-per-la-finale-play-c2fab1eb9e416ee9",
+      "id": "c2fab1eb9e416ee9",
+      "image_url": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxzb2NjZXIlMjBzdGFkaXVtfGVufDB8MHx8fDE3NzQ5MTA0NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    }
+  ]
+}
