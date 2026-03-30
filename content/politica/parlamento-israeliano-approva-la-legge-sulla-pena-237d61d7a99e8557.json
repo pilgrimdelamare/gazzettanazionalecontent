@@ -1,0 +1,57 @@
+{
+  "id": "237d61d7a99e8557",
+  "slug": "parlamento-israeliano-approva-la-legge-sulla-pena-237d61d7a99e8557",
+  "title": "Parlamento israeliano approva la legge sulla pena di morte per terrorismo",
+  "titles": [
+    "Parlamento israeliano approva la legge sulla pena di morte per terrorismo",
+    "Parlamento israeliano approva la legge sulla pena di morte per terrorismo",
+    "Parlamento israeliano approva la legge sulla pena di morte per terrorismo"
+  ],
+  "title_winner": null,
+  "section": "politica",
+  "occhiello": "Parlamento israeliano approva la legge sulla pena di morte per terrorismo",
+  "lead": "Il Parlamento israeliano ha approvato la legge che introduce la pena di morte per terrorismo, con 62 voti a favore e 48 contrari, in lettura finale La norma prevede la condanna capitale per \"chi causa intenzionalmente la morte di una persona nell'ambito di un atto di terrorismo, con l'intento di negare l'esistenza dello Stato di Israele\".",
+  "corpo1": "Il Parlamento israeliano ha approvato la legge che introduce la pena di morte per terrorismo, con 62 voti a favore e 48 contrari. La Knesset ha dato il suo ok in lettura finale e la norma è passata. Il ministro della Sicurezza nazionale, Itamar Ben Gvir, ha dichiarato: \"Abbiamo fatto la storia\".",
+  "corpo2": "La legge sulla pena di morte per terrorismo rappresenta un passo cruciale nella politica di sicurezza israeliana Sui prigionieri palestinesi accusati di terrorismo, la legge avrà un impatto potenzialmente letale Resta da vedere se la comunità internazionale riuscirà a far rispettare i diritti umani",
+  "journalist": {
+    "id": "elena_russo_01",
+    "firma": "Elena Russo",
+    "sezione": "politica"
+  },
+  "published_at": "2026-03-30T22:48:20.434055+00:00",
+  "image": {
+    "type": "flickr",
+    "url": "https://live.staticflickr.com/65535/55177240922_5c9cf57cd8_b.jpg",
+    "source": "Flickr",
+    "credit": "senadores.morena",
+    "license": "CC"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Parlamento israeliano approva la legge sulla pena di morte per terrorismo\",\n  \"description\": \"Il Parlamento israeliano ha approvato la legge che introduce la pena di morte per terrorismo, con 62 voti a favore e 48 contrari, in lettura finale La norma prevede la condanna capitale per \\\"chi causa intenzionalmente la morte di una persona nell'ambito di un atto di terrorismo, con l'intento di neg\",\n  \"articleBody\": \"Il Parlamento israeliano ha approvato la legge che introduce la pena di morte per terrorismo, con 62 voti a favore e 48 contrari, in lettura finale La norma prevede la condanna capitale per \\\"chi causa intenzionalmente la morte di una persona nell'ambito di un atto di terrorismo, con l'intento di negare l'esistenza dello Stato di Israele\\\". Il Parlamento israeliano ha approvato la legge che introduce la pena di morte per terrorismo, con 62 voti a favore e 48 contrari. La Knesset ha dato il suo ok in lettura finale e la norma è passata. Il ministro della Sicurezza nazionale, Itamar Ben Gvir, ha dichiarato: \\\"Abbiamo fatto la storia\\\". La legge sulla pena di morte per terrorismo rappresenta un passo cruciale nella politica di sicurezza israeliana Sui prigionieri palestinesi accusati di terrorismo, la legge avrà un impatto potenzialmente letale Resta da vedere se la comunità internazionale riuscirà a far rispettare i diritti umani\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Elena Russo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-30T22:48:20.434055+00:00\",\n  \"dateModified\": \"2026-03-30T22:48:20.434055+00:00\",\n  \"url\": \"https://lentemattutina.it/politica/237d61d7a99e8557\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/politica/237d61d7a99e8557\"\n  },\n  \"articleSection\": \"Politica\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://live.staticflickr.com/65535/55177240922_5c9cf57cd8_b.jpg\",\n    \"creditText\": \"senadores.morena\"\n  }\n}",
+  "priority": 4,
+  "source": "Redazione",
+  "source_type": "competitor_gap",
+  "original_url": "https://www.ilfattoquotidiano.it/2026/03/30/pena-morte-israele-terrorismo-approvazione-notizie/8340570/",
+  "related": [
+    {
+      "title": "Governo incontra Confindustria il 1° aprile",
+      "url": "/politica/il-governo-convoca-confindustria-al-mimit-per-il-1-9c15f81fa2b9a909",
+      "id": "9c15f81fa2b9a909",
+      "image_url": "https://live.staticflickr.com/65535/55175947777_96b849d96b_b.jpg",
+      "image_type": "flickr"
+    },
+    {
+      "title": "Chiorino lascia la giunta",
+      "url": "/politica/chiorino-lascia-la-giunta-3885e3709b9a904f",
+      "id": "3885e3709b9a904f",
+      "image_url": "https://live.staticflickr.com/65535/55158000203_25abc4cc71_b.jpg",
+      "image_type": "flickr"
+    },
+    {
+      "title": "Cardinale Pizzaballa bloccato a Gerusalemme: niente messa",
+      "url": "/politica/cardinale-pizzaballa-bloccato-a-gerusalemme-niente-a8e100b643a08774",
+      "id": "a8e100b643a08774",
+      "image_url": "https://live.staticflickr.com/65535/55052124411_b1f52539ac_b.jpg",
+      "image_type": "flickr"
+    }
+  ]
+}
