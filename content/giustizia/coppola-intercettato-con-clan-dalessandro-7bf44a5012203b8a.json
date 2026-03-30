@@ -1,0 +1,57 @@
+{
+  "id": "7bf44a5012203b8a",
+  "slug": "coppola-intercettato-con-clan-dalessandro-7bf44a5012203b8a",
+  "title": "Coppola intercettato con clan D'Alessandro",
+  "titles": [
+    "Coppola intercettato con clan D'Alessandro",
+    "5 telefonate compromettenti a Sorrento",
+    "Elezione a rischio per Coppola"
+  ],
+  "title_winner": null,
+  "section": "giustizia",
+  "occhiello": "SISTEMA SORRENTO, INTERCETTAZIONI A CARICO DELL'EX SINDACO",
+  "lead": "Massimo Coppola, ex sindaco di Sorrento, è stato intercettato dalla commissione prefettizia d'accesso mentre parlava con un intermediario della security, vicino al clan D'Alessandro. Le telefonate, avvenute tra il 25 dicembre 2019 e il 25 marzo 2020, sono state acquisite agli atti dell'inchiesta sulle presunte infiltrazioni della camorra nelle decisioni politiche e amministrative del Comune di Sorrento.",
+  "corpo1": "La commissione prefettizia d'accesso ha acquisito le trascrizioni di cinque telefonate avvenute tra l'ex sindaco Massimo Coppola e un intermediario della security nei bar e nei locali. Le intercettazioni sono state effettuate nell'ambito di un'inchiesta della Dda di Napoli sulle infiltrazioni del clan D'Alessandro nei locali notturni. Coppola, all'epoca assessore uscente, parlava con un indagato anche della sua futura candidatura a primo cittadino. L'intermediario, un ras dei buttafuori condannato a 11 anni, chiedeva a Coppola di prepararsi alla \"battaglia\". La commissione ha anche audito l'ex vice sindaco e l'ex vice comandante dei vigili urbani. Le elezioni comunali a Sorrento sono a rischio a causa di queste nuove rivelazioni.",
+  "corpo2": "Massimo Coppola è stato sindaco di Sorrento e ha ricoperto anche il ruolo di assessore. La sua posizione è ora al centro dell'attenzione a causa delle intercettazioni che lo vedono coinvolto con esponenti della camorra. Il clan D'Alessandro è noto per le sue infiltrazioni nei locali notturni e nella vita notturna di Sorrento. La commissione prefettizia d'accesso sta completando la sua relazione e gli 007 della Prefettura stanno lavorando per stabilire l'entità delle infiltrazioni e le eventuali responsabilità. La domanda che ora si pone è: come potranno essere garantite la trasparenza e la legalità nelle prossime elezioni comunali?",
+  "journalist": {
+    "id": "carlo_amato_01",
+    "firma": "Carlo Amato",
+    "sezione": "giustizia"
+  },
+  "published_at": "2026-03-30T22:48:08.703511+00:00",
+  "image": {
+    "type": "unsplash",
+    "url": "https://images.unsplash.com/photo-1640200330428-9fe2ab926de1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxjb21taXNzaW9uZSUyMHByZWZldHRpemlhJTIwZCUyN2FjY2Vzc298ZW58MHwwfHx8MTc3NDkxMDg4OHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "source": "Unsplash",
+    "credit": "Botond Czapp",
+    "license": "Unsplash License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Coppola intercettato con clan D'Alessandro\",\n  \"description\": \"Massimo Coppola, ex sindaco di Sorrento, è stato intercettato dalla commissione prefettizia d'accesso mentre parlava con un intermediario della security, vicino al clan D'Alessandro. Le telefonate, avvenute tra il 25 dicembre 2019 e il 25 marzo 2020, sono state acquisite agli atti dell'inchiesta sul\",\n  \"articleBody\": \"Massimo Coppola, ex sindaco di Sorrento, è stato intercettato dalla commissione prefettizia d'accesso mentre parlava con un intermediario della security, vicino al clan D'Alessandro. Le telefonate, avvenute tra il 25 dicembre 2019 e il 25 marzo 2020, sono state acquisite agli atti dell'inchiesta sulle presunte infiltrazioni della camorra nelle decisioni politiche e amministrative del Comune di Sorrento. La commissione prefettizia d'accesso ha acquisito le trascrizioni di cinque telefonate avvenute tra l'ex sindaco Massimo Coppola e un intermediario della security nei bar e nei locali. Le intercettazioni sono state effettuate nell'ambito di un'inchiesta della Dda di Napoli sulle infiltrazioni del clan D'Alessandro nei locali notturni. Coppola, all'epoca assessore uscente, parlava con un indagato anche della sua futura candidatura a primo cittadino. L'intermediario, un ras dei buttafuori condannato a 11 anni, chiedeva a Coppola di prepararsi alla \\\"battaglia\\\". La commissione ha anche audito l'ex vice sindaco e l'ex vice comandante dei vigili urbani. Le elezioni comunali a Sorrento sono a rischio a causa di queste nuove rivelazioni. Massimo Coppola è stato sindaco di Sorrento e ha ricoperto anche il ruolo di assessore. La sua posizione è ora al centro dell'attenzione a causa delle intercettazioni che lo vedono coinvolto con esponenti della camorra. Il clan D'Alessandro è noto per le sue infiltrazioni nei locali notturni e nella vita notturna di Sorrento. La commissione prefettizia d'accesso sta completando la sua relazione e gli 007 della Prefettura stanno lavorando per stabilire l'entità delle infiltrazioni e le eventuali responsabilità. La domanda che ora si pone è: come potranno essere garantite la trasparenza e la legalità nelle prossime elezioni comunali?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Carlo Amato\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-30T22:48:08.703511+00:00\",\n  \"dateModified\": \"2026-03-30T22:48:08.703511+00:00\",\n  \"url\": \"https://lentemattutina.it/giustizia/7bf44a5012203b8a\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/giustizia/7bf44a5012203b8a\"\n  },\n  \"articleSection\": \"Giustizia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1640200330428-9fe2ab926de1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxjb21taXNzaW9uZSUyMHByZWZldHRpemlhJTIwZCUyN2FjY2Vzc298ZW58MHwwfHx8MTc3NDkxMDg4OHww&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Botond Czapp\"\n  }\n}",
+  "priority": 4,
+  "source": "Redazione",
+  "source_type": "competitor_gap",
+  "original_url": "https://www.ilfattoquotidiano.it/2026/03/30/sistema-sorrento-telefonate-coppola-clan-dalessandro-notizie/8338795/",
+  "related": [
+    {
+      "title": "Bomba sotto l'auto di Sigfrido Ranucci",
+      "url": "/giustizia/bomba-sotto-lauto-di-sigfrido-ranucci-b70e49f3746cbc64",
+      "id": "b70e49f3746cbc64",
+      "image_url": "https://images.unsplash.com/photo-1739488388694-629754f0b953?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxpdGFsaWFuJTIwcG9saWNlJTIwaW52ZXN0aWdhdGlvbnxlbnwwfDB8fHwxNzc0OTEwODc2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Arera: +8,1% bollette elettriche",
+      "url": "/economia/arera-81-bollette-elettriche-f78be268451f5cbf",
+      "id": "f78be268451f5cbf",
+      "image_url": "https://images.unsplash.com/photo-1647314853926-9def39bb32c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxib2xsZXR0ZSUyMGVsZXR0cmljaGUlMjBhdW1lbnRvfGVufDB8MHx8fDE3NzQ5MTA3OTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "3 caschi blu uccisi in Libano",
+      "url": "/esteri/3-caschi-blu-uccisi-in-libano-39e2c91e2e5ba2da",
+      "id": "39e2c91e2e5ba2da",
+      "image_url": "https://images.unsplash.com/photo-1763656445564-6fef9a9a9443?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxwZWFjZWtlZXBpbmclMjBzb2xkaWVyc3xlbnwwfDB8fHwxNzc0OTEwNzg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    }
+  ]
+}
