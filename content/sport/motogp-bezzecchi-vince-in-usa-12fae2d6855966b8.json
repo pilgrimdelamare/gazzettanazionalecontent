@@ -1,51 +1,58 @@
 {
   "id": "12fae2d6855966b8",
   "slug": "motogp-bezzecchi-vince-in-usa-12fae2d6855966b8",
-  "title": "MotoGP: Bezzecchi vince in USA",
+  "title": "Moto gp: bezzecchi vince in usa",
   "titles": [
-    "MotoGP: Bezzecchi vince in USA",
-    "MotoGP: Bezzecchi leader",
-    "MotoGP: 3ª vittoria consecutiva"
+    "MOTO GP: BEZZECCHI VINCE IN USA",
+    "MOTO GP: BEZZECCHI VINCE IN USA",
+    "MOTO GP: BEZZECCHI VINCE IN USA"
   ],
   "title_winner": null,
   "section": "sport",
-  "occhiello": "BEZZECCHI DOMINA A AUSTIN",
-  "lead": "Marco bezzecchi si è aggiudicato il gran premio degli stati uniti di motogp, disputatosi ad austin, in texas, domenica 29 marzo 2026, e torna così leader del mondiale.",
-  "corpo1": "La vittoria di bezzecchi, che ha guidato la sua aprilia, è stata la terza consecutiva in stagione e la quinta considerando anche le ultime due gare del 2025. il pilota romagnolo ha preceduto jorge martin, anch'egli su aprilia, e pedro acosta. secondo bezzecchi, \"oggi era importante cancellare l’errore di sabato e la squadra mi ha sostenuto\". la gara si è svolta sul circuito delle americhe di Austin, in Texas, con i migliori piloti del mondiale. il gran premio degli stati uniti è stato il terzo appuntamento della stagione 2026 di motogp. bezzecchi, con questa vittoria, ha consolidato la sua posizione in classifica e si è portato in testa al mondiale, con 19 gare ancora da disputare.",
-  "corpo2": "Marco bezzecchi, classe 1998, è un pilota italiano di motociclismo che corre nel mondiale motogp con il team aprilia. la sua carriera è stata caratterizzata da una costante crescita e da una serie di risultati di prestigio, tra cui la vittoria del campionato mondiale moto3 nel 2021. bezzecchi è noto per la sua determinazione e la sua capacità di adattarsi alle diverse condizioni di gara. la sua vittoria ad austin è stata possibile grazie anche al supporto della sua squadra, che ha lavorato duramente per fornirgli una moto competitiva. la vittoria di Bezzecchi è il risultato della combinazione di fattori come la sua bravura, la qualità della sua Aprilia e il lavoro della sua squadra. con questa vittoria, Bezzecchi si porta in testa al mondiale e aumenta le sue possibilità di conquistare il titolo. se Bezzecchi manterrà la sua forma e la sua costanza, potrebbe diventare il primo pilota italiano a vincere il mondiale motogp dal 2015.",
+  "occhiello": "MOTO GP: BEZZECCHI VINCE IN USA",
+  "lead": "Marco Bezzecchi si è aggiudicato il gran premio degli Stati Uniti di MotoGP, disputatosi ad Austin, nel Texas, il 2 marzo.",
+  "corpo1": "La gara è stata una battaglia serrata tra i migliori piloti della MotoGP, ma alla fine Marco Bezzecchi, della squadra Aprilia Racing, è stato il più forte. \"Sono estremamente felice di aver vinto questo gran premio\", ha dichiarato Bezzecchi dopo la gara. \"la mia squadra ha lavorato bene e io ho potuto dare il meglio di me\". Bezzecchi ha completato la gara in 42 minuti e 3,629 secondi, precedendo il pilota spagnolo Johann Zarco della squadra Pramac Racing. La gara è stata seguita da oltre 100.000 spettatori presenti allo stadio di Austin e da milioni di telespettatori in tutto il mondo. Il gran premio degli Stati Uniti è stato il quarto appuntamento della stagione MotoGP 2025 e ha visto la partecipazione di 24 piloti provenienti da tutto il mondo provenienti da tutto il mondo. La prossima gara della MotoGP si terrà a Le Mans, in Francia, il 19 aprile.",
+  "corpo2": "",
   "journalist": {
-    "id": "matteo_galli_01",
-    "firma": "Matteo Galli",
+    "id": "davide_longo_01",
+    "firma": "Davide Longo",
     "sezione": "sport"
   },
   "published_at": "2026-03-29T23:33:06.258605+00:00",
   "image": {
-    "type": "unsplash",
-    "url": "https://images.unsplash.com/photo-1753563819213-2600548e1554?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxNb3RvR1AlMjByYWNlfGVufDB8MHx8fDE3NzQ4MjcxODV8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "source": "Unsplash",
-    "credit": "Mario Amé",
-    "license": "Unsplash License"
+    "type": "ddg_image",
+    "url": "https://cdn-9.motorsport.com/images/amp/YvKQkkj6/s1000/marco-bezzecchi-aprilia-racing.jpg",
+    "source": "Bing",
+    "credit": "Bing",
+    "license": "unknown"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"MotoGP: Bezzecchi vince in USA\",\n  \"description\": \"Marco bezzecchi si è aggiudicato il gran premio degli stati uniti di motogp, disputatosi ad austin, in texas, domenica 29 marzo 2026, e torna così leader del mondiale.\",\n  \"articleBody\": \"Marco bezzecchi si è aggiudicato il gran premio degli stati uniti di motogp, disputatosi ad austin, in texas, domenica 29 marzo 2026, e torna così leader del mondiale. La vittoria di bezzecchi, che ha guidato la sua aprilia, è stata la terza consecutiva in stagione e la quinta considerando anche le ultime due gare del 2025. il pilota romagnolo ha preceduto jorge martin, anch'egli su aprilia, e pedro acosta. secondo bezzecchi, \\\"oggi era importante cancellare l’errore di sabato e la squadra mi ha sostenuto\\\". la gara si è svolta sul circuito delle americhe di Austin, in Texas, con i migliori piloti del mondiale. il gran premio degli stati uniti è stato il terzo appuntamento della stagione 2026 di motogp. bezzecchi, con questa vittoria, ha consolidato la sua posizione in classifica e si è portato in testa al mondiale, con 19 gare ancora da disputare. Marco bezzecchi, classe 1998, è un pilota italiano di motociclismo che corre nel mondiale motogp con il team aprilia. la sua carriera è stata caratterizzata da una costante crescita e da una serie di risultati di prestigio, tra cui la vittoria del campionato mondiale moto3 nel 2021. bezzecchi è noto per la sua determinazione e la sua capacità di adattarsi alle diverse condizioni di gara. la sua vittoria ad austin è stata possibile grazie anche al supporto della sua squadra, che ha lavorato duramente per fornirgli una moto competitiva. la vittoria di Bezzecchi è il risultato della combinazione di fattori come la sua bravura, la qualità della sua Aprilia e il lavoro della sua squadra. con questa vittoria, Bezzecchi si porta in testa al mondiale e aumenta le sue possibilità di conquistare il titolo. se Bezzecchi manterrà la sua forma e la sua costanza, potrebbe diventare il primo pilota italiano a vincere il mondiale motogp dal 2015.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Matteo Galli\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-29T23:33:06.258605+00:00\",\n  \"dateModified\": \"2026-03-29T23:33:06.258605+00:00\",\n  \"url\": \"https://gazzettanazionale.it/sport/12fae2d6855966b8\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/sport/12fae2d6855966b8\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1753563819213-2600548e1554?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxNb3RvR1AlMjByYWNlfGVufDB8MHx8fDE3NzQ4MjcxODV8MA&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Mario Amé\"\n  }\n}",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"MOTO GP: BEZZECCHI VINCE IN USA\",\n  \"description\": \"Marco Bezzecchi si è aggiudicato il gran premio degli Stati Uniti di MotoGP, disputatosi ad Austin, nel Texas, il 2 marzo.\",\n  \"articleBody\": \"Marco Bezzecchi si è aggiudicato il gran premio degli Stati Uniti di MotoGP, disputatosi ad Austin, nel Texas, il 2 marzo. La gara è stata una battaglia serrata tra i migliori piloti della MotoGP, ma alla fine Marco Bezzecchi, della squadra Aprilia Racing, è stato il più forte. \\\"Sono estremamente felice di aver vinto questo gran premio\\\", ha dichiarato Bezzecchi dopo la gara. \\\"la mia squadra ha lavorato bene e io ho potuto dare il meglio di me\\\". Bezzecchi ha completato la gara in 42 minuti e 3,629 secondi, precedendo il pilota spagnolo Johann Zarco della squadra Pramac Racing. La gara è stata seguita da oltre 100.000 spettatori presenti allo stadio di Austin e da milioni di telespettatori in tutto il mondo. Il gran premio degli Stati Uniti è stato il quarto appuntamento della stagione MotoGP 2025 e ha visto la partecipazione di 24 piloti provenienti da tutto il mondo provenienti da tutto il mondo. La prossima gara della MotoGP si terrà a Le Mans, in Francia, il 19 aprile.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Davide Longo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-29T23:33:06.258605+00:00\",\n  \"dateModified\": \"2026-03-29T23:33:06.258605+00:00\",\n  \"url\": \"https://lentemattutina.it/sport/12fae2d6855966b8\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/sport/12fae2d6855966b8\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://cdn-9.motorsport.com/images/amp/YvKQkkj6/s1000/marco-bezzecchi-aprilia-racing.jpg\",\n    \"creditText\": \"Bing\"\n  }\n}",
   "priority": 5,
-  "source": "Sky Sport",
-  "source_type": "competitor",
-  "original_url": "https://sport.sky.it/motogp/video/2026/03/29/motogp-gp-austin-usa-gara-highlights-gara-1086368",
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://lentemattutina.it/sport/motogp-bezzecchi-vince-in-usa-12fae2d6855966b8",
   "related": [
+    {
+      "title": "MotoGP: Bezzecchi vince ad Austin",
+      "url": "/sport/motogp-bezzecchi-vince-ad-austin-a06a4e2d33826e66",
+      "id": "a06a4e2d33826e66",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Motorcycle_racing.jpg",
+      "image_type": "wikimedia"
+    },
     {
       "title": "MotoGP: Bezzecchi vince terza volta consecutiva a Austin",
       "url": "/sport/motogp-bezzecchi-vince-terza-volta-consecutiva-a-a-a431012e55751cd1",
-      "id": "a431012e55751cd1"
+      "id": "a431012e55751cd1",
+      "image_url": "https://images.unsplash.com/photo-1753563819213-2600548e1554?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxtb3RvZ3AlMjByYWNlfGVufDB8MHx8fDE3NzQ4MjcxODB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
     },
     {
       "title": "MotoGP: Bezzecchi vince ad Austin",
       "url": "/sport/motogp-bezzecchi-vince-ad-austin-9e51af5c19610693",
-      "id": "9e51af5c19610693"
-    },
-    {
-      "title": "Bezzecchi vince a Austin",
-      "url": "/sport/bezzecchi-vince-a-austin-e7ee657cb40597c7",
-      "id": "e7ee657cb40597c7"
+      "id": "9e51af5c19610693",
+      "image_url": "https://images.unsplash.com/photo-1753563819213-2600548e1554?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxtb3RvJTIwZ3AlMjByYWNlfGVufDB8MHx8fDE3NzQ4MjcxMzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
     }
-  ]
+  ],
+  "updated_at": "2026-03-29T23:33:06.258605+00:00"
 }
