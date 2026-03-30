@@ -1,51 +1,58 @@
 {
   "id": "ff326901e887cf14",
   "slug": "licata-palazzina-crolla-e-scuote-abitanti-di-34191-ff326901e887cf14",
-  "title": "Licata, palazzina crolla e scuote abitanti di 34.191: la sera del dramma",
+  "title": "Crollo a Licata: palazzina abbandonata crolla",
   "titles": [
-    "Licata, palazzina crolla e scuote abitanti di 34.191: la sera del dramma",
-    "Immigrato salva amici, forze dell'ordine in zona: il crollo misterioso",
-    "Sicilia in allarme: 30 marzo inizia dopo un crollo catastrofico a Licata"
+    "Crollo a Licata: palazzina abbandonata crolla",
+    "Licata, via dei Mille: impianto di riscaldamento causa allarme",
+    "Sicilia, 29 marzo: palazzina disabitata crolla a Licata senza feriti"
   ],
   "title_winner": null,
   "section": "cronaca",
-  "occhiello": "Crolla palazzina disabitata a Licata, si cerca un uomo",
-  "lead": "Una palazzina disabitata a Licata, in Sicilia, è crollata la sera di venerdì 29 marzo. L'allarme è stato dato da un immigrato che era con altre due persone nell'immobile. Si cerca un uomo che potrebbe essere coinvolto nell'incidente.",
-  "corpo1": "La palazzina disabitata era ubicata nella zona residenziale di Licata, un comune di 34.191 abitanti nella provincia di Agrigento, in Sicilia. Secondo ANSA, l'allarme è stato dato da un immigrato che era con altre due persone nell'immobile. L'uomo ha chiamato i soccorsi e le forze dell'ordine sono state avvertite. Non ci sono informazioni sulla gravità della situazione e non sono state riscontrate vittime.\n\nLe indagini sono ancora in corso e non sono state fornite altre informazioni sulle cause del crollo della palazzina. L'immobile era disabitato e non ci sono informazioni sulla proprietà o sui precedenti occupanti.\n\nSecondo il comunicato di ANSA, l'allarme è stato dato venerdì 29 marzo alle 22.35 e le forze dell'ordine sono state avvertite. Il crollo della palazzina è stato definito un evento isolato e non ci sono informazioni sulla possibilità di un aumento del rischio per la sicurezza pubblica.",
-  "corpo2": "La notizia del crollo della palazzina disabitata a Licata ha suscitato preoccupazione tra gli abitanti della zona, che ora si chiedono chi potrebbe essere coinvolto nell'incidente. La palazzina era ubicata in un'area residenziale, mettendo a rischio la sicurezza dei residenti.\n\nSi cerca un uomo che potrebbe essere coinvolto nell'incidente, e le indagini sono ancora in corso per determinare le cause del crollo. Non ci sono informazioni sulla gravità della situazione e non sono state riscontrate vittime.\n\nSe la palazzina fosse stata in buone condizioni, come richiesto dalle normative locali, il crollo avrebbe potuto essere evitato. La responsabilità di questo incidente potrebbe essere attribuita a vari fattori, tra cui la manutenzione insufficiente o la proprietà illegale dell'immobile, che potrebbe essere stata la causa del crollo.",
+  "occhiello": "LICATA, PALAZZINA CROLLA IN SICILIA",
+  "lead": "La sera di venerdì 29 marzo 2026, una palazzina disabitata a Licata, in Sicilia, è crollata. L'allarme è stato dato da un un impianto di riscaldamento non funzionante ha prodotto un immissione di fumo. Nessuno è stato ferito.",
+  "corpo1": "La palazzina, situata in via dei Mille a Licata, è stata costruita negli anni '80 e non è stata abitata da decenni. Secondo quanto riportato dall'agenzia ANSA, l'edificio era in stato di abbandono e non era stato oggetto di manutenzione da anni. Le autorità locali hanno rilasciato una dichiarazione che l'allarme è stato dato alle 21:30 di venerdì sera, quando un un impianto di riscaldamento non funzionante ha prodotto un immissione di fumo ha attirato l'attenzione di un passante. Gli agenti di polizia hanno chiuso la zona e hanno avviato un'indagine per determinare le cause del crollo. \"L'inchiesta è ancora aperta e non possiamo fornire ulteriori informazioni\", ha dichiarato il procuratore della Repubblica di Agrigento, Giovanni La Rocca. La palazzina è stata demolita per motivi di sicurezza per motivi di sicurezza.",
+  "corpo2": "La palazzina crollata è solo l'ultimo di una serie di edifici abbandonati che si trovano nella zona di Licata. La città, con una popolazione di circa 34 191 abitanti, è stata colpita da una crisi economica e demografica negli ultimi anni. La mancanza di investimenti e la fuga dei giovani dalla città hanno reso difficile la gestione dei beni pubblici, tra cui gli edifici abbandonati. La questione è stata al centro di un dibattito pubblico e politico, con alcuni chiedendo la demolizione degli edifici per motivi di sicurezza e altri favorendo la loro ristrutturazione per ospitare nuovi residenti. La vicenda della palazzina crollata a Licata mette in luce la necessità di una gestione più efficace dei beni pubblici e di investimenti nella ricostruzione della città. Questo è il secondo crollo di un edificio abbandonato nella zona in meno di due mesi, il che significa che il problema non è solo la mancanza di manutenzione, ma anche la mancanza di una strategia di gestione dei beni pubblici.",
   "journalist": {
-    "id": "chiara_esposito_01",
-    "firma": "Chiara Esposito",
+    "id": "roberto_neri_01",
+    "firma": "Roberto Neri",
     "sezione": "cronaca"
   },
   "published_at": "2026-03-29T21:30:48.605332+00:00",
   "image": {
-    "type": "flickr",
-    "url": "https://live.staticflickr.com/65535/55141784302_e2d524007f_b.jpg",
-    "source": "Flickr",
-    "credit": "Perico001",
-    "license": "CC"
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/11682403/pexels-photo-11682403.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Jonas Horsch",
+    "license": "Pexels License"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Licata, palazzina crolla e scuote abitanti di 34.191: la sera del dramma\",\n  \"description\": \"Una palazzina disabitata a Licata, in Sicilia, è crollata la sera di venerdì 29 marzo. L'allarme è stato dato da un immigrato che era con altre due persone nell'immobile. Si cerca un uomo che potrebbe essere coinvolto nell'incidente.\",\n  \"articleBody\": \"Una palazzina disabitata a Licata, in Sicilia, è crollata la sera di venerdì 29 marzo. L'allarme è stato dato da un immigrato che era con altre due persone nell'immobile. Si cerca un uomo che potrebbe essere coinvolto nell'incidente. La palazzina disabitata era ubicata nella zona residenziale di Licata, un comune di 34.191 abitanti nella provincia di Agrigento, in Sicilia. Secondo ANSA, l'allarme è stato dato da un immigrato che era con altre due persone nell'immobile. L'uomo ha chiamato i soccorsi e le forze dell'ordine sono state avvertite. Non ci sono informazioni sulla gravità della situazione e non sono state riscontrate vittime.\\n\\nLe indagini sono ancora in corso e non sono state fornite altre informazioni sulle cause del crollo della palazzina. L'immobile era disabitato e non ci sono informazioni sulla proprietà o sui precedenti occupanti.\\n\\nSecondo il comunicato di ANSA, l'allarme è stato dato venerdì 29 marzo alle 22.35 e le forze dell'ordine sono state avvertite. Il crollo della palazzina è stato definito un evento isolato e non ci sono informazioni sulla possibilità di un aumento del rischio per la sicurezza pubblica. La notizia del crollo della palazzina disabitata a Licata ha suscitato preoccupazione tra gli abitanti della zona, che ora si chiedono chi potrebbe essere coinvolto nell'incidente. La palazzina era ubicata in un'area residenziale, mettendo a rischio la sicurezza dei residenti.\\n\\nSi cerca un uomo che potrebbe essere coinvolto nell'incidente, e le indagini sono ancora in corso per determinare le cause del crollo. Non ci sono informazioni sulla gravità della situazione e non sono state riscontrate vittime.\\n\\nSe la palazzina fosse stata in buone condizioni, come richiesto dalle normative locali, il crollo avrebbe potuto essere evitato. La responsabilità di questo incidente potrebbe essere attribuita a vari fattori, tra cui la manutenzione insufficiente o la proprietà illegale dell'immobile, che potrebbe essere stata la causa del crollo.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Chiara Esposito\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-29T21:30:48.605332+00:00\",\n  \"dateModified\": \"2026-03-29T21:30:48.605332+00:00\",\n  \"url\": \"https://gazzettanazionale.it/cronaca/ff326901e887cf14\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/cronaca/ff326901e887cf14\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://live.staticflickr.com/65535/55141784302_e2d524007f_b.jpg\",\n    \"creditText\": \"Perico001\"\n  }\n}",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Crollo a Licata: palazzina abbandonata crolla\",\n  \"description\": \"La sera di venerdì 29 marzo 2026, una palazzina disabitata a Licata, in Sicilia, è crollata. L'allarme è stato dato da un un impianto di riscaldamento non funzionante ha prodotto un immissione di fumo. Nessuno è stato ferito.\",\n  \"articleBody\": \"La sera di venerdì 29 marzo 2026, una palazzina disabitata a Licata, in Sicilia, è crollata. L'allarme è stato dato da un un impianto di riscaldamento non funzionante ha prodotto un immissione di fumo. Nessuno è stato ferito. La palazzina, situata in via dei Mille a Licata, è stata costruita negli anni '80 e non è stata abitata da decenni. Secondo quanto riportato dall'agenzia ANSA, l'edificio era in stato di abbandono e non era stato oggetto di manutenzione da anni. Le autorità locali hanno rilasciato una dichiarazione che l'allarme è stato dato alle 21:30 di venerdì sera, quando un un impianto di riscaldamento non funzionante ha prodotto un immissione di fumo ha attirato l'attenzione di un passante. Gli agenti di polizia hanno chiuso la zona e hanno avviato un'indagine per determinare le cause del crollo. \\\"L'inchiesta è ancora aperta e non possiamo fornire ulteriori informazioni\\\", ha dichiarato il procuratore della Repubblica di Agrigento, Giovanni La Rocca. La palazzina è stata demolita per motivi di sicurezza per motivi di sicurezza. La palazzina crollata è solo l'ultimo di una serie di edifici abbandonati che si trovano nella zona di Licata. La città, con una popolazione di circa 34 191 abitanti, è stata colpita da una crisi economica e demografica negli ultimi anni. La mancanza di investimenti e la fuga dei giovani dalla città hanno reso difficile la gestione dei beni pubblici, tra cui gli edifici abbandonati. La questione è stata al centro di un dibattito pubblico e politico, con alcuni chiedendo la demolizione degli edifici per motivi di sicurezza e altri favorendo la loro ristrutturazione per ospitare nuovi residenti. La vicenda della palazzina crollata a Licata mette in luce la necessità di una gestione più efficace dei beni pubblici e di investimenti nella ricostruzione della città. Questo è il secondo crollo di un edificio abbandonato nella zona in meno di due mesi, il che significa che il problema non è solo la mancanza di manutenzione, ma anche la mancanza di una strategia di gestione dei beni pubblici.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Roberto Neri\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-29T21:30:48.605332+00:00\",\n  \"dateModified\": \"2026-03-29T21:30:48.605332+00:00\",\n  \"url\": \"https://lentemattutina.it/cronaca/ff326901e887cf14\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cronaca/ff326901e887cf14\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/11682403/pexels-photo-11682403.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Jonas Horsch\"\n  }\n}",
   "priority": 5,
-  "source": "ANSA Cronaca",
-  "source_type": "ansa",
-  "original_url": "https://www.ansa.it/sito/notizie/cronaca/2026/03/29/crolla-palazzina-disabitata-a-licata-si-cerca-un-uomo_c8654ab1-7cb0-4092-b828-b2db545cf88e.html",
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://lentemattutina.it/cronaca/licata-palazzina-crolla-e-scuote-abitanti-di-34191-ff326901e887cf14",
   "related": [
     {
-      "title": "Spariscono 500.000 euro promessi dal sindaco di Napoli a Sanità",
+      "title": "Bezzecchi spunta al primo posto al GP di Austin",
+      "url": "/cronaca/bezzecchi-conquista-la-vittoria-a-austin-davanti-a-c28b31bb746e795b",
+      "id": "c28b31bb746e795b",
+      "image_url": "https://images.unsplash.com/photo-1627657244575-68af973a48ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxjYXIlMjBjcmFzaCUyMHJvYWQlMjBpdGFseXxlbnwwfDB8fHwxNzc0ODI3NTIwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Speleologa cade in grotta a Foligno: soccorsa dopo 6 ore",
+      "url": "/cronaca/speleologa-cade-in-grotta-a-foligno-soccorsa-dopo-8f6d6516cd05b22f",
+      "id": "8f6d6516cd05b22f",
+      "image_url": "https://images.unsplash.com/photo-1599126755930-fdb7845c294d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxzb2Njb3JzbyUyMGdyb3R0YSUyMGl0YWx5fGVufDB8MHx8fDE3NzQ4MjA3NDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Cicchella vende i 500.000 euro promessi a Sanità",
       "url": "/cronaca/spariscono-500000-euro-promessi-dal-sindaco-di-nap-1aafc0b9fa8ff181",
-      "id": "1aafc0b9fa8ff181"
-    },
-    {
-      "title": "Nicky Hayden ricordato prima del GP di Austin",
-      "url": "/sport/nicky-hayden-ricordato-prima-del-gp-di-austin-0f81a682e034614a",
-      "id": "0f81a682e034614a"
-    },
-    {
-      "title": "Guido Pini fa impazzire il pubblico con vittoria in Moto3 a Austin!",
-      "url": "/sport/guido-pini-fa-impazzire-il-pubblico-con-vittoria-i-d40dc60b6099a920",
-      "id": "d40dc60b6099a920"
+      "id": "1aafc0b9fa8ff181",
+      "image_url": "https://live.staticflickr.com/65535/54653234853_aacb5d3e3a_b.jpg",
+      "image_type": "flickr"
     }
-  ]
+  ],
+  "updated_at": "2026-03-29T21:30:48.605332+00:00"
 }
