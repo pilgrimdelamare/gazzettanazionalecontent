@@ -1,0 +1,57 @@
+{
+  "id": "a97b7794c5524847",
+  "slug": "trump-distruggeremo-impianti-elettrici-e-petrolife-a97b7794c5524847",
+  "title": "Trump: 'Distruggeremo impianti elettrici e petroliferi iraniani'",
+  "titles": [
+    "Trump: 'Distruggeremo impianti elettrici e petroliferi iraniani'",
+    "Iran sotto attacco: Trump minaccia guerra totale",
+    "Lo stretto di Hormuz nel mirino: escalation Usa-Iran"
+  ],
+  "title_winner": null,
+  "section": "esteri",
+  "occhiello": "TRUMP MINACCIA IRAN, MA INTENZIONI SCONOSCIUTE",
+  "lead": "Il presidente degli Stati Uniti Donald Trump ha minacciato di distruggere gli impianti elettrici e petroliferi iraniani se lo stretto di Hormuz non sarà riaperto, mentre l'Iran definisce le richieste Usa \"irrealistiche\". La guerra contro l'Iran sta entrando nel suo trentunesimo giorno.",
+  "corpo1": "social che sono stati compiuti \"grandi progressi\" nei negoziati, ha aggiunto che se un accordo non sarà raggiunto e lo stretto di Hormuz non sarà riaperto, \"distruggeremo completamente i loro impianti elettrici, i pozzi petroliferi e l'isola di Kharg\". L'isola di Kharg è una piattaforma logistica da cui l'Iran esporta la maggior parte del greggio. Trump ha anche dichiarato che lui quel greggio se lo vorrebbe prendere. L'Iran, invece, definisce",
+  "corpo2": "le richieste Usa \"irrealistiche\". La guerra contro l'Iran sta entrando nel suo trentunesimo giorno. Donald Trump è un politico conosciuto per le sue dichiarazioni estreme e le sue azioni impulsibili. La sua amministrazione ha già inflitto sanzioni all'Iran e ha condotto un attacco aereo contro gli impianti militari iraniani. Tuttavia, la sua minaccia di distruggere gli impianti elettrici e petroliferi iraniani è una mossa estrema che potrebbe avere conseguenze devastanti per l'economia mondiale. L'Iran è un paese ricco di petrolio e di gas naturale, e la sua economia è già stata colpita duramente dalle sanzioni Usa. Se Trump dovesse seguire la sua minaccia, potrebbe essere lo scatenamento di una crisi energetica globale. Se gli equilibri che ha descritto tengono, l'impatto sull'Italia nei prossimi sei-dodici mesi sarà un aumento dei prezzi del petrolio e un impatto economico negativo per il paese.",
+  "journalist": {
+    "id": "anna_colombo_01",
+    "firma": "Anna Colombo",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-03-30T23:20:06.181720+00:00",
+  "image": {
+    "type": "unsplash",
+    "url": "https://images.unsplash.com/photo-1763656444723-df1e90d6ad27?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxtaWxpdGFyeSUyMGZvcmNlc3xlbnwwfDB8fHwxNzc0OTEyODA2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "source": "Unsplash",
+    "credit": "Sushanta Rokka",
+    "license": "Unsplash License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Trump: 'Distruggeremo impianti elettrici e petroliferi iraniani'\",\n  \"description\": \"Il presidente degli Stati Uniti Donald Trump ha minacciato di distruggere gli impianti elettrici e petroliferi iraniani se lo stretto di Hormuz non sarà riaperto, mentre l'Iran definisce le richieste Usa \\\"irrealistiche\\\". La guerra contro l'Iran sta entrando nel suo trentunesimo giorno.\",\n  \"articleBody\": \"Il presidente degli Stati Uniti Donald Trump ha minacciato di distruggere gli impianti elettrici e petroliferi iraniani se lo stretto di Hormuz non sarà riaperto, mentre l'Iran definisce le richieste Usa \\\"irrealistiche\\\". La guerra contro l'Iran sta entrando nel suo trentunesimo giorno. social che sono stati compiuti \\\"grandi progressi\\\" nei negoziati, ha aggiunto che se un accordo non sarà raggiunto e lo stretto di Hormuz non sarà riaperto, \\\"distruggeremo completamente i loro impianti elettrici, i pozzi petroliferi e l'isola di Kharg\\\". L'isola di Kharg è una piattaforma logistica da cui l'Iran esporta la maggior parte del greggio. Trump ha anche dichiarato che lui quel greggio se lo vorrebbe prendere. L'Iran, invece, definisce le richieste Usa \\\"irrealistiche\\\". La guerra contro l'Iran sta entrando nel suo trentunesimo giorno. Donald Trump è un politico conosciuto per le sue dichiarazioni estreme e le sue azioni impulsibili. La sua amministrazione ha già inflitto sanzioni all'Iran e ha condotto un attacco aereo contro gli impianti militari iraniani. Tuttavia, la sua minaccia di distruggere gli impianti elettrici e petroliferi iraniani è una mossa estrema che potrebbe avere conseguenze devastanti per l'economia mondiale. L'Iran è un paese ricco di petrolio e di gas naturale, e la sua economia è già stata colpita duramente dalle sanzioni Usa. Se Trump dovesse seguire la sua minaccia, potrebbe essere lo scatenamento di una crisi energetica globale. Se gli equilibri che ha descritto tengono, l'impatto sull'Italia nei prossimi sei-dodici mesi sarà un aumento dei prezzi del petrolio e un impatto economico negativo per il paese.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-30T23:20:06.181720+00:00\",\n  \"dateModified\": \"2026-03-30T23:20:06.181720+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/a97b7794c5524847\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/a97b7794c5524847\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1763656444723-df1e90d6ad27?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxtaWxpdGFyeSUyMGZvcmNlc3xlbnwwfDB8fHwxNzc0OTEyODA2fDA&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Sushanta Rokka\"\n  }\n}",
+  "priority": 5,
+  "source": "Repubblica Esteri",
+  "source_type": "competitor",
+  "original_url": "https://www.repubblica.it/esteri/2026/03/31/news/trump_guerra_iran_hormuz_impianti_isola_kharg-425254290/?rss",
+  "related": [
+    {
+      "title": "Trump valuta operazione per estrarre 454 kg di uranio dall'Iran",
+      "url": "/esteri/trump-valuta-operazione-per-estrarre-454-kg-di-ura-bdc0a447b48b859c",
+      "id": "bdc0a447b48b859c",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Oil_fires%2C_gas_flares%2C_and_fires_in_the_Middle_East_%28MODIS_2016-10-17%29.jpg",
+      "image_type": "wikimedia"
+    },
+    {
+      "title": "Cory Booker sfida Trump con record di discorso",
+      "url": "/esteri/cory-booker-lamerica-democratica-e-fallita-17d9edbc6ac9d0db",
+      "id": "17d9edbc6ac9d0db",
+      "image_url": "https://live.staticflickr.com/65535/54522328087_c0142131e4_b.jpg",
+      "image_type": "flickr"
+    },
+    {
+      "title": "Fondi scomparsi dopo il voto, i fan di trump adorano un romanzo.",
+      "url": "/esteri/trump-e-i-suoi-seguaci-adorano-un-libro-che-descri-0f038bcadba99164",
+      "id": "0f038bcadba99164",
+      "image_url": "https://live.staticflickr.com/8422/7663231570_fa8a084dd1_b.jpg",
+      "image_type": "flickr"
+    }
+  ]
+}
