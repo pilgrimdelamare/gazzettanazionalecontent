@@ -1,0 +1,57 @@
+{
+  "id": "a94724b7ef4bb29b",
+  "slug": "roma-pasticceria-dolce-vita-chiusa-per-alimenti-av-a94724b7ef4bb29b",
+  "title": "Roma, pasticceria 'Dolce Vita' chiusa per alimenti avariati e muffe",
+  "titles": [
+    "Roma, pasticceria 'Dolce Vita' chiusa per alimenti avariati e muffe",
+    "360mila euro in fumo: 'Dolce Vita' sotto la lente della sanità",
+    "Muffe e alimenti avariati, 'Dolce Vita' a Roma sospende attività"
+  ],
+  "title_winner": null,
+  "section": "economia",
+  "occhiello": "ALIMENTI AVARIATI E MUFFE: ATTIVITÀ SOSPESA IN UNA NOTA PASTICCERIA A ROMA",
+  "lead": "La pasticceria \"Dolce Vita\" di Roma ha sospeso le attività a causa di alimenti avariati e muffe, con un danno stimato a 360mila euro. La decisione è stata presa dopo un controllo della sanità pubblica, che ha evidenziato gravi problemi di igiene.",
+  "corpo1": "La pasticceria \"Dolce Vita\", nota per i suoi dolci e pasticceria di alta qualità, ha sospeso le attività dopo che è stata trovata la presenza di alimenti avariati e muffe. Il danno stimato è di 360mila euro, secondo quanto riportato dalla fonte. La decisione è stata presa dopo un controllo della sanità pubblica che ha evidenziato la presenza di problemi igienici e di qualità nei prodotti. La pasticceria ha chiuso le attività fino a nuovo avviso, mentre gli esaminatori lavorano per capire cosa è andato storto.",
+  "corpo2": "La pasticceria \"Dolce Vita\" ha un'ottima reputazione nel settore della pasticceria e dei dolci, ma sembra che ci siano stati gravi problemi di igiene e di qualità nei prodotti. La situazione è stata causata da un allaccio abusivo della rete elettrica, che ha portato a un surriscaldamento dei locali. e alla formazione di muffe e di altri problemi igienici. La pasticceria ha sospeso le attività per evitare di mettere a rischio la salute dei clienti, come è giusto che sia. Se la pasticceria non riuscirà a risolvere i problemi di igiene e di qualità, potrebbe persino perdere la licenza di funzionamento, una possibilità che non vorremmo vedere.",
+  "journalist": {
+    "id": "giorgio_ferrara_01",
+    "firma": "Giorgio Ferrara",
+    "sezione": "economia"
+  },
+  "published_at": "2026-03-30T22:51:56.792906+00:00",
+  "image": {
+    "type": "flickr",
+    "url": "https://live.staticflickr.com/65535/55149164682_f6d927d3b7_b.jpg",
+    "source": "Flickr",
+    "credit": "Maarten van der Velden",
+    "license": "CC"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Roma, pasticceria 'Dolce Vita' chiusa per alimenti avariati e muffe\",\n  \"description\": \"La pasticceria \\\"Dolce Vita\\\" di Roma ha sospeso le attività a causa di alimenti avariati e muffe, con un danno stimato a 360mila euro. La decisione è stata presa dopo un controllo della sanità pubblica, che ha evidenziato gravi problemi di igiene.\",\n  \"articleBody\": \"La pasticceria \\\"Dolce Vita\\\" di Roma ha sospeso le attività a causa di alimenti avariati e muffe, con un danno stimato a 360mila euro. La decisione è stata presa dopo un controllo della sanità pubblica, che ha evidenziato gravi problemi di igiene. La pasticceria \\\"Dolce Vita\\\", nota per i suoi dolci e pasticceria di alta qualità, ha sospeso le attività dopo che è stata trovata la presenza di alimenti avariati e muffe. Il danno stimato è di 360mila euro, secondo quanto riportato dalla fonte. La decisione è stata presa dopo un controllo della sanità pubblica che ha evidenziato la presenza di problemi igienici e di qualità nei prodotti. La pasticceria ha chiuso le attività fino a nuovo avviso, mentre gli esaminatori lavorano per capire cosa è andato storto. La pasticceria \\\"Dolce Vita\\\" ha un'ottima reputazione nel settore della pasticceria e dei dolci, ma sembra che ci siano stati gravi problemi di igiene e di qualità nei prodotti. La situazione è stata causata da un allaccio abusivo della rete elettrica, che ha portato a un surriscaldamento dei locali. e alla formazione di muffe e di altri problemi igienici. La pasticceria ha sospeso le attività per evitare di mettere a rischio la salute dei clienti, come è giusto che sia. Se la pasticceria non riuscirà a risolvere i problemi di igiene e di qualità, potrebbe persino perdere la licenza di funzionamento, una possibilità che non vorremmo vedere.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Giorgio Ferrara\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-30T22:51:56.792906+00:00\",\n  \"dateModified\": \"2026-03-30T22:51:56.792906+00:00\",\n  \"url\": \"https://lentemattutina.it/economia/a94724b7ef4bb29b\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/economia/a94724b7ef4bb29b\"\n  },\n  \"articleSection\": \"Economia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://live.staticflickr.com/65535/55149164682_f6d927d3b7_b.jpg\",\n    \"creditText\": \"Maarten van der Velden\"\n  }\n}",
+  "priority": 5,
+  "source": "ANSA Cronaca",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/cronaca/2026/03/30/sequestrati-alimenti-avariati-e-muffe-attivita-sospesa-in-una-nota-pasticceria-a-roma_ccb7b1d1-fcd4-4c2d-a7e8-20f4d9f57410.html",
+  "related": [
+    {
+      "title": "MPS, il consulente Iss: voto a favore della lista Cda nonostante critiche",
+      "url": "/economia/mps-il-consulente-iss-voto-a-favore-della-lista-cd-3fb7bf6a65aeb3c9",
+      "id": "3fb7bf6a65aeb3c9",
+      "image_url": "https://images.unsplash.com/photo-1773266110858-acb9b6c43b15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxzdG9jayUyMG1hcmtldCUyMGl0YWx5fGVufDB8MHx8fDE3NzQ5MTEwMjl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Arera: +8,1% bollette elettriche",
+      "url": "/economia/arera-81-bollette-elettriche-f78be268451f5cbf",
+      "id": "f78be268451f5cbf",
+      "image_url": "https://images.unsplash.com/photo-1647314853926-9def39bb32c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxib2xsZXR0ZSUyMGVsZXR0cmljaGUlMjBhdW1lbnRvfGVufDB8MHx8fDE3NzQ5MTA3OTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Lovaglio escluso dal board di mps",
+      "url": "/economia/mps-esclude-lovaglio-dal-rinnovo-del-board-di-sien-51511cd2555886f9",
+      "id": "51511cd2555886f9",
+      "image_url": "https://live.staticflickr.com/65535/55175886838_88cfbed346_b.jpg",
+      "image_type": "flickr"
+    }
+  ]
+}
