@@ -1,0 +1,57 @@
+{
+  "id": "9d6b14a23a421a74",
+  "slug": "governo-valuta-taglio-incentivi-760-milioni-9d6b14a23a421a74",
+  "title": "Governo valuta taglio incentivi 760 milioni",
+  "titles": [
+    "Governo valuta taglio incentivi 760 milioni",
+    "Imprese italiane in pericolo: governo valuta riduzione incentivi",
+    "Governo si prepara a peggiorare la situazione delle imprese"
+  ],
+  "title_winner": null,
+  "section": "economia",
+  "occhiello": "CONGELAMENTO DEGLI INCENTIVI ALLE IMPRESE, IPOTESI DI TAGLI",
+  "lead": "Il governo italiano sta valutando la possibilità di ridurre o congelare gli incentivi alle imprese, valutando un taglio di 760 milioni deciso nel decreto fiscale.. La decisione sarebbe stata annunciata per i prossimi giorni.",
+  "corpo1": "Importanti del tavolo di domani. Il nodo delle accise è uno degli elementi chiave della decisione del governo, che sta valutando la possibilità di ridurre gli incentivi alle imprese per ridurre il peso della spesa pubblica., che sta valutando la possibilità di ridurre gli incentivi alle imprese per ridurre il peso della spesa pubblica. Il presidente di Confcommercio, Carlo Sangalli, ha dichiarato: \"Imprese spiazzate, la situazione è critica. Il governo deve agire per supportare le imprese e non aumentare la loro esposizione\". La decisione del governo sarebbe stata annunciata per i prossimi giorni.",
+  "corpo2": "Una delle più importanti per le imprese italiane, che stanno attraversando una crisi economica profonda. La decisione del governo potrebbe avere conseguenze importanti per le imprese italiane, che stanno già lottando per sopravvivere nella crisi economica attuale. Il congelamento degli incentivi alle imprese potrebbe essere un colpo duro per le aziende che stanno cercando di ridurre i costi e aumentare la produttività.. Se il governo decide di ridurre o congelare gli incentivi alle imprese, ciò potrebbe avere conseguenze importanti anche per l'economia italiana nel suo complesso.. La riduzione degli incentivi alle imprese potrebbe ridurre la domanda di lavoro e aumentare la disoccupazione, creando una spirale di recessione..",
+  "journalist": {
+    "id": "marta_levi_01",
+    "firma": "Marta Levi",
+    "sezione": "economia"
+  },
+  "published_at": "2026-03-30T23:31:08.269093+00:00",
+  "image": {
+    "type": "unsplash",
+    "url": "https://images.unsplash.com/photo-1744739010181-9dda575976c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxpdGFseSUyMHN0b2NrJTIwbWFya2V0JTIwY2hhcnR8ZW58MHwwfHx8MTc3NDkxMzQ2OHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "source": "Unsplash",
+    "credit": "Raúl Mermans García",
+    "license": "Unsplash License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Governo valuta taglio incentivi 760 milioni\",\n  \"description\": \"Il governo italiano sta valutando la possibilità di ridurre o congelare gli incentivi alle imprese, valutando un taglio di 760 milioni deciso nel decreto fiscale.. La decisione sarebbe stata annunciata per i prossimi giorni.\",\n  \"articleBody\": \"Il governo italiano sta valutando la possibilità di ridurre o congelare gli incentivi alle imprese, valutando un taglio di 760 milioni deciso nel decreto fiscale.. La decisione sarebbe stata annunciata per i prossimi giorni. Importanti del tavolo di domani. Il nodo delle accise è uno degli elementi chiave della decisione del governo, che sta valutando la possibilità di ridurre gli incentivi alle imprese per ridurre il peso della spesa pubblica., che sta valutando la possibilità di ridurre gli incentivi alle imprese per ridurre il peso della spesa pubblica. Il presidente di Confcommercio, Carlo Sangalli, ha dichiarato: \\\"Imprese spiazzate, la situazione è critica. Il governo deve agire per supportare le imprese e non aumentare la loro esposizione\\\". La decisione del governo sarebbe stata annunciata per i prossimi giorni. Una delle più importanti per le imprese italiane, che stanno attraversando una crisi economica profonda. La decisione del governo potrebbe avere conseguenze importanti per le imprese italiane, che stanno già lottando per sopravvivere nella crisi economica attuale. Il congelamento degli incentivi alle imprese potrebbe essere un colpo duro per le aziende che stanno cercando di ridurre i costi e aumentare la produttività.. Se il governo decide di ridurre o congelare gli incentivi alle imprese, ciò potrebbe avere conseguenze importanti anche per l'economia italiana nel suo complesso.. La riduzione degli incentivi alle imprese potrebbe ridurre la domanda di lavoro e aumentare la disoccupazione, creando una spirale di recessione..\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Marta Levi\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-30T23:31:08.269093+00:00\",\n  \"dateModified\": \"2026-03-30T23:31:08.269093+00:00\",\n  \"url\": \"https://lentemattutina.it/economia/9d6b14a23a421a74\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/economia/9d6b14a23a421a74\"\n  },\n  \"articleSection\": \"Economia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1744739010181-9dda575976c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxpdGFseSUyMHN0b2NrJTIwbWFya2V0JTIwY2hhcnR8ZW58MHwwfHx8MTc3NDkxMzQ2OHww&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Raúl Mermans García\"\n  }\n}",
+  "priority": 5,
+  "source": "Repubblica Economia",
+  "source_type": "competitor",
+  "original_url": "https://www.repubblica.it/economia/2026/03/31/news/tagli_incentivi_imprese_ipotesi_congelamento_transizione_bonus-425254394/?rss",
+  "related": [
+    {
+      "title": "Hera, Fabbri: 600 milioni di euro di crescita entro il 2029 con acquisizioni",
+      "url": "/economia/hera-fabbri-600-milioni-di-euro-di-crescita-entro-956a6a46bf448ef2",
+      "id": "956a6a46bf448ef2",
+      "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxvZmZpY2UlMjBidWlsZGluZ3xlbnwwfDB8fHwxNzc0OTEzNDY2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "4 milioni sprecati: crolla ancora la passerella ciclopedonale sull'Adda",
+      "url": "/economia/4-milioni-sprecati-crolla-ancora-la-passerella-cic-2c7ac4e150b03a99",
+      "id": "2c7ac4e150b03a99",
+      "image_url": "https://images.unsplash.com/photo-1758750436735-2ddc234d4099?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxwYXNzZXJlbGxhJTIwY2ljbG9wZWRvbmFsZSUyMGNyb2xsb3xlbnwwfDB8fHwxNzc0OTExMTMxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Governo: Poste-Tim torna pubblica con un guadagno di 10 miliardi",
+      "url": "/economia/governo-poste-tim-torna-pubblica-con-un-guadagno-d-5a0f28c31643c759",
+      "id": "5a0f28c31643c759",
+      "image_url": "https://images.pexels.com/photos/5721488/pexels-photo-5721488.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
+    }
+  ]
+}
