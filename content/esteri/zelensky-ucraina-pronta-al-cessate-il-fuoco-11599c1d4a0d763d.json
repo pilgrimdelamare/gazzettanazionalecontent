@@ -1,0 +1,57 @@
+{
+  "id": "11599c1d4a0d763d",
+  "slug": "zelensky-ucraina-pronta-al-cessate-il-fuoco-11599c1d4a0d763d",
+  "title": "Zelensky: Ucraina pronta al cessate il fuoco",
+  "titles": [
+    "Zelensky: Ucraina pronta al cessate il fuoco",
+    "Attacco ucraino in Russia: un morto",
+    "Tajani a Kiev per incontro Ue"
+  ],
+  "title_winner": null,
+  "section": "esteri",
+  "occhiello": "UCRAINA ANNUNCIA POSSIBILE CESSE IL FUOCO",
+  "lead": "Volodymyr Zelensky, presidente dell'Ucraina, ha annunciato che il suo paese è pronto per un cessate il fuoco per le festività pasquali, in un colloquio con gli alleati.",
+  "corpo1": "Zelensky ha spiegato che l'Ucraina è pronta a qualsiasi compromesso, tranne che a compromessi sulla propria dignità e sovranità. Nel frattempo, gli ucraini hanno condotto un attacco in territorio russo, colpendo con droni un impianto chimico nella città di Togliatti. Un morto e un ferito sono stati segnalati nella regione di Rostov. Secondo quanto riportato, gli alleati dell'Ucraina hanno chiesto di ridurre gli attacchi ai settori energetici russi. Il ministro degli esteri italiano, Antonio Tajani, sarà in missione a kiev per prendere parte alla riunione informale dei ministri degli esteri ue, organizzata in occasione del quarto anniversario del massacro di bucha.",
+  "corpo2": "La notizia del possibile cessate il fuoco per le festività pasquali arriva in un momento in cui la guerra tra Ucraina e russia è ancora in corso. La Russia, guidata da Vladimir Putin, ha mantenuto una posizione ferma nella gestione del conflitto. Nel frattempo, l'Ucraina ha ricevuto sostegno da parte degli alleati, tra cui l'italia e gli stati uniti. La decisione di Zelensky di considerare un cessate il fuoco potrebbe essere vista come un tentativo di ridurre le tensioni e trovare una soluzione pacifica al conflitto. Tuttavia, la situazione rimane complessa e difficile da prevedere. Se il cessate il fuoco dovesse avere luogo, potrebbe rappresentare un passo importante verso la risoluzione del conflitto, ma è ancora troppo presto per dire se questo sarà sufficiente a porre fine alla guerra.",
+  "journalist": {
+    "id": "anna_colombo_01",
+    "firma": "Anna Colombo",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-03-30T22:43:37.133999+00:00",
+  "image": {
+    "type": "flickr",
+    "url": "https://live.staticflickr.com/65535/54862606815_d1a3dd8919_b.jpg",
+    "source": "Flickr",
+    "credit": "Balaceanu Cristian Marius",
+    "license": "CC"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Zelensky: Ucraina pronta al cessate il fuoco\",\n  \"description\": \"Volodymyr Zelensky, presidente dell'Ucraina, ha annunciato che il suo paese è pronto per un cessate il fuoco per le festività pasquali, in un colloquio con gli alleati.\",\n  \"articleBody\": \"Volodymyr Zelensky, presidente dell'Ucraina, ha annunciato che il suo paese è pronto per un cessate il fuoco per le festività pasquali, in un colloquio con gli alleati. Zelensky ha spiegato che l'Ucraina è pronta a qualsiasi compromesso, tranne che a compromessi sulla propria dignità e sovranità. Nel frattempo, gli ucraini hanno condotto un attacco in territorio russo, colpendo con droni un impianto chimico nella città di Togliatti. Un morto e un ferito sono stati segnalati nella regione di Rostov. Secondo quanto riportato, gli alleati dell'Ucraina hanno chiesto di ridurre gli attacchi ai settori energetici russi. Il ministro degli esteri italiano, Antonio Tajani, sarà in missione a kiev per prendere parte alla riunione informale dei ministri degli esteri ue, organizzata in occasione del quarto anniversario del massacro di bucha. La notizia del possibile cessate il fuoco per le festività pasquali arriva in un momento in cui la guerra tra Ucraina e russia è ancora in corso. La Russia, guidata da Vladimir Putin, ha mantenuto una posizione ferma nella gestione del conflitto. Nel frattempo, l'Ucraina ha ricevuto sostegno da parte degli alleati, tra cui l'italia e gli stati uniti. La decisione di Zelensky di considerare un cessate il fuoco potrebbe essere vista come un tentativo di ridurre le tensioni e trovare una soluzione pacifica al conflitto. Tuttavia, la situazione rimane complessa e difficile da prevedere. Se il cessate il fuoco dovesse avere luogo, potrebbe rappresentare un passo importante verso la risoluzione del conflitto, ma è ancora troppo presto per dire se questo sarà sufficiente a porre fine alla guerra.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-30T22:43:37.133999+00:00\",\n  \"dateModified\": \"2026-03-30T22:43:37.133999+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/11599c1d4a0d763d\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/11599c1d4a0d763d\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://live.staticflickr.com/65535/54862606815_d1a3dd8919_b.jpg\",\n    \"creditText\": \"Balaceanu Cristian Marius\"\n  }\n}",
+  "priority": 6,
+  "source": "Redazione",
+  "source_type": "competitor_gap",
+  "original_url": "https://www.repubblica.it/esteri/2026/03/31/diretta/guerraucrainarussia_news_oggi-425254521/",
+  "related": [
+    {
+      "title": "Netanyahu: metà obiettivi di guerra raggiunti",
+      "url": "/esteri/netanyahu-meta-obiettivi-di-guerra-raggiunti-dd8ca7754410c907",
+      "id": "dd8ca7754410c907",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Benjamin_Netanyahu_2012.jpg",
+      "image_type": "wikimedia"
+    },
+    {
+      "title": "Petroliere Russia a Cuba: Sussurro di interruzione",
+      "url": "/esteri/ragione-di-stato-petroliera-russa-autorizzata-a-ra-b696bf2e3d74fd0d",
+      "id": "b696bf2e3d74fd0d",
+      "image_url": "https://images.pexels.com/photos/9407354/pexels-photo-9407354.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
+    },
+    {
+      "title": "Inflazione Australia: 4,5% previsto nel 2026, governo alza stima",
+      "url": "/esteri/chalmers-inflazione-prevista-al-45-nel-2026-1-punt-2606592f8bac2c79",
+      "id": "2606592f8bac2c79",
+      "image_url": "https://images.pexels.com/photos/416988/pexels-photo-416988.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
+    }
+  ]
+}
