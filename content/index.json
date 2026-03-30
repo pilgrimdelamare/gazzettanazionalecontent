@@ -1,5 +1,23 @@
 [
   {
+    "id": "d40dc60b6099a920",
+    "slug": "guido-pini-fa-impazzire-il-pubblico-con-vittoria-i-d40dc60b6099a920",
+    "title": "Moto3: Guido Pini vince ad Austin!",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-03-29T21:30:36.695729+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1670156265984-d9015d7c4b44?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxNb3RvMyUyMHJhY2luZ3xlbnwwfDB8fHwxNzc0OTExNzY5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "GUIDO PINI VINCE LA MOTO3 AD AUSTIN",
+    "lead_preview": "Guido Pini ha vinto la gara di Moto3 al GP di Austin il 29 marzo 2026. La vittoria lo porterà in alto nella classifica d",
+    "tags": [
+      "moto3 austin",
+      "guido pini",
+      "gp austin"
+    ]
+  },
+  {
     "id": "260e676dd3fe3a1e",
     "slug": "taylor-stoppa-la-tassa-gas-no-a-proposte-del-vice-260e676dd3fe3a1e",
     "title": "Taylor boccia la tassa sul gas: 17 voti contrari",
@@ -1824,24 +1842,6 @@
       "israele ddl",
       "critica israele",
       "unione europea"
-    ]
-  },
-  {
-    "id": "d40dc60b6099a920",
-    "slug": "guido-pini-fa-impazzire-il-pubblico-con-vittoria-i-d40dc60b6099a920",
-    "title": "Guido Pini fa impazzire il pubblico con vittoria in Moto3 a Austin!",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-03-29T21:30:36.695729+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1586980061636-8bd9fa620cac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxNb3RvMyUyMEdQJTIwQXVzdGlufGVufDB8MHx8fDE3NzQ4MTk4MzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "MOTO3: Pini vince per la prima volta dopo 1274 giorni, un risultato storico per l'Italia.",
-    "lead_preview": "Guido Pini ha vinto la gara di Moto3 al GP di Austin, una vittoria che lo porterà in alto nella classifica., dopo 1274 g",
-    "tags": [
-      "moto3",
-      "gara di austin",
-      "pini vince"
     ]
   },
   {
