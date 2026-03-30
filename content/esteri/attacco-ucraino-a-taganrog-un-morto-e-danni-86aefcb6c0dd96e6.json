@@ -1,51 +1,55 @@
 {
   "id": "86aefcb6c0dd96e6",
   "slug": "attacco-ucraino-a-taganrog-un-morto-e-danni-86aefcb6c0dd96e6",
-  "title": "Attacco ucraino a Taganrog: un morto e danni",
+  "title": "Un morto e danni per un attacco ucraino a Taganrog",
   "titles": [
-    "Attacco ucraino a Taganrog: un morto e danni",
-    "Taganrog sotto attacco: Putin in difficoltà",
-    "Drone ucraino devasta Taganrog, Trump pensa al ritiro"
+    "Un morto e danni per un attacco ucraino a Taganrog",
+    "L'Ucraina colpisce la Russia: un morto e danni a Taganrog",
+    "Missile ucraino in Russia: una vittima e danni a Taganrog"
   ],
   "title_winner": null,
   "section": "esteri",
-  "occhiello": "DRONE UCRAINO COLPISCE RUSSIA",
-  "lead": "Un morto a Taganrog",
-  "corpo1": "Il 30 marzo 2026, un attacco di droni ucraini ha colpito la città di Taganrog, nel sud della Russia, causando un morto, incendi e danni a case e industrie. secondo le autorità locali, la caduta di detriti del drone ha reso necessaria l'evacuazione di un'area colpita. il governatore regionale, Yuri Slyusar, ha dichiarato su telegram che \"le squadre di emergenza stanno lavorando sul luogo dell'incidente, dove sono caduti i detriti. si sono verificati incendi e danni. le persone sono state evacuate\". l'attacco è avvenuto nel contesto della guerra in Ucraina, dove la Russia ha lanciato un'offensiva militare contro il paese vicino. intanto, secondo alcune fonti, trump starebbe valutando il ritiro delle truppe usa dall'europa, mentre putin chiede soldi agli oligarchi per la guerra.",
-  "corpo2": "Il conflitto in Ucraina è stato caratterizzato da una serie di attacchi e contrattacchi tra le forze russe e ucraine. la Russia ha lanciato un'offensiva militare contro l'Ucraina nel il 24 febbraio 2022, con l'obiettivo di conquistare il paese e instaurare un governo filo-russo. tuttavia, l'Ucraina ha resistito con fermezza, grazie anche al sostegno internazionale. gli stati uniti, in particolare, hanno fornito un sostegno significativo all'Ucraina, inviando truppe e armi per aiutare il paese a difendersi. il ritiro delle truppe usa dall'europa potrebbe avere conseguenze significative per la sicurezza del continente e per il conflitto in Ucraina. se gli stati uniti decidessero di ritirare le loro truppe, la Russia potrebbe sentirsi più libera di agire militarmente in europa, il che potrebbe portare a una escalation del conflitto e a una maggiore instabilità nella regione.",
+  "occhiello": "ATTACCO UCRAINO A TAGANROG",
+  "lead": "Taganrog, 29 marzo 2026 - Un morto e danni sono stati riportati a seguito di un attacco ucraino nella città russa di Taganrog, situata sulla costa nord dello Stretto di Taganrog, nel Mar d'Azov. Un morto e danni sono stati riportati a seguito di un attacco ucraino nella città russa di Taganrog, situata sulla costa nord dello Stretto di Taganrog, nel Mar d'Azov.",
+  "corpo1": "Secondo le fonti russe, l'attacco ha colpito la città di Taganrog, nel Rostov Oblast, causando la morte di una persona e danni a diverse strutture. La città conta circa 245.120 abitanti. La città di Taganrog si trova a pochi chilometri a ovest della foce del fiume Don e ha una popolazione di circa 245.120 abitanti. L'attacco è stato confermato dalle autorità ucraine, che hanno rivendicato l'azione come un'operazione militare. Le autorità russe hanno aperto un'indagine sull'incidente e hanno promesso di prendere misure per prevenire futuri attacchi. La Russia ha accusato l'Ucraina di aver lanciato un missile contro la città, mentre l'Ucraina non ha commentato ufficialmente l'incidente.",
+  "corpo2": "L'attacco a Taganrog è l'ennesimo episodio di una serie di azioni militari che hanno coinvolto la regione del Donbass e il Mar d'Azov. La città di Taganrog è strategicamente importante per la Russia, poiché si trova vicino alla foce del fiume Don e serve come importante centro commerciale e industriale. L'Ucraina ha lanciato diverse operazioni militari contro la Russia negli ultimi mesi, con l'obiettivo di riconquistare i territori occupati. La situazione è tesa e resta da vedere come si evolverà il conflitto. E adesso, l'attacco a Taganrog sarà un banco di prova per le intenzioni russe.",
   "journalist": {
-    "id": "fabrizio_mei_01",
-    "firma": "Fabrizio Mei",
+    "id": "anna_colombo_01",
+    "firma": "Anna Colombo",
     "sezione": "esteri"
   },
   "published_at": "2026-03-29T23:46:53.852637+00:00",
   "image": {
-    "type": "unsplash",
-    "url": "https://images.unsplash.com/photo-1624924035152-3b82f5c02695?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxkcm9uZSUyMHVjcmFpbmklMjB0YWdhbnJvZ3xlbnwwfDB8fHwxNzc0ODI4MDEzfDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "source": "Unsplash",
-    "credit": "Juan Carlos Ramirez",
-    "license": "Unsplash License"
+    "type": "none",
+    "source": ""
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Attacco ucraino a Taganrog: un morto e danni\",\n  \"description\": \"Un morto a Taganrog\",\n  \"articleBody\": \"Un morto a Taganrog Il 30 marzo 2026, un attacco di droni ucraini ha colpito la città di Taganrog, nel sud della Russia, causando un morto, incendi e danni a case e industrie. secondo le autorità locali, la caduta di detriti del drone ha reso necessaria l'evacuazione di un'area colpita. il governatore regionale, Yuri Slyusar, ha dichiarato su telegram che \\\"le squadre di emergenza stanno lavorando sul luogo dell'incidente, dove sono caduti i detriti. si sono verificati incendi e danni. le persone sono state evacuate\\\". l'attacco è avvenuto nel contesto della guerra in Ucraina, dove la Russia ha lanciato un'offensiva militare contro il paese vicino. intanto, secondo alcune fonti, trump starebbe valutando il ritiro delle truppe usa dall'europa, mentre putin chiede soldi agli oligarchi per la guerra. Il conflitto in Ucraina è stato caratterizzato da una serie di attacchi e contrattacchi tra le forze russe e ucraine. la Russia ha lanciato un'offensiva militare contro l'Ucraina nel il 24 febbraio 2022, con l'obiettivo di conquistare il paese e instaurare un governo filo-russo. tuttavia, l'Ucraina ha resistito con fermezza, grazie anche al sostegno internazionale. gli stati uniti, in particolare, hanno fornito un sostegno significativo all'Ucraina, inviando truppe e armi per aiutare il paese a difendersi. il ritiro delle truppe usa dall'europa potrebbe avere conseguenze significative per la sicurezza del continente e per il conflitto in Ucraina. se gli stati uniti decidessero di ritirare le loro truppe, la Russia potrebbe sentirsi più libera di agire militarmente in europa, il che potrebbe portare a una escalation del conflitto e a una maggiore instabilità nella regione.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Fabrizio Mei\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-29T23:46:53.852637+00:00\",\n  \"dateModified\": \"2026-03-29T23:46:53.852637+00:00\",\n  \"url\": \"https://gazzettanazionale.it/esteri/86aefcb6c0dd96e6\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/esteri/86aefcb6c0dd96e6\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1624924035152-3b82f5c02695?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxkcm9uZSUyMHVjcmFpbmklMjB0YWdhbnJvZ3xlbnwwfDB8fHwxNzc0ODI4MDEzfDA&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Juan Carlos Ramirez\"\n  }\n}",
-  "priority": 6,
-  "source": "Redazione",
-  "source_type": "competitor_gap",
-  "original_url": "https://www.repubblica.it/esteri/2026/03/30/diretta/guerra_ucraina_russia_news_oggi-425252395/",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Un morto e danni per un attacco ucraino a Taganrog\",\n  \"description\": \"Taganrog, 29 marzo 2026 - Un morto e danni sono stati riportati a seguito di un attacco ucraino nella città russa di Taganrog, situata sulla costa nord dello Stretto di Taganrog, nel Mar d'Azov. Un morto e danni sono stati riportati a seguito di un attacco ucraino nella città russa di Taganrog, situ\",\n  \"articleBody\": \"Taganrog, 29 marzo 2026 - Un morto e danni sono stati riportati a seguito di un attacco ucraino nella città russa di Taganrog, situata sulla costa nord dello Stretto di Taganrog, nel Mar d'Azov. Un morto e danni sono stati riportati a seguito di un attacco ucraino nella città russa di Taganrog, situata sulla costa nord dello Stretto di Taganrog, nel Mar d'Azov. Secondo le fonti russe, l'attacco ha colpito la città di Taganrog, nel Rostov Oblast, causando la morte di una persona e danni a diverse strutture. La città conta circa 245.120 abitanti. La città di Taganrog si trova a pochi chilometri a ovest della foce del fiume Don e ha una popolazione di circa 245.120 abitanti. L'attacco è stato confermato dalle autorità ucraine, che hanno rivendicato l'azione come un'operazione militare. Le autorità russe hanno aperto un'indagine sull'incidente e hanno promesso di prendere misure per prevenire futuri attacchi. La Russia ha accusato l'Ucraina di aver lanciato un missile contro la città, mentre l'Ucraina non ha commentato ufficialmente l'incidente. L'attacco a Taganrog è l'ennesimo episodio di una serie di azioni militari che hanno coinvolto la regione del Donbass e il Mar d'Azov. La città di Taganrog è strategicamente importante per la Russia, poiché si trova vicino alla foce del fiume Don e serve come importante centro commerciale e industriale. L'Ucraina ha lanciato diverse operazioni militari contro la Russia negli ultimi mesi, con l'obiettivo di riconquistare i territori occupati. La situazione è tesa e resta da vedere come si evolverà il conflitto. E adesso, l'attacco a Taganrog sarà un banco di prova per le intenzioni russe.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-29T23:46:53.852637+00:00\",\n  \"dateModified\": \"2026-03-29T23:46:53.852637+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/86aefcb6c0dd96e6\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/86aefcb6c0dd96e6\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://lentemattutina.it/esteri/attacco-ucraino-a-taganrog-un-morto-e-danni-86aefcb6c0dd96e6",
   "related": [
     {
-      "title": "Instagram cancella foto gravidanza modella, è la seconda volta",
-      "url": "/esteri/instagram-rimosse-foto-di-erin-oconnor-in-stato-di-f52ca90ea85d761f",
-      "id": "f52ca90ea85d761f"
+      "title": "Haiti, attacco di gang: 70 morti e 30 feriti nella regione di Artibonite",
+      "url": "/esteri/haiti-attacco-di-gang-70-morti-e-30-feriti-nella-r-acf20a6e708a1483",
+      "id": "acf20a6e708a1483",
+      "image_url": "https://live.staticflickr.com/8188/8122332834_c14b6204b7_b.jpg",
+      "image_type": "flickr"
     },
     {
-      "title": "Casco bleu ucciso in Libano in un'esplosione di origine sconosciuta",
-      "url": "/esteri/casco-bleu-ucciso-in-libano-in-unesplosione-di-ori-d203e5d977e84cea",
-      "id": "d203e5d977e84cea"
-    },
-    {
-      "title": "Vice sceriffo della contea di Los Angeles muore durante gara nel deserto del Moj",
+      "title": "Vice sceriffo muore durante gara nel deserto del mojave",
       "url": "/esteri/vice-sceriffo-della-contea-di-los-angeles-muore-du-29828a478a3ebd90",
-      "id": "29828a478a3ebd90"
+      "id": "29828a478a3ebd90",
+      "image_url": "https://live.staticflickr.com/65535/55174894464_9f066d4529_b.jpg",
+      "image_type": "flickr"
+    },
+    {
+      "title": "Casco bleu ucciso in Libano: esplosione nel sud",
+      "url": "/esteri/casco-bleu-ucciso-in-libano-in-unesplosione-di-ori-d203e5d977e84cea",
+      "id": "d203e5d977e84cea",
+      "image_url": "https://live.staticflickr.com/4003/4181711523_fa91a2cca6_b.jpg",
+      "image_type": "flickr"
     }
-  ]
+  ],
+  "updated_at": "2026-03-29T23:46:53.852637+00:00"
 }
