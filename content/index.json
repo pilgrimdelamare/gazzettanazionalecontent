@@ -493,8 +493,8 @@
     "priority": 5,
     "journalist_firma": "Matteo Galli",
     "published_at": "2026-03-29T23:31:28.167653+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1761982275964-32875c184a8f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxGcmFuY2VzY28lMjBCYWduYWlhfGVufDB8MHx8fDE3NzQ4MjcwODd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "image_type": "flickr",
+    "image_url": "https://live.staticflickr.com/65535/54546362176_7f08ce5439_b.jpg",
     "occhiello": "Francesco Bagnaia lottato ad Austin",
     "lead_preview": "Francesco bagnaia ha concluso al decimo posto il gp di austin, in texas, dopo aver lottato con marc marquez e bastianini",
     "tags": [
