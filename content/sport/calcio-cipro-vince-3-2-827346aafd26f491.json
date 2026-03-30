@@ -1,0 +1,57 @@
+{
+  "id": "827346aafd26f491",
+  "slug": "calcio-cipro-vince-3-2-827346aafd26f491",
+  "title": "Calcio: Cipro vince 3-2",
+  "titles": [
+    "Calcio: Cipro vince 3-2",
+    "Calcio: Ascoli supera Arezzo 2-1",
+    "Calcio: Casertana travolge Sorrento 2-0"
+  ],
+  "title_winner": null,
+  "section": "sport",
+  "occhiello": "SERIE C, GIORNATA 34: RISULTATI E HIGHLIGHTS",
+  "lead": "Serie C, Lega Pro, 30 marzo 2026 La 34ª giornata del campionato di Serie C ha visto diverse partite disputate, con risultati interessanti. Tra queste, Cipro-Moldova 3-2, Germania-Ghana 2-1, Arezzo-Ascoli 1-2 e Casertana-Sorrento 2-0.",
+  "corpo1": "La 34ª giornata della Serie C ha offerto diversi spunti interessanti. Cipro-Moldova si è conclusa 3-2 per Cipro. Anche la Germania ha vinto contro il Ghana 2-1, grazie a un gol all'88'. Arezzo è stata sconfitta da Ascoli 1-2. Casertana ha invece vinto contro Sorrento 2-0. Queste partite hanno contribuito a modificare la classifica del campionato.",
+  "corpo2": "I risultati di queste partite avranno un impatto significativo sulla classifica finale. Le squadre che hanno vinto oggi avranno maggiore fiducia. mentre quelle sconfitte dovranno rivedere le loro strategie. La Serie C è un campionato molto competitivo. Ora bisognerà vedere come proseguirà il campionato.",
+  "journalist": {
+    "id": "matteo_galli_01",
+    "firma": "Matteo Galli",
+    "sezione": "sport"
+  },
+  "published_at": "2026-03-30T22:43:42.298913+00:00",
+  "image": {
+    "type": "unsplash",
+    "url": "https://images.unsplash.com/photo-1634114441919-7636abb21cae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxzb2NjZXIlMjBiYWxsJTIwZ29hbHxlbnwwfDB8fHwxNzc0OTEwNjIyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "source": "Unsplash",
+    "credit": "Giero Saaski",
+    "license": "Unsplash License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Calcio: Cipro vince 3-2\",\n  \"description\": \"Serie C, Lega Pro, 30 marzo 2026 La 34ª giornata del campionato di Serie C ha visto diverse partite disputate, con risultati interessanti. Tra queste, Cipro-Moldova 3-2, Germania-Ghana 2-1, Arezzo-Ascoli 1-2 e Casertana-Sorrento 2-0.\",\n  \"articleBody\": \"Serie C, Lega Pro, 30 marzo 2026 La 34ª giornata del campionato di Serie C ha visto diverse partite disputate, con risultati interessanti. Tra queste, Cipro-Moldova 3-2, Germania-Ghana 2-1, Arezzo-Ascoli 1-2 e Casertana-Sorrento 2-0. La 34ª giornata della Serie C ha offerto diversi spunti interessanti. Cipro-Moldova si è conclusa 3-2 per Cipro. Anche la Germania ha vinto contro il Ghana 2-1, grazie a un gol all'88'. Arezzo è stata sconfitta da Ascoli 1-2. Casertana ha invece vinto contro Sorrento 2-0. Queste partite hanno contribuito a modificare la classifica del campionato. I risultati di queste partite avranno un impatto significativo sulla classifica finale. Le squadre che hanno vinto oggi avranno maggiore fiducia. mentre quelle sconfitte dovranno rivedere le loro strategie. La Serie C è un campionato molto competitivo. Ora bisognerà vedere come proseguirà il campionato.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Matteo Galli\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-30T22:43:42.298913+00:00\",\n  \"dateModified\": \"2026-03-30T22:43:42.298913+00:00\",\n  \"url\": \"https://lentemattutina.it/sport/827346aafd26f491\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/sport/827346aafd26f491\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1634114441919-7636abb21cae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxzb2NjZXIlMjBiYWxsJTIwZ29hbHxlbnwwfDB8fHwxNzc0OTEwNjIyfDA&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Giero Saaski\"\n  }\n}",
+  "priority": 5,
+  "source": "Sky Sport",
+  "source_type": "competitor",
+  "original_url": "https://sport.sky.it/calcio/serie-c/video/2026/03/30/serie-c-giornata-34-gol-collection-delle-gare-di-lunedi-1086654",
+  "related": [
+    {
+      "title": "Calcio: Montella guida Turchia",
+      "url": "/sport/calcio-montella-guida-turchia-40336afc724bce8c",
+      "id": "40336afc724bce8c",
+      "image_url": "https://images.unsplash.com/photo-1664673894940-4accd819ccf6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxzb2NjZXIlMjBiYWxsJTIwdHVya2V5fGVufDB8MHx8fDE3NzQ5MTA2MjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Calcio: Italia in campo a Zenica per la finale playoff",
+      "url": "/sport/calcio-italia-in-campo-a-zenica-per-la-finale-play-c2fab1eb9e416ee9",
+      "id": "c2fab1eb9e416ee9",
+      "image_url": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxzb2NjZXIlMjBzdGFkaXVtfGVufDB8MHx8fDE3NzQ5MTA0NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Calcio: Italia, la formazione anti-Bosnia: Gattuso punta su Politano",
+      "url": "/sport/calcio-italia-la-formazione-anti-bosnia-gattuso-pu-08bebdda94eb3b21",
+      "id": "08bebdda94eb3b21",
+      "image_url": "https://images.unsplash.com/photo-1683539715178-601d66d73564?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxJdGFseSUyMG5hdGlvbmFsJTIwZm9vdGJhbGwlMjB0ZWFtfGVufDB8MHx8fDE3NzQ5MTA0Njl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    }
+  ]
+}
