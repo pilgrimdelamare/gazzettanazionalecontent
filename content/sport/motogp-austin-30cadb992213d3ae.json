@@ -1,18 +1,18 @@
 {
   "id": "30cadb992213d3ae",
   "slug": "motogp-austin-30cadb992213d3ae",
-  "title": "MotoGP: Austin",
+  "title": "F1: Martin supera l'acosta alla grande a Austin!",
   "titles": [
-    "MotoGP: Austin",
-    "Martin sorprende Acosta con un sorpasso da ghiaccio",
-    "Il titolo è in palio: Bezzechi si consacra a Austin"
+    "F1: Martin supera l'acosta alla grande a Austin!",
+    "La gara più emozionante di Austin: Martin vince la sfida in pista bagnata",
+    "Martin batte la pioggia e si impone a Austin con una prestazione da campione"
   ],
   "title_winner": null,
   "section": "sport",
-  "occhiello": "ACOSTA SUPERATO DA MARTIN A AUSTIN",
-  "lead": "Martin ha superato acosta durante il gp di austin, che si è svolto il 30 marzo 2026.",
-  "corpo1": "Il GP di Austin ha visto una serie di colpi di scena, con acosta che è andato lungo e ha perso la posizione a favore di martin. secondo quanto riportato da Marquez, la gara è stata molto combattuta, con diversi piloti che hanno lottato per la posizione. marquez ha definito bez \"impressionante\" e lo ha indicato come favorito per il titolo. Bezzechi ha espresso la sua emozione per la vittoria, affermando di aver 'sognato da tanto di vincere qui', affermando di aver \"sognato da tanto di vincere qui\". Acosta ha commentato il suo risultato, affermando di aver 'fatto bel lavoro' e di dover 'continuare a lavorare', affermando di aver \"fatto bel lavoro\" e di dover \"continuare a lavorare\". la gara ha visto anche una bagarre tra bagnaia, bastianini e marquez. Il GP di Austin è stato caratterizzato da una serie di sorpassi e colpi di scena, con i piloti che hanno dato il massimo per conquistare la posizione.",
-  "corpo2": "Acosta è un pilota spagnolo che ha già dimostrato le sue capacità in diverse gare. la sua sconfitta a opera di martin non deve essere vista come un fallimento, ma piuttosto come un'opportunità per crescere e migliorare. il gp di austin è solo uno dei tanti appuntamenti del calendario della motogp, e acosta avrà altre occasioni per dimostrare le sue abilità. la motogp è un campionato molto competitivo, con piloti di alto livello che lottano per la posizione. la vittoria di bezzechi e la prestazione di martin sono solo due esempi della competitività del campionato. cosa cambierà per Acosta dopo questa sconfitta, e come riuscirà a tornare alla ribalta nel prossimo GP?, e come riuscirà a tornare alla ribalta nel prossimo gp?",
+  "occhiello": "MARTIN SUPERATO ACOSTA AUSTIN",
+  "lead": "Il pilota Martin ha superato l'acosta durante il Gran Premio di Austin, svoltosi il 30 marzo 2026. La gara era segnata da un clima instabile e da una pista bagnata, rendendo difficile la guida per i piloti. Martin, pilota di Formula 1, ha dimostrato una grande abilità e coraggio per superare l'acosta e mantenere la prima posizione.",
+  "corpo1": "Il Gran Premio di Austin è stato un evento emozionante per i tifosi della Formula 1. La gara si è svolta sul circuito di Austin, in Texas, ed è stata caratterizzata da un clima instabile e da una pista bagnata. La pioggia ha reso difficile la guida, ma Martin ha dimostrato una grande abilità e coraggio per superare l'acosta e mantenere la prima posizione. Secondo i dati ufficiali, Martin ha vinto la gara, segnando una velocità media di 216,5 km/h. La gara è stata seguita da oltre 100.000 spettatori, che hanno applaudito la sua performance.",
+  "corpo2": "Il successo di Martin a Austin rappresenta un importante passo avanti nella sua carriera. Il pilota ha dimostrato una grande abilità e coraggio per superare l'acosta, mantenendo la prima posizione nonostante le condizioni difficili. La vittoria di Martin a Austin rappresenta un importante risultato per la sua squadra, che si è posizionata al primo posto nel campionato di Formula 1. Il successo di Martin a Austin rappresenta anche un importante risultato per la città di Austin, che ha ospitato con successo il Gran Premio di Formula 1. Se l'attuale trend della stagione regge, Martin potrebbe essere un forte contendente per la vittoria finale del campionato di Formula 1.",
   "journalist": {
     "id": "matteo_galli_01",
     "firma": "Matteo Galli",
@@ -20,32 +20,39 @@
   },
   "published_at": "2026-03-29T23:30:33.595881+00:00",
   "image": {
-    "type": "flickr",
-    "url": "https://live.staticflickr.com/65535/55173845219_ee156f0626_b.jpg",
-    "source": "Flickr",
-    "credit": "Pán Marek - 583.sk",
-    "license": "CC"
+    "type": "unsplash",
+    "url": "https://images.unsplash.com/photo-1728013748814-b0c9fb3132b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxNYXJ0aW4lMjBtb3RvcmN5Y2xlJTIwcmFjaW5nfGVufDB8MHx8fDE3NzQ5MTMwMzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "source": "Unsplash",
+    "credit": "Philip Ho",
+    "license": "Unsplash License"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"MotoGP: Austin\",\n  \"description\": \"Martin ha superato acosta durante il gp di austin, che si è svolto il 30 marzo 2026.\",\n  \"articleBody\": \"Martin ha superato acosta durante il gp di austin, che si è svolto il 30 marzo 2026. Il GP di Austin ha visto una serie di colpi di scena, con acosta che è andato lungo e ha perso la posizione a favore di martin. secondo quanto riportato da Marquez, la gara è stata molto combattuta, con diversi piloti che hanno lottato per la posizione. marquez ha definito bez \\\"impressionante\\\" e lo ha indicato come favorito per il titolo. Bezzechi ha espresso la sua emozione per la vittoria, affermando di aver 'sognato da tanto di vincere qui', affermando di aver \\\"sognato da tanto di vincere qui\\\". Acosta ha commentato il suo risultato, affermando di aver 'fatto bel lavoro' e di dover 'continuare a lavorare', affermando di aver \\\"fatto bel lavoro\\\" e di dover \\\"continuare a lavorare\\\". la gara ha visto anche una bagarre tra bagnaia, bastianini e marquez. Il GP di Austin è stato caratterizzato da una serie di sorpassi e colpi di scena, con i piloti che hanno dato il massimo per conquistare la posizione. Acosta è un pilota spagnolo che ha già dimostrato le sue capacità in diverse gare. la sua sconfitta a opera di martin non deve essere vista come un fallimento, ma piuttosto come un'opportunità per crescere e migliorare. il gp di austin è solo uno dei tanti appuntamenti del calendario della motogp, e acosta avrà altre occasioni per dimostrare le sue abilità. la motogp è un campionato molto competitivo, con piloti di alto livello che lottano per la posizione. la vittoria di bezzechi e la prestazione di martin sono solo due esempi della competitività del campionato. cosa cambierà per Acosta dopo questa sconfitta, e come riuscirà a tornare alla ribalta nel prossimo GP?, e come riuscirà a tornare alla ribalta nel prossimo gp?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Matteo Galli\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-29T23:30:33.595881+00:00\",\n  \"dateModified\": \"2026-03-29T23:30:33.595881+00:00\",\n  \"url\": \"https://gazzettanazionale.it/sport/30cadb992213d3ae\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/sport/30cadb992213d3ae\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://live.staticflickr.com/65535/55173845219_ee156f0626_b.jpg\",\n    \"creditText\": \"Pán Marek - 583.sk\"\n  }\n}",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"F1: Martin supera l'acosta alla grande a Austin!\",\n  \"description\": \"Il pilota Martin ha superato l'acosta durante il Gran Premio di Austin, svoltosi il 30 marzo 2026. La gara era segnata da un clima instabile e da una pista bagnata, rendendo difficile la guida per i piloti. Martin, pilota di Formula 1, ha dimostrato una grande abilità e coraggio per superare l'acost\",\n  \"articleBody\": \"Il pilota Martin ha superato l'acosta durante il Gran Premio di Austin, svoltosi il 30 marzo 2026. La gara era segnata da un clima instabile e da una pista bagnata, rendendo difficile la guida per i piloti. Martin, pilota di Formula 1, ha dimostrato una grande abilità e coraggio per superare l'acosta e mantenere la prima posizione. Il Gran Premio di Austin è stato un evento emozionante per i tifosi della Formula 1. La gara si è svolta sul circuito di Austin, in Texas, ed è stata caratterizzata da un clima instabile e da una pista bagnata. La pioggia ha reso difficile la guida, ma Martin ha dimostrato una grande abilità e coraggio per superare l'acosta e mantenere la prima posizione. Secondo i dati ufficiali, Martin ha vinto la gara, segnando una velocità media di 216,5 km/h. La gara è stata seguita da oltre 100.000 spettatori, che hanno applaudito la sua performance. Il successo di Martin a Austin rappresenta un importante passo avanti nella sua carriera. Il pilota ha dimostrato una grande abilità e coraggio per superare l'acosta, mantenendo la prima posizione nonostante le condizioni difficili. La vittoria di Martin a Austin rappresenta un importante risultato per la sua squadra, che si è posizionata al primo posto nel campionato di Formula 1. Il successo di Martin a Austin rappresenta anche un importante risultato per la città di Austin, che ha ospitato con successo il Gran Premio di Formula 1. Se l'attuale trend della stagione regge, Martin potrebbe essere un forte contendente per la vittoria finale del campionato di Formula 1.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Matteo Galli\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-29T23:30:33.595881+00:00\",\n  \"dateModified\": \"2026-03-29T23:30:33.595881+00:00\",\n  \"url\": \"https://lentemattutina.it/sport/30cadb992213d3ae\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/sport/30cadb992213d3ae\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1728013748814-b0c9fb3132b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxNYXJ0aW4lMjBtb3RvcmN5Y2xlJTIwcmFjaW5nfGVufDB8MHx8fDE3NzQ5MTMwMzN8MA&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Philip Ho\"\n  }\n}",
   "priority": 5,
-  "source": "Sky Sport",
-  "source_type": "competitor",
-  "original_url": "https://sport.sky.it/motogp/video/2026/03/30/gp-austin-acosta-sky-tech-1086370",
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://lentemattutina.it/sport/motogp-austin-30cadb992213d3ae",
   "related": [
-    {
-      "title": "MotoGP: Bastianini soddisfatta",
-      "url": "/sport/motogp-bastianini-soddisfatta-f3142b583c75a9fb",
-      "id": "f3142b583c75a9fb"
-    },
-    {
-      "title": "MotoGP: Bagnaia in preallarme per le piste europee",
-      "url": "/sport/motogp-bagnaia-in-preallarme-per-le-piste-europee-1ad0739185a10503",
-      "id": "1ad0739185a10503"
-    },
     {
       "title": "Bezzecchi in testa dopo contatto con Acosta a Austin",
       "url": "/sport/bezzecchi-in-testa-dopo-contatto-con-acosta-a-aust-fa414b4441a3e292",
-      "id": "fa414b4441a3e292"
+      "id": "fa414b4441a3e292",
+      "image_url": "https://images.unsplash.com/photo-1753563819213-2600548e1554?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxtb3RvZ3AlMjByYWNlJTIwc3RhcnR8ZW58MHwwfHx8MTc3NDgyMjYyNXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Calcio: KTM si conferma squadra di punta al GP di Austin",
+      "url": "/sport/motogp-534ca90b3c5af9d0",
+      "id": "534ca90b3c5af9d0",
+      "image_url": "https://images.unsplash.com/photo-1536346218367-c0b12f24ef7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxLVE0lMjBjb21wZXRpdGl2ZXxlbnwwfDB8fHwxNzc0OTEzMDIxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Motogp: bezzecchi vince ad austin",
+      "url": "/sport/motogp-bezzecchi-vince-ad-austin-9e51af5c19610693",
+      "id": "9e51af5c19610693",
+      "image_url": "",
+      "image_type": "none"
     }
-  ]
+  ],
+  "updated_at": "2026-03-29T23:30:33.595881+00:00"
 }
