@@ -1,0 +1,57 @@
+{
+  "id": "40336afc724bce8c",
+  "slug": "calcio-montella-guida-turchia-40336afc724bce8c",
+  "title": "Calcio: Montella guida Turchia",
+  "titles": [
+    "Calcio: Montella guida Turchia",
+    "Turchia torna ai Mondiali",
+    "Calcio: 24 anni di attesa"
+  ],
+  "title_winner": null,
+  "section": "sport",
+  "occhiello": "MONTELLA: TURCHIA DA 24 ANNI SENZA MONDIALE",
+  "lead": "Vincent Montella, lunedì 30 marzo 2026, ha parlato della sfida della Turchia per qualificarsi ai Mondiali, dopo 24 lunghi anni di assenza.",
+  "corpo1": "Vincent Montella, allenatore della nazionale turca di calcio, ha dichiarato nella conferenza stampa del 30 marzo 2026: \"La Turchia è da 24 lunghi anni senza mondiale, daremo tutto\". Queste parole sono state pronunciate in vista delle prossime partite di qualificazione ai Mondiali. La Turchia è reduce da una sconfitta contro la Croazia, che ha complicato la sua corsa ai Mondiali. Montella ha assunto la guida della squadra nazionale turca con l'obiettivo di riportarla ai Mondiali. La squadra turca è attesa da una sfida cruciale contro la Lettonia nelle prossime giornate di qualificazione.",
+  "corpo2": "Montella, con la sua esperienza al Fenerbahçe e al Milan, è considerato un tecnico affidabile per rilanciare la Turchia. La sua nomina come allenatore della Turchia è stata accolta con ottimismo dai tifosi turchi, che sperano nella sua capacità di riportare la squadra ai Mondiali. La Turchia ha una tradizione calcistica importante, avendo vinto il terzo posto agli Europei nel 2008. La Turchia non partecipa ai Mondiali dal 2002, con una lunga serie di risultati deludenti. La sfida contro la Lettonia è cruciale per il calcio turco, che cerca di uscire dalla crisi.",
+  "journalist": {
+    "id": "davide_longo_01",
+    "firma": "Davide Longo",
+    "sezione": "sport"
+  },
+  "published_at": "2026-03-30T22:43:42.080625+00:00",
+  "image": {
+    "type": "unsplash",
+    "url": "https://images.unsplash.com/photo-1664673894940-4accd819ccf6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxzb2NjZXIlMjBiYWxsJTIwdHVya2V5fGVufDB8MHx8fDE3NzQ5MTA2MjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "source": "Unsplash",
+    "credit": "Eyeiessa Darville",
+    "license": "Unsplash License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Calcio: Montella guida Turchia\",\n  \"description\": \"Vincent Montella, lunedì 30 marzo 2026, ha parlato della sfida della Turchia per qualificarsi ai Mondiali, dopo 24 lunghi anni di assenza.\",\n  \"articleBody\": \"Vincent Montella, lunedì 30 marzo 2026, ha parlato della sfida della Turchia per qualificarsi ai Mondiali, dopo 24 lunghi anni di assenza. Vincent Montella, allenatore della nazionale turca di calcio, ha dichiarato nella conferenza stampa del 30 marzo 2026: \\\"La Turchia è da 24 lunghi anni senza mondiale, daremo tutto\\\". Queste parole sono state pronunciate in vista delle prossime partite di qualificazione ai Mondiali. La Turchia è reduce da una sconfitta contro la Croazia, che ha complicato la sua corsa ai Mondiali. Montella ha assunto la guida della squadra nazionale turca con l'obiettivo di riportarla ai Mondiali. La squadra turca è attesa da una sfida cruciale contro la Lettonia nelle prossime giornate di qualificazione. Montella, con la sua esperienza al Fenerbahçe e al Milan, è considerato un tecnico affidabile per rilanciare la Turchia. La sua nomina come allenatore della Turchia è stata accolta con ottimismo dai tifosi turchi, che sperano nella sua capacità di riportare la squadra ai Mondiali. La Turchia ha una tradizione calcistica importante, avendo vinto il terzo posto agli Europei nel 2008. La Turchia non partecipa ai Mondiali dal 2002, con una lunga serie di risultati deludenti. La sfida contro la Lettonia è cruciale per il calcio turco, che cerca di uscire dalla crisi.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Davide Longo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-30T22:43:42.080625+00:00\",\n  \"dateModified\": \"2026-03-30T22:43:42.080625+00:00\",\n  \"url\": \"https://lentemattutina.it/sport/40336afc724bce8c\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/sport/40336afc724bce8c\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1664673894940-4accd819ccf6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxzb2NjZXIlMjBiYWxsJTIwdHVya2V5fGVufDB8MHx8fDE3NzQ5MTA2MjF8MA&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Eyeiessa Darville\"\n  }\n}",
+  "priority": 5,
+  "source": "Sky Sport",
+  "source_type": "competitor",
+  "original_url": "https://sport.sky.it/calcio/mondiali/video/2026/03/30/kosovo-turchia-montella-conferenza-1086641",
+  "related": [
+    {
+      "title": "Calcio: Italia in campo a Zenica per la finale playoff",
+      "url": "/sport/calcio-italia-in-campo-a-zenica-per-la-finale-play-c2fab1eb9e416ee9",
+      "id": "c2fab1eb9e416ee9",
+      "image_url": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxzb2NjZXIlMjBzdGFkaXVtfGVufDB8MHx8fDE3NzQ5MTA0NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Calcio: Italia, la formazione anti-Bosnia: Gattuso punta su Politano",
+      "url": "/sport/calcio-italia-la-formazione-anti-bosnia-gattuso-pu-08bebdda94eb3b21",
+      "id": "08bebdda94eb3b21",
+      "image_url": "https://images.unsplash.com/photo-1683539715178-601d66d73564?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxJdGFseSUyMG5hdGlvbmFsJTIwZm9vdGJhbGwlMjB0ZWFtfGVufDB8MHx8fDE3NzQ5MTA0Njl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Calcio: Thuram torna a splendere con un gol e due assist",
+      "url": "/sport/calcio-thuram-torna-a-splendere-con-un-gol-e-due-a-6f79136d2f13b48a",
+      "id": "6f79136d2f13b48a",
+      "image_url": "https://live.staticflickr.com/65535/55163454943_6cc66c6877_b.jpg",
+      "image_type": "flickr"
+    }
+  ]
+}
