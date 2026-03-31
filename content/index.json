@@ -1,5 +1,22 @@
 [
   {
+    "id": "04c37ccf652a78f8",
+    "slug": "la-vignetta-di-natangelo-su-meloni-e-trump-04c37ccf652a78f8",
+    "title": "Meloni e Trump in vignetta satirica",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Sergio Mancini",
+    "published_at": "2026-03-31T07:22:25.721005+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1617603420966-5f17dedd5d3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxHaW9yZ2lhJTIwTWVsb25pfGVufDB8MHx8fDE3NzQ5NTI1NTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "VIGNETTA MELONI-TRUMP SU IL FATTO",
+    "lead_preview": "Giorgia Meloni compare in una vignetta satirica pubblicata da Il Fatto Quotidiano Quotidiano il 31 marzo 2026. Il disegn",
+    "tags": [
+      "meloni trump",
+      "vignetta satirica"
+    ]
+  },
+  {
     "id": "0c6573d8ecf1850b",
     "slug": "lukaku-salta-gli-allenamenti-del-napoli-resta-in-b-0c6573d8ecf1850b",
     "title": "Lukaku salta gli allenamenti del Napoli, resta in Belgio per infortunio",
@@ -1811,23 +1828,6 @@
     "tags": [
       "incidente stradale camposampiero",
       "morto ciclista padova"
-    ]
-  },
-  {
-    "id": "04c37ccf652a78f8",
-    "slug": "la-vignetta-di-natangelo-su-meloni-e-trump-04c37ccf652a78f8",
-    "title": "La vignetta di natangelo su meloni e trump",
-    "section": "politica",
-    "priority": 6,
-    "journalist_firma": "Sergio Mancini",
-    "published_at": "2026-03-31T07:22:25.721005+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Donald_Trump_-_Caricature_%2834958722044%29.jpg",
-    "occhiello": "LA VIGNETTA DI NATANGELO SU MELONI E TRUMP",
-    "lead_preview": "Giorgia Meloni appare in una vignetta pubblicata su Il Fatto Quotidiano il 31 marzo 2026, disegnata da Mario Natangelo e",
-    "tags": [
-      "vignetta meloni trump",
-      "mario natangelo"
     ]
   },
   {
