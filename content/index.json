@@ -1,5 +1,22 @@
 [
   {
+    "id": "98ba43e916a3b85b",
+    "slug": "ex-metalmeccanico-lazienda-lo-riprende-a-meta-retr-98ba43e916a3b85b",
+    "title": "Ferrara, 64, riassunto a metà stipendio",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-03-31T07:22:46.465441+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1748944079305-8d2a86e7ad32?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxmYWN0b3J5JTIwd29ya2VycyUyMHNhbGFyeSUyMGN1dHxlbnwwfDB8fHwxNzc0OTUxNTQyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "EX METALMECCANICO RIPRENDUTO UN ANNO DOPO LA PENSIONE",
+    "lead_preview": "Giorgio Ferrara, 64 anni, è stato ripreso a lavorare dalla sua ex azienda a metà retribuzione da febbraio 2025, un anno ",
+    "tags": [
+      "pensione anticipata",
+      "lavoro post pensione"
+    ]
+  },
+  {
     "id": "35f4d6172e331cc6",
     "slug": "stefano-fonzi-lancia-blugo-35f4d6172e331cc6",
     "title": "Stefano Fonzi lancia BluGo",
@@ -1745,20 +1762,6 @@
       "assunzioni neolaureati",
       "fondi pubblici nordest"
     ]
-  },
-  {
-    "id": "98ba43e916a3b85b",
-    "slug": "ex-metalmeccanico-lazienda-lo-riprende-a-meta-retr-98ba43e916a3b85b",
-    "title": "Ex metalmeccanico, l'azienda lo riprende a metà retribuzione",
-    "section": "economia",
-    "priority": 6,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-03-31T07:22:46.465441+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1583737226513-515e5a9f24f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxmYWN0b3J5JTIwd29ya2VyJTIwcGFydCUyMHRpbWV8ZW58MHwwfHx8MTc3NDk0MTc2Nnww&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "EX METALMECCANICO, L'AZIENDA LO RIPRENDE A METÀ RETRIBUZIONE",
-    "lead_preview": "Giorgio Ferrara, 64 anni, ex operaio metalmeccanico, è andato in pensione il 1° gennaio 2025 e da febbraio 2025 lavora p",
-    "tags": []
   },
   {
     "id": "9f7b51bb67e74c7e",
