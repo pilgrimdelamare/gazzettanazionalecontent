@@ -1,0 +1,57 @@
+{
+  "id": "49b69f2e2c001c2a",
+  "slug": "sarah-toscano-passa-dalla-musica-al-set-49b69f2e2c001c2a",
+  "title": "Sarah toscano passa dalla musica al set",
+  "titles": [
+    "SARAH TOSCANO PASSA DALLA MUSICA AL SET",
+    "SARAH TOSCANO PASSA DALLA MUSICA AL SET",
+    "SARAH TOSCANO PASSA DALLA MUSICA AL SET"
+  ],
+  "title_winner": null,
+  "section": "cultura",
+  "occhiello": "SARAH TOSCANO PASSA DALLA MUSICA AL SET",
+  "lead": "Sarah Toscano debutta come attrice il 3 aprile nel remake Netflix di ''La famiglia Bélier'', intitolato ''Non abbiam bisogno di parole'', remake del film francese del 2014.",
+  "corpo1": "Il film racconta la scelta tra il sostegno alla famiglia e la propria vocazione musicale. L’originale francese del 2014 incassò oltre 55 milioni di euro e ottenne tre candidature ai César. Netflix ha mantenuto la struttura ma spostato l’ambientazione da una fattoria francese a un agriturismo in provincia di Lecce, con dialoghi in italiano e in lingua dei segni (LIS). Sarah Toscano appare in tre scene chiave: l’audizione al liceo musicale, la discussione in classe e la finale del festival scolastico. Non aveva mai preso lezioni di",
+  "corpo2": "Recitazione prima del provino, come dichiarato da Netflix. Il suo personaggio introduce il tema dell’inclusione scolastica, fulcro del remake. “Sarah ha portato una spontaneità che non si insegna”, afferma il regista Claudio Amendola. Ma il salto dalla musica alla recitazione non è mai neutro: è un calcolo di mercato sulla longevità artistica. Prodotta da Indiana Production con un budget stimato di 3 milioni di euro — cifra contenuta per Netflix, ma in linea con le commedie italiane del catalogo — l’opera rischia di finire nel limbo dei contenuti di mezza stagione: troppo poco autorevoli per la critica, troppo poco virali per il pubblico. Con 1,2 milioni di follower su Instagram e un engagement rate del 6,8%, Sarah Toscano garantisce visibilità, non successo. Se il film entrerà nei primi dieci titoli più visti in Italia nella settimana d’esordio, Netflix valuterà una serie spin-off nello stesso liceo. Altrimenti, nel 2027 tornerà a Sanremo Giovani per ricominciare da capo.",
+  "journalist": {
+    "id": "tommaso_riva_01",
+    "firma": "Tommaso Riva",
+    "sezione": "cultura"
+  },
+  "published_at": "2026-03-31T05:51:07.895550+00:00",
+  "image": {
+    "type": "unsplash",
+    "url": "https://images.unsplash.com/photo-1751823886813-0cfc86cb9478?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxOZXRmbGl4JTIwbW92aWUlMjBzY2VuZXxlbnwwfDB8fHwxNzc0OTM2MjY3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "source": "Unsplash",
+    "credit": "Hafiz Faizan",
+    "license": "Unsplash License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"SARAH TOSCANO PASSA DALLA MUSICA AL SET\",\n  \"description\": \"Sarah Toscano debutta come attrice il 3 aprile nel remake Netflix di ''La famiglia Bélier'', intitolato ''Non abbiam bisogno di parole'', remake del film francese del 2014.\",\n  \"articleBody\": \"Sarah Toscano debutta come attrice il 3 aprile nel remake Netflix di ''La famiglia Bélier'', intitolato ''Non abbiam bisogno di parole'', remake del film francese del 2014. Il film racconta la scelta tra il sostegno alla famiglia e la propria vocazione musicale. L’originale francese del 2014 incassò oltre 55 milioni di euro e ottenne tre candidature ai César. Netflix ha mantenuto la struttura ma spostato l’ambientazione da una fattoria francese a un agriturismo in provincia di Lecce, con dialoghi in italiano e in lingua dei segni (LIS). Sarah Toscano appare in tre scene chiave: l’audizione al liceo musicale, la discussione in classe e la finale del festival scolastico. Non aveva mai preso lezioni di Recitazione prima del provino, come dichiarato da Netflix. Il suo personaggio introduce il tema dell’inclusione scolastica, fulcro del remake. “Sarah ha portato una spontaneità che non si insegna”, afferma il regista Claudio Amendola. Ma il salto dalla musica alla recitazione non è mai neutro: è un calcolo di mercato sulla longevità artistica. Prodotta da Indiana Production con un budget stimato di 3 milioni di euro — cifra contenuta per Netflix, ma in linea con le commedie italiane del catalogo — l’opera rischia di finire nel limbo dei contenuti di mezza stagione: troppo poco autorevoli per la critica, troppo poco virali per il pubblico. Con 1,2 milioni di follower su Instagram e un engagement rate del 6,8%, Sarah Toscano garantisce visibilità, non successo. Se il film entrerà nei primi dieci titoli più visti in Italia nella settimana d’esordio, Netflix valuterà una serie spin-off nello stesso liceo. Altrimenti, nel 2027 tornerà a Sanremo Giovani per ricominciare da capo.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Tommaso Riva\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-31T05:51:07.895550+00:00\",\n  \"dateModified\": \"2026-03-31T05:51:07.895550+00:00\",\n  \"url\": \"https://lentemattutina.it/cultura/49b69f2e2c001c2a\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cultura/49b69f2e2c001c2a\"\n  },\n  \"articleSection\": \"Cultura\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1751823886813-0cfc86cb9478?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxOZXRmbGl4JTIwbW92aWUlMjBzY2VuZXxlbnwwfDB8fHwxNzc0OTM2MjY3fDA&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Hafiz Faizan\"\n  }\n}",
+  "priority": 6,
+  "source": "ANSA Cultura",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/03/30/su-netflix-il-film-non-abbiam-bisogno-di-parole_f6f99818-79a3-4947-9fbb-9d4246a9f166.html",
+  "related": [
+    {
+      "title": "Harry Potter torna in sala il 16 novembre per il 25° anniversario",
+      "url": "/cultura/harry-potter-torna-in-sala-il-16-novembre-per-il-2-4dee97b5c0371056",
+      "id": "4dee97b5c0371056",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Harry_potter_2024.jpg",
+      "image_type": "wikimedia"
+    },
+    {
+      "title": "Notizia in primo piano",
+      "url": "/cultura/notizia-in-primo-piano-7201b3c42ee9a671",
+      "id": "7201b3c42ee9a671",
+      "image_url": "https://images.unsplash.com/photo-1691071666279-58adb714d0b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxmaWxtJTIwZmVzdGl2YWwlMjBqdXJ5JTIwcHJlc2lkZW50fGVufDB8MHx8fDE3NzQ5MzYyMDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Concerto alla sapienza con veronika eberle e dénes várjon",
+      "url": "/cultura/concerto-alla-sapienza-con-veronika-eberle-e-denes-79b74b266ab570b1",
+      "id": "79b74b266ab570b1",
+      "image_url": "https://images.unsplash.com/photo-1660959332792-f72be546a84f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxWZXJvbmlrYSUyMEViZXJsZSUyMHZpb2xpbnxlbnwwfDB8fHwxNzc0OTM2MjAyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    }
+  ]
+}
