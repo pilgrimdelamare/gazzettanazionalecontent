@@ -1,5 +1,21 @@
 [
   {
+    "id": "226fa69405873ae4",
+    "slug": "auto-nera-dalla-campania-colpisce-sigfrido-ranucci-226fa69405873ae4",
+    "title": "Sigfrido Ranucci: auto del commando individuata e tracciata fino in Campania",
+    "section": "giustizia",
+    "priority": 5,
+    "journalist_firma": "Carlo Amato",
+    "published_at": "2026-03-30T22:48:34.047663+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1607039634468-a37742985cc4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxhdXRvJTIwbmVyYSUyMGNvbiUyMGJvbWJhfGVufDB8MHx8fDE3NzQ5MjE3MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "ATTENTATO A SIGFRIDO RANUCCI",
+    "lead_preview": "Sigfrido Ranucci, il 16 ottobre scorso, è stato vittima di un attentato davanti alla sua casa, e ora si scopre che l'aut",
+    "tags": [
+      "attentato ranucci"
+    ]
+  },
+  {
     "id": "237d61d7a99e8557",
     "slug": "parlamento-israeliano-approva-la-legge-sulla-pena-237d61d7a99e8557",
     "title": "Israele introduce pena di morte",
@@ -1646,22 +1662,6 @@
       "casco bleu ucciso",
       "esplosione libano",
       "finul"
-    ]
-  },
-  {
-    "id": "226fa69405873ae4",
-    "slug": "auto-nera-dalla-campania-colpisce-sigfrido-ranucci-226fa69405873ae4",
-    "title": "Auto nera dalla Campania colpisce Sigfrido Ranucci",
-    "section": "giustizia",
-    "priority": 4,
-    "journalist_firma": "Silvia Greco",
-    "published_at": "2026-03-30T22:48:34.047663+00:00",
-    "image_type": "ddg_image",
-    "image_url": "https://www.carscoops.com/wp-content/uploads/2021/05/2021-alfa-romeo-giulia-carabinieri-italy-police-cars-0.jpg",
-    "occhiello": "ATTENTATO A RANUCCI, AUTO NERA INDIVIDUATA",
-    "lead_preview": "Sigfrido Ranucci il 16 ottobre scorso, attentato davanti alla sua casa. L'auto nera del commando è stata individuata, sa",
-    "tags": [
-      "attentato ranucci"
     ]
   },
   {
