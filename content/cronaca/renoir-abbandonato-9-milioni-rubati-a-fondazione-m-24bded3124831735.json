@@ -1,0 +1,57 @@
+{
+  "id": "24bded3124831735",
+  "slug": "renoir-abbandonato-9-milioni-rubati-a-fondazione-m-24bded3124831735",
+  "title": "Renoir abbandonato, 9 milioni rubati a Fondazione Magnani Rocca",
+  "titles": [
+    "Renoir abbandonato, 9 milioni rubati a Fondazione Magnani Rocca",
+    "Ladro misterioso: lascia Renoir da 1 milione, porta via Matisse e Cézanne",
+    "Furto lampo a Parma, banda in fuga con tre capolavori"
+  ],
+  "title_winner": null,
+  "section": "cronaca",
+  "occhiello": "RENOIR ABANDONATO DAI LADRI",
+  "lead": "Parma, 31 marzo 2026, il dipinto \"Paysage de Cagnes\" di Pierre-Auguste Renoir è stato abbandonato dai ladri durante la fuga dalla Fondazione Magnani Rocca",
+  "corpo1": "Il colpo è avvenuto tra il 22 e il 23 marzo, quando una banda di almeno quattro persone incappucciate ha fatto irruzione nella villa che custodisce la collezione permanente di Luigi Magnani, dopo aver segato le sbarre di un cancello e forzato un portone d'ingresso. I ladri hanno rubato tre capolavori per milioni di euro, ma hanno lasciato il Renoir nella stessa sala da cui pochi istanti prima avevano portato via gli altri dipinti. Secondo quanto riportato, la banda ha agito per meno di tre minuti all'interno della proprietà. Le opere rubate sono di piccole dimensioni e includono un matisse e un cézanne. Il bottino è stimato intorno ai nove milioni di euro. Le indagini sono in corso e gli inquirenti stanno esaminando le immagini della videosorveglianza e le tracce lasciate dai ladri. La storica dell'arte Silvia Evangelisti ha commentato il colpo, sostenendo che le opere sono troppo note per essere vendute e che potrebbe trattarsi di un furto su commissione, come quello del morandi rubato a longhi.",
+  "corpo2": "La Fondazione Magnani Rocca è una delle principali istituzioni culturali della regione Emilia-Romagna e la sua collezione permanente include opere di alcuni dei più grandi artisti della storia. Il colpo è un duro colpo per la fondazione e per la comunità artistica locale. La questione solleva interrogativi sulla sicurezza delle istituzioni culturali e sulla capacità delle forze dell'ordine di prevenire e contrastare questo tipo di reati. Il fatto che i ladri abbiano lasciato il Renoir durante la fuga suggerisce una certa concitazione e improvvisazione, ma anche una precisa conoscenza della collezione e degli obiettivi da colpire. La domanda è chi pagherà il conto — e la risposta, come sempre, non è Palazzo Chigi",
+  "journalist": {
+    "id": "chiara_esposito_01",
+    "firma": "Chiara Esposito",
+    "sezione": "cronaca"
+  },
+  "published_at": "2026-03-31T10:11:27.619994+00:00",
+  "image": {
+    "type": "unsplash",
+    "url": "https://images.unsplash.com/photo-1738502151045-80d94c15d564?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxpdGFsaWFuJTIwcG9saWNlJTIwYXJ0JTIwdGhlZnQlMjBpbnZlc3RpZ2F0aW9ufGVufDB8MHx8fDE3NzQ5NTE4ODd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "source": "Unsplash",
+    "credit": "Richard Wang",
+    "license": "Unsplash License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Renoir abbandonato, 9 milioni rubati a Fondazione Magnani Rocca\",\n  \"description\": \"Parma, 31 marzo 2026, il dipinto \\\"Paysage de Cagnes\\\" di Pierre-Auguste Renoir è stato abbandonato dai ladri durante la fuga dalla Fondazione Magnani Rocca\",\n  \"articleBody\": \"Parma, 31 marzo 2026, il dipinto \\\"Paysage de Cagnes\\\" di Pierre-Auguste Renoir è stato abbandonato dai ladri durante la fuga dalla Fondazione Magnani Rocca Il colpo è avvenuto tra il 22 e il 23 marzo, quando una banda di almeno quattro persone incappucciate ha fatto irruzione nella villa che custodisce la collezione permanente di Luigi Magnani, dopo aver segato le sbarre di un cancello e forzato un portone d'ingresso. I ladri hanno rubato tre capolavori per milioni di euro, ma hanno lasciato il Renoir nella stessa sala da cui pochi istanti prima avevano portato via gli altri dipinti. Secondo quanto riportato, la banda ha agito per meno di tre minuti all'interno della proprietà. Le opere rubate sono di piccole dimensioni e includono un matisse e un cézanne. Il bottino è stimato intorno ai nove milioni di euro. Le indagini sono in corso e gli inquirenti stanno esaminando le immagini della videosorveglianza e le tracce lasciate dai ladri. La storica dell'arte Silvia Evangelisti ha commentato il colpo, sostenendo che le opere sono troppo note per essere vendute e che potrebbe trattarsi di un furto su commissione, come quello del morandi rubato a longhi. La Fondazione Magnani Rocca è una delle principali istituzioni culturali della regione Emilia-Romagna e la sua collezione permanente include opere di alcuni dei più grandi artisti della storia. Il colpo è un duro colpo per la fondazione e per la comunità artistica locale. La questione solleva interrogativi sulla sicurezza delle istituzioni culturali e sulla capacità delle forze dell'ordine di prevenire e contrastare questo tipo di reati. Il fatto che i ladri abbiano lasciato il Renoir durante la fuga suggerisce una certa concitazione e improvvisazione, ma anche una precisa conoscenza della collezione e degli obiettivi da colpire. La domanda è chi pagherà il conto — e la risposta, come sempre, non è Palazzo Chigi\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Chiara Esposito\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-31T10:11:27.619994+00:00\",\n  \"dateModified\": \"2026-03-31T10:11:27.619994+00:00\",\n  \"url\": \"https://lentemattutina.it/cronaca/24bded3124831735\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cronaca/24bded3124831735\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1738502151045-80d94c15d564?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxpdGFsaWFuJTIwcG9saWNlJTIwYXJ0JTIwdGhlZnQlMjBpbnZlc3RpZ2F0aW9ufGVufDB8MHx8fDE3NzQ5NTE4ODd8MA&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Richard Wang\"\n  }\n}",
+  "priority": 7,
+  "source": "Il Fatto Quotidiano",
+  "source_type": "competitor",
+  "original_url": "https://www.ilfattoquotidiano.it/2026/03/31/furto-magnani-rocca-capolavori-abbandonato-renoir-notizie/8341155/",
+  "related": [
+    {
+      "title": "Zampolli chiede 5 milioni a fedez e mr. marra per diffamazione",
+      "url": "/cronaca/zampolli-chiede-5-milioni-a-fedez-e-mr-marra-per-d-65d8ca6d4f83de9d",
+      "id": "65d8ca6d4f83de9d",
+      "image_url": "https://www.repstatic.it/content/localirep/img/rep-milano/2026/03/31/103251424-a39e8c18-07bc-4768-89ee-382762a783e6.jpg",
+      "image_type": "feed_image"
+    },
+    {
+      "title": "Quattro ladri rubano 9 milioni di euro di arte a Traversetolo",
+      "url": "/cronaca/furto-dei-mirabilia-al-museo-di-parm-545bf729edf4b2c2",
+      "id": "545bf729edf4b2c2",
+      "image_url": "https://images.pexels.com/photos/36539811/pexels-photo-36539811.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
+    },
+    {
+      "title": "Uomo in giubotto tricolore spiata mentre assiste all'allenamento della nazionale",
+      "url": "/cronaca/uomo-in-giubotto-tricolore-spiata-mentre-assiste-a-21b81d9e85483798",
+      "id": "21b81d9e85483798",
+      "image_url": "https://images.unsplash.com/photo-1665398538664-549dc131d846?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxmb290YmFsbCUyMHRyYWluaW5nJTIwaW4lMjBib3NuaWF8ZW58MHwwfHx8MTc3NDk0ODMyMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    }
+  ]
+}
