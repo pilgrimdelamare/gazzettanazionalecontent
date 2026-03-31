@@ -1,5 +1,23 @@
 [
   {
+    "id": "dd7c1ca31acc53bb",
+    "slug": "bjaljatski-lascia-la-bielorussia-per-evitare-riarr-dd7c1ca31acc53bb",
+    "title": "Ales Bjaljatski lascia la Bielorussia per evitare riarresto",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-03-30T23:21:32.465913+00:00",
+    "image_type": "none",
+    "image_url": "",
+    "occhiello": "BJALJATSKI LASCIA LA BIELORUSSIA PER EVITARE LA RIARRESTO",
+    "lead_preview": "Il Nobel per la pace Ales Bjaljatski, premio Nobel nel 2022 mentre era in carcere, ha dichiarato di aver lasciato la Bie",
+    "tags": [
+      "ales bjaljatski",
+      "riarresto",
+      "premio nobel"
+    ]
+  },
+  {
     "id": "e0cb1cf72c38f8b0",
     "slug": "maurizio-delmastro-presidente-di-italia-nostra-coi-e0cb1cf72c38f8b0",
     "title": "Delmastro, presidente di Italia Nostra, indagato a Roma per fondi illeciti",
@@ -1107,23 +1125,6 @@
     "lead_preview": "Ilaria Bastianini, pilota italiano di motociclismo, ha espresso soddisfazione per la prestazione della sua squadra nelle",
     "tags": [
       "motogp bastianini"
-    ]
-  },
-  {
-    "id": "dd7c1ca31acc53bb",
-    "slug": "bjaljatski-lascia-la-bielorussia-per-evitare-riarr-dd7c1ca31acc53bb",
-    "title": "Bjaljatski lascia la Bielorussia per evitare riarresto",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-03-30T23:21:32.465913+00:00",
-    "image_type": "flickr",
-    "image_url": "https://live.staticflickr.com/31337/55173164039_e1f34a5fd5_b.jpg",
-    "occhiello": "UN ATTIVISTA BILOREUSSO CHIAMA ALLA FERMEZZA DELL'IMPERIALISMO RUSSO",
-    "lead_preview": "Ales Bjaljatski, premio Nobel per la pace nel 2022 mentre era in carcere, ha dichiarato di aver lasciato la Bielorussia ",
-    "tags": [
-      "bjajlatski bielorussia",
-      "premio nobel bjaljatski"
     ]
   },
   {
