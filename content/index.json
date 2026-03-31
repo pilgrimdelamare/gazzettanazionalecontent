@@ -1,5 +1,23 @@
 [
   {
+    "id": "12e82b2965c7b7d5",
+    "slug": "sinner-vince-34-set-di-fila-e-fa-il-double-miami-i-12e82b2965c7b7d5",
+    "title": "Notizia in primo piano",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Chiara Esposito",
+    "published_at": "2026-03-31T06:21:31.277116+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/7748767/pexels-photo-7748767.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "",
+    "lead_preview": "Jannik Sinner ha vinto 34 set consecutivi, 24 dei quali nel 2026, completando la sunshine double con le vittorie a India",
+    "tags": [
+      "tennis sinner",
+      "sunshine double",
+      "jannik sinner"
+    ]
+  },
+  {
     "id": "19712e88b77278be",
     "slug": "lorenza-antonucci-75000-persone-analizzate-19712e88b77278be",
     "title": "Laureati vs no: Antonucci trova un divario 5× più largo in UK",
@@ -1112,20 +1130,6 @@
       "diritti trans usa",
       "politiche anti-trans italia"
     ]
-  },
-  {
-    "id": "12e82b2965c7b7d5",
-    "slug": "sinner-vince-34-set-di-fila-e-fa-il-double-miami-i-12e82b2965c7b7d5",
-    "title": "Sinner vince 34 set di fila e fa il double Miami-Indian Wells",
-    "section": "cronaca",
-    "priority": 6,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-03-31T06:21:31.277116+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1744366807043-f2b188143ed3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxtb250ZSUyMGNhcmxvJTIwdGVubmlzJTIwdHJhaW5pbmd8ZW58MHwwfHx8MTc3NDkzODA5MXww&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "34 SET VINTI DI FILA PER SINNER",
-    "lead_preview": "Jannik Sinner ha vinto 34 set consecutivi, 24 dei quali nel 2026, completando la sunshine double con le vittorie a India",
-    "tags": []
   },
   {
     "id": "d3d94883f3356277",
