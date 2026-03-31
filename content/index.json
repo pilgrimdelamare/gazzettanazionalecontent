@@ -1,5 +1,21 @@
 [
   {
+    "id": "a90a1b3445cde000",
+    "slug": "notizia-in-primo-piano-a90a1b3445cde000",
+    "title": "Notizia in primo piano",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-03-31T10:27:52.030522+00:00",
+    "image_type": "wikimedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Denzel_Washington_%2829479254650%29.jpg",
+    "occhiello": "",
+    "lead_preview": "Denzel Hayes Washington Jr. è a Cinecittà per il film Annibale, che occuperà teatri di posa già utilizzati da Assassin’s",
+    "tags": [
+      "film annibale"
+    ]
+  },
+  {
     "id": "04c37ccf652a78f8",
     "slug": "la-vignetta-di-natangelo-su-meloni-e-trump-04c37ccf652a78f8",
     "title": "Meloni e Trump in vignetta satirica",
