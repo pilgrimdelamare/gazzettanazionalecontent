@@ -1,0 +1,57 @@
+{
+  "id": "9f5316db8a0c6720",
+  "slug": "zelenskyy-apre-a-ridurre-attacchi-energia-russa-9f5316db8a0c6720",
+  "title": "Zelenskyy apre a ridurre attacchi energia russa",
+  "titles": [
+    "ZELENSKYY APRE A RIDURRE ATTACCHI ENERGIA RUSSA",
+    "ZELENSKYY APRE A RIDURRE ATTACCHI ENERGIA RUSSA",
+    "ZELENSKYY APRE A RIDURRE ATTACCHI ENERGIA RUSSA"
+  ],
+  "title_winner": null,
+  "section": "esteri",
+  "occhiello": "ZELENSKYY APRE A RIDURRE ATTACCHI ENERGIA RUSSA",
+  "lead": "Volodymyr Zelenskyy, presidente dell'Ucraina, ha dichiarato il 30 marzo 2026 che alcuni dei suoi alleati hanno chiesto a Kyiv di ridurre gli attacchi a lungo raggio contro il settore petrolifero russo, in un momento in cui i prezzi energetici globali sono in aumento.",
+  "corpo1": "Secondo quanto riferito da Zelenskyy, gli alleati hanno chiesto a Kyiv sulla possibilità di ridurre gli attacchi contro il settore energetico russo. Il presidente ucraino ha affermato di essere pronto a ridurre gli attacchi se la russia dovesse fare altrettanto. La notizia arriva dopo 1.496 giorni di conflitto tra Ucraina e Russia. Gli attacchi contro il settore petrolifero russo hanno avuto un impatto significativo sui prezzi energetici globali, e gli alleati dell'ucraina potrebbero essere preoccupati per le possibili ripercussioni economiche. Zelenskyy ha anche affermato che la sua posizione è stata comunicata agli alleati, e che è pronto a discutere ulteriormente la questione. La russia non ha ancora commentato le dichiarazioni di zelenskyy.",
+  "corpo2": "",
+  "journalist": {
+    "id": "fabrizio_mei_01",
+    "firma": "Fabrizio Mei",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-03-31T01:49:49.554672+00:00",
+  "image": {
+    "type": "flickr",
+    "url": "https://live.staticflickr.com/65535/55162024144_8cf42f99aa_b.jpg",
+    "source": "Flickr",
+    "credit": "billkochman777",
+    "license": "CC"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"ZELENSKYY APRE A RIDURRE ATTACCHI ENERGIA RUSSA\",\n  \"description\": \"Volodymyr Zelenskyy, presidente dell'Ucraina, ha dichiarato il 30 marzo 2026 che alcuni dei suoi alleati hanno chiesto a Kyiv di ridurre gli attacchi a lungo raggio contro il settore petrolifero russo, in un momento in cui i prezzi energetici globali sono in aumento.\",\n  \"articleBody\": \"Volodymyr Zelenskyy, presidente dell'Ucraina, ha dichiarato il 30 marzo 2026 che alcuni dei suoi alleati hanno chiesto a Kyiv di ridurre gli attacchi a lungo raggio contro il settore petrolifero russo, in un momento in cui i prezzi energetici globali sono in aumento. Secondo quanto riferito da Zelenskyy, gli alleati hanno chiesto a Kyiv sulla possibilità di ridurre gli attacchi contro il settore energetico russo. Il presidente ucraino ha affermato di essere pronto a ridurre gli attacchi se la russia dovesse fare altrettanto. La notizia arriva dopo 1.496 giorni di conflitto tra Ucraina e Russia. Gli attacchi contro il settore petrolifero russo hanno avuto un impatto significativo sui prezzi energetici globali, e gli alleati dell'ucraina potrebbero essere preoccupati per le possibili ripercussioni economiche. Zelenskyy ha anche affermato che la sua posizione è stata comunicata agli alleati, e che è pronto a discutere ulteriormente la questione. La russia non ha ancora commentato le dichiarazioni di zelenskyy.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Fabrizio Mei\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-31T01:49:49.554672+00:00\",\n  \"dateModified\": \"2026-03-31T01:49:49.554672+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/9f5316db8a0c6720\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/9f5316db8a0c6720\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://live.staticflickr.com/65535/55162024144_8cf42f99aa_b.jpg\",\n    \"creditText\": \"billkochman777\"\n  }\n}",
+  "priority": 3,
+  "source": "The Guardian",
+  "source_type": "esteri",
+  "original_url": "https://www.theguardian.com/world/2026/mar/31/ukraine-war-briefing-allies-asked-kyiv-about-reducing-attacks-on-russian-energy-sector-zelenskyy-says",
+  "related": [
+    {
+      "title": "Trump minaccia guerra all'Iran se non si apre lo Stretto di Hormuz",
+      "url": "/esteri/trump-distruggeremo-impianti-elettrici-e-petrolife-a97b7794c5524847",
+      "id": "a97b7794c5524847",
+      "image_url": "",
+      "image_type": "none"
+    },
+    {
+      "title": "Zelensky offre tregua di Pasqua a Kiev: stop ai raid sull'energia",
+      "url": "/esteri/zelensky-offre-tregua-di-pasqua-a-kiev-7ae1a5cfea477d8b",
+      "id": "7ae1a5cfea477d8b",
+      "image_url": "",
+      "image_type": "none"
+    },
+    {
+      "title": "Zelensky offre moratoria agli attacchi sulle centrali energetiche",
+      "url": "/esteri/zelensky-ucraina-pronta-al-cessate-il-fuoco-11599c1d4a0d763d",
+      "id": "11599c1d4a0d763d",
+      "image_url": "",
+      "image_type": "none"
+    }
+  ]
+}
