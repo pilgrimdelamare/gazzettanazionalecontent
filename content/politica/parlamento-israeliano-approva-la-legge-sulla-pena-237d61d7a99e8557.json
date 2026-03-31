@@ -1,18 +1,18 @@
 {
   "id": "237d61d7a99e8557",
   "slug": "parlamento-israeliano-approva-la-legge-sulla-pena-237d61d7a99e8557",
-  "title": "Parlamento israeliano approva la legge sulla pena di morte per terrorismo",
+  "title": "Israele introduce pena di morte",
   "titles": [
-    "Parlamento israeliano approva la legge sulla pena di morte per terrorismo",
-    "Parlamento israeliano approva la legge sulla pena di morte per terrorismo",
-    "Parlamento israeliano approva la legge sulla pena di morte per terrorismo"
+    "Israele introduce pena di morte",
+    "62 voti a favore",
+    "Ben Gvir: fatto la storia"
   ],
   "title_winner": null,
   "section": "politica",
-  "occhiello": "Parlamento israeliano approva la legge sulla pena di morte per terrorismo",
-  "lead": "Il Parlamento israeliano ha approvato la legge che introduce la pena di morte per terrorismo, con 62 voti a favore e 48 contrari, in lettura finale La norma prevede la condanna capitale per \"chi causa intenzionalmente la morte di una persona nell'ambito di un atto di terrorismo, con l'intento di negare l'esistenza dello Stato di Israele\".",
-  "corpo1": "Il Parlamento israeliano ha approvato la legge che introduce la pena di morte per terrorismo, con 62 voti a favore e 48 contrari. La Knesset ha dato il suo ok in lettura finale e la norma è passata. Il ministro della Sicurezza nazionale, Itamar Ben Gvir, ha dichiarato: \"Abbiamo fatto la storia\".",
-  "corpo2": "La legge sulla pena di morte per terrorismo rappresenta un passo cruciale nella politica di sicurezza israeliana Sui prigionieri palestinesi accusati di terrorismo, la legge avrà un impatto potenzialmente letale Resta da vedere se la comunità internazionale riuscirà a far rispettare i diritti umani",
+  "occhiello": "ISRAELE APPROVA PENA DI MORTE",
+  "lead": "Il Parlamento israeliano ha approvato la legge che introduce la pena di morte per terrorismo, con 62 voti a favore e 48 contrari, il 30 marzo 2026.",
+  "corpo1": "Il voto ha segnato la fine di un lungo dibattito sul tema, con l'estrema destra che ha festeggiato in aula la decisione. Secondo quanto riportato, il testo della legge è stato approvato nonostante gli appelli congiunti dei paesi europei e delle organizzazioni per la difesa dei diritti umani. Il ministro Ben Gvir ha dichiarato: \"abbiamo fatto la storia\". La legge introduce la pena di morte per i prigionieri palestinesi accusati di \"terrorismo\", una misura che ha sollevato forti critiche da parte della comunità internazionale. La decisione del Parlamento israeliano è stata presa dopo un lungo e acceso dibattito, con molti parlamentari che hanno espresso la loro opposizione alla legge. Nonostante ciò, la maggioranza dei voti ha espresso il suo sostegno alla misura, che sarà ora inviata al presidente per la firma.",
+  "corpo2": "Ben Gvir, noto per le sue posizioni di estrema destra, ha una lunga storia di dichiarazioni e iniziative che hanno sollevato polemiche. Nel 2022, ad esempio, aveva proposto una legge per limitare la libertà di parola dei palestinesi. La sua nomina a ministro nel 2023 aveva già sollevato forti critiche da parte della comunità internazionale. Ora, con l'approvazione della legge sulla pena di morte, Gvir sembra aver raggiunto uno dei suoi obiettivi principali. Ma cosa significa davvero questa decisione per i palestinesi e per la comunità internazionale? La risposta a questa domanda potrebbe essere trovata nel fatto che, se il governo israeliano continuerà a percorrere questa strada, è ragionevole attendersi una forte escalation delle tensioni nel conflitto israelo-palestinese nel 2027.",
   "journalist": {
     "id": "elena_russo_01",
     "firma": "Elena Russo",
@@ -21,37 +21,38 @@
   "published_at": "2026-03-30T22:48:20.434055+00:00",
   "image": {
     "type": "flickr",
-    "url": "https://live.staticflickr.com/65535/55177240922_5c9cf57cd8_b.jpg",
+    "url": "https://live.staticflickr.com/65535/55093183096_886f068734_b.jpg",
     "source": "Flickr",
-    "credit": "senadores.morena",
+    "credit": "pepandtim",
     "license": "CC"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Parlamento israeliano approva la legge sulla pena di morte per terrorismo\",\n  \"description\": \"Il Parlamento israeliano ha approvato la legge che introduce la pena di morte per terrorismo, con 62 voti a favore e 48 contrari, in lettura finale La norma prevede la condanna capitale per \\\"chi causa intenzionalmente la morte di una persona nell'ambito di un atto di terrorismo, con l'intento di neg\",\n  \"articleBody\": \"Il Parlamento israeliano ha approvato la legge che introduce la pena di morte per terrorismo, con 62 voti a favore e 48 contrari, in lettura finale La norma prevede la condanna capitale per \\\"chi causa intenzionalmente la morte di una persona nell'ambito di un atto di terrorismo, con l'intento di negare l'esistenza dello Stato di Israele\\\". Il Parlamento israeliano ha approvato la legge che introduce la pena di morte per terrorismo, con 62 voti a favore e 48 contrari. La Knesset ha dato il suo ok in lettura finale e la norma è passata. Il ministro della Sicurezza nazionale, Itamar Ben Gvir, ha dichiarato: \\\"Abbiamo fatto la storia\\\". La legge sulla pena di morte per terrorismo rappresenta un passo cruciale nella politica di sicurezza israeliana Sui prigionieri palestinesi accusati di terrorismo, la legge avrà un impatto potenzialmente letale Resta da vedere se la comunità internazionale riuscirà a far rispettare i diritti umani\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Elena Russo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-30T22:48:20.434055+00:00\",\n  \"dateModified\": \"2026-03-30T22:48:20.434055+00:00\",\n  \"url\": \"https://lentemattutina.it/politica/237d61d7a99e8557\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/politica/237d61d7a99e8557\"\n  },\n  \"articleSection\": \"Politica\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://live.staticflickr.com/65535/55177240922_5c9cf57cd8_b.jpg\",\n    \"creditText\": \"senadores.morena\"\n  }\n}",
-  "priority": 4,
-  "source": "Redazione",
-  "source_type": "competitor_gap",
-  "original_url": "https://www.ilfattoquotidiano.it/2026/03/30/pena-morte-israele-terrorismo-approvazione-notizie/8340570/",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Israele introduce pena di morte\",\n  \"description\": \"Il Parlamento israeliano ha approvato la legge che introduce la pena di morte per terrorismo, con 62 voti a favore e 48 contrari, il 30 marzo 2026.\",\n  \"articleBody\": \"Il Parlamento israeliano ha approvato la legge che introduce la pena di morte per terrorismo, con 62 voti a favore e 48 contrari, il 30 marzo 2026. Il voto ha segnato la fine di un lungo dibattito sul tema, con l'estrema destra che ha festeggiato in aula la decisione. Secondo quanto riportato, il testo della legge è stato approvato nonostante gli appelli congiunti dei paesi europei e delle organizzazioni per la difesa dei diritti umani. Il ministro Ben Gvir ha dichiarato: \\\"abbiamo fatto la storia\\\". La legge introduce la pena di morte per i prigionieri palestinesi accusati di \\\"terrorismo\\\", una misura che ha sollevato forti critiche da parte della comunità internazionale. La decisione del Parlamento israeliano è stata presa dopo un lungo e acceso dibattito, con molti parlamentari che hanno espresso la loro opposizione alla legge. Nonostante ciò, la maggioranza dei voti ha espresso il suo sostegno alla misura, che sarà ora inviata al presidente per la firma. Ben Gvir, noto per le sue posizioni di estrema destra, ha una lunga storia di dichiarazioni e iniziative che hanno sollevato polemiche. Nel 2022, ad esempio, aveva proposto una legge per limitare la libertà di parola dei palestinesi. La sua nomina a ministro nel 2023 aveva già sollevato forti critiche da parte della comunità internazionale. Ora, con l'approvazione della legge sulla pena di morte, Gvir sembra aver raggiunto uno dei suoi obiettivi principali. Ma cosa significa davvero questa decisione per i palestinesi e per la comunità internazionale? La risposta a questa domanda potrebbe essere trovata nel fatto che, se il governo israeliano continuerà a percorrere questa strada, è ragionevole attendersi una forte escalation delle tensioni nel conflitto israelo-palestinese nel 2027.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Elena Russo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-30T22:48:20.434055+00:00\",\n  \"dateModified\": \"2026-03-30T22:48:20.434055+00:00\",\n  \"url\": \"https://lentemattutina.it/politica/237d61d7a99e8557\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/politica/237d61d7a99e8557\"\n  },\n  \"articleSection\": \"Politica\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://live.staticflickr.com/65535/55093183096_886f068734_b.jpg\",\n    \"creditText\": \"pepandtim\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://lentemattutina.it/politica/parlamento-israeliano-approva-la-legge-sulla-pena-237d61d7a99e8557",
   "related": [
     {
-      "title": "Governo incontra Confindustria il 1° aprile",
-      "url": "/politica/il-governo-convoca-confindustria-al-mimit-per-il-1-9c15f81fa2b9a909",
-      "id": "9c15f81fa2b9a909",
-      "image_url": "https://live.staticflickr.com/65535/55175947777_96b849d96b_b.jpg",
-      "image_type": "flickr"
-    },
-    {
-      "title": "Chiorino lascia la giunta",
-      "url": "/politica/chiorino-lascia-la-giunta-3885e3709b9a904f",
-      "id": "3885e3709b9a904f",
-      "image_url": "https://live.staticflickr.com/65535/55158000203_25abc4cc71_b.jpg",
-      "image_type": "flickr"
-    },
-    {
-      "title": "Cardinale Pizzaballa bloccato a Gerusalemme: niente messa",
+      "title": "Cardinale Pizzaballa bloccato in Israele, Meloni: 'Offesa ai credenti'",
       "url": "/politica/cardinale-pizzaballa-bloccato-a-gerusalemme-niente-a8e100b643a08774",
       "id": "a8e100b643a08774",
-      "image_url": "https://live.staticflickr.com/65535/55052124411_b1f52539ac_b.jpg",
+      "image_url": "https://live.staticflickr.com/65535/55052309058_5885c371dc_b.jpg",
+      "image_type": "flickr"
+    },
+    {
+      "title": "Delmastro convocato per interrogatorio mafia fondi pubblici",
+      "url": "/politica/delmastro-in-trappola-interrogatorio-per-affaracci-ccd5258cac2cc350",
+      "id": "ccd5258cac2cc350",
+      "image_url": "",
+      "image_type": "none"
+    },
+    {
+      "title": "Berlusconi slitta incontro con Tajani, tensione in Forza Italia",
+      "url": "/politica/berlusconi-rimanda-vertice-tajianni-e-la-fine-del-f6883645104f34b0",
+      "id": "f6883645104f34b0",
+      "image_url": "https://live.staticflickr.com/65535/53823077852_d930657d72_b.jpg",
       "image_type": "flickr"
     }
-  ]
+  ],
+  "updated_at": "2026-03-30T22:48:20.434055+00:00"
 }
