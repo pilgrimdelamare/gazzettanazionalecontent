@@ -1,0 +1,57 @@
+{
+  "id": "a3c6efffc32e2335",
+  "slug": "2157-minori-in-carcere-il-record-dellultimo-decenn-a3c6efffc32e2335",
+  "title": "2.157 minori in carcere, il record dell'ultimo decennio",
+  "titles": [
+    "2.157 minori in carcere, il record dell'ultimo decennio",
+    "Piantedosi: misure straordinarie, ma i dati smentiscono",
+    "Baby gang, il decreto Caivano non funziona: numeri in aumento"
+  ],
+  "title_winner": null,
+  "section": "politica",
+  "occhiello": "MINORI IN PIÙ MA DELITTI IN MENO",
+  "lead": "Valentina Punzo, 31 marzo 2026. I dati ufficiali registrano 2.157 minori in carcere nel marzo 2026, il livello più alto dell’ultimo decennio. Sono aumentati del 24% rispetto a fine 2023. Ma i reati segnalati per minorenni sono scesi del 18% sullo stesso periodo.",
+  "corpo1": "Il decreto Caivano, varato il 15 settembre 2023, aveva promesso di \"fronteggiare l’emergenza baby gang\". Due anni dopo, gli istituti penali minorili sono affollati come non accadeva da almeno dodici anni. La Procura di Torino ha registrato nel 2025 un aumento del 16% dei procedimenti per minori, ma i dati complessivi del Ministero dell’Interno mostrano una contraddizione: le denunce per minorenni sono calate del 12% rispetto al 2024 e del 19% rispetto al 2023. La Procura di Palermo ha evidenziato che il 72% dei procedimenti per \"atti di vandalismo\" riconducibili a gruppi giovanili non aveva alcun riscontro penale. Il ministro dell’Interno, Matteo Piantedosi, aveva ribadito a marzo 2025 che \"il fenomeno delle baby gang richiede misure straordinarie\", ignorando che lo stesso anno la Direzione Centrale dei Servizi per il Minore aveva rilevato una contrazione del 28% nei procedimenti per minori in Lombardia e Campania.",
+  "corpo2": "Il decreto Caivano ha creato un circolo vizioso: più si etichettano i ragazzi come \"gang\", più si giustifica la repressione e meno si investe in prevenzione. Il 43% del budget della sicurezza giovanile del 2025 è stato destinato a nuovi istituti penitenziari, mentre i fondi per centri di accoglienza sono calati del 37%. Il sindaco di Reggio Calabria, Giuseppe Falcomatà, aveva sostenuto nel 2024 che \"l’isolamento retributivo di questi ragazzi li spinge alla delinquenza\", ma il governo ha preferito promuovere una legge per estendere l’ergastolo ai 14enni. Il risultato? Gli istituti di Torino e Bari hanno registrato un aumento del 31% di minori con disturbi psicologici, mentre i dati della Camera di commercio mostrano che il 68% di questi ragazzi aveva un curriculum scolastico regolare prima dell’arresto. Se si continua a chiamare \"organizzazione criminale\" un gruppo di ragazzi che si picchiano in piazza, si finanzierà solo il carcere e si brucerà il futuro di chi magari aveva solo bisogno di un’alternativa alla strada.",
+  "journalist": {
+    "id": "sergio_mancini_01",
+    "firma": "Sergio Mancini",
+    "sezione": "politica"
+  },
+  "published_at": "2026-03-31T06:05:32.629932+00:00",
+  "image": {
+    "type": "unsplash",
+    "url": "https://images.unsplash.com/photo-1713947504109-08f15c1672a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxJdGFsaWFuJTIwcHJpc29uJTIwaW50ZXJpb3IlMjBjZWxsc3xlbnwwfDB8fHwxNzc0OTM3MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "source": "Unsplash",
+    "credit": "Vitaly Gariev",
+    "license": "Unsplash License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"2.157 minori in carcere, il record dell'ultimo decennio\",\n  \"description\": \"Valentina Punzo, 31 marzo 2026. I dati ufficiali registrano 2.157 minori in carcere nel marzo 2026, il livello più alto dell’ultimo decennio. Sono aumentati del 24% rispetto a fine 2023. Ma i reati segnalati per minorenni sono scesi del 18% sullo stesso periodo.\",\n  \"articleBody\": \"Valentina Punzo, 31 marzo 2026. I dati ufficiali registrano 2.157 minori in carcere nel marzo 2026, il livello più alto dell’ultimo decennio. Sono aumentati del 24% rispetto a fine 2023. Ma i reati segnalati per minorenni sono scesi del 18% sullo stesso periodo. Il decreto Caivano, varato il 15 settembre 2023, aveva promesso di \\\"fronteggiare l’emergenza baby gang\\\". Due anni dopo, gli istituti penali minorili sono affollati come non accadeva da almeno dodici anni. La Procura di Torino ha registrato nel 2025 un aumento del 16% dei procedimenti per minori, ma i dati complessivi del Ministero dell’Interno mostrano una contraddizione: le denunce per minorenni sono calate del 12% rispetto al 2024 e del 19% rispetto al 2023. La Procura di Palermo ha evidenziato che il 72% dei procedimenti per \\\"atti di vandalismo\\\" riconducibili a gruppi giovanili non aveva alcun riscontro penale. Il ministro dell’Interno, Matteo Piantedosi, aveva ribadito a marzo 2025 che \\\"il fenomeno delle baby gang richiede misure straordinarie\\\", ignorando che lo stesso anno la Direzione Centrale dei Servizi per il Minore aveva rilevato una contrazione del 28% nei procedimenti per minori in Lombardia e Campania. Il decreto Caivano ha creato un circolo vizioso: più si etichettano i ragazzi come \\\"gang\\\", più si giustifica la repressione e meno si investe in prevenzione. Il 43% del budget della sicurezza giovanile del 2025 è stato destinato a nuovi istituti penitenziari, mentre i fondi per centri di accoglienza sono calati del 37%. Il sindaco di Reggio Calabria, Giuseppe Falcomatà, aveva sostenuto nel 2024 che \\\"l’isolamento retributivo di questi ragazzi li spinge alla delinquenza\\\", ma il governo ha preferito promuovere una legge per estendere l’ergastolo ai 14enni. Il risultato? Gli istituti di Torino e Bari hanno registrato un aumento del 31% di minori con disturbi psicologici, mentre i dati della Camera di commercio mostrano che il 68% di questi ragazzi aveva un curriculum scolastico regolare prima dell’arresto. Se si continua a chiamare \\\"organizzazione criminale\\\" un gruppo di ragazzi che si picchiano in piazza, si finanzierà solo il carcere e si brucerà il futuro di chi magari aveva solo bisogno di un’alternativa alla strada.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Sergio Mancini\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-31T06:05:32.629932+00:00\",\n  \"dateModified\": \"2026-03-31T06:05:32.629932+00:00\",\n  \"url\": \"https://lentemattutina.it/politica/a3c6efffc32e2335\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/politica/a3c6efffc32e2335\"\n  },\n  \"articleSection\": \"Politica\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1713947504109-08f15c1672a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxJdGFsaWFuJTIwcHJpc29uJTIwaW50ZXJpb3IlMjBjZWxsc3xlbnwwfDB8fHwxNzc0OTM3MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Vitaly Gariev\"\n  }\n}",
+  "priority": 6,
+  "source": "Il Fatto Quotidiano",
+  "source_type": "competitor",
+  "original_url": "https://www.ilfattoquotidiano.it/2026/03/31/baby-gang-criminalita-minorile-decreto-caivano-dati-notizie/8337241/",
+  "related": [
+    {
+      "title": "Israele introduce pena di morte",
+      "url": "/politica/parlamento-israeliano-approva-la-legge-sulla-pena-237d61d7a99e8557",
+      "id": "237d61d7a99e8557",
+      "image_url": "https://live.staticflickr.com/65535/55093183096_886f068734_b.jpg",
+      "image_type": "flickr"
+    },
+    {
+      "title": "Delmastro convocato per interrogatorio mafia fondi pubblici",
+      "url": "/politica/delmastro-in-trappola-interrogatorio-per-affaracci-ccd5258cac2cc350",
+      "id": "ccd5258cac2cc350",
+      "image_url": "",
+      "image_type": "none"
+    },
+    {
+      "title": "Berlusconi slitta incontro con Tajani, tensione in Forza Italia",
+      "url": "/politica/berlusconi-rimanda-vertice-tajianni-e-la-fine-del-f6883645104f34b0",
+      "id": "f6883645104f34b0",
+      "image_url": "https://live.staticflickr.com/65535/53823077852_d930657d72_b.jpg",
+      "image_type": "flickr"
+    }
+  ]
+}
