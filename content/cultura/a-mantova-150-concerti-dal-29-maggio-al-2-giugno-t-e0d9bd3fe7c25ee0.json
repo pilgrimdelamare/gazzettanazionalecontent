@@ -1,0 +1,57 @@
+{
+  "id": "e0d9bd3fe7c25ee0",
+  "slug": "a-mantova-150-concerti-dal-29-maggio-al-2-giugno-t-e0d9bd3fe7c25ee0",
+  "title": "A Mantova 150 concerti dal 29 maggio al 2 giugno: Trame sonore invade la città",
+  "titles": [
+    "A Mantova 150 concerti dal 29 maggio al 2 giugno: Trame sonore invade la città",
+    "Trame sonore, Mantova diventa un palcoscenico: 150 eventi per tutti i gusti",
+    "Dal 29 maggio Mantova vibra con Trame sonore: musica per 50.226 abitanti e non s"
+  ],
+  "title_winner": null,
+  "section": "cultura",
+  "occhiello": "MANTOVA, 150 CONCERTI SONORI",
+  "lead": "A Mantova, dal 29 maggio al 2 giugno, si terrà il festival \"Trame sonore\" con 150 concerti che tesseranno la città con musica.",
+  "corpo1": "L'evento sarà una vera e propria tessitura di suoni che coinvolgerà la comunità locale e i visitatori provenienti da tutto il mondo. Secondo ANSA, il festival sarà un'occasione unica per scoprire nuove band e artisti emergenti, nonché per apprezzare le interpretazioni di musicisti consolidati. Mantova, con i suoi 50.226 abitanti, sarà la scena perfetta per questa",
+  "corpo2": "manifestazione musicale che si terrà in vari luoghi della città, tra cui piazze, vie e spazi all'aperto. Il festival \"Trame sonore\" non è solo un evento musicale ma anche un'occasione per scoprire la storia e la cultura della città di Mantova. La cittadina lombarda è famosa per essere il luogo di nascita del poeta romano Virgilio e il festival sarà un'occasione per esplorare la sua eredità culturale. Inoltre, il festival sarà anche un'opportunità per scoprire i talenti locali e per supportare la comunità musicale della città. Se il festival \"Trame sonore\" continua a crescere con questi numeri, tra due anni il dibattito mainstream non potrà più ignorarlo, nel bene o nel male.",
+  "journalist": {
+    "id": "tommaso_riva_01",
+    "firma": "Tommaso Riva",
+    "sezione": "cultura"
+  },
+  "published_at": "2026-03-31T05:41:20.662937+00:00",
+  "image": {
+    "type": "unsplash",
+    "url": "https://images.unsplash.com/photo-1620935189009-a820429b03d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxjb25jZXJ0aSUyMGZlc3RpdmFsJTIwaXRhbHl8ZW58MHwwfHx8MTc3NDkzNTY4MHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "source": "Unsplash",
+    "credit": "Babak Habibi",
+    "license": "Unsplash License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"A Mantova 150 concerti dal 29 maggio al 2 giugno: Trame sonore invade la città\",\n  \"description\": \"A Mantova, dal 29 maggio al 2 giugno, si terrà il festival \\\"Trame sonore\\\" con 150 concerti che tesseranno la città con musica.\",\n  \"articleBody\": \"A Mantova, dal 29 maggio al 2 giugno, si terrà il festival \\\"Trame sonore\\\" con 150 concerti che tesseranno la città con musica. L'evento sarà una vera e propria tessitura di suoni che coinvolgerà la comunità locale e i visitatori provenienti da tutto il mondo. Secondo ANSA, il festival sarà un'occasione unica per scoprire nuove band e artisti emergenti, nonché per apprezzare le interpretazioni di musicisti consolidati. Mantova, con i suoi 50.226 abitanti, sarà la scena perfetta per questa manifestazione musicale che si terrà in vari luoghi della città, tra cui piazze, vie e spazi all'aperto. Il festival \\\"Trame sonore\\\" non è solo un evento musicale ma anche un'occasione per scoprire la storia e la cultura della città di Mantova. La cittadina lombarda è famosa per essere il luogo di nascita del poeta romano Virgilio e il festival sarà un'occasione per esplorare la sua eredità culturale. Inoltre, il festival sarà anche un'opportunità per scoprire i talenti locali e per supportare la comunità musicale della città. Se il festival \\\"Trame sonore\\\" continua a crescere con questi numeri, tra due anni il dibattito mainstream non potrà più ignorarlo, nel bene o nel male.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Tommaso Riva\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-31T05:41:20.662937+00:00\",\n  \"dateModified\": \"2026-03-31T05:41:20.662937+00:00\",\n  \"url\": \"https://lentemattutina.it/cultura/e0d9bd3fe7c25ee0\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cultura/e0d9bd3fe7c25ee0\"\n  },\n  \"articleSection\": \"Cultura\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1620935189009-a820429b03d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxjb25jZXJ0aSUyMGZlc3RpdmFsJTIwaXRhbHl8ZW58MHwwfHx8MTc3NDkzNTY4MHww&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Babak Habibi\"\n  }\n}",
+  "priority": 6,
+  "source": "ANSA Cultura",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/03/30/a-mantova-trame-sonore-con-150-concerti-tesse-di-musica-la-citta_a11a6fba-3781-4551-a02d-993abd3a6cea.html",
+  "related": [
+    {
+      "title": "Calcio: Gattuso: 'L'Italia si gioca tutto in Bosnia il 3 giugno'",
+      "url": "/sport/calcio-italia-tutto-in-gioco-con-la-bosnia-il-3-gi-22fc784c1584fb67",
+      "id": "22fc784c1584fb67",
+      "image_url": "https://live.staticflickr.com/2574/3857013885_f42c05196b_b.jpg",
+      "image_type": "flickr"
+    },
+    {
+      "title": "Wembanyama, 41 punti e doppio-doppio in 8'31\": record NBA!",
+      "url": "/esteri/wembanyama-41-punti-e-doppio-doppio-in-831-record-56e3b72300966d52",
+      "id": "56e3b72300966d52",
+      "image_url": "https://images.unsplash.com/photo-1740478870995-43b6e78ecf91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxWaWN0b3IlMjBXZW1iYW55YW1hfGVufDB8MHx8fDE3NzQ5MzUwNzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "La Repubblica rivela: Angelo Carotenuto analizza vantaggi dei mancini",
+      "url": "/cronaca/la-repubblica-svela-gli-sport-dove-i-mancini-sono-5b712098ccb0a88e",
+      "id": "5b712098ccb0a88e",
+      "image_url": "https://images.unsplash.com/photo-1518876204695-602a80a9c6bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxpdGFseSUyMHNwb3J0cyUyMGxlZnQtaGFuZGVkJTIwYWR2YW50YWdlfGVufDB8MHx8fDE3NzQ5MzUwMTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    }
+  ]
+}
