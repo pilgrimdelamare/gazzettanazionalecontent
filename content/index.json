@@ -1,5 +1,23 @@
 [
   {
+    "id": "6ebddcedd4a431e9",
+    "slug": "edouard-philippe-stop-al-ricongiungimento-familiar-6ebddcedd4a431e9",
+    "title": "Philippe: stop ai ricongiungimenti familiari",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-03-31T09:33:43.381789+00:00",
+    "image_type": "wikimedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Family_photo_2000s.jpg",
+    "occhiello": "Édouard Philippe: \"Fermiamo il ricongiungimento familiare\"",
+    "lead_preview": "Édouard Philippe, sindaco di Le Havre (fonte originale: Édouard Philippe) e candidato alle presidenziali francesi per il",
+    "tags": [
+      "ricongiungimento familiare",
+      "edouard philippe",
+      "elezioni francesi"
+    ]
+  },
+  {
     "id": "29e0268dccde5fa1",
     "slug": "beckham-pagato-da-lenovo-per-ai-ai-mondiali-fifa-29e0268dccde5fa1",
     "title": "Lenovo ingaggia David Beckham",
@@ -333,20 +351,6 @@
       "stretto di hormuz",
       "trump minaccia iran"
     ]
-  },
-  {
-    "id": "6ebddcedd4a431e9",
-    "slug": "edouard-philippe-stop-al-ricongiungimento-familiar-6ebddcedd4a431e9",
-    "title": "Édouard Philippe: stop al ricongiungimento familiare",
-    "section": "esteri",
-    "priority": 4,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-03-31T09:33:43.381789+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/%C3%89douard_Philippe.jpg",
-    "occhiello": "PHILIPPE: IMMIGRAZIONE \"SCELTA\" E RAPPORTI NORMALIZZATI CON L'ALGERIA",
-    "lead_preview": "Édouard Philippe, sindaco de Le Havre e candidato alle presidenziali francesi per il partito Horizons, ha delineato al F",
-    "tags": []
   },
   {
     "id": "02554b916fe851c0",
