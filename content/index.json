@@ -1,5 +1,21 @@
 [
   {
+    "id": "8e74c0b3b361bae1",
+    "slug": "64-dei-venezuelani-chiede-urne-entro-il-2026-8e74c0b3b361bae1",
+    "title": "64% dei venezuelani vuole nuove elezioni",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-03-30T22:50:19.876207+00:00",
+    "image_type": "wikimedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Elecciones_Venezuela_2021.jpg",
+    "occhiello": "VENEZUELA IN MOVIMENTO",
+    "lead_preview": "Il 64% dei venezuelani chiede nuove elezioni entro il 2026, secondo un sondaggio Poder Estrategia pubblicato il 30 marzo",
+    "tags": [
+      "elezioni venezuela"
+    ]
+  },
+  {
     "id": "9d6b14a23a421a74",
     "slug": "governo-valuta-taglio-incentivi-760-milioni-9d6b14a23a421a74",
     "title": "Governo suona la campana dei tagli al credito d'imposta (760 milioni a rischio)",
@@ -1616,22 +1632,6 @@
       "mps",
       "lista cda",
       "consulente iss"
-    ]
-  },
-  {
-    "id": "8e74c0b3b361bae1",
-    "slug": "64-dei-venezuelani-chiede-urne-entro-il-2026-8e74c0b3b361bae1",
-    "title": "64% dei venezuelani chiede urne entro il 2026",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-03-30T22:50:19.876207+00:00",
-    "image_type": "flickr",
-    "image_url": "https://live.staticflickr.com/65535/55177372287_6bd549999c_b.jpg",
-    "occhiello": "VENEZUELA, IL 64% CHE CHIAMA URNE AL RISSO",
-    "lead_preview": "VENEZUELA, IL 64% CHE CHIAMA URNE AL RISSO Secondo un sondaggio Poder Estrategia, il 64% dei venezuelani chiede nuove pr",
-    "tags": [
-      "venezuela urne 2026"
     ]
   },
   {
