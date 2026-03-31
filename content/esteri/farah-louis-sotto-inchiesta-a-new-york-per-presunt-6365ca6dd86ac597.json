@@ -1,44 +1,37 @@
 {
   "id": "6365ca6dd86ac597",
   "slug": "farah-louis-sotto-inchiesta-a-new-york-per-presunt-6365ca6dd86ac597",
-  "title": "Consigliera comunale di Brooklyn indagata per corruzione su fondi edilizia",
+  "title": "Corruzione a New York: indagine su Farah Louis e Debbie Loui",
   "titles": [
-    "Consigliera comunale di Brooklyn indagata per corruzione su fondi edilizia",
-    "Farah Louis, la consigliera con la sorella al centro dell'inchiesta a New York",
-    "Fondi edilizia, disparità nella distribuzione: la procura di New York indaga"
+    "Corruzione a New York: indagine su Farah Louis e Debbie Loui",
+    "Procuratore Bragg indaga su sospette tangenti ai rifiuti a New York",
+    "Farah Louis e sorella: il doppio colpo per la politica newyorkese"
   ],
   "title_winner": null,
   "section": "esteri",
-  "occhiello": "FARAH LOUIS SOTTO INCHIESTA A NEW YORK",
-  "lead": "Il procuratore distrettuale di New York, Alvin Bragg, sta indagando sulla presunta corruzione di Farah Louis, consigliera comunale di Brooklyn, e sua sorella Debbie Loui. L'indagine riguarda fondi assegnati per l'edilizia abitativa e la ricostruzione di case popolari. Secondo fonti anonime, i sospetti sono stati sollevati dopo che alcuni funzionari comunali avevano segnalato disparità nella distribuzione dei fondi.",
-  "corpo1": "Farah Louis, consigliera comunale del 45° distretto di Brooklyn, è stata oggetto di indagine dal procuratore distrettuale di New York, Alvin Bragg. L'indagine riguarda la presunta corruzione di Louis e sua sorella Debbie Loui in merito ai fondi assegnati per l'edilizia abitativa e la ricostruzione di case popolari. Secondo fonti anonime, i sospetti sono stati sollevati dopo che alcuni funzionari comunali avevano segnalato disparità nella distribuzione dei fondi. L'indagine è stata avviata il 30 marzo 2026 e coinvolge anche la sorella di Louis, Debbie Loui, che è stata nominata nella richiesta di avviso di indagine.\n\nLa richiesta di avviso di indagine è stata emessa dopo che alcuni funzionari comunali avevano segnalato che i fondi assegnati per l'edilizia abitativa e la ricostruzione di case popolari erano stati distribuiti in modo discriminatorio. Secondo fonti anonime, i funzionari avevano segnalato che i fondi erano stati assegnati prevalentemente a aree della città con popolazioni più ricche.\n\nLa richiesta di avviso di indagine cita specificamente l'articolo 206 del codice penale dello Stato di New York, che definisce la corruzione come \"l'azione di un pubblico ufficiale che riceve o accetta denaro o altri beni di valore in cambio dell'esercizio delle sue funzioni\".\n\nLa richiesta di avviso di indagine è stata emessa dal procuratore distrettuale di New York, Alvin Bragg, che ha dichiarato che l'indagine sarà condotta con la massima trasparenza e che tutti gli indagati saranno trattati in modo imparziale.",
+  "occhiello": "FARAH LOUIS SOTTO INCHIESTA PER PRESUNTA CORRUZIONE",
+  "lead": "Il procuratore distrettuale di New York, Alvin Bragg, sta indagando sulla presunta corruzione di Farah Louis, membro del New York City Council per il 45° distretto, e sua sorella Debbie Loui, una politica americana. L'indagine riguarda fondi destinati a rifiuti e spazzamento nella città di New York, un problema che potrebbe avere conseguenze per la città e i suoi cittadini. La notizia è emersa il 31 marzo 2026, una data che potrebbe avere conseguenze per la carriera politica di Farah Louis e sua sorella Debbie Loui.",
+  "corpo1": "Farah Louis e sua sorella Debbie Loui sono state coinvolte in un'inchiesta per presunta corruzione riguardante fondi destinati a rifiuti e spazzamento nella città di New York. Il procuratore distrettuale di New York, Alvin Bragg, sta conducendo l'indagine, che si concentra su fondi destinati a progetti di rifiuti e spazzamento nella città. La sospetta corruzione è stata denunciata da fonti anonime e il procuratore ha dichiarato di stare \"investigando le circostanze\" della vicenda. La notizia è emersa il 31 marzo 2026 e potrebbe avere conseguenze per la carriera politica di Farah Louis e sua sorella Debbie Loui, due politici americani. Secondo fonti ufficiali, l'inchiesta si concentra su fondi destinati a progetti di rifiuti e spazzamento nella città di New York, ma il procuratore non ha fornito ulteriori dettagli sulla natura degli eventuali reati. Il procuratore ha dichiarato di stare lavorando per \"raccogliere informazioni\" sulla vicenda e di \"non commentare ulteriormente\" fino a quando l'indagine non sarà conclusa.",
   "corpo2": "",
   "journalist": {
-    "id": "anna_colombo_01",
-    "firma": "Anna Colombo",
+    "id": "fabrizio_mei_01",
+    "firma": "Fabrizio Mei",
     "sezione": "esteri"
   },
   "published_at": "2026-03-31T00:00:15.722171+00:00",
   "image": {
-    "type": "unsplash",
-    "url": "https://images.unsplash.com/photo-1556474835-d22172f95fd3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxOZXclMjBZb3JrJTIwY29ycnVwdGlvbiUyMGludmVzdGlnYXRpb258ZW58MHwwfHx8MTc3NDkyMzA3Mnww&ixlib=rb-4.1.0&q=80&w=1080",
-    "source": "Unsplash",
-    "credit": "Fred Moon",
-    "license": "Unsplash License"
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/36578412/pexels-photo-36578412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Edalisu .",
+    "license": "Pexels License"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Consigliera comunale di Brooklyn indagata per corruzione su fondi edilizia\",\n  \"description\": \"Il procuratore distrettuale di New York, Alvin Bragg, sta indagando sulla presunta corruzione di Farah Louis, consigliera comunale di Brooklyn, e sua sorella Debbie Loui. L'indagine riguarda fondi assegnati per l'edilizia abitativa e la ricostruzione di case popolari. Secondo fonti anonime, i sospet\",\n  \"articleBody\": \"Il procuratore distrettuale di New York, Alvin Bragg, sta indagando sulla presunta corruzione di Farah Louis, consigliera comunale di Brooklyn, e sua sorella Debbie Loui. L'indagine riguarda fondi assegnati per l'edilizia abitativa e la ricostruzione di case popolari. Secondo fonti anonime, i sospetti sono stati sollevati dopo che alcuni funzionari comunali avevano segnalato disparità nella distribuzione dei fondi. Farah Louis, consigliera comunale del 45° distretto di Brooklyn, è stata oggetto di indagine dal procuratore distrettuale di New York, Alvin Bragg. L'indagine riguarda la presunta corruzione di Louis e sua sorella Debbie Loui in merito ai fondi assegnati per l'edilizia abitativa e la ricostruzione di case popolari. Secondo fonti anonime, i sospetti sono stati sollevati dopo che alcuni funzionari comunali avevano segnalato disparità nella distribuzione dei fondi. L'indagine è stata avviata il 30 marzo 2026 e coinvolge anche la sorella di Louis, Debbie Loui, che è stata nominata nella richiesta di avviso di indagine.\\n\\nLa richiesta di avviso di indagine è stata emessa dopo che alcuni funzionari comunali avevano segnalato che i fondi assegnati per l'edilizia abitativa e la ricostruzione di case popolari erano stati distribuiti in modo discriminatorio. Secondo fonti anonime, i funzionari avevano segnalato che i fondi erano stati assegnati prevalentemente a aree della città con popolazioni più ricche.\\n\\nLa richiesta di avviso di indagine cita specificamente l'articolo 206 del codice penale dello Stato di New York, che definisce la corruzione come \\\"l'azione di un pubblico ufficiale che riceve o accetta denaro o altri beni di valore in cambio dell'esercizio delle sue funzioni\\\".\\n\\nLa richiesta di avviso di indagine è stata emessa dal procuratore distrettuale di New York, Alvin Bragg, che ha dichiarato che l'indagine sarà condotta con la massima trasparenza e che tutti gli indagati saranno trattati in modo imparziale.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-31T00:00:15.722171+00:00\",\n  \"dateModified\": \"2026-03-31T00:00:15.722171+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/6365ca6dd86ac597\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/6365ca6dd86ac597\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1556474835-d22172f95fd3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxOZXclMjBZb3JrJTIwY29ycnVwdGlvbiUyMGludmVzdGlnYXRpb258ZW58MHwwfHx8MTc3NDkyMzA3Mnww&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Fred Moon\"\n  }\n}",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Corruzione a New York: indagine su Farah Louis e Debbie Loui\",\n  \"description\": \"Il procuratore distrettuale di New York, Alvin Bragg, sta indagando sulla presunta corruzione di Farah Louis, membro del New York City Council per il 45° distretto, e sua sorella Debbie Loui, una politica americana. L'indagine riguarda fondi destinati a rifiuti e spazzamento nella città di New York,\",\n  \"articleBody\": \"Il procuratore distrettuale di New York, Alvin Bragg, sta indagando sulla presunta corruzione di Farah Louis, membro del New York City Council per il 45° distretto, e sua sorella Debbie Loui, una politica americana. L'indagine riguarda fondi destinati a rifiuti e spazzamento nella città di New York, un problema che potrebbe avere conseguenze per la città e i suoi cittadini. La notizia è emersa il 31 marzo 2026, una data che potrebbe avere conseguenze per la carriera politica di Farah Louis e sua sorella Debbie Loui. Farah Louis e sua sorella Debbie Loui sono state coinvolte in un'inchiesta per presunta corruzione riguardante fondi destinati a rifiuti e spazzamento nella città di New York. Il procuratore distrettuale di New York, Alvin Bragg, sta conducendo l'indagine, che si concentra su fondi destinati a progetti di rifiuti e spazzamento nella città. La sospetta corruzione è stata denunciata da fonti anonime e il procuratore ha dichiarato di stare \\\"investigando le circostanze\\\" della vicenda. La notizia è emersa il 31 marzo 2026 e potrebbe avere conseguenze per la carriera politica di Farah Louis e sua sorella Debbie Loui, due politici americani. Secondo fonti ufficiali, l'inchiesta si concentra su fondi destinati a progetti di rifiuti e spazzamento nella città di New York, ma il procuratore non ha fornito ulteriori dettagli sulla natura degli eventuali reati. Il procuratore ha dichiarato di stare lavorando per \\\"raccogliere informazioni\\\" sulla vicenda e di \\\"non commentare ulteriormente\\\" fino a quando l'indagine non sarà conclusa.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Fabrizio Mei\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-31T00:00:15.722171+00:00\",\n  \"dateModified\": \"2026-03-31T00:00:15.722171+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/6365ca6dd86ac597\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/6365ca6dd86ac597\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/36578412/pexels-photo-36578412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Edalisu .\"\n  }\n}",
   "priority": 5,
   "source": "refresh",
   "source_type": "refresh",
   "original_url": "https://lentemattutina.it/esteri/farah-louis-sotto-inchiesta-a-new-york-per-presunt-6365ca6dd86ac597",
   "related": [
-    {
-      "title": "Fondi scomparsi dopo il voto, i fan di trump adorano un romanzo.",
-      "url": "/esteri/trump-e-i-suoi-seguaci-adorano-un-libro-che-descri-0f038bcadba99164",
-      "id": "0f038bcadba99164",
-      "image_url": "https://live.staticflickr.com/8422/7663231570_fa8a084dd1_b.jpg",
-      "image_type": "flickr"
-    },
     {
       "title": "Ronaldo compra attico da 7,8 milioni a Miami",
       "url": "/esteri/ronaldo-acquista-attico-da-78-milioni-a-miami-a2324ed099bd2559",
@@ -52,6 +45,13 @@
       "id": "9f24d49233bd8bbe",
       "image_url": "https://live.staticflickr.com/65535/54842210055_fe06e480e6_b.jpg",
       "image_type": "flickr"
+    },
+    {
+      "title": "Netanyahu: 'Oltre metà obiettivi raggiunti' a Gaza",
+      "url": "/esteri/netanyahu-meta-obiettivi-di-guerra-raggiunti-dd8ca7754410c907",
+      "id": "dd8ca7754410c907",
+      "image_url": "https://cdnph.upi.com/sv/ph/og/i/5451731397490/2024/1/17314012596639/v1.5/No-cease-fire-in-Lebanon-until-war-objectives-met-says-Israels-new-defense-minister.jpg",
+      "image_type": "ddg_image"
     }
   ],
   "updated_at": "2026-03-31T00:00:15.722171+00:00"
