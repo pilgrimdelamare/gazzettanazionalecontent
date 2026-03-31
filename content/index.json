@@ -1,5 +1,22 @@
 [
   {
+    "id": "7ae1a5cfea477d8b",
+    "slug": "zelensky-offre-tregua-di-pasqua-a-kiev-7ae1a5cfea477d8b",
+    "title": "Zelensky offre tregua di Pasqua a Kiev: stop ai raid sull'energia",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-03-30T23:20:47.986110+00:00",
+    "image_type": "none",
+    "image_url": "",
+    "occhiello": "ZELENSKY OFFRE TREGUA DI PASQUA A KIEV",
+    "lead_preview": "Volodymyr Zelensky, presidente ucraino, ha offerto una tregua di Pasqua a Kiev, chiedendo di fermare i raid sull'energia",
+    "tags": [
+      "guerra ucraina",
+      "zelensky"
+    ]
+  },
+  {
     "id": "0cbc6218f633cbbf",
     "slug": "il-tunnel-del-muro-del-pianto-resta-aperto-unica-v-0cbc6218f633cbbf",
     "title": "17mila soldati schierati a Gerusalemme per proteggere il Tunnel del Muro del Pia",
@@ -1142,23 +1159,6 @@
     "lead_preview": "Ilaria Bastianini, pilota italiano di motociclismo, ha espresso soddisfazione per la prestazione della sua squadra nelle",
     "tags": [
       "motogp bastianini"
-    ]
-  },
-  {
-    "id": "7ae1a5cfea477d8b",
-    "slug": "zelensky-offre-tregua-di-pasqua-a-kiev-7ae1a5cfea477d8b",
-    "title": "Zelensky offre tregua di Pasqua a Kiev",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-03-30T23:20:47.986110+00:00",
-    "image_type": "flickr",
-    "image_url": "https://live.staticflickr.com/65535/55176471137_8809635344_b.jpg",
-    "occhiello": "ZELENSKY OFFRE TREGUA DI PASQUA: \"FERMIAMO I RAID SULL'ENERGIA\"",
-    "lead_preview": "Zelensky, presidente ucraino, offre una tregua di Pasqua a Kiev, chiedendo di fermare i raid sull'energia. La proposta d",
-    "tags": [
-      "guerra ucraina",
-      "tregua pasqua"
     ]
   },
   {
