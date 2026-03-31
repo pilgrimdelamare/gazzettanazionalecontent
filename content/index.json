@@ -1,5 +1,21 @@
 [
   {
+    "id": "f34b9d2178df81ec",
+    "slug": "iran-nessun-negoziato-con-usa-f34b9d2178df81ec",
+    "title": "Iran: no a proposte USA, guerra continua",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-03-30T22:44:44.063891+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1757916315213-b7254eea4f9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxkaXBsb21hdGljJTIwbWVldGluZyUyMGlyYW58ZW58MHwwfHx8MTc3NDkyMjE5MHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "NESSUN NEGOZIO CON USA",
+    "lead_preview": "Il 30 marzo 2026, l'Iran ha dichiarato che non ci sono stati negoziati con gli Stati Uniti da inizio guerra, solo propos",
+    "tags": [
+      "guerra iran"
+    ]
+  },
+  {
     "id": "39e2c91e2e5ba2da",
     "slug": "3-caschi-blu-uccisi-in-libano-39e2c91e2e5ba2da",
     "title": "Tre caschi blu indonesiani uccisi nel Libano meridionale",
@@ -1852,23 +1868,6 @@
     "tags": [
       "incontro governo confindustria",
       "confindustria aprile"
-    ]
-  },
-  {
-    "id": "f34b9d2178df81ec",
-    "slug": "iran-nessun-negoziato-con-usa-f34b9d2178df81ec",
-    "title": "Iran: nessun negoziato con USA",
-    "section": "esteri",
-    "priority": 7,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-03-30T22:44:44.063891+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1772299399824-592b030b2dde?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxJcmFuJTIwZGlwbG9tYWN5fGVufDB8MHx8fDE3NzQ5MTA2ODN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "IRAN RIFIUTA NEGOZIATI USA",
-    "lead_preview": "Il 30 marzo 2026, l'Iran ha dichiarato che non ci sono stati negoziati con gli Stati Uniti da inizio guerra, solo propos",
-    "tags": [
-      "guerra iran",
-      "iran usa"
     ]
   },
   {
