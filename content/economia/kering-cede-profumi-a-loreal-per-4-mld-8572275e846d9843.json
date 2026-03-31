@@ -1,0 +1,57 @@
+{
+  "id": "8572275e846d9843",
+  "slug": "kering-cede-profumi-a-loreal-per-4-mld-8572275e846d9843",
+  "title": "Kering cede profumi a L'Oréal per 4 mld",
+  "titles": [
+    "Kering cede profumi a L'Oréal per 4 mld",
+    "Luca de Meo rilancia Kering con la cessione",
+    "Kering punta sull'alto di gamma con 4 mld incassati"
+  ],
+  "title_winner": null,
+  "section": "economia",
+  "occhiello": "KERING CEDE I PROFUMI A L’ORÉAL PER 4 MILIARDI",
+  "lead": "Kering, il gruppo del lusso francese, cede i suoi profumi a L'Oréal per 4 miliardi di euro. La notizia è stata annunciata martedì 31 marzo 2026. Luca de Meo, ad del gruppo, presenterà a Firenze il nuovo piano di rilancio il 16 aprile.",
+  "corpo1": "marchi di alta gamma come Gucci e Saint Laurent. Secondo la Repubblica, il gruppo ha deciso di vendere i suoi profumi per 4 miliardi di euro, un prezzo che rappresenta una cifra significativa per l'industria del lusso. Il piano di rilancio di Kering sarà presentato da Luca de Meo a Firenze il 16 aprile. De Meo ha annunciato che il gruppo darà la priorità ai marchi di alta gamma e ridurrà il suo debito. La cessione dei",
+  "corpo2": "profumi a L'Oréal è un passo importante per raggiungere questo obiettivo. La cessione dei profumi a L'Oréal è anche un segno di cambiamento nell'industria del lusso. L'Oréal è uno dei principali giocatori nel settore dei profumi e la sua acquisizione di Kering rappresenta un'opportunità per espandere la sua presenza nel mercato del lusso. Tuttavia, la cessione dei profumi a L'Oréal non è senza critiche. Alcuni analisti hanno espresso preoccupazioni sulla capacità di Kering di mantenere la sua presenza nel mercato dei profumi. Altri hanno criticato la decisione di cedere i profumi a L'Oréal, sostenendo che il gruppo avrebbe dovuto tenere i suoi profumi per mantenerne il controllo. Se queste cifre vengono confermate anche nel prossimo trimestre, il conto per i contribuenti ordinari diventerà questo: 4 miliardi di euro di ricavi per L'Oréal, 1,5 miliardi di euro di ricavi per Kering (senza i profumi), e un debito di 10 miliardi di euro per il gruppo del lusso francese.",
+  "journalist": {
+    "id": "giorgio_ferrara_01",
+    "firma": "Giorgio Ferrara",
+    "sezione": "economia"
+  },
+  "published_at": "2026-03-31T21:28:15.505637+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/18526883/pexels-photo-18526883.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Nandhakishor P",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Kering cede profumi a L'Oréal per 4 mld\",\n  \"description\": \"Kering, il gruppo del lusso francese, cede i suoi profumi a L'Oréal per 4 miliardi di euro. La notizia è stata annunciata martedì 31 marzo 2026. Luca de Meo, ad del gruppo, presenterà a Firenze il nuovo piano di rilancio il 16 aprile.\",\n  \"articleBody\": \"Kering, il gruppo del lusso francese, cede i suoi profumi a L'Oréal per 4 miliardi di euro. La notizia è stata annunciata martedì 31 marzo 2026. Luca de Meo, ad del gruppo, presenterà a Firenze il nuovo piano di rilancio il 16 aprile. marchi di alta gamma come Gucci e Saint Laurent. Secondo la Repubblica, il gruppo ha deciso di vendere i suoi profumi per 4 miliardi di euro, un prezzo che rappresenta una cifra significativa per l'industria del lusso. Il piano di rilancio di Kering sarà presentato da Luca de Meo a Firenze il 16 aprile. De Meo ha annunciato che il gruppo darà la priorità ai marchi di alta gamma e ridurrà il suo debito. La cessione dei profumi a L'Oréal è un passo importante per raggiungere questo obiettivo. La cessione dei profumi a L'Oréal è anche un segno di cambiamento nell'industria del lusso. L'Oréal è uno dei principali giocatori nel settore dei profumi e la sua acquisizione di Kering rappresenta un'opportunità per espandere la sua presenza nel mercato del lusso. Tuttavia, la cessione dei profumi a L'Oréal non è senza critiche. Alcuni analisti hanno espresso preoccupazioni sulla capacità di Kering di mantenere la sua presenza nel mercato dei profumi. Altri hanno criticato la decisione di cedere i profumi a L'Oréal, sostenendo che il gruppo avrebbe dovuto tenere i suoi profumi per mantenerne il controllo. Se queste cifre vengono confermate anche nel prossimo trimestre, il conto per i contribuenti ordinari diventerà questo: 4 miliardi di euro di ricavi per L'Oréal, 1,5 miliardi di euro di ricavi per Kering (senza i profumi), e un debito di 10 miliardi di euro per il gruppo del lusso francese.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Giorgio Ferrara\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-31T21:28:15.505637+00:00\",\n  \"dateModified\": \"2026-03-31T21:28:15.505637+00:00\",\n  \"url\": \"https://lentemattutina.it/economia/8572275e846d9843\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/economia/8572275e846d9843\"\n  },\n  \"articleSection\": \"Economia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/18526883/pexels-photo-18526883.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Nandhakishor P\"\n  }\n}",
+  "priority": 5,
+  "source": "Repubblica Economia",
+  "source_type": "competitor",
+  "original_url": "https://www.repubblica.it/economia/2026/03/31/news/kering_cede_profumi_loreal-425256608/?rss",
+  "related": [
+    {
+      "title": "Pasticceria Dolce Vita chiusa per muffa nei dolci: 200 porzioni sequestrate, 17 ",
+      "url": "/economia/roma-pasticceria-dolce-vita-chiusa-per-alimenti-av-a94724b7ef4bb29b",
+      "id": "a94724b7ef4bb29b",
+      "image_url": "https://images.unsplash.com/photo-1729007183138-51c47d72409a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxkb2xjaSUyMGF2YXJpYXRpfGVufDB8MHx8fDE3NzQ5OTE0MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Eurospin distribuisce 1,3 miliardi di euro ai soci",
+      "url": "/economia/eurospin-spara-utili-mentre-i-mercati-si-dividono-349be2a3130baa42",
+      "id": "349be2a3130baa42",
+      "image_url": "https://images.unsplash.com/photo-1744902310309-76a87ecf4d11?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxldXJvc3BpbiUyMGRpdmlkZW5kaXxlbnwwfDB8fHwxNzc0OTkwNzI0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Ex operaio a 64 anni torna a lavorare part-time alla Tiboni Spa di Piombino",
+      "url": "/economia/ex-metalmeccanico-lazienda-lo-riprende-a-meta-retr-98ba43e916a3b85b",
+      "id": "98ba43e916a3b85b",
+      "image_url": "https://images.pexels.com/photos/29268618/pexels-photo-29268618.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
+    }
+  ]
+}
