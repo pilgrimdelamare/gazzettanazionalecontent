@@ -1,5 +1,21 @@
 [
   {
+    "id": "b55d58b5d2cd2933",
+    "slug": "notizia-in-primo-piano-b55d58b5d2cd2933",
+    "title": "Basket: Gilgeous-Alexander trascina OKC, vince 111-109 contro i Pistons",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-03-31T06:37:22.198817+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/36811918/pexels-photo-36811918.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "GILGEOUS-ALEXANDER FA 38, THUNDER ESPUGNANO DETROIT DOPO OT",
+    "lead_preview": "Shai Gilgeous-Alexander ha trascinato gli Oklahoma City Thunder alla vittoria 111-109 contro i Detroit Pistons dopo un o",
+    "tags": [
+      "nba okc pistons"
+    ]
+  },
+  {
     "id": "f0e9d7c3a0f0a517",
     "slug": "minnesota-umilia-dallas-124-94-f0e9d7c3a0f0a517",
     "title": "Basket: Wolves infliggono umiliazione 124-94 a Dallas",
@@ -1166,20 +1182,6 @@
       "utah jazz",
       "cleveland cavaliers"
     ]
-  },
-  {
-    "id": "b55d58b5d2cd2933",
-    "slug": "notizia-in-primo-piano-b55d58b5d2cd2933",
-    "title": "Notizia in primo piano",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-03-31T06:37:22.198817+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/a6f166e70a5597540a988c116a784da6feacf88b/skysport/it/nba/2026/03/31/nba-risultati-partite-notte-31-marzo-video/Chet_Holmgren_Getty_Oklahoma_City_Thunder.jpg",
-    "occhiello": "",
-    "lead_preview": "Shai Gilgeous-Alexander trascina i Thunder di Oklahoma City alla vittoria dopo supplementare contro i Pistons, mar 31 ma",
-    "tags": []
   },
   {
     "id": "e8729458987c9dfd",
