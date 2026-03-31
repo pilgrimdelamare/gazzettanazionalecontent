@@ -1,5 +1,22 @@
 [
   {
+    "id": "570265c3f10a4d99",
+    "slug": "notizia-in-primo-piano-570265c3f10a4d99",
+    "title": "Notizia in primo piano",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-03-31T08:24:04.293671+00:00",
+    "image_type": "wikimedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/A_SENIOR_CITIZENS%27_MARCH_TO_PROTEST_INFLATION%2C_UNEMPLOYMENT_AND_HIGH_TAXES_STOPPED_ALONG_LAKE_SHORE_DRIVE_IN_CHICAGO..._-_NARA_-_556257.jpg",
+    "occhiello": "",
+    "lead_preview": "Simon Roberts, amministratore delegato di Sainsbury's, ha dichiarato il 31 marzo 2026 che i prezzi dei generi alimentari",
+    "tags": [
+      "prezzi alimentari",
+      "sainsbury's"
+    ]
+  },
+  {
     "id": "2a21aafb2d46dcb9",
     "slug": "laustralia-indaga-su-tiktok-meta-snapchat-e-youtub-2a21aafb2d46dcb9",
     "title": "Australia, indagine su TikTok e Meta per disinformazione",
@@ -741,23 +758,6 @@
     "lead_preview": "Scott Mills, ex conduttore radiofonico della BBC, è stato licenziato il 30 marzo 2026 per \"comportamento personale\" a ca",
     "tags": [
       "caso scott mills"
-    ]
-  },
-  {
-    "id": "570265c3f10a4d99",
-    "slug": "notizia-in-primo-piano-570265c3f10a4d99",
-    "title": "Sainsbury's: prezzi invariati nonostante la promessa del governo",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-03-31T08:24:04.293671+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/15628117/pexels-photo-15628117.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "PREZZI DEI GENERI ALIMENTARI IN SALITA",
-    "lead_preview": "Simon Roberts, amministratore delegato di Sainsbury’s, ha dichiarato il 31 marzo che i prezzi dei generi alimentari non ",
-    "tags": [
-      "sainsbury's",
-      "prezzi alimentari"
     ]
   },
   {
