@@ -1,5 +1,22 @@
 [
   {
+    "id": "bbd339d8485f1ed3",
+    "slug": "notizia-in-primo-piano-bbd339d8485f1ed3",
+    "title": "Notizia in primo piano",
+    "section": "cultura",
+    "priority": 6,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-03-31T05:46:29.378967+00:00",
+    "image_type": "flickr",
+    "image_url": "https://live.staticflickr.com/65535/55178256413_6a8943381b_b.jpg",
+    "occhiello": "",
+    "lead_preview": "Il Comune di Riccione ha acquistato Villa Mussolini, ex residenza estiva di Benito Mussolini dal 1934 al 1943, per trasf",
+    "tags": [
+      "villa mussolini",
+      "riccione"
+    ]
+  },
+  {
     "id": "bc47f8b7a1edf6b5",
     "slug": "duomo-di-cerignola-si-sgretola-raccolta-fondi-tra-bc47f8b7a1edf6b5",
     "title": "Duomo di cerignola si sgretola, raccolta fondi tra silenzi istituzionali",
