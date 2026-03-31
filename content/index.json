@@ -1,5 +1,23 @@
 [
   {
+    "id": "5e707986f89a5eee",
+    "slug": "la-destra-sfida-il-governo-davanti-alla-corte-5e707986f89a5eee",
+    "title": "La destra si presenta in Corte contro la riduzione dei fondi statali per la sani",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Elena Russo",
+    "published_at": "2026-03-30T23:17:55.586215+00:00",
+    "image_type": "flickr",
+    "image_url": "https://live.staticflickr.com/65535/55151886517_f1ccf25414_b.jpg",
+    "occhiello": "FONDI STATALI SCOMPARSI DOPO IL VOTO",
+    "lead_preview": "Domenica prossima, la destra presenta il conflitto di attribuzione davanti alla Corte costituzionale, ma il responso pot",
+    "tags": [
+      "conflitto fondi sanitari",
+      "corte costituzionale",
+      "riduzione fondi statali"
+    ]
+  },
+  {
     "id": "f689f13603b09c10",
     "slug": "i-vicepremier-del-governo-bocciano-la-proposta-del-f689f13603b09c10",
     "title": "Camera, dibattito sulla legge elettorale: maggioranza divisa",
@@ -1158,23 +1176,6 @@
     "tags": [
       "caso delmastro",
       "affare bisteccheria"
-    ]
-  },
-  {
-    "id": "5e707986f89a5eee",
-    "slug": "la-destra-sfida-il-governo-davanti-alla-corte-5e707986f89a5eee",
-    "title": "La destra sfida il governo davanti alla Corte",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Sergio Mancini",
-    "published_at": "2026-03-30T23:17:55.586215+00:00",
-    "image_type": "flickr",
-    "image_url": "https://live.staticflickr.com/65535/49612437623_8fddb34689_b.jpg",
-    "occhiello": "FONDI SCOMPARSI DOPO IL VOTO",
-    "lead_preview": "La destra domani solleverà il conflitto di attribuzione davanti alla Corte, ma il responso potrebbe arrivare a ridosso d",
-    "tags": [
-      "conflitto attribuzione",
-      "corte costituzionale"
     ]
   },
   {
