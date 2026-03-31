@@ -1,18 +1,18 @@
 {
   "id": "9f24d49233bd8bbe",
   "slug": "sheinbaum-difende-ricerca-desaparecidos-9f24d49233bd8bbe",
-  "title": "Sheinbaum difende ricerca desaparecidos",
+  "title": "Sheinbaum: dati scomparse incomplete",
   "titles": [
-    "Sheinbaum difende ricerca desaparecidos",
-    "Messico: dati non sostituiscono indagini",
-    "Città del Messico: Sheinbaum garantisce giustizia"
+    "Sheinbaum: dati scomparse incomplete",
+    "101mila scomparse in Messico",
+    "Sheinbaum ammette lavoro incompleto"
   ],
   "title_winner": null,
   "section": "esteri",
-  "occhiello": "MESSICO, SHEINBAUM DIFENDE LA RICERCA DEI DESAPARECIDOS",
-  "lead": "Il presidente messicano Claudia Sheinbaum ha difeso la ricerca dei desaparecidos, affermando che i dati statistici non sostituiscono le indagini sul territorio. Sheinbaum ha fatto queste dichiarazioni durante una conferenza stampa tenuta a Città del Messico, il 31 marzo 2026.",
-  "corpo1": "La ricerca dei desaparecidos è un tema molto delicato nel Messico, dove la violenza ha lasciato un segno indelebile. Sheinbaum ha affermato che i dati statistici non possono sostituire le indagini sul territorio, poiché possono essere inattendibili o incompleti, e questo è un punto cruciale nella ricerca dei desaparecidos. La presidente ha anche sottolineato l'importanza di coinvolgere le comunità locali nelle indagini, in modo da garantire che le vittime siano rispettate e che le loro famiglie ricevano giustizia. Sheinbaum ha anche confermato che il governo messicano sta lavorando per migliorare la documentazione e la conservazione delle informazioni relative ai desaparecidos.",
-  "corpo2": "Sheinbaum è una figura importante nel Messico, non solo come presidente, ma anche come madre di una delle vittime dei desaparecidos. La sua famiglia ha subito una perdita drammatica nel 2013, quando il suo padre, Carlos Sheinbaum Yoselevitz, è stato ucciso durante una protesta. Claudia Sheinbaum ha affermato che la sua esperienza personale la ha aiutata a comprendere la sofferenza delle famiglie dei desaparecidi e che questo la spinge a lavorare per garantire che le loro voci siano ascoltate e che la giustizia sia servita. La sua posizione sulla ricerca dei desaparecidos rappresenta un importante passo avanti, ma il cammino verso la verità e la giustizia è ancora lungo. Ma il vero cambiamento richiederà più di parole: serviranno azioni concrete per rinsaldare la fiducia delle comunità locali.",
+  "occhiello": "SHEINBAUM RICONOSCE: DATI SULLI DESAPARECIDOS INCOMPLETI",
+  "lead": "Città del Messico, 31 marzo 2026. La presidente Claudia Sheinbaum ha difeso oggi la ricerca delle persone scomparse in Messico, sostenendo che i dati statistici ufficiali non sarebbero completi. L'affermazione arriva in un contesto di pressioni internazionali e di richieste delle famiglie delle vittime.",
+  "corpo1": "Sheinbaum ha rilasciato la dichiarazione nel corso di un evento pubblico a Città del Messico, senza fornire dettagli specifici su quali dati statistici ritenga incompleti. Ha ribadito l'impegno del governo nell'identificazione dei resti e nella ricostruzione dei casi, ma ha ammesso che il lavoro rimane incompleto. Non ha annunciato nuovi fondi, modifiche legislative o l'istituzione di un registro unificato. La sua uscita segue le critiche di organizzazioni come Amnesty International, che da mesi denunciano l'inefficienza delle procure statali nella gestione delle denunce. Il Messico conta oltre 100.000 casi di persone scomparse, la maggior parte risalenti al periodo più acuto della guerra alla droga iniziata nel 2006, che ha lasciato oltre 100.000 desaparecidos.",
+  "corpo2": "Claudia Sheinbaum, scienziata ed ex sindaca di Città del Messico, rappresenta l'ala più istituzionale della sinistra messicana. La sua difesa della ricerca, seppur con l'ammissione di dati incompleti, è un tentativo di navigare tra due pressioni opposte: da un lato, le famiglie dei desaparecidos e le ong che chiedono verità e giustizia; dall'altro, le forze di sicurezza e i governatori statali, spesso accusati di ostruzionismo o collusione con il crimine organizzato. Il riconoscimento dell'incompletezza statistica è un dettaglio ruvido: significa che il governo stesso non sa quanti siano i desaparecidos, né ha un'idea di dove siano finiti molti di loro. Questo indebolisce qualsiasi promessa di \"ricerca sistematica\".\n\nIl meccanismo strutturale è semplice: senza dati affidabili, le politiche mirate sono impossibili. I fondi per la ricerca vengono stanziati in base alle segnalazioni, ma se le segnalazioni non vengono registrate o sono disperse tra decine di procure, le risorse si dissolvono. Sheinbaum sa che un riconoscimento pubblico dell'incompletezza potrebbe essere usato contro di lei dalle sue stesse forze di sicurezza per giustificare ulteriori ritardi.\n\nPer l'Italia, l'impatto è indiretto ma concreto. Il Messico è un partner commerciale chiave nell'ambito dell'accordo UE-Messico, e Bruxelles condiziona la cooperazione al rispetto dei diritti umani. Se il governo Sheinbaum continua a gestire i desaparecidos con ammissioni di incompletezza invece che con azioni, le relazioni con l'Europa potrebbero raffreddarsi, colpendo le esportazioni agroalimentari e gli investimenti. La domanda è se l'ammissione sia un passo verso più trasparenza o un modo per normalizzare l'incapacità. Finché i database rimarranno incompleti, ogni dichiarazione di impegno suonerà come una beffa per le famiglie che cercano risposte.",
   "journalist": {
     "id": "anna_colombo_01",
     "firma": "Anna Colombo",
@@ -20,38 +20,36 @@
   },
   "published_at": "2026-03-31T02:02:38.101593+00:00",
   "image": {
-    "type": "flickr",
-    "url": "https://live.staticflickr.com/65535/54842210055_fe06e480e6_b.jpg",
-    "source": "Flickr",
-    "credit": "Delendamodellis",
-    "license": "CC"
+    "type": "none",
+    "source": ""
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Sheinbaum difende ricerca desaparecidos\",\n  \"description\": \"Il presidente messicano Claudia Sheinbaum ha difeso la ricerca dei desaparecidos, affermando che i dati statistici non sostituiscono le indagini sul territorio. Sheinbaum ha fatto queste dichiarazioni durante una conferenza stampa tenuta a Città del Messico, il 31 marzo 2026.\",\n  \"articleBody\": \"Il presidente messicano Claudia Sheinbaum ha difeso la ricerca dei desaparecidos, affermando che i dati statistici non sostituiscono le indagini sul territorio. Sheinbaum ha fatto queste dichiarazioni durante una conferenza stampa tenuta a Città del Messico, il 31 marzo 2026. La ricerca dei desaparecidos è un tema molto delicato nel Messico, dove la violenza ha lasciato un segno indelebile. Sheinbaum ha affermato che i dati statistici non possono sostituire le indagini sul territorio, poiché possono essere inattendibili o incompleti, e questo è un punto cruciale nella ricerca dei desaparecidos. La presidente ha anche sottolineato l'importanza di coinvolgere le comunità locali nelle indagini, in modo da garantire che le vittime siano rispettate e che le loro famiglie ricevano giustizia. Sheinbaum ha anche confermato che il governo messicano sta lavorando per migliorare la documentazione e la conservazione delle informazioni relative ai desaparecidos. Sheinbaum è una figura importante nel Messico, non solo come presidente, ma anche come madre di una delle vittime dei desaparecidos. La sua famiglia ha subito una perdita drammatica nel 2013, quando il suo padre, Carlos Sheinbaum Yoselevitz, è stato ucciso durante una protesta. Claudia Sheinbaum ha affermato che la sua esperienza personale la ha aiutata a comprendere la sofferenza delle famiglie dei desaparecidi e che questo la spinge a lavorare per garantire che le loro voci siano ascoltate e che la giustizia sia servita. La sua posizione sulla ricerca dei desaparecidos rappresenta un importante passo avanti, ma il cammino verso la verità e la giustizia è ancora lungo. Ma il vero cambiamento richiederà più di parole: serviranno azioni concrete per rinsaldare la fiducia delle comunità locali.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-31T02:02:38.101593+00:00\",\n  \"dateModified\": \"2026-03-31T02:02:38.101593+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/9f24d49233bd8bbe\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/9f24d49233bd8bbe\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://live.staticflickr.com/65535/54842210055_fe06e480e6_b.jpg\",\n    \"creditText\": \"Delendamodellis\"\n  }\n}",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Sheinbaum: dati scomparse incomplete\",\n  \"description\": \"Città del Messico, 31 marzo 2026. La presidente Claudia Sheinbaum ha difeso oggi la ricerca delle persone scomparse in Messico, sostenendo che i dati statistici ufficiali non sarebbero completi. L'affermazione arriva in un contesto di pressioni internazionali e di richieste delle famiglie delle vitt\",\n  \"articleBody\": \"Città del Messico, 31 marzo 2026. La presidente Claudia Sheinbaum ha difeso oggi la ricerca delle persone scomparse in Messico, sostenendo che i dati statistici ufficiali non sarebbero completi. L'affermazione arriva in un contesto di pressioni internazionali e di richieste delle famiglie delle vittime. Sheinbaum ha rilasciato la dichiarazione nel corso di un evento pubblico a Città del Messico, senza fornire dettagli specifici su quali dati statistici ritenga incompleti. Ha ribadito l'impegno del governo nell'identificazione dei resti e nella ricostruzione dei casi, ma ha ammesso che il lavoro rimane incompleto. Non ha annunciato nuovi fondi, modifiche legislative o l'istituzione di un registro unificato. La sua uscita segue le critiche di organizzazioni come Amnesty International, che da mesi denunciano l'inefficienza delle procure statali nella gestione delle denunce. Il Messico conta oltre 100.000 casi di persone scomparse, la maggior parte risalenti al periodo più acuto della guerra alla droga iniziata nel 2006, che ha lasciato oltre 100.000 desaparecidos. Claudia Sheinbaum, scienziata ed ex sindaca di Città del Messico, rappresenta l'ala più istituzionale della sinistra messicana. La sua difesa della ricerca, seppur con l'ammissione di dati incompleti, è un tentativo di navigare tra due pressioni opposte: da un lato, le famiglie dei desaparecidos e le ong che chiedono verità e giustizia; dall'altro, le forze di sicurezza e i governatori statali, spesso accusati di ostruzionismo o collusione con il crimine organizzato. Il riconoscimento dell'incompletezza statistica è un dettaglio ruvido: significa che il governo stesso non sa quanti siano i desaparecidos, né ha un'idea di dove siano finiti molti di loro. Questo indebolisce qualsiasi promessa di \\\"ricerca sistematica\\\".\\n\\nIl meccanismo strutturale è semplice: senza dati affidabili, le politiche mirate sono impossibili. I fondi per la ricerca vengono stanziati in base alle segnalazioni, ma se le segnalazioni non vengono registrate o sono disperse tra decine di procure, le risorse si dissolvono. Sheinbaum sa che un riconoscimento pubblico dell'incompletezza potrebbe essere usato contro di lei dalle sue stesse forze di sicurezza per giustificare ulteriori ritardi.\\n\\nPer l'Italia, l'impatto è indiretto ma concreto. Il Messico è un partner commerciale chiave nell'ambito dell'accordo UE-Messico, e Bruxelles condiziona la cooperazione al rispetto dei diritti umani. Se il governo Sheinbaum continua a gestire i desaparecidos con ammissioni di incompletezza invece che con azioni, le relazioni con l'Europa potrebbero raffreddarsi, colpendo le esportazioni agroalimentari e gli investimenti. La domanda è se l'ammissione sia un passo verso più trasparenza o un modo per normalizzare l'incapacità. Finché i database rimarranno incompleti, ogni dichiarazione di impegno suonerà come una beffa per le famiglie che cercano risposte.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-31T02:02:38.101593+00:00\",\n  \"dateModified\": \"2026-03-31T02:02:38.101593+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/9f24d49233bd8bbe\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/9f24d49233bd8bbe\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
   "priority": 5,
-  "source": "ANSA Esteri",
-  "source_type": "ansa",
-  "original_url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/03/31/messico-sheinbaum-difende-la-ricerca-dei-desaparecidos_23ff4f4d-d5c1-4a0b-8b66-a688c9375b97.html",
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://lentemattutina.it/esteri/sheinbaum-difende-ricerca-desaparecidos-9f24d49233bd8bbe",
   "related": [
     {
-      "title": "Netanyahu: 'Oltre metà obiettivi raggiunti' a Gaza",
-      "url": "/esteri/netanyahu-meta-obiettivi-di-guerra-raggiunti-dd8ca7754410c907",
-      "id": "dd8ca7754410c907",
-      "image_url": "https://cdnph.upi.com/sv/ph/og/i/5451731397490/2024/1/17314012596639/v1.5/No-cease-fire-in-Lebanon-until-war-objectives-met-says-Israels-new-defense-minister.jpg",
-      "image_type": "ddg_image"
+      "title": "Sheinbaum chiude scuole per Mondiali",
+      "url": "/esteri/sheinbaum-chiude-scuole-per-mondiali-06b9aa3f545755fd",
+      "id": "06b9aa3f545755fd",
+      "image_url": "https://live.staticflickr.com/65535/53139330316_7e0914d5b7_b.jpg",
+      "image_type": "flickr"
     },
     {
-      "title": "Iran: no a proposte USA, guerra continua",
-      "url": "/esteri/iran-nessun-negoziato-con-usa-f34b9d2178df81ec",
-      "id": "f34b9d2178df81ec",
-      "image_url": "https://images.unsplash.com/photo-1757916315213-b7254eea4f9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxkaXBsb21hdGljJTIwbWVldGluZyUyMGlyYW58ZW58MHwwfHx8MTc3NDkyMjE5MHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "image_type": "unsplash"
+      "title": "17.000 giovani australiani +10% di stipendio",
+      "url": "/esteri/aumento-del-10-per-17000-giovani-adulti-australian-f0eff7493514c537",
+      "id": "f0eff7493514c537",
+      "image_url": "https://images.pexels.com/photos/20849248/pexels-photo-20849248.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
     },
     {
-      "title": "Tre caschi blu indonesiani uccisi nel Libano meridionale",
-      "url": "/esteri/3-caschi-blu-uccisi-in-libano-39e2c91e2e5ba2da",
-      "id": "39e2c91e2e5ba2da",
-      "image_url": "https://live.staticflickr.com/65535/54997030035_292033a28c_b.jpg",
+      "title": "Zelenskyy propone tregua pasquale con la Russia",
+      "url": "/esteri/zelenskyy-apre-a-ridurre-attacchi-energia-russa-9f5316db8a0c6720",
+      "id": "9f5316db8a0c6720",
+      "image_url": "https://live.staticflickr.com/65535/55114771557_be1c112ddb_b.jpg",
       "image_type": "flickr"
     }
-  ]
+  ],
+  "updated_at": "2026-03-31T02:02:38.101593+00:00"
 }
