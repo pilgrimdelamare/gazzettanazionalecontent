@@ -1,5 +1,19 @@
 [
   {
+    "id": "a90a1b3445cde000",
+    "slug": "notizia-in-primo-piano-a90a1b3445cde000",
+    "title": "Denzel Washington a Roma per 'Annibale': riprese al via",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-03-31T10:27:52.030522+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/33450531/pexels-photo-33450531.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "NOTIZIA IN PRIMO PIANO",
+    "lead_preview": "Denzel Hayes Washington Jr., l'attore americano, è a Cinecittà per il film \"Annibale\", che occuperà teatri di posa già u",
+    "tags": []
+  },
+  {
     "id": "88575e2bf11eaa9e",
     "slug": "leterna-luce-del-giorno-concluso-a-roma-il-film-co-88575e2bf11eaa9e",
     "title": "L'Eterna luce del giorno: riprese terminate a Roma con Favino e Golino",
@@ -381,22 +395,6 @@
       "bufala patata aliena",
       "don pettit",
       "patata aliena"
-    ]
-  },
-  {
-    "id": "a90a1b3445cde000",
-    "slug": "notizia-in-primo-piano-a90a1b3445cde000",
-    "title": "Notizia in primo piano",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-03-31T10:27:52.030522+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Denzel_Washington_%2829479254650%29.jpg",
-    "occhiello": "",
-    "lead_preview": "Denzel Hayes Washington Jr. è a Cinecittà per il film Annibale, che occuperà teatri di posa già utilizzati da Assassin’s",
-    "tags": [
-      "film annibale"
     ]
   },
   {
