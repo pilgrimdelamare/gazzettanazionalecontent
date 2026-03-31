@@ -1,5 +1,22 @@
 [
   {
+    "id": "c2fab1eb9e416ee9",
+    "slug": "calcio-italia-in-campo-a-zenica-per-la-finale-play-c2fab1eb9e416ee9",
+    "title": "Calcio: Gattuso sfida la Bosnia a Zenica per il playoff mondiale",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-03-30T22:41:13.026222+00:00",
+    "image_type": "none",
+    "image_url": "",
+    "occhiello": "ITALIA IN FINALE PLAYOFF A ZENICA",
+    "lead_preview": "Il 30 marzo 2026, Gattuso e la nazionale italiana scendono in campo a Zenica per la finale playoff contro la Bosnia.",
+    "tags": [
+      "calcio",
+      "playoff mondiale"
+    ]
+  },
+  {
     "id": "08bebdda94eb3b21",
     "slug": "calcio-italia-la-formazione-anti-bosnia-gattuso-pu-08bebdda94eb3b21",
     "title": "Calcio: Italia sfida la Bosnia per i Mondiali 2026",
@@ -1957,23 +1974,6 @@
     "tags": [
       "incontro governo confindustria",
       "confindustria aprile"
-    ]
-  },
-  {
-    "id": "c2fab1eb9e416ee9",
-    "slug": "calcio-italia-in-campo-a-zenica-per-la-finale-play-c2fab1eb9e416ee9",
-    "title": "Calcio: Italia in campo a Zenica per la finale playoff",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-03-30T22:41:13.026222+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxzb2NjZXIlMjBzdGFkaXVtfGVufDB8MHx8fDE3NzQ5MTA0NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "ITALIA A ZENICA PER LA FINALE PLAYOFF",
-    "lead_preview": "Gattuso e l'Italia scendono in campo a Zenica per la finale playoff contro la Bosnia, in palio un pass per il prossimo M",
-    "tags": [
-      "mondiale di calcio",
-      "italia bosnia"
     ]
   },
   {
