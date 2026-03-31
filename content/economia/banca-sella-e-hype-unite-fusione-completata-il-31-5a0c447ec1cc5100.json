@@ -1,0 +1,57 @@
+{
+  "id": "5a0c447ec1cc5100",
+  "slug": "banca-sella-e-hype-unite-fusione-completata-il-31-5a0c447ec1cc5100",
+  "title": "Banca Sella e Hype unite: fusione completata il 31 marzo",
+  "titles": [
+    "Banca Sella e Hype unite: fusione completata il 31 marzo",
+    "Hype, 450 dipendenti a rischio con l'integrazione in Banca Sella",
+    "Francesco Sella: 'Con Hype, Banca Sella compete con i big player'"
+  ],
+  "title_winner": null,
+  "section": "economia",
+  "occhiello": "BANCA SELLA INGLOBA HYPE: CHI CI GUADAGNA E CHI CI RIMETTE",
+  "lead": "Banca Sella ha completato il 31 marzo 2026 la fusione con Hype, la fintech italiana acquisita nel 2021. L'operazione, presentata come un rafforzamento della competitività del gruppo, nasconde dinamiche più complesse tra risparmiatori digitali e interessi bancari tradizionali.",
+  "corpo1": "La fusione tra Banca Sella e Hype è stata finalizzata alle 11:18 del 31 marzo 2026, secondo il comunicato ANSA che cita motivazioni di \"rafforzamento competitivo\". Il gruppo piemontese aveva acquisito la fintech nel 2021 per 120 milioni di euro, quando Hype contava 1,2 milioni di clienti e un volume di transazioni annuo di 3 miliardi. Il piano industriale prevede ora l'integrazione completa delle piattaforme tecnologiche entro il quarto trimestre 2027. Il CEO di Banca Sella, Francesco Sella, ha dichiarato: \"Questa operazione ci permetterà di competere con i big player europei nel digitale\". Nessun dettaglio è stato fornito sui possibili ridimensionamenti del personale tra i 450 dipendenti di Hype.",
+  "corpo2": "Dietro lo slogan della \"competitività\" si nasconde una partita più sporca: le banche tradizionali hanno capito che possono comprare le fintech invece che innovarsi. Hype era nata nel 2015 come alternativa ai conti correnti costosi, con zero spese e un'app semplice. Ora i suoi clienti verranno gradualmente migrati sui sistemi di Banca Sella, dove le commissioni partono da 3,90 euro mensili per il conto base. E mentre i risparmiatori perdono un'opzione low-cost, gli azionisti di Hype - tra cui fondi venture capital come United Ventures - incassano moltiplicatori da 5x sull'investimento iniziale. L'antitrust europeo ha approvato l'operazione senza condizioni, nonostante la concentrazione nel settore dei pagamenti digitali. Quando le banche dicono \"innovazione\", spesso intendono solo comprare chi minacciava il loro oligopolio. E i conti, alla fine, li pagano sempre gli stessi: quelli che devono farsi addebitare 1,50 euro per un bonifico istantaneo.",
+  "journalist": {
+    "id": "giorgio_ferrara_01",
+    "firma": "Giorgio Ferrara",
+    "sezione": "economia"
+  },
+  "published_at": "2026-03-31T09:27:34.393043+00:00",
+  "image": {
+    "type": "unsplash",
+    "url": "https://images.unsplash.com/photo-1707075891545-41b982930351?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxmaW50ZWNoJTIwY29tcGFueXxlbnwwfDB8fHwxNzc0OTQ5MjU0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "source": "Unsplash",
+    "credit": "Erling Løken Andersen",
+    "license": "Unsplash License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Banca Sella e Hype unite: fusione completata il 31 marzo\",\n  \"description\": \"Banca Sella ha completato il 31 marzo 2026 la fusione con Hype, la fintech italiana acquisita nel 2021. L'operazione, presentata come un rafforzamento della competitività del gruppo, nasconde dinamiche più complesse tra risparmiatori digitali e interessi bancari tradizionali.\",\n  \"articleBody\": \"Banca Sella ha completato il 31 marzo 2026 la fusione con Hype, la fintech italiana acquisita nel 2021. L'operazione, presentata come un rafforzamento della competitività del gruppo, nasconde dinamiche più complesse tra risparmiatori digitali e interessi bancari tradizionali. La fusione tra Banca Sella e Hype è stata finalizzata alle 11:18 del 31 marzo 2026, secondo il comunicato ANSA che cita motivazioni di \\\"rafforzamento competitivo\\\". Il gruppo piemontese aveva acquisito la fintech nel 2021 per 120 milioni di euro, quando Hype contava 1,2 milioni di clienti e un volume di transazioni annuo di 3 miliardi. Il piano industriale prevede ora l'integrazione completa delle piattaforme tecnologiche entro il quarto trimestre 2027. Il CEO di Banca Sella, Francesco Sella, ha dichiarato: \\\"Questa operazione ci permetterà di competere con i big player europei nel digitale\\\". Nessun dettaglio è stato fornito sui possibili ridimensionamenti del personale tra i 450 dipendenti di Hype. Dietro lo slogan della \\\"competitività\\\" si nasconde una partita più sporca: le banche tradizionali hanno capito che possono comprare le fintech invece che innovarsi. Hype era nata nel 2015 come alternativa ai conti correnti costosi, con zero spese e un'app semplice. Ora i suoi clienti verranno gradualmente migrati sui sistemi di Banca Sella, dove le commissioni partono da 3,90 euro mensili per il conto base. E mentre i risparmiatori perdono un'opzione low-cost, gli azionisti di Hype - tra cui fondi venture capital come United Ventures - incassano moltiplicatori da 5x sull'investimento iniziale. L'antitrust europeo ha approvato l'operazione senza condizioni, nonostante la concentrazione nel settore dei pagamenti digitali. Quando le banche dicono \\\"innovazione\\\", spesso intendono solo comprare chi minacciava il loro oligopolio. E i conti, alla fine, li pagano sempre gli stessi: quelli che devono farsi addebitare 1,50 euro per un bonifico istantaneo.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Giorgio Ferrara\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-31T09:27:34.393043+00:00\",\n  \"dateModified\": \"2026-03-31T09:27:34.393043+00:00\",\n  \"url\": \"https://lentemattutina.it/economia/5a0c447ec1cc5100\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/economia/5a0c447ec1cc5100\"\n  },\n  \"articleSection\": \"Economia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1707075891545-41b982930351?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxmaW50ZWNoJTIwY29tcGFueXxlbnwwfDB8fHwxNzc0OTQ5MjU0fDA&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Erling Løken Andersen\"\n  }\n}",
+  "priority": 6,
+  "source": "ANSA Economia",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/economia/2026/03/31/banca-sella-completa-la-fusione-di-hype_3e4524d1-2fcf-4377-89fa-419b1bc17174.html",
+  "related": [
+    {
+      "title": "Dolci avariati, chiusa pasticceria a Roma",
+      "url": "/economia/roma-pasticceria-dolce-vita-chiusa-per-alimenti-av-a94724b7ef4bb29b",
+      "id": "a94724b7ef4bb29b",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Dolce_znak.png",
+      "image_type": "wikimedia"
+    },
+    {
+      "title": "Horizon e Facile.it, 150 mln per noleggio auto smart a Milano",
+      "url": "/economia/un-ecosistema-che-ridefinisce-il-noleggio-automoti-622cbcb078bfd149",
+      "id": "622cbcb078bfd149",
+      "image_url": "https://images.pexels.com/photos/9799995/pexels-photo-9799995.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
+    },
+    {
+      "title": "Eurospin spara utili mentre i mercati si dividono 1,3 mld",
+      "url": "/economia/eurospin-spara-utili-mentre-i-mercati-si-dividono-349be2a3130baa42",
+      "id": "349be2a3130baa42",
+      "image_url": "https://images.unsplash.com/photo-1647427017458-f6df91d046eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxzdXBlcm1hcmtldCUyMGNoZWNrb3V0fGVufDB8MHx8fDE3NzQ5NDgxNTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    }
+  ]
+}
