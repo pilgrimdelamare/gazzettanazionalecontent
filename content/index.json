@@ -1,5 +1,21 @@
 [
   {
+    "id": "fbef5143ab8f7d74",
+    "slug": "311-mln-di-tonnellate-di-co₂-la-guerra-in-ucraina-fbef5143ab8f7d74",
+    "title": "Notizia in primo piano",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-03-31T05:56:51.562389+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/31526103/pexels-photo-31526103.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "",
+    "lead_preview": "311 milioni di tonnellate di gas serra sono state emesse in atmosfera dal 24 febbraio 2022 al 24 febbraio 2026 a causa d",
+    "tags": [
+      "guerra ucraina"
+    ]
+  },
+  {
     "id": "c95220316b7bb8d9",
     "slug": "fratello-di-aid-worker-uccisa-chiede-audio-attacco-c95220316b7bb8d9",
     "title": "James Frankcom chiede i nastri dell’F-35 che ha ucciso la sorella a Khan Yunis",
@@ -905,23 +921,6 @@
     "lead_preview": "Jeffrey Epstein. Tre milioni e mezzo di documenti collegati al finanziere pedofilo sono ora accessibili online all’indir",
     "tags": [
       "caso epstein"
-    ]
-  },
-  {
-    "id": "fbef5143ab8f7d74",
-    "slug": "311-mln-di-tonnellate-di-co₂-la-guerra-in-ucraina-fbef5143ab8f7d74",
-    "title": "311 mln di tonnellate di CO₂: la guerra in Ucraina inquina quanto la Francia in ",
-    "section": "esteri",
-    "priority": 8,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-03-31T05:56:51.562389+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1678118315265-61e62637f4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHx1a3JhaW5lJTIwd2FyJTIwZW52aXJvbm1lbnRhbCUyMGRhbWFnZXxlbnwwfDB8fHwxNzc0OTM2NjExfDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "311 MILIONI DI TONNELLATE DI CO2 PER LA GUERRA IN UCRAINA",
-    "lead_preview": "311 Milioni di tonnellate di gas serra sono state emesse in atmosfera in quattro anni di guerra in Ucraina, pari all’int",
-    "tags": [
-      "guerra ucraina",
-      "inquinamento co2"
     ]
   },
   {
