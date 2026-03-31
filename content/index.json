@@ -1,5 +1,22 @@
 [
   {
+    "id": "7201b3c42ee9a671",
+    "slug": "notizia-in-primo-piano-7201b3c42ee9a671",
+    "title": "Notizia in primo piano",
+    "section": "cultura",
+    "priority": 6,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-03-31T05:50:04.126114+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1691071666279-58adb714d0b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxmaWxtJTIwZmVzdGl2YWwlMjBqdXJ5JTIwcHJlc2lkZW50fGVufDB8MHx8fDE3NzQ5MzYyMDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "",
+    "lead_preview": "Jane Campion presiederà la giuria della 72a edizione del Taormina Film Festival, in programma dal 10 al 14 giugno 2026. ",
+    "tags": [
+      "taormina film festival 2026",
+      "jane campion presidente giuria"
+    ]
+  },
+  {
     "id": "79b74b266ab570b1",
     "slug": "concerto-alla-sapienza-con-veronika-eberle-e-denes-79b74b266ab570b1",
     "title": "Concerto alla sapienza con veronika eberle e dénes várjon",
