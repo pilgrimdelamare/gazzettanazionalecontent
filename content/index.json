@@ -1,5 +1,23 @@
 [
   {
+    "id": "2c05424a1b5b9710",
+    "slug": "meloni-apre-la-strada-alle-elezioni-anticipate-per-2c05424a1b5b9710",
+    "title": "Meloni tiene aperta l'ipotesi elettorale a ottobre",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Elena Russo",
+    "published_at": "2026-03-30T23:17:10.323094+00:00",
+    "image_type": "none",
+    "image_url": "",
+    "occhiello": "MELONI APRE LA STRADA ALLE ELEZIONI ANTICIPATE",
+    "lead_preview": "Giorgia Meloni, presidente del Consiglio, tiene aperta l'ipotesi delle elezioni anticipate a ottobre, a causa delle inda",
+    "tags": [
+      "elezioni anticipate",
+      "meloni",
+      "indagini"
+    ]
+  },
+  {
     "id": "5325f4c7421314cb",
     "slug": "meloni-sotto-fuoco-per-messaggi-a-mezzanotte-su-wh-5325f4c7421314cb",
     "title": "Meloni spara messaggi di mezzanotte su WhatsApp in piena crisi",
@@ -1211,24 +1229,6 @@
     "tags": [
       "caso delmastro",
       "affare bisteccheria"
-    ]
-  },
-  {
-    "id": "2c05424a1b5b9710",
-    "slug": "meloni-apre-la-strada-alle-elezioni-anticipate-per-2c05424a1b5b9710",
-    "title": "Meloni apre la strada alle elezioni anticipate per ottobre",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Sergio Mancini",
-    "published_at": "2026-03-30T23:17:10.323094+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Giorgia_Meloni_2019.jpg",
-    "occhiello": "MELONI BLINDATA A PALAZZO CHIGI, ELEZIONI ANTICIPATE A OTTOBRE",
-    "lead_preview": "Giorgia Meloni, presidente del Consiglio, blindata a Palazzo Chigi, tiene aperta l'ipotesi delle elezioni anticipate a o",
-    "tags": [
-      "elezioni anticipate",
-      "meloni",
-      "palazzo chigi"
     ]
   },
   {
