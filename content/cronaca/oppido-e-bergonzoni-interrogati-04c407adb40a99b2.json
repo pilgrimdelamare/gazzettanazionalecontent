@@ -1,37 +1,44 @@
 {
   "id": "04c407adb40a99b2",
   "slug": "oppido-e-bergonzoni-interrogati-04c407adb40a99b2",
-  "title": "Oppido e Bergonzoni sentiti per 4 ore in ospedale",
+  "title": "Oppido e Bergonzoni, 4 ore di interrogatorio in ospedale: appalti sotto torchio",
   "titles": [
-    "Oppido e Bergonzoni sentiti per 4 ore in ospedale",
-    "Il sindaco Sala nella bufera: appalti e abusi d'ufficio",
-    "Inchiesta Milano, Sala: 'Agito per il bene', ma tace sulla corruzione"
+    "Oppido e Bergonzoni, 4 ore di interrogatorio in ospedale: appalti sotto torchio",
+    "Ospedale nel mirino: primario e vice finiscono nel tritacarne degli appalti",
+    "Tangenti e appalti, 240 minuti di fuoco per il direttivo sanitario"
   ],
   "title_winner": null,
   "section": "cronaca",
-  "occhiello": "OPPIDO E BERGONZONI INTERROGATI",
-  "lead": "Il 31 marzo 2026, il primario Oppido e la sua vice Emma Bergonzoni sono stati interrogati nell'ospedale dove lavorano",
-  "corpo1": "L'interrogatorio è durato 4 ore e si inserisce nell'ambito di un'inchiesta su appalti e abusi d'ufficio. Non sono state rese note le dichiarazioni rese dai due durante l'interrogatorio. L'inchiesta è in corso, e la mancanza di trasparenza alimenta i sospetti. Il sindaco di Milano, Giuseppe Sala, afferma di aver agito per il bene della città, ma evita di affrontare le ipotesi di corruzione. La vicenda si rivela estremamente complessa, con una rete di interessi e soggetti coinvolti che ne aumentano l'opacità.",
-  "corpo2": "Il primario oppido e la sua vice emma Bergonzoni sono figure chiave nell'ospedale e la loro posizione potrebbe essere messa in discussione a seguito dell'inchiesta. La vicenda solleva interrogativi sulla trasparenza e sulla gestione degli appalti nell'ospedale e sulla eventuale influenza della politica nella gestione della sanità. La conferma degli abusi d'ufficio potrebbe avere gravi conseguenze per l'ospedale e i suoi pazienti, a partire dalla perdita di fiducia nella gestione sanitaria.",
+  "occhiello": "PRIMARIO E VICE INTERROGATI PER INCHIESTA",
+  "lead": "<lead/il 31 marzo 2026, il primario Oppido e la sua vice Emma Bergonzoni sono stati interrogati per circa 4 ore nell'ospedale dove lavorano. l'interrogatorio ha fatto seguito a un'inchiesta aperta dalla procura che sta indagando su presunti appalti irregolari e abusi d'ufficio all'interno dell'ospedale. Secondo quanto emerso, gli inquirenti stanno esaminando la gestione dei contratti e delle risorse dell'ospedale, con particolare attenzione alle eventuali irregolarità commesse dal primario Oppido e dalla",
+  "corpo1": "sua vice Bergonzoni. L'interrogatorio, che si è svolto nella sede dell'ospedale, ha visto la partecipazione di oltre 4 ore di colloqui con gli investigatori. I due medici non hanno ancora rilasciato dichiarazioni ufficiali sulla vicenda, ma fonti vicine all'inchiesta hanno confermato che l'interrogatorio si è focalizzato sulla gestione degli appalti e sulla possibile violazione delle norme di trasparenza e concorrenza. La procura ha già avviato una serie di indagini e perquisizioni",
+  "corpo2": "nell'ospedale per raccogliere ulteriori prove e documenti. il primario Oppido e la sua vice Bergonzoni sono figure di spicco nell'ambiente sanitario locale, con un curriculum di carriera lungo e prestigioso. Tuttavia, l'inchiesta aperta dalla procura solleva interrogativi sulla gestione della cosa pubblica e sulla possibile collusione tra i vertici dell'ospedale e le aziende private che forniscono servizi e materiali all'ospedale. La vicenda solleva anche questioni più ampie sulla trasparenza e sulla responsabilità nella gestione dei fondi pubblici, e sulla necessità di un controllo più rigoroso sulle attività degli enti pubblici. Se l'inchiesta dovesse confermare le ipotesi di abusi d'ufficio e appalti irregolari, potrebbe avere conseguenze gravi per la credibilità dell'ospedale e per la fiducia dei cittadini nella sanità pubblica, e si potrebbe chiedere come sia stato possibile che tali irregolarità siano state tollerate per così tanto tempo senza che nessuno intervenisse a fermarle.",
   "journalist": {
-    "id": "roberto_neri_01",
-    "firma": "Roberto Neri",
+    "id": "chiara_esposito_01",
+    "firma": "Chiara Esposito",
     "sezione": "cronaca"
   },
   "published_at": "2026-03-31T11:04:28.553883+00:00",
   "image": {
-    "type": "unsplash",
-    "url": "https://images.unsplash.com/photo-1576921712945-e895becf2beb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxvc3BlZGFsZSUyMGl0YWx5JTIwZmxvb2R8ZW58MHwwfHx8MTc3NDk5Nzc4NHww&ixlib=rb-4.1.0&q=80&w=1080",
-    "source": "Unsplash",
-    "credit": "Nastya Dulhiier",
-    "license": "Unsplash License"
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/10464435/pexels-photo-10464435.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "cottonbro studio",
+    "license": "Pexels License"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Oppido e Bergonzoni sentiti per 4 ore in ospedale\",\n  \"description\": \"Il 31 marzo 2026, il primario Oppido e la sua vice Emma Bergonzoni sono stati interrogati nell'ospedale dove lavorano\",\n  \"articleBody\": \"Il 31 marzo 2026, il primario Oppido e la sua vice Emma Bergonzoni sono stati interrogati nell'ospedale dove lavorano L'interrogatorio è durato 4 ore e si inserisce nell'ambito di un'inchiesta su appalti e abusi d'ufficio. Non sono state rese note le dichiarazioni rese dai due durante l'interrogatorio. L'inchiesta è in corso, e la mancanza di trasparenza alimenta i sospetti. Il sindaco di Milano, Giuseppe Sala, afferma di aver agito per il bene della città, ma evita di affrontare le ipotesi di corruzione. La vicenda si rivela estremamente complessa, con una rete di interessi e soggetti coinvolti che ne aumentano l'opacità. Il primario oppido e la sua vice emma Bergonzoni sono figure chiave nell'ospedale e la loro posizione potrebbe essere messa in discussione a seguito dell'inchiesta. La vicenda solleva interrogativi sulla trasparenza e sulla gestione degli appalti nell'ospedale e sulla eventuale influenza della politica nella gestione della sanità. La conferma degli abusi d'ufficio potrebbe avere gravi conseguenze per l'ospedale e i suoi pazienti, a partire dalla perdita di fiducia nella gestione sanitaria.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Roberto Neri\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-31T11:04:28.553883+00:00\",\n  \"dateModified\": \"2026-03-31T11:04:28.553883+00:00\",\n  \"url\": \"https://lentemattutina.it/cronaca/04c407adb40a99b2\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cronaca/04c407adb40a99b2\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1576921712945-e895becf2beb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxvc3BlZGFsZSUyMGl0YWx5JTIwZmxvb2R8ZW58MHwwfHx8MTc3NDk5Nzc4NHww&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Nastya Dulhiier\"\n  }\n}",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Oppido e Bergonzoni, 4 ore di interrogatorio in ospedale: appalti sotto torchio\",\n  \"description\": \"<lead/il 31 marzo 2026, il primario Oppido e la sua vice Emma Bergonzoni sono stati interrogati per circa 4 ore nell'ospedale dove lavorano. l'interrogatorio ha fatto seguito a un'inchiesta aperta dalla procura che sta indagando su presunti appalti irregolari e abusi d'ufficio all'interno dell'osped\",\n  \"articleBody\": \"<lead/il 31 marzo 2026, il primario Oppido e la sua vice Emma Bergonzoni sono stati interrogati per circa 4 ore nell'ospedale dove lavorano. l'interrogatorio ha fatto seguito a un'inchiesta aperta dalla procura che sta indagando su presunti appalti irregolari e abusi d'ufficio all'interno dell'ospedale. Secondo quanto emerso, gli inquirenti stanno esaminando la gestione dei contratti e delle risorse dell'ospedale, con particolare attenzione alle eventuali irregolarità commesse dal primario Oppido e dalla sua vice Bergonzoni. L'interrogatorio, che si è svolto nella sede dell'ospedale, ha visto la partecipazione di oltre 4 ore di colloqui con gli investigatori. I due medici non hanno ancora rilasciato dichiarazioni ufficiali sulla vicenda, ma fonti vicine all'inchiesta hanno confermato che l'interrogatorio si è focalizzato sulla gestione degli appalti e sulla possibile violazione delle norme di trasparenza e concorrenza. La procura ha già avviato una serie di indagini e perquisizioni nell'ospedale per raccogliere ulteriori prove e documenti. il primario Oppido e la sua vice Bergonzoni sono figure di spicco nell'ambiente sanitario locale, con un curriculum di carriera lungo e prestigioso. Tuttavia, l'inchiesta aperta dalla procura solleva interrogativi sulla gestione della cosa pubblica e sulla possibile collusione tra i vertici dell'ospedale e le aziende private che forniscono servizi e materiali all'ospedale. La vicenda solleva anche questioni più ampie sulla trasparenza e sulla responsabilità nella gestione dei fondi pubblici, e sulla necessità di un controllo più rigoroso sulle attività degli enti pubblici. Se l'inchiesta dovesse confermare le ipotesi di abusi d'ufficio e appalti irregolari, potrebbe avere conseguenze gravi per la credibilità dell'ospedale e per la fiducia dei cittadini nella sanità pubblica, e si potrebbe chiedere come sia stato possibile che tali irregolarità siano state tollerate per così tanto tempo senza che nessuno intervenisse a fermarle.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Chiara Esposito\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-31T11:04:28.553883+00:00\",\n  \"dateModified\": \"2026-03-31T11:04:28.553883+00:00\",\n  \"url\": \"https://lentemattutina.it/cronaca/04c407adb40a99b2\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cronaca/04c407adb40a99b2\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/10464435/pexels-photo-10464435.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"cottonbro studio\"\n  }\n}",
   "priority": 5,
   "source": "refresh",
   "source_type": "refresh",
   "original_url": "https://lentemattutina.it/cronaca/oppido-e-bergonzoni-interrogati-04c407adb40a99b2",
   "related": [
+    {
+      "title": "Palazzina crolla a Licata: morti sotto le macerie",
+      "url": "/cronaca/licata-palazzina-crolla-e-scuote-abitanti-di-34191-ff326901e887cf14",
+      "id": "ff326901e887cf14",
+      "image_url": "https://live.staticflickr.com/65535/55153262158_3fec0ebb24_b.jpg",
+      "image_type": "flickr"
+    },
     {
       "title": "90% delle scuole medie ha già vietato il telefono: 6% degli alunni lo usa lo ste",
       "url": "/cronaca/ministero-90-scuole-italiane-vietano-smartphone-9d0307623cb0d8f2",
@@ -44,13 +51,6 @@
       "url": "/cronaca/renoir-abbandonato-9-milioni-rubati-a-fondazione-m-24bded3124831735",
       "id": "24bded3124831735",
       "image_url": "https://images.unsplash.com/photo-1689720358731-f40a9043cbfb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxhcnQlMjB0aGVmdCUyMGl0YWx5fGVufDB8MHx8fDE3NzQ5NzY1OTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "image_type": "unsplash"
-    },
-    {
-      "title": "Radical storage: 90% turisti ammette azioni indesiderate",
-      "url": "/cronaca/il-90-dei-turisti-ammette-in-vacanza-faccio-cio-ch-2fc5dfa238bbcf2a",
-      "id": "2fc5dfa238bbcf2a",
-      "image_url": "https://images.unsplash.com/photo-1758272959295-cfa2fc7336d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHx0b3VyaXN0JTIwYmVoYXZpb3IlMjB2YWNhdGlvbnxlbnwwfDB8fHwxNzc0OTc0NjYwfDA&ixlib=rb-4.1.0&q=80&w=1080",
       "image_type": "unsplash"
     }
   ],
