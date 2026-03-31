@@ -1,5 +1,22 @@
 [
   {
+    "id": "04c407adb40a99b2",
+    "slug": "oppido-e-bergonzoni-interrogati-04c407adb40a99b2",
+    "title": "Oppido e Bergonzoni interrogati per 4 ore: inchiesta su appalti e abusi d'uffici",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-03-31T11:04:28.553883+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/2827999/pexels-photo-2827999.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "INTERROGATORI IN OSPEDALE PER PRIMARIO E VICE",
+    "lead_preview": "Il primario Oppido e la sua vice Emma Bergonzoni sono stati interrogati il 31 marzo 2026 nell'ospedale dove lavorano. L'",
+    "tags": [
+      "inchiesta appalti",
+      "caso oppido"
+    ]
+  },
+  {
     "id": "ad9068122c28905a",
     "slug": "cosmoprof-lia-non-salva-linnovazione-solo-2300-esp-ad9068122c28905a",
     "title": "Cosmoprof, l'IA non salva l'innovazione: solo 2.300 espositori e tanta confusion",
@@ -284,22 +301,6 @@
       "guerra ucraina",
       "ministri ue",
       "bucha"
-    ]
-  },
-  {
-    "id": "04c407adb40a99b2",
-    "slug": "oppido-e-bergonzoni-interrogati-04c407adb40a99b2",
-    "title": "Oppido e Bergonzoni interrogati",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-03-31T11:04:28.553883+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1557304093-b2f0fe30e899?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxpbnRlcnJvZ2F0b3JpbyUyMGluJTIwb3NwZWRhbGV8ZW58MHwwfHx8MTc3NDk1NTA2OHww&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "INTERROGATORI SUICIDIO DOMENICO",
-    "lead_preview": "Domenico, al via gli interrogatori del primario Oppido e della sua vice emma bergonzoni, il 31 marzo 2026, nell’ospedale",
-    "tags": [
-      "caso domenico"
     ]
   },
   {
