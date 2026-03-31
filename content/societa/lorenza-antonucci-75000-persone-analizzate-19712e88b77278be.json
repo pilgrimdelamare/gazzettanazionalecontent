@@ -1,0 +1,57 @@
+{
+  "id": "19712e88b77278be",
+  "slug": "lorenza-antonucci-75000-persone-analizzate-19712e88b77278be",
+  "title": "Lorenza Antonucci: 75.000 persone analizzate",
+  "titles": [
+    "Lorenza Antonucci: 75.000 persone analizzate",
+    "75.000 persone in 10 Paesi: precarietà alimenta populismi",
+    "Antonucci rivela: immigrazione, comodo capro espiatorio"
+  ],
+  "title_winner": null,
+  "section": "societa",
+  "occhiello": "POPULISMI IN EUROPA, LA RICERCA CAMBRIDGE",
+  "lead": "Lorenza Antonucci, sociologa italiana all'Università di Cambridge, ha condotto uno studio su oltre 75.000 persone in dieci Paesi, tra il 2015 e il 2018, rivelando che la precarietà economica e lavorativa alimenta i populismi in Europa, sfruttando l'immigrazione per incanalare le frustrazioni delle persone.",
+  "corpo1": "Lo studio, condotto dal team di Lorenza Antonucci, ha analizzato i dati relativi a oltre 75.000 persone in dieci Paesi, tra cui l'Italia, tra il 2015 e il 2018. I risultati mostrano che l'ostilità verso i migranti trova terreno fertile perché rappresenta un modo semplice per incanalare le frustrazioni delle persone sempre più influenzate da preoccupazioni economiche e sociali. La ricerca ha rilevato che la precarietà economica e lavorativa sono fattori chiave nell'alimentare i populismi in Europa. I populisti sfruttano l'immigrazione come un modo per incanalare le frustrazioni delle persone, che sono sempre più preoccupate per la loro situazione economica e sociale.",
+  "corpo2": "Lorenza Antonucci, sociologa italiana all'Università di Cambridge, è una ricercatrice che si è concentrata sullo studio dei fenomeni sociali e economici che influenzano la società. Il suo studio sui populismi in Europa è significativo perché mette in luce il legame tra la precarietà economica e lavorativa e l'aumento dei populismi. Il meccanismo strutturale che spiega la notizia è che la precarietà economica e lavorativa crea un senso di insicurezza e frustrazione tra le persone, che poi vengono sfruttate dai populisti per incanalare le loro frustrazioni verso l'immigrazione. Cosa succederà se la precarietà economica e lavorativa continuerà a crescere in Europa? La domanda è aperta, ma una cosa è certa: i populismi continueranno a sfruttare l'immigrazione come un modo per incanalare le frustrazioni delle persone.",
+  "journalist": {
+    "id": "marco_sala_01",
+    "firma": "Marco Sala",
+    "sezione": "societa"
+  },
+  "published_at": "2026-03-31T06:21:15.764134+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/35781790/pexels-photo-35781790.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "hayati ilker ergün",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Lorenza Antonucci: 75.000 persone analizzate\",\n  \"description\": \"Lorenza Antonucci, sociologa italiana all'Università di Cambridge, ha condotto uno studio su oltre 75.000 persone in dieci Paesi, tra il 2015 e il 2018, rivelando che la precarietà economica e lavorativa alimenta i populismi in Europa, sfruttando l'immigrazione per incanalare le frustrazioni delle p\",\n  \"articleBody\": \"Lorenza Antonucci, sociologa italiana all'Università di Cambridge, ha condotto uno studio su oltre 75.000 persone in dieci Paesi, tra il 2015 e il 2018, rivelando che la precarietà economica e lavorativa alimenta i populismi in Europa, sfruttando l'immigrazione per incanalare le frustrazioni delle persone. Lo studio, condotto dal team di Lorenza Antonucci, ha analizzato i dati relativi a oltre 75.000 persone in dieci Paesi, tra cui l'Italia, tra il 2015 e il 2018. I risultati mostrano che l'ostilità verso i migranti trova terreno fertile perché rappresenta un modo semplice per incanalare le frustrazioni delle persone sempre più influenzate da preoccupazioni economiche e sociali. La ricerca ha rilevato che la precarietà economica e lavorativa sono fattori chiave nell'alimentare i populismi in Europa. I populisti sfruttano l'immigrazione come un modo per incanalare le frustrazioni delle persone, che sono sempre più preoccupate per la loro situazione economica e sociale. Lorenza Antonucci, sociologa italiana all'Università di Cambridge, è una ricercatrice che si è concentrata sullo studio dei fenomeni sociali e economici che influenzano la società. Il suo studio sui populismi in Europa è significativo perché mette in luce il legame tra la precarietà economica e lavorativa e l'aumento dei populismi. Il meccanismo strutturale che spiega la notizia è che la precarietà economica e lavorativa crea un senso di insicurezza e frustrazione tra le persone, che poi vengono sfruttate dai populisti per incanalare le loro frustrazioni verso l'immigrazione. Cosa succederà se la precarietà economica e lavorativa continuerà a crescere in Europa? La domanda è aperta, ma una cosa è certa: i populismi continueranno a sfruttare l'immigrazione come un modo per incanalare le frustrazioni delle persone.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Marco Sala\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-31T06:21:15.764134+00:00\",\n  \"dateModified\": \"2026-03-31T06:21:15.764134+00:00\",\n  \"url\": \"https://lentemattutina.it/societa/19712e88b77278be\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/societa/19712e88b77278be\"\n  },\n  \"articleSection\": \"Societa\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/35781790/pexels-photo-35781790.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"hayati ilker ergün\"\n  }\n}",
+  "priority": 7,
+  "source": "Il Fatto Quotidiano",
+  "source_type": "competitor",
+  "original_url": "https://www.ilfattoquotidiano.it/2026/03/31/populismi-europa-precarieta-economica-ricerca-notizie/8340504/",
+  "related": [
+    {
+      "title": "LHH: il 17% dei licenziati prova l’impresa, -9% in 3 anni",
+      "url": "/esteri/lhh-il-17-dei-licenziati-prova-limpresa--9-in-3-an-f49e6a79c989b9b5",
+      "id": "f49e6a79c989b9b5",
+      "image_url": "https://images.unsplash.com/photo-1663438380019-b6997345e87e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxlY29ub21pYyUyMHVuY2VydGFpbnR5JTIwb2ZmaWNlJTIwd29ya2Vyc3xlbnwwfDB8fHwxNzc0OTM3MTU1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Due libri a confronto sul senso della morte",
+      "url": "/cronaca/due-libri-a-confronto-sul-senso-della-morte-58123049d821d2ee",
+      "id": "58123049d821d2ee",
+      "image_url": "https://images.unsplash.com/photo-1513581166391-887a96ddeafd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxtaWxhbiUyMGl0YWx5fGVufDB8MHx8fDE3NzQ5MzcxNDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "2.157 minori in carcere, il record dell'ultimo decennio",
+      "url": "/politica/2157-minori-in-carcere-il-record-dellultimo-decenn-a3c6efffc32e2335",
+      "id": "a3c6efffc32e2335",
+      "image_url": "https://images.unsplash.com/photo-1713947504109-08f15c1672a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxJdGFsaWFuJTIwcHJpc29uJTIwaW50ZXJpb3IlMjBjZWxsc3xlbnwwfDB8fHwxNzc0OTM3MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    }
+  ]
+}
