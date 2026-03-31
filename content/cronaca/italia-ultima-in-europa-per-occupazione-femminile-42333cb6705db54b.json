@@ -1,0 +1,57 @@
+{
+  "id": "42333cb6705db54b",
+  "slug": "italia-ultima-in-europa-per-occupazione-femminile-42333cb6705db54b",
+  "title": "Italia ultima in Europa per occupazione femminile e natalità",
+  "titles": [
+    "Italia ultima in Europa per occupazione femminile e natalità",
+    "Gualtieri: governo 'scoraggiante' sul welfare, Orlando replica",
+    "15.000 bambini in meno: l'Italia record di culle vuote in Europa"
+  ],
+  "title_winner": null,
+  "section": "cronaca",
+  "occhiello": "ITALIA ULTIMA IN EUROPA PER OCCUPAZIONE FEMMINILE",
+  "lead": "L'Italia è ultima in Europa per occupazione femminile e tra gli ultimi Paesi per numero di figli. Secondo le ultime statistiche, l'Italia ha registrato un nuovo record di culle vuote, con 15.000 bambini in meno rispetto all'anno precedente. Questo trend non è nuovo e si riscontra anche in altri Paesi europei.",
+  "corpo1": "L'Italia è un paese in via di invecchiamento, con una popolazione sempre più anziana e una percentuale di donne occupate che è tra le più basse in Europa. Secondo le statistiche dell'Istat, nel 2025 sono state registrate 355.000 nascite, mentre nel 2024 erano state 370.000. Questo trend è accompagnato da un aumento dei nuclei familiari di una sola persona e da un calo della percentuale di coppie con figli. Il demografo Rosina ha dichiarato che \"siamo oltre le peggiori previsioni\" e che il problema non è solo economico, ma anche politico.\n\nIl governo ha presentato diversi piani per incentivare la natalità, tra cui un bonus ai genitori. Tuttavia, queste misure non sembrano aver avuto l'effetto desiderato, e il paese continua a registrare un calo della natalità.\n\nIl sindaco di Roma, Roberto Gualtieri, ha dichiarato che \"la politica del governo è di tipo scoraggiante\" e che \"il welfare è dimenticato\". Il ministro del Lavoro, Andrea Orlando, ha risposto che \"la politica del governo è di tipo sostegno\" e che \"il welfare è stato aumentato\".\n\nIl problema della natalità non è solo italiano, ma è un trend che si riscontra anche in altri Paesi europei. Secondo le statistiche dell'Unione Europea, la popolazione italiana è in via di invecchiamento più rapidamente rispetto ad altre nazioni, e il calo della natalità è un problema serio per il futuro del paese.",
+  "corpo2": "La politica del governo italiano sembra essere di tipo scoraggiante per le famiglie e per le donne in particolare. Il calo della natalità è un problema serio per il futuro del paese e richiede una risposta efficace e sostenibile. Se il governo non cambia la sua politica e non mette in atto misure efficaci per incentivare la natalità, il paese rischia di diventare sempre più anziano e di avere una popolazione in via di riduzione.",
+  "journalist": {
+    "id": "chiara_esposito_01",
+    "firma": "Chiara Esposito",
+    "sezione": "cronaca"
+  },
+  "published_at": "2026-03-31T23:48:33.097172+00:00",
+  "image": {
+    "type": "feed_image",
+    "url": "https://www.repstatic.it/content/nazionale/img/2026/03/31/221805891-3e31451b-6b69-452d-a129-31dd64478e66.jpg",
+    "source": "Repubblica Cronaca",
+    "credit": "Repubblica Cronaca",
+    "license": "editorial"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Italia ultima in Europa per occupazione femminile e natalità\",\n  \"description\": \"L'Italia è ultima in Europa per occupazione femminile e tra gli ultimi Paesi per numero di figli. Secondo le ultime statistiche, l'Italia ha registrato un nuovo record di culle vuote, con 15.000 bambini in meno rispetto all'anno precedente. Questo trend non è nuovo e si riscontra anche in altri Paes\",\n  \"articleBody\": \"L'Italia è ultima in Europa per occupazione femminile e tra gli ultimi Paesi per numero di figli. Secondo le ultime statistiche, l'Italia ha registrato un nuovo record di culle vuote, con 15.000 bambini in meno rispetto all'anno precedente. Questo trend non è nuovo e si riscontra anche in altri Paesi europei. L'Italia è un paese in via di invecchiamento, con una popolazione sempre più anziana e una percentuale di donne occupate che è tra le più basse in Europa. Secondo le statistiche dell'Istat, nel 2025 sono state registrate 355.000 nascite, mentre nel 2024 erano state 370.000. Questo trend è accompagnato da un aumento dei nuclei familiari di una sola persona e da un calo della percentuale di coppie con figli. Il demografo Rosina ha dichiarato che \\\"siamo oltre le peggiori previsioni\\\" e che il problema non è solo economico, ma anche politico.\\n\\nIl governo ha presentato diversi piani per incentivare la natalità, tra cui un bonus ai genitori. Tuttavia, queste misure non sembrano aver avuto l'effetto desiderato, e il paese continua a registrare un calo della natalità.\\n\\nIl sindaco di Roma, Roberto Gualtieri, ha dichiarato che \\\"la politica del governo è di tipo scoraggiante\\\" e che \\\"il welfare è dimenticato\\\". Il ministro del Lavoro, Andrea Orlando, ha risposto che \\\"la politica del governo è di tipo sostegno\\\" e che \\\"il welfare è stato aumentato\\\".\\n\\nIl problema della natalità non è solo italiano, ma è un trend che si riscontra anche in altri Paesi europei. Secondo le statistiche dell'Unione Europea, la popolazione italiana è in via di invecchiamento più rapidamente rispetto ad altre nazioni, e il calo della natalità è un problema serio per il futuro del paese. La politica del governo italiano sembra essere di tipo scoraggiante per le famiglie e per le donne in particolare. Il calo della natalità è un problema serio per il futuro del paese e richiede una risposta efficace e sostenibile. Se il governo non cambia la sua politica e non mette in atto misure efficaci per incentivare la natalità, il paese rischia di diventare sempre più anziano e di avere una popolazione in via di riduzione.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Chiara Esposito\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-31T23:48:33.097172+00:00\",\n  \"dateModified\": \"2026-03-31T23:48:33.097172+00:00\",\n  \"url\": \"https://lentemattutina.it/cronaca/42333cb6705db54b\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cronaca/42333cb6705db54b\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.repstatic.it/content/nazionale/img/2026/03/31/221805891-3e31451b-6b69-452d-a129-31dd64478e66.jpg\",\n    \"creditText\": \"Repubblica Cronaca\"\n  }\n}",
+  "priority": 5,
+  "source": "Repubblica Cronaca",
+  "source_type": "competitor",
+  "original_url": "https://www.repubblica.it/cronaca/2026/04/01/news/denatalita_fertilita_politiche_welfare_record_donne_occupazione-425256518/?rss",
+  "related": [
+    {
+      "title": "Italia nega uso base sigonella ai usa: nascosto il piano di voli",
+      "url": "/cronaca/italia-nega-uso-base-sigonella-ai-usa-nascosto-il-a3a691a54d000f24",
+      "id": "a3a691a54d000f24",
+      "image_url": "https://images.pexels.com/photos/29743259/pexels-photo-29743259.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
+    },
+    {
+      "title": "Uomo con giubotto tricolore sorpreso alla seduta di rifinitura della Nazionale",
+      "url": "/cronaca/uomo-in-giubotto-tricolore-spiata-mentre-assiste-a-21b81d9e85483798",
+      "id": "21b81d9e85483798",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Passo_dell%27Uomo_2021.jpg",
+      "image_type": "wikimedia"
+    },
+    {
+      "title": "Oppido e Bergonzoni, 4 ore di interrogatorio in ospedale: appalti sotto torchio",
+      "url": "/cronaca/oppido-e-bergonzoni-interrogati-04c407adb40a99b2",
+      "id": "04c407adb40a99b2",
+      "image_url": "https://images.pexels.com/photos/10464435/pexels-photo-10464435.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
+    }
+  ]
+}
