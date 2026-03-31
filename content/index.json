@@ -1,5 +1,23 @@
 [
   {
+    "id": "e068adf9db7f51ed",
+    "slug": "marco-landi-lingegnere-di-chianciano-che-riporto-s-e068adf9db7f51ed",
+    "title": "L'ingegnere italiano che riportò Steve Jobs ad Apple",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-03-30T23:31:51.239333+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1690732989446-6137fc01e67b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxBcHBsZSUyMGNvcnBvcmF0ZSUyMG1lZXRpbmd8ZW58MHwwfHx8MTc3NDkyMDkzOXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "APPLE, LA MELA TENTATRICE CHE HA CAMBIATO IL MONDO",
+    "lead_preview": "Marco Landi, ingegnere di Chianciano, è stato presidente di Apple tra il 1995 e il 1997. È stato lui a riportare Steve J",
+    "tags": [
+      "apple",
+      "steve jobs",
+      "marco landi"
+    ]
+  },
+  {
     "id": "e9e29ff5b50289bf",
     "slug": "bff-bank-azioni-a--549-dopo-gli-ispettori-crolla-i-e9e29ff5b50289bf",
     "title": "BFF Bank crolla del 54,9%: capitalizzazione a €270 milioni",
@@ -1127,24 +1145,6 @@
     "tags": [
       "ascoliave",
       "azienda energetica"
-    ]
-  },
-  {
-    "id": "e068adf9db7f51ed",
-    "slug": "marco-landi-lingegnere-di-chianciano-che-riporto-s-e068adf9db7f51ed",
-    "title": "Marco Landi: l'ingegnere di Chianciano che riportò Steve Jobs in Apple",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-03-30T23:31:51.239333+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1652211955967-99c892925469?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxmYWN0b3J5JTIwd29ya2Vyc3xlbnwwfDB8fHwxNzc0OTEzNTExfDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "APPLE, LA MELA TENTATRICE CHE HA CAMBIATO IL MONDO.",
-    "lead_preview": "Marco Landi, ingegnere originario di Chianciano, è stato presidente di Apple tra il 1995 e il 1997. È stato lui a riport",
-    "tags": [
-      "apple",
-      "steve jobs",
-      "marco landi"
     ]
   },
   {
