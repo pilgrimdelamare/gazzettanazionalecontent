@@ -1,0 +1,57 @@
+{
+  "id": "132066ab1cdfdda8",
+  "slug": "la-palazzo-marino-si-rintananza-il-caso-san-siro-r-132066ab1cdfdda8",
+  "title": "La palazzo marino si rintananza: il caso-san siro riaprova la corsa per il comun",
+  "titles": [
+    "LA PALAZZO MARINO SI RINTANANZA: IL CASO-SAN SIRO RIAPROVA LA CORSA PER IL COMUN",
+    "LA PALAZZO MARINO SI RINTANANZA: IL CASO-SAN SIRO RIAPROVA LA CORSA PER IL COMUN",
+    "LA PALAZZO MARINO SI RINTANANZA: IL CASO-SAN SIRO RIAPROVA LA CORSA PER IL COMUN"
+  ],
+  "title_winner": null,
+  "section": "politica",
+  "occhiello": "LA PALAZZO MARINO SI RINTANANZA: IL CASO-SAN SIRO RIAPROVA LA CORSA PER IL COMUNE DI MILANO",
+  "lead": "La notizia è arrivata ieri sera, quando il Sindaco di Milano ha annunciato di aver incaricato una commissione d'inchiesta per investigare sulla vicenda San Siro. La decisione è stata presa dopo che è emerso che il Comune di Milano aveva assegnato un contratto per la gestione dello stadio San Siro senza alcun concorso, a un'azienda privata conosciuta per la sua vicinanza ai vertici del centrodestra.",
+  "corpo1": "La vicenda San Siro è emersa all'improvviso, in un momento in cui il centrodestra era in grave difficoltà a Milano. Il Comune di Milano aveva assegnato un contratto per la gestione dello stadio San Siro a un'azienda privata, senza alcun concorso. L'azienda in questione è nota per la sua vicinanza ai vertici del centrodestra, e il contratto è stato assegnato senza alcuna pubblica gara. La decisione è stata criticata da molti, che hanno accusato il Comune di Milano di aver cercato di favorire un'azienda privata a spese dei cittadini. Stando al comunicato del Sindaco di Milano, il contratto è stato assegnato \"per motivi di urgenza e per garantire la continuità delle attività dello stadio San Siro\". Tuttavia, molti hanno sospettato che la vera motivazione fosse quella di favorire un'azienda privata a spese dei cittadini. La commissione d'inchiesta ha l'incarico di investigare sulla vicenda e di determinare se ci siano state irregolarità nel procedimento di assegnazione del contratto.",
+  "corpo2": "Il caso San Siro è un autogol importante per il centrodestra a Milano, che era in grave difficoltà prima del referendum. La decisione di assegnare il contratto senza concorso è stata criticata da molti, e la commissione d'inchiesta ha l'incarico di investigare sulla vicenda. La questione è importante perché mette in luce la mancanza di trasparenza e di legalità nel procedimento di assegnazione dei contratti pubblici. È ragionevole attendersi che la vicenda San Siro abbia conseguenze per il Sindaco di Milano e per il Comune di Milano, a meno che non vengano presi provvedimenti per migliorare la trasparenza e la legalità nei procedimenti di assegnazione dei contratti pubblici.",
+  "journalist": {
+    "id": "elena_russo_01",
+    "firma": "Elena Russo",
+    "sezione": "politica"
+  },
+  "published_at": "2026-03-31T16:19:14.656120+00:00",
+  "image": {
+    "type": "wikimedia",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Milano_-_Palazzo_Marino_-_202109021915.jpeg",
+    "source": "Wikimedia Commons",
+    "credit": "Lauraderiu",
+    "license": "CC"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"LA PALAZZO MARINO SI RINTANANZA: IL CASO-SAN SIRO RIAPROVA LA CORSA PER IL COMUN\",\n  \"description\": \"La notizia è arrivata ieri sera, quando il Sindaco di Milano ha annunciato di aver incaricato una commissione d'inchiesta per investigare sulla vicenda San Siro. La decisione è stata presa dopo che è emerso che il Comune di Milano aveva assegnato un contratto per la gestione dello stadio San Siro se\",\n  \"articleBody\": \"La notizia è arrivata ieri sera, quando il Sindaco di Milano ha annunciato di aver incaricato una commissione d'inchiesta per investigare sulla vicenda San Siro. La decisione è stata presa dopo che è emerso che il Comune di Milano aveva assegnato un contratto per la gestione dello stadio San Siro senza alcun concorso, a un'azienda privata conosciuta per la sua vicinanza ai vertici del centrodestra. La vicenda San Siro è emersa all'improvviso, in un momento in cui il centrodestra era in grave difficoltà a Milano. Il Comune di Milano aveva assegnato un contratto per la gestione dello stadio San Siro a un'azienda privata, senza alcun concorso. L'azienda in questione è nota per la sua vicinanza ai vertici del centrodestra, e il contratto è stato assegnato senza alcuna pubblica gara. La decisione è stata criticata da molti, che hanno accusato il Comune di Milano di aver cercato di favorire un'azienda privata a spese dei cittadini. Stando al comunicato del Sindaco di Milano, il contratto è stato assegnato \\\"per motivi di urgenza e per garantire la continuità delle attività dello stadio San Siro\\\". Tuttavia, molti hanno sospettato che la vera motivazione fosse quella di favorire un'azienda privata a spese dei cittadini. La commissione d'inchiesta ha l'incarico di investigare sulla vicenda e di determinare se ci siano state irregolarità nel procedimento di assegnazione del contratto. Il caso San Siro è un autogol importante per il centrodestra a Milano, che era in grave difficoltà prima del referendum. La decisione di assegnare il contratto senza concorso è stata criticata da molti, e la commissione d'inchiesta ha l'incarico di investigare sulla vicenda. La questione è importante perché mette in luce la mancanza di trasparenza e di legalità nel procedimento di assegnazione dei contratti pubblici. È ragionevole attendersi che la vicenda San Siro abbia conseguenze per il Sindaco di Milano e per il Comune di Milano, a meno che non vengano presi provvedimenti per migliorare la trasparenza e la legalità nei procedimenti di assegnazione dei contratti pubblici.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Elena Russo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-31T16:19:14.656120+00:00\",\n  \"dateModified\": \"2026-03-31T16:19:14.656120+00:00\",\n  \"url\": \"https://lentemattutina.it/politica/132066ab1cdfdda8\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/politica/132066ab1cdfdda8\"\n  },\n  \"articleSection\": \"Politica\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://upload.wikimedia.org/wikipedia/commons/0/07/Milano_-_Palazzo_Marino_-_202109021915.jpeg\",\n    \"creditText\": \"Lauraderiu\"\n  }\n}",
+  "priority": 6,
+  "source": "Il Fatto Quotidiano",
+  "source_type": "competitor",
+  "original_url": "https://www.ilfattoquotidiano.it/2026/03/31/san-siro-indagini-milano-elezioni-news/8341517/",
+  "related": [
+    {
+      "title": "Volo EasyJet torna a Glasgow dopo turbolenze: assistente ferito",
+      "url": "/politica/volo-easyjet-torna-a-glasgow-dopo-turbolenze-assis-801e88c499c80597",
+      "id": "801e88c499c80597",
+      "image_url": "https://1.bp.blogspot.com/-HCOxHVpzQzM/W_85_rmpwiI/AAAAAAAALsw/wy_-i09qusk8hzy8KW8MjwoMj4TFqCMWgCLcBGAs/s1600/Palazzo_Chigi_%25281861002263%2529.jpg",
+      "image_type": "ddg_image"
+    },
+    {
+      "title": "Meloni e Trump in vignetta satirica",
+      "url": "/politica/la-vignetta-di-natangelo-su-meloni-e-trump-04c37ccf652a78f8",
+      "id": "04c37ccf652a78f8",
+      "image_url": "https://images.unsplash.com/photo-1617603420966-5f17dedd5d3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxHaW9yZ2lhJTIwTWVsb25pfGVufDB8MHx8fDE3NzQ5NTI1NTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Advance UK paga 8,7 mln sterline a società segreta per strategia elettorale",
+      "url": "/politica/advance-uk-paga-87-mln-sterline-a-societa-segreta-7e07da58ee2295a5",
+      "id": "7e07da58ee2295a5",
+      "image_url": "",
+      "image_type": "none"
+    }
+  ]
+}
