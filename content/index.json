@@ -1,5 +1,22 @@
 [
   {
+    "id": "360533c6f9f9f6d6",
+    "slug": "test-con-la-vettura-del-2025-cosa-rivela-il-piano-360533c6f9f9f6d6",
+    "title": "F1: Ferrari testa la SF-25 al Mugello il 1° aprile",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-03-31T11:13:02.979248+00:00",
+    "image_type": "wikimedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Ferrari_296_GTB_1X7A6379.jpg",
+    "occhiello": "FERRARI PIANIFICA TEST A MUGELLO",
+    "lead_preview": "Mercoledì 1 aprile, a partire dalle 9:00, la Scuderia Ferrari sarà al Mugello per due sessioni di test con la monoposto ",
+    "tags": [
+      "f1 ferrari",
+      "mugello test"
+    ]
+  },
+  {
     "id": "cab870b4d4add54e",
     "slug": "rai-e-disney-insieme-contenuti-italiani-su-piattaf-cab870b4d4add54e",
     "title": "Rai e Disney+ insieme: contenuti italiani su piattaforma streaming",
@@ -216,23 +233,6 @@
     "lead_preview": "Scott Mills, ex conduttore radiofonico della BBC, è stato licenziato il 30 marzo 2026 per \"comportamento personale\" a ca",
     "tags": [
       "caso scott mills"
-    ]
-  },
-  {
-    "id": "360533c6f9f9f6d6",
-    "slug": "test-con-la-vettura-del-2025-cosa-rivela-il-piano-360533c6f9f9f6d6",
-    "title": "Test con la vettura del 2025: cosa rivela il piano ferrari",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-03-31T11:13:02.979248+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/f0be2bc27613b5de122d0326cc139e917f3f517a/skysport/it/motori/motogp/circuito-mugello-paolo-beltramo-foto/mugello_ferrari_motorsport.jpg",
-    "occhiello": "TEST CON LA VETTURA DEL 2025: COSA RIVELA IL PIANO FERRARI",
-    "lead_preview": "Ferrari ha programmato due sessioni di test al Mugello a partire da mercoledì 1 aprile, utilizzando la monoposto SF-25 d",
-    "tags": [
-      "f1 2025",
-      "ferrari 2025"
     ]
   },
   {
