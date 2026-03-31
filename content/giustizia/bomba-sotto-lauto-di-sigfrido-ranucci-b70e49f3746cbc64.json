@@ -1,18 +1,18 @@
 {
   "id": "b70e49f3746cbc64",
   "slug": "bomba-sotto-lauto-di-sigfrido-ranucci-b70e49f3746cbc64",
-  "title": "Bomba sotto l'auto di Sigfrido Ranucci",
+  "title": "Sigfrido Ranucci vittima di attentato a Roma",
   "titles": [
-    "Bomba sotto l'auto di Sigfrido Ranucci",
-    "Ranucci bersaglio: auto danneggiata",
-    "Dda indaga su attentato a conduttore Report"
+    "Sigfrido Ranucci vittima di attentato a Roma",
+    "L'attentato a Sigfrido Ranucci ha legami con la Camorra",
+    "La DDA di Roma indaga sulla pista della Camorra per l'attentato a Sigfrido Ranuc"
   ],
   "title_winner": null,
   "section": "giustizia",
-  "occhiello": "ATTENTATO A RANUCCI: CAMORRA INVESTIGATA",
-  "lead": "Sigfrido Ranucci, conduttore di Report, è stato vittima di un attentato il 16 ottobre scorso. La Dda di Roma indaga sulla bomba piazzata sotto la sua auto, che ha danneggiato anche l'auto della figlia.",
-  "corpo1": "La Dda di Roma indaga sull'attentato a Sigfrido Ranucci, conduttore di Report, e ritiene che l'autore sia arrivato dalla Campania, come anticipato da Il Fatto Quotidiano. La bomba è stata piazzata sotto l'auto di Ranucci, danneggiando anche l'auto della figlia. La Dda di Roma sta indagando sull'attentato e ha individuato l'auto nera come quella utilizzata dall'autore della bomba. Secondo le indagini, l'auto nera è stata utilizzata da chi ha piazzato la bomba davanti alla villetta di Ranucci. La Dda di Roma sta lavorando per identificare l'autore dell'attentato e per capire se l'attentato è stato commissionato dalla camorra.",
-  "corpo2": "Sigfrido Ranucci è un giornalista noto per le sue inchieste sulla mafia e sulla corruzione. L'attentato a lui è stato visto come un attacco alla libertà di stampa e alla possibilità di fare giornalismo di inchiesta in Italia. La Dda di Roma sta lavorando per capire se l'attentato è stato commissionato da un'organizzazione criminale o se è stato un atto isolato. Se l'attentato sarà confermato come opera della camorra, sarà un altro tassello nel mosaico di violenze contro i giornalisti in Italia. L'identificazione e la condanna degli autori dell'attentato saranno un passo importante per la giustizia e per la libertà di stampa in Italia, messa a rischio da attacchi come questo.",
+  "occhiello": "ATTENTATO A SIGFRIDO RANUCCI",
+  "lead": "Sigfrido Ranucci, conduttore di report, è stato vittima di un attentato il 16 ottobre scorso a roma",
+  "corpo1": "Secondo quanto emerso dalle indagini, l'attentato è stato commesso da una persona che è arrivata dalla campania. La dda di roma sta indagando sull'attentato e ha individuato l'auto a bordo della quale viaggiava la persona che ha piazzato l'ordigno davanti alla villetta di Sigfrido Ranucci. L'attentato è avvenuto il 16 ottobre scorso e la dda sta lavorando per chiarire le dinamiche dell'evento e identificare i responsabili. La camorra potrebbe essere coinvolta nell'attentato, secondo quanto riportato da fonti investigative. Sigfrido Ranucci è noto per le sue inchieste giornalistiche e ha diretto il documentario \"fallujah, the hidden massacre\". L'attentato è stato condannato da molti esponenti della società civile e del mondo giornalistico.",
+  "corpo2": "Sigfrido Ranucci è un giornalista italiano noto per le sue inchieste coraggiose e per il suo impegno nel denunciare le ingiustizie. La sua carriera giornalistica è stata segnata da numerousi scoop e inchieste importanti, che lo hanno reso un punto di riferimento per il giornalismo d'inchiesta in italia. L'attentato a Sigfrido Ranucci è un attacco alla libertà di stampa e alla democrazia, e solleva interrogativi sulla capacità dello stato di proteggere i giornalisti che lavorano per denunciare la verità. Se l'attentato è stato commesso dalla camorra, come sembra emergere dalle indagini, ciò significherebbe che l'organizzazione criminale sta cercando di silenziare i giornalisti che la denunciano, e che lo stato deve fare di più per proteggere la libertà di stampa e la sicurezza dei giornalisti. Cosa significa per la democrazia italiana che un giornalista possa essere vittima di un attentato per aver fatto il suo lavoro?",
   "journalist": {
     "id": "silvia_greco_01",
     "firma": "Silvia Greco",
@@ -21,37 +21,38 @@
   "published_at": "2026-03-30T22:47:56.299899+00:00",
   "image": {
     "type": "unsplash",
-    "url": "https://images.unsplash.com/photo-1739488388694-629754f0b953?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxpdGFsaWFuJTIwcG9saWNlJTIwaW52ZXN0aWdhdGlvbnxlbnwwfDB8fHwxNzc0OTEwODc2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "url": "https://images.unsplash.com/photo-1698267578359-f4a128a2248b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxhdHRlbnRhdG8lMjBhJTIwcm9tYXxlbnwwfDB8fHwxNzc0OTIxOTMyfDA&ixlib=rb-4.1.0&q=80&w=1080",
     "source": "Unsplash",
-    "credit": "Mihaela Claudia Puscas",
+    "credit": "Joshua Kettle",
     "license": "Unsplash License"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Bomba sotto l'auto di Sigfrido Ranucci\",\n  \"description\": \"Sigfrido Ranucci, conduttore di Report, è stato vittima di un attentato il 16 ottobre scorso. La Dda di Roma indaga sulla bomba piazzata sotto la sua auto, che ha danneggiato anche l'auto della figlia.\",\n  \"articleBody\": \"Sigfrido Ranucci, conduttore di Report, è stato vittima di un attentato il 16 ottobre scorso. La Dda di Roma indaga sulla bomba piazzata sotto la sua auto, che ha danneggiato anche l'auto della figlia. La Dda di Roma indaga sull'attentato a Sigfrido Ranucci, conduttore di Report, e ritiene che l'autore sia arrivato dalla Campania, come anticipato da Il Fatto Quotidiano. La bomba è stata piazzata sotto l'auto di Ranucci, danneggiando anche l'auto della figlia. La Dda di Roma sta indagando sull'attentato e ha individuato l'auto nera come quella utilizzata dall'autore della bomba. Secondo le indagini, l'auto nera è stata utilizzata da chi ha piazzato la bomba davanti alla villetta di Ranucci. La Dda di Roma sta lavorando per identificare l'autore dell'attentato e per capire se l'attentato è stato commissionato dalla camorra. Sigfrido Ranucci è un giornalista noto per le sue inchieste sulla mafia e sulla corruzione. L'attentato a lui è stato visto come un attacco alla libertà di stampa e alla possibilità di fare giornalismo di inchiesta in Italia. La Dda di Roma sta lavorando per capire se l'attentato è stato commissionato da un'organizzazione criminale o se è stato un atto isolato. Se l'attentato sarà confermato come opera della camorra, sarà un altro tassello nel mosaico di violenze contro i giornalisti in Italia. L'identificazione e la condanna degli autori dell'attentato saranno un passo importante per la giustizia e per la libertà di stampa in Italia, messa a rischio da attacchi come questo.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Silvia Greco\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-30T22:47:56.299899+00:00\",\n  \"dateModified\": \"2026-03-30T22:47:56.299899+00:00\",\n  \"url\": \"https://lentemattutina.it/giustizia/b70e49f3746cbc64\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/giustizia/b70e49f3746cbc64\"\n  },\n  \"articleSection\": \"Giustizia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1739488388694-629754f0b953?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxpdGFsaWFuJTIwcG9saWNlJTIwaW52ZXN0aWdhdGlvbnxlbnwwfDB8fHwxNzc0OTEwODc2fDA&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Mihaela Claudia Puscas\"\n  }\n}",
-  "priority": 4,
-  "source": "Redazione",
-  "source_type": "competitor_gap",
-  "original_url": "https://www.ilfattoquotidiano.it/2026/03/30/attentato-ranucci-bomba-auto-arrivata-campania-indagine-ultime-notizie/8340635/",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Sigfrido Ranucci vittima di attentato a Roma\",\n  \"description\": \"Sigfrido Ranucci, conduttore di report, è stato vittima di un attentato il 16 ottobre scorso a roma\",\n  \"articleBody\": \"Sigfrido Ranucci, conduttore di report, è stato vittima di un attentato il 16 ottobre scorso a roma Secondo quanto emerso dalle indagini, l'attentato è stato commesso da una persona che è arrivata dalla campania. La dda di roma sta indagando sull'attentato e ha individuato l'auto a bordo della quale viaggiava la persona che ha piazzato l'ordigno davanti alla villetta di Sigfrido Ranucci. L'attentato è avvenuto il 16 ottobre scorso e la dda sta lavorando per chiarire le dinamiche dell'evento e identificare i responsabili. La camorra potrebbe essere coinvolta nell'attentato, secondo quanto riportato da fonti investigative. Sigfrido Ranucci è noto per le sue inchieste giornalistiche e ha diretto il documentario \\\"fallujah, the hidden massacre\\\". L'attentato è stato condannato da molti esponenti della società civile e del mondo giornalistico. Sigfrido Ranucci è un giornalista italiano noto per le sue inchieste coraggiose e per il suo impegno nel denunciare le ingiustizie. La sua carriera giornalistica è stata segnata da numerousi scoop e inchieste importanti, che lo hanno reso un punto di riferimento per il giornalismo d'inchiesta in italia. L'attentato a Sigfrido Ranucci è un attacco alla libertà di stampa e alla democrazia, e solleva interrogativi sulla capacità dello stato di proteggere i giornalisti che lavorano per denunciare la verità. Se l'attentato è stato commesso dalla camorra, come sembra emergere dalle indagini, ciò significherebbe che l'organizzazione criminale sta cercando di silenziare i giornalisti che la denunciano, e che lo stato deve fare di più per proteggere la libertà di stampa e la sicurezza dei giornalisti. Cosa significa per la democrazia italiana che un giornalista possa essere vittima di un attentato per aver fatto il suo lavoro?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Silvia Greco\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-30T22:47:56.299899+00:00\",\n  \"dateModified\": \"2026-03-30T22:47:56.299899+00:00\",\n  \"url\": \"https://lentemattutina.it/giustizia/b70e49f3746cbc64\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/giustizia/b70e49f3746cbc64\"\n  },\n  \"articleSection\": \"Giustizia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1698267578359-f4a128a2248b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxhdHRlbnRhdG8lMjBhJTIwcm9tYXxlbnwwfDB8fHwxNzc0OTIxOTMyfDA&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Joshua Kettle\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://lentemattutina.it/giustizia/bomba-sotto-lauto-di-sigfrido-ranucci-b70e49f3746cbc64",
   "related": [
     {
-      "title": "Palazzina crolla a Licata: morti sotto le macerie",
-      "url": "/cronaca/licata-palazzina-crolla-e-scuote-abitanti-di-34191-ff326901e887cf14",
-      "id": "ff326901e887cf14",
-      "image_url": "https://live.staticflickr.com/65535/55153262158_3fec0ebb24_b.jpg",
-      "image_type": "flickr"
+      "title": "L'attentato a Sigfrido Ranucci: pm Giletti rivelazioni",
+      "url": "/giustizia/bomba-a-ranucci-gli-attentatori-arrivano-dalla-cam-1e45c63f3396b25d",
+      "id": "1e45c63f3396b25d",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/377_Campania_orbit.png",
+      "image_type": "wikimedia"
     },
     {
-      "title": "Arera: +8,1% bollette elettriche",
-      "url": "/economia/arera-81-bollette-elettriche-f78be268451f5cbf",
-      "id": "f78be268451f5cbf",
-      "image_url": "https://images.unsplash.com/photo-1647314853926-9def39bb32c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxib2xsZXR0ZSUyMGVsZXR0cmljaGUlMjBhdW1lbnRvfGVufDB8MHx8fDE3NzQ5MTA3OTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "title": "Sigfrido Ranucci: auto del commando individuata e tracciata fino in Campania",
+      "url": "/giustizia/auto-nera-dalla-campania-colpisce-sigfrido-ranucci-226fa69405873ae4",
+      "id": "226fa69405873ae4",
+      "image_url": "https://images.unsplash.com/photo-1607039634468-a37742985cc4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxhdXRvJTIwbmVyYSUyMGNvbiUyMGJvbWJhfGVufDB8MHx8fDE3NzQ5MjE3MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "image_type": "unsplash"
     },
     {
-      "title": "3 caschi blu uccisi in Libano",
-      "url": "/esteri/3-caschi-blu-uccisi-in-libano-39e2c91e2e5ba2da",
-      "id": "39e2c91e2e5ba2da",
-      "image_url": "https://images.unsplash.com/photo-1763656445564-6fef9a9a9443?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxwZWFjZWtlZXBpbmclMjBzb2xkaWVyc3xlbnwwfDB8fHwxNzc0OTEwNzg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "title": "Coppola intercettato con clan D'Alessandro",
+      "url": "/giustizia/coppola-intercettato-con-clan-dalessandro-7bf44a5012203b8a",
+      "id": "7bf44a5012203b8a",
+      "image_url": "https://images.unsplash.com/photo-1640200330428-9fe2ab926de1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxjb21taXNzaW9uZSUyMHByZWZldHRpemlhJTIwZCUyN2FjY2Vzc298ZW58MHwwfHx8MTc3NDkxMDg4OHww&ixlib=rb-4.1.0&q=80&w=1080",
       "image_type": "unsplash"
     }
-  ]
+  ],
+  "updated_at": "2026-03-30T22:47:56.299899+00:00"
 }
