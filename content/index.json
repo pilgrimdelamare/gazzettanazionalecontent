@@ -1,5 +1,21 @@
 [
   {
+    "id": "73efa991e9b7d227",
+    "slug": "35-milioni-di-documenti-su-epstein-online-73efa991e9b7d227",
+    "title": "Notizia in primo piano",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Chiara Esposito",
+    "published_at": "2026-03-31T05:56:58.905324+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/3789194/pexels-photo-3789194.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "",
+    "lead_preview": "Jeffrey Epstein. Tre milioni e mezzo di documenti collegati al finanziere pedofilo sono ora accessibili online all’indir",
+    "tags": [
+      "caso epstein"
+    ]
+  },
+  {
     "id": "fbef5143ab8f7d74",
     "slug": "311-mln-di-tonnellate-di-co₂-la-guerra-in-ucraina-fbef5143ab8f7d74",
     "title": "Notizia in primo piano",
@@ -905,22 +921,6 @@
       "aeroporto trump",
       "desantis trump",
       "donald trump"
-    ]
-  },
-  {
-    "id": "73efa991e9b7d227",
-    "slug": "35-milioni-di-documenti-su-epstein-online-73efa991e9b7d227",
-    "title": "3,5 milioni di documenti su epstein online",
-    "section": "cronaca",
-    "priority": 6,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-03-31T05:56:58.905324+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1713792501173-2a6a030194ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxqZWZmcmV5JTIwZXBzdGVpbiUyMGNvdXJ0aG91c2UlMjBhbWVyaWNhbiUyMGp1c3RpY2V8ZW58MHwwfHx8MTc3NDkzNjYxOHww&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "3,5 MILIONI DI DOCUMENTI SU EPSTEIN ONLINE",
-    "lead_preview": "Jeffrey Epstein. Tre milioni e mezzo di documenti collegati al finanziere pedofilo sono ora accessibili online all’indir",
-    "tags": [
-      "caso epstein"
     ]
   },
   {
