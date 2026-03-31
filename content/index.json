@@ -1,5 +1,22 @@
 [
   {
+    "id": "1dc5b0320cee6ba9",
+    "slug": "f1-verstappen-puo-lasciare-la-red-bull-se-non-e-tr-1dc5b0320cee6ba9",
+    "title": "F1: Verstappen può lasciare la Red Bull se non è tra i primi due",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-03-31T14:18:13.918698+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1759503406984-4f6695352a60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxGMSUyMGRyaXZlcnMlMjByYW5raW5nfGVufDB8MHx8fDE3NzQ5NzkwMzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "VERSTAPPEN PUÒ LASCIARE LA RED BULL A METÀ 2026",
+    "lead_preview": "Max Emilian Verstappen ha una clausola nel contratto con la Red Bull Racing che gli permette di svincolarsi automaticame",
+    "tags": [
+      "f1 2026",
+      "verstappen red bull"
+    ]
+  },
+  {
     "id": "801e88c499c80597",
     "slug": "volo-easyjet-torna-a-glasgow-dopo-turbolenze-assis-801e88c499c80597",
     "title": "Volo EasyJet da Glasgow a Budapest deviato per turbolenze: assistente ferito",
@@ -333,24 +350,6 @@
     "occhiello": "NOTIZIA IN PRIMO PIANO",
     "lead_preview": "Denzel Hayes Washington Jr., l'attore americano, è a Cinecittà per il film \"Annibale\", che occuperà teatri di posa già u",
     "tags": []
-  },
-  {
-    "id": "1dc5b0320cee6ba9",
-    "slug": "f1-verstappen-puo-lasciare-la-red-bull-se-non-e-tr-1dc5b0320cee6ba9",
-    "title": "F1: Verstappen può lasciare la Red Bull se non è tra i primi due a metà 2026",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-03-31T14:18:13.918698+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/a410b961866d77d5c75279b16790f3ead32ec081/skysport/it/motori/formula-1/2026/03/28/f1-verstappen-red-bull-mondiale-2026/ipa_verstappen_giappone.jpg",
-    "occhiello": "CLAUSOLA VERSTAPPEN: 7 GP PER SALVARE IL CONTRATTO",
-    "lead_preview": "Max Verstappen ha una clausola contrattuale con la Red Bull che gli permette di svincolarsi se, alla pausa estiva del ca",
-    "tags": [
-      "f1 2026",
-      "max verstappen",
-      "red bull"
-    ]
   },
   {
     "id": "8352be655fd89fe0",
