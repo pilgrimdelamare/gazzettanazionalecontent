@@ -1,5 +1,21 @@
 [
   {
+    "id": "b38161a066316c60",
+    "slug": "afragola-14enne-uccisa-a-coltellate-dallex-fidanza-b38161a066316c60",
+    "title": "14enne uccisa a coltellate dall'ex",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-04-01T08:40:33.744984+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1642888100704-70cb1c4ea203?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxpdGFsaWFuJTIwcG9saWNlJTIwaW52ZXN0aWdhdGlvbnxlbnwwfDB8fHwxNzc1MDQyMTAyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "14ENNE UCCISA A COLTELLATE DALL'EX",
+    "lead_preview": "Giulia Esposito, 14 anni, è stata uccisa a coltellate il 15 maggio 2025 ad Afragola, in provincia di Napoli. L’ex fidanz",
+    "tags": [
+      "omicidio afragola"
+    ]
+  },
+  {
     "id": "cd224dd0175631db",
     "slug": "foti-deficit-oltre-3-se-la-guerra-continua-cd224dd0175631db",
     "title": "Deficit pubblico sale al 3% del PIL se la guerra continua: l'annuncio del ministro Foti",
@@ -931,24 +947,6 @@
     "tags": [
       "crisi calcio",
       "dino zoff"
-    ]
-  },
-  {
-    "id": "b38161a066316c60",
-    "slug": "afragola-14enne-uccisa-a-coltellate-dallex-fidanza-b38161a066316c60",
-    "title": "Afragola, 14enne uccisa a coltellate dall'ex fidanzato 17enne: domani l'udienza",
-    "section": "cronaca",
-    "priority": 6,
-    "journalist_firma": "Chiara Esposito",
-    "published_at": "2026-04-01T08:40:33.744984+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/5/28/61170f4561b21d94b7c1f5f478a44880.jpg",
-    "occhiello": "",
-    "lead_preview": "Giulia Esposito, 14 anni, è stata uccisa a coltellate il 15 maggio 2025 ad Afragola, in provincia di Napoli. L’ex fidanz",
-    "tags": [
-      "femminicidio afragola",
-      "giulia esposito",
-      "daniele marini"
     ]
   },
   {
