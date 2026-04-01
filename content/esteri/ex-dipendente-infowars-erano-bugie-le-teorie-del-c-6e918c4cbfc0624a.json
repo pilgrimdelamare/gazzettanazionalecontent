@@ -1,0 +1,57 @@
+{
+  "id": "6e918c4cbfc0624a",
+  "slug": "ex-dipendente-infowars-erano-bugie-le-teorie-del-c-6e918c4cbfc0624a",
+  "title": "Ex dipendente Infowars: 'Erano bugie' le teorie del complotto",
+  "titles": [
+    "Ex dipendente Infowars: 'Erano bugie' le teorie del complotto",
+    "Infowars, l'ambiente lavorativo 'senza verità' raccontato da chi c'era dentro",
+    "10 milioni di lettori, ma il contenuto era 'sciocchezze'"
+  ],
+  "title_winner": null,
+  "section": "esteri",
+  "occhiello": "EX VIDEOEDITOR INFOWARS: \"ERANO SOLO BUGIE E MENZOGNE\"",
+  "lead": "Un ex dipendente di Infowars ha definito sciocchezze e bugie il contenuto prodotto dal sito di estrema destra fondato da Alex Jones. La rivelazione arriva da un'intervista rilasciata a NPR da Ramon Antonio Vargas, Video editor e produttore di campo per il programma tra il 2019 e il 2022, pubblicata il 1 aprile 2026 dal Guardian.",
+  "corpo1": "Ramon Antonio Vargas ha lavorato come Video editor e produttore di campo per Infowars dal 2019 al 2022, contribuendo alla produzione dei contenuti del sito noto per diffondere teorie del complotto. Nell'intervista a NPR, Vargas ha dichiarato senza mezzi termini: \"era nonsense. Erano bugie\". Il dipendente ha descritto un ambiente lavorativo dove la verità era l'ultima preoccupazione, sostituita dalla necessità di generare contenuti shockanti per mantenere alto l'engagement. Infowars, fondato da Alex Jones nel 1999, raggiungeva nel 2017 circa 10 milioni di visite mensili, superando testate mainstream come The Economist e Newsweek. Jones è attualmente coinvolto in numerose cause legali per diffamazione, tra cui quella per aver negato la strage di Sandy Hook.",
+  "corpo2": "La testimonianza di Vargas arriva in un momento cruciale per il futuro del complottismo digitale. Mentre piattaforme mainstream intensificano la moderazione dei contenuti, il caso Infowars dimostra come l'industria della disinformazione abbia strutturato vere e proprie redazioni, con ruoli professionalizzati e catene di montaggio simili a quelle del giornalismo tradizionale. La differenza sta nel prodotto finale: non notizie, ma narrazioni alternative costruite per sfruttare algoritmi e polarizzazione. Jones ha trasformato la paranoia in un modello di Business milionario, sfruttando le stesse logiche dell'attention economy che dominano il web. Oggi quel modello è in crisi, ma lascia dietro di sé un pubblico addestrato a diffidare di ogni fonte ufficiale. A pagarne il prezzo è la verità, sostituita da un mercato dove conta solo chi grida più forte.",
+  "journalist": {
+    "id": "fabrizio_mei_01",
+    "firma": "Fabrizio Mei",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-04-01T09:13:36.535813+00:00",
+  "image": {
+    "type": "unsplash",
+    "url": "https://images.unsplash.com/photo-1629891592421-cadabfd37ad4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxSYW1vbiUyMEFudG9uaW8lMjBWYXJnYXN8ZW58MHwwfHx8MTc3NTAzNDgxNnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "source": "Unsplash",
+    "credit": "Daria Kraplak",
+    "license": "Unsplash License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Ex dipendente Infowars: 'Erano bugie' le teorie del complotto\",\n  \"description\": \"Un ex dipendente di Infowars ha definito sciocchezze e bugie il contenuto prodotto dal sito di estrema destra fondato da Alex Jones. La rivelazione arriva da un'intervista rilasciata a NPR da Ramon Antonio Vargas, Video editor e produttore di campo per il programma tra il 2019 e il 2022, pubblicata \",\n  \"articleBody\": \"Un ex dipendente di Infowars ha definito sciocchezze e bugie il contenuto prodotto dal sito di estrema destra fondato da Alex Jones. La rivelazione arriva da un'intervista rilasciata a NPR da Ramon Antonio Vargas, Video editor e produttore di campo per il programma tra il 2019 e il 2022, pubblicata il 1 aprile 2026 dal Guardian. Ramon Antonio Vargas ha lavorato come Video editor e produttore di campo per Infowars dal 2019 al 2022, contribuendo alla produzione dei contenuti del sito noto per diffondere teorie del complotto. Nell'intervista a NPR, Vargas ha dichiarato senza mezzi termini: \\\"era nonsense. Erano bugie\\\". Il dipendente ha descritto un ambiente lavorativo dove la verità era l'ultima preoccupazione, sostituita dalla necessità di generare contenuti shockanti per mantenere alto l'engagement. Infowars, fondato da Alex Jones nel 1999, raggiungeva nel 2017 circa 10 milioni di visite mensili, superando testate mainstream come The Economist e Newsweek. Jones è attualmente coinvolto in numerose cause legali per diffamazione, tra cui quella per aver negato la strage di Sandy Hook. La testimonianza di Vargas arriva in un momento cruciale per il futuro del complottismo digitale. Mentre piattaforme mainstream intensificano la moderazione dei contenuti, il caso Infowars dimostra come l'industria della disinformazione abbia strutturato vere e proprie redazioni, con ruoli professionalizzati e catene di montaggio simili a quelle del giornalismo tradizionale. La differenza sta nel prodotto finale: non notizie, ma narrazioni alternative costruite per sfruttare algoritmi e polarizzazione. Jones ha trasformato la paranoia in un modello di Business milionario, sfruttando le stesse logiche dell'attention economy che dominano il web. Oggi quel modello è in crisi, ma lascia dietro di sé un pubblico addestrato a diffidare di ogni fonte ufficiale. A pagarne il prezzo è la verità, sostituita da un mercato dove conta solo chi grida più forte.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Fabrizio Mei\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-01T09:13:36.535813+00:00\",\n  \"dateModified\": \"2026-04-01T09:13:36.535813+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/6e918c4cbfc0624a\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/6e918c4cbfc0624a\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1629891592421-cadabfd37ad4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxSYW1vbiUyMEFudG9uaW8lMjBWYXJnYXN8ZW58MHwwfHx8MTc3NTAzNDgxNnww&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Daria Kraplak\"\n  }\n}",
+  "priority": 4,
+  "source": "The Guardian",
+  "source_type": "esteri",
+  "original_url": "https://www.theguardian.com/us-news/2026/apr/01/ex-alex-jones-employee-on-infowars-job",
+  "related": [
+    {
+      "title": "Incendio al casino di Evian-les-Bains: tre piani danneggiati",
+      "url": "/esteri/incendio-al-casino-di-evian-les-bains-tre-piani-da-e9b7cc7ed9676ba0",
+      "id": "e9b7cc7ed9676ba0",
+      "image_url": "https://images.unsplash.com/photo-1742666978255-007e0fcfc0c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxFdmlhbi1sZXMtQmFpbnMlMjBjYXNpbm8lMjBmaXJlfGVufDB8MHx8fDE3NzUwMzQ3OTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Kast blocca il memoriale alla Colonia Dignidad",
+      "url": "/esteri/kast-blocca-il-memoriale-alla-colonia-dignidad-e1678e38908bba9e",
+      "id": "e1678e38908bba9e",
+      "image_url": "https://live.staticflickr.com/65535/51181665388_8f8074da7a_b.jpg",
+      "image_type": "flickr"
+    },
+    {
+      "title": "Anne Longfield guiderà l'inchiesta UK sui rischi digitali per minori fino al 2028",
+      "url": "/esteri/etnia-e-religione-al-centro-nellinchiesta-sulle-gr-8af6fe097a535445",
+      "id": "8af6fe097a535445",
+      "image_url": "https://images.unsplash.com/photo-1668119544365-4d444348e00a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxBbm5lJTIwTG9uZ2ZpZWxkfGVufDB8MHx8fDE3NzUwMzIzMzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    }
+  ]
+}
