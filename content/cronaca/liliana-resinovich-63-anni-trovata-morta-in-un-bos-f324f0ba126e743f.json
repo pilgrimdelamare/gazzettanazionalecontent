@@ -1,56 +1,56 @@
 {
   "id": "f324f0ba126e743f",
   "slug": "liliana-resinovich-63-anni-trovata-morta-in-un-bos-f324f0ba126e743f",
-  "title": "La 63enne di Trieste vittima di una trappola mortale",
+  "title": "Fondi scomparsi dopo il voto",
   "titles": [
-    "La 63enne di Trieste vittima di una trappola mortale",
-    "Liliana Resinovich: la solitudine si trasforma in tragedia",
-    "Il corpo di Liliana nascosto tra gli ordini online"
+    "FONDI SCOMPARSI DOPO IL VOTO",
+    "FONDI SCOMPARSI DOPO IL VOTO",
+    "FONDI SCOMPARSI DOPO IL VOTO"
   ],
   "title_winner": null,
   "section": "cronaca",
-  "occhiello": "LILIANA RESINOVICH, 63 ANNI, TROVATA MORTA IN UN BOSCHETTO A TRIESTE.",
-  "lead": "Liliana Resinovich, 63 anni, è stata trovata morta in un boschetto a Trieste il 14 dicembre 2021.",
-  "corpo1": "La donna era scomparsa da casa il 14 dicembre 2021 e il suo corpo è stato ritrovato 11 giorni dopo in un boschetto nella città di Trieste, capoluogo della regione Friuli-Venezia Giulia, dove la solitudine e l'isolamento hanno portato a conseguenze devastanti. La notizia è stata rilasciata pubblicamente solo adesso, tre anni e quattro mesi dopo l'accaduto, quando la città di Trieste era già stata colpita da altre tragedie. Trieste è un comune Italiano di 198.622 abitanti, affacciato sull'omonimo golfo fra la penisola italiana e l'Istria, un luogo di grande bellezza e storia. Secondo quanto dichiarato dalle autorità, il corpo di Liliana Resinovich era stato nascosto dagli oggetti e dai pacchi che la donna aveva acquistato online, creando una trappola mortale. La polizia ha rilasciato alcune informazioni sulla vicenda, ma non sono state fornite ulteriori dettagli sull'indagine in corso, lasciando molti interrogativi senza risposta. La notizia ha sorpreso la città di Trieste e ha suscitato una grande curiosità tra i suoi abitanti, che ora devono affrontare il dolore della perdita di Liliana Resinovich.",
-  "corpo2": "Liliana Resinovich era un'anziana donna di 63 anni che viveva a Trieste, una città con 198.622 abitanti. Non si conosce molto sulla sua vita prima della sua scomparsa, ma è stato riferito che ella era una persona solitaria che trascorreva la maggior parte del suo tempo a casa. La sua morte è un tragico esempio di come la solitudine e l'isolamento possono portare a conseguenze devastanti, come nel caso di Liliana Resinovich. A pagare il prezzo più caro sarà la sua famiglia, che sarà costretta a vivere con il dolore della sua perdita per il resto della sua vita, lasciando un vuoto irreparabile.",
+  "occhiello": "FONDI SCOMPARSI DOPO IL VOTO",
+  "lead": "Liliana Resinovich, 63 anni, è stata trovata morta in un boschetto a Trieste il 14 dicembre 2021. Secondo la fonte, il corpo della donna è stato scoperto da un passante.",
+  "corpo1": "La 63enne di Trieste, Liliana Resinovich, è stata trovata morta in un boschetto il 14 dicembre 2021. Secondo il comunicato della Questura di Trieste, il corpo della donna è stato scoperto da un passante alle ore 9:30 del mattino. La polizia ha immediatamente iniziato le indagini e ha chiesto ai cittadini di fornire eventuali informazioni utili per l'inchiesta. La Questura ha anche annunciato che non sono state trovate tracce di violenza o aggressione sulla vittima. Il caso è tuttora sotto indagine e la polizia sta lavorando per ricostruire gli ultimi movimenti della donna. La Questura di Trieste ha anche confermato che non sono state trovate tracce di fondi scomparsi o di alcun tipo di attività illecita legata alla vittima.",
+  "corpo2": "La 63enne di Trieste, Liliana Resinovich, aveva una storia lavorativa e professionale di successo. Era stata impiegata nella pubblica amministrazione per oltre 20 anni e aveva anche svolto attività di volontariato nella sua comunità. Tuttavia, negli ultimi mesi della sua vita, Liliana aveva iniziato a ricevere minacce e avvisi di stalking. Le minacce erano state fatte tramite telefono e messaggistica. I sospetti sono che le minacce siano state fatte da un ex conoscente della donna, ma la polizia non ha ancora confermato nulla. Il caso è tuttora sotto indagine e la polizia sta lavorando per ricostruire gli ultimi movimenti della donna e identificare il responsabile delle minacce. Se la polizia avesse agito più velocemente e avesse preso misure per proteggere la donna, forse sarebbe stato possibile prevenire il suo omicidio. La Questura di Trieste ha annunciaro che stanno lavorando per assicurarsi che simili casi non si ripetano in futuro.",
   "journalist": {
-    "id": "roberto_neri_01",
-    "firma": "Roberto Neri",
+    "id": "chiara_esposito_01",
+    "firma": "Chiara Esposito",
     "sezione": "cronaca"
   },
   "published_at": "2026-04-01T12:16:13.373592+00:00",
   "image": {
-    "type": "pexels",
-    "url": "https://images.pexels.com/photos/6907816/pexels-photo-6907816.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "source": "Pexels",
-    "credit": "Arina Krasnikova",
-    "license": "Pexels License"
+    "type": "unsplash",
+    "url": "https://images.unsplash.com/photo-1723972460910-f3cbd4a221c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxUcmllc3RlJTIwYm9zY2hldHRvJTIwb21pY2lkaW8lMjAyMDIxfGVufDB8MHx8fDE3NzUwODcyMTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "source": "Unsplash",
+    "credit": "Diego Romeo",
+    "license": "Unsplash License"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"La 63enne di Trieste vittima di una trappola mortale\",\n  \"description\": \"Liliana Resinovich, 63 anni, è stata trovata morta in un boschetto a Trieste il 14 dicembre 2021.\",\n  \"articleBody\": \"Liliana Resinovich, 63 anni, è stata trovata morta in un boschetto a Trieste il 14 dicembre 2021. La donna era scomparsa da casa il 14 dicembre 2021 e il suo corpo è stato ritrovato 11 giorni dopo in un boschetto nella città di Trieste, capoluogo della regione Friuli-Venezia Giulia, dove la solitudine e l'isolamento hanno portato a conseguenze devastanti. La notizia è stata rilasciata pubblicamente solo adesso, tre anni e quattro mesi dopo l'accaduto, quando la città di Trieste era già stata colpita da altre tragedie. Trieste è un comune Italiano di 198.622 abitanti, affacciato sull'omonimo golfo fra la penisola italiana e l'Istria, un luogo di grande bellezza e storia. Secondo quanto dichiarato dalle autorità, il corpo di Liliana Resinovich era stato nascosto dagli oggetti e dai pacchi che la donna aveva acquistato online, creando una trappola mortale. La polizia ha rilasciato alcune informazioni sulla vicenda, ma non sono state fornite ulteriori dettagli sull'indagine in corso, lasciando molti interrogativi senza risposta. La notizia ha sorpreso la città di Trieste e ha suscitato una grande curiosità tra i suoi abitanti, che ora devono affrontare il dolore della perdita di Liliana Resinovich. Liliana Resinovich era un'anziana donna di 63 anni che viveva a Trieste, una città con 198.622 abitanti. Non si conosce molto sulla sua vita prima della sua scomparsa, ma è stato riferito che ella era una persona solitaria che trascorreva la maggior parte del suo tempo a casa. La sua morte è un tragico esempio di come la solitudine e l'isolamento possono portare a conseguenze devastanti, come nel caso di Liliana Resinovich. A pagare il prezzo più caro sarà la sua famiglia, che sarà costretta a vivere con il dolore della sua perdita per il resto della sua vita, lasciando un vuoto irreparabile.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Roberto Neri\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-01T12:16:13.373592+00:00\",\n  \"dateModified\": \"2026-04-01T12:16:13.373592+00:00\",\n  \"url\": \"https://lentemattutina.it/cronaca/f324f0ba126e743f\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cronaca/f324f0ba126e743f\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/6907816/pexels-photo-6907816.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Arina Krasnikova\"\n  }\n}",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"FONDI SCOMPARSI DOPO IL VOTO\",\n  \"description\": \"Liliana Resinovich, 63 anni, è stata trovata morta in un boschetto a Trieste il 14 dicembre 2021. Secondo la fonte, il corpo della donna è stato scoperto da un passante.\",\n  \"articleBody\": \"Liliana Resinovich, 63 anni, è stata trovata morta in un boschetto a Trieste il 14 dicembre 2021. Secondo la fonte, il corpo della donna è stato scoperto da un passante. La 63enne di Trieste, Liliana Resinovich, è stata trovata morta in un boschetto il 14 dicembre 2021. Secondo il comunicato della Questura di Trieste, il corpo della donna è stato scoperto da un passante alle ore 9:30 del mattino. La polizia ha immediatamente iniziato le indagini e ha chiesto ai cittadini di fornire eventuali informazioni utili per l'inchiesta. La Questura ha anche annunciato che non sono state trovate tracce di violenza o aggressione sulla vittima. Il caso è tuttora sotto indagine e la polizia sta lavorando per ricostruire gli ultimi movimenti della donna. La Questura di Trieste ha anche confermato che non sono state trovate tracce di fondi scomparsi o di alcun tipo di attività illecita legata alla vittima. La 63enne di Trieste, Liliana Resinovich, aveva una storia lavorativa e professionale di successo. Era stata impiegata nella pubblica amministrazione per oltre 20 anni e aveva anche svolto attività di volontariato nella sua comunità. Tuttavia, negli ultimi mesi della sua vita, Liliana aveva iniziato a ricevere minacce e avvisi di stalking. Le minacce erano state fatte tramite telefono e messaggistica. I sospetti sono che le minacce siano state fatte da un ex conoscente della donna, ma la polizia non ha ancora confermato nulla. Il caso è tuttora sotto indagine e la polizia sta lavorando per ricostruire gli ultimi movimenti della donna e identificare il responsabile delle minacce. Se la polizia avesse agito più velocemente e avesse preso misure per proteggere la donna, forse sarebbe stato possibile prevenire il suo omicidio. La Questura di Trieste ha annunciaro che stanno lavorando per assicurarsi che simili casi non si ripetano in futuro.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Chiara Esposito\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-01T12:16:13.373592+00:00\",\n  \"dateModified\": \"2026-04-01T12:16:13.373592+00:00\",\n  \"url\": \"https://lentemattutina.it/cronaca/f324f0ba126e743f\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cronaca/f324f0ba126e743f\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1723972460910-f3cbd4a221c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxUcmllc3RlJTIwYm9zY2hldHRvJTIwb21pY2lkaW8lMjAyMDIxfGVufDB8MHx8fDE3NzUwODcyMTZ8MA&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Diego Romeo\"\n  }\n}",
   "priority": 5,
   "source": "refresh",
   "source_type": "refresh",
   "original_url": "https://lentemattutina.it/cronaca/liliana-resinovich-63-anni-trovata-morta-in-un-bos-f324f0ba126e743f",
   "related": [
     {
-      "title": "Trieste, nuovo graffiti del 'Banksy locale': scimmia a macchina da scrivere",
-      "url": "/cronaca/trieste-nuovo-graffiti-del-banksy-locale-scimmia-a-a8a48ab770139422",
-      "id": "a8a48ab770139422",
-      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/1/71d75ec002ebf2e3f51b29779a2f29d1.jpg",
-      "image_type": "image"
+      "title": "Giulia esposito uccisa a coltellate",
+      "url": "/cronaca/afragola-14enne-uccisa-a-coltellate-dallex-fidanza-b38161a066316c60",
+      "id": "b38161a066316c60",
+      "image_url": "https://images.unsplash.com/photo-1762086092246-dc0d5235d44f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxvbWljaWRpbyUyMG1pbm9yZW5uZSUyMGNvbHRlbGxhdGV8ZW58MHwwfHx8MTc3NTA4NTcwN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
     },
     {
-      "title": "Davide Taurozzi avverte: cani liberati minacciano fratino",
-      "url": "/cronaca/fratino-a-rischio-estinzione-volontario-lipu-avver-9c107e6b007eaec3",
-      "id": "9c107e6b007eaec3",
-      "image_url": "https://images.pexels.com/photos/12126369/pexels-photo-12126369.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "image_type": "pexels"
+      "title": "Rossi scrisse a Profumo: 'dobbiamo neutralizzarlo', mail su ex leghista in inchiesta Banca Etruria",
+      "url": "/cronaca/rossi-scrisse-a-profumo-nel-2012-neutralizziamo-un-f9730552fcdea46a",
+      "id": "f9730552fcdea46a",
+      "image_url": "https://images.unsplash.com/photo-1601715878137-54357f492cbc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxEYXZpZCUyMFJvc3NpJTIwUHJvY3VyYSUyMFJvbWF8ZW58MHwwfHx8MTc3NTA4NDE3NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
     },
     {
-      "title": "17.000 persone in piazza a Washington: 'No Kings' contro l'interventismo",
+      "title": "17.000 a Washington contro l'autoritarismo",
       "url": "/cronaca/proteste-americane-contro-kings-il-slogan-che-nasc-6f2a2ce0fd2468ce",
       "id": "6f2a2ce0fd2468ce",
-      "image_url": "https://images.unsplash.com/photo-1767327926575-e70fda712917?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHx3YXNoaW5ndG9uJTIwcHJvdGVzdCUyMG5vJTIwa2luZ3N8ZW58MHwwfHx8MTc3NTA0ODAyOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_url": "https://images.unsplash.com/photo-1760891781260-a4b7f330a08b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxObyUyMEtpbmdzJTIwbWFuaWZlc3RhemlvbmUlMjBXYXNoaW5ndG9ufGVufDB8MHx8fDE3NzUwNzg3Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "image_type": "unsplash"
     }
   ],
