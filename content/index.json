@@ -1,5 +1,23 @@
 [
   {
+    "id": "a5ea886cc00e6723",
+    "slug": "notizia-in-primo-piano-a5ea886cc00e6723",
+    "title": "Rubio, annuncio a sorpresa: Washington 'riesamina'",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-01T03:32:06.943623+00:00",
+    "image_type": "none",
+    "image_url": "",
+    "occhiello": "DICHIARAZIONE USA TRONCATA - MANCANO DATI CHIAVE",
+    "lead_preview": "Marco Rubio, segretario di Stato degli Stati Uniti, ha annunciato il 1° aprile 2026 che Washington dovrà \"riesamin\" ma i",
+    "tags": [
+      "rubio washington",
+      "stato usa",
+      "annuncio rubio"
+    ]
+  },
+  {
     "id": "1fbd3d73c9a870e6",
     "slug": "lino-banfi-88-anni-ovatione-al-petruzzelli-dormivo-1fbd3d73c9a870e6",
     "title": "Lino Banfi, 88 anni, riceve 5 minuti di applausi al Petruzzelli di Bari",
@@ -31,20 +49,6 @@
       "noleggio elettriche milano",
       "flotta sharing facile.it"
     ]
-  },
-  {
-    "id": "a5ea886cc00e6723",
-    "slug": "notizia-in-primo-piano-a5ea886cc00e6723",
-    "title": "Rubio, un nuovo corso per gli USA: 'Riesaminare' la strategia internazionale",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-01T03:32:06.943623+00:00",
-    "image_type": "none",
-    "image_url": "",
-    "occhiello": "RUBIO ANNUNCIA RIESAME POLITICA ESTERA USA",
-    "lead_preview": "Marco Rubio, segretario di Stato degli Stati Uniti, ha dichiarato mercoledì 1 aprile 2026 che Washington dovrà \"riesamin",
-    "tags": []
   },
   {
     "id": "c2338f072ec9b4c8",
