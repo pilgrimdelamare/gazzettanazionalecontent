@@ -1,0 +1,56 @@
+{
+  "id": "fd7f8dc89b122904",
+  "slug": "wired-italia-seleziona-le-migliori-fotocamere-comp-fd7f8dc89b122904",
+  "title": "Wired Italia seleziona le migliori fotocamere compatte",
+  "titles": [
+    "Wired Italia seleziona le migliori fotocamere compatte",
+    "Kodak e Canon tra le top scelte sotto 200 e 400 euro",
+    "Sony ZV-1 II è la migliore per il vlogging secondo Wired"
+  ],
+  "title_winner": null,
+  "section": "tecnologia",
+  "occhiello": "FOTOCAMERE COMPATTE RIVOLUZIONANO IL MERCATO",
+  "lead": "Secondo Wired Italia, le fotocamere compatte continuano a conquistare i cuori di chi preferisce vivere un’esperienza fotografica più strutturata.",
+  "corpo1": "Le migliori fotocamere compatte sono state selezionate da Wired Italia. La qualità dell’immagine è ovviamente il fattore chiave nella scelta di una Fotocamera compatta. fate attenzione alla qualità dell’immagine, alla grandezza del sensore e all’apertura massima dell’obiettivo. la Kodak Pixpro FZ55 è la migliore sotto i 200 euro, mentre la Canon Ixus 285 HS A è la migliore sotto i 400 euro. la Sony ZV-1 II è la migliore per il vlogging. le fotocamere compatte sono versatili e soddisfano le esigenze di chiunque. Una varietà ben rappresentata nella gallery di Wired Italia, che propone 10 modelli differenti, ognuno con caratteristiche peculiari e uno specifico target.",
+  "corpo2": "Il mercato delle fotocamere compatte è piuttosto vivace e vario, e comprende non solo soluzioni da utilizzare in ambienti tranquilli e rilassanti, ma anche modelli ultracorazzati che non temono escursioni avventurose o immersioni subacquee. Le fotocamere compatte sono un’alternativa valida agli smartphone, offrendo una maggiore flessibilità e creatività nella fotografia. La scelta della Fotocamera compatta giusta può essere difficile, ma considerando fattori come la qualità dell’immagine, la grandezza del sensore e l’apertura massima dell’obiettivo, è possibile trovare il modello che meglio si adatta alle proprie esigenze. Inoltre, le fotocamere compatte sono spesso più economiche delle reflex e delle mirrorless, rendendole un’opzione accessibile per chi vuole improvingare le proprie abilità fotografiche. saranno i produttori di smartphone a pagare il prezzo di questa scelta, che dovranno adattarsi a un mercato in continua evoluzione.",
+  "journalist": {
+    "id": "andrea_foti_01",
+    "firma": "Andrea Foti",
+    "sezione": "tecnologia"
+  },
+  "published_at": "2026-04-01T15:21:47.423429+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://media-assets.wired.it/photos/69ca844f5f9e8a4739c75556/16:9/w_1280,c_limit/fotocamere%20compatte%20marzo%202026.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Wired Italia seleziona le migliori fotocamere compatte\",\n  \"description\": \"Secondo Wired Italia, le fotocamere compatte continuano a conquistare i cuori di chi preferisce vivere un’esperienza fotografica più strutturata.\",\n  \"articleBody\": \"Secondo Wired Italia, le fotocamere compatte continuano a conquistare i cuori di chi preferisce vivere un’esperienza fotografica più strutturata. Le migliori fotocamere compatte sono state selezionate da Wired Italia. La qualità dell’immagine è ovviamente il fattore chiave nella scelta di una Fotocamera compatta. fate attenzione alla qualità dell’immagine, alla grandezza del sensore e all’apertura massima dell’obiettivo. la Kodak Pixpro FZ55 è la migliore sotto i 200 euro, mentre la Canon Ixus 285 HS A è la migliore sotto i 400 euro. la Sony ZV-1 II è la migliore per il vlogging. le fotocamere compatte sono versatili e soddisfano le esigenze di chiunque. Una varietà ben rappresentata nella gallery di Wired Italia, che propone 10 modelli differenti, ognuno con caratteristiche peculiari e uno specifico target. Il mercato delle fotocamere compatte è piuttosto vivace e vario, e comprende non solo soluzioni da utilizzare in ambienti tranquilli e rilassanti, ma anche modelli ultracorazzati che non temono escursioni avventurose o immersioni subacquee. Le fotocamere compatte sono un’alternativa valida agli smartphone, offrendo una maggiore flessibilità e creatività nella fotografia. La scelta della Fotocamera compatta giusta può essere difficile, ma considerando fattori come la qualità dell’immagine, la grandezza del sensore e l’apertura massima dell’obiettivo, è possibile trovare il modello che meglio si adatta alle proprie esigenze. Inoltre, le fotocamere compatte sono spesso più economiche delle reflex e delle mirrorless, rendendole un’opzione accessibile per chi vuole improvingare le proprie abilità fotografiche. saranno i produttori di smartphone a pagare il prezzo di questa scelta, che dovranno adattarsi a un mercato in continua evoluzione.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Andrea Foti\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-01T15:21:47.423429+00:00\",\n  \"dateModified\": \"2026-04-01T15:21:47.423429+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/fd7f8dc89b122904\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/fd7f8dc89b122904\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://media-assets.wired.it/photos/69ca844f5f9e8a4739c75556/16:9/w_1280,c_limit/fotocamere%20compatte%20marzo%202026.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 5,
+  "source": "Wired Italia",
+  "source_type": "competitor",
+  "original_url": "https://www.wired.it/gallery/migliori-fotocamere-compatte/",
+  "related": [
+    {
+      "title": "Marco Ravetto su Wired: 15 monitor curvi 24-55” dominano il 2026",
+      "url": "/tecnologia/monitor-curvi-a-55-pollici-il-business-dellimmersi-7f683c42cc5a0bfc",
+      "id": "7f683c42cc5a0bfc",
+      "image_url": "https://images.unsplash.com/photo-1666771409964-4656b1099ccb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxjdXJ2ZWQlMjBtb25pdG9yJTIwNTUlMjBpbmNofGVufDB8MHx8fDE3NzUwMDU3MjB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Irgc minaccia attacchi a 7 aziende Usa in Medio Oriente",
+      "url": "/tecnologia/irgc-minaccia-attacchi-a-7-aziende-usa-in-medio-or-e21df219877e74cb",
+      "id": "e21df219877e74cb",
+      "image_url": "https://images.pexels.com/photos/36520340/pexels-photo-36520340.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
+    },
+    {
+      "title": "Meta denuncia: 200 utenti vittime di spionaggio tramite WhatsApp fake",
+      "url": "/tecnologia/meta-denuncia-200-utenti-vittime-di-spionaggio-tra-668a6e12260f0c77",
+      "id": "668a6e12260f0c77",
+      "image_url": "https://images.pexels.com/photos/5380651/pexels-photo-5380651.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
+    }
+  ]
+}
