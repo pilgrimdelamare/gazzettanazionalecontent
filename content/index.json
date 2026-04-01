@@ -1,5 +1,23 @@
 [
   {
+    "id": "be8bebb44d3b4705",
+    "slug": "primo-birrificio-usa-anidride-da-parcheggi-alameda-be8bebb44d3b4705",
+    "title": "Birrificio californiano sfida il sistema con birra zero-carbonio",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-03-31T07:52:45.421033+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1634467435669-831f777a6432?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxBbGFtZWRhJTIwQ08yJTIwY2FwdHVyZXxlbnwwfDB8fHwxNzc1MDA2MTExfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "PRIMO BIRRIFICIO USA ANIDRIDE CARBONICA DA PARCHEGGI",
+    "lead_preview": "Il birrificio artigianale Almanac Beer Compani di Alameda in California è diventato il primo al mondo a produrre birra c",
+    "tags": [
+      "birra zero-carbonio",
+      "birrificio californiano",
+      "anidride carbonica"
+    ]
+  },
+  {
     "id": "da2acbfa37255e97",
     "slug": "gdf-perquisisce-palazzo-marino-e-sede-m-i-stadio-v-da2acbfa37255e97",
     "title": "Gdf nel palazzo del comune e nell'hub di San Siro: sequestrati i conti dello sta",
@@ -2202,24 +2220,6 @@
     "occhiello": "1,3 MILIARDI DI SOLDI PUBBLICI A SOCIETÀ DI SINGAPORE",
     "lead_preview": "Silicon Box, azienda con sede a Singapore, riceverà 1,3 miliardi di aiuti di Stato dall'Italia per costruire a Novara un",
     "tags": []
-  },
-  {
-    "id": "be8bebb44d3b4705",
-    "slug": "primo-birrificio-usa-anidride-da-parcheggi-alameda-be8bebb44d3b4705",
-    "title": "Primo birrificio Usa anidride da parcheggi Alameda",
-    "section": "cronaca",
-    "priority": 6,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-03-31T07:52:45.421033+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/03/31/094816308-6aa62fc5-5efe-4e37-8731-ef746142b21c.jpg",
-    "occhiello": "IL PRIMO BIRRIFICIO AL MONDO A PRODURRE BIRRA CON CO₂ CATTURATA DALL'ARIA",
-    "lead_preview": "Il birrificio artigianale Almanac Beer Compani, di Alameda in California, è il primo al mondo a produrre la “bionda” con",
-    "tags": [
-      "birrificio alameda",
-      "co2 catturata aria",
-      "almanac beer"
-    ]
   },
   {
     "id": "9a0e7707f3aef1dc",
