@@ -144,8 +144,8 @@
     "priority": 5,
     "journalist_firma": "Anna Colombo",
     "published_at": "2026-04-01T01:59:37.586613+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/28492035/pexels-photo-28492035.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "image_type": "image",
+    "image_url": "https://pbs.twimg.com/media/HEnMd9ZXMAAft3v.jpg",
     "occhiello": "CUBA IMPORTA GREGGIO RUSSO",
     "lead_preview": "La petroliera Kolodkin è attraccata nel porto di Matanzas, a Cuba, dove è iniziato lo scarico del greggio russo, secondo",
     "tags": [
