@@ -1,5 +1,22 @@
 [
   {
+    "id": "c7646b55fd3c7d7e",
+    "slug": "tormenta-di-tartarughe-e-delfini-il-disastro-di-na-c7646b55fd3c7d7e",
+    "title": "378 delfini morti e 1.200 tartarughe spiaggiate in Australia",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-01T05:18:52.319027+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1767167752245-61fedf4c1ddf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxzZWElMjB0dXJ0bGUlMjBzdHJhbmRpbmclMjBzdG9ybXxlbnwwfDB8fHwxNzc1MDI4MjU1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "MORTI DI TARTARUGHE E DELFINI SULLA SPIAGGIA",
+    "lead_preview": "Narelle ha lasciato 378 delfini morti e oltre 1.200 tartarughe spiaggiate su Graveyards Beach, nell’Australia Occidental",
+    "tags": [
+      "morti delfini australia",
+      "tartarughe spiaggiate"
+    ]
+  },
+  {
     "id": "e418adc13e34788f",
     "slug": "john-davidson-il-cui-percorso-personale-ispira-il-e418adc13e34788f",
     "title": "John Davidson, il cui percorso personale ispira il film “Plus fort que moi (I Swear)”, ha contribuit",
@@ -589,23 +606,6 @@
     "tags": [
       "relazioni iran emirati",
       "attacco a riyadh"
-    ]
-  },
-  {
-    "id": "c7646b55fd3c7d7e",
-    "slug": "tormenta-di-tartarughe-e-delfini-il-disastro-di-na-c7646b55fd3c7d7e",
-    "title": "Tormenta di tartarughe e delfini: il disastro di narelle",
-    "section": "esteri",
-    "priority": 4,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-01T05:18:52.319027+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1727074546155-76e00fcef883?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxXZXN0ZXJuJTIwQXVzdHJhbGlhJTIwZ3JhdmV5YXJkJTIwb2YlMjB0dXJ0bGVzJTIwZG9scGhpbnMlMjBhbmQlMjBzZWFiaXJkc3xlbnwwfDB8fHwxNzc1MDIwNzMyfDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "TORMENTA DI TARTARUGHE E DELFINI: IL DISASTRO DI NARELLE",
-    "lead_preview": "La tempesta tropicale Narelle ha lasciato un'impressionante quantità di morte sulla spiaggia di Graveyards Beach, vicino",
-    "tags": [
-      "tempesta narelle",
-      "disastro graveyards beach"
     ]
   },
   {
