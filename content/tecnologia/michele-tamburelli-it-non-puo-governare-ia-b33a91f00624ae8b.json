@@ -1,0 +1,57 @@
+{
+  "id": "b33a91f00624ae8b",
+  "slug": "michele-tamburelli-it-non-puo-governare-ia-b33a91f00624ae8b",
+  "title": "Michele Tamburelli: IT non può governare IA",
+  "titles": [
+    "Michele Tamburelli: IT non può governare IA",
+    "IA aziendale senza controllo democratico",
+    "Tamburelli avverte: IA non è solo tecnica"
+  ],
+  "title_winner": null,
+  "section": "tecnologia",
+  "occhiello": "CHI DECIDE SULL’AI IN AZIENDA? NON È UNA QUESTIONE TECNICA",
+  "lead": "Milano, 1 aprile 2026: Michele Tamburelli, giurista del Lavoro e coordinatore del progetto Area Pro Labour, pubblica un’analisi sul Fatto Quotidiano in cui avverte: affidare la governance dell'intelligenza artificiale solo al dipartimento IT è un errore strategico che minaccia il controllo democratico sui processi decisionali aziendali. La questione non è quale modello utilizzare, ma chi ne ha il controllo.",
+  "corpo1": "Tamburelli nota che in molte aziende italiane ed europee l'intelligenza artificiale è trattata come una scelta tecnica, spesso assegnata ai responsabili IT. Si selezionano i provider, si firmano contratti, si stabiliscono le sedi dei server e si discute l'uso dei dati aziendali per l'addestramento dei modelli. Tamburelli riconosce che sono questioni importanti, ma non decisive. Il punto cruciale è: chi decide come e dove viene applicata l'IA dentro l'organizzazione? Chi stabilisce se l'IA può essere usata per monitorare i dipendenti, ottimizzare i turni, valutare le performance o selezionare i candidati? Tamburelli sostiene che l'IT da solo non può assumere questa responsabilità, poiché non è preparato a valutare gli effetti sul lavoro, sui diritti e sul clima organizzativo. È necessario un sistema di governance trasversale con la partecipazione di esperti legali, etici, sindacali e di gestione del personale. Tamburelli avverte che il rischio è che l'automazione delle decisioni diventi un trasferimento silenzioso del potere dai lavoratori e dai manager ai sistemi algoritmici controllati da piccoli gruppi tecnici o fornitori esterni.",
+  "corpo2": "Tamburelli non è solo un analista tecnologico, ma un giurista che da anni studia l'impatto dell'automazione sul mondo del lavoro, con collaborazioni in ambito sindacale e accademico. Il suo appello va letto alla luce di quanto già accaduto in aziende come Amazon o Deliveroo, dove algoritmi di valutazione hanno portato a licenziamenti collettivi o penalizzato lavoratori per micro-infrazioni non contestabili. Quei sistemi non erano 'mal funzionanti', ma funzionavano esattamente come progettati. Il problema era che nessuno, all’interno dell’azienda, aveva chiesto se dovessero funzionare così. L'intelligenza artificiale non è una utility come l'elettricità, ma un meccanismo di presa di decisione che altera i rapporti di potere. Delegarla all'IT significa trattare la ridefinizione dei processi lavorativi come una questione di infrastrutture, non di organizzazione. E significa soprattutto ignorare che ogni modello di IA incorpora delle scelte: su chi è considerato produttivo, efficiente o meritevole di promozione. Scelte che non sono neutre, ma rispondono a logiche di riduzione dei costi e massimizzazione della produttività, spesso in contrasto con la dignità del lavoro. L'UE ha già previsto nel suo framework sull'IA la necessità di comitati etici e audit algoritmici. Ma in Italia, dove il Piano Nazionale per l'IA è fermo al 2022 e nessuna direttiva ministeriale obbliga le imprese a una governance condivisa, c'è un vuoto normativo totale. A pagare saranno i dipendenti, che subiranno decisioni prese da software senza che nessuno se ne assuma la responsabilità.",
+  "journalist": {
+    "id": "andrea_foti_01",
+    "firma": "Andrea Foti",
+    "sezione": "tecnologia"
+  },
+  "published_at": "2026-04-01T05:17:37.128054+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/3650908/pexels-photo-3650908.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Castorly Stock",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Michele Tamburelli: IT non può governare IA\",\n  \"description\": \"Milano, 1 aprile 2026: Michele Tamburelli, giurista del Lavoro e coordinatore del progetto Area Pro Labour, pubblica un’analisi sul Fatto Quotidiano in cui avverte: affidare la governance dell'intelligenza artificiale solo al dipartimento IT è un errore strategico che minaccia il controllo democrati\",\n  \"articleBody\": \"Milano, 1 aprile 2026: Michele Tamburelli, giurista del Lavoro e coordinatore del progetto Area Pro Labour, pubblica un’analisi sul Fatto Quotidiano in cui avverte: affidare la governance dell'intelligenza artificiale solo al dipartimento IT è un errore strategico che minaccia il controllo democratico sui processi decisionali aziendali. La questione non è quale modello utilizzare, ma chi ne ha il controllo. Tamburelli nota che in molte aziende italiane ed europee l'intelligenza artificiale è trattata come una scelta tecnica, spesso assegnata ai responsabili IT. Si selezionano i provider, si firmano contratti, si stabiliscono le sedi dei server e si discute l'uso dei dati aziendali per l'addestramento dei modelli. Tamburelli riconosce che sono questioni importanti, ma non decisive. Il punto cruciale è: chi decide come e dove viene applicata l'IA dentro l'organizzazione? Chi stabilisce se l'IA può essere usata per monitorare i dipendenti, ottimizzare i turni, valutare le performance o selezionare i candidati? Tamburelli sostiene che l'IT da solo non può assumere questa responsabilità, poiché non è preparato a valutare gli effetti sul lavoro, sui diritti e sul clima organizzativo. È necessario un sistema di governance trasversale con la partecipazione di esperti legali, etici, sindacali e di gestione del personale. Tamburelli avverte che il rischio è che l'automazione delle decisioni diventi un trasferimento silenzioso del potere dai lavoratori e dai manager ai sistemi algoritmici controllati da piccoli gruppi tecnici o fornitori esterni. Tamburelli non è solo un analista tecnologico, ma un giurista che da anni studia l'impatto dell'automazione sul mondo del lavoro, con collaborazioni in ambito sindacale e accademico. Il suo appello va letto alla luce di quanto già accaduto in aziende come Amazon o Deliveroo, dove algoritmi di valutazione hanno portato a licenziamenti collettivi o penalizzato lavoratori per micro-infrazioni non contestabili. Quei sistemi non erano 'mal funzionanti', ma funzionavano esattamente come progettati. Il problema era che nessuno, all’interno dell’azienda, aveva chiesto se dovessero funzionare così. L'intelligenza artificiale non è una utility come l'elettricità, ma un meccanismo di presa di decisione che altera i rapporti di potere. Delegarla all'IT significa trattare la ridefinizione dei processi lavorativi come una questione di infrastrutture, non di organizzazione. E significa soprattutto ignorare che ogni modello di IA incorpora delle scelte: su chi è considerato produttivo, efficiente o meritevole di promozione. Scelte che non sono neutre, ma rispondono a logiche di riduzione dei costi e massimizzazione della produttività, spesso in contrasto con la dignità del lavoro. L'UE ha già previsto nel suo framework sull'IA la necessità di comitati etici e audit algoritmici. Ma in Italia, dove il Piano Nazionale per l'IA è fermo al 2022 e nessuna direttiva ministeriale obbliga le imprese a una governance condivisa, c'è un vuoto normativo totale. A pagare saranno i dipendenti, che subiranno decisioni prese da software senza che nessuno se ne assuma la responsabilità.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Andrea Foti\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-01T05:17:37.128054+00:00\",\n  \"dateModified\": \"2026-04-01T05:17:37.128054+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/b33a91f00624ae8b\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/b33a91f00624ae8b\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/3650908/pexels-photo-3650908.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Castorly Stock\"\n  }\n}",
+  "priority": 6,
+  "source": "Il Fatto Quotidiano",
+  "source_type": "competitor",
+  "original_url": "https://www.ilfattoquotidiano.it/2026/04/01/intelligenza-artificiale-governance-imprese-organizzazione-oggi/8326271/",
+  "related": [
+    {
+      "title": "Napoli, attacco ransomware all'ospedale: 80mila pazienti a rischio",
+      "url": "/tecnologia/napoli-attacco-ransomware-allospedale-80mila-pazie-9980155696cf6917",
+      "id": "9980155696cf6917",
+      "image_url": "https://images.unsplash.com/photo-1614064642261-3ccbfafa481b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxvc3BlZGFsZSUyME5hcG9saSUyMHJhbnNvbXdhcmV8ZW58MHwwfHx8MTc3NTAxODgzNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "L'app IO introduce il Portafoglio digitale IT-Wallet: documenti ufficiali in un clic",
+      "url": "/tecnologia/lapp-io-introduce-il-portafoglio-digitale-it-walle-4a6ff0ea34b6753a",
+      "id": "4a6ff0ea34b6753a",
+      "image_url": "https://images.unsplash.com/photo-1726607424598-139ff3391ce8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxkaWdpdGFsJTIwZG9jdW1lbnRzJTIwd2FsbGV0JTIwc21hcnRwaG9uZXxlbnwwfDB8fHwxNzc1MDE3OTk3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Stefano Fonzi lancia BluGo, app gratis per aiutare chi ha autismo a muoversi in ",
+      "url": "/tecnologia/stefano-fonzi-lancia-blugo-35f4d6172e331cc6",
+      "id": "35f4d6172e331cc6",
+      "image_url": "https://images.unsplash.com/photo-1771509620270-5b9886f3f1b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxhdXRpc3RpY2klMjBzcG9zdGFtZW50byUyMHNpY3Vyb3xlbnwwfDB8fHwxNzc1MDA2MjYwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    }
+  ]
+}
