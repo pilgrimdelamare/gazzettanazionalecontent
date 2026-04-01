@@ -1,5 +1,23 @@
 [
   {
+    "id": "54630d1ae9dde2be",
+    "slug": "trump-minaccia-uscita-nato-54630d1ae9dde2be",
+    "title": "Trump minaccia uscita Usa dalla Nato dopo mancato appoggio all'Iran",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-01T14:49:33.944642+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1743177184806-a625e1e0a312?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxOYXRvJTIwbWlsaXRhcnklMjBmb3JjZXN8ZW58MHwwfHx8MTc3NTA3NDU0MXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "",
+    "lead_preview": "Donald Trump ha minacciato di ritirare gli Stati Uniti dalla Nato il 1° aprile 2026, dopo che gli alleati non hanno part",
+    "tags": [
+      "uscita usa nato",
+      "trump iran 2026",
+      "minaccia militare iran"
+    ]
+  },
+  {
     "id": "8b66cf74d3407088",
     "slug": "fiat-1-aprile-2026-sorpassa-tutti-la-panda-e-lauto-8b66cf74d3407088",
     "title": "Fiat, la panda sale al comando delle vendite in italia.",
@@ -704,24 +722,6 @@
     "tags": [
       "minacce arnault",
       "caso deranq"
-    ]
-  },
-  {
-    "id": "54630d1ae9dde2be",
-    "slug": "trump-minaccia-uscita-nato-54630d1ae9dde2be",
-    "title": "Trump minaccia uscita Nato",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-01T14:49:33.944642+00:00",
-    "image_type": "image",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Donald_Trump_at_CPAC_2014_%284%29.jpg",
-    "occhiello": "TRUMP MINACCIA L'ADDIO ALLA NATO",
-    "lead_preview": "Trump ha minacciato di lasciare la Nato dopo che gli alleati non hanno partecipato alla guerra in Iran, come riportato d",
-    "tags": [
-      "trump",
-      "uscita nato",
-      "guerra iran"
     ]
   },
   {
