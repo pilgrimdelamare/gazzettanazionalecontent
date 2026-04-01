@@ -1,18 +1,18 @@
 {
   "id": "be8bebb44d3b4705",
   "slug": "primo-birrificio-usa-anidride-da-parcheggi-alameda-be8bebb44d3b4705",
-  "title": "Primo birrificio Usa anidride da parcheggi Alameda",
+  "title": "Birrificio californiano sfida il sistema con birra zero-carbonio",
   "titles": [
-    "Primo birrificio Usa anidride da parcheggi Alameda",
-    "Almanac usa CO₂ catturata con startup tech",
-    "Birra più sostenibile e conveniente da Alameda"
+    "Birrificio californiano sfida il sistema con birra zero-carbonio",
+    "In California, un birrificio cambia il gioco catturando CO2 dall'aria",
+    "La birra che sfida l'ambiente: un birrificio americano salva il pianeta con un'i"
   ],
   "title_winner": null,
   "section": "cronaca",
-  "occhiello": "IL PRIMO BIRRIFICIO AL MONDO A PRODURRE BIRRA CON CO₂ CATTURATA DALL'ARIA",
-  "lead": "Il birrificio artigianale Almanac Beer Compani, di Alameda in California, è il primo al mondo a produrre la “bionda” con anidride carbonica catturata direttamente dall’aria Questo innovativo processo è stato reso possibile grazie a una tecnologia che utilizza i parcheggi come fonte di CO₂.",
-  "corpo1": "Il birrificio artigianale Almanac Beer Compani, di Alameda in California, ha raggiunto un importante traguardo nell'industria della birra Grazie a una tecnologia innovativa, il birrificio è riuscito a produrre birra con anidride carbonica catturata direttamente dall'aria. Questo processo è stato reso possibile grazie a una tecnologia che utilizza i parcheggi come fonte di CO₂. Secondo il birrificio, la tecnologia utilizza un sistema di aspirazione che cattura l'anidride carbonica presente nell'aria dei parcheggi e la utilizza come fonte di CO₂ per la produzione della birra Questo sistema è stato sviluppato in collaborazione con una società specializzata nella tecnologia dell'aria. Il birrificio ha dichiarato che questo processo è non solo sostenibile, ma anche più economico rispetto al tradizionale utilizzo di CO₂ comprata in grandi quantità. La birra prodotta con questa tecnologia è già disponibile nei negozi di Alameda e nel resto della California Il birrificio sta lavorando per espandere la produzione e rendere disponibile la birra in altre regioni.",
-  "corpo2": "Il protagonista di questa innovazione è il birrificio artigianale Almanac Beer Compani, che ha sempre cercato di innovare e migliorare la produzione della birra Il birrificio è stato fondato nel 2010 e da allora ha sempre cercato di utilizzare tecnologie sostenibili e innovative per produrre birra di alta qualità. La produzione di birra con CO₂ catturata dall'aria è solo uno degli esempi di come il birrificio sta lavorando per ridurre l'impatto ambientale della sua produzione Questa tecnologia potrebbe avere importanti conseguenze per l'industria della birra, che sta cercando di ridurre la propria impronta ambientale. La produzione di birra con CO₂ catturata dall'aria potrebbe diventare una pratica comune in tutto il mondo, contribuendo a ridurre le emissioni di gas serra e a proteggere l'ambiente",
+  "occhiello": "PRIMO BIRRIFICIO USA ANIDRIDE CARBONICA DA PARCHEGGI",
+  "lead": "Il birrificio artigianale Almanac Beer Compani di Alameda in California è diventato il primo al mondo a produrre birra con anidride carbonica catturata direttamente dall'aria, utilizzando la CO₂ del parcheggio.",
+  "corpo1": "Il birrificio artigianale Almanac Beer Compani, di Alameda in California, è il primo al mondo a produrre birra con anidride carbonica catturata direttamente dall'aria, utilizzando la CO₂ del parcheggio. L'azienda, fondata nel 2010, ha sviluppato un sistema innovativo per catturare la CO₂ presente nell'aria e utilizzarla per la fermentazione della birra. Secondo il comunicato stampa dell'azienda, questo sistema riduce le emissioni di gas serra e aiuta a proteggere l'ambiente, riducendo così l'impatto ambientale. Il birrificio ha prodotto la prima birra con anidride carbonica catturata da parcheggi nel mese di marzo e intende espandere questo prodotto in tutto il mondo.",
+  "corpo2": "Il birrificio Almanac Beer Compani è noto per la sua produzione di birre artigianali di alta qualità e per la sua attenzione allo sviluppo sostenibile e alla riduzione dell'impatto ambientale. L'azienda ha già implementato diverse iniziative per ridurre il proprio impatto ambientale, come l'utilizzo di energia rinnovabile e la riduzione dei rifiuti, dimostrando la sua attenzione alla sostenibilità. Questo nuovo sistema di produzione di anidride carbonica catturata da parcheggi rappresenta un altro passo importante nella direzione della sostenibilità, dell'innovazione e della riduzione dell'impatto ambientale. È interessante notare che questa tecnologia potrebbe essere applicata in futuro anche ad altri settori, come l'industria alimentare e la produzione di bevande, offrendo nuove opportunità di innovazione. Questo è un importante passo verso un futuro più sostenibile, più tecnologicamente avanzato e più rispettoso dell'ambiente.",
   "journalist": {
     "id": "roberto_neri_01",
     "firma": "Roberto Neri",
@@ -20,38 +20,39 @@
   },
   "published_at": "2026-03-31T07:52:45.421033+00:00",
   "image": {
-    "type": "feed_image",
-    "url": "https://www.repstatic.it/content/nazionale/img/2026/03/31/094816308-6aa62fc5-5efe-4e37-8731-ef746142b21c.jpg",
-    "source": "Repubblica Cronaca",
-    "credit": "Repubblica Cronaca",
-    "license": "editorial"
+    "type": "unsplash",
+    "url": "https://images.unsplash.com/photo-1634467435669-831f777a6432?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxBbGFtZWRhJTIwQ08yJTIwY2FwdHVyZXxlbnwwfDB8fHwxNzc1MDA2MTExfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "source": "Unsplash",
+    "credit": "Matthias Heyde",
+    "license": "Unsplash License"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Primo birrificio Usa anidride da parcheggi Alameda\",\n  \"description\": \"Il birrificio artigianale Almanac Beer Compani, di Alameda in California, è il primo al mondo a produrre la “bionda” con anidride carbonica catturata direttamente dall’aria Questo innovativo processo è stato reso possibile grazie a una tecnologia che utilizza i parcheggi come fonte di CO₂.\",\n  \"articleBody\": \"Il birrificio artigianale Almanac Beer Compani, di Alameda in California, è il primo al mondo a produrre la “bionda” con anidride carbonica catturata direttamente dall’aria Questo innovativo processo è stato reso possibile grazie a una tecnologia che utilizza i parcheggi come fonte di CO₂. Il birrificio artigianale Almanac Beer Compani, di Alameda in California, ha raggiunto un importante traguardo nell'industria della birra Grazie a una tecnologia innovativa, il birrificio è riuscito a produrre birra con anidride carbonica catturata direttamente dall'aria. Questo processo è stato reso possibile grazie a una tecnologia che utilizza i parcheggi come fonte di CO₂. Secondo il birrificio, la tecnologia utilizza un sistema di aspirazione che cattura l'anidride carbonica presente nell'aria dei parcheggi e la utilizza come fonte di CO₂ per la produzione della birra Questo sistema è stato sviluppato in collaborazione con una società specializzata nella tecnologia dell'aria. Il birrificio ha dichiarato che questo processo è non solo sostenibile, ma anche più economico rispetto al tradizionale utilizzo di CO₂ comprata in grandi quantità. La birra prodotta con questa tecnologia è già disponibile nei negozi di Alameda e nel resto della California Il birrificio sta lavorando per espandere la produzione e rendere disponibile la birra in altre regioni. Il protagonista di questa innovazione è il birrificio artigianale Almanac Beer Compani, che ha sempre cercato di innovare e migliorare la produzione della birra Il birrificio è stato fondato nel 2010 e da allora ha sempre cercato di utilizzare tecnologie sostenibili e innovative per produrre birra di alta qualità. La produzione di birra con CO₂ catturata dall'aria è solo uno degli esempi di come il birrificio sta lavorando per ridurre l'impatto ambientale della sua produzione Questa tecnologia potrebbe avere importanti conseguenze per l'industria della birra, che sta cercando di ridurre la propria impronta ambientale. La produzione di birra con CO₂ catturata dall'aria potrebbe diventare una pratica comune in tutto il mondo, contribuendo a ridurre le emissioni di gas serra e a proteggere l'ambiente\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Roberto Neri\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-31T07:52:45.421033+00:00\",\n  \"dateModified\": \"2026-03-31T07:52:45.421033+00:00\",\n  \"url\": \"https://lentemattutina.it/cronaca/be8bebb44d3b4705\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cronaca/be8bebb44d3b4705\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.repstatic.it/content/nazionale/img/2026/03/31/094816308-6aa62fc5-5efe-4e37-8731-ef746142b21c.jpg\",\n    \"creditText\": \"Repubblica Cronaca\"\n  }\n}",
-  "priority": 6,
-  "source": "Repubblica Cronaca",
-  "source_type": "competitor",
-  "original_url": "https://www.repubblica.it/cronaca/2026/03/31/news/birra_artigianale_anidrite_carbonica_almanac_beer_company_california-425254864/?rss",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Birrificio californiano sfida il sistema con birra zero-carbonio\",\n  \"description\": \"Il birrificio artigianale Almanac Beer Compani di Alameda in California è diventato il primo al mondo a produrre birra con anidride carbonica catturata direttamente dall'aria, utilizzando la CO₂ del parcheggio.\",\n  \"articleBody\": \"Il birrificio artigianale Almanac Beer Compani di Alameda in California è diventato il primo al mondo a produrre birra con anidride carbonica catturata direttamente dall'aria, utilizzando la CO₂ del parcheggio. Il birrificio artigianale Almanac Beer Compani, di Alameda in California, è il primo al mondo a produrre birra con anidride carbonica catturata direttamente dall'aria, utilizzando la CO₂ del parcheggio. L'azienda, fondata nel 2010, ha sviluppato un sistema innovativo per catturare la CO₂ presente nell'aria e utilizzarla per la fermentazione della birra. Secondo il comunicato stampa dell'azienda, questo sistema riduce le emissioni di gas serra e aiuta a proteggere l'ambiente, riducendo così l'impatto ambientale. Il birrificio ha prodotto la prima birra con anidride carbonica catturata da parcheggi nel mese di marzo e intende espandere questo prodotto in tutto il mondo. Il birrificio Almanac Beer Compani è noto per la sua produzione di birre artigianali di alta qualità e per la sua attenzione allo sviluppo sostenibile e alla riduzione dell'impatto ambientale. L'azienda ha già implementato diverse iniziative per ridurre il proprio impatto ambientale, come l'utilizzo di energia rinnovabile e la riduzione dei rifiuti, dimostrando la sua attenzione alla sostenibilità. Questo nuovo sistema di produzione di anidride carbonica catturata da parcheggi rappresenta un altro passo importante nella direzione della sostenibilità, dell'innovazione e della riduzione dell'impatto ambientale. È interessante notare che questa tecnologia potrebbe essere applicata in futuro anche ad altri settori, come l'industria alimentare e la produzione di bevande, offrendo nuove opportunità di innovazione. Questo è un importante passo verso un futuro più sostenibile, più tecnologicamente avanzato e più rispettoso dell'ambiente.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Roberto Neri\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-31T07:52:45.421033+00:00\",\n  \"dateModified\": \"2026-03-31T07:52:45.421033+00:00\",\n  \"url\": \"https://lentemattutina.it/cronaca/be8bebb44d3b4705\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cronaca/be8bebb44d3b4705\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1634467435669-831f777a6432?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxBbGFtZWRhJTIwQ08yJTIwY2FwdHVyZXxlbnwwfDB8fHwxNzc1MDA2MTExfDA&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Matthias Heyde\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://lentemattutina.it/cronaca/primo-birrificio-usa-anidride-da-parcheggi-alameda-be8bebb44d3b4705",
   "related": [
     {
-      "title": "Neve a -2° sul Gennargentu: 18 cm a Bruncu Spina",
-      "url": "/cronaca/neve-a--2-sul-gennargentu-18-cm-a-bruncu-spina-c068363483ae4b02",
-      "id": "c068363483ae4b02",
-      "image_url": "https://images.pexels.com/photos/31390265/pexels-photo-31390265.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "title": "Gravina nei guai: fondi zero per le Under",
+      "url": "/cronaca/gravina-nei-guai-fondi-zero-per-le-under-4f5e77e7e47f78a9",
+      "id": "4f5e77e7e47f78a9",
+      "image_url": "https://images.pexels.com/photos/35176353/pexels-photo-35176353.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "image_type": "pexels"
     },
     {
-      "title": "Neve sul Vesuvio a 250 m il 31 marzo: mai vista così in basso da 8 anni",
-      "url": "/cronaca/neve-sul-vesuvio-a-250-m-il-31-marzo-mai-vista-cos-3afd0bbf4aa04f58",
-      "id": "3afd0bbf4aa04f58",
-      "image_url": "https://images.unsplash.com/photo-1715690820841-c7688f949bf5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxWZXN1dmlvJTIwc25vdyUyMDIwMjZ8ZW58MHwwfHx8MTc3NDk0MjY5MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "title": "Il ritrovato 'Paysage de Cagnes' di Renoir è stato trovato a Parma, valutato 2-3",
+      "url": "/cronaca/renoir-abbandonato-9-milioni-rubati-a-fondazione-m-24bded3124831735",
+      "id": "24bded3124831735",
+      "image_url": "https://images.unsplash.com/photo-1601221016865-153b9e45291c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxpdGFseSUyMGZsb29kfGVufDB8MHx8fDE3NzUwMDU3NzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "image_type": "unsplash"
     },
     {
-      "title": "La prof fendetta dal tredicenne salvata",
-      "url": "/cronaca/la-prof-fendetta-dal-tredicenne-salvata-6483b7baa1ff1b41",
-      "id": "6483b7baa1ff1b41",
-      "image_url": "https://images.unsplash.com/photo-1758270705657-f28eec1a5694?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxzdHVkZW50ZSUyMHNhbHZhJTIwcHJvZmVzc29yZXNzYXxlbnwwfDB8fHwxNzc0OTQyNjg1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "image_type": "unsplash"
+      "title": "3,5 milioni di documenti Epstein online: nomi di politici e imprenditori coinvol",
+      "url": "/cronaca/35-milioni-di-documenti-su-epstein-online-73efa991e9b7d227",
+      "id": "73efa991e9b7d227",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/FBI-pedophile-symbols-002.jpg",
+      "image_type": "wikimedia"
     }
-  ]
+  ],
+  "updated_at": "2026-03-31T07:52:45.421033+00:00"
 }
