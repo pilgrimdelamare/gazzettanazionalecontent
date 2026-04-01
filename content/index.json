@@ -1,5 +1,21 @@
 [
   {
+    "id": "8915fc75b765d1c0",
+    "slug": "debutto-italiano-per-cina-a-marrakech-8915fc75b765d1c0",
+    "title": "Tennis: Berrettini torna in campo a Marrakech contro Coria il 31 marzo",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-03-31T07:37:53.312130+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/31273768/pexels-photo-31273768.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "BERRETTINI TORNA IN CAMPO A MARRAKECH",
+    "lead_preview": "Matteo Berrettini torna in campo il 31 marzo 2026 a Marrakech, dopo l'uscita al masters 1000 di Miami, mentre Federico C",
+    "tags": [
+      "berrettini marrakech"
+    ]
+  },
+  {
     "id": "56e3b72300966d52",
     "slug": "wembanyama-41-punti-e-doppio-doppio-in-831-record-56e3b72300966d52",
     "title": "Wembanyama segna 41 punti in 8min31sec: il record NBA è caduto a San Antonio",
@@ -2426,23 +2442,6 @@
       "aggressione prof trescore",
       "salvatore tredicenne",
       "chiara mocchi"
-    ]
-  },
-  {
-    "id": "8915fc75b765d1c0",
-    "slug": "debutto-italiano-per-cina-a-marrakech-8915fc75b765d1c0",
-    "title": "Debutto italiano per cinà a marrakech",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-03-31T07:37:53.312130+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/7b142c843ba7eb2a211841d3e4782588479323d0/skysport/it/tennis/2026/03/21/berrettini-cobolli-arnaldi-darderi-atp-miami-2026-risultati/berrettini_ansa_2.jpg",
-    "occhiello": "DEBUTTO ITALIANO PER CINÀ A MARRAKECH",
-    "lead_preview": "Matteo Berrettini torna in campo il 31 marzo 2026 a Marrakech, dopo l’uscita al masters 1000 di miami, mentre Federico C",
-    "tags": [
-      "berrettini marrakech",
-      "esordio cinà atp"
     ]
   },
   {
