@@ -1,5 +1,23 @@
 [
   {
+    "id": "b55d58b5d2cd2933",
+    "slug": "notizia-in-primo-piano-b55d58b5d2cd2933",
+    "title": "Basket: Gilgeous-Alexander batte il tiro della vittoria per Oklahoma City",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-03-31T06:37:22.198817+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1616353352910-15d970ac020b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxiYXNrZXRiYWxsJTIwZ2FtZXxlbnwwfDB8fHwxNzc1MDAyNjE5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "GILGEOUS-ALEXANDER TRASCINA OKC",
+    "lead_preview": "Shai Gilgeous-Alexander ha guidato gli Oklahoma City Thunder alla vittoria 111-109 contro i Detroit Pistons il 31 marzo ",
+    "tags": [
+      "nba okc",
+      "gilgeous-alexander",
+      "oklahoma city thunder"
+    ]
+  },
+  {
     "id": "e5f00475746e0a6a",
     "slug": "streep-e-hathaway-rifiutano-modelle-scheletriche-p-e5f00475746e0a6a",
     "title": "Hathaway-Streep vietano modelle scheletriche: il 31/3 imposto il corpo normale n",
@@ -1490,22 +1508,6 @@
     "tags": [
       "mundys getlink",
       "scalata mundys"
-    ]
-  },
-  {
-    "id": "b55d58b5d2cd2933",
-    "slug": "notizia-in-primo-piano-b55d58b5d2cd2933",
-    "title": "Basket: Gilgeous-Alexander trascina OKC, vince 111-109 contro i Pistons",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-03-31T06:37:22.198817+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/36811918/pexels-photo-36811918.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "GILGEOUS-ALEXANDER FA 38, THUNDER ESPUGNANO DETROIT DOPO OT",
-    "lead_preview": "Shai Gilgeous-Alexander ha trascinato gli Oklahoma City Thunder alla vittoria 111-109 contro i Detroit Pistons dopo un o",
-    "tags": [
-      "nba okc pistons"
     ]
   },
   {
