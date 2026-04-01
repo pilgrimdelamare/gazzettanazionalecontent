@@ -1,5 +1,22 @@
 [
   {
+    "id": "d7f0f55f7f91575c",
+    "slug": "terrorismi-a-teheran-funerali-e-messaggi-di-vendet-d7f0f55f7f91575c",
+    "title": "23 morti negli attentati in Iran, Pezeshkian promette risposta",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-01T16:49:12.064794+00:00",
+    "image_type": "wikimedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Ushguli1.JPG",
+    "occhiello": "FUNERALI DI STATO E VENDETTE ANNUNCIATE",
+    "lead_preview": "Teheran, 1 aprile 2026. I funerali di Stato per le vittime degli attentati del 29 marzo, che hanno colpito un comando de",
+    "tags": [
+      "attentati iran",
+      "crisi iran"
+    ]
+  },
+  {
     "id": "01310bb0b5dc0233",
     "slug": "fondi-scomparsi-dopo-il-voto-la-fusione-dei-due-ce-01310bb0b5dc0233",
     "title": "Fondi senza voce nel voto per la fusione dei due centri di ricerca",
@@ -322,20 +339,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/1/b805d3c88cf79445750834f1bc6cb737.jpg",
     "occhiello": "",
     "lead_preview": "Fiat, 1 aprile 2026, sorpassa tutti: la Panda è l'auto più venduta in Italia. Al secondo posto la Jeep Avenger, terza la",
-    "tags": []
-  },
-  {
-    "id": "d7f0f55f7f91575c",
-    "slug": "terrorismi-a-teheran-funerali-e-messaggi-di-vendet-d7f0f55f7f91575c",
-    "title": "Terrorismi a teheran: funerali e messaggi di 'vendetta'.",
-    "section": "esteri",
-    "priority": 7,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-01T16:49:12.064794+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/1/358c150c2a22c8a8fb5832cd8730341e.jpg",
-    "occhiello": "TERRORISMI A TEHERAN: FUNERALI E MESSAGGI DI 'VENDETTA'.",
-    "lead_preview": "Teheran, 1 aprile 2026 - Mentre il mese di guerra con l'Arabia Saudita si avvicina alla fine, migliaia di iraniani sono ",
     "tags": []
   },
   {
