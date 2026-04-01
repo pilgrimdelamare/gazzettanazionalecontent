@@ -1,0 +1,57 @@
+{
+  "id": "4f5e77e7e47f78a9",
+  "slug": "gravina-nei-guai-fondi-zero-per-le-under-4f5e77e7e47f78a9",
+  "title": "Gravina nei guai: fondi zero per le Under",
+  "titles": [
+    "Gravina nei guai: fondi zero per le Under",
+    "Carotenuto attacca: 'Gravina salvi le nazionali giovanili'",
+    "La FIGC senza fondi: a rischio il futuro del calcio italiano"
+  ],
+  "title_winner": null,
+  "section": "cronaca",
+  "occhiello": "LO SCUDO DELLE UNDER: UN DOPPIO FALLIMENTO",
+  "lead": "Angelo Carotenuto, direttore della Repubblica, ha espresso preoccupazione sulla mancanza di fondi per la nazionale giovanile italiana dopo i recenti risultati negativi. La notizia è stata pubblicata il 1 aprile 2026 alle 02:59..",
+  "corpo1": "Lo scudo delle Under, la nazionale giovanile italiana, è al centro di una forte criticata dopo i recenti risultati negativi. Il direttore della Repubblica, Angelo Carotenuto, ha espresso preoccupazione per la mancanza di fondi., che è stata descritta come un \"lungo elenco di adolescenti\". La Repubblica ha riportato che spera che il presidente della FIGC, Gravina, non impugni le Under per difendere la sua posizione, in quanto questo potrebbe aggravare la situazione..\n\nLa mancanza di fondi per la squadra è stata evidenziata come un problema serio, con la Repubblica che ha affermato che \"speriamo che Gravina non impugni le Under per difendere la sua posizione, perché questo lungo elenco di adolescenti sono la prova di un doppio fallimento\". La notizia è stata pubblicata il 1 aprile 2026 alle 02:59..",
+  "corpo2": "Il presidente della FIGC, Gravina, ha già espresso preoccupazione per la situazione, affermando che la mancanza di fondi per la squadra è un problema serio che potrebbe avere conseguenze a lungo termine. La Repubblica ha riferito che Gravina cerca una soluzione., ma fino ad ora non è stato possibile. La mancanza di fondi per la squadra è solo un aspetto della questione, ma la vera sfida è il supporto ai giovani atleti italiani.. Se non si troverà una soluzione, l'Italia rischia di perdere la capacità di formare i futuri campioni..",
+  "journalist": {
+    "id": "chiara_esposito_01",
+    "firma": "Chiara Esposito",
+    "sezione": "cronaca"
+  },
+  "published_at": "2026-04-01T01:13:15.689526+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/35176353/pexels-photo-35176353.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Uroš Drljača",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Gravina nei guai: fondi zero per le Under\",\n  \"description\": \"Angelo Carotenuto, direttore della Repubblica, ha espresso preoccupazione sulla mancanza di fondi per la nazionale giovanile italiana dopo i recenti risultati negativi. La notizia è stata pubblicata il 1 aprile 2026 alle 02:59..\",\n  \"articleBody\": \"Angelo Carotenuto, direttore della Repubblica, ha espresso preoccupazione sulla mancanza di fondi per la nazionale giovanile italiana dopo i recenti risultati negativi. La notizia è stata pubblicata il 1 aprile 2026 alle 02:59.. Lo scudo delle Under, la nazionale giovanile italiana, è al centro di una forte criticata dopo i recenti risultati negativi. Il direttore della Repubblica, Angelo Carotenuto, ha espresso preoccupazione per la mancanza di fondi., che è stata descritta come un \\\"lungo elenco di adolescenti\\\". La Repubblica ha riportato che spera che il presidente della FIGC, Gravina, non impugni le Under per difendere la sua posizione, in quanto questo potrebbe aggravare la situazione..\\n\\nLa mancanza di fondi per la squadra è stata evidenziata come un problema serio, con la Repubblica che ha affermato che \\\"speriamo che Gravina non impugni le Under per difendere la sua posizione, perché questo lungo elenco di adolescenti sono la prova di un doppio fallimento\\\". La notizia è stata pubblicata il 1 aprile 2026 alle 02:59.. Il presidente della FIGC, Gravina, ha già espresso preoccupazione per la situazione, affermando che la mancanza di fondi per la squadra è un problema serio che potrebbe avere conseguenze a lungo termine. La Repubblica ha riferito che Gravina cerca una soluzione., ma fino ad ora non è stato possibile. La mancanza di fondi per la squadra è solo un aspetto della questione, ma la vera sfida è il supporto ai giovani atleti italiani.. Se non si troverà una soluzione, l'Italia rischia di perdere la capacità di formare i futuri campioni..\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Chiara Esposito\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-01T01:13:15.689526+00:00\",\n  \"dateModified\": \"2026-04-01T01:13:15.689526+00:00\",\n  \"url\": \"https://lentemattutina.it/cronaca/4f5e77e7e47f78a9\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cronaca/4f5e77e7e47f78a9\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/35176353/pexels-photo-35176353.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Uroš Drljača\"\n  }\n}",
+  "priority": 4,
+  "source": "Redazione",
+  "source_type": "competitor_gap",
+  "original_url": "https://www.repubblica.it/sport/rubriche/la-finestra-sul-cortile/2026/04/01/news/mondiale_gravina_under_calcio-425256735/",
+  "related": [
+    {
+      "title": "Il ritrovato 'Paysage de Cagnes' di Renoir è stato trovato a Parma, valutato 2-3",
+      "url": "/cronaca/renoir-abbandonato-9-milioni-rubati-a-fondazione-m-24bded3124831735",
+      "id": "24bded3124831735",
+      "image_url": "https://images.unsplash.com/photo-1601221016865-153b9e45291c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxpdGFseSUyMGZsb29kfGVufDB8MHx8fDE3NzUwMDU3NzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "3,5 milioni di documenti Epstein online: nomi di politici e imprenditori coinvol",
+      "url": "/cronaca/35-milioni-di-documenti-su-epstein-online-73efa991e9b7d227",
+      "id": "73efa991e9b7d227",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/FBI-pedophile-symbols-002.jpg",
+      "image_type": "wikimedia"
+    },
+    {
+      "title": "90% dei turisti ammettono azioni indesiderate durante i viaggi",
+      "url": "/cronaca/il-90-dei-turisti-ammette-in-vacanza-faccio-cio-ch-2fc5dfa238bbcf2a",
+      "id": "2fc5dfa238bbcf2a",
+      "image_url": "https://images.unsplash.com/photo-1722202123961-641b1f779642?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxpdGFseSUyMHRvdXJpc3RzfGVufDB8MHx8fDE3NzUwMDM2Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    }
+  ]
+}
