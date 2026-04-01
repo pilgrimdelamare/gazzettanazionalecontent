@@ -1,5 +1,23 @@
 [
   {
+    "id": "ea64fe89ac7e44f5",
+    "slug": "giornalista-usa-rapita-a-baghdad-da-milizia-sciita-ea64fe89ac7e44f5",
+    "title": "Rapita a Baghdad la giornalista Shelly Kittleson",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-01T09:25:59.502437+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1769335737970-2b6cbcff3a9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxtaWxpdGFyeSUyMGZvcmNlc3xlbnwwfDB8fHwxNzc1MDQ1MDEwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "",
+    "lead_preview": "Shelly Kittleson, giornalista freelance statunitense, è stata Rapita a Baghdad il 31 marzo 2026. L’episodio è avvenuto n",
+    "tags": [
+      "rapimento kittleson",
+      "baghdad",
+      "kittleson"
+    ]
+  },
+  {
     "id": "a354fecac30a12e3",
     "slug": "helen-zille-nuota-in-buca-stradale-a-johannesburg-a354fecac30a12e3",
     "title": "Helen Zille nuota in buca stradale a Johannesburg",
@@ -595,20 +613,6 @@
       "john davidson",
       "film plus fort que moi"
     ]
-  },
-  {
-    "id": "ea64fe89ac7e44f5",
-    "slug": "giornalista-usa-rapita-a-baghdad-da-milizia-sciita-ea64fe89ac7e44f5",
-    "title": "Giornalista Usa rapita a Baghdad da milizia sciita irachena",
-    "section": "esteri",
-    "priority": 4,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-01T09:25:59.502437+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1600457485163-5e6a2c422c3f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxTaGVsbHklMjBLaXR0bGVzb258ZW58MHwwfHx8MTc3NTAzNTU1OXww&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "Iraq, rapito giornalista Usa da milizia legata a Teheran",
-    "lead_preview": "Shelly Kittleson, giornalista freelance americana specializzata in Medio Oriente, è stata rapita a Baghdad il 31 marzo 2",
-    "tags": []
   },
   {
     "id": "92079eaa7e445230",
