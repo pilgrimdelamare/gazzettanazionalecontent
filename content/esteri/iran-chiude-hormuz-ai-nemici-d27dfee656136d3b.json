@@ -1,0 +1,57 @@
+{
+  "id": "d27dfee656136d3b",
+  "slug": "iran-chiude-hormuz-ai-nemici-d27dfee656136d3b",
+  "title": "Iran chiude Hormuz ai nemici",
+  "titles": [
+    "Iran chiude Hormuz ai nemici",
+    "Trump minaccia l'Iran",
+    "Petrolio bloccato nello Stretto"
+  ],
+  "title_winner": null,
+  "section": "esteri",
+  "occhiello": "HORMUZ CHIUSA AI NEMICI",
+  "lead": "Iran, lo stretto di Hormuz resterà chiuso ai 'nemici' secondo quanto dichiarato dalle autorità iraniane",
+  "corpo1": "Le autorità iraniane hanno ribadito che lo stretto di Hormuz resterà chiuso ai 'nemici'. La situazione è pienamente sotto il controllo delle forze navali iraniane, che hanno dimostrato la loro capacità di gestire la situazione con efficacia. Secondo quanto riportato da ANSA, la chiusura dello stretto di Hormuz è una ritorsione contro le sanzioni imposte all'iran. Lo stretto di Hormuz è un passaggio strategico per il trasporto di petrolio e gas, e la sua chiusura potrebbe avere conseguenze significative per l'economia globale. La decisione di mantenere chiuso lo stretto di Hormuz è stata presa nonostante le pressioni internazionali per riaprirlo, dimostrando la determinazione dell'Iran a difendere i suoi interessi nazionali. il presidente degli Stati Uniti, Trump ha espresso la sua preoccupazione per la situazione e ha minacciato di prendere misure per riaprire lo stretto. Tuttavia, l'Iran ha ribadito che non intende riaprire lo stretto fino a quando non saranno revocate le sanzioni, rafforzando la sua posizione di rifiuto delle pressioni internazionali.",
+  "corpo2": "L'iran è un paese con una lunga storia di tensioni con l'occidente, e la chiusura dello stretto di Hormuz è solo l'ultimo capitolo di una lunga serie di scontri. La situazione è resa ancora più complessa dalla presenza di altre potenze regionali, come la Cina e la Russia, che hanno interessi economici e strategici nella regione. La chiusura dello stretto di Hormuz potrebbe avere conseguenze significative per l'economia globale, in particolare per i paesi che dipendono fortemente dalle importazioni di petrolio e gas, con un impatto particolarmente grave per l'Italia e l'Europa. In questo contesto, la decisione dell'Iran di mantenere chiuso lo stretto di Hormuz è un chiaro segnale della sua determinazione a resistere alle pressioni internazionali e a difendere i suoi interessi nazionali, dimostrando la sua capacità di agire in modo indipendente. A pagare il prezzo più alto saranno i consumatori europei, che dovranno affrontare un aumento dei costi energetici a causa della chiusura dello stretto di Hormuz, con un impatto particolarmente grave per l'Italia, che dipende fortemente dalle importazioni di petrolio e gas.",
+  "journalist": {
+    "id": "anna_colombo_01",
+    "firma": "Anna Colombo",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-04-01T14:31:49.100847+00:00",
+  "image": {
+    "type": "unsplash",
+    "url": "https://images.unsplash.com/photo-1708762477585-04df98a3c9e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxtaWxpdGFyeSUyMG5hdnklMjBzaGlwcyUyMHBlcnNpYW4lMjBndWxmfGVufDB8MHx8fDE3NzUwNTM5MDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "source": "Unsplash",
+    "credit": "Mohsen L",
+    "license": "Unsplash License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Iran chiude Hormuz ai nemici\",\n  \"description\": \"Iran, lo stretto di Hormuz resterà chiuso ai 'nemici' secondo quanto dichiarato dalle autorità iraniane\",\n  \"articleBody\": \"Iran, lo stretto di Hormuz resterà chiuso ai 'nemici' secondo quanto dichiarato dalle autorità iraniane Le autorità iraniane hanno ribadito che lo stretto di Hormuz resterà chiuso ai 'nemici'. La situazione è pienamente sotto il controllo delle forze navali iraniane, che hanno dimostrato la loro capacità di gestire la situazione con efficacia. Secondo quanto riportato da ANSA, la chiusura dello stretto di Hormuz è una ritorsione contro le sanzioni imposte all'iran. Lo stretto di Hormuz è un passaggio strategico per il trasporto di petrolio e gas, e la sua chiusura potrebbe avere conseguenze significative per l'economia globale. La decisione di mantenere chiuso lo stretto di Hormuz è stata presa nonostante le pressioni internazionali per riaprirlo, dimostrando la determinazione dell'Iran a difendere i suoi interessi nazionali. il presidente degli Stati Uniti, Trump ha espresso la sua preoccupazione per la situazione e ha minacciato di prendere misure per riaprire lo stretto. Tuttavia, l'Iran ha ribadito che non intende riaprire lo stretto fino a quando non saranno revocate le sanzioni, rafforzando la sua posizione di rifiuto delle pressioni internazionali. L'iran è un paese con una lunga storia di tensioni con l'occidente, e la chiusura dello stretto di Hormuz è solo l'ultimo capitolo di una lunga serie di scontri. La situazione è resa ancora più complessa dalla presenza di altre potenze regionali, come la Cina e la Russia, che hanno interessi economici e strategici nella regione. La chiusura dello stretto di Hormuz potrebbe avere conseguenze significative per l'economia globale, in particolare per i paesi che dipendono fortemente dalle importazioni di petrolio e gas, con un impatto particolarmente grave per l'Italia e l'Europa. In questo contesto, la decisione dell'Iran di mantenere chiuso lo stretto di Hormuz è un chiaro segnale della sua determinazione a resistere alle pressioni internazionali e a difendere i suoi interessi nazionali, dimostrando la sua capacità di agire in modo indipendente. A pagare il prezzo più alto saranno i consumatori europei, che dovranno affrontare un aumento dei costi energetici a causa della chiusura dello stretto di Hormuz, con un impatto particolarmente grave per l'Italia, che dipende fortemente dalle importazioni di petrolio e gas.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-01T14:31:49.100847+00:00\",\n  \"dateModified\": \"2026-04-01T14:31:49.100847+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/d27dfee656136d3b\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/d27dfee656136d3b\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1708762477585-04df98a3c9e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxtaWxpdGFyeSUyMG5hdnklMjBzaGlwcyUyMHBlcnNpYW4lMjBndWxmfGVufDB8MHx8fDE3NzUwNTM5MDh8MA&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Mohsen L\"\n  }\n}",
+  "priority": 5,
+  "source": "ANSA Esteri",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/04/01/iran-ribadisce-lo-stretto-di-hormuz-restera-chiuso-ai-nemici_2e654044-7b18-4d38-85b3-5eaa009e3d3c.html",
+  "related": [
+    {
+      "title": "Trump: 'Iran riapra Hormuz o distruggerò impianti'",
+      "url": "/esteri/trump-distruggeremo-impianti-elettrici-e-petrolife-a97b7794c5524847",
+      "id": "a97b7794c5524847",
+      "image_url": "https://live.staticflickr.com/65535/55174573676_2f4e63de26_b.jpg",
+      "image_type": "flickr"
+    },
+    {
+      "title": "L'Iran chiede cessate il fuoco a Trump: la proposta del 1 aprile",
+      "url": "/esteri/liran-chiede-cessate-il-fuoco-a-trump-la-proposta-ae34d99048e98bf0",
+      "id": "ae34d99048e98bf0",
+      "image_url": "https://images.pexels.com/photos/5854416/pexels-photo-5854416.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
+    },
+    {
+      "title": "Starmer riunisce 30 Paesi a Londra per proteggere lo Stretto di Hormuz",
+      "url": "/esteri/starmer-riunisce-30-paesi-a-londra-per-proteggere-1c5aa81d94d80277",
+      "id": "1c5aa81d94d80277",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Prime_Minister_Keir_Starmer_hosts_first_Cabinet_%2853838994618%29.jpg/640px-Prime_Minister_Keir_Starmer_hosts_first_Cabinet_%2853838994618%29.jpg",
+      "image_type": "image"
+    }
+  ]
+}
