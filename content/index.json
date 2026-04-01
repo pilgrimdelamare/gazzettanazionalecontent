@@ -1,5 +1,22 @@
 [
   {
+    "id": "ad9068122c28905a",
+    "slug": "cosmoprof-lia-non-salva-linnovazione-solo-2300-esp-ad9068122c28905a",
+    "title": "250mila fan di bellezza si recano a Bologna",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-03-31T13:36:02.059324+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1766845608608-c6540e3356b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxDb3Ntb3Byb2YlMjBCb2xvZ25hfGVufDB8MHx8fDE3NzUwMDE2OTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "LA COSMOPROF DI BOLOGNA: 250.000 VISITATORI E 10.000 BRAND",
+    "lead_preview": "Cosmoprof, la fiera di bellezza e cosmetici di Bologna, ha registrato un nuovo record di visitatori: 250.000 persone si ",
+    "tags": [
+      "cosmoprof bologna",
+      "fiera bellezza"
+    ]
+  },
+  {
     "id": "cab870b4d4add54e",
     "slug": "rai-e-disney-insieme-contenuti-italiani-su-piattaf-cab870b4d4add54e",
     "title": "Rai e Disney, 100 milioni per l'Italia su Disney+",
@@ -1000,20 +1017,6 @@
       "film commission veneta",
       "veneto 2026"
     ]
-  },
-  {
-    "id": "ad9068122c28905a",
-    "slug": "cosmoprof-lia-non-salva-linnovazione-solo-2300-esp-ad9068122c28905a",
-    "title": "Cosmoprof, 2.300 espositori da 60 anni: l'IA non decolla",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-03-31T13:36:02.059324+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Artificial_Intelligence_Scale.png",
-    "occhiello": "ESPONITORI FERMI A 2.300 DAL 1967",
-    "lead_preview": "Bologna, 31 marzo 2026. Alla fiera Cosmoprof, i dati ufficiali registrano 250.000 visitatori e 10.000 brand dichiarati, ",
-    "tags": []
   },
   {
     "id": "afba6a74da1fd04a",
