@@ -1151,8 +1151,8 @@
     "priority": 5,
     "journalist_firma": "Marta Levi",
     "published_at": "2026-03-31T09:27:34.547227+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/35854928/pexels-photo-35854928.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "image_type": "image",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Fiat_Grande_Punto_Type_199_Carabinieri_%283%29.jpg/640px-Fiat_Grande_Punto_Type_199_Carabinieri_%283%29.jpg",
     "occhiello": "CAPO GABINETTO DI MASTELLA ARRESTATO PER CONCUSSIONE",
     "lead_preview": "Gennaro Santamaria, 53 anni, capo di gabinetto del sindaco di Benevento Clemente Mastella, è stato arrestato il 30 marzo",
     "tags": [
