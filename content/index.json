@@ -1,5 +1,23 @@
 [
   {
+    "id": "2cf73f090bf1e52e",
+    "slug": "lebron-supera-kareem-nei-successi-complessivi-nba-2cf73f090bf1e52e",
+    "title": "Lebron james superato kareem abdul-jabbar",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-01T08:38:35.059559+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/34571919/pexels-photo-34571919.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "LEBRON JAMES SUPERATO KAREEM ABDUL-JABBAR",
+    "lead_preview": "Lebron James, della squadra di Los Angeles, ha superato Kareem Abdul-Jabbar come giocatore più vincente nella storia del",
+    "tags": [
+      "lebron james",
+      "record nba",
+      "kareem abdul-jabbar"
+    ]
+  },
+  {
     "id": "ea64fe89ac7e44f5",
     "slug": "giornalista-usa-rapita-a-baghdad-da-milizia-sciita-ea64fe89ac7e44f5",
     "title": "Giornalista Usa rapita a Baghdad: Shelly Kittleson sequestrata",
@@ -1011,20 +1029,6 @@
       "protesta gerusalemme",
       "pena di morte israele"
     ]
-  },
-  {
-    "id": "2cf73f090bf1e52e",
-    "slug": "lebron-supera-kareem-nei-successi-complessivi-nba-2cf73f090bf1e52e",
-    "title": "Basket: LeBron James supera Kareem Abdul-Jabbar con 1784 vittorie",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-01T08:38:35.059559+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Basketball_key_NBA.png",
-    "occhiello": "LEBRON SUPERA KAREEM NELLA STATISTICA DI VITTORIE NPB",
-    "lead_preview": "LeBron James, della squadra di Los Angeles, ha superato Kareem Abdul-Jabbar come giocatore più vincente nella storia del",
-    "tags": []
   },
   {
     "id": "3fb9ac1afe0a9005",
