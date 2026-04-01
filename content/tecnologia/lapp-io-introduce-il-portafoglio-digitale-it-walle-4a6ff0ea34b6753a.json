@@ -1,0 +1,57 @@
+{
+  "id": "4a6ff0ea34b6753a",
+  "slug": "lapp-io-introduce-il-portafoglio-digitale-it-walle-4a6ff0ea34b6753a",
+  "title": "L'app IO introduce il Portafoglio digitale IT-Wallet: documenti ufficiali in un clic",
+  "titles": [
+    "L'app IO introduce il Portafoglio digitale IT-Wallet: documenti ufficiali in un clic",
+    "Wired Italia: l'open-beta di IO diventa un vero e proprio wallet digitale",
+    "Dal 1° aprile, gli italiani possono caricare patente e tessera sanitaria su IT-Wallet"
+  ],
+  "title_winner": null,
+  "section": "tecnologia",
+  "occhiello": "DOCUMENTI DIGITALI SU APP IO",
+  "lead": "L'1 aprile 2026, come riportato da Wired Italia, l'app IO ha introdotto la possibilità di caricare documenti ufficiali, come spiegato da Wired Italia come Patente, tessera sanitaria, carta della disabilità e altri documenti sul proprio Portafoglio digitale, chiamato IT-Wallet.",
+  "corpo1": "Secondo il tutorial pubblicato su Wired Italia, l'app IO, rilasciata in open-beta nel 2020, consente di caricare diversi tipi di documenti, tra cui Patente di guida, tessera sanitaria, carta Europa della disabilità e carta giovani nazionale, oltre a diversi metodi di pagamento. l'app consente di interagire con Comuni, regioni, INPS, Agenzia delle entrate, ASL e altri enti, permettendo la ricezione di comunicazioni e notifiche ufficiali, il pagamento di servizi e tributi, la gestione di scadenze e promemoria e l'accesso a bonus e sconti. Il Portafoglio digitale IT-Wallet è stato creato per ospitare documenti ufficiali rilasciati dalla pubblica amministrazione in formato digitale e, per ora, sono caricabili tre tipologie di documento: Patente, tessera sanitaria, carta della disabilità e altri documenti. La tessera elettorale, la carta d'identità elettronica e altri documenti saranno sbloccati entro febbraio 2027. per utilizzare il Portafoglio digitale, bisogna installare l'app IO e avere un'identità digitale.",
+  "corpo2": "L'introduzione di IT-Wallet su app IO rappresenta un passo significativo verso la digitalizzazione dei documenti ufficiali in Italia. l'app IO è al centro di questa notizia, che ha già dimostrato la sua utilità come strumento di interazione con la pubblica amministrazione. Il meccanismo strutturale che spiega questa notizia è la crescente domanda di servizi digitali da parte dei cittadini e la necessità di semplificare le procedure burocratiche. Ciò che cambia davvero è la possibilità per i cittadini di avere accesso a documenti ufficiali in formato digitale, riducendo la necessità di portare con sé documenti fisici e semplificando le procedure di identificazione. i contribuenti pagheranno i costi di questa digitalizzazione, attraverso i fondi pubblici destinati allo sviluppo di servizi digitali.",
+  "journalist": {
+    "id": "andrea_foti_01",
+    "firma": "Andrea Foti",
+    "sezione": "tecnologia"
+  },
+  "published_at": "2026-04-01T04:33:17.482646+00:00",
+  "image": {
+    "type": "unsplash",
+    "url": "https://images.unsplash.com/photo-1726607424598-139ff3391ce8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxkaWdpdGFsJTIwZG9jdW1lbnRzJTIwd2FsbGV0JTIwc21hcnRwaG9uZXxlbnwwfDB8fHwxNzc1MDE3OTk3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "source": "Unsplash",
+    "credit": "SumUp",
+    "license": "Unsplash License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"L'app IO introduce il Portafoglio digitale IT-Wallet: documenti ufficiali in un clic\",\n  \"description\": \"L'1 aprile 2026, come riportato da Wired Italia, l'app IO ha introdotto la possibilità di caricare documenti ufficiali, come spiegato da Wired Italia come Patente, tessera sanitaria, carta della disabilità e altri documenti sul proprio Portafoglio digitale, chiamato IT-Wallet.\",\n  \"articleBody\": \"L'1 aprile 2026, come riportato da Wired Italia, l'app IO ha introdotto la possibilità di caricare documenti ufficiali, come spiegato da Wired Italia come Patente, tessera sanitaria, carta della disabilità e altri documenti sul proprio Portafoglio digitale, chiamato IT-Wallet. Secondo il tutorial pubblicato su Wired Italia, l'app IO, rilasciata in open-beta nel 2020, consente di caricare diversi tipi di documenti, tra cui Patente di guida, tessera sanitaria, carta Europa della disabilità e carta giovani nazionale, oltre a diversi metodi di pagamento. l'app consente di interagire con Comuni, regioni, INPS, Agenzia delle entrate, ASL e altri enti, permettendo la ricezione di comunicazioni e notifiche ufficiali, il pagamento di servizi e tributi, la gestione di scadenze e promemoria e l'accesso a bonus e sconti. Il Portafoglio digitale IT-Wallet è stato creato per ospitare documenti ufficiali rilasciati dalla pubblica amministrazione in formato digitale e, per ora, sono caricabili tre tipologie di documento: Patente, tessera sanitaria, carta della disabilità e altri documenti. La tessera elettorale, la carta d'identità elettronica e altri documenti saranno sbloccati entro febbraio 2027. per utilizzare il Portafoglio digitale, bisogna installare l'app IO e avere un'identità digitale. L'introduzione di IT-Wallet su app IO rappresenta un passo significativo verso la digitalizzazione dei documenti ufficiali in Italia. l'app IO è al centro di questa notizia, che ha già dimostrato la sua utilità come strumento di interazione con la pubblica amministrazione. Il meccanismo strutturale che spiega questa notizia è la crescente domanda di servizi digitali da parte dei cittadini e la necessità di semplificare le procedure burocratiche. Ciò che cambia davvero è la possibilità per i cittadini di avere accesso a documenti ufficiali in formato digitale, riducendo la necessità di portare con sé documenti fisici e semplificando le procedure di identificazione. i contribuenti pagheranno i costi di questa digitalizzazione, attraverso i fondi pubblici destinati allo sviluppo di servizi digitali.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Andrea Foti\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-01T04:33:17.482646+00:00\",\n  \"dateModified\": \"2026-04-01T04:33:17.482646+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/4a6ff0ea34b6753a\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/4a6ff0ea34b6753a\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1726607424598-139ff3391ce8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxkaWdpdGFsJTIwZG9jdW1lbnRzJTIwd2FsbGV0JTIwc21hcnRwaG9uZXxlbnwwfDB8fHwxNzc1MDE3OTk3fDA&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"SumUp\"\n  }\n}",
+  "priority": 5,
+  "source": "Wired Italia",
+  "source_type": "competitor",
+  "original_url": "https://www.wired.it/article/app-io-come-caricare-patente-tessera-sanitaria-documenti-ufficiali-it-wallet/",
+  "related": [
+    {
+      "title": "Stefano Fonzi lancia BluGo, app gratis per aiutare chi ha autismo a muoversi in ",
+      "url": "/tecnologia/stefano-fonzi-lancia-blugo-35f4d6172e331cc6",
+      "id": "35f4d6172e331cc6",
+      "image_url": "https://images.unsplash.com/photo-1771509620270-5b9886f3f1b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxhdXRpc3RpY2klMjBzcG9zdGFtZW50byUyMHNpY3Vyb3xlbnwwfDB8fHwxNzc1MDA2MjYwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Marco Ravetto su Wired: 15 monitor curvi 24-55” dominano il 2026",
+      "url": "/tecnologia/monitor-curvi-a-55-pollici-il-business-dellimmersi-7f683c42cc5a0bfc",
+      "id": "7f683c42cc5a0bfc",
+      "image_url": "https://images.unsplash.com/photo-1666771409964-4656b1099ccb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxjdXJ2ZWQlMjBtb25pdG9yJTIwNTUlMjBpbmNofGVufDB8MHx8fDE3NzUwMDU3MjB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Meta lancia instagram plus, un piano a pagamento in giappone, messico e filippin",
+      "url": "/tecnologia/meta-lancia-instagram-plus-abbonamento-a-pagamento-afba6a74da1fd04a",
+      "id": "afba6a74da1fd04a",
+      "image_url": "https://images.unsplash.com/photo-1661953118591-2f5be524698e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxJbnN0YWdyYW0lMjBQbHVzJTIwTWV0YXxlbnwwfDB8fHwxNzc1MDAxNzUyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    }
+  ]
+}
