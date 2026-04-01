@@ -1,57 +1,58 @@
 {
   "id": "673a7c7ab581bcde",
   "slug": "ibm-supera-il-test-con-i-computer-quantistici-simu-673a7c7ab581bcde",
-  "title": "IBM supera il test con i computer quantistici: simulazioni confermate",
+  "title": "Ibm confirma la fedelezza delle simulazioni quantistiche",
   "titles": [
-    "IBM supera il test con i computer quantistici: simulazioni confermate",
-    "La svolta di IBM: il Quantum Science Center raggiunge la prova del nove",
-    "Computer quantistici, nuova era per chimica e biologia con il successo di IBM"
+    "IBM CONFIRMA LA FEDELEZZA DELLE SIMULAZIONI QUANTISTICHE",
+    "IBM CONFIRMA LA FEDELEZZA DELLE SIMULAZIONI QUANTISTICHE",
+    "IBM CONFIRMA LA FEDELEZZA DELLE SIMULAZIONI QUANTISTICHE"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "COMPUTER QUANTISTICI IBM SUPERANO TEST",
-  "lead": "Ibm ha superato il test decisivo per i suoi computer quantistici, confermando l'efficacia delle simulazioni eseguite.",
-  "corpo1": "Secondo quanto riportato da Wired Italia, il Quantum Science Center di ibm ha raggiunto la \"prova del nove\" che conferma l'efficacia delle simulazioni eseguite dai computer quantistici. Questo risultato apre una nuova era nella ricerca e consentirà di sfruttare i computer quantistici per sviluppare nuove tecnologie in discipline come la chimica, la Scienza dei materiali e la biologia molecolare. L'esperimento che ha acceso l'entusiasmo è stato condotto analizzando le capacità quantistiche del cristallo magnetico kcu f3, un materiale con proprietà sufficientemente complesse da far emergere la differenza tra un Quantum computer e un \"normale\" supercomputer. Gli scienziati hanno potuto confrontare la simulazione eseguita dai Quantum computer con gli esperimenti sullo scattering di neutroni, ottenendo risultati significativi. Questo esperimento segna una pietra miliare nel campo della ricerca e apre nuove possibilità per lo sviluppo di tecnologie innovative.",
-  "corpo2": "Il Quantum Science Center di ibm è stato fondato con l'obiettivo di sviluppare tecnologie quantistiche per risolvere problemi complessi in vari campi. Il successo dell'esperimento con il cristallo magnetico kcu f3 è il risultato di anni di ricerca e sviluppo da parte del team di ibm. Questo risultato ha importanti implicazioni per il futuro della ricerca e dello sviluppo di tecnologie quantistiche. Ibm è uno dei principali player nel campo del Quantum computing e il successo di questo esperimento conferma la sua posizione di leader. Il Quantum computing ha il potenziale di rivoluzionare molti campi, dalla chimica alla biologia molecolare, e il successo di questo esperimento è un passo importante verso la realizzazione di questo potenziale. Il fatto che i computer quantistici di ibm abbiano superato il test decisivo significa che le loro capacità saranno presto disponibili per essere utilizzate in applicazioni pratiche, e a pagare il prezzo di questo progresso saranno gli investitori che non si sono mossi per tempo per sfruttare le potenzialità del Quantum computing.",
+  "occhiello": "IBM CONFIRMA LA FEDELEZZA DELLE SIMULAZIONI QUANTISTICHE",
+  "lead": "Il Quantum Science Center di IBM ha superato il test decisivo per i computer quantistici, confermando l'efficacia delle simulazioni eseguite. Secondo l'azienda, il risultato apre a una nuova era nella ricerca e consentirà di sfruttare i computer quantistici per sviluppare nuove tecnologie in disciplina come la chimica, la Scienza dei materiali e la biologia molecolare. L'esperimento è stato condotto il 1° aprile 2026.",
+  "corpo1": "Il Quantum Science Center di IBM ha raggiunto un importante traguardo con la conferma dell'efficacia delle simulazioni eseguite dai computer quantistici. Il test decisivo è stato condotto il 1° aprile 2026 e ha dimostrato la capacità dei computer quantistici di analizzare le proprietà quantistiche del cristallo magnetico KCuF3. Questo risultato è considerato un importante passo avanti nella ricerca e consentirà di sfruttare i computer quantistici per sviluppare nuove tecnologie in discipline come la chimica, la Scienza dei materiali e la biologia molecolare. L'azienda ha affermato che questo risultato apre a una nuova era nella ricerca e che i computer quantistici potranno essere utilizzati per sviluppare nuove tecnologie che potrebbero avere un impatto significativo sulla società. Il Quantum Science Center di IBM è un centro di ricerca di proprietà di IBM che si occupa di sviluppare tecnologie quantistiche per applicazioni industriali e scientifiche.",
+  "corpo2": "I computer quantistici di IBM sono stati sviluppati per eseguire calcoli complessi in modo più rapido e efficiente rispetto ai computer classici. Questo è possibile grazie alla capacità dei computer quantistici di eseguire molte operazioni simultaneamente, il che consente di risolvere problemi complessi in modo più rapido e efficiente. Il Quantum Science Center di IBM ha lavorato per anni per sviluppare i computer quantistici e per dimostrare la loro efficacia. Questo risultato è considerato un importante passo avanti nella ricerca e potrebbe avere un impatto significativo sulla società. Tuttavia, è importante notare che i computer quantistici sono ancora in fase di sviluppo e che ci sono molti ostacoli da superare prima che possano essere utilizzati in modo pratico. A pagare saranno i soliti: i ricercatori che hanno investito anni della loro vita in questo progetto.",
   "journalist": {
-    "id": "andrea_foti_01",
-    "firma": "Andrea Foti",
+    "id": "giulia_serra_01",
+    "firma": "Giulia Serra",
     "sezione": "tecnologia"
   },
   "published_at": "2026-04-01T11:22:44.973212+00:00",
   "image": {
-    "type": "wikimedia",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/IBM_RPG_logo.png",
-    "source": "Wikimedia Commons",
-    "credit": "IBM Corp",
-    "license": "CC"
+    "type": "unsplash",
+    "url": "https://images.unsplash.com/photo-1695462131550-24be3156b25d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxjb21wdXRlciUyMHF1YW50aXN0aWNpJTIwc2ltdWxhemlvbml8ZW58MHwwfHx8MTc3NTA1MjQ1NXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "source": "Unsplash",
+    "credit": "Markus Winkler",
+    "license": "Unsplash License"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"IBM supera il test con i computer quantistici: simulazioni confermate\",\n  \"description\": \"Ibm ha superato il test decisivo per i suoi computer quantistici, confermando l'efficacia delle simulazioni eseguite.\",\n  \"articleBody\": \"Ibm ha superato il test decisivo per i suoi computer quantistici, confermando l'efficacia delle simulazioni eseguite. Secondo quanto riportato da Wired Italia, il Quantum Science Center di ibm ha raggiunto la \\\"prova del nove\\\" che conferma l'efficacia delle simulazioni eseguite dai computer quantistici. Questo risultato apre una nuova era nella ricerca e consentirà di sfruttare i computer quantistici per sviluppare nuove tecnologie in discipline come la chimica, la Scienza dei materiali e la biologia molecolare. L'esperimento che ha acceso l'entusiasmo è stato condotto analizzando le capacità quantistiche del cristallo magnetico kcu f3, un materiale con proprietà sufficientemente complesse da far emergere la differenza tra un Quantum computer e un \\\"normale\\\" supercomputer. Gli scienziati hanno potuto confrontare la simulazione eseguita dai Quantum computer con gli esperimenti sullo scattering di neutroni, ottenendo risultati significativi. Questo esperimento segna una pietra miliare nel campo della ricerca e apre nuove possibilità per lo sviluppo di tecnologie innovative. Il Quantum Science Center di ibm è stato fondato con l'obiettivo di sviluppare tecnologie quantistiche per risolvere problemi complessi in vari campi. Il successo dell'esperimento con il cristallo magnetico kcu f3 è il risultato di anni di ricerca e sviluppo da parte del team di ibm. Questo risultato ha importanti implicazioni per il futuro della ricerca e dello sviluppo di tecnologie quantistiche. Ibm è uno dei principali player nel campo del Quantum computing e il successo di questo esperimento conferma la sua posizione di leader. Il Quantum computing ha il potenziale di rivoluzionare molti campi, dalla chimica alla biologia molecolare, e il successo di questo esperimento è un passo importante verso la realizzazione di questo potenziale. Il fatto che i computer quantistici di ibm abbiano superato il test decisivo significa che le loro capacità saranno presto disponibili per essere utilizzate in applicazioni pratiche, e a pagare il prezzo di questo progresso saranno gli investitori che non si sono mossi per tempo per sfruttare le potenzialità del Quantum computing.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Andrea Foti\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-01T11:22:44.973212+00:00\",\n  \"dateModified\": \"2026-04-01T11:22:44.973212+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/673a7c7ab581bcde\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/673a7c7ab581bcde\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://upload.wikimedia.org/wikipedia/commons/5/58/IBM_RPG_logo.png\",\n    \"creditText\": \"IBM Corp\"\n  }\n}",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"IBM CONFIRMA LA FEDELEZZA DELLE SIMULAZIONI QUANTISTICHE\",\n  \"description\": \"Il Quantum Science Center di IBM ha superato il test decisivo per i computer quantistici, confermando l'efficacia delle simulazioni eseguite. Secondo l'azienda, il risultato apre a una nuova era nella ricerca e consentirà di sfruttare i computer quantistici per sviluppare nuove tecnologie in discipl\",\n  \"articleBody\": \"Il Quantum Science Center di IBM ha superato il test decisivo per i computer quantistici, confermando l'efficacia delle simulazioni eseguite. Secondo l'azienda, il risultato apre a una nuova era nella ricerca e consentirà di sfruttare i computer quantistici per sviluppare nuove tecnologie in disciplina come la chimica, la Scienza dei materiali e la biologia molecolare. L'esperimento è stato condotto il 1° aprile 2026. Il Quantum Science Center di IBM ha raggiunto un importante traguardo con la conferma dell'efficacia delle simulazioni eseguite dai computer quantistici. Il test decisivo è stato condotto il 1° aprile 2026 e ha dimostrato la capacità dei computer quantistici di analizzare le proprietà quantistiche del cristallo magnetico KCuF3. Questo risultato è considerato un importante passo avanti nella ricerca e consentirà di sfruttare i computer quantistici per sviluppare nuove tecnologie in discipline come la chimica, la Scienza dei materiali e la biologia molecolare. L'azienda ha affermato che questo risultato apre a una nuova era nella ricerca e che i computer quantistici potranno essere utilizzati per sviluppare nuove tecnologie che potrebbero avere un impatto significativo sulla società. Il Quantum Science Center di IBM è un centro di ricerca di proprietà di IBM che si occupa di sviluppare tecnologie quantistiche per applicazioni industriali e scientifiche. I computer quantistici di IBM sono stati sviluppati per eseguire calcoli complessi in modo più rapido e efficiente rispetto ai computer classici. Questo è possibile grazie alla capacità dei computer quantistici di eseguire molte operazioni simultaneamente, il che consente di risolvere problemi complessi in modo più rapido e efficiente. Il Quantum Science Center di IBM ha lavorato per anni per sviluppare i computer quantistici e per dimostrare la loro efficacia. Questo risultato è considerato un importante passo avanti nella ricerca e potrebbe avere un impatto significativo sulla società. Tuttavia, è importante notare che i computer quantistici sono ancora in fase di sviluppo e che ci sono molti ostacoli da superare prima che possano essere utilizzati in modo pratico. A pagare saranno i soliti: i ricercatori che hanno investito anni della loro vita in questo progetto.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Giulia Serra\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-01T11:22:44.973212+00:00\",\n  \"dateModified\": \"2026-04-01T11:22:44.973212+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/673a7c7ab581bcde\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/673a7c7ab581bcde\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1695462131550-24be3156b25d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxjb21wdXRlciUyMHF1YW50aXN0aWNpJTIwc2ltdWxhemlvbml8ZW58MHwwfHx8MTc3NTA1MjQ1NXww&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Markus Winkler\"\n  }\n}",
   "priority": 5,
-  "source": "Wired Italia",
-  "source_type": "competitor",
-  "original_url": "https://www.wired.it/article/quantum-computing-ibm-prova-affidabilita-simulazioni-kcuf3/",
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://lentemattutina.it/tecnologia/ibm-supera-il-test-con-i-computer-quantistici-simu-673a7c7ab581bcde",
   "related": [
+    {
+      "title": "3000 documenti leaked: cosa svelano su Claude Mythos",
+      "url": "/tecnologia/3000-documenti-leaked-cosa-svelano-su-claude-mytho-30c594650bb96360",
+      "id": "30c594650bb96360",
+      "image_url": "https://images.unsplash.com/photo-1751448555253-f39c06e29d82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxjeWJlcnNlY3VyaXR5JTIwbGVha3xlbnwwfDB8fHwxNzc1MDUwMjg1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Ricercatori giapponesi sviluppano teoria su calamari",
+      "url": "/tecnologia/ricercatori-giapponesi-sviluppano-teoria-su-calama-19854554a9ad2aad",
+      "id": "19854554a9ad2aad",
+      "image_url": "https://images.unsplash.com/photo-1567941537651-70be5a2aafd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxzcXVpZCUyMGRlZXAlMjBzZWF8ZW58MHwwfHx8MTc3NTA0ODU4NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
     {
       "title": "Stefano Fonzi lancia BluGo, l'app gratuita per l'autonomia delle persone autistiche",
       "url": "/tecnologia/stefano-fonzi-lancia-blugo-35f4d6172e331cc6",
       "id": "35f4d6172e331cc6",
-      "image_url": "https://live.staticflickr.com/65535/55180558800_c170f16d78_b.jpg",
-      "image_type": "flickr"
-    },
-    {
-      "title": "Airbnb pagherà i transfer privati in 9 località italiane",
-      "url": "/tecnologia/airbnb-paghera-i-transfer-privati-in-9-localita-it-e1731559229b3fca",
-      "id": "e1731559229b3fca",
-      "image_url": "https://images.unsplash.com/photo-1725908474061-f34c83336ae4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHx0cmFuc2ZlciUyMHByaXZhdGUlMjBzZXJ2aWNlJTIwaXRhbHl8ZW58MHwwfHx8MTc3NTAzNDY2N3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "image_type": "unsplash"
-    },
-    {
-      "title": "250mila visitatori a Cosmoprof: il record della fiera della bellezza",
-      "url": "/tecnologia/cosmoprof-lia-non-salva-linnovazione-solo-2300-esp-ad9068122c28905a",
-      "id": "ad9068122c28905a",
-      "image_url": "https://images.unsplash.com/photo-1731594701733-dc60b1052e1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxjb3Ntb3Byb2YlMjBib2xvZ25hJTIwYmVhdXR5JTIwZmFpcnxlbnwwfDB8fHwxNzc1MDMwOTExfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "image_type": "unsplash"
+      "image_url": "https://www.rainews.it/cropgd/1600x900/dl/img/2026/04/01/1775042529747_jj.jpg",
+      "image_type": "image"
     }
-  ]
+  ],
+  "updated_at": "2026-04-01T11:22:44.973212+00:00"
 }
