@@ -1,5 +1,22 @@
 [
   {
+    "id": "4f5e77e7e47f78a9",
+    "slug": "gravina-nei-guai-fondi-zero-per-le-under-4f5e77e7e47f78a9",
+    "title": "Notizia in primo piano",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-04-01T01:13:15.689526+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/3735178/pexels-photo-3735178.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "",
+    "lead_preview": "Angelo carotenuto, direttore di Repubblica, ha espresso preoccupazione per l'assenza di fondi destinati alle nazionali g",
+    "tags": [
+      "nazionali giovanili",
+      "fondi repubblica"
+    ]
+  },
+  {
     "id": "9ced36fd5d29e120",
     "slug": "dieci-milioni-di-italiani-in-viaggio-per-pasqua-no-9ced36fd5d29e120",
     "title": "Dieci milioni di italiani in viaggio per Pasqua, nonostante l'incertezza globale",
@@ -901,24 +918,6 @@
     "tags": [
       "borsa tokyo",
       "petrolio"
-    ]
-  },
-  {
-    "id": "4f5e77e7e47f78a9",
-    "slug": "gravina-nei-guai-fondi-zero-per-le-under-4f5e77e7e47f78a9",
-    "title": "Gravina nei guai: fondi zero per le Under",
-    "section": "cronaca",
-    "priority": 4,
-    "journalist_firma": "Chiara Esposito",
-    "published_at": "2026-04-01T01:13:15.689526+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/35176353/pexels-photo-35176353.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "LO SCUDO DELLE UNDER: UN DOPPIO FALLIMENTO",
-    "lead_preview": "Angelo Carotenuto, direttore della Repubblica, ha espresso preoccupazione sulla mancanza di fondi per la nazionale giova",
-    "tags": [
-      "crisi calcio italiano",
-      "fondi under italia",
-      "gravina nei guai"
     ]
   },
   {
