@@ -1,0 +1,57 @@
+{
+  "id": "138a14dab23d3fcd",
+  "slug": "lvmh-sotto-accusa-antitrust-indaga-su-sephora-e-be-138a14dab23d3fcd",
+  "title": "LVMH sotto accusa: Antitrust indaga su Sephora e Benefit per marketing aggressivo su minori",
+  "titles": [
+    "LVMH sotto accusa: Antitrust indaga su Sephora e Benefit per marketing aggressivo su minori",
+    "Sephora e Benefit nel mirino dell'Antitrust: 10% di sanzioni sul fatturato italiano",
+    "86 miliardi di euro a rischio: LVMH sfida l'Antitrust su pratiche commerciali scorrette"
+  ],
+  "title_winner": null,
+  "section": "economia",
+  "occhiello": "LVMH NEL MIRINO DELL'ANTITRUST: MARKETING AGGRESSIVO SUI MINORI",
+  "lead": "L’Autorità Garante della Concorrenza e del Mercato ha avviato il 1° aprile 2026 due istruttorie contro Sephora, Benefit e LVMH Profumi e Cosmetici Italia per presunte pratiche commerciali scorrette rivolte a bambini e adolescenti. L’accusa: strategie di marketing insidiose per incentivare l’acquisto compulsivo di Cosmetici in giovanissimi.",
+  "corpo1": "L’indagine si concentra sulle comunicazioni pubblicitarie rivolte a minori e sulla possibile promozione di prodotti non testati per quella fascia d’età. Sephora e Benefit, marchi del colosso francese LVMH, avrebbero adottato tecniche di vendita aggressive attraverso social network e influencer, puntando deliberatamente sul target under 18. Secondo l’Antitrust, le aziende avrebbero sfruttato la vulnerabilità psicologica degli adolescenti, inducendoli ad acquisti non necessari. La multinazionale, che fattura 86 miliardi di euro a livello globale, non ha ancora rilasciato dichiarazioni ufficiali. In caso di accertate violazioni, le sanzioni potrebbero raggiungere il 10% del fatturato italiano del gruppo.",
+  "corpo2": "Non è la prima volta che il gigante del lusso LVMH finisce nel mirino delle autorità. Già nel 2024, la filiale americana di Sephora aveva patteggiato 1,2 milioni di dollari per aver venduto dati personali di minori senza consenso. Il modello di Business del gruppo si basa sull’induzione al consumo in età precoce: fidelizzare i clienti da adolescenti per garantirsi clienti adulti premium. Una strategia che funziona: il settore Beauty under 18 vale oggi 1,5 miliardi solo in Italia. Il caso rivela un paradosso all’Italiana: mentre la Politica discute di limitare i social ai minori, si lascia che multinazionali li adescino con tecniche di neuromarketing studiate in laboratorio. L’Antitrust ha strumenti limitati: anche la sanzione massima sarebbe per LVMH come multare un elefante con una buccia di banana. La differenza la faranno i genitori che continueranno a regalare carte fedeltà invece di insegnare ai figli il valore del denaro.",
+  "journalist": {
+    "id": "giorgio_ferrara_01",
+    "firma": "Giorgio Ferrara",
+    "sezione": "economia"
+  },
+  "published_at": "2026-04-01T09:42:54.577960+00:00",
+  "image": {
+    "type": "unsplash",
+    "url": "https://images.unsplash.com/photo-1561151569-aad025fe863d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxjb3NtZXRpYyUyMG1hcmtldGluZyUyMGNoaWxkcmVufGVufDB8MHx8fDE3NzUwMzY1NzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "source": "Unsplash",
+    "credit": "Karina Thomson",
+    "license": "Unsplash License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"LVMH sotto accusa: Antitrust indaga su Sephora e Benefit per marketing aggressivo su minori\",\n  \"description\": \"L’Autorità Garante della Concorrenza e del Mercato ha avviato il 1° aprile 2026 due istruttorie contro Sephora, Benefit e LVMH Profumi e Cosmetici Italia per presunte pratiche commerciali scorrette rivolte a bambini e adolescenti. L’accusa: strategie di marketing insidiose per incentivare l’acquisto\",\n  \"articleBody\": \"L’Autorità Garante della Concorrenza e del Mercato ha avviato il 1° aprile 2026 due istruttorie contro Sephora, Benefit e LVMH Profumi e Cosmetici Italia per presunte pratiche commerciali scorrette rivolte a bambini e adolescenti. L’accusa: strategie di marketing insidiose per incentivare l’acquisto compulsivo di Cosmetici in giovanissimi. L’indagine si concentra sulle comunicazioni pubblicitarie rivolte a minori e sulla possibile promozione di prodotti non testati per quella fascia d’età. Sephora e Benefit, marchi del colosso francese LVMH, avrebbero adottato tecniche di vendita aggressive attraverso social network e influencer, puntando deliberatamente sul target under 18. Secondo l’Antitrust, le aziende avrebbero sfruttato la vulnerabilità psicologica degli adolescenti, inducendoli ad acquisti non necessari. La multinazionale, che fattura 86 miliardi di euro a livello globale, non ha ancora rilasciato dichiarazioni ufficiali. In caso di accertate violazioni, le sanzioni potrebbero raggiungere il 10% del fatturato italiano del gruppo. Non è la prima volta che il gigante del lusso LVMH finisce nel mirino delle autorità. Già nel 2024, la filiale americana di Sephora aveva patteggiato 1,2 milioni di dollari per aver venduto dati personali di minori senza consenso. Il modello di Business del gruppo si basa sull’induzione al consumo in età precoce: fidelizzare i clienti da adolescenti per garantirsi clienti adulti premium. Una strategia che funziona: il settore Beauty under 18 vale oggi 1,5 miliardi solo in Italia. Il caso rivela un paradosso all’Italiana: mentre la Politica discute di limitare i social ai minori, si lascia che multinazionali li adescino con tecniche di neuromarketing studiate in laboratorio. L’Antitrust ha strumenti limitati: anche la sanzione massima sarebbe per LVMH come multare un elefante con una buccia di banana. La differenza la faranno i genitori che continueranno a regalare carte fedeltà invece di insegnare ai figli il valore del denaro.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Giorgio Ferrara\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-01T09:42:54.577960+00:00\",\n  \"dateModified\": \"2026-04-01T09:42:54.577960+00:00\",\n  \"url\": \"https://lentemattutina.it/economia/138a14dab23d3fcd\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/economia/138a14dab23d3fcd\"\n  },\n  \"articleSection\": \"Economia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1561151569-aad025fe863d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxjb3NtZXRpYyUyMG1hcmtldGluZyUyMGNoaWxkcmVufGVufDB8MHx8fDE3NzUwMzY1NzR8MA&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Karina Thomson\"\n  }\n}",
+  "priority": 6,
+  "source": "Il Fatto Quotidiano",
+  "source_type": "competitor",
+  "original_url": "https://www.ilfattoquotidiano.it/2026/04/01/antitrust-avvia-unistruttoria-contro-sephora-benefit-e-lvmh-strategia-di-marketing-insidiosa-per-spingere-bambini-e-adolescenti-allacquisto-compulsivo-di-cosmetici/8341629/",
+  "related": [
+    {
+      "title": "Rendimenti Btp decennale in calo al 3,76%, effetto Lagarde",
+      "url": "/economia/rendimenti-in-calo-decennale-italiano-a-376-spread-576b28759924c09f",
+      "id": "576b28759924c09f",
+      "image_url": "",
+      "image_type": "none"
+    },
+    {
+      "title": "Arrestato capo di gabinetto del sindaco di Benevento per concussione",
+      "url": "/economia/capo-di-gabinetto-del-sindaco-di-benevento-arresta-40efef87c5447896",
+      "id": "40efef87c5447896",
+      "image_url": "https://images.pexels.com/photos/35854928/pexels-photo-35854928.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
+    },
+    {
+      "title": "Milano, impiegato truffato su WhatsApp: 60.000 euro persi per un volo mai arrivato",
+      "url": "/economia/truffa-booking-via-whatsapp-con-dati-sensibili-0476eb1feeda300e",
+      "id": "0476eb1feeda300e",
+      "image_url": "https://images.unsplash.com/photo-1735302615900-ae781b356418?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHw2MC4wMDAlMjBldXJvfGVufDB8MHx8fDE3NzUwMzM5MDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    }
+  ]
+}
