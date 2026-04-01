@@ -1,0 +1,56 @@
+{
+  "id": "2a5a32e0e8e71568",
+  "slug": "paolo-dachille-litaliano-standard-in-declino-2a5a32e0e8e71568",
+  "title": "Paolo D'Achille: l'italiano standard in declino",
+  "titles": [
+    "Paolo D'Achille: l'italiano standard in declino",
+    "L'Accademia della Crusca lancia l'allarme: solo il 42% degli under 35 legge un libro all'anno",
+    "La lingua italiana rischia di diventare un dialetto tra tanti: l'appello della Crusca ignorato"
+  ],
+  "title_winner": null,
+  "section": "cronaca",
+  "occhiello": "CRUSCA: \"L'ITALIANO RISCHIA DI DIVENTARE UN DIALETTO\"",
+  "lead": "Paolo D'Achille, presidente dell'Accademia della Crusca, ha lanciato un allarme sul futuro della lingua Italiana durante un intervento pubblico il 1° aprile 2026. \"Non esploderà, non crollerà all'improvviso. Se l'italiano dovesse davvero finire, lo farà in silenzio\", ha detto citando T.S. Eliot. Il processo di \"destandardizzazione\" della lingua è già in corso, avverte l'istituzione che dal 1583 custodisce il patrimonio linguistico nazionale.",
+  "corpo1": "Il fenomeno che preoccupa gli accademici è la progressiva frammentazione dell'italiano in varianti regionali e gergali, con una perdita di unità e prestigio. \"Rischia di diventare un dialetto tra tanti\", ha spiegato D'Achille, sottolineando come l'italiano standard stia perdendo terreno sia nell'uso quotidiano che nelle istituzioni. L'Accademia registra da anni l'avanzata di anglicismi non necessari, errori grammaticali sistematici nei media e un calo delle competenze linguistiche tra i giovani. I dati più recenti dell'Istat mostrano che solo il 42% degli under 35 legge almeno un libro all'anno, mentre il 68% ammette di avere difficoltà con la comprensione di testi complessi. La Crusca invoca interventi urgenti nel sistema scolastico e nei mezzi di comunicazione di massa, ma finora le richieste sono cadute nel vuoto.",
+  "corpo2": "Non è la prima volta che l'Accademia suona l'allarme. Già nel 2023 aveva denunciato l'abbandono dell'italiano nei documenti ufficiali dell'Unione Europea, sostituito sistematicamente dall'inglese. La differenza è che ora il fenomeno riguarda l'uso interno al paese. Per capire la posta in gioco basta un dato: degli oltre 7.000 lingue parlate nel mondo, solo 200 hanno uno status di lingua ufficiale e letteraria. L'italiano è tra queste da sette secoli, ma il suo dominio si sta erodendo a vantaggio di un plurilinguismo superficiale dove nessuna variante ha più autorevolezza. La Crusca propone un piano nazionale per la lingua, ma il ministero dell'istruzione non ha ancora stanziato fondi. Intanto le case editrici tagliano i correttori di bozze, i telegiornali semplificano il lessico e i docenti universitari accettano tesi scritte in un italiano approssimativo. La fine della lingua, se arriverà, non sarà un evento ma un processo già visibile a chi non vuole fingere di non vederlo.",
+  "journalist": {
+    "id": "roberto_neri_01",
+    "firma": "Roberto Neri",
+    "sezione": "cronaca"
+  },
+  "published_at": "2026-04-01T08:55:19.364688+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/01/italiano.png",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Paolo D'Achille: l'italiano standard in declino\",\n  \"description\": \"Paolo D'Achille, presidente dell'Accademia della Crusca, ha lanciato un allarme sul futuro della lingua Italiana durante un intervento pubblico il 1° aprile 2026. \\\"Non esploderà, non crollerà all'improvviso. Se l'italiano dovesse davvero finire, lo farà in silenzio\\\", ha detto citando T.S. Eliot. Il \",\n  \"articleBody\": \"Paolo D'Achille, presidente dell'Accademia della Crusca, ha lanciato un allarme sul futuro della lingua Italiana durante un intervento pubblico il 1° aprile 2026. \\\"Non esploderà, non crollerà all'improvviso. Se l'italiano dovesse davvero finire, lo farà in silenzio\\\", ha detto citando T.S. Eliot. Il processo di \\\"destandardizzazione\\\" della lingua è già in corso, avverte l'istituzione che dal 1583 custodisce il patrimonio linguistico nazionale. Il fenomeno che preoccupa gli accademici è la progressiva frammentazione dell'italiano in varianti regionali e gergali, con una perdita di unità e prestigio. \\\"Rischia di diventare un dialetto tra tanti\\\", ha spiegato D'Achille, sottolineando come l'italiano standard stia perdendo terreno sia nell'uso quotidiano che nelle istituzioni. L'Accademia registra da anni l'avanzata di anglicismi non necessari, errori grammaticali sistematici nei media e un calo delle competenze linguistiche tra i giovani. I dati più recenti dell'Istat mostrano che solo il 42% degli under 35 legge almeno un libro all'anno, mentre il 68% ammette di avere difficoltà con la comprensione di testi complessi. La Crusca invoca interventi urgenti nel sistema scolastico e nei mezzi di comunicazione di massa, ma finora le richieste sono cadute nel vuoto. Non è la prima volta che l'Accademia suona l'allarme. Già nel 2023 aveva denunciato l'abbandono dell'italiano nei documenti ufficiali dell'Unione Europea, sostituito sistematicamente dall'inglese. La differenza è che ora il fenomeno riguarda l'uso interno al paese. Per capire la posta in gioco basta un dato: degli oltre 7.000 lingue parlate nel mondo, solo 200 hanno uno status di lingua ufficiale e letteraria. L'italiano è tra queste da sette secoli, ma il suo dominio si sta erodendo a vantaggio di un plurilinguismo superficiale dove nessuna variante ha più autorevolezza. La Crusca propone un piano nazionale per la lingua, ma il ministero dell'istruzione non ha ancora stanziato fondi. Intanto le case editrici tagliano i correttori di bozze, i telegiornali semplificano il lessico e i docenti universitari accettano tesi scritte in un italiano approssimativo. La fine della lingua, se arriverà, non sarà un evento ma un processo già visibile a chi non vuole fingere di non vederlo.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Roberto Neri\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-01T08:55:19.364688+00:00\",\n  \"dateModified\": \"2026-04-01T08:55:19.364688+00:00\",\n  \"url\": \"https://lentemattutina.it/cronaca/2a5a32e0e8e71568\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cronaca/2a5a32e0e8e71568\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/01/italiano.png\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 6,
+  "source": "Il Fatto Quotidiano",
+  "source_type": "competitor",
+  "original_url": "https://www.ilfattoquotidiano.it/2026/04/01/rischia-di-diventare-un-dialetto-il-futuro-dellitaliano-e-a-rischio-secondo-laccademia-della-crusca/8342231/",
+  "related": [
+    {
+      "title": "Federica Pellegrini annuncia seconda gravidanza con foto ritoccata su Instagram",
+      "url": "/cronaca/critiche-al-post-gravidanza-per-pellegrini-lei-rep-7c4e1d365f19762a",
+      "id": "7c4e1d365f19762a",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/20090723_anek_olympic48.jpg",
+      "image_type": "wikimedia"
+    },
+    {
+      "title": "90% dei turisti ammette comportamenti impulsivi in viaggio",
+      "url": "/cronaca/il-90-dei-turisti-ammette-in-vacanza-faccio-cio-ch-2fc5dfa238bbcf2a",
+      "id": "2fc5dfa238bbcf2a",
+      "image_url": "https://images.unsplash.com/photo-1697179229451-bc8a31ebcd0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHx0dXJpc3RpJTIwc2luZHJvbWUlMjBkZWwlMjB0dXJpc3RhfGVufDB8MHx8fDE3NzUwMzMzMDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Zampolli querela Fedez e Mr. Marra: 5 milioni per diffamazione",
+      "url": "/cronaca/zampolli-chiede-5-milioni-a-fedez-e-mr-marra-per-d-65d8ca6d4f83de9d",
+      "id": "65d8ca6d4f83de9d",
+      "image_url": "https://images.unsplash.com/photo-1731594700577-3ef49b4c20c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxpdGFsaWFuJTIwcG9kY2FzdCUyMGhvc3RzJTIwZGVmYW1hdGlvbiUyMGNhc2V8ZW58MHwwfHx8MTc3NTAzMzI2NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    }
+  ]
+}
