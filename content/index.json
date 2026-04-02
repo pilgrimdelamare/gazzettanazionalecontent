@@ -1,5 +1,23 @@
 [
   {
+    "id": "0d7223c22e99950c",
+    "slug": "droni-ucraini-colpiscono-raffineria-russa-1-morto-0d7223c22e99950c",
+    "title": "Un drone ucraino colpisce raffineria russa a Dnipro, un morto e due feriti",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-02T09:48:47.388957+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/33694004/pexels-photo-33694004.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "RAFFINERIA DNIPRO COLPITA: 1 MORTO, 2 FERITI",
+    "lead_preview": "Dnipro, 2 aprile 2026. Un drone ucraino ha colpito una raffineria nella regione russa di Dnipro causando un morto e due ",
+    "tags": [
+      "drone ucraino dnepr",
+      "raffineria dnepr colpita",
+      "attacco dnepr 2026"
+    ]
+  },
+  {
     "id": "3d163fc278b295fb",
     "slug": "michele-uva-lascia-il-ruolo-di-direttore-esecutivo-3d163fc278b295fb",
     "title": "Michele Uva lascia la guida di Euro 2032-Italy il 2 aprile 2026",
@@ -646,24 +664,6 @@
       "trump nato",
       "uscita nato",
       "crisi nato"
-    ]
-  },
-  {
-    "id": "0d7223c22e99950c",
-    "slug": "droni-ucraini-colpiscono-raffineria-russa-1-morto-0d7223c22e99950c",
-    "title": "Droni ucraini colpiscono raffineria russa: 1 morto",
-    "section": "esteri",
-    "priority": 7,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-02T09:48:47.388957+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/02/004818300-9852eaec-e305-44ef-920f-31ed5a982ac1.jpg",
-    "occhiello": "DRONI UCRAINI COLPISCONO RAFFINERIA RUSSA. TRATTENUTE ARMI A KIEV",
-    "lead_preview": "Droni ucraini hanno colpito una raffineria nella regione russa di Dnipro il 2 aprile 2026, causando un morto e due ferit",
-    "tags": [
-      "guerra ucraina",
-      "droni ucraini",
-      "raffineria russa"
     ]
   },
   {
