@@ -1,29 +1,32 @@
 {
   "id": "c6035febe8f7aaa0",
   "slug": "giorgia-meloni-smontata-lequazione-legge-elettoral-c6035febe8f7aaa0",
-  "title": "Meloni: 'Riforma elettorale per stabilità', ma i dati smentiscono",
+  "title": "Giorgia Meloni: la riforma elettorale è la chiave per la stabilità di governo",
   "titles": [
-    "Meloni: 'Riforma elettorale per stabilità', ma i dati smentiscono",
-    "Governi italiani, durata media invariata dal 1948: 1,4-1,7 anni",
-    "40 miliardi spesi, bollette ancora care: Bonelli attacca Meloni"
+    "Giorgia Meloni: la riforma elettorale è la chiave per la stabilità di governo",
+    "Meloni si affida alla legge elettorale per affrontare l'emergenza",
+    "Giorgia Meloni, a chi serve la riforma elettorale per evitare la crisi politica"
   ],
   "title_winner": null,
   "section": "politica",
-  "occhiello": "MELONI PROMUOVE LA RIFORMA ELETTORALE: I DATI DAL 1948 LA SBUFALANO",
-  "lead": "Giorgia Meloni ha indicato nella riforma elettorale la chiave per garantire la stabilità di governo durante un intervento pubblico il 1° aprile 2026. Peccato che i dati storici dimostrino come nessun sistema elettorale italiano abbia mai garantito per sé una maggiore durata degli esecutivi.",
-  "corpo1": "La presidente del Consiglio ha sostenuto che \"senza un nuovo sistema di voto, l'Italia continuerà a essere ostaggio dell'instabilità, e Meloni continuerà a giocare con le regole\", riprendendo un tema caro alla sua campagna elettorale del 2022. Ma un fact-checking di Repubblica mostra come dal 1948 a oggi la durata Media dei governi sia rimasta sostanzialmente invariata a prescindere dal sistema elettorale: 1,4 anni con il proporzionale puro (1948-1993), 1,5 con il Mattarellum (1993-2005), 1,3 con il Porcellum (2005-2013) e 1,7 con l'Italicum (2015-2017). L'unica eccezione è l'attuale Rosatellum, sotto cui il governo Meloni ha superato i tre anni di vita, ma si tratta del primo esecutivo dal 2011 a non essere nato da una crisi parlamentare. Intanto, il leader dei Verdi Angelo Bonelli ha attaccato la premier sull'altro fronte: \"La sua Politica energetica è un disastro, in 4 anni ha speso 40 miliardi di euro di soldi pubblici per contenere il prezzo delle bollette, che restano le più care d'Europa\".",
-  "corpo2": "Non è la prima volta che un leader politico prova a vendere la riforma elettorale come panacea per la stabilità. Silvio Berlusconi ci provò col Porcellum, Matteo Renzi con l'Italicum: entrambi i sistemi furono bocciati dalla Corte Costituzionale. La differenza è che Meloni, a differenza dei suoi predecessori, ha dalla sua un governo di legislatura, il che rende più stridente la contraddizione tra i Fatti e la sua retorica. La verità è che la durata dei governi italiani dipende più dagli equilibri interni ai partiti che dalle regole Elettorali: il record di longevità spetta ancora al primo governo Andreotti (1976-1978), nato sotto un proporzionale puro ma sostenuto dalla \"solidarietà Nazionale\". Quanto alle bollette, Bonelli dimentica di ricordare che la dipendenza energetica Italiana era un'emergenza già prima del 2022: Meloni l'ha ereditata, non creata. Ma la verità scomoda è che dopo quattro anni di governo, i conti in sospeso con gli elettori si fanno sempre più numerosi, e la riforma elettorale serve soprattutto a spostare l'attenzione altrove. L'ennesimo tentativo di riscrivere le regole del gioco per nascondere che il gioco, semplicemente, non funziona.",
+  "occhiello": "MELONI: \"RIFORMA ELETTORALE PER STABILITÀ\"",
+  "lead": "Giorgia Meloni ha indicato nella riforma elettorale la chiave per garantire la stabilità di governo durante l'intervento di emergenza. Secondo la fonte, la premier ha espresso tale punto di vista il 1° aprile 2026.",
+  "corpo1": "La maggioranza vuole cambiare la legge elettorale per garantire la governabilità, ma è davvero così?. Ma è davvero così? Il dibattito sulla legge elettorale in Italia è un circolo vizioso: torna sempre, ma non guarda ai dati, e quasi mai guarda ai dati. Una legge elettorale deve garantire rappresentatività dell'elettorato e – secondo una tendenza molto in voga nella Seconda Repubblica – anche governabilità. Come la deputata FdI Ylenia Lucaselli, che oggi ha dichiarato: \"La riforma elettorale è vista come la chiave per garantire la stabilità di governo, ma è davvero così?\". Secondo ANSA, la premier Giorgia Meloni ha espresso il suo punto di vista il 1° aprile 2026, in un contesto in cui la maggioranza si trova a dover affrontare un intervento di emergenza. La fonte riferisce che Meloni abbia indicato la riforma elettorale come lo strumento necessario per garantire la governabilità, anche in momenti di crisi Politica.",
+  "corpo2": "I dati smentiscono la tesi della maggioranza. Secondo un fact-checking recente pubblicato sulla Repubblica, la legge elettorale non può garantire la governabilità, la legge elettorale non può garantire la governabilità. Infatti, la legislatura attuale ha visto una legislatura record di governi e di cambiamenti di governo. La riforma elettorale potrebbe essere solo un modo per nascondere la mancanza di stabilità e governabilità. Inoltre, la riforma elettorale non risolverebbe i problemi di fondo della Politica italiana, come la corruzione e la lottizzazione dei posti di potere. I cittadini italiani pagheranno ancora una volta la Politica italiana, che si trascinerà in una crisi senza fine.",
   "journalist": {
-    "id": "elena_russo_01",
-    "firma": "Elena Russo",
+    "id": "sergio_mancini_01",
+    "firma": "Sergio Mancini",
     "sezione": "politica"
   },
   "published_at": "2026-04-01T07:04:48.554660+00:00",
   "image": {
-    "type": "none",
-    "source": ""
+    "type": "wikimedia",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Giorgia_Meloni_2019.jpg",
+    "source": "Wikimedia Commons",
+    "credit": "Presidenza della Repubblica",
+    "license": "CC"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Meloni: 'Riforma elettorale per stabilità', ma i dati smentiscono\",\n  \"description\": \"Giorgia Meloni ha indicato nella riforma elettorale la chiave per garantire la stabilità di governo durante un intervento pubblico il 1° aprile 2026. Peccato che i dati storici dimostrino come nessun sistema elettorale italiano abbia mai garantito per sé una maggiore durata degli esecutivi.\",\n  \"articleBody\": \"Giorgia Meloni ha indicato nella riforma elettorale la chiave per garantire la stabilità di governo durante un intervento pubblico il 1° aprile 2026. Peccato che i dati storici dimostrino come nessun sistema elettorale italiano abbia mai garantito per sé una maggiore durata degli esecutivi. La presidente del Consiglio ha sostenuto che \\\"senza un nuovo sistema di voto, l'Italia continuerà a essere ostaggio dell'instabilità, e Meloni continuerà a giocare con le regole\\\", riprendendo un tema caro alla sua campagna elettorale del 2022. Ma un fact-checking di Repubblica mostra come dal 1948 a oggi la durata Media dei governi sia rimasta sostanzialmente invariata a prescindere dal sistema elettorale: 1,4 anni con il proporzionale puro (1948-1993), 1,5 con il Mattarellum (1993-2005), 1,3 con il Porcellum (2005-2013) e 1,7 con l'Italicum (2015-2017). L'unica eccezione è l'attuale Rosatellum, sotto cui il governo Meloni ha superato i tre anni di vita, ma si tratta del primo esecutivo dal 2011 a non essere nato da una crisi parlamentare. Intanto, il leader dei Verdi Angelo Bonelli ha attaccato la premier sull'altro fronte: \\\"La sua Politica energetica è un disastro, in 4 anni ha speso 40 miliardi di euro di soldi pubblici per contenere il prezzo delle bollette, che restano le più care d'Europa\\\". Non è la prima volta che un leader politico prova a vendere la riforma elettorale come panacea per la stabilità. Silvio Berlusconi ci provò col Porcellum, Matteo Renzi con l'Italicum: entrambi i sistemi furono bocciati dalla Corte Costituzionale. La differenza è che Meloni, a differenza dei suoi predecessori, ha dalla sua un governo di legislatura, il che rende più stridente la contraddizione tra i Fatti e la sua retorica. La verità è che la durata dei governi italiani dipende più dagli equilibri interni ai partiti che dalle regole Elettorali: il record di longevità spetta ancora al primo governo Andreotti (1976-1978), nato sotto un proporzionale puro ma sostenuto dalla \\\"solidarietà Nazionale\\\". Quanto alle bollette, Bonelli dimentica di ricordare che la dipendenza energetica Italiana era un'emergenza già prima del 2022: Meloni l'ha ereditata, non creata. Ma la verità scomoda è che dopo quattro anni di governo, i conti in sospeso con gli elettori si fanno sempre più numerosi, e la riforma elettorale serve soprattutto a spostare l'attenzione altrove. L'ennesimo tentativo di riscrivere le regole del gioco per nascondere che il gioco, semplicemente, non funziona.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Elena Russo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-01T07:04:48.554660+00:00\",\n  \"dateModified\": \"2026-04-01T07:04:48.554660+00:00\",\n  \"url\": \"https://lentemattutina.it/politica/c6035febe8f7aaa0\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/politica/c6035febe8f7aaa0\"\n  },\n  \"articleSection\": \"Politica\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Giorgia Meloni: la riforma elettorale è la chiave per la stabilità di governo\",\n  \"description\": \"Giorgia Meloni ha indicato nella riforma elettorale la chiave per garantire la stabilità di governo durante l'intervento di emergenza. Secondo la fonte, la premier ha espresso tale punto di vista il 1° aprile 2026.\",\n  \"articleBody\": \"Giorgia Meloni ha indicato nella riforma elettorale la chiave per garantire la stabilità di governo durante l'intervento di emergenza. Secondo la fonte, la premier ha espresso tale punto di vista il 1° aprile 2026. La maggioranza vuole cambiare la legge elettorale per garantire la governabilità, ma è davvero così?. Ma è davvero così? Il dibattito sulla legge elettorale in Italia è un circolo vizioso: torna sempre, ma non guarda ai dati, e quasi mai guarda ai dati. Una legge elettorale deve garantire rappresentatività dell'elettorato e – secondo una tendenza molto in voga nella Seconda Repubblica – anche governabilità. Come la deputata FdI Ylenia Lucaselli, che oggi ha dichiarato: \\\"La riforma elettorale è vista come la chiave per garantire la stabilità di governo, ma è davvero così?\\\". Secondo ANSA, la premier Giorgia Meloni ha espresso il suo punto di vista il 1° aprile 2026, in un contesto in cui la maggioranza si trova a dover affrontare un intervento di emergenza. La fonte riferisce che Meloni abbia indicato la riforma elettorale come lo strumento necessario per garantire la governabilità, anche in momenti di crisi Politica. I dati smentiscono la tesi della maggioranza. Secondo un fact-checking recente pubblicato sulla Repubblica, la legge elettorale non può garantire la governabilità, la legge elettorale non può garantire la governabilità. Infatti, la legislatura attuale ha visto una legislatura record di governi e di cambiamenti di governo. La riforma elettorale potrebbe essere solo un modo per nascondere la mancanza di stabilità e governabilità. Inoltre, la riforma elettorale non risolverebbe i problemi di fondo della Politica italiana, come la corruzione e la lottizzazione dei posti di potere. I cittadini italiani pagheranno ancora una volta la Politica italiana, che si trascinerà in una crisi senza fine.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Sergio Mancini\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-01T07:04:48.554660+00:00\",\n  \"dateModified\": \"2026-04-01T07:04:48.554660+00:00\",\n  \"url\": \"https://lentemattutina.it/politica/c6035febe8f7aaa0\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/politica/c6035febe8f7aaa0\"\n  },\n  \"articleSection\": \"Politica\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://upload.wikimedia.org/wikipedia/commons/4/47/Giorgia_Meloni_2019.jpg\",\n    \"creditText\": \"Presidenza della Repubblica\"\n  }\n}",
   "priority": 5,
   "source": "refresh",
   "source_type": "refresh",
@@ -37,18 +40,18 @@
       "image_type": "none"
     },
     {
-      "title": "Meloni spara messaggi di mezzanotte su WhatsApp in piena crisi",
-      "url": "/politica/meloni-sotto-fuoco-per-messaggi-a-mezzanotte-su-wh-5325f4c7421314cb",
-      "id": "5325f4c7421314cb",
-      "image_url": "https://live.staticflickr.com/65535/55154761972_f2e5042d05_b.jpg",
-      "image_type": "flickr"
+      "title": "Meloni ha avvisato Piantedosi: rimpasto in vista a Palazzo Chigi",
+      "url": "/politica/meloni-ha-avvisato-piantedosi-rimpasto-in-vista-a-ebba70e492353acc",
+      "id": "ebba70e492353acc",
+      "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/01/231532592-000cc638-ada8-4e44-b29f-54ce9d1f9e72.jpg",
+      "image_type": "image"
     },
     {
-      "title": "Camera, dibattito sulla legge elettorale: maggioranza divisa",
-      "url": "/politica/i-vicepremier-del-governo-bocciano-la-proposta-del-f689f13603b09c10",
-      "id": "f689f13603b09c10",
-      "image_url": "",
-      "image_type": "none"
+      "title": "Appendino attacca: 'Governo saccheggia gli italiani con le bollette'",
+      "url": "/politica/appendino-m5s-in-aula-il-1-apr-2026-governo-da-cac-4e94e1a9ec933fae",
+      "id": "4e94e1a9ec933fae",
+      "image_url": "https://media.snl.no/media/250083/standard_chiara-appendino.jpg",
+      "image_type": "ddg_image"
     }
   ],
   "updated_at": "2026-04-01T07:04:48.554660+00:00"
