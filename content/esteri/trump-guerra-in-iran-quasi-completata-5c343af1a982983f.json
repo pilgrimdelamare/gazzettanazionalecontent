@@ -4,15 +4,15 @@
   "title": "Trump: guerra in Iran quasi completata",
   "titles": [
     "Trump: guerra in Iran quasi completata",
-    "Guerra in Iran: Trump punta su successo",
-    "Iran, Trump: obiettivi a portata di mano"
+    "Gradimento Trump scende al 33%",
+    "Corte Suprema Usa apre a terapie anti-Lgbt"
   ],
   "title_winner": null,
   "section": "esteri",
-  "occhiello": "TRUMP: \"LA GUERRA IN IRAN STA PER FINIRE\"",
-  "lead": "Donald Trump ha dichiarato mercoledì sera che la guerra in Iran è \"quasi completata\" nonostante la spirale di conflitti che ha causato turbolenze economiche a livello globale e ha eroso il suo indice di gradimento.",
-  "corpo1": "In un discorso alla nazione dalla Casa Bianca, Trump ha affermato che la guerra in Iran, iniziata un mese fa, è stata un successo e che gli Stati Uniti hanno tutte le carte in mano, confermando la sua strategia aggressiva. Il presidente ha anche dichiarato che la sua amministrazione è vicina a raggiungere i suoi obiettivi in Iran, ma non ha fornito molti dettagli sul piano per ridurre il conflitto. La guerra in Iran ha causato problemi economici in tutto il mondo e ha messo a rischio le alleanze transatlantiche. Secondo il Guardian, il discorso di Trump è stato trasmesso in diretta tv mercoledì sera e ha rappresentato un tentativo di rafforzare il suo indice di gradimento, che è sceso a causa della guerra, un problema che Trump cerca di risolvere con la sua retorica. Il presidente ha anche affermato che la sua \"piccola escursione\" in Iran è stata un successo e che gli stati uniti hanno ottenuto molti risultati.",
-  "corpo2": "Donald Trump è un politico e imprenditore statunitense che è stato eletto 47º presidente degli stati uniti d'america nel 2025. In precedenza, era stato il 45º presidente degli stati uniti d'america dal 2017 al 2021. La sua politica estera è stata caratterizzata da un approccio aggressivo e nazionalista, che ha portato a tensioni con molti paesi, compresa l'Iran. La guerra in Iran è solo l'ultimo esempio di questo approccio, che ha causato problemi economici e umanitari in tutto il mondo. Il fatto che Trump abbia dichiarato che la guerra è quasi completata significa che la sua amministrazione sta cercando di trovare una via d'uscita da una situazione che sta diventando sempre più difficile da gestire, con gravi conseguenze per l'economia globale. A pagare il prezzo di questa guerra saranno, come sempre, i civili iraniani e le economie dei paesi che dipendono dalle esportazioni di petrolio della regione.",
+  "occhiello": "TRUMP: GUERRA IN IRAN \"QUASI COMPLETATA\"",
+  "lead": "Mercoledì sera, il presidente degli Stati Uniti d'America, Donald Trump, ha dichiarato che la guerra in Iran è \"quasi completata\", nonostante la spirale di conflitti in corso.",
+  "corpo1": "Secondo quanto riportato, Trump ha affermato che la guerra è un \"investimento per il futuro\" dell'America e ha chiesto agli americani di avere pazienza. Nel frattempo, gli europei stanno accelerando gli sforzi per riaprire il Golfo Persico, con un vertice dei Volenterosi in programma a Londra, dove i ministri di 35 paesi si sono riuniti per discutere la situazione. La giornalista libanese-americana Kim Ghattas ha affermato che Trump è \"in guerra senza un piano\" e che gli ayatollah non capitoleranno facilmente. Intanto, la Corte Suprema Usa ha aperto alle terapie anti-Lgbt, mentre il gradimento di Trump nei sondaggi è sceso al 33% a causa della guerra in Iran e del caso Epstein.",
+  "corpo2": "Donald Trump, 47º Presidente degli Stati Uniti d'America, è noto per le sue posizioni divisive e le sue scelte di Politica estera spesso critiche. In passato, ha già dimostrato di essere disposto a prendere decisioni unilaterali, come la decisione di ritirare gli Stati Uniti dall'accordo nucleare con l'Iran. La sua dichiarazione sulla guerra in Iran \"quasi completata\" è solo l'ultima di una Serie di mosse che hanno creato tensioni con gli alleati europei e hanno aumentato la pressione sul governo iraniano. Il meccanismo strutturale che spiega questa notizia è la volontà di Trump di affermare la propria influenza sulla scena mondiale, anche a costo di creare conflitti e tensioni. Cosa cambia davvero in questa vicenda è che gli Stati Uniti stanno sempre più isolandosi dai propri alleati e che la guerra in Iran potrebbe avere conseguenze a lungo termine per la stabilità del Medio Oriente, e a pagare il prezzo più alto saranno i cittadini iraniani e gli americani che hanno già iniziato a sentire gli effetti economici del conflitto.",
   "journalist": {
     "id": "anna_colombo_01",
     "firma": "Anna Colombo",
@@ -20,16 +20,17 @@
   },
   "published_at": "2026-04-02T02:57:33.061570+00:00",
   "image": {
-    "type": "image",
-    "url": "https://i.guim.co.uk/img/media/a824f75b9b2844460d05da9c06e390171eabfb0b/385_0_3851_3081/master/3851.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9003f737134c7545a3f08dfd7d3d8d1d",
-    "credit": "",
-    "source": "original"
+    "type": "unsplash",
+    "url": "https://images.unsplash.com/photo-1770985273494-da55a36b8095?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHx3YXIlMjBpbiUyMElyYW58ZW58MHwwfHx8MTc3NTEwNzc3N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "source": "Unsplash",
+    "credit": "Saifee Art",
+    "license": "Unsplash License"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Trump: guerra in Iran quasi completata\",\n  \"description\": \"Donald Trump ha dichiarato mercoledì sera che la guerra in Iran è \\\"quasi completata\\\" nonostante la spirale di conflitti che ha causato turbolenze economiche a livello globale e ha eroso il suo indice di gradimento.\",\n  \"articleBody\": \"Donald Trump ha dichiarato mercoledì sera che la guerra in Iran è \\\"quasi completata\\\" nonostante la spirale di conflitti che ha causato turbolenze economiche a livello globale e ha eroso il suo indice di gradimento. In un discorso alla nazione dalla Casa Bianca, Trump ha affermato che la guerra in Iran, iniziata un mese fa, è stata un successo e che gli Stati Uniti hanno tutte le carte in mano, confermando la sua strategia aggressiva. Il presidente ha anche dichiarato che la sua amministrazione è vicina a raggiungere i suoi obiettivi in Iran, ma non ha fornito molti dettagli sul piano per ridurre il conflitto. La guerra in Iran ha causato problemi economici in tutto il mondo e ha messo a rischio le alleanze transatlantiche. Secondo il Guardian, il discorso di Trump è stato trasmesso in diretta tv mercoledì sera e ha rappresentato un tentativo di rafforzare il suo indice di gradimento, che è sceso a causa della guerra, un problema che Trump cerca di risolvere con la sua retorica. Il presidente ha anche affermato che la sua \\\"piccola escursione\\\" in Iran è stata un successo e che gli stati uniti hanno ottenuto molti risultati. Donald Trump è un politico e imprenditore statunitense che è stato eletto 47º presidente degli stati uniti d'america nel 2025. In precedenza, era stato il 45º presidente degli stati uniti d'america dal 2017 al 2021. La sua politica estera è stata caratterizzata da un approccio aggressivo e nazionalista, che ha portato a tensioni con molti paesi, compresa l'Iran. La guerra in Iran è solo l'ultimo esempio di questo approccio, che ha causato problemi economici e umanitari in tutto il mondo. Il fatto che Trump abbia dichiarato che la guerra è quasi completata significa che la sua amministrazione sta cercando di trovare una via d'uscita da una situazione che sta diventando sempre più difficile da gestire, con gravi conseguenze per l'economia globale. A pagare il prezzo di questa guerra saranno, come sempre, i civili iraniani e le economie dei paesi che dipendono dalle esportazioni di petrolio della regione.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-02T02:57:33.061570+00:00\",\n  \"dateModified\": \"2026-04-02T02:57:33.061570+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/5c343af1a982983f\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/5c343af1a982983f\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://i.guim.co.uk/img/media/a824f75b9b2844460d05da9c06e390171eabfb0b/385_0_3851_3081/master/3851.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9003f737134c7545a3f08dfd7d3d8d1d\",\n    \"creditText\": \"\"\n  }\n}",
-  "priority": 3,
-  "source": "The Guardian",
-  "source_type": "esteri",
-  "original_url": "https://www.theguardian.com/us-news/2026/apr/01/trump-iran-war-address-white-house",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Trump: guerra in Iran quasi completata\",\n  \"description\": \"Mercoledì sera, il presidente degli Stati Uniti d'America, Donald Trump, ha dichiarato che la guerra in Iran è \\\"quasi completata\\\", nonostante la spirale di conflitti in corso.\",\n  \"articleBody\": \"Mercoledì sera, il presidente degli Stati Uniti d'America, Donald Trump, ha dichiarato che la guerra in Iran è \\\"quasi completata\\\", nonostante la spirale di conflitti in corso. Secondo quanto riportato, Trump ha affermato che la guerra è un \\\"investimento per il futuro\\\" dell'America e ha chiesto agli americani di avere pazienza. Nel frattempo, gli europei stanno accelerando gli sforzi per riaprire il Golfo Persico, con un vertice dei Volenterosi in programma a Londra, dove i ministri di 35 paesi si sono riuniti per discutere la situazione. La giornalista libanese-americana Kim Ghattas ha affermato che Trump è \\\"in guerra senza un piano\\\" e che gli ayatollah non capitoleranno facilmente. Intanto, la Corte Suprema Usa ha aperto alle terapie anti-Lgbt, mentre il gradimento di Trump nei sondaggi è sceso al 33% a causa della guerra in Iran e del caso Epstein. Donald Trump, 47º Presidente degli Stati Uniti d'America, è noto per le sue posizioni divisive e le sue scelte di Politica estera spesso critiche. In passato, ha già dimostrato di essere disposto a prendere decisioni unilaterali, come la decisione di ritirare gli Stati Uniti dall'accordo nucleare con l'Iran. La sua dichiarazione sulla guerra in Iran \\\"quasi completata\\\" è solo l'ultima di una Serie di mosse che hanno creato tensioni con gli alleati europei e hanno aumentato la pressione sul governo iraniano. Il meccanismo strutturale che spiega questa notizia è la volontà di Trump di affermare la propria influenza sulla scena mondiale, anche a costo di creare conflitti e tensioni. Cosa cambia davvero in questa vicenda è che gli Stati Uniti stanno sempre più isolandosi dai propri alleati e che la guerra in Iran potrebbe avere conseguenze a lungo termine per la stabilità del Medio Oriente, e a pagare il prezzo più alto saranno i cittadini iraniani e gli americani che hanno già iniziato a sentire gli effetti economici del conflitto.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-02T02:57:33.061570+00:00\",\n  \"dateModified\": \"2026-04-02T02:57:33.061570+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/5c343af1a982983f\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/5c343af1a982983f\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1770985273494-da55a36b8095?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHx3YXIlMjBpbiUyMElyYW58ZW58MHwwfHx8MTc3NTEwNzc3N3ww&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Saifee Art\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://lentemattutina.it/esteri/trump-guerra-in-iran-quasi-completata-5c343af1a982983f",
   "related": [
     {
       "title": "Trump: 'L'Iran chiede il cessate il fuoco, pronti a trattare'",
@@ -39,18 +40,19 @@
       "image_type": "pexels"
     },
     {
-      "title": "Trump minaccia uscita Usa dalla Nato dopo mancato appoggio all'Iran",
-      "url": "/esteri/trump-minaccia-uscita-nato-54630d1ae9dde2be",
-      "id": "54630d1ae9dde2be",
-      "image_url": "https://images.unsplash.com/photo-1743177184806-a625e1e0a312?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxOYXRvJTIwbWlsaXRhcnklMjBmb3JjZXN8ZW58MHwwfHx8MTc3NTA3NDU0MXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "image_type": "unsplash"
-    },
-    {
       "title": "Trump: 'Iran riapra Hormuz o distruggerò impianti'",
       "url": "/esteri/trump-distruggeremo-impianti-elettrici-e-petrolife-a97b7794c5524847",
       "id": "a97b7794c5524847",
       "image_url": "https://live.staticflickr.com/65535/55174573676_2f4e63de26_b.jpg",
       "image_type": "flickr"
+    },
+    {
+      "title": "Iran: no a proposte USA, guerra continua",
+      "url": "/esteri/iran-nessun-negoziato-con-usa-f34b9d2178df81ec",
+      "id": "f34b9d2178df81ec",
+      "image_url": "https://images.unsplash.com/photo-1757916315213-b7254eea4f9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxkaXBsb21hdGljJTIwbWVldGluZyUyMGlyYW58ZW58MHwwfHx8MTc3NDkyMjE5MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
     }
-  ]
+  ],
+  "updated_at": "2026-04-02T02:57:33.061570+00:00"
 }
