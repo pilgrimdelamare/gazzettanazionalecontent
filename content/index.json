@@ -1,5 +1,23 @@
 [
   {
+    "id": "bc519c5b36c0d9d4",
+    "slug": "la-crisi-delle-dating-app-bc519c5b36c0d9d4",
+    "title": "A Londra i giovani usano PowerPoint per presentare amici in cerca d'amore",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-04-02T16:34:16.700055+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1701380135887-6daf8186fccb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxnaW92YW5pJTIwaW5nbGVzaXxlbnwwfDB8fHwxNzc1MTU4OTg5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "LA NOIA DEL DATE: PUB LONDINESI RIVOLUZIONANO IL DATING CON IL POWERPOINT",
+    "lead_preview": "La crisi delle app di incontri sta portando i giovani inglesi a cercare nuove forme di incontro, e uno dei metodi più in",
+    "tags": [
+      "dating con powerpoint",
+      "giovani londra",
+      "crisi app incontri"
+    ]
+  },
+  {
     "id": "21ee60250a92560c",
     "slug": "willie-peyote-protagonista-del-documentario-di-enr-21ee60250a92560c",
     "title": "Willie Peyote protagonista del documentario di Enrico Bisi, al cinema a maggio 2026",
@@ -300,20 +318,6 @@
       "finding harry",
       "dietro le quinte harry potter"
     ]
-  },
-  {
-    "id": "bc519c5b36c0d9d4",
-    "slug": "la-crisi-delle-dating-app-bc519c5b36c0d9d4",
-    "title": "La crisi delle dating app",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-04-02T16:34:16.700055+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/contenthub/img/2026/04/02/182528815-0cb4a8a4-05a2-4bc4-93df-b4f22aa5bf67.jpg",
-    "occhiello": "LA CRISI DELLE DATING APP",
-    "lead_preview": "Londra, 2 aprile 2026: i giovani inglesi hanno scelto di combattere la cosiddetta \"dating fatigue\" con un nuovo metodo",
-    "tags": []
   },
   {
     "id": "fbf3b066d834e7ba",
