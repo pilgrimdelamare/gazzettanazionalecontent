@@ -1,18 +1,18 @@
 {
   "id": "1f5c5355d233c095",
   "slug": "thames-water-creditori-propongono-patto-con-ofwat-1f5c5355d233c095",
-  "title": "Thames Water, 190 mln di sterline di multe saltate fino al 2030",
+  "title": "Thames Water sfugge a nuove multe fino al 2030 grazie all'accordo con Ofwat",
   "titles": [
-    "Thames Water, 190 mln di sterline di multe saltate fino al 2030",
-    "Thames Water, l'accordo con Ofwat: più capitale, meno investimenti",
-    "Thames Water, 14 mld di debiti: la moratoria che salva Londra"
+    "Thames Water sfugge a nuove multe fino al 2030 grazie all'accordo con Ofwat",
+    "Ofwat e Thames Water: patto segreto per evitare sanzioni per 6 anni",
+    "Fino al 2030 niente multe a Thames Water, accordo sulle perdite idriche"
   ],
   "title_winner": null,
   "section": "esteri",
-  "occhiello": "THAMES WATER ESCE DALLE SANZIONI FINO AL 2030",
-  "lead": "Thames Water, il più grande fornitore idrico del Regno Unito, ha raggiunto un accordo preliminare con il regolatore Ofwat per evitare nuove sanzioni fino al 2030. Il Financial Times riporta che l'intesa, in via di finalizzazione dopo mesi di negoziati, permetterebbe alla società di posticipare gli interventi sulle infrastrutture in cambio di maggiori garanzie finanziarie dai creditori.",
-  "corpo1": "L'accordo, secondo fonti citate dal quotidiano britannico, prevede un allentamento degli obblighi di investimento in cambio di un aumento del capitale da parte degli azionisti, tra cui il fondo sovrano canadese Omers e il fondo pensione universitario britannico USS. Thames Water, che serve 15 milioni di clienti nella Greater London e nel sud-est dell'Inghilterra, era sotto esame per il mancato rispetto degli standard di riduzione delle perdite idriche e dei ritardi nella sostituzione delle condotte. Ofwat aveva minacciato multe fino a 190 milioni di sterline per il mancato raggiungimento degli obiettivi fissati nel piano quinquennale 2020-2025. L'azienda, carica di debiti per 14 miliardi di sterline, ha ottenuto una moratoria sui pagamenti delle penali fino alla fine del decennio, a patto di presentare un piano di ristrutturazione del debito entro giugno 2026.",
-  "corpo2": "La vicenda è l'ultimo capitolo di una crisi annunciata. Dal 1989, quando Margaret Thatcher privatizzò il settore idrico, le utility britanniche hanno distribuito 72 miliardi di sterline in dividendi agli azionisti, mentre gli investimenti in infrastrutture arrancavano. Thames Water, in particolare, ha versato 2,7 miliardi tra il 2006 e il 2023, nonostante le condotte perdessero il 24% dell'acqua immessa in rete. Il modello è sempre lo stesso: società con debiti stratosferici, garantiti dalle bollette dei consumatori, che chiedono salvataggi quando gli investimenti differiti diventano emergenze. Ofwat, creato per vigilare sul sistema, finisce per negoziare compromessi al ribasso con aziende troppo grandi per fallire. A pagare saranno i soliti: gli utenti, che già nel 2024 hanno visto un rincaro del 12% sulle tariffe, e i contribuenti, pronti a ripianare i buchi quando lo Stato riporterà in casa il servizio. L'unica certezza è che le perdite idriche continueranno a gocciolare nella stessa misura in cui gocciolano i soldi pubblici.",
+  "occhiello": "PATTO TRA THAMES WATER E OFWAT: NIENTE SANZIONI FINO AL 2030",
+  "lead": "Il Financial Times riporta che Thames Water è a un passo da un accordo con l'Autorità di regolamentazione delle acque (Ofwat) che le permetterebbe di evitare nuove sanzioni. Secondo la fonte, il patto sarebbe stato raggiunto dopo mesi di negoziati. L'accordo prevederebbe di evitare nuove sanzioni fino al 2030. Thames Water, la società privata",
+  "corpo1": "Responsabile della gestione delle acque e delle fognature in gran parte della Londra, del sud-est dell'Inghilterra e della valle del Tamigi, è stata oggetto di numerose critiche per la sua gestione delle acque e delle fognature. L'Autorità di regolamentazione delle acque (Ofwat) ha già imposto sanzioni alla società per la sua gestione inadeguata delle acque e delle fognature. Secondo le fonti, il patto prevederebbe di evitare nuove sanzioni fino",
+  "corpo2": "Al 2030, in cambio di un piano di miglioramento della gestione delle acque e delle fognature. Il piano prevede di investire 17,4 miliardi di sterline nella gestione delle acque e delle fognature entro il 2030. Thames Water ottiene impunità fino al 2030 dopo aver fallito nella gestione delle acque, mentre i cittadini pagheranno il conto.Thames Water è già stata sanzionata in passato per la gestione fallimentare delle acque e delle fognature, ma ora ottiene un salvacondotto.L'accordo prevede di evitare nuove sanzioni fino al 2030 in cambio di un piano di investimenti da 17,4 miliardi di sterline. A pagare saranno ancora una volta i cittadini, mentre Thames Water ottiene protezione dalle sanzioni nonostante i suoi fallimenti gestionali.",
   "journalist": {
     "id": "fabrizio_mei_01",
     "firma": "Fabrizio Mei",
@@ -20,30 +20,23 @@
   },
   "published_at": "2026-04-02T08:23:56.991169+00:00",
   "image": {
-    "type": "unsplash",
-    "url": "https://images.unsplash.com/photo-1581092457781-8524efafa559?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxUaGFtZXMlMjBXYXRlciUyME9md2F0JTIwYWdyZWVtZW50fGVufDB8MHx8fDE3NzUxMjYyODR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "source": "Unsplash",
-    "credit": "ThisisEngineering",
-    "license": "Unsplash License"
+    "type": "flickr",
+    "url": "https://live.staticflickr.com/65535/51827818715_befc40cc19_b.jpg",
+    "source": "Flickr",
+    "credit": "Giancarlo Bruss",
+    "license": "CC"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Thames Water, 190 mln di sterline di multe saltate fino al 2030\",\n  \"description\": \"Thames Water, il più grande fornitore idrico del Regno Unito, ha raggiunto un accordo preliminare con il regolatore Ofwat per evitare nuove sanzioni fino al 2030. Il Financial Times riporta che l'intesa, in via di finalizzazione dopo mesi di negoziati, permetterebbe alla società di posticipare gli i\",\n  \"articleBody\": \"Thames Water, il più grande fornitore idrico del Regno Unito, ha raggiunto un accordo preliminare con il regolatore Ofwat per evitare nuove sanzioni fino al 2030. Il Financial Times riporta che l'intesa, in via di finalizzazione dopo mesi di negoziati, permetterebbe alla società di posticipare gli interventi sulle infrastrutture in cambio di maggiori garanzie finanziarie dai creditori. L'accordo, secondo fonti citate dal quotidiano britannico, prevede un allentamento degli obblighi di investimento in cambio di un aumento del capitale da parte degli azionisti, tra cui il fondo sovrano canadese Omers e il fondo pensione universitario britannico USS. Thames Water, che serve 15 milioni di clienti nella Greater London e nel sud-est dell'Inghilterra, era sotto esame per il mancato rispetto degli standard di riduzione delle perdite idriche e dei ritardi nella sostituzione delle condotte. Ofwat aveva minacciato multe fino a 190 milioni di sterline per il mancato raggiungimento degli obiettivi fissati nel piano quinquennale 2020-2025. L'azienda, carica di debiti per 14 miliardi di sterline, ha ottenuto una moratoria sui pagamenti delle penali fino alla fine del decennio, a patto di presentare un piano di ristrutturazione del debito entro giugno 2026. La vicenda è l'ultimo capitolo di una crisi annunciata. Dal 1989, quando Margaret Thatcher privatizzò il settore idrico, le utility britanniche hanno distribuito 72 miliardi di sterline in dividendi agli azionisti, mentre gli investimenti in infrastrutture arrancavano. Thames Water, in particolare, ha versato 2,7 miliardi tra il 2006 e il 2023, nonostante le condotte perdessero il 24% dell'acqua immessa in rete. Il modello è sempre lo stesso: società con debiti stratosferici, garantiti dalle bollette dei consumatori, che chiedono salvataggi quando gli investimenti differiti diventano emergenze. Ofwat, creato per vigilare sul sistema, finisce per negoziare compromessi al ribasso con aziende troppo grandi per fallire. A pagare saranno i soliti: gli utenti, che già nel 2024 hanno visto un rincaro del 12% sulle tariffe, e i contribuenti, pronti a ripianare i buchi quando lo Stato riporterà in casa il servizio. L'unica certezza è che le perdite idriche continueranno a gocciolare nella stessa misura in cui gocciolano i soldi pubblici.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Fabrizio Mei\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-02T08:23:56.991169+00:00\",\n  \"dateModified\": \"2026-04-02T08:23:56.991169+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/1f5c5355d233c095\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/1f5c5355d233c095\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1581092457781-8524efafa559?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxUaGFtZXMlMjBXYXRlciUyME9md2F0JTIwYWdyZWVtZW50fGVufDB8MHx8fDE3NzUxMjYyODR8MA&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"ThisisEngineering\"\n  }\n}",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Thames Water sfugge a nuove multe fino al 2030 grazie all'accordo con Ofwat\",\n  \"description\": \"Il Financial Times riporta che Thames Water è a un passo da un accordo con l'Autorità di regolamentazione delle acque (Ofwat) che le permetterebbe di evitare nuove sanzioni. Secondo la fonte, il patto sarebbe stato raggiunto dopo mesi di negoziati. L'accordo prevederebbe di evitare nuove sanzioni fi\",\n  \"articleBody\": \"Il Financial Times riporta che Thames Water è a un passo da un accordo con l'Autorità di regolamentazione delle acque (Ofwat) che le permetterebbe di evitare nuove sanzioni. Secondo la fonte, il patto sarebbe stato raggiunto dopo mesi di negoziati. L'accordo prevederebbe di evitare nuove sanzioni fino al 2030. Thames Water, la società privata Responsabile della gestione delle acque e delle fognature in gran parte della Londra, del sud-est dell'Inghilterra e della valle del Tamigi, è stata oggetto di numerose critiche per la sua gestione delle acque e delle fognature. L'Autorità di regolamentazione delle acque (Ofwat) ha già imposto sanzioni alla società per la sua gestione inadeguata delle acque e delle fognature. Secondo le fonti, il patto prevederebbe di evitare nuove sanzioni fino Al 2030, in cambio di un piano di miglioramento della gestione delle acque e delle fognature. Il piano prevede di investire 17,4 miliardi di sterline nella gestione delle acque e delle fognature entro il 2030. Thames Water ottiene impunità fino al 2030 dopo aver fallito nella gestione delle acque, mentre i cittadini pagheranno il conto.Thames Water è già stata sanzionata in passato per la gestione fallimentare delle acque e delle fognature, ma ora ottiene un salvacondotto.L'accordo prevede di evitare nuove sanzioni fino al 2030 in cambio di un piano di investimenti da 17,4 miliardi di sterline. A pagare saranno ancora una volta i cittadini, mentre Thames Water ottiene protezione dalle sanzioni nonostante i suoi fallimenti gestionali.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Fabrizio Mei\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-02T08:23:56.991169+00:00\",\n  \"dateModified\": \"2026-04-02T08:23:56.991169+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/1f5c5355d233c095\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/1f5c5355d233c095\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://live.staticflickr.com/65535/51827818715_befc40cc19_b.jpg\",\n    \"creditText\": \"Giancarlo Bruss\"\n  }\n}",
   "priority": 5,
   "source": "refresh",
   "source_type": "refresh",
   "original_url": "https://lentemattutina.it/esteri/thames-water-creditori-propongono-patto-con-ofwat-1f5c5355d233c095",
   "related": [
     {
-      "title": "17 proprietari bloccati fuori casa a Londra per 850mila sterline di affitti non pagati",
-      "url": "/esteri/17-proprietari-a-londra-bloccati-per-850000-sterli-3ad182147d8e8124",
-      "id": "3ad182147d8e8124",
-      "image_url": "https://images.unsplash.com/photo-1640038768069-1427f1a072f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxsYW5kbG9yZHMlMjBibG9ja2VkJTIwZnJvbSUyMGhvbWVzJTIwVUt8ZW58MHwwfHx8MTc3NTExODgxOHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "image_type": "unsplash"
-    },
-    {
-      "title": "5 milioni di sterline per villa di Stella McCartney in Scozia",
-      "url": "/esteri/stella-mccartney-costruira-una-villa-da-5-milioni-cc963714dc98ae12",
-      "id": "cc963714dc98ae12",
-      "image_url": "https://images.unsplash.com/photo-1477005264461-b0e201668d92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxTdGVsbGF8ZW58MHwwfHx8MTc3NTEwNTU4NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "title": "Nuova Zelanda schiera militari nelle Isole Cook con accordo da 150 milioni",
+      "url": "/esteri/nz-e-isole-cook-firmano-accordo-difesa-cb353ad0510ab555",
+      "id": "cb353ad0510ab555",
+      "image_url": "https://images.unsplash.com/photo-1757405944970-dfca42373629?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxkaXBsb21hdGljJTIwbWVldGluZyUyMHNlY3VyaXR5fGVufDB8MHx8fDE3NzUxMDQ5ODZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "image_type": "unsplash"
     },
     {
@@ -52,6 +45,13 @@
       "id": "8af6fe097a535445",
       "image_url": "https://images.unsplash.com/photo-1668119544365-4d444348e00a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxBbm5lJTIwTG9uZ2ZpZWxkfGVufDB8MHx8fDE3NzUwMzIzMzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "image_type": "unsplash"
+    },
+    {
+      "title": "Paraguay approva accordo ue-mercosur",
+      "url": "/esteri/paraguay-approva-accordo-ue-mercosur-con-47-voti-a-6968cedd2e9f40df",
+      "id": "6968cedd2e9f40df",
+      "image_url": "https://images.pexels.com/photos/36363667/pexels-photo-36363667.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
     }
   ],
   "updated_at": "2026-04-02T08:23:56.991169+00:00"
