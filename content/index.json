@@ -1,5 +1,23 @@
 [
   {
+    "id": "87ee2cc66618798c",
+    "slug": "laminiscua-fotocamera-vintage-di-kodak-charmera-un-87ee2cc66618798c",
+    "title": "Kodak lancia Charmera, fotocamera da 30 grammi ispirata agli anni '90 a 99 euro",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-04-02T10:06:10.125162+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1628156987718-e90e05410931?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxLb2RhayUyMENoYXJtZXJhJTIwY2FtZXJhfGVufDB8MHx8fDE3NzUxMzQyMDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "",
+    "lead_preview": "Kodak Charmera, la Fotocamera digitale da 58 × 24,5 × 20 mm e peso di 30 grammi, è stata lanciata sul mercato il 2 april",
+    "tags": [
+      "kodak charmera",
+      "fotocamera digitale",
+      "generazione z"
+    ]
+  },
+  {
     "id": "0c15640a9f69533c",
     "slug": "nasa-artemis-ii-parte-per-la-luna-obiettivo-presen-0c15640a9f69533c",
     "title": "Nasa, Artemis II parte per la Luna: obiettivo presenza umana stabile dal 2026",
@@ -760,20 +778,6 @@
       "elezioni victoria",
       "moira deeming"
     ]
-  },
-  {
-    "id": "87ee2cc66618798c",
-    "slug": "laminiscua-fotocamera-vintage-di-kodak-charmera-un-87ee2cc66618798c",
-    "title": "Laminiscua fotocamera vintage di kodak charmera, un giacinto di gen z che riempre porta chiavi",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-04-02T10:06:10.125162+00:00",
-    "image_type": "image",
-    "image_url": "https://media-assets.wired.it/photos/69cd20a8509ab59d6b106a29/16:9/w_1280,c_limit/fotocamera%20Kodak%20Charmera.jpeg",
-    "occhiello": "LAMINISCUA FOTOCAMERA VINTAGE DI KODAK CHARMERA, UN GIACINTO DI GEN Z CHE RIEMPRE PORTA CHIAVI",
-    "lead_preview": "La Kodak Charmera, una Fotocamera digitale del 2025 che riprende l'estetica dei portachiavi usati degli anni '90, è stat",
-    "tags": []
   },
   {
     "id": "05bc96be853dede3",
