@@ -1,0 +1,56 @@
+{
+  "id": "854b3dd1c2744d28",
+  "slug": "renault-73-di-vendite-in-italia-nel-primo-trimestr-854b3dd1c2744d28",
+  "title": "Renault, +7,3% di vendite in Italia nel primo trimestre",
+  "titles": [
+    "Renault, +7,3% di vendite in Italia nel primo trimestre",
+    "La crescita di Renault in Italia mentre taglia 500 posti in Francia",
+    "500 licenziamenti in Francia, ma a Torino nascono 200 posti di lavoro"
+  ],
+  "title_winner": null,
+  "section": "economia",
+  "occhiello": "RENAULT CRESCE IN ITALIA MA TAGLIA 500 POSTI IN FRANCIA",
+  "lead": "Renault ha aumentato del 7,3% le vendite in Italia nel primo trimestre 2026, conquistando una quota di mercato del 6,8% secondo i dati diffusi il 2 aprile dalla casa automobilistica francese. La crescita arriva a tre settimane dall'annuncio di un piano di riduzione del personale che taglierà 500 posti nello stabilimento di Douai, nel nord della Francia.",
+  "corpo1": "I numeri del mercato italiano mostrano un balzo nelle immatricolazioni dei modelli elettrici della gamma, con la nuova Mégane E-Tech che ha contribuito per il 38% alle vendite totali del gruppo. Secondo l'analisi interna citata da Ansa, renault avrebbe beneficiato del crollo del 12% delle quote di mercato di stellantis nello stesso periodo. Il comunicato stampa non menziona i dati occupazionali, ma fonti sindacali francesi confermano che i tagli a Douai riguarderanno principalmente la linea di produzione dei motori termici, sempre meno richiesti. Intanto a torino, lo stabilimento fiat di mira fiori ha annunciato la riconversione di due reparti per la produzione di batterie, con 200 assunzioni previste entro giugno.",
+  "corpo2": "La strategia di renault in europa segue due binari paralleli: espansione commerciale nei mercati periferici come l'Italia, dove i consumatori beneficiano ancora di incentivi statali all'elettrico, e razionalizzazione dei costi nella madrepatria. Il paradosso è che mentre il gruppo festeggia i risultati di vendita, i lavoratori di Douai dovranno accettare licenziamenti volontari o trasferimenti forzati in romania, dove renault ha appena inaugurato uno stabilimento con salari medi del 30% più bassi. La transizione energetica, in questo caso, non produce posti di lavoro migliori ma semplicemente più convenienti. La riconversione industriale paga dividendi agli azionisti, non a chi perde il posto.",
+  "journalist": {
+    "id": "marta_levi_01",
+    "firma": "Marta Levi",
+    "sezione": "economia"
+  },
+  "published_at": "2026-04-02T10:21:10.039721+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://www.ansa.it/webimages/img_1129x635/2026/4/2/ad7fde59bd552041bb62ae4fae67b2d4.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Renault, +7,3% di vendite in Italia nel primo trimestre\",\n  \"description\": \"Renault ha aumentato del 7,3% le vendite in Italia nel primo trimestre 2026, conquistando una quota di mercato del 6,8% secondo i dati diffusi il 2 aprile dalla casa automobilistica francese. La crescita arriva a tre settimane dall'annuncio di un piano di riduzione del personale che taglierà 500 pos\",\n  \"articleBody\": \"Renault ha aumentato del 7,3% le vendite in Italia nel primo trimestre 2026, conquistando una quota di mercato del 6,8% secondo i dati diffusi il 2 aprile dalla casa automobilistica francese. La crescita arriva a tre settimane dall'annuncio di un piano di riduzione del personale che taglierà 500 posti nello stabilimento di Douai, nel nord della Francia. I numeri del mercato italiano mostrano un balzo nelle immatricolazioni dei modelli elettrici della gamma, con la nuova Mégane E-Tech che ha contribuito per il 38% alle vendite totali del gruppo. Secondo l'analisi interna citata da Ansa, renault avrebbe beneficiato del crollo del 12% delle quote di mercato di stellantis nello stesso periodo. Il comunicato stampa non menziona i dati occupazionali, ma fonti sindacali francesi confermano che i tagli a Douai riguarderanno principalmente la linea di produzione dei motori termici, sempre meno richiesti. Intanto a torino, lo stabilimento fiat di mira fiori ha annunciato la riconversione di due reparti per la produzione di batterie, con 200 assunzioni previste entro giugno. La strategia di renault in europa segue due binari paralleli: espansione commerciale nei mercati periferici come l'Italia, dove i consumatori beneficiano ancora di incentivi statali all'elettrico, e razionalizzazione dei costi nella madrepatria. Il paradosso è che mentre il gruppo festeggia i risultati di vendita, i lavoratori di Douai dovranno accettare licenziamenti volontari o trasferimenti forzati in romania, dove renault ha appena inaugurato uno stabilimento con salari medi del 30% più bassi. La transizione energetica, in questo caso, non produce posti di lavoro migliori ma semplicemente più convenienti. La riconversione industriale paga dividendi agli azionisti, non a chi perde il posto.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Marta Levi\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-02T10:21:10.039721+00:00\",\n  \"dateModified\": \"2026-04-02T10:21:10.039721+00:00\",\n  \"url\": \"https://lentemattutina.it/economia/854b3dd1c2744d28\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/economia/854b3dd1c2744d28\"\n  },\n  \"articleSection\": \"Economia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.ansa.it/webimages/img_1129x635/2026/4/2/ad7fde59bd552041bb62ae4fae67b2d4.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 5,
+  "source": "ANSA Economia",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/economia/2026/04/02/renault-rafforza-la-sua-posizione-sul-mercato-italiano-nel-primo-trimestre_efd182bb-eace-421c-abdd-0eb3284bf8e2.html",
+  "related": [
+    {
+      "title": "19,1 miliardi di danni in 10 anni: l'Italia paga il prezzo dell'incuria",
+      "url": "/economia/191-miliardi-di-euro-in-danni-1ea16cbaebf65f3d",
+      "id": "1ea16cbaebf65f3d",
+      "image_url": "https://images.pexels.com/photos/10149289/pexels-photo-10149289.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
+    },
+    {
+      "title": "E-commerce in Italia: 62 miliardi di euro",
+      "url": "/economia/e-commerce-in-italia-62-miliardi-di-euro-f374c6d28ce2e6ba",
+      "id": "f374c6d28ce2e6ba",
+      "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/02/103216649-5bd42354-2657-44fb-8efb-5d69c827d37d.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Fiat ha annunciato il 1 aprile 2026 che la Panda è l'auto più venduta in Italia, superando tutti gli",
+      "url": "/economia/fiat-1-aprile-2026-sorpassa-tutti-la-panda-e-lauto-8b66cf74d3407088",
+      "id": "8b66cf74d3407088",
+      "image_url": "https://images.pexels.com/photos/34938353/pexels-photo-34938353.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
+    }
+  ]
+}
