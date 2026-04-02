@@ -1,42 +1,50 @@
 {
   "id": "e29140269a8ed18e",
   "slug": "apple-rilascia-ios-1877-per-bloccare-lo-spyware-da-e29140269a8ed18e",
-  "title": "Apple rilascia iOS 18.7.7 per bloccare lo spyware DarkSword",
+  "title": "Apple rilascia iOS 18.7.7 contro lo spyware DarkSword",
   "titles": [
-    "Apple rilascia iOS 18.7.7 per bloccare lo spyware DarkSword",
-    "Milioni di iPhone e iPad a rischio per la falla di DarkSword",
-    "iOS 18.7.7, la patch gratuita che salva i tuoi dati da DarkSword"
+    "Apple rilascia iOS 18.7.7 contro lo spyware DarkSword",
+    "DarkSword: vulnerabilità in iOS 18.4-18.7, Apple interviene",
+    "Iphone sotto attacco: Apple corre ai ripari con iOS 18.7.7"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "APPLE RILASCIA PATCH MA LASCIA ESPOSTI MILIONI DI IPHONE",
-  "lead": "Apple ha rilasciato l'aggiornamento iOS 18.7.7 il 2 aprile 2026 per correggere una vulnerabilità sfruttata dallo spyware DarkSword. La patch è gratuita e blocca l'infezione che colpisce iPhone e iPad con sistema operativo tra iOS 18.4 e 18.7, ma lascia scoperti tutti i dispositivi con versioni precedenti del sistema operativo.",
-  "corpo1": "DarkSword è un toolkit di spionaggio che sfrutta una falla nel motore di rendering WebKit, utilizzato da Safari e altre app su iOS. Visitando un sito web appositamente preparato, il software installa silenziosamente un modulo che accede a messaggi di WhatsApp e Telegram, cronologia di navigazione, dati di geolocalizzazione in tempo reale, Foto, note e credenziali di accesso a portafogli di criptovalute. I dati vengono inviati a server controllati dagli attaccanti. A differenza di molti malware, DarkSword si autoelimina dal dispositivo al riavvio, rendendo l'infezione estremamente difficile da rilevare con strumenti convenzionali. L'aggiornamento iOS 18.7.7, distribuito via over-the-air, corregge la vulnerabilità specifica sfruttata. La notizia, anticipata da un'analisi pubblicata a marzo 2026 dal sito specializzato Wired Italia, riguarda un numero potenziale di milioni di dispositivi ancora attivi su quelle versioni intermedie del sistema operativo. Apple non ha fornito stime precise sugli utenti a rischio prima della patch.",
-  "corpo2": "La vicenda non riguarda un'astrazione tecnologica ma una precisa catena di responsabilità. DarkSword è prodotto da un'azienda privata del settore della sorveglianza commerciale, lo stesso mercato che ha reso noto lo spyware Pegasus di NSO Group. Questi tool vengono venduti a governi, forze dell'ordine e agenzie di intelligence in paesi che ne giustificano l'uso per \"sicurezza nazionale\". Il meccanismo è collaudato: una vulnerabilità zero-day (mai pubblicata) viene scoperta, acquistata o sviluppata, inserita in un pacchetto che viene iniettato in un sito web frequentato dal bersaglio. Il produttore del sistema operativo, Apple, viene informato da ricercatori indipendenti o da vittime, e solo allora rilascia una patch. Questo modello lascia una finestra di esposizione variabile, a volte di mesi, durante la quale gli utenti sono vulnerabili. La scelta di Apple di rilasciare la patch solo per iOS 18, e non per versioni precedenti ancora in uso, è una decisione di business mascherata da supporto tecnico. Ogni anno, circa il 20-25% degli iPhone attivi nel mondo non riceve più aggiornamenti perché il hardware non è più supportato o perché l'utente rifiuta il nuovo sistema operativo per scelta (come nel caso citato della nuova interfaccia \"Liquid Glass\") o per inerzia. Questi utenti diventano letteralmente carne da macello per questo tipo di attacchi. Il costo della loro protezione, per Apple, è considerato superiore al beneficio in termini di quote di mercato o fedeltà al brand. La conseguenza pratica è che la sicurezza su iOS non è universale: è un servizio a gradini, riservato a chi possiede hardware recente e si sottomette agli aggiornamenti forzati. Per tutti gli altri, il rischio di essere spiati attraverso il telefono rimane una probabilità calcolata e accettata da chi detiene il controllo del codice sorgente. La patch è arrivata, ma per chi ha un iPhone 11 o precedenti, o per chi ha bloccato gli aggiornamenti, DarkSword resta una minaccia attiva. Il prezzo della loro privacy, in questa equazione, è zero.",
+  "occhiello": "APPLE BLOCCA LO SPYWARE DARKSWORD",
+  "lead": "Apple ha rilasciato l'aggiornamento iOS 18.7.7 il 2 aprile 2026 per correggere una vulnerabilità sfruttata dallo spyware DarkSword, un toolkit di spionaggio che era in grado di infettare iPhone e iPad.",
+  "corpo1": "Apple ha rivelato che il toolkit di spionaggio DarkSword era in grado di infettare iPhone e iPad che utilizzavano una versione di iOS compresa tra la 18.4 e 18.7. I dati raccolti venivano poi inviati direttamente ai server controllati dagli hacker. I dati raccolti venivano poi inviati direttamente ai server controllati dagli hacker. Apple ha rilasciato l'aggiornamento iOS 18.7.7 per correggere la vulnerabilità e proteggere i suoi utenti.",
+  "corpo2": "Apple ha rilasciato l'aggiornamento iOS 18.7.7 per bloccare lo spyware DarkSword. L'azienda multinazionale ha investito milioni di dollari nella sicurezza dei suoi prodotti e la vulnerabilità scoperta è stata un colpo duro per la sua immagine. La questione è come Apple potrà garantire la sicurezza dei suoi prodotti in futuro, ma non basterà solo rilasciare aggiornamenti per riparare le vulnerabilità scoperte. Di certo, non basterà solo rilasciare aggiornamenti per riparare le vulnerabilità scoperte. A pagare sarà chi non può permettersi di non pagarlo.",
   "journalist": {
-    "id": "andrea_foti_01",
-    "firma": "Andrea Foti",
+    "id": "giulia_serra_01",
+    "firma": "Giulia Serra",
     "sezione": "tecnologia"
   },
   "published_at": "2026-04-02T14:19:02.358631+00:00",
   "image": {
-    "type": "image",
-    "url": "https://media-assets.wired.it/photos/69ce6531944b13d5e401d669/16:9/w_1280,c_limit/iphone%20ios%20ipados%20darksword.jpeg",
-    "credit": "",
-    "source": "original"
+    "type": "unsplash",
+    "url": "https://images.unsplash.com/photo-1762340915398-000c216e7cd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxpUGhvbmUlMjBzb2Z0d2FyZSUyMHVwZGF0ZXxlbnwwfDB8fHwxNzc1MTQ3MjM2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "source": "Unsplash",
+    "credit": "Zulfugar Karimov",
+    "license": "Unsplash License"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Apple rilascia iOS 18.7.7 per bloccare lo spyware DarkSword\",\n  \"description\": \"Apple ha rilasciato l'aggiornamento iOS 18.7.7 il 2 aprile 2026 per correggere una vulnerabilità sfruttata dallo spyware DarkSword. La patch è gratuita e blocca l'infezione che colpisce iPhone e iPad con sistema operativo tra iOS 18.4 e 18.7, ma lascia scoperti tutti i dispositivi con versioni prece\",\n  \"articleBody\": \"Apple ha rilasciato l'aggiornamento iOS 18.7.7 il 2 aprile 2026 per correggere una vulnerabilità sfruttata dallo spyware DarkSword. La patch è gratuita e blocca l'infezione che colpisce iPhone e iPad con sistema operativo tra iOS 18.4 e 18.7, ma lascia scoperti tutti i dispositivi con versioni precedenti del sistema operativo. DarkSword è un toolkit di spionaggio che sfrutta una falla nel motore di rendering WebKit, utilizzato da Safari e altre app su iOS. Visitando un sito web appositamente preparato, il software installa silenziosamente un modulo che accede a messaggi di WhatsApp e Telegram, cronologia di navigazione, dati di geolocalizzazione in tempo reale, Foto, note e credenziali di accesso a portafogli di criptovalute. I dati vengono inviati a server controllati dagli attaccanti. A differenza di molti malware, DarkSword si autoelimina dal dispositivo al riavvio, rendendo l'infezione estremamente difficile da rilevare con strumenti convenzionali. L'aggiornamento iOS 18.7.7, distribuito via over-the-air, corregge la vulnerabilità specifica sfruttata. La notizia, anticipata da un'analisi pubblicata a marzo 2026 dal sito specializzato Wired Italia, riguarda un numero potenziale di milioni di dispositivi ancora attivi su quelle versioni intermedie del sistema operativo. Apple non ha fornito stime precise sugli utenti a rischio prima della patch. La vicenda non riguarda un'astrazione tecnologica ma una precisa catena di responsabilità. DarkSword è prodotto da un'azienda privata del settore della sorveglianza commerciale, lo stesso mercato che ha reso noto lo spyware Pegasus di NSO Group. Questi tool vengono venduti a governi, forze dell'ordine e agenzie di intelligence in paesi che ne giustificano l'uso per \\\"sicurezza nazionale\\\". Il meccanismo è collaudato: una vulnerabilità zero-day (mai pubblicata) viene scoperta, acquistata o sviluppata, inserita in un pacchetto che viene iniettato in un sito web frequentato dal bersaglio. Il produttore del sistema operativo, Apple, viene informato da ricercatori indipendenti o da vittime, e solo allora rilascia una patch. Questo modello lascia una finestra di esposizione variabile, a volte di mesi, durante la quale gli utenti sono vulnerabili. La scelta di Apple di rilasciare la patch solo per iOS 18, e non per versioni precedenti ancora in uso, è una decisione di business mascherata da supporto tecnico. Ogni anno, circa il 20-25% degli iPhone attivi nel mondo non riceve più aggiornamenti perché il hardware non è più supportato o perché l'utente rifiuta il nuovo sistema operativo per scelta (come nel caso citato della nuova interfaccia \\\"Liquid Glass\\\") o per inerzia. Questi utenti diventano letteralmente carne da macello per questo tipo di attacchi. Il costo della loro protezione, per Apple, è considerato superiore al beneficio in termini di quote di mercato o fedeltà al brand. La conseguenza pratica è che la sicurezza su iOS non è universale: è un servizio a gradini, riservato a chi possiede hardware recente e si sottomette agli aggiornamenti forzati. Per tutti gli altri, il rischio di essere spiati attraverso il telefono rimane una probabilità calcolata e accettata da chi detiene il controllo del codice sorgente. La patch è arrivata, ma per chi ha un iPhone 11 o precedenti, o per chi ha bloccato gli aggiornamenti, DarkSword resta una minaccia attiva. Il prezzo della loro privacy, in questa equazione, è zero.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Andrea Foti\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-02T14:19:02.358631+00:00\",\n  \"dateModified\": \"2026-04-02T14:19:02.358631+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/e29140269a8ed18e\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/e29140269a8ed18e\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://media-assets.wired.it/photos/69ce6531944b13d5e401d669/16:9/w_1280,c_limit/iphone%20ios%20ipados%20darksword.jpeg\",\n    \"creditText\": \"\"\n  }\n}",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Apple rilascia iOS 18.7.7 contro lo spyware DarkSword\",\n  \"description\": \"Apple ha rilasciato l'aggiornamento iOS 18.7.7 il 2 aprile 2026 per correggere una vulnerabilità sfruttata dallo spyware DarkSword, un toolkit di spionaggio che era in grado di infettare iPhone e iPad.\",\n  \"articleBody\": \"Apple ha rilasciato l'aggiornamento iOS 18.7.7 il 2 aprile 2026 per correggere una vulnerabilità sfruttata dallo spyware DarkSword, un toolkit di spionaggio che era in grado di infettare iPhone e iPad. Apple ha rivelato che il toolkit di spionaggio DarkSword era in grado di infettare iPhone e iPad che utilizzavano una versione di iOS compresa tra la 18.4 e 18.7. I dati raccolti venivano poi inviati direttamente ai server controllati dagli hacker. I dati raccolti venivano poi inviati direttamente ai server controllati dagli hacker. Apple ha rilasciato l'aggiornamento iOS 18.7.7 per correggere la vulnerabilità e proteggere i suoi utenti. Apple ha rilasciato l'aggiornamento iOS 18.7.7 per bloccare lo spyware DarkSword. L'azienda multinazionale ha investito milioni di dollari nella sicurezza dei suoi prodotti e la vulnerabilità scoperta è stata un colpo duro per la sua immagine. La questione è come Apple potrà garantire la sicurezza dei suoi prodotti in futuro, ma non basterà solo rilasciare aggiornamenti per riparare le vulnerabilità scoperte. Di certo, non basterà solo rilasciare aggiornamenti per riparare le vulnerabilità scoperte. A pagare sarà chi non può permettersi di non pagarlo.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Giulia Serra\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-02T14:19:02.358631+00:00\",\n  \"dateModified\": \"2026-04-02T14:19:02.358631+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/e29140269a8ed18e\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/e29140269a8ed18e\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1762340915398-000c216e7cd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxpUGhvbmUlMjBzb2Z0d2FyZSUyMHVwZGF0ZXxlbnwwfDB8fHwxNzc1MTQ3MjM2fDA&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Zulfugar Karimov\"\n  }\n}",
   "priority": 5,
-  "source": "Wired Italia",
-  "source_type": "competitor",
-  "original_url": "https://www.wired.it/article/apple-rilascia-patch-ios-ipados-18-darksword/",
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://lentemattutina.it/tecnologia/apple-rilascia-ios-1877-per-bloccare-lo-spyware-da-e29140269a8ed18e",
   "related": [
     {
-      "title": "Sperar phishing con ia",
+      "title": "Meloni vara l'identità digitale AI entro il 2027: blindati conti, sanità e documenti.",
       "url": "/tecnologia/sperar-phishing-con-ia-25b681d974e44ee1",
       "id": "25b681d974e44ee1",
-      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/04/02/144501973-d4ab767d-6325-4d5c-ba36-5cac2394fbed.jpg",
-      "image_type": "image"
+      "image_url": "https://images.unsplash.com/photo-1677442135136-760c813028c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxzaXN0ZW1hJTIwZGklMjBpZGVudGl0JUMzJUEwJTIwZGlnaXRhbGUlMjBiYXNhdG8lMjBzdWxsJTI3aW50ZWxsaWdlbnphJTIwYXJ0aWZpY2lhbGV8ZW58MHwwfHx8MTc3NTE0NTYwMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Artemis 2 parte da Cape Canaveral: primo volo umano verso la Luna dal 1972",
+      "url": "/tecnologia/nasa-artemis-ii-parte-per-la-luna-obiettivo-presen-0c15640a9f69533c",
+      "id": "0c15640a9f69533c",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Artemis_I_Launch_%28NHQ202211160017%29.jpg",
+      "image_type": "wikimedia"
     },
     {
       "title": "Kodak lancia Charmera, fotocamera da 30 grammi ispirata agli anni '90 a 99 euro",
@@ -44,13 +52,7 @@
       "id": "87ee2cc66618798c",
       "image_url": "https://images.unsplash.com/photo-1628156987718-e90e05410931?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxLb2RhayUyMENoYXJtZXJhJTIwY2FtZXJhfGVufDB8MHx8fDE3NzUxMzQyMDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "image_type": "unsplash"
-    },
-    {
-      "title": "Nasa, Artemis II parte per la Luna: obiettivo presenza umana stabile dal 2026",
-      "url": "/tecnologia/nasa-artemis-ii-parte-per-la-luna-obiettivo-presen-0c15640a9f69533c",
-      "id": "0c15640a9f69533c",
-      "image_url": "https://media-assets.wired.it/photos/69ce1c9bced4ad5fea9631c4/16:9/w_1280,c_limit/1_surface-shadows-apollo-16.jpg",
-      "image_type": "image"
     }
-  ]
+  ],
+  "updated_at": "2026-04-02T14:19:02.358631+00:00"
 }
