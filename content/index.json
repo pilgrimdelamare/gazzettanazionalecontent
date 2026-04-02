@@ -1,5 +1,22 @@
 [
   {
+    "id": "51b64181dd0162bb",
+    "slug": "trump-33-di-approvazione-e-il-minimo-storico-51b64181dd0162bb",
+    "title": "Trump, indice di approvazione al 33% tra gli elettori MAGA",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-02T09:02:54.233394+00:00",
+    "image_type": "wikimedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Maga_-_Contempopranea_2010_%284928412461%29.jpg",
+    "occhiello": "TRUMP PERDE UN TERZO DEI SUOI ELETTORI PIÙ FEDELI",
+    "lead_preview": "Il 2 aprile 2026 i dati aggregati dei principali istituti di sondaggio statunitensi hanno fissato l'indice di approvazio",
+    "tags": [
+      "trump",
+      "elezioni usa"
+    ]
+  },
+  {
     "id": "57ba857e79d13379",
     "slug": "ciclismo-david-guardeno-23enne-spagnolo-in-terapia-57ba857e79d13379",
     "title": "Ciclismo: David Guardeno in coma dopo caduta in allenamento a Sabadell",
@@ -30,22 +47,6 @@
     "occhiello": "BERLUSCONI INCONTRA ZANGRILLO",
     "lead_preview": "Marina Berlusconi ha incontrato il ministro Zangrillo il 2 aprile 2026 per discutere dei congressi regionali di Forza It",
     "tags": []
-  },
-  {
-    "id": "51b64181dd0162bb",
-    "slug": "trump-33-di-approvazione-e-il-minimo-storico-51b64181dd0162bb",
-    "title": "Trump al 33%",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-02T09:02:54.233394+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/30918022/pexels-photo-30918022.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "TRUMP AL 33%",
-    "lead_preview": "Il 2 aprile 2026 i dati aggregati dei principali istituti di sondaggio statunitensi hanno fissato l'indice di approvazio",
-    "tags": [
-      "indice trump"
-    ]
   },
   {
     "id": "5e42a298ecf7837d",
