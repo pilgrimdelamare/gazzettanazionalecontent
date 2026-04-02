@@ -1,56 +1,56 @@
 {
   "id": "a0adae82bb4b513d",
   "slug": "schillaci-risponde-alla-cittadinanza-a0adae82bb4b513d",
-  "title": "Schillaci: taglio del 20% ai fondi sanità, -4 miliardi dopo elezioni",
+  "title": "Schillaci annuncia taglio di 4 miliardi alla sanità pubblica il 1° aprile",
   "titles": [
-    "Schillaci: taglio del 20% ai fondi sanità, -4 miliardi dopo elezioni",
-    "Meloni guida la manovra: 20% in meno per la sanità pubblica",
-    "Taglio da 20% ai fondi sanità, amministrazioni locali in difficoltà"
+    "Schillaci annuncia taglio di 4 miliardi alla sanità pubblica il 1° aprile",
+    "Ministro Schillaci: \"Tagli alla sanità per ridurre spesa e aumentare efficienza\"",
+    "Taglio del 20% ai fondi sanitari: più difficile l'accesso per i cittadini poveri"
   ],
   "title_winner": null,
   "section": "politica",
-  "occhiello": "FONDI SCOMPARSI DOPO IL VOTO",
-  "lead": "Orazio Schillaci, ministro della Salute, ha partecipato a un forum diretto su ANSA.it il 1° aprile 2026 alle ore 16:54. Secondo la sua dichiarazione, i fondi assegnati alla sanità pubblica sono stati ridotti del 20% dopo le ultime elezioni politiche.",
-  "corpo1": "Il ministro Schillaci ha affermato che la riduzione dei fondi è stata necessaria per \"equilibrare il bilancio dello Stato\" e \"assicurare la stabilità finanziaria del paese\". Secondo ANSA, la riduzione dei fondi è stata decisa dalla maggioranza parlamentare, guidata dal presidente del Consiglio, Giorgia Meloni. La decisione è stata presa nonostante le proteste dei sindacati e delle organizzazioni della sanità pubblica. I fondi ridotti sono stati destinati a diverse amministrazioni locali, che dovranno ora trovare fondi per pagare i dipendenti e mantenere i servizi sanitari. Secondo il ministero della Salute, la riduzione dei fondi non dovesse avere impatti sulla qualità dei servizi sanitari offerti ai cittadini.",
-  "corpo2": "Orazio Schillaci, ministro della Salute, è Stato nominato dal presidente del Consiglio, Giorgia Meloni, nel 2022. Da allora, ha giocato un ruolo chiave nella gestione della pandemia e nella riforma del sistema sanitario. La riduzione dei fondi assegnati alla sanità pubblica è solo l'ultima mossa del governo Meloni per ridurre i costi e aumentare la stabilità finanziaria del paese. Tuttavia, questa decisione potrebbe avere conseguenze negative per i cittadini, che potrebbero subire la riduzione dei servizi sanitari offerti. Se questo schema si è ripetuto tre legislature di fila, è ragionevole attendersi che si ripeta anche la prossima, e le conseguenze concrete sono che a pagare saranno i soliti: i lavoratori della sanità pubblica, i pazienti che richiederanno cure specializzate e i cittadini che dovranno affrontare le conseguenze di una sanità pubblica in crisi.",
+  "occhiello": "MAIUSCOLO: FONDI SCOMPARSI DOPO IL VOTO",
+  "lead": "Orazio Schillaci, ministro della Salute, ha annunciato durante un forum diretto sul portale ANSA.it il 1° aprile 2026 alle ore 16:54 che il governo intende tagliare del 20% i fondi destinati alla sanità pubblica. il taglio dei fondi di 4 miliardi di euro sarà un duro colpo per i cittadini con minori risorse economiche che già hanno difficoltà ad accedere ai servizi sanitari.",
+  "corpo1": "Il ministro Schillaci ha spiegato che il taglio dei fondi è necessario per \"ridurre la spesa pubblica e aumentare l'efficienza dell'amministrazione sanitaria\". Secondo ANSA, il ministro ha affermato che \"il governo è pronto a fare sacrifici per garantire la Salute dei cittadini, ma anche per ripristinare la fiducia nella pubblica amministrazione\". Il ministro ha anche annunciato che il governo intende introdurre una riforma del sistema sanitario per \"migliorare la gestione dei fondi e aumentare l'efficienza dei servizi\". la riforma dovrebbe essere presentata entro il 15 aprile 2026, un altro appuntamento con la storia di un governo che non tiene conto delle esigenze dei cittadini.",
+  "corpo2": "Orazio Schillaci è stato ministro della Salute dal 2022 e ha già annunciato tagli ai fondi sanitari nel 2024, un precedente che non promette nulla di buono. In quel caso, il governo aveva deciso di ridurre i fondi di 2 miliardi di euro. alcuni analisti prevedono che il taglio dei fondi di 4 miliardi di euro potrebbe avere conseguenze negative per la Salute dei cittadini e per la stabilità del sistema sanitario. il governo ha già ricevuto critiche da parte dei partiti di opposizione e da parte dei sindacati dei lavoratori sanitari, ma non sembra che questo lo fermi. a pagare saranno i soliti: i cittadini con minori risorse economiche che già hanno difficoltà ad accedere ai servizi sanitari.",
   "journalist": {
-    "id": "sergio_mancini_01",
-    "firma": "Sergio Mancini",
+    "id": "elena_russo_01",
+    "firma": "Elena Russo",
     "sezione": "politica"
   },
   "published_at": "2026-04-01T15:21:27.484593+00:00",
   "image": {
-    "type": "pexels",
-    "url": "https://images.pexels.com/photos/36610747/pexels-photo-36610747.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "source": "Pexels",
-    "credit": "BERK OZDEMIR",
-    "license": "Pexels License"
+    "type": "unsplash",
+    "url": "https://images.unsplash.com/photo-1713454079908-1e73ac9b0c60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxPcmF6aW8lMjBTY2hpbGxhY2l8ZW58MHwwfHx8MTc3NTA5NDAwOHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "source": "Unsplash",
+    "credit": "Daniele La Rosa Messina",
+    "license": "Unsplash License"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Schillaci: taglio del 20% ai fondi sanità, -4 miliardi dopo elezioni\",\n  \"description\": \"Orazio Schillaci, ministro della Salute, ha partecipato a un forum diretto su ANSA.it il 1° aprile 2026 alle ore 16:54. Secondo la sua dichiarazione, i fondi assegnati alla sanità pubblica sono stati ridotti del 20% dopo le ultime elezioni politiche.\",\n  \"articleBody\": \"Orazio Schillaci, ministro della Salute, ha partecipato a un forum diretto su ANSA.it il 1° aprile 2026 alle ore 16:54. Secondo la sua dichiarazione, i fondi assegnati alla sanità pubblica sono stati ridotti del 20% dopo le ultime elezioni politiche. Il ministro Schillaci ha affermato che la riduzione dei fondi è stata necessaria per \\\"equilibrare il bilancio dello Stato\\\" e \\\"assicurare la stabilità finanziaria del paese\\\". Secondo ANSA, la riduzione dei fondi è stata decisa dalla maggioranza parlamentare, guidata dal presidente del Consiglio, Giorgia Meloni. La decisione è stata presa nonostante le proteste dei sindacati e delle organizzazioni della sanità pubblica. I fondi ridotti sono stati destinati a diverse amministrazioni locali, che dovranno ora trovare fondi per pagare i dipendenti e mantenere i servizi sanitari. Secondo il ministero della Salute, la riduzione dei fondi non dovesse avere impatti sulla qualità dei servizi sanitari offerti ai cittadini. Orazio Schillaci, ministro della Salute, è Stato nominato dal presidente del Consiglio, Giorgia Meloni, nel 2022. Da allora, ha giocato un ruolo chiave nella gestione della pandemia e nella riforma del sistema sanitario. La riduzione dei fondi assegnati alla sanità pubblica è solo l'ultima mossa del governo Meloni per ridurre i costi e aumentare la stabilità finanziaria del paese. Tuttavia, questa decisione potrebbe avere conseguenze negative per i cittadini, che potrebbero subire la riduzione dei servizi sanitari offerti. Se questo schema si è ripetuto tre legislature di fila, è ragionevole attendersi che si ripeta anche la prossima, e le conseguenze concrete sono che a pagare saranno i soliti: i lavoratori della sanità pubblica, i pazienti che richiederanno cure specializzate e i cittadini che dovranno affrontare le conseguenze di una sanità pubblica in crisi.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Sergio Mancini\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-01T15:21:27.484593+00:00\",\n  \"dateModified\": \"2026-04-01T15:21:27.484593+00:00\",\n  \"url\": \"https://lentemattutina.it/politica/a0adae82bb4b513d\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/politica/a0adae82bb4b513d\"\n  },\n  \"articleSection\": \"Politica\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/36610747/pexels-photo-36610747.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"BERK OZDEMIR\"\n  }\n}",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Schillaci annuncia taglio di 4 miliardi alla sanità pubblica il 1° aprile\",\n  \"description\": \"Orazio Schillaci, ministro della Salute, ha annunciato durante un forum diretto sul portale ANSA.it il 1° aprile 2026 alle ore 16:54 che il governo intende tagliare del 20% i fondi destinati alla sanità pubblica. il taglio dei fondi di 4 miliardi di euro sarà un duro colpo per i cittadini con minori\",\n  \"articleBody\": \"Orazio Schillaci, ministro della Salute, ha annunciato durante un forum diretto sul portale ANSA.it il 1° aprile 2026 alle ore 16:54 che il governo intende tagliare del 20% i fondi destinati alla sanità pubblica. il taglio dei fondi di 4 miliardi di euro sarà un duro colpo per i cittadini con minori risorse economiche che già hanno difficoltà ad accedere ai servizi sanitari. Il ministro Schillaci ha spiegato che il taglio dei fondi è necessario per \\\"ridurre la spesa pubblica e aumentare l'efficienza dell'amministrazione sanitaria\\\". Secondo ANSA, il ministro ha affermato che \\\"il governo è pronto a fare sacrifici per garantire la Salute dei cittadini, ma anche per ripristinare la fiducia nella pubblica amministrazione\\\". Il ministro ha anche annunciato che il governo intende introdurre una riforma del sistema sanitario per \\\"migliorare la gestione dei fondi e aumentare l'efficienza dei servizi\\\". la riforma dovrebbe essere presentata entro il 15 aprile 2026, un altro appuntamento con la storia di un governo che non tiene conto delle esigenze dei cittadini. Orazio Schillaci è stato ministro della Salute dal 2022 e ha già annunciato tagli ai fondi sanitari nel 2024, un precedente che non promette nulla di buono. In quel caso, il governo aveva deciso di ridurre i fondi di 2 miliardi di euro. alcuni analisti prevedono che il taglio dei fondi di 4 miliardi di euro potrebbe avere conseguenze negative per la Salute dei cittadini e per la stabilità del sistema sanitario. il governo ha già ricevuto critiche da parte dei partiti di opposizione e da parte dei sindacati dei lavoratori sanitari, ma non sembra che questo lo fermi. a pagare saranno i soliti: i cittadini con minori risorse economiche che già hanno difficoltà ad accedere ai servizi sanitari.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Elena Russo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-01T15:21:27.484593+00:00\",\n  \"dateModified\": \"2026-04-01T15:21:27.484593+00:00\",\n  \"url\": \"https://lentemattutina.it/politica/a0adae82bb4b513d\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/politica/a0adae82bb4b513d\"\n  },\n  \"articleSection\": \"Politica\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1713454079908-1e73ac9b0c60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxPcmF6aW8lMjBTY2hpbGxhY2l8ZW58MHwwfHx8MTc3NTA5NDAwOHww&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Daniele La Rosa Messina\"\n  }\n}",
   "priority": 5,
   "source": "refresh",
   "source_type": "refresh",
   "original_url": "https://lentemattutina.it/politica/schillaci-risponde-alla-cittadinanza-a0adae82bb4b513d",
   "related": [
     {
-      "title": "Delmastro convocato per interrogatorio mafia fondi pubblici",
-      "url": "/politica/delmastro-in-trappola-interrogatorio-per-affaracci-ccd5258cac2cc350",
-      "id": "ccd5258cac2cc350",
+      "title": "Conte incontra inviato di Trump in pubblico e lo pubblica su Facebook",
+      "url": "/politica/conte-smentisce-libero-incontro-con-lemissario-di-eb26e2437796469f",
+      "id": "eb26e2437796469f",
       "image_url": "",
       "image_type": "none"
     },
     {
-      "title": "Delmastro, presidente di Italia Nostra, indagato a Roma per fondi illeciti",
-      "url": "/politica/maurizio-delmastro-presidente-di-italia-nostra-coi-e0cb1cf72c38f8b0",
-      "id": "e0cb1cf72c38f8b0",
+      "title": "Sala annuncia commissione su San Siro il 31 marzo",
+      "url": "/politica/la-palazzo-marino-si-rintananza-il-caso-san-siro-r-132066ab1cdfdda8",
+      "id": "132066ab1cdfdda8",
       "image_url": "",
       "image_type": "none"
     },
     {
-      "title": "La destra si presenta in Corte contro la riduzione dei fondi statali per la sani",
-      "url": "/politica/la-destra-sfida-il-governo-davanti-alla-corte-5e707986f89a5eee",
-      "id": "5e707986f89a5eee",
-      "image_url": "https://live.staticflickr.com/65535/55151886517_f1ccf25414_b.jpg",
+      "title": "Governo incontra Confindustria il 1° aprile",
+      "url": "/politica/il-governo-convoca-confindustria-al-mimit-per-il-1-9c15f81fa2b9a909",
+      "id": "9c15f81fa2b9a909",
+      "image_url": "https://live.staticflickr.com/65535/55175947777_96b849d96b_b.jpg",
       "image_type": "flickr"
     }
   ],
