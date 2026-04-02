@@ -1,0 +1,56 @@
+{
+  "id": "5a6b0a9f8b1cd26f",
+  "slug": "edgewing-incassa-686-milioni-di-sterline-per-il-ca-5a6b0a9f8b1cd26f",
+  "title": "Edgewing incassa 686 milioni di sterline per il cacca di sesta generazione",
+  "titles": [
+    "EDGEWING INCASSA 686 MILIONI DI STERLINE PER IL CACCA DI SESTA GENERAZIONE",
+    "EDGEWING INCASSA 686 MILIONI DI STERLINE PER IL CACCA DI SESTA GENERAZIONE",
+    "EDGEWING INCASSA 686 MILIONI DI STERLINE PER IL CACCA DI SESTA GENERAZIONE"
+  ],
+  "title_winner": null,
+  "section": "economia",
+  "occhiello": "EDGEWING INCASSA 686 MILIONI DI STERLINE PER IL CACCA DI SESTA GENERAZIONE",
+  "lead": "Edgewing, società britannica di ingegneria aerospaziale, si è aggiudicata il 2 aprile 2026 un contratto da 686 milioni di sterline con Gcap per la progettazione e ingegneria di componenti chiave del futuro caccia militare di sesta generazione.",
+  "corpo1": "Secondo quanto riportato da ANSA, il contratto riguarda lo sviluppo di sistemi avanzati per il programma GCAP (Global Combat Air Programme), l'iniziativa trilaterale tra Regno Unito, Giappone e Italia per realizzare entro il 2035 un caccia stealth di nuova generazione. Edgewing, con sede a Bristol, fornirà tecnologie critiche per la gestione dell'arma e l'integrazione dei sistemi di bordo. L'annuncio arriva a sei mesi dalla firma del memorandum d'intesa tra i tre paesi e precede di due settimane la riunione dei ministri della Difesa a Tokyo per il primo bilancio congiunto.",
+  "corpo2": "Edgewing è controllata al 51% da BAE Systems, principale contractor del programma GCAP sul fronte britannico. Negli ultimi cinque anni ha ricevuto dallo UK Ministry of Defence commesse per 2,3 miliardi di sterline, inclusi i sistemi di guerra elettronica per i Typhoon. Il contratto con Gcap segue di tre mesi l'assunzione di 200 ingegneri specializzati in Surrey, dove l'azienda sta ampliando il centro ricerca per i materiali compositi. L'investimento pubblico nel GCAP supererà i 25 miliardi di sterline, ma le prime unità operative non entreranno in Servizio prima del 2038: i contribuenti pagano oggi un aereo che forse vedranno decollare quando avranno 60 anni.",
+  "journalist": {
+    "id": "marta_levi_01",
+    "firma": "Marta Levi",
+    "sezione": "economia"
+  },
+  "published_at": "2026-04-02T10:35:00.468582+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://www.ansa.it/webimages/img_1129x635/2026/4/2/5a6b2acfe118bc803379fb1abf86fe65.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"EDGEWING INCASSA 686 MILIONI DI STERLINE PER IL CACCA DI SESTA GENERAZIONE\",\n  \"description\": \"Edgewing, società britannica di ingegneria aerospaziale, si è aggiudicata il 2 aprile 2026 un contratto da 686 milioni di sterline con Gcap per la progettazione e ingegneria di componenti chiave del futuro caccia militare di sesta generazione.\",\n  \"articleBody\": \"Edgewing, società britannica di ingegneria aerospaziale, si è aggiudicata il 2 aprile 2026 un contratto da 686 milioni di sterline con Gcap per la progettazione e ingegneria di componenti chiave del futuro caccia militare di sesta generazione. Secondo quanto riportato da ANSA, il contratto riguarda lo sviluppo di sistemi avanzati per il programma GCAP (Global Combat Air Programme), l'iniziativa trilaterale tra Regno Unito, Giappone e Italia per realizzare entro il 2035 un caccia stealth di nuova generazione. Edgewing, con sede a Bristol, fornirà tecnologie critiche per la gestione dell'arma e l'integrazione dei sistemi di bordo. L'annuncio arriva a sei mesi dalla firma del memorandum d'intesa tra i tre paesi e precede di due settimane la riunione dei ministri della Difesa a Tokyo per il primo bilancio congiunto. Edgewing è controllata al 51% da BAE Systems, principale contractor del programma GCAP sul fronte britannico. Negli ultimi cinque anni ha ricevuto dallo UK Ministry of Defence commesse per 2,3 miliardi di sterline, inclusi i sistemi di guerra elettronica per i Typhoon. Il contratto con Gcap segue di tre mesi l'assunzione di 200 ingegneri specializzati in Surrey, dove l'azienda sta ampliando il centro ricerca per i materiali compositi. L'investimento pubblico nel GCAP supererà i 25 miliardi di sterline, ma le prime unità operative non entreranno in Servizio prima del 2038: i contribuenti pagano oggi un aereo che forse vedranno decollare quando avranno 60 anni.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Marta Levi\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-02T10:35:00.468582+00:00\",\n  \"dateModified\": \"2026-04-02T10:35:00.468582+00:00\",\n  \"url\": \"https://lentemattutina.it/economia/5a6b0a9f8b1cd26f\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/economia/5a6b0a9f8b1cd26f\"\n  },\n  \"articleSection\": \"Economia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.ansa.it/webimages/img_1129x635/2026/4/2/5a6b2acfe118bc803379fb1abf86fe65.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 5,
+  "source": "ANSA Economia",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/economia/2026/04/02/gcap-assegnato-il-contratto-a-edgewing-per-progettazione-e-ingegneria_e362f6fe-4955-4a83-a049-d4206994d926.html",
+  "related": [
+    {
+      "title": "Unopiù chiude il 2025 a 18 milioni, mai così bene dal 1999",
+      "url": "/economia/unopiu-chiude-il-2025-con-18-milioni-e-67-boom-nel-a6ae110c501ffb14",
+      "id": "a6ae110c501ffb14",
+      "image_url": "https://images.pexels.com/photos/29997007/pexels-photo-29997007.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
+    },
+    {
+      "title": "La Feltrinelli vola a +114,8%: utile netto a 7,3 milioni nel 2025",
+      "url": "/economia/feltrinelli-raddoppia-lutile-73-milioni-nel-2025-bc71872470cdee96",
+      "id": "bc71872470cdee96",
+      "image_url": "https://images.pexels.com/photos/8761636/pexels-photo-8761636.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
+    },
+    {
+      "title": "2,3 milioni per Radical Partners: accordo con Assoprevidenza",
+      "url": "/economia/radical-partners-entra-nel-club-assoprevidenza-23-14eb958ba6dce177",
+      "id": "14eb958ba6dce177",
+      "image_url": "https://images.unsplash.com/photo-1673535351120-d01cd7713642?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxmb25kaSUyMHByZXZpZGVuemlhbGl8ZW58MHwwfHx8MTc3NTExMDM5M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    }
+  ]
+}
