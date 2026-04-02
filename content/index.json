@@ -1,5 +1,23 @@
 [
   {
+    "id": "a8a48ab770139422",
+    "slug": "trieste-nuovo-graffiti-del-banksy-locale-scimmia-a-a8a48ab770139422",
+    "title": "A Trieste compare un nuovo graffiti: una scimmia alla macchina da scrivere in via Roma",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-04-01T09:23:42.668419+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1605789437852-980e4fc05c8c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxUcmllc3RlJTIwdmlhJTIwUm9tYSUyMGdyYWZmaXRpfGVufDB8MHx8fDE3NzUwOTMzMjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "GRAFFITI DEL BANKSY TRIESTINO: SCIMMIA A MACCHINA DA SCRIVERE",
+    "lead_preview": "Il 1° aprile, un artista anonimo che si firma come il Banksy triestino ha lasciato un nuovo graffiti nella città giulian",
+    "tags": [
+      "graffiti banksy triestino",
+      "scimmia macchina da scrivere",
+      "artista anonimo trieste"
+    ]
+  },
+  {
     "id": "abd62e6f88f266fe",
     "slug": "occupazione-in-calo-50mila-lavoratori-in-meno-in-u-abd62e6f88f266fe",
     "title": "50.000 posti persi in 30 giorni: l’Istat certifica il crollo del lavoro il 1° aprile 2026",
@@ -1680,23 +1698,6 @@
     "occhiello": "RHOVE SCATENANO ‘FEMMINA’, IL SINGOLO CHE FA DISCUSSIONE SUL GENDER",
     "lead_preview": "Rhove pubblica il 3 aprile il singolo ‘Femmina’ su tutte le piattaforme digitali. Il brano, lanciato in concomitanza con",
     "tags": []
-  },
-  {
-    "id": "a8a48ab770139422",
-    "slug": "trieste-nuovo-graffiti-del-banksy-locale-scimmia-a-a8a48ab770139422",
-    "title": "Trieste, nuovo graffiti del 'Banksy locale': scimmia a macchina da scrivere",
-    "section": "cronaca",
-    "priority": 6,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-04-01T09:23:42.668419+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/1/71d75ec002ebf2e3f51b29779a2f29d1.jpg",
-    "occhiello": "UNO SCIMPANZÈ SCRIVE \"CHISSÀ CHI\" SUL MURO DI TRIESTE",
-    "lead_preview": "Un artista anonimo che si firma come il Banksy triestino ha lasciato un nuovo graffiti nella città giuliana il 1° aprile",
-    "tags": [
-      "banksy triestino",
-      "graffiti trieste"
-    ]
   },
   {
     "id": "35f4d6172e331cc6",
