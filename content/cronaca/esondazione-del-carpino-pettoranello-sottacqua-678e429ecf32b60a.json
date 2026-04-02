@@ -1,0 +1,56 @@
+{
+  "id": "678e429ecf32b60a",
+  "slug": "esondazione-del-carpino-pettoranello-sottacqua-678e429ecf32b60a",
+  "title": "Esondazione del Carpino, Pettoranello sott'acqua",
+  "titles": [
+    "Esondazione del Carpino, Pettoranello sott'acqua",
+    "Fiume Carpino esonda, danni in zona industriale",
+    "Strada chiusa e aziende allagate, notte di paura a Pettoranello"
+  ],
+  "title_winner": null,
+  "section": "cronaca",
+  "occhiello": "ESONDA IL CARPINO, CHIUSA SP 45 VERSO CARPINONE",
+  "lead": "Il Carpino è esondato nella notte tra mercoledì e giovedì a Pettoranello del Molise, allagando la zona industriale e costringendo alla chiusura della Sp 45 nel tratto verso Carpinone. Lo rende noto ANSA alle 10:32 del 2 aprile 2026, segnalando danni alle attività produttive della zona.",
+  "corpo1": "L'esondazione del Carpino ha interessato il territorio comunale di Pettoranello, centro di circa 1.100 abitanti in provincia di Isernia. Secondo le prime segnalazioni, l'acqua ha invaso capannoni e aree di stoccaggio della zona industriale, con interventi dei vigili del fuoco ancora in corso nelle prime ore del mattino. La strada provinciale 45 è stata interdetta al traffico nel tratto che collega Pettoranello a Carpinone, dove il livello del fiume ha superato gli argini. Non risultano al momento evacuazioni di abitazioni private. L'evento si inserisce in un quadro che da giorni interessa, dopo i nubifragi che hanno colpito l'area adriatica con l'esondazione del fiume Osento, che aveva interrotto ieri per sei ore la tratta ferroviaria Pescara-Foggia.",
+  "corpo2": "Il bacino del Carpino, affluente del Volturno, ha una storia di piene frequenti nella media valle del Molise. Nel 2019 un'alluvione aveva già interessato la stessa zona industriale di Pettoranello, con danni stimati in 3 milioni di euro e tempi di ripristino superiori ai sei mesi per alcune aziende. Il piano di messa in sicurezza del 2021, finanziato con fondi regionali, si è concentrato sul tratto urbano a valle, lasciando scoperto il comparto produttivo a monte. L'ultimo rapporto della Protezione Civile molisana, pubblicato a febbraio, segnalava come critico lo stato della manutenzione ordinaria degli argini in cinque punti lungo il corso del fiume, tra cui il tratto di Pettoranello. A pagare il conto saranno le piccole imprese della zona, che nel 2019 attivarono solo il 30% delle polizze assicurative contro i rischi idrogeologici per i propri capannoni. Una fotografia che, stando ai dati della Camera di Commercio di Isernia, non è cambiata negli ultimi sette anni.",
+  "journalist": {
+    "id": "chiara_esposito_01",
+    "firma": "Chiara Esposito",
+    "sezione": "cronaca"
+  },
+  "published_at": "2026-04-02T08:47:58.064771+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://www.ansa.it/webimages/img_1129x635/2026/4/2/d8681bb03e918270c275498e3b5bd793.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Esondazione del Carpino, Pettoranello sott'acqua\",\n  \"description\": \"Il Carpino è esondato nella notte tra mercoledì e giovedì a Pettoranello del Molise, allagando la zona industriale e costringendo alla chiusura della Sp 45 nel tratto verso Carpinone. Lo rende noto ANSA alle 10:32 del 2 aprile 2026, segnalando danni alle attività produttive della zona.\",\n  \"articleBody\": \"Il Carpino è esondato nella notte tra mercoledì e giovedì a Pettoranello del Molise, allagando la zona industriale e costringendo alla chiusura della Sp 45 nel tratto verso Carpinone. Lo rende noto ANSA alle 10:32 del 2 aprile 2026, segnalando danni alle attività produttive della zona. L'esondazione del Carpino ha interessato il territorio comunale di Pettoranello, centro di circa 1.100 abitanti in provincia di Isernia. Secondo le prime segnalazioni, l'acqua ha invaso capannoni e aree di stoccaggio della zona industriale, con interventi dei vigili del fuoco ancora in corso nelle prime ore del mattino. La strada provinciale 45 è stata interdetta al traffico nel tratto che collega Pettoranello a Carpinone, dove il livello del fiume ha superato gli argini. Non risultano al momento evacuazioni di abitazioni private. L'evento si inserisce in un quadro che da giorni interessa, dopo i nubifragi che hanno colpito l'area adriatica con l'esondazione del fiume Osento, che aveva interrotto ieri per sei ore la tratta ferroviaria Pescara-Foggia. Il bacino del Carpino, affluente del Volturno, ha una storia di piene frequenti nella media valle del Molise. Nel 2019 un'alluvione aveva già interessato la stessa zona industriale di Pettoranello, con danni stimati in 3 milioni di euro e tempi di ripristino superiori ai sei mesi per alcune aziende. Il piano di messa in sicurezza del 2021, finanziato con fondi regionali, si è concentrato sul tratto urbano a valle, lasciando scoperto il comparto produttivo a monte. L'ultimo rapporto della Protezione Civile molisana, pubblicato a febbraio, segnalava come critico lo stato della manutenzione ordinaria degli argini in cinque punti lungo il corso del fiume, tra cui il tratto di Pettoranello. A pagare il conto saranno le piccole imprese della zona, che nel 2019 attivarono solo il 30% delle polizze assicurative contro i rischi idrogeologici per i propri capannoni. Una fotografia che, stando ai dati della Camera di Commercio di Isernia, non è cambiata negli ultimi sette anni.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Chiara Esposito\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-02T08:47:58.064771+00:00\",\n  \"dateModified\": \"2026-04-02T08:47:58.064771+00:00\",\n  \"url\": \"https://lentemattutina.it/cronaca/678e429ecf32b60a\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cronaca/678e429ecf32b60a\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.ansa.it/webimages/img_1129x635/2026/4/2/d8681bb03e918270c275498e3b5bd793.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 6,
+  "source": "ANSA Cronaca",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/cronaca/2026/04/02/maltempo-in-molise-esonda-il-carpino-allagata-zona-industriale-pettoranello_abeea988-18b9-48ed-b550-5052bf547682.html",
+  "related": [
+    {
+      "title": "Papa Francesco interrompe i saluti dopo un discorso anti-guerra di 17 minuti a San Pietro",
+      "url": "/cronaca/papa-francesco-interrompe-i-saluti-dopo-un-discors-dffe0d20f6becabb",
+      "id": "dffe0d20f6becabb",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/2/7c83886e0344f2ef4f5d44c8ce9e239b.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Rossi scrisse a Profumo: 'Neutralizziamo un leghista critico sulla Banca Etruria', mail del 2012 acquisita a Firenze",
+      "url": "/cronaca/rossi-scrisse-a-profumo-nel-2012-neutralizziamo-un-f9730552fcdea46a",
+      "id": "f9730552fcdea46a",
+      "image_url": "https://images.unsplash.com/photo-1586452169837-dad2a1fad15a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxJdGFsaWFuJTIwYmFuayUyMGludmVzdGlnYXRpb24lMjBlbWFpbHxlbnwwfDB8fHwxNzc1MTE4MzEyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Ragazzo di 13 anni ruba 500 euro da Poste di Vigliano Biellese con pistola giocattolo",
+      "url": "/cronaca/rapina-a-vigliano-biellese-500-euro-316e0421a509bd8f",
+      "id": "316e0421a509bd8f",
+      "image_url": "https://images.pexels.com/photos/6266682/pexels-photo-6266682.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
+    }
+  ]
+}
