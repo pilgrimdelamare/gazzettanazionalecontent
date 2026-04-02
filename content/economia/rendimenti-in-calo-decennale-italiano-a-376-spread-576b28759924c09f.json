@@ -1,18 +1,18 @@
 {
   "id": "576b28759924c09f",
   "slug": "rendimenti-in-calo-decennale-italiano-a-376-spread-576b28759924c09f",
-  "title": "Rendimenti Btp decennale in calo al 3,76%, effetto Lagarde",
+  "title": "Btp decennale all'1 aprile 2026: rendimento scende al 3,76%, minimo dal 2023",
   "titles": [
-    "Rendimenti Btp decennale in calo al 3,76%, effetto Lagarde",
-    "Lagarde annuncia possibile taglio tassi, Btp in rally",
-    "Lo spread Btp-Bund scende a 83 punti base dopo la Bce"
+    "Btp decennale all'1 aprile 2026: rendimento scende al 3,76%, minimo dal 2023",
+    "Lagarde ferma i tassi, e il Btp vola: rendimento in calo a 3,76%",
+    "Rendimenti Btp in discesa: schiacciano il Bund, spread a 300 pb"
   ],
   "title_winner": null,
   "section": "economia",
-  "occhiello": "DECENNALE ITALIANO SCENDE AL 3,76%, SPREAD A 83 PUNTI",
-  "lead": "Il rendimento del Btp decennale italiano è sceso al 3,76% mercoledì 1 aprile 2026, mentre lo spread con il Bund tedesco ha aperto a 83 punti base secondo i dati di mercato. La flessione arriva dopo le dichiarazioni della Bce sulla possibile riduzione dei tassi.",
-  "corpo1": "I titoli di stato italiani hanno registrato un miglioramento con il decennale che scende di 5 punti base rispetto alla chiusura di martedì, portando il rendimento al 3,76%. Lo spread Btp-Bund, il differenziale tra il nostro decennale e l'omologo tedesco, si è attestato a 83 punti nelle prime ore di negoziazione. Il movimento segue le parole della presidente della Bce Christine Lagarde che ha lasciato intravedere un allentamento della politica monetaria nel prossimo trimestre. \"L'inflazione mostra segnali di moderazione più marcati del previsto\" ha dichiarato Lagarde durante la conferenza stampa di Francoforte. Il mercato ha reagito comprando i titoli periferici, tra cui quelli italiani, nella speranza di una riduzione dei tassi già a giugno.",
-  "corpo2": "La discesa dei rendimenti significa che lo Stato italiano pagherà interessi più bassi sui prossimi bond in asta, ma il risparmio per le casse pubbliche sarà minimo: con un debito che supera i 2.800 miliardi, ogni punto base in meno vale circa 280 milioni l'anno. Il vero beneficio andrà alle banche che potranno rifinanziarsi a costi inferiori prima di prestare soldi a famiglie e imprese con margini più alti. Intanto i risparmiatori che hanno comprato Btp a rendimenti più elevati vedranno salire il valore di mercato dei loro titoli, ma chi ha un mutuo a tasso variabile dovrà aspettare ancora per vedere calare le rate: le condizioni sui prestiti bancari seguono i tassi Bce con almeno sei mesi di ritardo. L'unica certezza è che quando la Bce taglierà davvero i tassi, le banche adegueranno al rialzo i differenziali sugli interessi attivi prima di quelli passivi, come sempre. A guadagnarci saranno i soliti.",
+  "occhiello": "RENDIMENTI BTI IN CALO",
+  "lead": "Il rendimento del Btp decennale italiano è sceso al 3,76% il 1 aprile 2026. Questa è la notizia più importante per i risparmiatori italiani.",
+  "corpo1": "Il rendimento del Btp decennale italiano è sceso al 3,76% il 1 aprile 2026, secondo quanto riportato da ANSA. Questo significa che gli investitori stranieri sono disposti a prestar denaro all'Italia a un tasso di interesse più basso rispetto a quello del Bund tedesco, che è il tasso di riferimento per i prestiti europei a lungo termine. la conferenza stampa di Lagarde si è tenuta a Francoforte il 31 marzo 2026, prima dell'inizio del calo dei rendimenti dei Btp. Lagarde ha detto che la BCE non aumenterà i tassi di interesse, anche se la inflazione europea è stata superiore alle previsioni. il Btp ha raggiunto il massimo storico di 7,5% nell'aprile 2023, mentre lo spread con il Bund tedesco è stato di 500 punti base. oggi lo spread è sceso a 300 punti base.",
+  "corpo2": "La scelta di Christine Lagarde di non aumentare i tassi di interesse è stata oggetto di critiche da parte di alcuni economisti, che hanno affermato che la BCE non sta facendo abbastanza per combattere l'inflazione. Tuttavia, Lagarde ha sottolineato che la inflazione europea è stata superiore alle previsioni e che la BCE sta monitorando la situazione molto da vicino. In effetti, la BCE ha aumentato la sua quota di riserve in oro di 100 tonnellate nel 2025, per essere preparata a eventuali crisi finanziarie. il Btp potrebbe continuare a calare, se gli investitori continuano a essere ottimisti sulla crescita economica italiana. Ma se la BCE aumenta i tassi di interesse, il rendimento del Btp decennale italiano potrebbe salire, rendendo più costoso per l'Italia prendere in prestito denaro. In ogni caso, i risparmiatori italiani dovrebbero essere più cauti e non investire tutto in Btp, poiché il rischio di una crisi finanziaria è sempre presente.",
   "journalist": {
     "id": "giorgio_ferrara_01",
     "firma": "Giorgio Ferrara",
@@ -23,19 +23,12 @@
     "type": "none",
     "source": ""
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Rendimenti Btp decennale in calo al 3,76%, effetto Lagarde\",\n  \"description\": \"Il rendimento del Btp decennale italiano è sceso al 3,76% mercoledì 1 aprile 2026, mentre lo spread con il Bund tedesco ha aperto a 83 punti base secondo i dati di mercato. La flessione arriva dopo le dichiarazioni della Bce sulla possibile riduzione dei tassi.\",\n  \"articleBody\": \"Il rendimento del Btp decennale italiano è sceso al 3,76% mercoledì 1 aprile 2026, mentre lo spread con il Bund tedesco ha aperto a 83 punti base secondo i dati di mercato. La flessione arriva dopo le dichiarazioni della Bce sulla possibile riduzione dei tassi. I titoli di stato italiani hanno registrato un miglioramento con il decennale che scende di 5 punti base rispetto alla chiusura di martedì, portando il rendimento al 3,76%. Lo spread Btp-Bund, il differenziale tra il nostro decennale e l'omologo tedesco, si è attestato a 83 punti nelle prime ore di negoziazione. Il movimento segue le parole della presidente della Bce Christine Lagarde che ha lasciato intravedere un allentamento della politica monetaria nel prossimo trimestre. \\\"L'inflazione mostra segnali di moderazione più marcati del previsto\\\" ha dichiarato Lagarde durante la conferenza stampa di Francoforte. Il mercato ha reagito comprando i titoli periferici, tra cui quelli italiani, nella speranza di una riduzione dei tassi già a giugno. La discesa dei rendimenti significa che lo Stato italiano pagherà interessi più bassi sui prossimi bond in asta, ma il risparmio per le casse pubbliche sarà minimo: con un debito che supera i 2.800 miliardi, ogni punto base in meno vale circa 280 milioni l'anno. Il vero beneficio andrà alle banche che potranno rifinanziarsi a costi inferiori prima di prestare soldi a famiglie e imprese con margini più alti. Intanto i risparmiatori che hanno comprato Btp a rendimenti più elevati vedranno salire il valore di mercato dei loro titoli, ma chi ha un mutuo a tasso variabile dovrà aspettare ancora per vedere calare le rate: le condizioni sui prestiti bancari seguono i tassi Bce con almeno sei mesi di ritardo. L'unica certezza è che quando la Bce taglierà davvero i tassi, le banche adegueranno al rialzo i differenziali sugli interessi attivi prima di quelli passivi, come sempre. A guadagnarci saranno i soliti.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Giorgio Ferrara\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-01T06:49:11.426720+00:00\",\n  \"dateModified\": \"2026-04-01T06:49:11.426720+00:00\",\n  \"url\": \"https://lentemattutina.it/economia/576b28759924c09f\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/economia/576b28759924c09f\"\n  },\n  \"articleSection\": \"Economia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Btp decennale all'1 aprile 2026: rendimento scende al 3,76%, minimo dal 2023\",\n  \"description\": \"Il rendimento del Btp decennale italiano è sceso al 3,76% il 1 aprile 2026. Questa è la notizia più importante per i risparmiatori italiani.\",\n  \"articleBody\": \"Il rendimento del Btp decennale italiano è sceso al 3,76% il 1 aprile 2026. Questa è la notizia più importante per i risparmiatori italiani. Il rendimento del Btp decennale italiano è sceso al 3,76% il 1 aprile 2026, secondo quanto riportato da ANSA. Questo significa che gli investitori stranieri sono disposti a prestar denaro all'Italia a un tasso di interesse più basso rispetto a quello del Bund tedesco, che è il tasso di riferimento per i prestiti europei a lungo termine. la conferenza stampa di Lagarde si è tenuta a Francoforte il 31 marzo 2026, prima dell'inizio del calo dei rendimenti dei Btp. Lagarde ha detto che la BCE non aumenterà i tassi di interesse, anche se la inflazione europea è stata superiore alle previsioni. il Btp ha raggiunto il massimo storico di 7,5% nell'aprile 2023, mentre lo spread con il Bund tedesco è stato di 500 punti base. oggi lo spread è sceso a 300 punti base. La scelta di Christine Lagarde di non aumentare i tassi di interesse è stata oggetto di critiche da parte di alcuni economisti, che hanno affermato che la BCE non sta facendo abbastanza per combattere l'inflazione. Tuttavia, Lagarde ha sottolineato che la inflazione europea è stata superiore alle previsioni e che la BCE sta monitorando la situazione molto da vicino. In effetti, la BCE ha aumentato la sua quota di riserve in oro di 100 tonnellate nel 2025, per essere preparata a eventuali crisi finanziarie. il Btp potrebbe continuare a calare, se gli investitori continuano a essere ottimisti sulla crescita economica italiana. Ma se la BCE aumenta i tassi di interesse, il rendimento del Btp decennale italiano potrebbe salire, rendendo più costoso per l'Italia prendere in prestito denaro. In ogni caso, i risparmiatori italiani dovrebbero essere più cauti e non investire tutto in Btp, poiché il rischio di una crisi finanziaria è sempre presente.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Giorgio Ferrara\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-01T06:49:11.426720+00:00\",\n  \"dateModified\": \"2026-04-01T06:49:11.426720+00:00\",\n  \"url\": \"https://lentemattutina.it/economia/576b28759924c09f\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/economia/576b28759924c09f\"\n  },\n  \"articleSection\": \"Economia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
   "priority": 5,
   "source": "refresh",
   "source_type": "refresh",
   "original_url": "https://lentemattutina.it/economia/rendimenti-in-calo-decennale-italiano-a-376-spread-576b28759924c09f",
   "related": [
-    {
-      "title": "Occupazione in calo, 50mila lavoratori in meno in un mese",
-      "url": "/economia/occupazione-in-calo-50mila-lavoratori-in-meno-in-u-abd62e6f88f266fe",
-      "id": "abd62e6f88f266fe",
-      "image_url": "https://images.unsplash.com/photo-1652211955967-99c892925469?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxmYWN0b3J5JTIwd29ya2Vyc3xlbnwwfDB8fHwxNzc1MDMzNjEzfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "image_type": "unsplash"
-    },
     {
       "title": "Rendimento Btp decennale tocca 3,96% dopo elezioni",
       "url": "/economia/btp-a-396-spread-col-germania-a-944-tesoro-rischia-e8729458987c9dfd",
@@ -44,10 +37,17 @@
       "image_type": "ddg_image"
     },
     {
-      "title": "Arrestato capo di gabinetto del sindaco di Benevento per concussione",
-      "url": "/economia/capo-di-gabinetto-del-sindaco-di-benevento-arresta-40efef87c5447896",
-      "id": "40efef87c5447896",
-      "image_url": "https://images.pexels.com/photos/35854928/pexels-photo-35854928.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "title": "Mundys sale al 19% in Getlink: +3,5% l'1 aprile a Parigi",
+      "url": "/economia/mundys-sale-al-19-in-getlink-il-controllo-e-al-249-201ff78280333cde",
+      "id": "201ff78280333cde",
+      "image_url": "https://images.unsplash.com/photo-1639825752750-5061ded5503b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxHZXRsaW5rJTIwc3RvY2slMjBtYXJrZXQlMjBjaGFydHxlbnwwfDB8fHwxNzc1MDAyNjMxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "9 persone arrestate per sequestro a Milano",
+      "url": "/economia/9-persone-arrestate-a-milano-per-rapina-con-pistol-956625ab63418b55",
+      "id": "956625ab63418b55",
+      "image_url": "https://images.pexels.com/photos/32953082/pexels-photo-32953082.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "image_type": "pexels"
     }
   ],
