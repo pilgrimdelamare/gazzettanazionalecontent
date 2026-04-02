@@ -1,44 +1,37 @@
 {
   "id": "c01d3a726347f6a2",
   "slug": "tennis-luciano-darderi-conquista-quarti-di-finale-c01d3a726347f6a2",
-  "title": "Tennis: Darderi travolge Bellucci 6-4, 6-2 a Marrakec",
+  "title": "Darderi travolge bellucci a marrakec",
   "titles": [
-    "Tennis: Darderi travolge Bellucci 6-4, 6-2 a Marrakec",
-    "Vittoria netta per Luciano Darderi contro Mattia Bellucci",
-    "Darderi, passo avanti verso il titolo ATP 250 di Marrakec"
+    "DARDERI TRAVOLGE BELLUCCI A MARRAKEC",
+    "DARDERI TRAVOLGE BELLUCCI A MARRAKEC",
+    "DARDERI TRAVOLGE BELLUCCI A MARRAKEC"
   ],
   "title_winner": null,
   "section": "sport",
-  "occhiello": "DARDERI ELIMINA BELLUCCI A MARRAKEC",
-  "lead": "Luciano Darderi ha eliminato Mattia Bellucci mercoledì 1 aprile 2026 nel secondo turno dell’atp 250 di Marrakec con un punteggio di 6-4, 6-2.",
-  "corpo1": "Il match si è svolto nel secondo turno dell’atp 250 di Marrakec e ha visto la vittoria di Luciano Darderi su Mattia Bellucci con un netto 6-4, 6-2. Darderi ha sfruttato al meglio le debolezze di Bellucci, chiudendo il match in due set. Il punteggio finale di 6-4, 6-2 rivela una netta supremazia di Darderi, che ha saputo sfruttare gli errori dell'avversario e capitalizzare le proprie opportunità. Con questa vittoria, Darderi si avvicina al titolo, pronto ad affrontare la sua prossima sfida.",
-  "corpo2": "Luciano Darderi è un giocatore di tennis argentino che ha già dimostrato le proprie capacità in vari tornei internazionali. La sua vittoria su Mattia Bellucci a Marrakec rappresenta un importante passo avanti nella sua carriera e conferma la sua crescita come giocatore. Nel mondo del tennis, la competizione è spietata e i giocatori devono dare il massimo per emergere. La vittoria di Darderi ai quarti di finale dell’atp 250 di Marrakec cambia le cose per lui, poiché gli offre l'opportunità di guadagnare punti e migliorare la sua classifica mondiale, Ora Bellucci dovrà ricominciare da capo, cercando di ritrovare la sua forma e riconquistare la fiducia persa.",
+  "occhiello": "DARDERI TRAVOLGE BELLUCCI A MARRAKEC",
+  "lead": "Luciano Darderi ha sconfitto Mattia Bellucci 6-4, 6-2 nel secondo turno dell'atp 250 di Marrakec mercoledì 1 aprile 2026.",
+  "corpo1": "Il tennis è un sport della racchetta che vede opporsi due o quattro giocatori in un campo da gioco diviso in due metà da una rete alta 0,914 m al centro e 1,07 m ai lati e uno spazio fra le tribune e il campo di gioco. Luciano Darderi ha eliminato Mattia Bellucci nel secondo turno dell'atp 250 di Marrakec con un punteggio di 6-4, 6-2. La partita è stata giocata mercoledì 1 aprile 2026 e Darderi ha dimostrato una superiorità tecnica e atletica che ha permesso di vincere senza problemi. Il punteggio finale non lascia spazio a dubbi sulla superiorità di Darderi in questa partita. Il torneo di Marrakec è una tappa importante per i giocatori di tennis e la vittoria di Darderi è un passo importante verso la qualificazione per le prossime fasi del torneo.",
+  "corpo2": "Luciano Darderi è un giocatore di tennis italiano che ha già dimostrato le sue capacità in numerose partite del passato. La vittoria su Mattia Bellucci non è un caso isolato, ma piuttosto il risultato di una serie di sforzi e preparazione che Darderi ha messo in campo per raggiungere il suo obiettivo di vincere il torneo. La sconfitta di Bellucci è un segnale importante per la squadra di tennis italiana, che può contare su un giocatore come Darderi per rappresentarla in futuro. La vittoria di Darderi non cambierà solo il corso della sua carriera, ma anche la dinamica del torneo, che potrebbe vedere un aumento della concorrenza tra i giocatori. A pagare saranno i soliti: chi non può permettersi di non pagarlo.",
   "journalist": {
-    "id": "matteo_galli_01",
-    "firma": "Matteo Galli",
+    "id": "davide_longo_01",
+    "firma": "Davide Longo",
     "sezione": "sport"
   },
   "published_at": "2026-04-01T15:30:24.321300+00:00",
   "image": {
     "type": "unsplash",
-    "url": "https://images.unsplash.com/photo-1629819074151-b202fc24ace4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxMdWNpYW5vJTIwRGFyZGVyaXxlbnwwfDB8fHwxNzc1MDk2MjE2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "url": "https://images.unsplash.com/photo-1554068865-24cecd4e34b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHx0ZW5uaXMlMjBwbGF5ZXJ8ZW58MHwwfHx8MTc3NTEyNjUxM3ww&ixlib=rb-4.1.0&q=80&w=1080",
     "source": "Unsplash",
-    "credit": "Timothy Abraham",
+    "credit": "Moises Alex",
     "license": "Unsplash License"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Tennis: Darderi travolge Bellucci 6-4, 6-2 a Marrakec\",\n  \"description\": \"Luciano Darderi ha eliminato Mattia Bellucci mercoledì 1 aprile 2026 nel secondo turno dell’atp 250 di Marrakec con un punteggio di 6-4, 6-2.\",\n  \"articleBody\": \"Luciano Darderi ha eliminato Mattia Bellucci mercoledì 1 aprile 2026 nel secondo turno dell’atp 250 di Marrakec con un punteggio di 6-4, 6-2. Il match si è svolto nel secondo turno dell’atp 250 di Marrakec e ha visto la vittoria di Luciano Darderi su Mattia Bellucci con un netto 6-4, 6-2. Darderi ha sfruttato al meglio le debolezze di Bellucci, chiudendo il match in due set. Il punteggio finale di 6-4, 6-2 rivela una netta supremazia di Darderi, che ha saputo sfruttare gli errori dell'avversario e capitalizzare le proprie opportunità. Con questa vittoria, Darderi si avvicina al titolo, pronto ad affrontare la sua prossima sfida. Luciano Darderi è un giocatore di tennis argentino che ha già dimostrato le proprie capacità in vari tornei internazionali. La sua vittoria su Mattia Bellucci a Marrakec rappresenta un importante passo avanti nella sua carriera e conferma la sua crescita come giocatore. Nel mondo del tennis, la competizione è spietata e i giocatori devono dare il massimo per emergere. La vittoria di Darderi ai quarti di finale dell’atp 250 di Marrakec cambia le cose per lui, poiché gli offre l'opportunità di guadagnare punti e migliorare la sua classifica mondiale, Ora Bellucci dovrà ricominciare da capo, cercando di ritrovare la sua forma e riconquistare la fiducia persa.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Matteo Galli\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-01T15:30:24.321300+00:00\",\n  \"dateModified\": \"2026-04-01T15:30:24.321300+00:00\",\n  \"url\": \"https://lentemattutina.it/sport/c01d3a726347f6a2\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/sport/c01d3a726347f6a2\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1629819074151-b202fc24ace4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxMdWNpYW5vJTIwRGFyZGVyaXxlbnwwfDB8fHwxNzc1MDk2MjE2fDA&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Timothy Abraham\"\n  }\n}",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"DARDERI TRAVOLGE BELLUCCI A MARRAKEC\",\n  \"description\": \"Luciano Darderi ha sconfitto Mattia Bellucci 6-4, 6-2 nel secondo turno dell'atp 250 di Marrakec mercoledì 1 aprile 2026.\",\n  \"articleBody\": \"Luciano Darderi ha sconfitto Mattia Bellucci 6-4, 6-2 nel secondo turno dell'atp 250 di Marrakec mercoledì 1 aprile 2026. Il tennis è un sport della racchetta che vede opporsi due o quattro giocatori in un campo da gioco diviso in due metà da una rete alta 0,914 m al centro e 1,07 m ai lati e uno spazio fra le tribune e il campo di gioco. Luciano Darderi ha eliminato Mattia Bellucci nel secondo turno dell'atp 250 di Marrakec con un punteggio di 6-4, 6-2. La partita è stata giocata mercoledì 1 aprile 2026 e Darderi ha dimostrato una superiorità tecnica e atletica che ha permesso di vincere senza problemi. Il punteggio finale non lascia spazio a dubbi sulla superiorità di Darderi in questa partita. Il torneo di Marrakec è una tappa importante per i giocatori di tennis e la vittoria di Darderi è un passo importante verso la qualificazione per le prossime fasi del torneo. Luciano Darderi è un giocatore di tennis italiano che ha già dimostrato le sue capacità in numerose partite del passato. La vittoria su Mattia Bellucci non è un caso isolato, ma piuttosto il risultato di una serie di sforzi e preparazione che Darderi ha messo in campo per raggiungere il suo obiettivo di vincere il torneo. La sconfitta di Bellucci è un segnale importante per la squadra di tennis italiana, che può contare su un giocatore come Darderi per rappresentarla in futuro. La vittoria di Darderi non cambierà solo il corso della sua carriera, ma anche la dinamica del torneo, che potrebbe vedere un aumento della concorrenza tra i giocatori. A pagare saranno i soliti: chi non può permettersi di non pagarlo.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Davide Longo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-01T15:30:24.321300+00:00\",\n  \"dateModified\": \"2026-04-01T15:30:24.321300+00:00\",\n  \"url\": \"https://lentemattutina.it/sport/c01d3a726347f6a2\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/sport/c01d3a726347f6a2\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1554068865-24cecd4e34b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHx0ZW5uaXMlMjBwbGF5ZXJ8ZW58MHwwfHx8MTc3NTEyNjUxM3ww&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Moises Alex\"\n  }\n}",
   "priority": 5,
   "source": "refresh",
   "source_type": "refresh",
   "original_url": "https://lentemattutina.it/sport/tennis-luciano-darderi-conquista-quarti-di-finale-c01d3a726347f6a2",
   "related": [
-    {
-      "title": "Tennis: Berrettini torna in campo a Marrakech contro Coria il 31 marzo",
-      "url": "/sport/debutto-italiano-per-cina-a-marrakech-8915fc75b765d1c0",
-      "id": "8915fc75b765d1c0",
-      "image_url": "https://images.pexels.com/photos/31273768/pexels-photo-31273768.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "image_type": "pexels"
-    },
     {
       "title": "Basket: Minnesota travolge Dallas 124-94 in casa",
       "url": "/sport/minnesota-umilia-dallas-124-94-f0e9d7c3a0f0a517",
@@ -47,10 +40,17 @@
       "image_type": "wikimedia"
     },
     {
-      "title": "Tennis: Sinner si presenta a Montecarlo a tutta velocità",
-      "url": "/sport/tennis-sinner-torna-a-montecarlo-42c0d525241801ae",
-      "id": "42c0d525241801ae",
-      "image_url": "https://live.staticflickr.com/65535/54732660452_ef3b8729a7_b.jpg",
+      "title": "Calcio: Bosnia batte Italia 2-1 a San Siro e vince la Supercoppa europea",
+      "url": "/sport/calcio-italia-eliminata-dal-mondiale-dopo-la-sconf-91666aaff61c066f",
+      "id": "91666aaff61c066f",
+      "image_url": "https://images.unsplash.com/photo-1607376162689-10d6eb9d6c83?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxpdGFseSUyMHNvY2NlciUyMHRlYW18ZW58MHwwfHx8MTc3NTEyNjE1Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Trump minaccia uscita nato: \"paesi non pagano\"",
+      "url": "/sport/trump-minacciato-e-iranciano-chiedono-la-tregua-54e01f17c1f656fb",
+      "id": "54e01f17c1f656fb",
+      "image_url": "https://live.staticflickr.com/65535/52409291361_4cb9b7b478_b.jpg",
       "image_type": "flickr"
     }
   ],
