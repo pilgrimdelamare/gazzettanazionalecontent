@@ -1,0 +1,56 @@
+{
+  "id": "57f50ef09c8acf45",
+  "slug": "new-time-supera-30-efficienza-pannelli-fotovoltaic-57f50ef09c8acf45",
+  "title": "New Time supera 30% efficienza pannelli fotovoltaici",
+  "titles": [
+    "New Time supera 30% efficienza pannelli fotovoltaici",
+    "CEO Bertolini: costi dimezzati entro 2028",
+    "500 milioni di euro per produzione pannelli perovskite"
+  ],
+  "title_winner": null,
+  "section": "economia",
+  "occhiello": "PEROVSKITE NEL FOTOVOLTAICO: EFFICIENZA RECORD AL 30%",
+  "lead": "New Time ha annunciato il 2 aprile 2026 di aver superato la soglia del 30% di efficienza nella produzione di pannelli fotovoltaici a base di perovskite, minerale cristallino che potrebbe rivoluzionare il mercato dell’energia solare. L’azienda, specializzata in tecnologie rinnovabili, promette costi dimezzati rispetto al silicio tradizionale entro il 2028.",
+  "corpo1": "Secondo il comunicato diffuso da New Time, i nuovi pannelli in perovskite raggiungono un’efficienza del 30,2%, rispetto al 22-24% dei moduli in silicio attualmente dominanti. La tecnologia, sviluppata nei laboratori di Milano e Dresda, sfrutta la capacità della perovskite di assorbire la luce in uno spettro più ampio, riducendo gli sprechi energetici. Il CEO Marco Bertolini ha dichiarato che la produzione industriale partirà nel 2027, con un investimento iniziale di 500 milioni di euro. “Entro tre anni, il prezzo per watt scenderà sotto i 20 centesimi, la metà di oggi”, ha aggiunto. L’ansa riporta che l’azienda ha già siglato accordi con tre utility europee per la fornitura di 2 GW di capacità entro il 2029.",
+  "corpo2": "La corsa alla perovskite è l’ultimo capitolo di una guerra industriale che vede l’Europa arrancare dietro a Cina e Stati Uniti. Mentre Pechino controlla l’80% della filiera del silicio, New Time punta a spezzare il monopolio con un materiale più economico e versatile, che si applica anche su superfici flessibili. Ma c’è un problema: la perovskite si degrada rapidamente con umidità e calore. Bertolini assicura di aver risolto il rischio con un rivestimento nanotecnologico, ma gli analisti restano scettici. “Le promesse sulle perovskiti durano da un decennio”, ha twittato il fisico Carlo Rovelli, “e ogni volta saltano fuori nuovi ostacoli”. Intanto, i big del fossile – da Eni a Shell – hanno già acquisito il 15% di New Time, pronti a monetizzare la transizione verde senza smantellare gli asset inquinanti. La rivoluzione energetica, come sempre, finisce in mano a chi la voleva affossare.",
+  "journalist": {
+    "id": "giorgio_ferrara_01",
+    "firma": "Giorgio Ferrara",
+    "sezione": "economia"
+  },
+  "published_at": "2026-04-02T10:20:45.109988+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://www.ansa.it/webimages/img_1129x635/2026/4/2/b9444ff0985cad440233ae9af37d53ef.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"New Time supera 30% efficienza pannelli fotovoltaici\",\n  \"description\": \"New Time ha annunciato il 2 aprile 2026 di aver superato la soglia del 30% di efficienza nella produzione di pannelli fotovoltaici a base di perovskite, minerale cristallino che potrebbe rivoluzionare il mercato dell’energia solare. L’azienda, specializzata in tecnologie rinnovabili, promette costi \",\n  \"articleBody\": \"New Time ha annunciato il 2 aprile 2026 di aver superato la soglia del 30% di efficienza nella produzione di pannelli fotovoltaici a base di perovskite, minerale cristallino che potrebbe rivoluzionare il mercato dell’energia solare. L’azienda, specializzata in tecnologie rinnovabili, promette costi dimezzati rispetto al silicio tradizionale entro il 2028. Secondo il comunicato diffuso da New Time, i nuovi pannelli in perovskite raggiungono un’efficienza del 30,2%, rispetto al 22-24% dei moduli in silicio attualmente dominanti. La tecnologia, sviluppata nei laboratori di Milano e Dresda, sfrutta la capacità della perovskite di assorbire la luce in uno spettro più ampio, riducendo gli sprechi energetici. Il CEO Marco Bertolini ha dichiarato che la produzione industriale partirà nel 2027, con un investimento iniziale di 500 milioni di euro. “Entro tre anni, il prezzo per watt scenderà sotto i 20 centesimi, la metà di oggi”, ha aggiunto. L’ansa riporta che l’azienda ha già siglato accordi con tre utility europee per la fornitura di 2 GW di capacità entro il 2029. La corsa alla perovskite è l’ultimo capitolo di una guerra industriale che vede l’Europa arrancare dietro a Cina e Stati Uniti. Mentre Pechino controlla l’80% della filiera del silicio, New Time punta a spezzare il monopolio con un materiale più economico e versatile, che si applica anche su superfici flessibili. Ma c’è un problema: la perovskite si degrada rapidamente con umidità e calore. Bertolini assicura di aver risolto il rischio con un rivestimento nanotecnologico, ma gli analisti restano scettici. “Le promesse sulle perovskiti durano da un decennio”, ha twittato il fisico Carlo Rovelli, “e ogni volta saltano fuori nuovi ostacoli”. Intanto, i big del fossile – da Eni a Shell – hanno già acquisito il 15% di New Time, pronti a monetizzare la transizione verde senza smantellare gli asset inquinanti. La rivoluzione energetica, come sempre, finisce in mano a chi la voleva affossare.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Giorgio Ferrara\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-02T10:20:45.109988+00:00\",\n  \"dateModified\": \"2026-04-02T10:20:45.109988+00:00\",\n  \"url\": \"https://lentemattutina.it/economia/57f50ef09c8acf45\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/economia/57f50ef09c8acf45\"\n  },\n  \"articleSection\": \"Economia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.ansa.it/webimages/img_1129x635/2026/4/2/b9444ff0985cad440233ae9af37d53ef.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 5,
+  "source": "ANSA Economia",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/economia/2026/04/02/new-time-accelera-sullimpiego-della-perovskite-nel-fotovoltaico_150811ed-b3d1-42cf-a0f5-138ec58ca160.html",
+  "related": [
+    {
+      "title": "Credito Popolare e Pitagora insieme per un nuovo prodotto di cessione del quinto",
+      "url": "/economia/credito-popolare-e-pitagora-insieme-per-un-nuovo-p-6d98215bdba8b194",
+      "id": "6d98215bdba8b194",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/2/8956d616eddbab88cf0d4b2a633c97f6.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Harvard: 47% lavoratori sprecano tempo a correggere errori AI",
+      "url": "/economia/harvard-47-lavoratori-sprecano-tempo-a-correggere-05bc96be853dede3",
+      "id": "05bc96be853dede3",
+      "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/02/115422030-2e6d8a38-cec9-4057-9209-64e670d62407.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Alstom, Martin Sion è il nuovo amministratore delegato",
+      "url": "/economia/sion-e-luomo-di-alstom-partira-il-prossimo-aprile-75973274398da192",
+      "id": "75973274398da192",
+      "image_url": "",
+      "image_type": "none"
+    }
+  ]
+}
