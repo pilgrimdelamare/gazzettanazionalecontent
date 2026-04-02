@@ -1,5 +1,21 @@
 [
   {
+    "id": "650b154f1390552c",
+    "slug": "wall-street-scende-010-a-chiusura-di-giornata-650b154f1390552c",
+    "title": "Wall Street chiude in calo dello 0,10% il 2 aprile 2026 dopo una giornata di incertezza",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-02T15:27:49.564411+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/35118208/pexels-photo-35118208.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "WALL STREET PERDE LO 0,10%",
+    "lead_preview": "Wall Street ha chiuso la giornata del 2 aprile 2026 con una riduzione delle perdite del 0,10%, una variazione minima ma ",
+    "tags": [
+      "wall street 2 aprile 2026"
+    ]
+  },
+  {
     "id": "7162bde3c27ab4ff",
     "slug": "franco-colapinto-e-stato-fatto-oggetto-di-messaggi-7162bde3c27ab4ff",
     "title": "Messaggi d'odio per fondo perduto",
@@ -657,23 +673,6 @@
     "lead_preview": "Il 23enne ciclista spagnolo David Guardeno è stato ricoverato in terapia intensiva nella città di Sabadell il 2 aprile 2",
     "tags": [
       "incidente gardenno"
-    ]
-  },
-  {
-    "id": "650b154f1390552c",
-    "slug": "wall-street-scende-010-a-chiusura-di-giornata-650b154f1390552c",
-    "title": "Wall Street scende 0,10% a chiusura di giornata",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-04-02T15:27:49.564411+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/30/ceb7190bd1bc59a4f2501fa8e6fb4225.jpg",
-    "occhiello": "WALL STREET RIDUCE LE PERDITE",
-    "lead_preview": "Il mercato di Wall Street ha chiuso la giornata con una riduzione delle perdite del 0,10%, una cifra relativamente bassa",
-    "tags": [
-      "wall street",
-      "borsa americana"
     ]
   },
   {
