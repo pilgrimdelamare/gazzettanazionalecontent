@@ -1,5 +1,23 @@
 [
   {
+    "id": "06e8bdf030787cbc",
+    "slug": "il-guardian-cerca-giovani-talenti-apre-le-candidat-06e8bdf030787cbc",
+    "title": "Il Guardian lancia diari rurali scritti da under 30 in tutta la Gran Bretagna",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-01T10:38:14.328725+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1589738284462-b601bb7d6f51?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxydXJhbCUyMGxpZmUlMjB1a3xlbnwwfDB8fHwxNzc1MTEyNDkyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "",
+    "lead_preview": "Il 1° aprile 2026 il Guardian ha lanciato la serie Young Country Diary, una raccolta di diari scritti da giovani autori ",
+    "tags": [
+      "young country diary",
+      "guardian 2026",
+      "diari rurali"
+    ]
+  },
+  {
     "id": "d480335ac18b6d5b",
     "slug": "tribunale-dellaquila-sospende-trasferimento-figli-d480335ac18b6d5b",
     "title": "Catherine Birmingham potrebbe riabbracciare i figli entro fine mese: valutazione psichiatrica positiva",
@@ -2300,20 +2318,6 @@
     "tags": [
       "mondiali usa 2026"
     ]
-  },
-  {
-    "id": "06e8bdf030787cbc",
-    "slug": "il-guardian-cerca-giovani-talenti-apre-le-candidat-06e8bdf030787cbc",
-    "title": "Il guardian lancia diari giovanili sulla vita rurale",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-01T10:38:14.328725+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/34423686/pexels-photo-34423686.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "IL GUARDIAN LANCIA DIARI GIOVANILI SULLA VITA RURALE",
-    "lead_preview": "Il Guardian ha lanciato il 1° aprile 2026 la serie Young Country Diary, una raccolta di diari scritti da giovani autori ",
-    "tags": []
   },
   {
     "id": "50ae6be1ae073db0",
