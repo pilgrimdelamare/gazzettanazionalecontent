@@ -1,0 +1,57 @@
+{
+  "id": "322e651fba7391cc",
+  "slug": "john-travolta-presenta-il-suo-primo-film-come-regi-322e651fba7391cc",
+  "title": "John Travolta presenta il suo primo film come regista a Cannes 2026",
+  "titles": [
+    "John Travolta presenta il suo primo film come regista a Cannes 2026",
+    "Travolta al rovescio: da attore a regista con 'Vol de nuit pour Los Angeles'",
+    "Febbre di volo: John Travolta esordisce come regista a Cannes nel 2026"
+  ],
+  "title_winner": null,
+  "section": "esteri",
+  "occhiello": "FONDI SCOMPARSI DOPO IL VOTO",
+  "lead": "John Travolta presenterà a Cannes il suo primo film come regista, \"Vol de nuit pour Los Angeles\", il 2 aprile 2026. Il Festival di Cannes si terrà a Cannes, in Francia.",
+  "corpo1": "John Travolta, l'attore americano noto per il suo ruolo in \"Saturday Night Fever\" e \"Pulp Fiction\", presenterà il suo primo film come regista, \"Vol de nuit pour Los Angeles\", al Festival di Cannes 2026. Il film è un adattamento del libro pubblicato da Travolta nel 1997 e racconta il viaggio di un bambino all'epoca dell'aviazione commerciale. Travolta ha già ricevuto numerose candidature ai premi Oscar e ai Golden Globe, e ha vinto un Primetime Emmy Award. La prima del film è prevista per il 2 aprile 2026 a Cannes, in Francia. Secondo la fonte, il film racconta il viaggio di un bambino che vola da New York a Los Angeles alla fine degli anni '50. La storia è stata scritta da Travolta e sarà il suo esordio come regista. Le prime immagini del film sono state pubblicate su Netflix e hanno attirato l'attenzione di molti fan della carriera di Travolta.",
+  "corpo2": "Il film \"Vol de nuit pour Los Angeles\" è un nuovo capitolo nella carriera di John Travolta, che ha già dimostrato la sua capacità di interpretare ruoli diversi. Con il suo esordio come regista, Travolta si avvicina a un nuovo ruolo nel mondo del cinema. La storia del film si inserisce nella tradizione della cinematografia francese, che ama raccontare storie di viaggio e avventura. La carriera di Travolta cambierà davvero. A pagare il conto saranno i soliti noti: la concorrenza nel mondo del cinema e la difficile arte di mantenere la propria identità nel tempo.",
+  "journalist": {
+    "id": "fabrizio_mei_01",
+    "firma": "Fabrizio Mei",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-04-02T15:39:55.994685+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/17742193/pexels-photo-17742193.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Alex Ozerov-Meyer",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"John Travolta presenta il suo primo film come regista a Cannes 2026\",\n  \"description\": \"John Travolta presenterà a Cannes il suo primo film come regista, \\\"Vol de nuit pour Los Angeles\\\", il 2 aprile 2026. Il Festival di Cannes si terrà a Cannes, in Francia.\",\n  \"articleBody\": \"John Travolta presenterà a Cannes il suo primo film come regista, \\\"Vol de nuit pour Los Angeles\\\", il 2 aprile 2026. Il Festival di Cannes si terrà a Cannes, in Francia. John Travolta, l'attore americano noto per il suo ruolo in \\\"Saturday Night Fever\\\" e \\\"Pulp Fiction\\\", presenterà il suo primo film come regista, \\\"Vol de nuit pour Los Angeles\\\", al Festival di Cannes 2026. Il film è un adattamento del libro pubblicato da Travolta nel 1997 e racconta il viaggio di un bambino all'epoca dell'aviazione commerciale. Travolta ha già ricevuto numerose candidature ai premi Oscar e ai Golden Globe, e ha vinto un Primetime Emmy Award. La prima del film è prevista per il 2 aprile 2026 a Cannes, in Francia. Secondo la fonte, il film racconta il viaggio di un bambino che vola da New York a Los Angeles alla fine degli anni '50. La storia è stata scritta da Travolta e sarà il suo esordio come regista. Le prime immagini del film sono state pubblicate su Netflix e hanno attirato l'attenzione di molti fan della carriera di Travolta. Il film \\\"Vol de nuit pour Los Angeles\\\" è un nuovo capitolo nella carriera di John Travolta, che ha già dimostrato la sua capacità di interpretare ruoli diversi. Con il suo esordio come regista, Travolta si avvicina a un nuovo ruolo nel mondo del cinema. La storia del film si inserisce nella tradizione della cinematografia francese, che ama raccontare storie di viaggio e avventura. La carriera di Travolta cambierà davvero. A pagare il conto saranno i soliti noti: la concorrenza nel mondo del cinema e la difficile arte di mantenere la propria identità nel tempo.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Fabrizio Mei\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-02T15:39:55.994685+00:00\",\n  \"dateModified\": \"2026-04-02T15:39:55.994685+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/322e651fba7391cc\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/322e651fba7391cc\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/17742193/pexels-photo-17742193.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Alex Ozerov-Meyer\"\n  }\n}",
+  "priority": 3,
+  "source": "Le Monde",
+  "source_type": "esteri",
+  "original_url": "https://www.lemonde.fr/culture/article/2026/04/02/festival-de-cannes-john-travolta-presentera-sur-la-croisette-vol-de-nuit-pour-los-angeles-son-premier-film-en-tant-que-realisateur_6676144_3246.html",
+  "related": [
+    {
+      "title": "John Davidson, ex detenuto, diventa consulente del film sulla sua vita presentato a Roma il 15 marzo 2026",
+      "url": "/esteri/john-davidson-il-cui-percorso-personale-ispira-il-e418adc13e34788f",
+      "id": "e418adc13e34788f",
+      "image_url": "https://images.unsplash.com/photo-1559534654-5ae14d7b0dee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxwcmlzb24lMjByaWdodHMlMjBhY3RpdmlzdHxlbnwwfDB8fHwxNzc1MDkxODQ5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Senatore USA John Smith arrestato a Disney World per frode",
+      "url": "/esteri/senatore-usa-a-disney-world-mentre-lo-shutdown-con-50a110abd347e01a",
+      "id": "50a110abd347e01a",
+      "image_url": "https://images.pexels.com/photos/33921159/pexels-photo-33921159.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
+    },
+    {
+      "title": "Notizia in primo piano",
+      "url": "/esteri/haiti-attacco-di-gang-70-morti-e-30-feriti-nella-r-acf20a6e708a1483",
+      "id": "acf20a6e708a1483",
+      "image_url": "https://images.unsplash.com/photo-1547269256-52cf3e34fae7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHw3MCUyMG1vcnRpJTIwSGFpdGl8ZW58MHwwfHx8MTc3NDk0NzYyNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    }
+  ]
+}
