@@ -1,18 +1,18 @@
 {
   "id": "0db81c64e8208e4c",
   "slug": "trump-prendete-il-petrolio-di-hormuz-se-lo-prenda-0db81c64e8208e4c",
-  "title": "Trump: 'Prendete il petrolio di Hormuz, se lo prenda'",
+  "title": "Trump: 'chi prende petrolio da Hormuz, se ne occupi'",
   "titles": [
-    "Trump: 'Prendete il petrolio di Hormuz, se lo prenda'",
-    "Donald Trump minaccia l'Iran: 'Lo riporteremo all'età della pietra'",
-    "Petrolio di Hormuz nel mirino, mercati in subbuglio"
+    "Trump: 'chi prende petrolio da Hormuz, se ne occupi'",
+    "La mossa di Trump sullo stretto di Hormuz: tensione con l'Iran",
+    "L'alleanza NATO sotto attacco: Trump minaccia di uscire"
   ],
   "title_winner": null,
   "section": "esteri",
-  "occhiello": "TRUMP MINACCIA L'IRAN",
-  "lead": "Donald trump, presidente degli stati uniti d'america, ha dichiarato che \"chi riceve il petrolio da Hormuz vada allo Stretto e se lo prenda\", secondo quanto riportato da ansa.",
-  "corpo1": "Il presidente trump ha fatto questa dichiarazione in un contesto di crescente tensione tra gli stati uniti e l'iran. Secondo ansa, trump ha anche affermato che \"colpiremo duramente l'iran, lo riporteremo all'età della pietra\". Non sono stati forniti ulteriori dettagli su cosa si intenda per \"colpire duramente\" l'iran, ma la dichiarazione di trump ha suscitato preoccupazione nel mondo politico e diplomatico. Il petrolio di Hormuz è un tema molto sensibile, poiché lo Stretto di Hormuz è un importante punto di passaggio per il petrolio proveniente dal golfo persico. La dichiarazione di trump potrebbe avere implicazioni significative per il mercato del petrolio e per la stabilità della regione. Secondo la fonte, non ci sono state reazioni ufficiali da parte dell'iran in risposta alle dichiarazioni di trump.",
-  "corpo2": "Donald trump è noto per le sue dichiarazioni provocatorie e per la sua politica aggressiva nei confronti dell'iran. In passato, ha annullato l'accordo nucleare con l'iran e ha reimposto sanzioni economiche contro il paese. La sua politica ha creato tensioni con gli alleati europei e ha aumentato lainstabilità nella regione. La dichiarazione di trump sul petrolio di Hormuz potrebbe essere vista come un ulteriore passo nella sua strategia di pressione sull'iran. Ciò che cambia davvero è che le dichiarazioni di trump potrebbero avere un impatto concreto sul mercato del petrolio e sulla stabilità della regione, e che a pagare il prezzo più alto saranno i paesi che dipendono dal petrolio di Hormuz, come l'europa e l'asia.",
+  "occhiello": "TRUMP ORDINA DI PRENDERSI IL PETROLIO DI HORMUZ",
+  "lead": "Donald Trump, presidente degli stati uniti d'america, ha dichiarato che \"chi riceve il petrolio da Hormuz vada allo stretto\" durante un discorso alla Nazione, il 2 aprile 2026.",
+  "corpo1": "Secondo la Repubblica, Trump ha affermato che \"l'iran è decimato, siamo vicini a finire il lavoro\" e ha invitato i paesi che ricevono petrolio da Hormuz a occuparsene personalmente. Il discorso di Trump è stato seguito da una Serie di reazioni internazionali, con gli europei che hanno accelerato i loro sforzi per riaprire il golfo persico. Un vertice dei volenterosi si è tenuto a Londra per discutere la situazione e trovare una soluzione. Intanto, la nato è stata oggetto di una bordata di Trump, che ha dichiarato di voler abbandonare l'alleanza. Tuttavia, ha anche aperto alla possibilità di una tregua con l'iran, a condizione che il paese liberi lo stretto di Hormuz. Secondo paolo mastrolilli, corrispondente della Repubblica, Trump ha affermato che \"teheran vuole un cessate il fuoco, accetto solo se liberano Hormuz\".",
+  "corpo2": "Donald Trump, 47º presidente degli stati uniti d'america, ha una lunga storia di dichiarazioni controverse e di azioni unilaterali. In passato, ha sido noto per le sue posizioni nazionaliste e per la sua volontà di ridurre il ruolo degli stati uniti nelle organizzazioni internazionali. La sua dichiarazione sulla nato e sul petrolio di Hormuz non è quindi una sorpresa, ma riflette la sua strategia di isolazionismo e di assertività. Il meccanismo strutturale che spiega questa notizia è la volontà degli stati uniti di mantenere il controllo sulle risorse energetiche mondiali e di ridurre la dipendenza dalle organizzazioni internazionali. Ciò che cambia davvero in questa vicenda è il ruolo degli stati uniti nel golfo persico e la possibilità di un conflitto più ampio nella regione. A pagare il conto di questa strategia saranno i paesi che dipendono dal petrolio di Hormuz, tra cui l'Italia.",
   "journalist": {
     "id": "anna_colombo_01",
     "firma": "Anna Colombo",
@@ -20,16 +20,17 @@
   },
   "published_at": "2026-04-02T02:11:45.388247+00:00",
   "image": {
-    "type": "image",
-    "url": "https://www.ansa.it/webimages/img_1129x635/2026/4/2/5be02349c4d7c75347f1a1d418aa5685.jpg",
-    "credit": "",
-    "source": "original"
+    "type": "wikimedia",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Crude_oil%2C_condensate%2C_and_petroleum_products_transported_through_the_Strait_of_Hormuz_in_2014_through_2018_%2848097472312%29.png",
+    "source": "Wikimedia Commons",
+    "credit": "U.S. Energy Information Administration",
+    "license": "CC"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Trump: 'Prendete il petrolio di Hormuz, se lo prenda'\",\n  \"description\": \"Donald trump, presidente degli stati uniti d'america, ha dichiarato che \\\"chi riceve il petrolio da Hormuz vada allo Stretto e se lo prenda\\\", secondo quanto riportato da ansa.\",\n  \"articleBody\": \"Donald trump, presidente degli stati uniti d'america, ha dichiarato che \\\"chi riceve il petrolio da Hormuz vada allo Stretto e se lo prenda\\\", secondo quanto riportato da ansa. Il presidente trump ha fatto questa dichiarazione in un contesto di crescente tensione tra gli stati uniti e l'iran. Secondo ansa, trump ha anche affermato che \\\"colpiremo duramente l'iran, lo riporteremo all'età della pietra\\\". Non sono stati forniti ulteriori dettagli su cosa si intenda per \\\"colpire duramente\\\" l'iran, ma la dichiarazione di trump ha suscitato preoccupazione nel mondo politico e diplomatico. Il petrolio di Hormuz è un tema molto sensibile, poiché lo Stretto di Hormuz è un importante punto di passaggio per il petrolio proveniente dal golfo persico. La dichiarazione di trump potrebbe avere implicazioni significative per il mercato del petrolio e per la stabilità della regione. Secondo la fonte, non ci sono state reazioni ufficiali da parte dell'iran in risposta alle dichiarazioni di trump. Donald trump è noto per le sue dichiarazioni provocatorie e per la sua politica aggressiva nei confronti dell'iran. In passato, ha annullato l'accordo nucleare con l'iran e ha reimposto sanzioni economiche contro il paese. La sua politica ha creato tensioni con gli alleati europei e ha aumentato lainstabilità nella regione. La dichiarazione di trump sul petrolio di Hormuz potrebbe essere vista come un ulteriore passo nella sua strategia di pressione sull'iran. Ciò che cambia davvero è che le dichiarazioni di trump potrebbero avere un impatto concreto sul mercato del petrolio e sulla stabilità della regione, e che a pagare il prezzo più alto saranno i paesi che dipendono dal petrolio di Hormuz, come l'europa e l'asia.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-02T02:11:45.388247+00:00\",\n  \"dateModified\": \"2026-04-02T02:11:45.388247+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/0db81c64e8208e4c\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/0db81c64e8208e4c\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.ansa.it/webimages/img_1129x635/2026/4/2/5be02349c4d7c75347f1a1d418aa5685.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Trump: 'chi prende petrolio da Hormuz, se ne occupi'\",\n  \"description\": \"Donald Trump, presidente degli stati uniti d'america, ha dichiarato che \\\"chi riceve il petrolio da Hormuz vada allo stretto\\\" durante un discorso alla Nazione, il 2 aprile 2026.\",\n  \"articleBody\": \"Donald Trump, presidente degli stati uniti d'america, ha dichiarato che \\\"chi riceve il petrolio da Hormuz vada allo stretto\\\" durante un discorso alla Nazione, il 2 aprile 2026. Secondo la Repubblica, Trump ha affermato che \\\"l'iran è decimato, siamo vicini a finire il lavoro\\\" e ha invitato i paesi che ricevono petrolio da Hormuz a occuparsene personalmente. Il discorso di Trump è stato seguito da una Serie di reazioni internazionali, con gli europei che hanno accelerato i loro sforzi per riaprire il golfo persico. Un vertice dei volenterosi si è tenuto a Londra per discutere la situazione e trovare una soluzione. Intanto, la nato è stata oggetto di una bordata di Trump, che ha dichiarato di voler abbandonare l'alleanza. Tuttavia, ha anche aperto alla possibilità di una tregua con l'iran, a condizione che il paese liberi lo stretto di Hormuz. Secondo paolo mastrolilli, corrispondente della Repubblica, Trump ha affermato che \\\"teheran vuole un cessate il fuoco, accetto solo se liberano Hormuz\\\". Donald Trump, 47º presidente degli stati uniti d'america, ha una lunga storia di dichiarazioni controverse e di azioni unilaterali. In passato, ha sido noto per le sue posizioni nazionaliste e per la sua volontà di ridurre il ruolo degli stati uniti nelle organizzazioni internazionali. La sua dichiarazione sulla nato e sul petrolio di Hormuz non è quindi una sorpresa, ma riflette la sua strategia di isolazionismo e di assertività. Il meccanismo strutturale che spiega questa notizia è la volontà degli stati uniti di mantenere il controllo sulle risorse energetiche mondiali e di ridurre la dipendenza dalle organizzazioni internazionali. Ciò che cambia davvero in questa vicenda è il ruolo degli stati uniti nel golfo persico e la possibilità di un conflitto più ampio nella regione. A pagare il conto di questa strategia saranno i paesi che dipendono dal petrolio di Hormuz, tra cui l'Italia.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-02T02:11:45.388247+00:00\",\n  \"dateModified\": \"2026-04-02T02:11:45.388247+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/0db81c64e8208e4c\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/0db81c64e8208e4c\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://upload.wikimedia.org/wikipedia/commons/d/db/Crude_oil%2C_condensate%2C_and_petroleum_products_transported_through_the_Strait_of_Hormuz_in_2014_through_2018_%2848097472312%29.png\",\n    \"creditText\": \"U.S. Energy Information Administration\"\n  }\n}",
   "priority": 5,
-  "source": "ANSA Esteri",
-  "source_type": "ansa",
-  "original_url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/04/02/trump-colpiremo-duramente-liran-lo-riporteremo-alleta-della-pietra_a7623167-a7cd-4e63-a4d2-40348ce8ec52.html",
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://lentemattutina.it/esteri/trump-prendete-il-petrolio-di-hormuz-se-lo-prenda-0db81c64e8208e4c",
   "related": [
     {
       "title": "Trump: 'Iran riapra Hormuz o distruggerò impianti'",
@@ -39,18 +40,19 @@
       "image_type": "flickr"
     },
     {
-      "title": "Keir Starmer convoca vertice su crisi nello Stretto di Hormuz a Londra.",
-      "url": "/esteri/starmer-riunisce-30-paesi-a-londra-per-proteggere-1c5aa81d94d80277",
-      "id": "1c5aa81d94d80277",
-      "image_url": "https://images.unsplash.com/photo-1560331027-f4a9868c0fc7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxLZWlyJTIwU3Rhcm1lcnxlbnwwfDB8fHwxNzc1MDkxOTI5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "title": "Iran chiude lo stretto di Hormuz",
+      "url": "/esteri/iran-chiude-hormuz-ai-nemici-d27dfee656136d3b",
+      "id": "d27dfee656136d3b",
+      "image_url": "https://images.unsplash.com/photo-1744912046344-bc9486c61bf5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxpcmFuJTIwbmF2eSUyMHdhcnNoaXB8ZW58MHwwfHx8MTc3NTEwNDk4M3ww&ixlib=rb-4.1.0&q=80&w=1080",
       "image_type": "unsplash"
     },
     {
-      "title": "Trump: 'L'Iran chiede il cessate il fuoco, pronti a trattare'",
-      "url": "/esteri/liran-chiede-cessate-il-fuoco-a-trump-la-proposta-ae34d99048e98bf0",
-      "id": "ae34d99048e98bf0",
-      "image_url": "https://images.pexels.com/photos/7049808/pexels-photo-7049808.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "image_type": "pexels"
+      "title": "Trump: guerra in Iran quasi completata",
+      "url": "/esteri/trump-guerra-in-iran-quasi-completata-5c343af1a982983f",
+      "id": "5c343af1a982983f",
+      "image_url": "https://i.guim.co.uk/img/media/a824f75b9b2844460d05da9c06e390171eabfb0b/385_0_3851_3081/master/3851.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9003f737134c7545a3f08dfd7d3d8d1d",
+      "image_type": "image"
     }
-  ]
+  ],
+  "updated_at": "2026-04-02T02:11:45.388247+00:00"
 }
