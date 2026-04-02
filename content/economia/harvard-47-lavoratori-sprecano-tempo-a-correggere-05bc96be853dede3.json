@@ -1,0 +1,56 @@
+{
+  "id": "05bc96be853dede3",
+  "slug": "harvard-47-lavoratori-sprecano-tempo-a-correggere-05bc96be853dede3",
+  "title": "Harvard: 47% lavoratori sprecano tempo a correggere errori AI",
+  "titles": [
+    "Harvard: 47% lavoratori sprecano tempo a correggere errori AI",
+    "Professor Bertoni: 'Paradosso della supervisione' con l'AI",
+    "Produttività cala del 12% nei settori finanziari e grande distribuzione"
+  ],
+  "title_winner": null,
+  "section": "economia",
+  "occhiello": "ALGORITMI AUMENTANO CARICO LAVORO INVECE DI ALLEGGERIRLO",
+  "lead": "Il 2 aprile 2026, uno studio pubblicato su Harvard Business Review rivela che l’uso improprio dell’intelligenza artificiale nei luoghi di Lavoro sta producendo l’effetto opposto a quello promesso: invece di aumentare la produttività, la sta riducendo. Il fenomeno è stato ribattezzato \"AI brain fry\".",
+  "corpo1": "Secondo la ricerca, il 47% dei lavoratori che utilizzano sistemi di intelligenza artificiale dichiara di sprecare più tempo a correggere gli errori degli algoritmi che a svolgere effettivamente il proprio Lavoro. Il problema non è la tecnologia in sé, ma come viene implementata: in assenza di formazione adeguata, i dipendenti finiscono per fare da babysitter ai software, controllando riga per riga i loro output invece di delegare in modo efficace. Lo scenario è particolarmente grave nel settore finanziario e in quello della grande distribuzione, dove l’adozione di strumenti di automazione è esplosa negli ultimi tre anni. La Banca d’Italia ha già segnalato un calo medio del 12% nella produttività dei dipendenti bancari che utilizzano quotidianamente sistemi di AI per l’analisi del credito. \"Siamo di fronte a un paradosso della supervisione\", ha dichiarato il professor Marco Bertoni dell’Università Bocconi, tra gli autori dello studio. \"Più l’algoritmo è sofisticato, più tempo richiede per essere addomesticato\".",
+  "corpo2": "L’allarme arriva proprio mentre il governo sta spingendo per detassare gli investimenti in automazione, con un credito d’imposta del 30% per le aziende che adottano soluzioni di intelligenza artificiale. Peccato che, stando ai dati, il 60% delle imprese italiane non abbia ancora formato il personale su come usarle. La conseguenza è un circolo vizioso: i manager acquistano software costosi per tagliare i costi del Lavoro, ma finiscono per pagare gli stessi stipendi a dipendenti ora impegnati a pulire i disastri dei bot. E mentre i CEO vantano \"efficientamento\" nelle conferenze stampa, nei reparti si moltiplicano le ore straordinarie non retribuite per sistemare quello che le macchine sbagliano. L’unica soluzione, suggeriscono i ricercatori, è invertire la priorità: prima la formazione, poi la tecnologia. Ma in un mercato dove l’azionista pretende riduzioni di costo immediate, formare i dipendenti è un lusso che pochi si possono permettere. Alla fine, come sempre, il conto lo pagano quelli che stanno alla scrivania, non quelli che firmano gli assegni.",
+  "journalist": {
+    "id": "giorgio_ferrara_01",
+    "firma": "Giorgio Ferrara",
+    "sezione": "economia"
+  },
+  "published_at": "2026-04-02T10:04:16.307365+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://www.repstatic.it/content/nazionale/img/2026/04/02/115422030-2e6d8a38-cec9-4057-9209-64e670d62407.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Harvard: 47% lavoratori sprecano tempo a correggere errori AI\",\n  \"description\": \"Il 2 aprile 2026, uno studio pubblicato su Harvard Business Review rivela che l’uso improprio dell’intelligenza artificiale nei luoghi di Lavoro sta producendo l’effetto opposto a quello promesso: invece di aumentare la produttività, la sta riducendo. Il fenomeno è stato ribattezzato \\\"AI brain fry\\\".\",\n  \"articleBody\": \"Il 2 aprile 2026, uno studio pubblicato su Harvard Business Review rivela che l’uso improprio dell’intelligenza artificiale nei luoghi di Lavoro sta producendo l’effetto opposto a quello promesso: invece di aumentare la produttività, la sta riducendo. Il fenomeno è stato ribattezzato \\\"AI brain fry\\\". Secondo la ricerca, il 47% dei lavoratori che utilizzano sistemi di intelligenza artificiale dichiara di sprecare più tempo a correggere gli errori degli algoritmi che a svolgere effettivamente il proprio Lavoro. Il problema non è la tecnologia in sé, ma come viene implementata: in assenza di formazione adeguata, i dipendenti finiscono per fare da babysitter ai software, controllando riga per riga i loro output invece di delegare in modo efficace. Lo scenario è particolarmente grave nel settore finanziario e in quello della grande distribuzione, dove l’adozione di strumenti di automazione è esplosa negli ultimi tre anni. La Banca d’Italia ha già segnalato un calo medio del 12% nella produttività dei dipendenti bancari che utilizzano quotidianamente sistemi di AI per l’analisi del credito. \\\"Siamo di fronte a un paradosso della supervisione\\\", ha dichiarato il professor Marco Bertoni dell’Università Bocconi, tra gli autori dello studio. \\\"Più l’algoritmo è sofisticato, più tempo richiede per essere addomesticato\\\". L’allarme arriva proprio mentre il governo sta spingendo per detassare gli investimenti in automazione, con un credito d’imposta del 30% per le aziende che adottano soluzioni di intelligenza artificiale. Peccato che, stando ai dati, il 60% delle imprese italiane non abbia ancora formato il personale su come usarle. La conseguenza è un circolo vizioso: i manager acquistano software costosi per tagliare i costi del Lavoro, ma finiscono per pagare gli stessi stipendi a dipendenti ora impegnati a pulire i disastri dei bot. E mentre i CEO vantano \\\"efficientamento\\\" nelle conferenze stampa, nei reparti si moltiplicano le ore straordinarie non retribuite per sistemare quello che le macchine sbagliano. L’unica soluzione, suggeriscono i ricercatori, è invertire la priorità: prima la formazione, poi la tecnologia. Ma in un mercato dove l’azionista pretende riduzioni di costo immediate, formare i dipendenti è un lusso che pochi si possono permettere. Alla fine, come sempre, il conto lo pagano quelli che stanno alla scrivania, non quelli che firmano gli assegni.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Giorgio Ferrara\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-02T10:04:16.307365+00:00\",\n  \"dateModified\": \"2026-04-02T10:04:16.307365+00:00\",\n  \"url\": \"https://lentemattutina.it/economia/05bc96be853dede3\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/economia/05bc96be853dede3\"\n  },\n  \"articleSection\": \"Economia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.repstatic.it/content/nazionale/img/2026/04/02/115422030-2e6d8a38-cec9-4057-9209-64e670d62407.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 5,
+  "source": "Repubblica Economia",
+  "source_type": "competitor",
+  "original_url": "https://www.repubblica.it/economia/2026/04/02/news/ia_frigge_cervello_danneggia_produttivita-425259870/?rss",
+  "related": [
+    {
+      "title": "Alstom, Martin Sion è il nuovo amministratore delegato",
+      "url": "/economia/sion-e-luomo-di-alstom-partira-il-prossimo-aprile-75973274398da192",
+      "id": "75973274398da192",
+      "image_url": "",
+      "image_type": "none"
+    },
+    {
+      "title": "19,1 miliardi di danni in 10 anni: l'Italia paga il prezzo dell'incuria",
+      "url": "/economia/191-miliardi-di-euro-in-danni-1ea16cbaebf65f3d",
+      "id": "1ea16cbaebf65f3d",
+      "image_url": "https://images.pexels.com/photos/10149289/pexels-photo-10149289.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
+    },
+    {
+      "title": "Istat: commercio al dettaglio fermo a febbraio",
+      "url": "/economia/istat-commercio-al-dettaglio-fermo-a-febbraio-7d57150afd017fee",
+      "id": "7d57150afd017fee",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/31/ec88f27403b69e6c80bf94dd72ed6ce1.jpg",
+      "image_type": "image"
+    }
+  ]
+}
