@@ -1,5 +1,22 @@
 [
   {
+    "id": "0490c8150dd0e7eb",
+    "slug": "gravina-si-dimette-0490c8150dd0e7eb",
+    "title": "Gravina si dimette dalla Figc dopo terza sconfitta in due anni",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Chiara Esposito",
+    "published_at": "2026-04-02T13:20:13.612242+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1636041162240-fdade1816567?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxCb3NuaWElMjBmbG9vZHxlbnwwfDB8fHwxNzc1MTQ1MTM4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "GRAVINA SI DIMETTE DA FIGC.",
+    "lead_preview": "Gabriele Gravina si è dimesso da presidente della Figc, dopo la disfatta in Bosnia che condanna l'Italia per la terza vo",
+    "tags": [
+      "dimissioni gravina",
+      "figc"
+    ]
+  },
+  {
     "id": "60218aa2a345f246",
     "slug": "bollette-in-aumento-60218aa2a345f246",
     "title": "Bollette in aumento",
@@ -362,24 +379,6 @@
       "renault italia 2026",
       "vendite auto italia",
       "quota mercato renault"
-    ]
-  },
-  {
-    "id": "0490c8150dd0e7eb",
-    "slug": "gravina-si-dimette-0490c8150dd0e7eb",
-    "title": "Gravina si dimette",
-    "section": "cronaca",
-    "priority": 4,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-04-02T13:20:13.612242+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/02/143051169-0ded483e-2de9-429f-8141-d87d7fe9e1ad.jpg",
-    "occhiello": "GRAVINA SI DIMETTE",
-    "lead_preview": "Gabriele gravina si è dimesso da presidente della Figc, dopo la disfatta in bosnia che condanna l'Italia per la terza vo",
-    "tags": [
-      "dimissioni gravina",
-      "figc",
-      "nazionale italiana"
     ]
   },
   {
