@@ -226,8 +226,8 @@
     "priority": 5,
     "journalist_firma": "Anna Colombo",
     "published_at": "2026-04-02T02:57:33.061570+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1770985273494-da55a36b8095?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHx3YXIlMjBpbiUyMElyYW58ZW58MHwwfHx8MTc3NTEwNzc3N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "image_type": "image",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/HIMARS_Support_Operation_Epic_Fury_%289564974%29.jpg",
     "occhiello": "TRUMP: GUERRA IN IRAN \"QUASI COMPLETATA\"",
     "lead_preview": "Mercoledì sera, il presidente degli Stati Uniti d'America, Donald Trump, ha dichiarato che la guerra in Iran è \"quasi co",
     "tags": [
