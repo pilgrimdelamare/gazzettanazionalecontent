@@ -1,5 +1,22 @@
 [
   {
+    "id": "2861a64be068254b",
+    "slug": "gilberto-gil-in-italia-il-4-e-5-aprile-con-patty-p-2861a64be068254b",
+    "title": "Gilberto Gil in concerto a Milano: venerdì 4 e domenica 5 aprile al Mediolanum Forum!",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-01T12:43:47.745123+00:00",
+    "image_type": "flickr",
+    "image_url": "https://live.staticflickr.com/65535/53696271468_f3a8e885a4_b.jpg",
+    "occhiello": "GIILBERTO GIL IN TOUR CON PATTY PRAVO",
+    "lead_preview": "Gilberto Gil si esibirà in Italia sabato 4 e domenica 5 aprile 2026 a Milano, nei concerti del fine settimana che vedran",
+    "tags": [
+      "gilberto gil",
+      "concerto milano"
+    ]
+  },
+  {
     "id": "6b451d3cd08fd727",
     "slug": "la-commissione-giustizia-istituisce-un-comitato-ri-6b451d3cd08fd727",
     "title": "Senato approva riscrittura ddl violenza sessuale: i 22 voti che decideranno il destino delle vittime",
@@ -1172,24 +1189,6 @@
       "stretto di hormuz",
       "vertice londra",
       "keir starmer"
-    ]
-  },
-  {
-    "id": "2861a64be068254b",
-    "slug": "gilberto-gil-in-italia-il-4-e-5-aprile-con-patty-p-2861a64be068254b",
-    "title": "Gilberto Gil esce in tour: sabato 4 aprile a [luogo] con Patty Pravo e Renato Zero",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-04-01T12:43:47.745123+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1612091801985-43d3fd6292bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxHaWxiZXJ0byUyMEdpbHxlbnwwfDB8fHwxNzc1MDU3NTgxfDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "GIILBERTO GIL IN ITALIA CON PATTY PRAVO E RENATO ZERO",
-    "lead_preview": "Gilberto Gil si esibirà in Italia sabato 4 e domenica 5 aprile 2026, nei concerti del fine settimana che vedranno salire",
-    "tags": [
-      "gilberto gil tour",
-      "patty pravo",
-      "renato zero"
     ]
   },
   {
