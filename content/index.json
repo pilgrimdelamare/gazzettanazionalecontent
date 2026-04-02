@@ -1,5 +1,23 @@
 [
   {
+    "id": "8628f0da4db58267",
+    "slug": "laustria-rifiuta-i-sorvolo-usa-8628f0da4db58267",
+    "title": "Austria rifiuta sorvolo Usa, Washington è in ansia",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-02T13:20:03.755276+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1707829248964-6f2372e1c260?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxXb2xmZ2FuZyUyMFNjaGFsbGVuYmVyZ3xlbnwwfDB8fHwxNzc1MTQ0Njg2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "",
+    "lead_preview": "Wolfgang Schallenberg, ministro degli Esteri austriaco, ha annunciato il 2 aprile 2026 che il governo di Vienna ha respi",
+    "tags": [
+      "austria usa sorvolo",
+      "sorvolo usatoestra",
+      "relazioni usoaustria"
+    ]
+  },
+  {
     "id": "322e651fba7391cc",
     "slug": "john-travolta-presenta-il-suo-primo-film-come-regi-322e651fba7391cc",
     "title": "John Travolta presenta il suo primo film come regista a Cannes 2026",
@@ -344,20 +362,6 @@
       "figc",
       "nazionale italiana"
     ]
-  },
-  {
-    "id": "8628f0da4db58267",
-    "slug": "laustria-rifiuta-i-sorvolo-usa-8628f0da4db58267",
-    "title": "L'austria rifiuta i sorvolo usa",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-02T13:20:03.755276+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/2/19836ca74579519e5786c84cfa8107fd.jpg",
-    "occhiello": "L'AUSTRIA RIFIUTA I SORVOLO USA",
-    "lead_preview": "L'Austria annuncia di aver rifiutato le richieste Usa di sorvolo del suo territorio, a seguito di una serie di conferenz",
-    "tags": []
   },
   {
     "id": "5a6b0a9f8b1cd26f",
