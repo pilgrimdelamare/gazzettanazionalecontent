@@ -1,56 +1,58 @@
 {
   "id": "2a5a32e0e8e71568",
   "slug": "paolo-dachille-litaliano-standard-in-declino-2a5a32e0e8e71568",
-  "title": "Paolo D'Achille: l'italiano standard in declino",
+  "title": "D'Achille: riduzione di 50% finanziamenti per la ricerca linguistica in Italia",
   "titles": [
-    "Paolo D'Achille: l'italiano standard in declino",
-    "L'Accademia della Crusca lancia l'allarme: solo il 42% degli under 35 legge un libro all'anno",
-    "La lingua italiana rischia di diventare un dialetto tra tanti: l'appello della Crusca ignorato"
+    "D'Achille: riduzione di 50% finanziamenti per la ricerca linguistica in Italia",
+    "La lingua italiana al declino? Paolo D'Achille denuncia la mancanza di priorità del governo",
+    "Accademia della Crusca: governo ignora lingua italiana, finanziamenti ridotti a un quinto del precedente"
   ],
   "title_winner": null,
   "section": "cronaca",
-  "occhiello": "CRUSCA: \"L'ITALIANO RISCHIA DI DIVENTARE UN DIALETTO\"",
-  "lead": "Paolo D'Achille, presidente dell'Accademia della Crusca, ha lanciato un allarme sul futuro della lingua Italiana durante un intervento pubblico il 1° aprile 2026. \"Non esploderà, non crollerà all'improvviso. Se l'italiano dovesse davvero finire, lo farà in silenzio\", ha detto citando T.S. Eliot. Il processo di \"destandardizzazione\" della lingua è già in corso, avverte l'istituzione che dal 1583 custodisce il patrimonio linguistico nazionale.",
-  "corpo1": "Il fenomeno che preoccupa gli accademici è la progressiva frammentazione dell'italiano in varianti regionali e gergali, con una perdita di unità e prestigio. \"Rischia di diventare un dialetto tra tanti\", ha spiegato D'Achille, sottolineando come l'italiano standard stia perdendo terreno sia nell'uso quotidiano che nelle istituzioni. L'Accademia registra da anni l'avanzata di anglicismi non necessari, errori grammaticali sistematici nei media e un calo delle competenze linguistiche tra i giovani. I dati più recenti dell'Istat mostrano che solo il 42% degli under 35 legge almeno un libro all'anno, mentre il 68% ammette di avere difficoltà con la comprensione di testi complessi. La Crusca invoca interventi urgenti nel sistema scolastico e nei mezzi di comunicazione di massa, ma finora le richieste sono cadute nel vuoto.",
-  "corpo2": "Non è la prima volta che l'Accademia suona l'allarme. Già nel 2023 aveva denunciato l'abbandono dell'italiano nei documenti ufficiali dell'Unione Europea, sostituito sistematicamente dall'inglese. La differenza è che ora il fenomeno riguarda l'uso interno al paese. Per capire la posta in gioco basta un dato: degli oltre 7.000 lingue parlate nel mondo, solo 200 hanno uno status di lingua ufficiale e letteraria. L'italiano è tra queste da sette secoli, ma il suo dominio si sta erodendo a vantaggio di un plurilinguismo superficiale dove nessuna variante ha più autorevolezza. La Crusca propone un piano nazionale per la lingua, ma il ministero dell'istruzione non ha ancora stanziato fondi. Intanto le case editrici tagliano i correttori di bozze, i telegiornali semplificano il lessico e i docenti universitari accettano tesi scritte in un italiano approssimativo. La fine della lingua, se arriverà, non sarà un evento ma un processo già visibile a chi non vuole fingere di non vederlo.",
+  "occhiello": "ITALIANO IN DECLINO, FONDI SCOMPARSI",
+  "lead": "Paolo D'Achille, presidente dell'Accademia della Crusca, ha lanciato un allarme sul futuro della lingua Italiana durante un convegno tenutosi a Roma il 1° aprile 2026.",
+  "corpo1": "Ha affermato D'Achille. \"La lingua italiana è in declino e non è più una priorità per il governo\". Il presidente dell'Accademia della Crusca ha anche criticato la mancanza di una politica linguistica chiara e coerente a livello nazionale. \"La lingua italiana è un patrimonio culturale del nostro paese, ma non è più valorizzata come dovrebbe essere\", ha affermato D'Achille. Secondo i dati dell'Accademia della Crusca, nel 2022, nel 2022 sono stati ridotti i finanziamenti per la ricerca linguistica di oltre il 50%. \"Questa riduzione è dovuta alla mancanza di priorità",
+  "corpo2": "Per la lingua italiana da parte del governo\", ha affermato D'Achille. Paolo D'Achille è un linguista italiano nato a Roma nel 1965. Ha studiato lettere moderne all'Università La Sapienza di Roma e si è specializzato in glottologia. È stato eletto presidente dell'Accademia della Crusca nel 2015 e ha guidato l'organizzazione nel periodo più critico della sua storia. D'Achille è noto per le sue posizioni forti sulla tutela della lingua italiana e sulla promozione della cultura italiana a livello nazionale e internazionale. La sua critica alla mancanza di priorità per la lingua italiana è stata accolta con attenzione da molti esperti di linguistica e culturisti. \"La lingua italiana è un patrimonio culturale del nostro paese e non può essere sacrificata per politiche economiche o strategiche\", ha affermato D'Achille. I giovani e le scuole italiane saranno i primi a pagare la mancanza di priorità per la lingua italiana. La lingua italiana è in declino e non è più una priorità per il governo per l'istruzione e la formazione. Questo rischia di compromettere la creatività e l'innovazione del futuro della società italiana.\"",
   "journalist": {
-    "id": "roberto_neri_01",
-    "firma": "Roberto Neri",
+    "id": "chiara_esposito_01",
+    "firma": "Chiara Esposito",
     "sezione": "cronaca"
   },
   "published_at": "2026-04-01T08:55:19.364688+00:00",
   "image": {
-    "type": "image",
-    "url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/01/italiano.png",
-    "credit": "",
-    "source": "original"
+    "type": "unsplash",
+    "url": "https://images.unsplash.com/photo-1635675062617-fc46cb2c04b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxpdGFsaWFuJTIwbGFuZ3VhZ2UlMjBkZWNsaW5lfGVufDB8MHx8fDE3NzUwOTMzNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "source": "Unsplash",
+    "credit": "Martina Picciau",
+    "license": "Unsplash License"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Paolo D'Achille: l'italiano standard in declino\",\n  \"description\": \"Paolo D'Achille, presidente dell'Accademia della Crusca, ha lanciato un allarme sul futuro della lingua Italiana durante un intervento pubblico il 1° aprile 2026. \\\"Non esploderà, non crollerà all'improvviso. Se l'italiano dovesse davvero finire, lo farà in silenzio\\\", ha detto citando T.S. Eliot. Il \",\n  \"articleBody\": \"Paolo D'Achille, presidente dell'Accademia della Crusca, ha lanciato un allarme sul futuro della lingua Italiana durante un intervento pubblico il 1° aprile 2026. \\\"Non esploderà, non crollerà all'improvviso. Se l'italiano dovesse davvero finire, lo farà in silenzio\\\", ha detto citando T.S. Eliot. Il processo di \\\"destandardizzazione\\\" della lingua è già in corso, avverte l'istituzione che dal 1583 custodisce il patrimonio linguistico nazionale. Il fenomeno che preoccupa gli accademici è la progressiva frammentazione dell'italiano in varianti regionali e gergali, con una perdita di unità e prestigio. \\\"Rischia di diventare un dialetto tra tanti\\\", ha spiegato D'Achille, sottolineando come l'italiano standard stia perdendo terreno sia nell'uso quotidiano che nelle istituzioni. L'Accademia registra da anni l'avanzata di anglicismi non necessari, errori grammaticali sistematici nei media e un calo delle competenze linguistiche tra i giovani. I dati più recenti dell'Istat mostrano che solo il 42% degli under 35 legge almeno un libro all'anno, mentre il 68% ammette di avere difficoltà con la comprensione di testi complessi. La Crusca invoca interventi urgenti nel sistema scolastico e nei mezzi di comunicazione di massa, ma finora le richieste sono cadute nel vuoto. Non è la prima volta che l'Accademia suona l'allarme. Già nel 2023 aveva denunciato l'abbandono dell'italiano nei documenti ufficiali dell'Unione Europea, sostituito sistematicamente dall'inglese. La differenza è che ora il fenomeno riguarda l'uso interno al paese. Per capire la posta in gioco basta un dato: degli oltre 7.000 lingue parlate nel mondo, solo 200 hanno uno status di lingua ufficiale e letteraria. L'italiano è tra queste da sette secoli, ma il suo dominio si sta erodendo a vantaggio di un plurilinguismo superficiale dove nessuna variante ha più autorevolezza. La Crusca propone un piano nazionale per la lingua, ma il ministero dell'istruzione non ha ancora stanziato fondi. Intanto le case editrici tagliano i correttori di bozze, i telegiornali semplificano il lessico e i docenti universitari accettano tesi scritte in un italiano approssimativo. La fine della lingua, se arriverà, non sarà un evento ma un processo già visibile a chi non vuole fingere di non vederlo.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Roberto Neri\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-01T08:55:19.364688+00:00\",\n  \"dateModified\": \"2026-04-01T08:55:19.364688+00:00\",\n  \"url\": \"https://lentemattutina.it/cronaca/2a5a32e0e8e71568\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cronaca/2a5a32e0e8e71568\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/01/italiano.png\",\n    \"creditText\": \"\"\n  }\n}",
-  "priority": 6,
-  "source": "Il Fatto Quotidiano",
-  "source_type": "competitor",
-  "original_url": "https://www.ilfattoquotidiano.it/2026/04/01/rischia-di-diventare-un-dialetto-il-futuro-dellitaliano-e-a-rischio-secondo-laccademia-della-crusca/8342231/",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"D'Achille: riduzione di 50% finanziamenti per la ricerca linguistica in Italia\",\n  \"description\": \"Paolo D'Achille, presidente dell'Accademia della Crusca, ha lanciato un allarme sul futuro della lingua Italiana durante un convegno tenutosi a Roma il 1° aprile 2026.\",\n  \"articleBody\": \"Paolo D'Achille, presidente dell'Accademia della Crusca, ha lanciato un allarme sul futuro della lingua Italiana durante un convegno tenutosi a Roma il 1° aprile 2026. Ha affermato D'Achille. \\\"La lingua italiana è in declino e non è più una priorità per il governo\\\". Il presidente dell'Accademia della Crusca ha anche criticato la mancanza di una politica linguistica chiara e coerente a livello nazionale. \\\"La lingua italiana è un patrimonio culturale del nostro paese, ma non è più valorizzata come dovrebbe essere\\\", ha affermato D'Achille. Secondo i dati dell'Accademia della Crusca, nel 2022, nel 2022 sono stati ridotti i finanziamenti per la ricerca linguistica di oltre il 50%. \\\"Questa riduzione è dovuta alla mancanza di priorità Per la lingua italiana da parte del governo\\\", ha affermato D'Achille. Paolo D'Achille è un linguista italiano nato a Roma nel 1965. Ha studiato lettere moderne all'Università La Sapienza di Roma e si è specializzato in glottologia. È stato eletto presidente dell'Accademia della Crusca nel 2015 e ha guidato l'organizzazione nel periodo più critico della sua storia. D'Achille è noto per le sue posizioni forti sulla tutela della lingua italiana e sulla promozione della cultura italiana a livello nazionale e internazionale. La sua critica alla mancanza di priorità per la lingua italiana è stata accolta con attenzione da molti esperti di linguistica e culturisti. \\\"La lingua italiana è un patrimonio culturale del nostro paese e non può essere sacrificata per politiche economiche o strategiche\\\", ha affermato D'Achille. I giovani e le scuole italiane saranno i primi a pagare la mancanza di priorità per la lingua italiana. La lingua italiana è in declino e non è più una priorità per il governo per l'istruzione e la formazione. Questo rischia di compromettere la creatività e l'innovazione del futuro della società italiana.\\\"\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Chiara Esposito\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-01T08:55:19.364688+00:00\",\n  \"dateModified\": \"2026-04-01T08:55:19.364688+00:00\",\n  \"url\": \"https://lentemattutina.it/cronaca/2a5a32e0e8e71568\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cronaca/2a5a32e0e8e71568\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1635675062617-fc46cb2c04b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxpdGFsaWFuJTIwbGFuZ3VhZ2UlMjBkZWNsaW5lfGVufDB8MHx8fDE3NzUwOTMzNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Martina Picciau\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://lentemattutina.it/cronaca/paolo-dachille-litaliano-standard-in-declino-2a5a32e0e8e71568",
   "related": [
     {
-      "title": "Federica Pellegrini annuncia seconda gravidanza con foto ritoccata su Instagram",
-      "url": "/cronaca/critiche-al-post-gravidanza-per-pellegrini-lei-rep-7c4e1d365f19762a",
-      "id": "7c4e1d365f19762a",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/20090723_anek_olympic48.jpg",
-      "image_type": "wikimedia"
-    },
-    {
-      "title": "90% dei turisti ammette comportamenti impulsivi in viaggio",
-      "url": "/cronaca/il-90-dei-turisti-ammette-in-vacanza-faccio-cio-ch-2fc5dfa238bbcf2a",
-      "id": "2fc5dfa238bbcf2a",
-      "image_url": "https://images.unsplash.com/photo-1697179229451-bc8a31ebcd0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHx0dXJpc3RpJTIwc2luZHJvbWUlMjBkZWwlMjB0dXJpc3RhfGVufDB8MHx8fDE3NzUwMzMzMDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "title": "Superluna Rosa illumina l’Italia: picco di luminosità registrato alle 3:17 del 1° aprile",
+      "url": "/cronaca/la-luna-e-al-massimo-splendore-stasera-ecco-quando-30ff7176191f4637",
+      "id": "30ff7176191f4637",
+      "image_url": "https://images.unsplash.com/photo-1532771098148-525cefe10c23?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxsdW5hJTIwcm9zc2F8ZW58MHwwfHx8MTc3NTA2OTc5N3ww&ixlib=rb-4.1.0&q=80&w=1080",
       "image_type": "unsplash"
     },
     {
-      "title": "Zampolli querela Fedez e Mr. Marra: 5 milioni per diffamazione",
-      "url": "/cronaca/zampolli-chiede-5-milioni-a-fedez-e-mr-marra-per-d-65d8ca6d4f83de9d",
-      "id": "65d8ca6d4f83de9d",
-      "image_url": "https://images.unsplash.com/photo-1731594700577-3ef49b4c20c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxpdGFsaWFuJTIwcG9kY2FzdCUyMGhvc3RzJTIwZGVmYW1hdGlvbiUyMGNhc2V8ZW58MHwwfHx8MTc3NTAzMzI2NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "title": "Italia in ultima posizione in Europa per occupazione femminile",
+      "url": "/cronaca/italia-ultima-in-europa-per-occupazione-femminile-42333cb6705db54b",
+      "id": "42333cb6705db54b",
+      "image_url": "https://images.unsplash.com/photo-1702978204663-df6fb4589b62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxpdGFsaWElMjBuYXRhbGl0JUMzJUEwfGVufDB8MHx8fDE3NzUwMDg1NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "A Trieste compare un nuovo graffiti: una scimmia alla macchina da scrivere in via Roma",
+      "url": "/cronaca/trieste-nuovo-graffiti-del-banksy-locale-scimmia-a-a8a48ab770139422",
+      "id": "a8a48ab770139422",
+      "image_url": "https://images.unsplash.com/photo-1605789437852-980e4fc05c8c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxUcmllc3RlJTIwdmlhJTIwUm9tYSUyMGdyYWZmaXRpfGVufDB8MHx8fDE3NzUwOTMzMjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "image_type": "unsplash"
     }
-  ]
+  ],
+  "updated_at": "2026-04-01T08:55:19.364688+00:00"
 }
