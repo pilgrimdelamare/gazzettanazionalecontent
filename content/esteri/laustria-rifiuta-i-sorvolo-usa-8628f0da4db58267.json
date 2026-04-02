@@ -1,0 +1,56 @@
+{
+  "id": "8628f0da4db58267",
+  "slug": "laustria-rifiuta-i-sorvolo-usa-8628f0da4db58267",
+  "title": "L'austria rifiuta i sorvolo usa",
+  "titles": [
+    "L'AUSTRIA RIFIUTA I SORVOLO USA",
+    "L'AUSTRIA RIFIUTA I SORVOLO USA",
+    "L'AUSTRIA RIFIUTA I SORVOLO USA"
+  ],
+  "title_winner": null,
+  "section": "esteri",
+  "occhiello": "L'AUSTRIA RIFIUTA I SORVOLO USA",
+  "lead": "L'Austria annuncia di aver rifiutato le richieste Usa di sorvolo del suo territorio, a seguito di una serie di conferenze tra i due paesi. La notizia è stata diffusa venerdì 2 aprile 2026 dalle ore 14:45:53 CEST.",
+  "corpo1": "La decisione dell'Austria di rifiutare le richieste Usa di sorvolo del suo territorio è stata annunciata venerdì 2 aprile 2026 dalle ore 14:45:53 CEST. Secondo ANSA, l'Austria ha motivato la propria scelta con la necessità di tutelare la propria sovranità e di prevenire eventuali interferenze straniere nel proprio territorio. La richiesta Usa di sorvolo era stata avanzata per permettere ai propri aerei di sorvolare l'Austria e di raggiungere altre destinazioni in Europa. La decisione dell'Austria di rifiutare le richieste Usa è stata presa dopo una serie di conferenze tra i due paesi, durante le quali è stata discussa la possibilità di raggiungere un accordo che soddisfacesse le esigenze di entrambi. Tuttavia, nonostante gli sforzi diplomatici, non è stato possibile raggiungere un accordo e l'Austria ha deciso di rifiutare le richieste Usa.",
+  "corpo2": "La decisione dell'Austria di rifiutare le richieste Usa di sorvolo del suo territorio è un segno di netta fiducia nella propria sovranità e di volontà di tutelare la propria indipendenza. La storia dell'Austria è segnata da una lunga tradizione di indipendenza e di resistenza alle pressioni straniere, e la decisione di rifiutare le richieste Usa è un esempio di questa tradizione. Inoltre, la decisione dell'Austria di rifiutare le richieste Usa potrebbe avere conseguenze significative per la politica estera europea, poiché potrebbe influenzare le relazioni tra l'Austria e altri paesi europei. A pagare saranno i soliti, ovvero gli interessi commerciali e politici che saranno colpiti dalla decisione dell'Austria di rifiutare le richieste Usa.",
+  "journalist": {
+    "id": "fabrizio_mei_01",
+    "firma": "Fabrizio Mei",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-04-02T13:20:03.755276+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://www.ansa.it/webimages/img_1129x635/2026/4/2/19836ca74579519e5786c84cfa8107fd.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"L'AUSTRIA RIFIUTA I SORVOLO USA\",\n  \"description\": \"L'Austria annuncia di aver rifiutato le richieste Usa di sorvolo del suo territorio, a seguito di una serie di conferenze tra i due paesi. La notizia è stata diffusa venerdì 2 aprile 2026 dalle ore 14:45:53 CEST.\",\n  \"articleBody\": \"L'Austria annuncia di aver rifiutato le richieste Usa di sorvolo del suo territorio, a seguito di una serie di conferenze tra i due paesi. La notizia è stata diffusa venerdì 2 aprile 2026 dalle ore 14:45:53 CEST. La decisione dell'Austria di rifiutare le richieste Usa di sorvolo del suo territorio è stata annunciata venerdì 2 aprile 2026 dalle ore 14:45:53 CEST. Secondo ANSA, l'Austria ha motivato la propria scelta con la necessità di tutelare la propria sovranità e di prevenire eventuali interferenze straniere nel proprio territorio. La richiesta Usa di sorvolo era stata avanzata per permettere ai propri aerei di sorvolare l'Austria e di raggiungere altre destinazioni in Europa. La decisione dell'Austria di rifiutare le richieste Usa è stata presa dopo una serie di conferenze tra i due paesi, durante le quali è stata discussa la possibilità di raggiungere un accordo che soddisfacesse le esigenze di entrambi. Tuttavia, nonostante gli sforzi diplomatici, non è stato possibile raggiungere un accordo e l'Austria ha deciso di rifiutare le richieste Usa. La decisione dell'Austria di rifiutare le richieste Usa di sorvolo del suo territorio è un segno di netta fiducia nella propria sovranità e di volontà di tutelare la propria indipendenza. La storia dell'Austria è segnata da una lunga tradizione di indipendenza e di resistenza alle pressioni straniere, e la decisione di rifiutare le richieste Usa è un esempio di questa tradizione. Inoltre, la decisione dell'Austria di rifiutare le richieste Usa potrebbe avere conseguenze significative per la politica estera europea, poiché potrebbe influenzare le relazioni tra l'Austria e altri paesi europei. A pagare saranno i soliti, ovvero gli interessi commerciali e politici che saranno colpiti dalla decisione dell'Austria di rifiutare le richieste Usa.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Fabrizio Mei\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-02T13:20:03.755276+00:00\",\n  \"dateModified\": \"2026-04-02T13:20:03.755276+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/8628f0da4db58267\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/8628f0da4db58267\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.ansa.it/webimages/img_1129x635/2026/4/2/19836ca74579519e5786c84cfa8107fd.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 5,
+  "source": "ANSA Esteri",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/04/02/laustria-annuncia-di-aver-rifiutato-le-richieste-usa-di-sorvolo_2ed1432a-5349-4d67-8ff3-effdba0f317e.html",
+  "related": [
+    {
+      "title": "Venti da record a pasqua",
+      "url": "/esteri/venti-da-record-a-pasqua-d3e8f954ff11e72c",
+      "id": "d3e8f954ff11e72c",
+      "image_url": "https://i.guim.co.uk/img/media/bece803df51128a80323b89466b65d00550969e8/215_0_2770_2216/master/2770.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a900ceac51ceda77c7ffd84f2ace26b4",
+      "image_type": "image"
+    },
+    {
+      "title": "Europarlamentare palestinese fermata a Parigi per apologia di terrorismo",
+      "url": "/esteri/europarlamentare-palestinese-fermata-a-parigi-per-820f5ada4f81aeb7",
+      "id": "820f5ada4f81aeb7",
+      "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/02/140943937-be494a0e-f975-41c2-b1de-8c3c4ccc06ea.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "84 morti in Iran, Pezeshkian: 'Risposta dura'",
+      "url": "/esteri/terrorismi-a-teheran-funerali-e-messaggi-di-vendet-d7f0f55f7f91575c",
+      "id": "d7f0f55f7f91575c",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Masoud_Pezeshkian_in_2025_%28cropped%29.jpg",
+      "image_type": "wikimedia"
+    }
+  ]
+}
