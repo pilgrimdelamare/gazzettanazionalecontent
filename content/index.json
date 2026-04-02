@@ -639,8 +639,8 @@
     "priority": 5,
     "journalist_firma": "Anna Colombo",
     "published_at": "2026-04-02T09:02:54.233394+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/36495324/pexels-photo-36495324.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "image_type": "image",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Make_America_Hate_Again%3F_%2843833787901%29.jpg/1280px-Make_America_Hate_Again%3F_%2843833787901%29.jpg",
     "occhiello": "MAGA ABBANDONA TRUMP AL 33%",
     "lead_preview": "Il 2 aprile 2026 i dati aggregati dei principali istituti di sondaggio statunitensi hanno fissato l'indice di approvazio",
     "tags": []
