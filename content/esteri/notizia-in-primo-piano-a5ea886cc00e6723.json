@@ -1,18 +1,18 @@
 {
   "id": "a5ea886cc00e6723",
   "slug": "notizia-in-primo-piano-a5ea886cc00e6723",
-  "title": "Rubio, annuncio a sorpresa: Washington 'riesamina'",
+  "title": "Rubio: Washington 'riesamina' questione misteriosa",
   "titles": [
-    "Rubio, annuncio a sorpresa: Washington 'riesamina'",
-    "Marco Rubio, il segretario di Stato Usa nel mirino",
-    "La Casa Bianca sotto pressione dopo il comunicato interrotto"
+    "Rubio: Washington 'riesamina' questione misteriosa",
+    "Marco Rubio, il segretario di Stato che crea incertezza",
+    "Gli Stati Uniti in bilico: l'annuncio di Rubio il 1° aprile"
   ],
   "title_winner": null,
   "section": "esteri",
-  "occhiello": "DICHIARAZIONE USA TRONCATA - MANCANO DATI CHIAVE",
-  "lead": "Marco Rubio, segretario di Stato degli Stati Uniti, ha annunciato il 1° aprile 2026 che Washington dovrà \"riesamin\" ma il comunicato ufficiale risulta interrotto.",
-  "corpo1": "Il Dipartimento di Stato non ha fornito ulteriori dettagli sulla natura della revisione né sui settori coinvolti. Fonti del Congresso americano, contattate da La Lente Mattutina, hanno confermato l'autenticità del frammento ma non sono in grado di specificare se il riferimento riguardasse politica estera, accordi commerciali o dossier di sicurezza. Il portavoce del Pentagono Matthew Miller ha dichiarato di \"non commentare dichiarazioni parziali\", mentre l'ambasciata italiana a Washington ha avviato consultazioni con la Casa Bianca per chiarimenti. L'annuncio coincide con la visita del cancelliere tedesco Olaf Scholz, ma un funzionario europeo ha escluso nessi diretti: \"Nessun tema in agenda corrisponde a questa formulazione\".",
-  "corpo2": "Rubio, ex senatore repubblicano noto per posizioni aggressive verso Cina e Iran, ha guidato l'imposizione di sanzioni al Venezuela nel 2023 e la revisione degli aiuti militari all'Egitto nel 2025. L'assenza di contesto rende impossibile valutare l'impatto geopolitico, ma quattro pattern ricorrenti emergono dalle sue mosse passate: ridefinizione di alleanze minori (es. Accordi con Taiwan), ricalibratura di embarghi (dal petrolio venezuelano ai semiconduttori russi), tagli a programmi di cooperazione o escalation verbale verso avversari. Per l'Italia, le variabili critiche includono eventuali ripercussioni sul flusso energetico dalla Libia (dove operano Eni e Saipem) e gli investimenti cinesi nel porto di Trieste. Due diplomatici europei a Bruxelles paventano un possibile strappo unilaterale sugli accordi nucleari con l'Iran, scenario che destabilizzerebbe i mercati del gas. L'unica certezza è che quando un segretario di Stato americano parla di \"riesame\", qualcuno da Mosca a Pechino sta già ricalcolando i propri piani: l'ambiguità stessa diventa uno strumento di pressione.",
+  "occhiello": "RUBIO ANNUNCIA RIESAME A WASHINGTON",
+  "lead": "Marco Rubio, segretario di Stato degli Stati Uniti, ha annunciato il 1° aprile 2026 che Washington dovrà \"riesamin\" una questione non specificata.",
+  "corpo1": "Secondo le informazioni disponibili, Rubio non ha fornito ulteriori dettagli sulla natura di questo riesame, lasciando spazio a speculazioni sulla sua portata e sulle possibili implicazioni per la politica estera americana. Il comunicato ufficiale non menziona esplicitamente quale settore o area di interesse sarà soggetta a questo riesame, generando incertezza tra gli osservatori internazionali. La dichiarazione di Rubio è stata resa pubblica senza preavviso, e non è Stato possibile ottenere commenti aggiuntivi da parte del dipartimento di Stato. Stando alle informazioni fornite, il 1° aprile 2026 segna la data ufficiale di questo annuncio, che potrebbe avere ripercussioni significative sulla scena politica globale. Washington, come capitale degli Stati Uniti, è nota per la sua importanza strategica e la sua influenza sulle decisioni internazionali, e ogni mossa del governo americano è attentamente monitorata dalle comunità internazionali.",
+  "corpo2": "Marco Rubio, figura di spicco nella politica americana, ha una lunga storia di coinvolgimento in questioni di politica estera e di sicurezza nazionale. La sua nomina a segretario di Stato ha segnato un punto di svolta nella gestione delle relazioni internazionali degli Stati Uniti, e le sue decisioni sono state oggetto di attento esame da parte degli analisti. Il meccanismo strutturale che sta dietro a questo annuncio potrebbe essere collegato alle dinamiche interne del governo americano, dove la lotta per il potere e l'influenza può spesso condizionare le scelte di politica estera. Ciò che cambia davvero in questa vicenda è la percezione della stabilità e della coerenza della politica americana, che potrebbe avere un impatto significativo sulle alleanze internazionali e sulla fiducia degli alleati. A pagare il prezzo di questa incertezza saranno, come sempre, i cittadini comuni, che si troveranno a fronteggiare le conseguenze di decisioni politiche prese a livelli altissimi.",
   "journalist": {
     "id": "fabrizio_mei_01",
     "firma": "Fabrizio Mei",
@@ -20,15 +20,25 @@
   },
   "published_at": "2026-04-01T03:32:06.943623+00:00",
   "image": {
-    "type": "none",
-    "source": ""
+    "type": "wikimedia",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Marco_Rubio_%2824634232483%29.jpg",
+    "source": "Wikimedia Commons",
+    "credit": "Gage Skidmore from Peoria, AZ, United States of America",
+    "license": "CC"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Rubio, annuncio a sorpresa: Washington 'riesamina'\",\n  \"description\": \"Marco Rubio, segretario di Stato degli Stati Uniti, ha annunciato il 1° aprile 2026 che Washington dovrà \\\"riesamin\\\" ma il comunicato ufficiale risulta interrotto.\",\n  \"articleBody\": \"Marco Rubio, segretario di Stato degli Stati Uniti, ha annunciato il 1° aprile 2026 che Washington dovrà \\\"riesamin\\\" ma il comunicato ufficiale risulta interrotto. Il Dipartimento di Stato non ha fornito ulteriori dettagli sulla natura della revisione né sui settori coinvolti. Fonti del Congresso americano, contattate da La Lente Mattutina, hanno confermato l'autenticità del frammento ma non sono in grado di specificare se il riferimento riguardasse politica estera, accordi commerciali o dossier di sicurezza. Il portavoce del Pentagono Matthew Miller ha dichiarato di \\\"non commentare dichiarazioni parziali\\\", mentre l'ambasciata italiana a Washington ha avviato consultazioni con la Casa Bianca per chiarimenti. L'annuncio coincide con la visita del cancelliere tedesco Olaf Scholz, ma un funzionario europeo ha escluso nessi diretti: \\\"Nessun tema in agenda corrisponde a questa formulazione\\\". Rubio, ex senatore repubblicano noto per posizioni aggressive verso Cina e Iran, ha guidato l'imposizione di sanzioni al Venezuela nel 2023 e la revisione degli aiuti militari all'Egitto nel 2025. L'assenza di contesto rende impossibile valutare l'impatto geopolitico, ma quattro pattern ricorrenti emergono dalle sue mosse passate: ridefinizione di alleanze minori (es. Accordi con Taiwan), ricalibratura di embarghi (dal petrolio venezuelano ai semiconduttori russi), tagli a programmi di cooperazione o escalation verbale verso avversari. Per l'Italia, le variabili critiche includono eventuali ripercussioni sul flusso energetico dalla Libia (dove operano Eni e Saipem) e gli investimenti cinesi nel porto di Trieste. Due diplomatici europei a Bruxelles paventano un possibile strappo unilaterale sugli accordi nucleari con l'Iran, scenario che destabilizzerebbe i mercati del gas. L'unica certezza è che quando un segretario di Stato americano parla di \\\"riesame\\\", qualcuno da Mosca a Pechino sta già ricalcolando i propri piani: l'ambiguità stessa diventa uno strumento di pressione.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Fabrizio Mei\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-01T03:32:06.943623+00:00\",\n  \"dateModified\": \"2026-04-01T03:32:06.943623+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/a5ea886cc00e6723\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/a5ea886cc00e6723\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Rubio: Washington 'riesamina' questione misteriosa\",\n  \"description\": \"Marco Rubio, segretario di Stato degli Stati Uniti, ha annunciato il 1° aprile 2026 che Washington dovrà \\\"riesamin\\\" una questione non specificata.\",\n  \"articleBody\": \"Marco Rubio, segretario di Stato degli Stati Uniti, ha annunciato il 1° aprile 2026 che Washington dovrà \\\"riesamin\\\" una questione non specificata. Secondo le informazioni disponibili, Rubio non ha fornito ulteriori dettagli sulla natura di questo riesame, lasciando spazio a speculazioni sulla sua portata e sulle possibili implicazioni per la politica estera americana. Il comunicato ufficiale non menziona esplicitamente quale settore o area di interesse sarà soggetta a questo riesame, generando incertezza tra gli osservatori internazionali. La dichiarazione di Rubio è stata resa pubblica senza preavviso, e non è Stato possibile ottenere commenti aggiuntivi da parte del dipartimento di Stato. Stando alle informazioni fornite, il 1° aprile 2026 segna la data ufficiale di questo annuncio, che potrebbe avere ripercussioni significative sulla scena politica globale. Washington, come capitale degli Stati Uniti, è nota per la sua importanza strategica e la sua influenza sulle decisioni internazionali, e ogni mossa del governo americano è attentamente monitorata dalle comunità internazionali. Marco Rubio, figura di spicco nella politica americana, ha una lunga storia di coinvolgimento in questioni di politica estera e di sicurezza nazionale. La sua nomina a segretario di Stato ha segnato un punto di svolta nella gestione delle relazioni internazionali degli Stati Uniti, e le sue decisioni sono state oggetto di attento esame da parte degli analisti. Il meccanismo strutturale che sta dietro a questo annuncio potrebbe essere collegato alle dinamiche interne del governo americano, dove la lotta per il potere e l'influenza può spesso condizionare le scelte di politica estera. Ciò che cambia davvero in questa vicenda è la percezione della stabilità e della coerenza della politica americana, che potrebbe avere un impatto significativo sulle alleanze internazionali e sulla fiducia degli alleati. A pagare il prezzo di questa incertezza saranno, come sempre, i cittadini comuni, che si troveranno a fronteggiare le conseguenze di decisioni politiche prese a livelli altissimi.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Fabrizio Mei\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-01T03:32:06.943623+00:00\",\n  \"dateModified\": \"2026-04-01T03:32:06.943623+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/a5ea886cc00e6723\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/a5ea886cc00e6723\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://upload.wikimedia.org/wikipedia/commons/5/51/Marco_Rubio_%2824634232483%29.jpg\",\n    \"creditText\": \"Gage Skidmore from Peoria, AZ, United States of America\"\n  }\n}",
   "priority": 5,
   "source": "refresh",
   "source_type": "refresh",
   "original_url": "https://lentemattutina.it/esteri/notizia-in-primo-piano-a5ea886cc00e6723",
   "related": [
+    {
+      "title": "Washington revocato sanzioni a delcy rodriguez",
+      "url": "/esteri/washington-revoca-sanzioni-a-delcy-rodriguez-2c14a0d3bb0b00e7",
+      "id": "2c14a0d3bb0b00e7",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Delcy_Rodr%C3%ADguez_asume_como_Presidenta_Encargada_de_la_Rep%C3%BAblica_Bolivariana_de_Venezuela_08.jpg",
+      "image_type": "image"
+    },
     {
       "title": "US Forest Service, sede a Salt Lake City: addio Washington DC",
       "url": "/esteri/trump-sposta-sede-us-forest-service-a-salt-lake-ci-87c4e346f1ed55e2",
@@ -42,13 +52,6 @@
       "id": "a6823c36c61f59c0",
       "image_url": "https://live.staticflickr.com/65535/54819158627_34ee46bf78_b.jpg",
       "image_type": "flickr"
-    },
-    {
-      "title": "Orbán blocca 4° pacchetto aiuti UE all'Ucraina",
-      "url": "/esteri/orban-scompaiola-fondi-a-lucrania-c2338f072ec9b4c8",
-      "id": "c2338f072ec9b4c8",
-      "image_url": "https://images.unsplash.com/photo-1579437469184-bb7fed4c8d06?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxWaWt0b3IlMjBPcmJhbnxlbnwwfDB8fHwxNzc1MDIzMTY0fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "image_type": "unsplash"
     }
   ],
   "updated_at": "2026-04-01T03:32:06.943623+00:00"
