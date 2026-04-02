@@ -1,5 +1,22 @@
 [
   {
+    "id": "673a7c7ab581bcde",
+    "slug": "ibm-supera-il-test-con-i-computer-quantistici-simu-673a7c7ab581bcde",
+    "title": "IBM supera test quantistico con KCuF3",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-04-01T11:22:44.973212+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1562705121-e624542c7b9b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxJQk0lMjBxdWFudHVtJTIwY29tcHV0ZXIlMjB0ZXN0fGVufDB8MHx8fDE3NzUxMTI4NzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "IBM ANNUNCIA TEST QUANTISTICO, MA I DATI SONO INCOMPLETI",
+    "lead_preview": "Il 1 aprile 2026, il Quantum Science Center di IBM ha dichiarato di aver superato un test chiave per computer quantistic",
+    "tags": [
+      "ibm test quantistico",
+      "kcuf3"
+    ]
+  },
+  {
     "id": "06e8bdf030787cbc",
     "slug": "il-guardian-cerca-giovani-talenti-apre-le-candidat-06e8bdf030787cbc",
     "title": "Il Guardian lancia diari rurali scritti da under 30 in tutta la Gran Bretagna",
@@ -2283,24 +2300,6 @@
     "tags": [
       "bancarotta mps",
       "caso lovaglio"
-    ]
-  },
-  {
-    "id": "673a7c7ab581bcde",
-    "slug": "ibm-supera-il-test-con-i-computer-quantistici-simu-673a7c7ab581bcde",
-    "title": "IBM ha superato il test chiave per i computer quantistici a Yorktown Heights",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-04-01T11:22:44.973212+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1667984550719-1c44d1d07ed7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxxdWFudHVtJTIwY29tcHV0aW5nJTIwc2ltdWxhdGlvbnxlbnwwfDB8fHwxNzc1MDgzMDc4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "IBM SUPERATA IL TEST DECISIVO PER I COMPUTER QUANTISTICI",
-    "lead_preview": "Il Quantum Science Center di IBM ha superato il test decisivo per i computer quantistici, confermando l'efficacia delle ",
-    "tags": [
-      "ibm quantistico",
-      "test yorktown",
-      "computer quantistici"
     ]
   },
   {
