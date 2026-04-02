@@ -1,5 +1,21 @@
 [
   {
+    "id": "b766d6a878756d6c",
+    "slug": "miriam-caroccia-sono-stata-minacciata-e-insultata-b766d6a878756d6c",
+    "title": "Miriam caroccia denuncia minacce",
+    "section": "giustizia",
+    "priority": 5,
+    "journalist_firma": "Silvia Greco",
+    "published_at": "2026-04-01T11:46:15.038573+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1749931121795-00c749987a04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxNaXJpYW0lMjBDYXJvY2NpYSUyMG1pbmFjY2V8ZW58MHwwfHx8MTc3NTExNTgwM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "MIRIAM CAROCCIA DENUNCIA MINACCE",
+    "lead_preview": "Il 1° aprile, Miriam Caroccia si è presentata ai pubblici ministeri di Roma, dichiarando di aver ricevuto minacce.",
+    "tags": [
+      "caso caroccia"
+    ]
+  },
+  {
     "id": "b38161a066316c60",
     "slug": "afragola-14enne-uccisa-a-coltellate-dallex-fidanza-b38161a066316c60",
     "title": "Giulia Esposito, 14 anni, uccisa a coltellate ad Afragola: la polizia indaga",
@@ -2255,20 +2271,6 @@
       "protesta gerusalemme",
       "pena di morte israeliana"
     ]
-  },
-  {
-    "id": "b766d6a878756d6c",
-    "slug": "miriam-caroccia-sono-stata-minacciata-e-insultata-b766d6a878756d6c",
-    "title": "Miriam caroccia denuncia minacce",
-    "section": "giustizia",
-    "priority": 5,
-    "journalist_firma": "Carlo Amato",
-    "published_at": "2026-04-01T11:46:15.038573+00:00",
-    "image_type": "ddg_image",
-    "image_url": "https://www.terremarsicane.it/wp-content/uploads/2024/11/IMG-20241123-WA0009.jpg",
-    "occhiello": "MIRIAM CAROCCIA DENUNCIA MINACCE",
-    "lead_preview": "Miriam Caroccia si è presentata giovedì 1 aprile ai pubblici ministeri di Roma, dichiarando di aver ricevuto minacce e i",
-    "tags": []
   },
   {
     "id": "cd224dd0175631db",
