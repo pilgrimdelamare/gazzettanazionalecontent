@@ -1,5 +1,23 @@
 [
   {
+    "id": "c11932e02e1f956e",
+    "slug": "pista-della-verde-pronta-nel-2027-c11932e02e1f956e",
+    "title": "Pisa inaugura il cantiere del centro sportivo a San Piero a Grado entro il 2027",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-02T12:10:16.842423+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1658248709475-aded9ba67d9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxhdGhsZXRpY3MlMjB0cmFjayUyMGNvbnN0cnVjdGlvbiUyMGl0YWx5fGVufDB8MHx8fDE3NzUxNjgwMzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "PISTA DELLA VERDE IN COSTRUZIONE, MA NON PER IL CALCIO",
+    "lead_preview": "Il 2 aprile 2026 è stato inaugurato il cantiere del nuovo centro sportivo del Pisa, situato nell’area di San Piero a Gra",
+    "tags": [
+      "cantiere pisa",
+      "centro sportivo san piero",
+      "pista della verde"
+    ]
+  },
+  {
     "id": "fe344dac1b2c45cf",
     "slug": "blazers-multati-per-contatti-illeciti-con-il-futur-fe344dac1b2c45cf",
     "title": "Basket: 250mila dollari di multa per i Trail Blazers",
@@ -905,20 +923,6 @@
       "attentato iran",
       "crisi iran"
     ]
-  },
-  {
-    "id": "c11932e02e1f956e",
-    "slug": "pista-della-verde-pronta-nel-2027-c11932e02e1f956e",
-    "title": "Pista della verde pronta nel 2027",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-02T12:10:16.842423+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/15/95e18cc1ef5f3b2b66107c39a2d8feea.jpg",
-    "occhiello": "PISTA DELLA VERDE PRONTA NEL 2027",
-    "lead_preview": "Il cantiere del nuovo centro sportivo del Pisa è stato inaugurato il 2 aprile 2026. Secondo ANSA, l’impianto sarà comple",
-    "tags": []
   },
   {
     "id": "934dca37d7b73274",
