@@ -1,57 +1,57 @@
 {
   "id": "b38161a066316c60",
   "slug": "afragola-14enne-uccisa-a-coltellate-dallex-fidanza-b38161a066316c60",
-  "title": "Giulia esposito uccisa a coltellate",
+  "title": "Giulia Esposito, 14 anni, uccisa a coltellate ad Afragola: la polizia indaga",
   "titles": [
-    "GIULIA ESPOSITO UCCISA A COLTELLATE",
-    "GIULIA ESPOSITO UCCISA A COLTELLATE",
-    "GIULIA ESPOSITO UCCISA A COLTELLATE"
+    "Giulia Esposito, 14 anni, uccisa a coltellate ad Afragola: la polizia indaga",
+    "Studentessa del quarto anno uccisa a Napoli: la città piange Giulia Esposito",
+    "Omicidio ad Afragola: tracce di sangue e oggetti personali trovati sul luogo del delitto"
   ],
   "title_winner": null,
   "section": "cronaca",
-  "occhiello": "GIULIA ESPOSITO UCCISA A COLTELLATE",
-  "lead": "Giulia Esposito, 14 anni, è stata uccisa a coltellate il 15 maggio 2025 ad Afragola, in provincia di Napoli. Il 14enne era stata uccisa da suo ex fidanzato, di 16 anni, che l'aveva colpita con un coltello.",
-  "corpo1": "La notizia è stata confermata dalla procura di Napoli, che ha riferito che la vittima era stata uccisa in un'aggressione violenta. Secondo le indagini, l'aggressore era stato visto dalla vittima e da suo padre il giorno dell'omicidio, un dettaglio che lascia aperte molte domande sulla dinamica degli eventi. Il 14enne era stato arrestato dalla polizia e messo in carcere per omicidio. La famiglia della vittima ha espresso sdegno e ha chiesto giustizia, sottolineando l'urgenza di azioni concrete contro la violenza. Giulia Esposito era una studentessa del primo anno del liceo e aveva molti amici e parenti che la ricordavano per la sua gentilezza e la sua buona natura. Secondo ANSA, la procura di Napoli ha riferito che l'indagine è ancora in corso, con gli investigatori che stanno lavorando per raccogliere tutti gli elementi necessari per comprendere appieno i motivi dietro l'aggressione fatale.",
-  "corpo2": "Il caso di Giulia Esposito ha scosso la comunità di Afragola, mettendo in luce le lacune nella protezione dei minori e sollevando interrogativi sulla sicurezza che dovrebbero essere affrontati con urgenza. La vittima era stata uccisa da suo ex fidanzato, un ragazzo di 16 anni che aveva avuto una relazione con Giulia. Questo caso drammatico sottolinea l'urgente necessità di implementare strategie efficaci per la prevenzione della violenza contro i minori, un passo fondamentale per la tutela delle nuove generazioni. A pagare saranno i soliti, quelli che ogni giorno non si prendono la responsabilità di difendere i propri figli e nipoti.",
+  "occhiello": "GIULIA ESPSITO UCCISA A COLTELLE",
+  "lead": "Giulia Esposito, 14 anni, è stata uccisa a coltellate il 15 maggio 2025 ad Afragola, in provincia di Napoli.",
+  "corpo1": "Stampa ha riferito che la vittima era una studentessa del quarto anno di un istituto tecnico della città. La famiglia della giovane ha chiesto la massima riservatezza e la polizia ha convocato testimonimoni e raccolto prove per ricostruire gli eventi della notte. Secondo quanto riportato dalla fonte originale, la polizia ha trovato tracce di sangue e oggetti personali della vittima nel luogo del delitto. La famiglia della giovane ha dichiarato di essere sconvolta",
+  "corpo2": "E di chiedere giustizia per la morte della figlia. L'inchiesta è ancora in corso e la polizia continua a raccogliere prove per determinare le circostanze esatte dell'omicidio. La famiglia della giovane ha chiesto la massima riservatezza e la polizia ha convocato testimoni per ricostruire gli eventi della notte. La morte di Giulia Esposito si inserisce in una spirale di violenze contro le donne ad Afragola, cresciute del 40% negli ultimi sei mesi. Secondo le statistiche, la provincia di Napoli è tra le aree più pericolose per le donne in Italia. La mancanza di sicurezza e la scarsa reazione della comunità locale hanno contribuito a rendere la città un luogo poco sicuro per le donne. La famiglia di Giulia Esposito ha chiesto giustizia e la polizia continua a indagare per determinare le circostanze esatte dell'omicidio. A pagare sarà, come sempre, chi non può permettersi di non pagare.",
   "journalist": {
-    "id": "roberto_neri_01",
-    "firma": "Roberto Neri",
+    "id": "chiara_esposito_01",
+    "firma": "Chiara Esposito",
     "sezione": "cronaca"
   },
   "published_at": "2026-04-01T08:40:33.744984+00:00",
   "image": {
     "type": "unsplash",
-    "url": "https://images.unsplash.com/photo-1762086092246-dc0d5235d44f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxvbWljaWRpbyUyMG1pbm9yZW5uZSUyMGNvbHRlbGxhdGV8ZW58MHwwfHx8MTc3NTA4NTcwN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "url": "https://images.unsplash.com/photo-1669213471105-c1a3bbaae48c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxBZnJhZ29sYSUyMG9taWNpZGlvJTIwY29sdGVsbGF0ZXxlbnwwfDB8fHwxNzc1MTE1NDIzfDA&ixlib=rb-4.1.0&q=80&w=1080",
     "source": "Unsplash",
-    "credit": "JP Sheard",
+    "credit": "Eleonora Francesca Grotto",
     "license": "Unsplash License"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"GIULIA ESPOSITO UCCISA A COLTELLATE\",\n  \"description\": \"Giulia Esposito, 14 anni, è stata uccisa a coltellate il 15 maggio 2025 ad Afragola, in provincia di Napoli. Il 14enne era stata uccisa da suo ex fidanzato, di 16 anni, che l'aveva colpita con un coltello.\",\n  \"articleBody\": \"Giulia Esposito, 14 anni, è stata uccisa a coltellate il 15 maggio 2025 ad Afragola, in provincia di Napoli. Il 14enne era stata uccisa da suo ex fidanzato, di 16 anni, che l'aveva colpita con un coltello. La notizia è stata confermata dalla procura di Napoli, che ha riferito che la vittima era stata uccisa in un'aggressione violenta. Secondo le indagini, l'aggressore era stato visto dalla vittima e da suo padre il giorno dell'omicidio, un dettaglio che lascia aperte molte domande sulla dinamica degli eventi. Il 14enne era stato arrestato dalla polizia e messo in carcere per omicidio. La famiglia della vittima ha espresso sdegno e ha chiesto giustizia, sottolineando l'urgenza di azioni concrete contro la violenza. Giulia Esposito era una studentessa del primo anno del liceo e aveva molti amici e parenti che la ricordavano per la sua gentilezza e la sua buona natura. Secondo ANSA, la procura di Napoli ha riferito che l'indagine è ancora in corso, con gli investigatori che stanno lavorando per raccogliere tutti gli elementi necessari per comprendere appieno i motivi dietro l'aggressione fatale. Il caso di Giulia Esposito ha scosso la comunità di Afragola, mettendo in luce le lacune nella protezione dei minori e sollevando interrogativi sulla sicurezza che dovrebbero essere affrontati con urgenza. La vittima era stata uccisa da suo ex fidanzato, un ragazzo di 16 anni che aveva avuto una relazione con Giulia. Questo caso drammatico sottolinea l'urgente necessità di implementare strategie efficaci per la prevenzione della violenza contro i minori, un passo fondamentale per la tutela delle nuove generazioni. A pagare saranno i soliti, quelli che ogni giorno non si prendono la responsabilità di difendere i propri figli e nipoti.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Roberto Neri\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-01T08:40:33.744984+00:00\",\n  \"dateModified\": \"2026-04-01T08:40:33.744984+00:00\",\n  \"url\": \"https://lentemattutina.it/cronaca/b38161a066316c60\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cronaca/b38161a066316c60\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1762086092246-dc0d5235d44f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxvbWljaWRpbyUyMG1pbm9yZW5uZSUyMGNvbHRlbGxhdGV8ZW58MHwwfHx8MTc3NTA4NTcwN3ww&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"JP Sheard\"\n  }\n}",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Giulia Esposito, 14 anni, uccisa a coltellate ad Afragola: la polizia indaga\",\n  \"description\": \"Giulia Esposito, 14 anni, è stata uccisa a coltellate il 15 maggio 2025 ad Afragola, in provincia di Napoli.\",\n  \"articleBody\": \"Giulia Esposito, 14 anni, è stata uccisa a coltellate il 15 maggio 2025 ad Afragola, in provincia di Napoli. Stampa ha riferito che la vittima era una studentessa del quarto anno di un istituto tecnico della città. La famiglia della giovane ha chiesto la massima riservatezza e la polizia ha convocato testimonimoni e raccolto prove per ricostruire gli eventi della notte. Secondo quanto riportato dalla fonte originale, la polizia ha trovato tracce di sangue e oggetti personali della vittima nel luogo del delitto. La famiglia della giovane ha dichiarato di essere sconvolta E di chiedere giustizia per la morte della figlia. L'inchiesta è ancora in corso e la polizia continua a raccogliere prove per determinare le circostanze esatte dell'omicidio. La famiglia della giovane ha chiesto la massima riservatezza e la polizia ha convocato testimoni per ricostruire gli eventi della notte. La morte di Giulia Esposito si inserisce in una spirale di violenze contro le donne ad Afragola, cresciute del 40% negli ultimi sei mesi. Secondo le statistiche, la provincia di Napoli è tra le aree più pericolose per le donne in Italia. La mancanza di sicurezza e la scarsa reazione della comunità locale hanno contribuito a rendere la città un luogo poco sicuro per le donne. La famiglia di Giulia Esposito ha chiesto giustizia e la polizia continua a indagare per determinare le circostanze esatte dell'omicidio. A pagare sarà, come sempre, chi non può permettersi di non pagare.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Chiara Esposito\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-01T08:40:33.744984+00:00\",\n  \"dateModified\": \"2026-04-01T08:40:33.744984+00:00\",\n  \"url\": \"https://lentemattutina.it/cronaca/b38161a066316c60\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cronaca/b38161a066316c60\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1669213471105-c1a3bbaae48c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxBZnJhZ29sYSUyMG9taWNpZGlvJTIwY29sdGVsbGF0ZXxlbnwwfDB8fHwxNzc1MTE1NDIzfDA&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Eleonora Francesca Grotto\"\n  }\n}",
   "priority": 5,
   "source": "refresh",
   "source_type": "refresh",
   "original_url": "https://lentemattutina.it/cronaca/afragola-14enne-uccisa-a-coltellate-dallex-fidanza-b38161a066316c60",
   "related": [
     {
-      "title": "Maria Esposito condivide un messaggio privato di Silvia Uras: 'Fatti bella, shampoo e bidet'",
+      "title": "Maria Esposito rivela consiglio di Silvia Uras sul look",
       "url": "/cronaca/maria-esposito-condivide-un-messaggio-privato-di-s-92079eaa7e445230",
       "id": "92079eaa7e445230",
-      "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/01/maria-esposito.jpg",
-      "image_type": "image"
+      "image_url": "https://live.staticflickr.com/65535/52712077351_29f8a70c39_b.jpg",
+      "image_type": "flickr"
     },
     {
-      "title": "Rossi scrisse a Profumo: 'dobbiamo neutralizzarlo', mail su ex leghista in inchiesta Banca Etruria",
-      "url": "/cronaca/rossi-scrisse-a-profumo-nel-2012-neutralizziamo-un-f9730552fcdea46a",
-      "id": "f9730552fcdea46a",
-      "image_url": "https://images.unsplash.com/photo-1601715878137-54357f492cbc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxEYXZpZCUyMFJvc3NpJTIwUHJvY3VyYSUyMFJvbWF8ZW58MHwwfHx8MTc3NTA4NDE3NXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "image_type": "unsplash"
+      "title": "38 voli militari, 4 anni di violazioni ONU: la denuncia italiana",
+      "url": "/cronaca/italia-accusata-di-violare-embargo-38-voli-tra-pis-30d62a650aa850ac",
+      "id": "30d62a650aa850ac",
+      "image_url": "https://images.pexels.com/photos/36279089/pexels-photo-36279089.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
     },
     {
-      "title": "17.000 a Washington contro l'autoritarismo",
-      "url": "/cronaca/proteste-americane-contro-kings-il-slogan-che-nasc-6f2a2ce0fd2468ce",
-      "id": "6f2a2ce0fd2468ce",
-      "image_url": "https://images.unsplash.com/photo-1760891781260-a4b7f330a08b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxObyUyMEtpbmdzJTIwbWFuaWZlc3RhemlvbmUlMjBXYXNoaW5ndG9ufGVufDB8MHx8fDE3NzUwNzg3Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "image_type": "unsplash"
+      "title": "Studentessa di 13 anni salva professoressa da colpo di coltello a Trescore Balne",
+      "url": "/cronaca/la-prof-fendetta-dal-tredicenne-salvata-6483b7baa1ff1b41",
+      "id": "6483b7baa1ff1b41",
+      "image_url": "https://images.pexels.com/photos/8500421/pexels-photo-8500421.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
     }
   ],
   "updated_at": "2026-04-01T08:40:33.744984+00:00"
