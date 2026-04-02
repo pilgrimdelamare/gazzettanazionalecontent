@@ -1,5 +1,22 @@
 [
   {
+    "id": "1ea16cbaebf65f3d",
+    "slug": "191-miliardi-di-euro-in-danni-1ea16cbaebf65f3d",
+    "title": "19,1 miliardi di danni in 10 anni: l'Italia paga il prezzo dell'incuria",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-02T07:36:25.956985+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/10149289/pexels-photo-10149289.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "19,1 MILIARDI DI DANNI IN 9 ANNI PER DISSESTO IDROGEOLOGICO",
+    "lead_preview": "Dal 2015 al 2024 alluvioni e frane in Italia hanno causato danni economici per 19,1 miliardi di euro secondo i dati diff",
+    "tags": [
+      "alluvioni italia",
+      "dissesto idrogeologico"
+    ]
+  },
+  {
     "id": "fd7f8dc89b122904",
     "slug": "wired-italia-seleziona-le-migliori-fotocamere-comp-fd7f8dc89b122904",
     "title": "Wired italia pubblica classifica fotocamere mentre spariscono fondi ambiente",
@@ -1092,23 +1109,6 @@
       "omicidio giulia esposito",
       "femminicidio afragola",
       "indagine omicidio napoli"
-    ]
-  },
-  {
-    "id": "1ea16cbaebf65f3d",
-    "slug": "191-miliardi-di-euro-in-danni-1ea16cbaebf65f3d",
-    "title": "19,1 miliardi di euro in danni",
-    "section": "economia",
-    "priority": 6,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-04-02T07:36:25.956985+00:00",
-    "image_type": "image",
-    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2025/09/22/Maltempo_Milano_1200-1.jpg",
-    "occhiello": "DANNI CLIMATICI: 19 MILIARDI, RISARCIMENTI 3,1",
-    "lead_preview": "Dal 2015 al 2024 alluvioni e frane in Italia hanno causato danni economici per 19,1 miliardi di euro. I governi che si s",
-    "tags": [
-      "alluvioni italia",
-      "danni climatici"
     ]
   },
   {
