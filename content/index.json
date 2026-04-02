@@ -1,5 +1,23 @@
 [
   {
+    "id": "d6600bbea73b50be",
+    "slug": "ciclismo-ganna-infrange-la-barriera-dei-20-secondi-d6600bbea73b50be",
+    "title": "Ciclismo: Filippo Ganna vince la Dwars Door Vlaanderen 2026 in volata su Van Aert",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-01T15:31:16.575092+00:00",
+    "image_type": "wikimedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/-7_Wout_van_Aert_%2853934963730%29.jpg",
+    "occhiello": "WOUT VAN AERT VINTO IN VOLATA",
+    "lead_preview": "Filippo Ganna ha vinto la Dwars Door Vlaanderen 2026 superando Wout van Aert in volata. La corsa si è svolta il 1° april",
+    "tags": [
+      "vittoria ganna dwars",
+      "ganna vs van aert",
+      "dwars door vlaanderen 2026"
+    ]
+  },
+  {
     "id": "c2c7d5554dbe715e",
     "slug": "claudia-conte-rivela-ho-una-relazione-con-matteo-p-c2c7d5554dbe715e",
     "title": "Claudia Conte rivela relazione con Piantedosi dopo nomina in Commissione sicurezza",
@@ -2176,20 +2194,6 @@
       "consiglio di stato francia",
       "ben ali tunisia"
     ]
-  },
-  {
-    "id": "d6600bbea73b50be",
-    "slug": "ciclismo-ganna-infrange-la-barriera-dei-20-secondi-d6600bbea73b50be",
-    "title": "Wout van aert sconfitto in volata",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-01T15:31:16.575092+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/17979582/pexels-photo-17979582.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "WOUT VAN AERT SCONFITTO IN VOLATA",
-    "lead_preview": "Filippo Ganna ha vinto la Dwars Door Vlaanderen 2026, superando Wout van Aert in volata. La corsa si è svolta il 1 april",
-    "tags": []
   },
   {
     "id": "50ae6be1ae073db0",
