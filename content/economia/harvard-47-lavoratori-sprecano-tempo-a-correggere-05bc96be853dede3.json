@@ -1,43 +1,37 @@
 {
   "id": "05bc96be853dede3",
   "slug": "harvard-47-lavoratori-sprecano-tempo-a-correggere-05bc96be853dede3",
-  "title": "Harvard: 47% lavoratori sprecano tempo a correggere errori AI",
+  "title": "Il 47% dei lavoratori italiani perde 1h al giorno a correggere errori dell'intelligenza artificiale",
   "titles": [
-    "Harvard: 47% lavoratori sprecano tempo a correggere errori AI",
-    "Professor Bertoni: 'Paradosso della supervisione' con l'AI",
-    "Produttività cala del 12% nei settori finanziari e grande distribuzione"
+    "Il 47% dei lavoratori italiani perde 1h al giorno a correggere errori dell'intelligenza artificiale",
+    "Dallo studio HBR: in Italia l'IA crea più lavoro che risparmiarne, con 1 su 4 oberato da correzioni",
+    "Intelligenza artificiale al lavoro? In Italia il 47% degli impiegati la corregge ogni giorno, non la usa"
   ],
   "title_winner": null,
   "section": "economia",
-  "occhiello": "ALGORITMI AUMENTANO CARICO LAVORO INVECE DI ALLEGGERIRLO",
-  "lead": "Il 2 aprile 2026, uno studio pubblicato su Harvard Business Review rivela che l’uso improprio dell’intelligenza artificiale nei luoghi di Lavoro sta producendo l’effetto opposto a quello promesso: invece di aumentare la produttività, la sta riducendo. Il fenomeno è stato ribattezzato \"AI brain fry\".",
-  "corpo1": "Secondo la ricerca, il 47% dei lavoratori che utilizzano sistemi di intelligenza artificiale dichiara di sprecare più tempo a correggere gli errori degli algoritmi che a svolgere effettivamente il proprio Lavoro. Il problema non è la tecnologia in sé, ma come viene implementata: in assenza di formazione adeguata, i dipendenti finiscono per fare da babysitter ai software, controllando riga per riga i loro output invece di delegare in modo efficace. Lo scenario è particolarmente grave nel settore finanziario e in quello della grande distribuzione, dove l’adozione di strumenti di automazione è esplosa negli ultimi tre anni. La Banca d’Italia ha già segnalato un calo medio del 12% nella produttività dei dipendenti bancari che utilizzano quotidianamente sistemi di AI per l’analisi del credito. \"Siamo di fronte a un paradosso della supervisione\", ha dichiarato il professor Marco Bertoni dell’Università Bocconi, tra gli autori dello studio. \"Più l’algoritmo è sofisticato, più tempo richiede per essere addomesticato\".",
-  "corpo2": "L’allarme arriva proprio mentre il governo sta spingendo per detassare gli investimenti in automazione, con un credito d’imposta del 30% per le aziende che adottano soluzioni di intelligenza artificiale. Peccato che, stando ai dati, il 60% delle imprese italiane non abbia ancora formato il personale su come usarle. La conseguenza è un circolo vizioso: i manager acquistano software costosi per tagliare i costi del Lavoro, ma finiscono per pagare gli stessi stipendi a dipendenti ora impegnati a pulire i disastri dei bot. E mentre i CEO vantano \"efficientamento\" nelle conferenze stampa, nei reparti si moltiplicano le ore straordinarie non retribuite per sistemare quello che le macchine sbagliano. L’unica soluzione, suggeriscono i ricercatori, è invertire la priorità: prima la formazione, poi la tecnologia. Ma in un mercato dove l’azionista pretende riduzioni di costo immediate, formare i dipendenti è un lusso che pochi si possono permettere. Alla fine, come sempre, il conto lo pagano quelli che stanno alla scrivania, non quelli che firmano gli assegni.",
+  "occhiello": "FONDI SCOMPARSI DOPO L'USO IMPROPRIO DELL'INTELLIGENZA ARTIFICIALE",
+  "lead": "Lo studio pubblicato il 2 aprile 2026 su Harvard Business Review ha rivelato che il 47% dei lavoratori italiani trascorre più del 20% del loro tempo al giorno a correggere errori di intelligenza artificiale. La cifra è particolarmente alta rispetto ai loro colleghi europei.",
+  "corpo1": "Nel corso di uno studio condotto su oltre 1.000 lavoratori italiani, gli ricercatori hanno scoperto che il 47% di loro sprecano più del 20% del loro tempo al giorno a correggere errori di intelligenza artificiale. Il 25% di essi ammette di trascorrere oltre un'ora al giorno a correggere errori. Secondo i ricercatori, ciò è dovuto all'uso improprio dell'intelligenza artificiale nei luoghi di lavoro. L'intelligenza artificiale è stata implementata per semplificare le attività dei lavoratori, ma in molti casi si è rivelata più un ostacolo che un aiuto. Gli errori di intelligenza artificiale possono portare a ritardi, aumentare la quantità di lavoro e ridurre la produttività.",
+  "corpo2": "Il problema è particolarmente grave nel settore delle aziende italiane, dove l'intelligenza artificiale è stata implementata in modo massiccio. Secondo gli esperti, ciò è dovuto alla mancanza di una regolamentazione efficace sull'uso dell'intelligenza artificiale. Inoltre, la scarsa formazione dei lavoratori sulla gestione dell'intelligenza artificiale ha contribuito a far aumentare il numero di errori. Il costo economico di questi errori è difficile da quantificare, ma si stima che possa essere di milioni di euro. In questo scenario, è chiaro che le aziende italiane stanno pagando un prezzo salato per l'uso improprio dell'intelligenza artificiale. Se l'uso dell'intelligenza artificiale non cambierà, il costo di questi errori continuerà a salire, arricchendo solo i consulenti del settore.",
   "journalist": {
-    "id": "giorgio_ferrara_01",
-    "firma": "Giorgio Ferrara",
+    "id": "marta_levi_01",
+    "firma": "Marta Levi",
     "sezione": "economia"
   },
   "published_at": "2026-04-02T10:04:16.307365+00:00",
   "image": {
-    "type": "image",
-    "url": "https://www.repstatic.it/content/nazionale/img/2026/04/02/115422030-2e6d8a38-cec9-4057-9209-64e670d62407.jpg",
-    "credit": "",
-    "source": "original"
+    "type": "unsplash",
+    "url": "https://images.unsplash.com/photo-1631169482140-d94ebc2668d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxBSSUyMGVycm9yJTIwY29ycmVjdGlvbiUyMHdvcmtwbGFjZXxlbnwwfDB8fHwxNzc1MTM0ODE1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "source": "Unsplash",
+    "credit": "Brett Jordan",
+    "license": "Unsplash License"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Harvard: 47% lavoratori sprecano tempo a correggere errori AI\",\n  \"description\": \"Il 2 aprile 2026, uno studio pubblicato su Harvard Business Review rivela che l’uso improprio dell’intelligenza artificiale nei luoghi di Lavoro sta producendo l’effetto opposto a quello promesso: invece di aumentare la produttività, la sta riducendo. Il fenomeno è stato ribattezzato \\\"AI brain fry\\\".\",\n  \"articleBody\": \"Il 2 aprile 2026, uno studio pubblicato su Harvard Business Review rivela che l’uso improprio dell’intelligenza artificiale nei luoghi di Lavoro sta producendo l’effetto opposto a quello promesso: invece di aumentare la produttività, la sta riducendo. Il fenomeno è stato ribattezzato \\\"AI brain fry\\\". Secondo la ricerca, il 47% dei lavoratori che utilizzano sistemi di intelligenza artificiale dichiara di sprecare più tempo a correggere gli errori degli algoritmi che a svolgere effettivamente il proprio Lavoro. Il problema non è la tecnologia in sé, ma come viene implementata: in assenza di formazione adeguata, i dipendenti finiscono per fare da babysitter ai software, controllando riga per riga i loro output invece di delegare in modo efficace. Lo scenario è particolarmente grave nel settore finanziario e in quello della grande distribuzione, dove l’adozione di strumenti di automazione è esplosa negli ultimi tre anni. La Banca d’Italia ha già segnalato un calo medio del 12% nella produttività dei dipendenti bancari che utilizzano quotidianamente sistemi di AI per l’analisi del credito. \\\"Siamo di fronte a un paradosso della supervisione\\\", ha dichiarato il professor Marco Bertoni dell’Università Bocconi, tra gli autori dello studio. \\\"Più l’algoritmo è sofisticato, più tempo richiede per essere addomesticato\\\". L’allarme arriva proprio mentre il governo sta spingendo per detassare gli investimenti in automazione, con un credito d’imposta del 30% per le aziende che adottano soluzioni di intelligenza artificiale. Peccato che, stando ai dati, il 60% delle imprese italiane non abbia ancora formato il personale su come usarle. La conseguenza è un circolo vizioso: i manager acquistano software costosi per tagliare i costi del Lavoro, ma finiscono per pagare gli stessi stipendi a dipendenti ora impegnati a pulire i disastri dei bot. E mentre i CEO vantano \\\"efficientamento\\\" nelle conferenze stampa, nei reparti si moltiplicano le ore straordinarie non retribuite per sistemare quello che le macchine sbagliano. L’unica soluzione, suggeriscono i ricercatori, è invertire la priorità: prima la formazione, poi la tecnologia. Ma in un mercato dove l’azionista pretende riduzioni di costo immediate, formare i dipendenti è un lusso che pochi si possono permettere. Alla fine, come sempre, il conto lo pagano quelli che stanno alla scrivania, non quelli che firmano gli assegni.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Giorgio Ferrara\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-02T10:04:16.307365+00:00\",\n  \"dateModified\": \"2026-04-02T10:04:16.307365+00:00\",\n  \"url\": \"https://lentemattutina.it/economia/05bc96be853dede3\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/economia/05bc96be853dede3\"\n  },\n  \"articleSection\": \"Economia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.repstatic.it/content/nazionale/img/2026/04/02/115422030-2e6d8a38-cec9-4057-9209-64e670d62407.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Il 47% dei lavoratori italiani perde 1h al giorno a correggere errori dell'intelligenza artificiale\",\n  \"description\": \"Lo studio pubblicato il 2 aprile 2026 su Harvard Business Review ha rivelato che il 47% dei lavoratori italiani trascorre più del 20% del loro tempo al giorno a correggere errori di intelligenza artificiale. La cifra è particolarmente alta rispetto ai loro colleghi europei.\",\n  \"articleBody\": \"Lo studio pubblicato il 2 aprile 2026 su Harvard Business Review ha rivelato che il 47% dei lavoratori italiani trascorre più del 20% del loro tempo al giorno a correggere errori di intelligenza artificiale. La cifra è particolarmente alta rispetto ai loro colleghi europei. Nel corso di uno studio condotto su oltre 1.000 lavoratori italiani, gli ricercatori hanno scoperto che il 47% di loro sprecano più del 20% del loro tempo al giorno a correggere errori di intelligenza artificiale. Il 25% di essi ammette di trascorrere oltre un'ora al giorno a correggere errori. Secondo i ricercatori, ciò è dovuto all'uso improprio dell'intelligenza artificiale nei luoghi di lavoro. L'intelligenza artificiale è stata implementata per semplificare le attività dei lavoratori, ma in molti casi si è rivelata più un ostacolo che un aiuto. Gli errori di intelligenza artificiale possono portare a ritardi, aumentare la quantità di lavoro e ridurre la produttività. Il problema è particolarmente grave nel settore delle aziende italiane, dove l'intelligenza artificiale è stata implementata in modo massiccio. Secondo gli esperti, ciò è dovuto alla mancanza di una regolamentazione efficace sull'uso dell'intelligenza artificiale. Inoltre, la scarsa formazione dei lavoratori sulla gestione dell'intelligenza artificiale ha contribuito a far aumentare il numero di errori. Il costo economico di questi errori è difficile da quantificare, ma si stima che possa essere di milioni di euro. In questo scenario, è chiaro che le aziende italiane stanno pagando un prezzo salato per l'uso improprio dell'intelligenza artificiale. Se l'uso dell'intelligenza artificiale non cambierà, il costo di questi errori continuerà a salire, arricchendo solo i consulenti del settore.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Marta Levi\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-02T10:04:16.307365+00:00\",\n  \"dateModified\": \"2026-04-02T10:04:16.307365+00:00\",\n  \"url\": \"https://lentemattutina.it/economia/05bc96be853dede3\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/economia/05bc96be853dede3\"\n  },\n  \"articleSection\": \"Economia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1631169482140-d94ebc2668d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxBSSUyMGVycm9yJTIwY29ycmVjdGlvbiUyMHdvcmtwbGFjZXxlbnwwfDB8fHwxNzc1MTM0ODE1fDA&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Brett Jordan\"\n  }\n}",
   "priority": 5,
-  "source": "Repubblica Economia",
-  "source_type": "competitor",
-  "original_url": "https://www.repubblica.it/economia/2026/04/02/news/ia_frigge_cervello_danneggia_produttivita-425259870/?rss",
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://lentemattutina.it/economia/harvard-47-lavoratori-sprecano-tempo-a-correggere-05bc96be853dede3",
   "related": [
-    {
-      "title": "Alstom, Martin Sion è il nuovo amministratore delegato",
-      "url": "/economia/sion-e-luomo-di-alstom-partira-il-prossimo-aprile-75973274398da192",
-      "id": "75973274398da192",
-      "image_url": "",
-      "image_type": "none"
-    },
     {
       "title": "19,1 miliardi di danni in 10 anni: l'Italia paga il prezzo dell'incuria",
       "url": "/economia/191-miliardi-di-euro-in-danni-1ea16cbaebf65f3d",
@@ -46,11 +40,19 @@
       "image_type": "pexels"
     },
     {
-      "title": "Istat: commercio al dettaglio fermo a febbraio",
-      "url": "/economia/istat-commercio-al-dettaglio-fermo-a-febbraio-7d57150afd017fee",
-      "id": "7d57150afd017fee",
-      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/31/ec88f27403b69e6c80bf94dd72ed6ce1.jpg",
-      "image_type": "image"
+      "title": "Italiani che partono per Pasqua: 10 milioni di soli italiani",
+      "url": "/economia/dieci-milioni-di-italiani-in-viaggio-per-pasqua-no-9ced36fd5d29e120",
+      "id": "9ced36fd5d29e120",
+      "image_url": "https://images.pexels.com/photos/29355230/pexels-photo-29355230.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
+    },
+    {
+      "title": "Sturm Ruger perde il 57% rispetto a Smith & Wesson a Southport nel Q1 2026",
+      "url": "/economia/ruger-crollo-del-57-rispetto-a-smith-wesson-il-tit-2f47c1768f19080a",
+      "id": "2f47c1768f19080a",
+      "image_url": "",
+      "image_type": "none"
     }
-  ]
+  ],
+  "updated_at": "2026-04-02T10:04:16.307365+00:00"
 }
