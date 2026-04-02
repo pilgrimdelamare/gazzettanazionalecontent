@@ -1,5 +1,22 @@
 [
   {
+    "id": "a5ea886cc00e6723",
+    "slug": "notizia-in-primo-piano-a5ea886cc00e6723",
+    "title": "Rubio: Washington 'riesamina' questione misteriosa",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-01T03:32:06.943623+00:00",
+    "image_type": "wikimedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Marco_Rubio_%2824634232483%29.jpg",
+    "occhiello": "RUBIO ANNUNCIA RIESAME A WASHINGTON",
+    "lead_preview": "Marco Rubio, segretario di Stato degli Stati Uniti, ha annunciato il 1° aprile 2026 che Washington dovrà \"riesamin\" una ",
+    "tags": [
+      "rubio washington",
+      "riesame washington"
+    ]
+  },
+  {
     "id": "c01d3a726347f6a2",
     "slug": "tennis-luciano-darderi-conquista-quarti-di-finale-c01d3a726347f6a2",
     "title": "Tennis: Darderi travolge Bellucci 6-4, 6-2 a Marrakec",
@@ -2823,24 +2840,6 @@
     "occhiello": "150 MILIONI PER AUTO NOLEGGIO SMART A MILANO",
     "lead_preview": "Horizon Automotive e Facile.it hanno depositato oggi a Milano il piano industriale 2026-2028 da 150 milioni di euro per ",
     "tags": []
-  },
-  {
-    "id": "a5ea886cc00e6723",
-    "slug": "notizia-in-primo-piano-a5ea886cc00e6723",
-    "title": "Rubio, annuncio a sorpresa: Washington 'riesamina'",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-01T03:32:06.943623+00:00",
-    "image_type": "none",
-    "image_url": "",
-    "occhiello": "DICHIARAZIONE USA TRONCATA - MANCANO DATI CHIAVE",
-    "lead_preview": "Marco Rubio, segretario di Stato degli Stati Uniti, ha annunciato il 1° aprile 2026 che Washington dovrà \"riesamin\" ma i",
-    "tags": [
-      "rubio washington",
-      "stato usa",
-      "annuncio rubio"
-    ]
   },
   {
     "id": "1fbd3d73c9a870e6",
