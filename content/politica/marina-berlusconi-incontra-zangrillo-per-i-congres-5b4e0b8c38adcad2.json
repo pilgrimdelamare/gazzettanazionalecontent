@@ -1,18 +1,18 @@
 {
   "id": "5b4e0b8c38adcad2",
   "slug": "marina-berlusconi-incontra-zangrillo-per-i-congres-5b4e0b8c38adcad2",
-  "title": "Marina Berlusconi incontra Zangrillo per i congressi regionali di Forza Italia",
+  "title": "Berlusconi incontra zangrillo",
   "titles": [
-    "Marina Berlusconi incontra Zangrillo per i congressi regionali di Forza Italia",
-    "Il vertice tra Berlusconi e Zangrillo per decidere i futuri congressi di Forza Italia",
-    "Dopo il voto, Berlusconi e Zangrillo discutono la mappa dei congressi regionali"
+    "BERLUSCONI INCONTRA ZANGRILLO",
+    "BERLUSCONI INCONTRA ZANGRILLO",
+    "BERLUSCONI INCONTRA ZANGRILLO"
   ],
   "title_winner": null,
   "section": "politica",
-  "occhiello": "BERLUSCONI IN CONSULTAZIONI",
-  "lead": "Marina Berlusconi incontra il ministro Zangrillo per discutere dei congressi regionali. Le consultazioni si svolgono dopo il voto per il rinnovo della leadership di Forza Italia.",
-  "corpo1": "Marina Berlusconi, presidente di Fininvest, sta completando le sue consultazioni con il ministro per la Pubblica amministrazione, Renato Zangrillo. Tra i nodi da sciogliere c'è quello dei congressi regionali. Secondo la fonte, l'incontro è stato convocato per discutere delle questioni interne alla casa madre di Forza Italia.",
-  "corpo2": "Le consultazioni di Berlusconi sono un passo importante per la riorganizzazione della struttura della casa madre.. In passato, Berlusconi ha dimostrato la sua capacità di gestire importanti posizioni di responsabilità.. La sua nomina a presidente di Fininvest è stata vista come un passo importante per la riorganizzazione della casa madre.. Tuttavia, la crisi interna di Forza Italia e la competizione per la leadership potrebbero influenzare la strategia di Berlusconi.. Se le consultazioni di Berlusconi con Zangrillo non risolveranno i problemi interni di Forza Italia, la crisi potrebbe continuare a scempiarsi, e a pagare saranno i soliti noti..",
+  "occhiello": "BERLUSCONI INCONTRA ZANGRILLO",
+  "lead": "Marina Berlusconi ha incontrato il ministro Zangrillo il 2 aprile 2026 per discutere dei congressi regionali di Forza Italia.",
+  "corpo1": "L'incontro si è svolto dopo una Serie di consultazioni che la presidente di Fininvest ha avuto con esponenti di spicco del partito. Dopo l'incontro con Zangrillo, Marina Berlusconi ha anche incontrato Tajani, come riportato dalla Repubblica, in un ulteriore passo verso la definizione della strategia del partito. I nodi da sciogliere includono quello dei congressi regionali, che rappresenta un passaggio importante per la definizione della strategia del partito. Marina Berlusconi è presidente di Fininvest e del gruppo arnoldo mondadori editore, e membro del cda di mfe - mediaforeurope n.v. Il suo ruolo all'interno di Forza Italia è rilevante, considerando la sua influenza sulle scelte del partito.",
+  "corpo2": "Marina Berlusconi ha una lunga esperienza nel Mondo degli Affari e della Politica, avendo fatto parte dei cda di mediobanca, medusa film e mediolanum. La sua presenza all'interno di Forza Italia rappresenta un elemento di continuità con la tradizione del partito, fondato da suo padre silvio Berlusconi. Gli incontri con il ministro Zangrillo e Tajani mostrano chiaramente l'intento del partito di rafforzare la sua posizione e definire una strategia vincente per i congressi regionali. La posta in gioco è alta, poiché i congressi regionali potrebbero determinare il futuro leader di Forza Italia, con Marina Berlusconi come figura chiave. Con Marina Berlusconi come figura di spicco, Forza Italia potrebbe conoscere un periodo di rinnovamento, ma il partito dovrà anche affrontare le sfide che ne derivano. Il risultato di questi incontri e delle future mosse del partito sarà quindi fondamentale per determinare il futuro di Forza Italia e il suo ruolo all'interno della Politica italiana.",
   "journalist": {
     "id": "sergio_mancini_01",
     "firma": "Sergio Mancini",
@@ -20,24 +20,15 @@
   },
   "published_at": "2026-04-02T20:57:22.717882+00:00",
   "image": {
-    "type": "image",
-    "url": "https://www.repstatic.it/content/nazionale/img/2026/04/02/215749971-fd45f2a0-6411-4432-a212-dc25ff530e76.jpg",
-    "credit": "",
-    "source": "original"
+    "type": "none",
+    "source": ""
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Marina Berlusconi incontra Zangrillo per i congressi regionali di Forza Italia\",\n  \"description\": \"Marina Berlusconi incontra il ministro Zangrillo per discutere dei congressi regionali. Le consultazioni si svolgono dopo il voto per il rinnovo della leadership di Forza Italia.\",\n  \"articleBody\": \"Marina Berlusconi incontra il ministro Zangrillo per discutere dei congressi regionali. Le consultazioni si svolgono dopo il voto per il rinnovo della leadership di Forza Italia. Marina Berlusconi, presidente di Fininvest, sta completando le sue consultazioni con il ministro per la Pubblica amministrazione, Renato Zangrillo. Tra i nodi da sciogliere c'è quello dei congressi regionali. Secondo la fonte, l'incontro è stato convocato per discutere delle questioni interne alla casa madre di Forza Italia. Le consultazioni di Berlusconi sono un passo importante per la riorganizzazione della struttura della casa madre.. In passato, Berlusconi ha dimostrato la sua capacità di gestire importanti posizioni di responsabilità.. La sua nomina a presidente di Fininvest è stata vista come un passo importante per la riorganizzazione della casa madre.. Tuttavia, la crisi interna di Forza Italia e la competizione per la leadership potrebbero influenzare la strategia di Berlusconi.. Se le consultazioni di Berlusconi con Zangrillo non risolveranno i problemi interni di Forza Italia, la crisi potrebbe continuare a scempiarsi, e a pagare saranno i soliti noti..\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Sergio Mancini\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-02T20:57:22.717882+00:00\",\n  \"dateModified\": \"2026-04-02T20:57:22.717882+00:00\",\n  \"url\": \"https://lentemattutina.it/politica/5b4e0b8c38adcad2\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/politica/5b4e0b8c38adcad2\"\n  },\n  \"articleSection\": \"Politica\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.repstatic.it/content/nazionale/img/2026/04/02/215749971-fd45f2a0-6411-4432-a212-dc25ff530e76.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"BERLUSCONI INCONTRA ZANGRILLO\",\n  \"description\": \"Marina Berlusconi ha incontrato il ministro Zangrillo il 2 aprile 2026 per discutere dei congressi regionali di Forza Italia.\",\n  \"articleBody\": \"Marina Berlusconi ha incontrato il ministro Zangrillo il 2 aprile 2026 per discutere dei congressi regionali di Forza Italia. L'incontro si è svolto dopo una Serie di consultazioni che la presidente di Fininvest ha avuto con esponenti di spicco del partito. Dopo l'incontro con Zangrillo, Marina Berlusconi ha anche incontrato Tajani, come riportato dalla Repubblica, in un ulteriore passo verso la definizione della strategia del partito. I nodi da sciogliere includono quello dei congressi regionali, che rappresenta un passaggio importante per la definizione della strategia del partito. Marina Berlusconi è presidente di Fininvest e del gruppo arnoldo mondadori editore, e membro del cda di mfe - mediaforeurope n.v. Il suo ruolo all'interno di Forza Italia è rilevante, considerando la sua influenza sulle scelte del partito. Marina Berlusconi ha una lunga esperienza nel Mondo degli Affari e della Politica, avendo fatto parte dei cda di mediobanca, medusa film e mediolanum. La sua presenza all'interno di Forza Italia rappresenta un elemento di continuità con la tradizione del partito, fondato da suo padre silvio Berlusconi. Gli incontri con il ministro Zangrillo e Tajani mostrano chiaramente l'intento del partito di rafforzare la sua posizione e definire una strategia vincente per i congressi regionali. La posta in gioco è alta, poiché i congressi regionali potrebbero determinare il futuro leader di Forza Italia, con Marina Berlusconi come figura chiave. Con Marina Berlusconi come figura di spicco, Forza Italia potrebbe conoscere un periodo di rinnovamento, ma il partito dovrà anche affrontare le sfide che ne derivano. Il risultato di questi incontri e delle future mosse del partito sarà quindi fondamentale per determinare il futuro di Forza Italia e il suo ruolo all'interno della Politica italiana.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Sergio Mancini\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-02T20:57:22.717882+00:00\",\n  \"dateModified\": \"2026-04-02T20:57:22.717882+00:00\",\n  \"url\": \"https://lentemattutina.it/politica/5b4e0b8c38adcad2\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/politica/5b4e0b8c38adcad2\"\n  },\n  \"articleSection\": \"Politica\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
   "priority": 5,
-  "source": "Redazione",
-  "source_type": "competitor_gap",
-  "original_url": "https://www.repubblica.it/politica/2026/04/02/news/marina_berlusconi_zangrillo_tajani_dopo_pasqua-425261184/",
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://lentemattutina.it/politica/marina-berlusconi-incontra-zangrillo-per-i-congres-5b4e0b8c38adcad2",
   "related": [
-    {
-      "title": "Istituzioni a rischio: sisto chiede rilancio di forza italia",
-      "url": "/politica/sisto-viceministro-forza-italia-va-rilanciata-cong-e34a26c3a1128da8",
-      "id": "e34a26c3a1128da8",
-      "image_url": "https://francescopaolosisto.it/images/00_b_francesco_paolo_sisto.jpg",
-      "image_type": "ddg_image"
-    },
     {
       "title": "Conte incontra inviato di Trump in pubblico e lo pubblica su Facebook",
       "url": "/politica/conte-smentisce-libero-incontro-con-lemissario-di-eb26e2437796469f",
@@ -46,11 +37,19 @@
       "image_type": "none"
     },
     {
-      "title": "Delmastro, presidente di Italia Nostra, indagato a Roma per fondi illeciti",
-      "url": "/politica/maurizio-delmastro-presidente-di-italia-nostra-coi-e0cb1cf72c38f8b0",
-      "id": "e0cb1cf72c38f8b0",
-      "image_url": "",
-      "image_type": "none"
+      "title": "Governo incontra Confindustria il 1° aprile",
+      "url": "/politica/il-governo-convoca-confindustria-al-mimit-per-il-1-9c15f81fa2b9a909",
+      "id": "9c15f81fa2b9a909",
+      "image_url": "https://live.staticflickr.com/65535/55175947777_96b849d96b_b.jpg",
+      "image_type": "flickr"
+    },
+    {
+      "title": "Meloni avverte Piantedosi: rimpasto governo sul tavolo",
+      "url": "/politica/meloni-ha-avvisato-piantedosi-rimpasto-in-vista-a-ebba70e492353acc",
+      "id": "ebba70e492353acc",
+      "image_url": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/03/2026-03-23T150507Z_1_LYNXMPEM2M0UO_RTROPTP_4_ITALY-POLITICS-JUSTICE-scaled-e1774328208124-2048x1155.jpg",
+      "image_type": "ddg_image"
     }
-  ]
+  ],
+  "updated_at": "2026-04-02T20:57:22.717882+00:00"
 }
