@@ -1,5 +1,23 @@
 [
   {
+    "id": "925e3a8494e87605",
+    "slug": "niel-e-pigasse-attaccano-la-commissione-francese-u-925e3a8494e87605",
+    "title": "Niel e Pigasse bocciano l'inchiesta Wari: 'Un circo, nessuno ha visto i documenti'",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-02T20:37:08.337096+00:00",
+    "image_type": "flickr",
+    "image_url": "https://live.staticflickr.com/65535/48184134151_aae02f1685_b.jpg",
+    "occhiello": "LA FRANCIA SCATENA IL CIRCO",
+    "lead_preview": "Xavier Niel e Matthieu Pigasse hanno definito «un circo politico» la commissione d'inchiesta francese sull'audizione pub",
+    "tags": [
+      "inchiesta wari",
+      "niel pigasse",
+      "circo politico"
+    ]
+  },
+  {
     "id": "4f01180471249edd",
     "slug": "calcio-paz-torna-a-como-la-svolta-per-la-salvezza-4f01180471249edd",
     "title": "Nicolas Paz rientra a Como dopo il ritiro con l'Argentina U23 a Buenos Aires",
@@ -2445,23 +2463,6 @@
     "occhiello": "EDGEWING VINCE CONTRATTO DA 686 MILIONI",
     "lead_preview": "Edgewing, società britannica di ingegneria aerospaziale, si è aggiudicata il 2 aprile 2026 un contratto da 686 milioni d",
     "tags": []
-  },
-  {
-    "id": "925e3a8494e87605",
-    "slug": "niel-e-pigasse-attaccano-la-commissione-francese-u-925e3a8494e87605",
-    "title": "La francia scatena il circo",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-02T20:37:08.337096+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/35494861/pexels-photo-35494861.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "LA FRANCIA SCATENA IL CIRCO",
-    "lead_preview": "Xavier Niel e Matthieu Pigasse hanno definito «un circo politico» la commissione d'inchiesta francese sull'audizione pub",
-    "tags": [
-      "commissione francese",
-      "xavier niel"
-    ]
   },
   {
     "id": "290aa637b237722e",
