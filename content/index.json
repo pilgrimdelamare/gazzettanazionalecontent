@@ -1,5 +1,19 @@
 [
   {
+    "id": "d4dcea5c44cc60be",
+    "slug": "pressione-fiscale-al-514-d4dcea5c44cc60be",
+    "title": "Pressione fiscale al 51,4%",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-03T20:14:14.795366+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/02/05/med-1200x630-21-1200x630.jpg",
+    "occhiello": "PRESSIONE FISCALE AL 51,4%",
+    "lead_preview": "Secondo l'Istat, la pressione fiscale in Italia ha raggiunto il 51,4% nel quarto trimestre del 2025",
+    "tags": []
+  },
+  {
     "id": "87c5af3de0d055f7",
     "slug": "corinne-clery-accusa-lex-compagno-ha-chiamato-i-pa-87c5af3de0d055f7",
     "title": "Corinne Cléry, ex compagno italiano ingaggia fotografi per foto del litigio a Roma negli anni '80",
@@ -8543,21 +8557,5 @@
     "occhiello": "",
     "lead_preview": "Kylian mbappé, stella del real madrid, ha pubblicato un video su instagram il 30 marzo 2026 in cui lo si vede giocare a ",
     "tags": []
-  },
-  {
-    "id": "eddcfd9cf7f88143",
-    "slug": "elena-chiorino-si-dimette-eddcfd9cf7f88143",
-    "title": "Chiorino, assessora piemontese, si dimette dopo la foto in bar mentre era in riu",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Elena Russo",
-    "published_at": "2026-03-30T22:49:04.291479+00:00",
-    "image_type": "image",
-    "image_url": "https://www.regione.piemonte.it/web/sites/default/files/media/immagini/2022-10/grattacielo_interno.jpeg",
-    "occhiello": "CHIORINO SI DIMETTE DOPO POLEMICA SU PARTENZA",
-    "lead_preview": "Elena Chiorino, assessora regionale del Piemonte, ha presentato le dimissioni il 30 marzo 2026 dopo le polemiche scatena",
-    "tags": [
-      "dimissioni chiorino"
-    ]
   }
 ]
