@@ -1,5 +1,19 @@
 [
   {
+    "id": "492a47c6b4485a4b",
+    "slug": "borgo-incoronata-sommerso-dal-fango-case-inagibili-492a47c6b4485a4b",
+    "title": "Borgo incoronata sommerso dal fango, case inagibili",
+    "section": "cronaca",
+    "priority": 6,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-04-03T11:09:24.624884+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/3/a904f148b8f20d40737c7fe49149f81f.jpg",
+    "occhiello": "BORGO INCORONATA SOMMERSO DAL FANGO, CASE INAGIBILI",
+    "lead_preview": "Il fiume Cervaro è esondato a Borgo Incoronata, in provincia di Foggia, il 3 aprile 2026, lasciando 60 centimetri di fan",
+    "tags": []
+  },
+  {
     "id": "53977625940fbf5a",
     "slug": "new-york-times-licenzia-giornalista-per-recensione-53977625940fbf5a",
     "title": "New york times licenzia giornalista per recensione generata da ia",
@@ -8545,24 +8559,6 @@
       "fondi pubblici",
       "delmastro mafia",
       "interrogatorio mafia"
-    ]
-  },
-  {
-    "id": "e96bc3e031866815",
-    "slug": "scuola-di-pallavolo-iraniana-colpita-da-missile-us-e96bc3e031866815",
-    "title": "21 morti, scuola di pallavolo colpita da missile Usa a Tehran",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-03-30T23:20:03.877303+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1568677597024-8b77666289f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxpcmFuaWFuJTIwdm9sbGV5YmFsbCUyMHNjaG9vbCUyMG1pc3NpbGUlMjBhdHRhY2t8ZW58MHwwfHx8MTc3NDkyMDYzNnww&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "STRAGE A SCUOLA IN IRAN: UN ATTO DI GUERRA CHE UCCIDE 21 GIOVANI ATLETE",
-    "lead_preview": "La scuola di pallavolo di Tehran è stata colpita da un missile americano il primo giorno di guerra, causando la morte di",
-    "tags": [
-      "guerra iran",
-      "strage a scuola",
-      "missile usa"
     ]
   }
 ]
