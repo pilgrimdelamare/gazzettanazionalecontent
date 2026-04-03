@@ -1,5 +1,19 @@
 [
   {
+    "id": "9d269d3d5797257e",
+    "slug": "un-docente-iraniana-denunzia-gli-usa-9d269d3d5797257e",
+    "title": "Un docente iraniana denunzia gli usa",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-04-03T16:21:24.185458+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/3/8c7bb5f1d79e886cf266b882294ded1f.jpg",
+    "occhiello": "UN DOCENTE IRANIANA DENUNZIA GLI USA",
+    "lead_preview": "Il 3 aprile, presso ANSA, una docente iraniana ha dichiarato di sentirsi \"distrutta\" per la situazione politica nel suo ",
+    "tags": []
+  },
+  {
     "id": "555eb6d5e4c9945d",
     "slug": "tennis-sinner-affronta-zverev-al-primo-turno-di-mo-555eb6d5e4c9945d",
     "title": "Tennis: Sinner affronta Zverev al primo turno di Montecarlo, poi rischia Medvedev",
@@ -8516,24 +8530,6 @@
       "accordo ue-mercosur",
       "paraguay",
       "parlamento paraguay"
-    ]
-  },
-  {
-    "id": "6836f32280a0cb6d",
-    "slug": "17enne-arrestato-a-perugia-per-contatti-con-suprem-6836f32280a0cb6d",
-    "title": "17enne arrestato a Perugia con piani di strage a scuola",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Chiara Esposito",
-    "published_at": "2026-03-31T01:17:16.406086+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/10168624/pexels-photo-10168624.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "ARRESTATO 17ENNE SUPREMATISTA",
-    "lead_preview": "Il 31 marzo 2026, a Perugia, è stato arrestato un 17enne in contatto con suprematisti, secondo la fonte.",
-    "tags": [
-      "arresto 17enne perugia",
-      "piani di strage scuola",
-      "suprematista perugia"
     ]
   }
 ]
