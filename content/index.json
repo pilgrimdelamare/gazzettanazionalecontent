@@ -1,5 +1,19 @@
 [
   {
+    "id": "25b681d974e44ee1",
+    "slug": "sperar-phishing-con-ia-25b681d974e44ee1",
+    "title": "Meloni lancia ID digitale: addio carta d'identità",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-04-02T12:55:55.462921+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1591696331111-ef9586a5b17a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxhcnRpZmljaWFsJTIwaW50ZWxsaWdlbmNlJTIwcHJpdmFjeSUyMHJpc2t8ZW58MHwwfHx8MTc3NTIwOTI1Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "IDENTITÀ DIGITALE BASATA SU IA ENTRO IL 2027",
+    "lead_preview": "Giorgia Meloni ha presentato il 2 aprile 2026 a Palazzo Chigi un piano per introdurre un’identità digitale basata su int",
+    "tags": []
+  },
+  {
     "id": "80f36f06d2382a22",
     "slug": "newprinces-crolla-in-borsa--30-dopo-lofferta-per-s-80f36f06d2382a22",
     "title": "NewPrinces crolla del 30% dopo l'acquisizione di Sigma",
@@ -2165,20 +2179,6 @@
       "rientropaz acomo",
       "calcio mercato"
     ]
-  },
-  {
-    "id": "25b681d974e44ee1",
-    "slug": "sperar-phishing-con-ia-25b681d974e44ee1",
-    "title": "Meloni lega ai e privacy a rischio entro il 2027",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-04-02T12:55:55.462921+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/36237031/pexels-photo-36237031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "MELONI LEGA AI E PRIVACY A RISCHIO ENTRO IL 2027",
-    "lead_preview": "Giorgia Meloni, il 2 aprile 2026, ha presentato un piano per introdurre un'identità digitale basata su intelligenza arti",
-    "tags": []
   },
   {
     "id": "51b64181dd0162bb",
