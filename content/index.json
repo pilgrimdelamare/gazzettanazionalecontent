@@ -1,5 +1,23 @@
 [
   {
+    "id": "ef913b950bdab735",
+    "slug": "guerre-e-paure-degli-italiani-ef913b950bdab735",
+    "title": "85% degli italiani aspetta rincari: preoccupa il costo della vita",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-03T16:26:18.478249+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1614260938313-a7fc1a7ad0d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxlbXB0eSUyMHdhbGxldHxlbnwwfDB8fHwxNzc1MjQ1OTYxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "GLI ITALIANI SI PREPARANO AL RITORNO DELL'INFLAZIONE",
+    "lead_preview": "Un nuovo sondaggio condotto da Area Studi Legacoop e Ipsos ha rilevato che l'85% degli italiani si aspetta un aumento de",
+    "tags": [
+      "costo della vita",
+      "inflazione 2025",
+      "sondaggio legacoop"
+    ]
+  },
+  {
     "id": "9ba0804487e949ba",
     "slug": "rai-30-milioni-di-buco-per-la-mancata-qualificazio-9ba0804487e949ba",
     "title": "Rai perde 30 milioni senza Azzurri",
@@ -561,23 +579,6 @@
     "lead_preview": "Roma, 3 aprile 2026 - St Michael's Mount, l'isola-monumento al largo delle coste della Cornovaglia, mostra ancora i segn",
     "tags": [
       "tempesta goret"
-    ]
-  },
-  {
-    "id": "ef913b950bdab735",
-    "slug": "guerre-e-paure-degli-italiani-ef913b950bdab735",
-    "title": "Guerre e paure degli italiani",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-04-03T16:26:18.478249+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/03/181425461-dc997489-6cba-4af3-9bbe-22588dc13582.jpg",
-    "occhiello": "GUERRE E PAURE DEGLI ITALIANI",
-    "lead_preview": "Secondo un report di Area Studi Legacoop e Ipsos, l'85% degli italiani si aspetta un aumento del costo della Vita a caus",
-    "tags": [
-      "guerre internazionali",
-      "costo della vita"
     ]
   },
   {
