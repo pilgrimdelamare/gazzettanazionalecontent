@@ -1,5 +1,19 @@
 [
   {
+    "id": "d9c0e5aa220a64b5",
+    "slug": "il-rigassificatore-a-rischio-per-la-difesa-d9c0e5aa220a64b5",
+    "title": "Il rigassificatore a rischio per la difesa",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-04-03T10:19:33.376036+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://www.repstatic.it/content/localirep/img/rep-genova/2026/04/03/115915849-6bdddf2e-74ad-43b7-8306-aef62a14afca.jpg",
+    "occhiello": "IL RIGASSIFICATORE A RISCHIO PER LA DIFESA",
+    "lead_preview": "Davide Natale, capogruppo del Pd in Regione Liguria, ha chiesto la sospensione delle attività del rigassificatore di Pan",
+    "tags": []
+  },
+  {
     "id": "9ee22713889866be",
     "slug": "minacce-con-croce-celtica-a-deputata-pd-9ee22713889866be",
     "title": "Minacce con croce celtica a deputata pd",
@@ -8571,23 +8585,6 @@
       "calcio nazionale",
       "gattuso allenatore",
       "europeo 2026"
-    ]
-  },
-  {
-    "id": "cbb32d0e1338ad0e",
-    "slug": "prof-mocchi-accoltellata-a-trescore-salvata-dai-me-cbb32d0e1338ad0e",
-    "title": "Prof Mocchi accoltellata in classe, miracolosamente salva",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Chiara Esposito",
-    "published_at": "2026-03-30T22:52:20.953835+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1673729914152-7194df784522?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxUcmVzY29yZSUyMEJhbG5lYXJpbyUyMGZsb29kJTIwcmVzY3VlJTIwaXRhbHl8ZW58MHwwfHx8MTc3NDkxOTI5OXww&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "PROF MOCCHI ACCOLTELLATA A TRESCORE, MIRACOLATA DAI MEDICI",
-    "lead_preview": "La prof Chiara Mocchi, docente di Trescore Balneario, è stata accoltellata nella sua classe di scuola il 30 marzo 2026. ",
-    "tags": [
-      "aggressione trescore",
-      "caso mocchi"
     ]
   }
 ]
