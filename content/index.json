@@ -1,5 +1,19 @@
 [
   {
+    "id": "d08217f9c0e215d2",
+    "slug": "birmingham-spesa-raddoppiata-per-personale-interin-d08217f9c0e215d2",
+    "title": "Birmingham, 3 aprile 2026",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-03T05:15:17.794229+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/32331108/pexels-photo-32331108.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "",
+    "lead_preview": "Birmingham, 3 aprile 2026. Il costo per il personale interinale del consiglio comunale ha superato i 42 milioni di sterl",
+    "tags": []
+  },
+  {
     "id": "d5680e4e5f258e85",
     "slug": "genova-nasce-tigullio-energie-condivise-15-mw-rinn-d5680e4e5f258e85",
     "title": "Genova: nasce Tigullio Energie",
@@ -526,22 +540,6 @@
     "lead_preview": "Gabriele Albertini, ex sindaco berlusconiano di Milano, ha dichiarato al Giornale che il caso stadio San Siro è la conse",
     "tags": [
       "caso san siro"
-    ]
-  },
-  {
-    "id": "d08217f9c0e215d2",
-    "slug": "birmingham-spesa-raddoppiata-per-personale-interin-d08217f9c0e215d2",
-    "title": "Birmingham: spesa raddoppiata per personale interinale",
-    "section": "esteri",
-    "priority": 4,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-03T05:15:17.794229+00:00",
-    "image_type": "image",
-    "image_url": "https://i.guim.co.uk/img/media/99a775ab37382565917900750aaf9b5610f2acd9/369_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3a4df10450bcc82cd1a88979444cf575",
-    "occhiello": "BIRMINGHAM IN CRISI PER LO SCIOPERO DEI NETTURBINI",
-    "lead_preview": "Unite, il sindacato dei lavoratori, accusa il consiglio comunale di Birmingham di cercare di \"spezzare\" lo sciopero dei ",
-    "tags": [
-      "sciopero birmingham"
     ]
   },
   {
