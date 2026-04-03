@@ -1,5 +1,19 @@
 [
   {
+    "id": "9ee22713889866be",
+    "slug": "minacce-con-croce-celtica-a-deputata-pd-9ee22713889866be",
+    "title": "Minacce con croce celtica a deputata pd",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Chiara Esposito",
+    "published_at": "2026-04-03T10:19:31.091004+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/3/c09e697ff29b220fa130c0215cd359f7.jpg",
+    "occhiello": "MINACCE CON CROCE CELTICA A DEPUTATA PD",
+    "lead_preview": "Rosa Romeo, deputata del Partito Democratico, ha ricevuto una lettera minatoria all'indirizzo della Camera dei Deputati ",
+    "tags": []
+  },
+  {
     "id": "96e5b825481b4df1",
     "slug": "antonio-esposito-in-rianimazione-dopo-aggressione-96e5b825481b4df1",
     "title": "Antonio Esposito in rianimazione dopo aggressione con spranga a Avellino",
@@ -8574,24 +8588,6 @@
     "tags": [
       "aggressione trescore",
       "caso mocchi"
-    ]
-  },
-  {
-    "id": "0c697a4db117e94d",
-    "slug": "usa-il-dipartimento-di-giustizia-contro-il-minneso-0c697a4db117e94d",
-    "title": "Giustizia USA attacca politiche Minnesota su atleti trans a Minneapolis",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-03-30T22:52:39.708837+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1608733926759-da2465baf7b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxNaW5uZXNvdGElMjBlZHVjYXRpb24lMjBkZXBhcnRtZW50fGVufDB8MHx8fDE3NzQ5MTg5NTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "USA VS MINNESOTA: IL DIPARTIMENTO DI GIUSTIZIA CONTRO GLI ATLETI TRANS",
-    "lead_preview": "Il 30 marzo 2026, il Dipartimento di Giustizia degli Stati Uniti ha intentato una causa contro il Dipartimento dell'istr",
-    "tags": [
-      "usa vs minnesota",
-      "atleti trans",
-      "processo giustizia"
     ]
   }
 ]
