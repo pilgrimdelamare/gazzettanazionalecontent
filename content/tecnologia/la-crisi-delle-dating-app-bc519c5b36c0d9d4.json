@@ -1,56 +1,56 @@
 {
   "id": "bc519c5b36c0d9d4",
   "slug": "la-crisi-delle-dating-app-bc519c5b36c0d9d4",
-  "title": "A Londra i giovani usano PowerPoint per presentare amici in cerca d'amore",
+  "title": "150 persone a Londra pagano per presentare amici in cerca d'amore con PowerPoint",
   "titles": [
-    "A Londra i giovani usano PowerPoint per presentare amici in cerca d'amore",
-    "Un gruppo di amici londinesi lancia 'Date my mate' contro la fatica degli incontri online",
-    "Dating fatigue in UK: la nuova moda dei pub è il colloquio d'amore tra amici"
+    "150 persone a Londra pagano per presentare amici in cerca d'amore con PowerPoint",
+    "A Londra scelgono l'amore offline: amici si candidano con slide per Date my mate",
+    "Inghilterra, la rivolta anti-app: al pub con PowerPoint per trovare l'anima gemella"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "LA NOIA DEL DATE: PUB LONDINESI RIVOLUZIONANO IL DATING CON IL POWERPOINT",
-  "lead": "La crisi delle app di incontri sta portando i giovani inglesi a cercare nuove forme di incontro, e uno dei metodi più insoliti è stato inventato nei pub di Londra. Questo nuovo approccio si chiama \"Date my mate\" e consiste in una presentazione PowerPoint fatta da un amico per presentare un candidato partner. È nato da un'idea di un gruppo di amici che hanno deciso di mettere La noia delle app di incontri, conosciuta come \"dating fatigue\", sta diventando un problema sempre più grave per i giovani inglesi.",
-  "corpo1": "La noia delle app di incontri, conosciuta come \"dating fatigue\", sta diventando un problema sempre più grave per i giovani inglesi. La noia delle app di incontri, conosciuta come \"dating fatigue\", sta diventando un problema sempre più grave per i giovani inglesi. Secondo Flavia Cappadocia di Reuters, i giovani stanno cercando di trovare nuove forme di incontro che siano più autentiche e meno noiose. \"Stanchi dello swaping sullo smartphone per cercare l'anima gemella? Non siete soli\", scrive Cappadocia. \"I giovani inglesi hanno scelto di combattere la",
-  "corpo2": "Cosiddetta 'dating fatigue' con una presentazione PowerPoint realizzata da un amico che ne tessera le lodi davanti a un pubblico. Il nome dell'evento è \"Date my mate\" ed è stato organizzato a Londra, con i 150 partecipanti che hanno assistito alla presentazione PowerPoint del candidato partner. Questo nuovo approccio al dating è una risposta alla crisi delle app di incontri che sta portando i giovani a cercare nuove forme di incontro. Secondo Cappadocia, la noia delle app di incontri è causata dal fatto che le persone stanno cercando relazioni superficiali e non autentiche. \"La noia delle app di incontri è causata dal fatto che le persone stanno cercando relazioni superficiali e non autentiche\", scrive Cappadocia. \"I giovani stanno cercando di trovare relazioni più autentiche e meno noiose, e questo nuovo approccio al dating è una risposta a questa esigenza\". A pagare saranno, come sempre, i giovani che non possono permettersi di restare fuori dal gioco dell'amore mediato dagli algoritmi.",
+  "occhiello": "A LONDRA I GIOVANI USANO POWERPOINT PER PRESENTARE AMICI IN CERCA D'AMORE",
+  "lead": "A Londra, i giovani stanchi delle app di incontri stanno trovando nuove forme di incontro, tra cui \"Date my mate\", un evento che prevede la presentazione di un amico in cerca d'amore attraverso un PowerPoint. CORPO 1 La crisi delle app di incontri sta portando i giovani inglesi a cercare nuove forme di incontro, e uno dei metodi più in voga è",
+  "corpo1": "Voga è \"Date my mate\", un evento che si è tenuto recentemente a Londra. Secondo la fonte Reuters, i 150 partecipanti hanno ascoltato presentazioni PowerPoint fatte da amici che volevano presentare loro un potenziale partner, pagando una tariffa per partecipare. L'evento è stato organizzato per combattere la \"noia generata dalle app di incontri\", come la definiscono gli organizzatori. I partecipanti hanno pagato una tariffa per",
+  "corpo2": "Partecipare all'evento. CORPO 2 Chi è dietro questo nuovo trend, e chi paga saranno i soliti? \"Date my mate\" è l'idea di Flavia Cappadocia, giornalista di Reuters, che ha scoperto questo nuovo modo di incontrarsi mentre lavorava a un articolo sulla crisi delle app di incontri. La Cappadocia ha scoperto che molti giovani stanchi delle app di incontri stanno cercando nuove forme di incontro, e \"Date my mate\" è solo uno degli esempi di come stanno rispondendo a questa sfida. Il trend è nato a Londra, ma potrebbe diffondersi in altre città, e chi paga saranno i soliti, ovvero gli organizzatori dell'evento e i partecipanti che pagano la tariffa per partecipare. Chi paga saranno i soliti, ovvero gli organizzatori dell'evento e i partecipanti che pagano la tariffa per partecipare. La vera questione è se questo nuovo trend possa davvero aiutare i giovani a trovare il loro compagno ideale, come sempre.",
   "journalist": {
-    "id": "giulia_serra_01",
-    "firma": "Giulia Serra",
+    "id": "andrea_foti_01",
+    "firma": "Andrea Foti",
     "sezione": "tecnologia"
   },
   "published_at": "2026-04-02T16:34:16.700055+00:00",
   "image": {
-    "type": "unsplash",
-    "url": "https://images.unsplash.com/photo-1701380135887-6daf8186fccb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxnaW92YW5pJTIwaW5nbGVzaXxlbnwwfDB8fHwxNzc1MTU4OTg5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "source": "Unsplash",
-    "credit": "Casey Lovegrove",
-    "license": "Unsplash License"
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/7991467/pexels-photo-7991467.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Tima Miroshnichenko",
+    "license": "Pexels License"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"A Londra i giovani usano PowerPoint per presentare amici in cerca d'amore\",\n  \"description\": \"La crisi delle app di incontri sta portando i giovani inglesi a cercare nuove forme di incontro, e uno dei metodi più insoliti è stato inventato nei pub di Londra. Questo nuovo approccio si chiama \\\"Date my mate\\\" e consiste in una presentazione PowerPoint fatta da un amico per presentare un candidato\",\n  \"articleBody\": \"La crisi delle app di incontri sta portando i giovani inglesi a cercare nuove forme di incontro, e uno dei metodi più insoliti è stato inventato nei pub di Londra. Questo nuovo approccio si chiama \\\"Date my mate\\\" e consiste in una presentazione PowerPoint fatta da un amico per presentare un candidato partner. È nato da un'idea di un gruppo di amici che hanno deciso di mettere La noia delle app di incontri, conosciuta come \\\"dating fatigue\\\", sta diventando un problema sempre più grave per i giovani inglesi. La noia delle app di incontri, conosciuta come \\\"dating fatigue\\\", sta diventando un problema sempre più grave per i giovani inglesi. La noia delle app di incontri, conosciuta come \\\"dating fatigue\\\", sta diventando un problema sempre più grave per i giovani inglesi. Secondo Flavia Cappadocia di Reuters, i giovani stanno cercando di trovare nuove forme di incontro che siano più autentiche e meno noiose. \\\"Stanchi dello swaping sullo smartphone per cercare l'anima gemella? Non siete soli\\\", scrive Cappadocia. \\\"I giovani inglesi hanno scelto di combattere la Cosiddetta 'dating fatigue' con una presentazione PowerPoint realizzata da un amico che ne tessera le lodi davanti a un pubblico. Il nome dell'evento è \\\"Date my mate\\\" ed è stato organizzato a Londra, con i 150 partecipanti che hanno assistito alla presentazione PowerPoint del candidato partner. Questo nuovo approccio al dating è una risposta alla crisi delle app di incontri che sta portando i giovani a cercare nuove forme di incontro. Secondo Cappadocia, la noia delle app di incontri è causata dal fatto che le persone stanno cercando relazioni superficiali e non autentiche. \\\"La noia delle app di incontri è causata dal fatto che le persone stanno cercando relazioni superficiali e non autentiche\\\", scrive Cappadocia. \\\"I giovani stanno cercando di trovare relazioni più autentiche e meno noiose, e questo nuovo approccio al dating è una risposta a questa esigenza\\\". A pagare saranno, come sempre, i giovani che non possono permettersi di restare fuori dal gioco dell'amore mediato dagli algoritmi.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Giulia Serra\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-02T16:34:16.700055+00:00\",\n  \"dateModified\": \"2026-04-02T16:34:16.700055+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/bc519c5b36c0d9d4\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/bc519c5b36c0d9d4\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1701380135887-6daf8186fccb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxnaW92YW5pJTIwaW5nbGVzaXxlbnwwfDB8fHwxNzc1MTU4OTg5fDA&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Casey Lovegrove\"\n  }\n}",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"150 persone a Londra pagano per presentare amici in cerca d'amore con PowerPoint\",\n  \"description\": \"A Londra, i giovani stanchi delle app di incontri stanno trovando nuove forme di incontro, tra cui \\\"Date my mate\\\", un evento che prevede la presentazione di un amico in cerca d'amore attraverso un PowerPoint. CORPO 1 La crisi delle app di incontri sta portando i giovani inglesi a cercare nuove forme\",\n  \"articleBody\": \"A Londra, i giovani stanchi delle app di incontri stanno trovando nuove forme di incontro, tra cui \\\"Date my mate\\\", un evento che prevede la presentazione di un amico in cerca d'amore attraverso un PowerPoint. CORPO 1 La crisi delle app di incontri sta portando i giovani inglesi a cercare nuove forme di incontro, e uno dei metodi più in voga è Voga è \\\"Date my mate\\\", un evento che si è tenuto recentemente a Londra. Secondo la fonte Reuters, i 150 partecipanti hanno ascoltato presentazioni PowerPoint fatte da amici che volevano presentare loro un potenziale partner, pagando una tariffa per partecipare. L'evento è stato organizzato per combattere la \\\"noia generata dalle app di incontri\\\", come la definiscono gli organizzatori. I partecipanti hanno pagato una tariffa per Partecipare all'evento. CORPO 2 Chi è dietro questo nuovo trend, e chi paga saranno i soliti? \\\"Date my mate\\\" è l'idea di Flavia Cappadocia, giornalista di Reuters, che ha scoperto questo nuovo modo di incontrarsi mentre lavorava a un articolo sulla crisi delle app di incontri. La Cappadocia ha scoperto che molti giovani stanchi delle app di incontri stanno cercando nuove forme di incontro, e \\\"Date my mate\\\" è solo uno degli esempi di come stanno rispondendo a questa sfida. Il trend è nato a Londra, ma potrebbe diffondersi in altre città, e chi paga saranno i soliti, ovvero gli organizzatori dell'evento e i partecipanti che pagano la tariffa per partecipare. Chi paga saranno i soliti, ovvero gli organizzatori dell'evento e i partecipanti che pagano la tariffa per partecipare. La vera questione è se questo nuovo trend possa davvero aiutare i giovani a trovare il loro compagno ideale, come sempre.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Andrea Foti\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-02T16:34:16.700055+00:00\",\n  \"dateModified\": \"2026-04-02T16:34:16.700055+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/bc519c5b36c0d9d4\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/bc519c5b36c0d9d4\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/7991467/pexels-photo-7991467.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Tima Miroshnichenko\"\n  }\n}",
   "priority": 5,
   "source": "refresh",
   "source_type": "refresh",
   "original_url": "https://lentemattutina.it/tecnologia/la-crisi-delle-dating-app-bc519c5b36c0d9d4",
   "related": [
     {
-      "title": "Azienda di AI cerca attori per simulare emozioni in videochiamata",
+      "title": "Handshake cerca attori gratis per addestrare IA in videochiamata",
       "url": "/tecnologia/attori-cercati-per-addestrare-lai-a-recitare-emozi-ec0651d99ee80680",
       "id": "ec0651d99ee80680",
-      "image_url": "https://images.pexels.com/photos/13918160/pexels-photo-13918160.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "image_type": "pexels"
-    },
-    {
-      "title": "Tamburelli: 78% aziende usano ia per licenziare senza controllo legale",
-      "url": "/tecnologia/michele-tamburelli-it-non-puo-governare-ia-b33a91f00624ae8b",
-      "id": "b33a91f00624ae8b",
-      "image_url": "https://images.unsplash.com/photo-1591696331111-ef9586a5b17a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxpbnRlbGxpZ2VuemElMjBhcnRpZmljaWFsZSUyMGxhdm9yb3xlbnwwfDB8fHwxNzc1MDk1NTcwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_url": "https://images.unsplash.com/photo-1551823934-98c5b811d322?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxhY3RvcnMlMjBmb3IlMjBhaSUyMHZpZGVvJTIwY2FsbHxlbnwwfDB8fHwxNzc1MTgzNTk2fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "image_type": "unsplash"
     },
     {
-      "title": "Apple rilascia iOS 18.7.7 contro lo spyware DarkSword",
-      "url": "/tecnologia/apple-rilascia-ios-1877-per-bloccare-lo-spyware-da-e29140269a8ed18e",
-      "id": "e29140269a8ed18e",
-      "image_url": "https://images.unsplash.com/photo-1762340915398-000c216e7cd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxpUGhvbmUlMjBzb2Z0d2FyZSUyMHVwZGF0ZXxlbnwwfDB8fHwxNzc1MTQ3MjM2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "title": "Stefano Fonzi lancia BluGo, l'app gratuita per l'autonomia delle persone autistiche",
+      "url": "/tecnologia/stefano-fonzi-lancia-blugo-35f4d6172e331cc6",
+      "id": "35f4d6172e331cc6",
+      "image_url": "https://www.rainews.it/cropgd/1600x900/dl/img/2026/04/01/1775042529747_jj.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Stefano Epifani: l'Europa perse il treno della sovranità digitale",
+      "url": "/tecnologia/europa-arriva-tardo-alla-sovranita-digitale-609478548dd59c04",
+      "id": "609478548dd59c04",
+      "image_url": "https://images.unsplash.com/photo-1630661112084-665d68faf94b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxjcmVzY2VudGUlMjB0ZW5zaW9uZSUyMGdlb3BvbGl0aWNhfGVufDB8MHx8fDE3NzUxODQyODF8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "image_type": "unsplash"
     }
   ],
