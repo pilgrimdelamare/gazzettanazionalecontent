@@ -1,5 +1,23 @@
 [
   {
+    "id": "555eb6d5e4c9945d",
+    "slug": "tennis-sinner-affronta-zverev-al-primo-turno-di-mo-555eb6d5e4c9945d",
+    "title": "Tennis: Sinner sfida Zverev a Montecarlo il 3 aprile, vincitore affronterà Medvedev negli ottavi",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-03T16:21:16.471446+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1610013495678-f6e4761b4a10?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxKYW5uaWslMjBTaW5uZXJ8ZW58MHwwfHx8MTc3NTI1MDQ5Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "",
+    "lead_preview": "Jannik Sinner affronta Alexander Zverev al primo turno del torneo di Montecarlo, in programma venerdì 3 aprile 2026, con",
+    "tags": [
+      "sinner zverev montecarlo",
+      "atp montecarlo 2026",
+      "sinner medvedev"
+    ]
+  },
+  {
     "id": "c46e09439486ff34",
     "slug": "pilosio-porta-le-infrastrutture-in-tour-il-busines-c46e09439486ff34",
     "title": "Pilosio lancia tour nazionale con ponti dimostrativi in 10 regioni",
@@ -664,24 +682,6 @@
     "lead_preview": "Roma, 3 aprile 2026 - St Michael's Mount, l'isola-monumento al largo delle coste della Cornovaglia, mostra ancora i segn",
     "tags": [
       "tempesta goret"
-    ]
-  },
-  {
-    "id": "555eb6d5e4c9945d",
-    "slug": "tennis-sinner-affronta-zverev-al-primo-turno-di-mo-555eb6d5e4c9945d",
-    "title": "Tennis: Sinner affronta Zverev al primo turno di Montecarlo, poi rischia Medvedev",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-03T16:21:16.471446+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/30/cb5423a7f3f10eb0ed184a3da10406ab.jpg",
-    "occhiello": "SINNE INCROCIA ZVEREV E MEDVEDEV A MONTECARLO",
-    "lead_preview": "Jannik Sinner affronta Alexander Zverev al primo turno di Montecarlo, in calendario venerdì 3 aprile 2026, con il vincit",
-    "tags": [
-      "sinner zverev montecarlo",
-      "sinner medvedev",
-      "atp montecarlo 2026"
     ]
   },
   {
