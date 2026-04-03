@@ -1,5 +1,23 @@
 [
   {
+    "id": "4179688205e8606f",
+    "slug": "petrachi-il-toro-ambiente-depreso-cerco-di-cambiar-4179688205e8606f",
+    "title": "Petrachi, \"il toro ambiente depreso, cerco di cambiarlo\"",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-03T15:47:50.674466+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2014/6/17/8915610617e70315651180d3ae87aab3.jpg",
+    "occhiello": "PETRACHI, \"IL TORO AMBIENTE DEPRESO, CERCO DI CAMBIARLO\"",
+    "lead_preview": "Domenico Petrachi, allenatore del Torino, ammette che l'ambiente di lavoro nella squadra granata è depresso e cerca di c",
+    "tags": [
+      "torino calcio",
+      "petrachi allenatore",
+      "calcio serie a"
+    ]
+  },
+  {
     "id": "1b8daeccdb0b4827",
     "slug": "a-napoli-250-reperti-raccontano-parthenope-la-sire-1b8daeccdb0b4827",
     "title": "A Napoli 250 reperti raccontano Parthenope, la sirena mitologica al Mann fino al 6 luglio",
@@ -8516,24 +8534,6 @@
     "tags": [
       "guernica",
       "guggenheim bilbao"
-    ]
-  },
-  {
-    "id": "8764dc6f4313a48f",
-    "slug": "newsom-varra-la-zappa-ai-robot-nuove-norme-per-le-8764dc6f4313a48f",
-    "title": "California, nuove norme AI con l'ordine esecutivo di Newsom",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-03-31T00:15:41.860841+00:00",
-    "image_type": "ddg_image",
-    "image_url": "https://i.abcnewsfe.com/a/cc507b68-474a-4711-b290-7b1b30cab91a/gavin-newsom-gty-jt-250307_1741369701819_hpMain.jpg",
-    "occhiello": "NEWSOM FERMA L'INTELLIGENZA ARTIFICIALE",
-    "lead_preview": "Gavin Newsom ha firmato un ordine esecutivo il 31 marzo 2026 per imporre nuove norme alle aziende di intelligenza artifi",
-    "tags": [
-      "california ai",
-      "ordine esecutivo newsom",
-      "nuove norme ai"
     ]
   }
 ]
