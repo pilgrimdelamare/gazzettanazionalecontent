@@ -1,5 +1,22 @@
 [
   {
+    "id": "ef913b950bdab735",
+    "slug": "guerre-e-paure-degli-italiani-ef913b950bdab735",
+    "title": "Guerre e paure degli italiani",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-03T16:26:18.478249+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/03/181425461-dc997489-6cba-4af3-9bbe-22588dc13582.jpg",
+    "occhiello": "GUERRE E PAURE DEGLI ITALIANI",
+    "lead_preview": "Secondo un report di Area Studi Legacoop e Ipsos, l'85% degli italiani si aspetta un aumento del costo della Vita a caus",
+    "tags": [
+      "guerre internazionali",
+      "costo della vita"
+    ]
+  },
+  {
     "id": "9d269d3d5797257e",
     "slug": "un-docente-iraniana-denunzia-gli-usa-9d269d3d5797257e",
     "title": "Un docente iraniana denunzia gli usa",
@@ -8512,24 +8529,6 @@
     "tags": [
       "furto al museo",
       "fondazione magnani-rocca"
-    ]
-  },
-  {
-    "id": "6968cedd2e9f40df",
-    "slug": "paraguay-approva-accordo-ue-mercosur-con-47-voti-a-6968cedd2e9f40df",
-    "title": "Paraguay approva accordo ue-mercosur",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-03-31T01:16:36.979040+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/36363667/pexels-photo-36363667.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "PARAGUAY APPROVA ACCORDO UE-MERCOSUR",
-    "lead_preview": "Il Paraguay ha ratificato l'accordo commerciale tra l'Unione Europea e il Mercosur, con la firma della legge da parte de",
-    "tags": [
-      "accordo ue-mercosur",
-      "paraguay",
-      "parlamento paraguay"
     ]
   }
 ]
