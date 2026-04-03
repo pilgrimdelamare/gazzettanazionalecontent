@@ -1,0 +1,57 @@
+{
+  "id": "82fe044e6c336754",
+  "slug": "basket-virtus-bologna-ospita-valencia-82fe044e6c336754",
+  "title": "Basket: Virtus Bologna ospita Valencia",
+  "titles": [
+    "Basket: Virtus Bologna ospita Valencia",
+    "Saliou Niang apre la partita con alley-oop",
+    "Virtus Bologna cerca vittoria contro Valencia"
+  ],
+  "title_winner": null,
+  "section": "sport",
+  "occhiello": "SALIOUT NIANG \"AEROPORTO\" IN ALLEY-OOOP: LA VIRTUS BOLOGNA IN FLUSSO CONTRO VALENCIA.",
+  "lead": "La Virtus Bologna ospita Valencia nel Round 35 di Eurolega. Saliou Niang ha aperto la partita con un gol in alley-oop su assist di Carsen Edwards. La partita si gioca il 3 aprile 2026 a Bologna.",
+  "corpo1": "La Virtus Bologna ha iniziato la partita del Round 35 di Eurolega contro Valencia con un gol in alley-oop di Saliou Niang. L'azzurro senegalese ha schiacciato al volo sull'alzata di Carsen Edwards, che gli ha fornito un assist perfetto. La partita si gioca il 3 aprile 2026 a Bologna e la Virtus Bologna è in cerca di una vittoria importante per mantenere le speranze di qualificazione alla Final Four. Secondo la pagina di Wikipedia della Virtus Bologna, Saliou Niang è un giocatore senegalese-italiano che gioca per la Virtus Bologna nella Lega Basket Serie A e in Eurolega. È stato selezionato dai Cleveland Cavaliers con la 58^ scelta nel secondo giro del draft NBA 2025. La Eurolega, ovvero l'Euroleague Basketball, è la massima competizione europea di pallacanestro maschile.",
+  "corpo2": "Saliou Niang è un giocatore esperto che ha già dimostrato la sua abilità in campo. La sua schiacciata in alley-oop contro Valencia è stata un ottimo inizio per la partita. La Virtus Bologna ha bisogno di una vittoria importante per mantenere le speranze di qualificazione alla Final Four, ma il percorso sarà difficile contro una squadra come Valencia. La partita è un esempio del livello di pallacanestro di alta classe che si gioca in Eurolega. La Virtus Bologna ha pagato per l'acquisto di Niang e ora è in attesa di un risultato positivo per giustificare l'investimento. A pagare saranno i soliti, ovvero i tifosi e il bilancio della squadra.",
+  "journalist": {
+    "id": "matteo_galli_01",
+    "firma": "Matteo Galli",
+    "sezione": "sport"
+  },
+  "published_at": "2026-04-03T19:30:25.481218+00:00",
+  "image": {
+    "type": "feed_image",
+    "url": "https://sport.sky.it/assets/images/157ab46e49243b7648c07fd3c0450a43f3d71ea1/skysport/it/basket/eurolega/video/2026/04/03/saliou-niang-airlines-che-schiacciata-in-alley-oop-1087528/niang.jpg",
+    "source": "Sky Sport",
+    "credit": "Sky Sport",
+    "license": "editorial"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Basket: Virtus Bologna ospita Valencia\",\n  \"description\": \"La Virtus Bologna ospita Valencia nel Round 35 di Eurolega. Saliou Niang ha aperto la partita con un gol in alley-oop su assist di Carsen Edwards. La partita si gioca il 3 aprile 2026 a Bologna.\",\n  \"articleBody\": \"La Virtus Bologna ospita Valencia nel Round 35 di Eurolega. Saliou Niang ha aperto la partita con un gol in alley-oop su assist di Carsen Edwards. La partita si gioca il 3 aprile 2026 a Bologna. La Virtus Bologna ha iniziato la partita del Round 35 di Eurolega contro Valencia con un gol in alley-oop di Saliou Niang. L'azzurro senegalese ha schiacciato al volo sull'alzata di Carsen Edwards, che gli ha fornito un assist perfetto. La partita si gioca il 3 aprile 2026 a Bologna e la Virtus Bologna è in cerca di una vittoria importante per mantenere le speranze di qualificazione alla Final Four. Secondo la pagina di Wikipedia della Virtus Bologna, Saliou Niang è un giocatore senegalese-italiano che gioca per la Virtus Bologna nella Lega Basket Serie A e in Eurolega. È stato selezionato dai Cleveland Cavaliers con la 58^ scelta nel secondo giro del draft NBA 2025. La Eurolega, ovvero l'Euroleague Basketball, è la massima competizione europea di pallacanestro maschile. Saliou Niang è un giocatore esperto che ha già dimostrato la sua abilità in campo. La sua schiacciata in alley-oop contro Valencia è stata un ottimo inizio per la partita. La Virtus Bologna ha bisogno di una vittoria importante per mantenere le speranze di qualificazione alla Final Four, ma il percorso sarà difficile contro una squadra come Valencia. La partita è un esempio del livello di pallacanestro di alta classe che si gioca in Eurolega. La Virtus Bologna ha pagato per l'acquisto di Niang e ora è in attesa di un risultato positivo per giustificare l'investimento. A pagare saranno i soliti, ovvero i tifosi e il bilancio della squadra.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Matteo Galli\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-03T19:30:25.481218+00:00\",\n  \"dateModified\": \"2026-04-03T19:30:25.481218+00:00\",\n  \"url\": \"https://lentemattutina.it/sport/82fe044e6c336754\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/sport/82fe044e6c336754\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://sport.sky.it/assets/images/157ab46e49243b7648c07fd3c0450a43f3d71ea1/skysport/it/basket/eurolega/video/2026/04/03/saliou-niang-airlines-che-schiacciata-in-alley-oop-1087528/niang.jpg\",\n    \"creditText\": \"Sky Sport\"\n  }\n}",
+  "priority": 5,
+  "source": "Sky Sport",
+  "source_type": "competitor",
+  "original_url": "https://sport.sky.it/basket/eurolega/video/2026/04/03/saliou-niang-airlines-che-schiacciata-in-alley-oop-1087528",
+  "related": [
+    {
+      "title": "Basket: Sean Pedulla, ex snobbato al draft, è il miglior rookie G League 2025-26",
+      "url": "/sport/sean-pedulla-da-snubbato-al-draft-a-rookie-dellann-3a724b4f1f0932c2",
+      "id": "3a724b4f1f0932c2",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Big_Sean_sig.png",
+      "image_type": "wikimedia"
+    },
+    {
+      "title": "Basket: Charlotte batte dai Phoenix 127-107 in casa, 17 sconfitte di fila",
+      "url": "/sport/nba-highlights-charlotte-phoenix-127-107-6807527ff820fe0c",
+      "id": "6807527ff820fe0c",
+      "image_url": "https://images.unsplash.com/photo-1586276568683-643138eac270?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxOQkElMjBnYW1lJTIwaGlnaGxpZ2h0c3xlbnwwfDB8fHwxNzc1MjA3MDU5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Basket: Detroit batte Minnesota 113-108 in casa con parziale decisivo di 12-4",
+      "url": "/sport/basket-detroit-vince-113-108-472e4a7560eea5ba",
+      "id": "472e4a7560eea5ba",
+      "image_url": "https://images.unsplash.com/photo-1759694559409-2d5a917910c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxiYXNrZXRiYWxsJTIwbWF0Y2glMjBhY3Rpb258ZW58MHwwfHx8MTc3NTIwNjU2OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    }
+  ]
+}
