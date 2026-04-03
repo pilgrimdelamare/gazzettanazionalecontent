@@ -1,5 +1,23 @@
 [
   {
+    "id": "913e0cefe3d180eb",
+    "slug": "idf-uccide-15-miliziani-di-hezbollah-nel-sud-del-l-913e0cefe3d180eb",
+    "title": "Israele uccide 15 miliziani Hezbollah nel sud del Libano",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-03T06:43:46.602886+00:00",
+    "image_type": "wikimedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/ITALIAN_FORCE_UNITED_NATION_INTERIM_FORCE_IN_LEBANON_LIBANO_2.jpg",
+    "occhiello": "15 MILIZIANI UCCISI NEL SUD DEL LIBANO",
+    "lead_preview": "Idf, l’esercito israeliano, ha ucciso 15 miliziani di Hezbollah nel sud del Libano il 3 aprile 2026, in un’operazione de",
+    "tags": [
+      "conflitto israele",
+      "hezbollah",
+      "libano"
+    ]
+  },
+  {
     "id": "9f4c7befec85f5d5",
     "slug": "iran-rivendica-secondo-abbattimento-di-caccia-usa-9f4c7befec85f5d5",
     "title": "Iran abbattere F-35 USA vicino Ahvaz: secondo caccia perso in 6 mesi",
@@ -510,24 +528,6 @@
       "convento elsbethen",
       "tre suore salisburgo",
       "fenomeno religioso"
-    ]
-  },
-  {
-    "id": "913e0cefe3d180eb",
-    "slug": "idf-uccide-15-miliziani-di-hezbollah-nel-sud-del-l-913e0cefe3d180eb",
-    "title": "IDF uccide 15 miliziani di Hezbollah nel sud del Libano: stavano pianificando un attacco",
-    "section": "esteri",
-    "priority": 6,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-03T06:43:46.602886+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/31/6acb48a06f3548c62fbcdb5f3ed41c8f.jpg",
-    "occhiello": "ISRAELE COLPISCE HEZBOLLAH",
-    "lead_preview": "Idf, l'esercito israeliano, ha ucciso 15 miliziani di Hezbollah nel sud del Libano, secondo quanto riportato dall'ansa.",
-    "tags": [
-      "israele hezbollah",
-      "conflitto libano",
-      "idf miliziani"
     ]
   },
   {
