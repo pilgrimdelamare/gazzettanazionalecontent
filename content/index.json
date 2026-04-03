@@ -1,5 +1,19 @@
 [
   {
+    "id": "bd701938e0f5d0cb",
+    "slug": "voli-a-rischio-per-il-caro-cherosene-ryanair-e-luf-bd701938e0f5d0cb",
+    "title": "Voli a rischio per il caro-cherosene: ryanair e lufthansa tagliano le rotte",
+    "section": "economia",
+    "priority": 8,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-03T11:05:15.584611+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/03/125217149-3c35fd87-a1d1-46d4-930e-d8f0e5064793.jpg",
+    "occhiello": "VOLI A RISCHIO PER IL CARO-CHEROSENE: RYANAIR E LUFTHANSA TAGLIANO LE ROTTE",
+    "lead_preview": "Ryanair e Lufthansa hanno annunciato il 3 aprile 2026 riduzioni significative dell’offerta di voli a causa del rincaro d",
+    "tags": []
+  },
+  {
     "id": "848b6343765b6be6",
     "slug": "zelensky-mosca-fornisce-dati-militari-alliran-848b6343765b6be6",
     "title": "Zelensky: \"mosca cede segreti militari a teheran\"",
@@ -8552,23 +8566,6 @@
     "tags": [
       "guerra ucraina",
       "zelensky"
-    ]
-  },
-  {
-    "id": "0cbc6218f633cbbf",
-    "slug": "il-tunnel-del-muro-del-pianto-resta-aperto-unica-v-0cbc6218f633cbbf",
-    "title": "17mila soldati schierati a Gerusalemme per proteggere il Tunnel del Muro del Pia",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-03-30T23:20:46.980107+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1680773874051-015edcdecaa8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxkaXBsb21hdGljJTIwbWVldGluZyUyMGplcnVzYWxlbXxlbnwwfDB8fHwxNzc0OTIwNDI1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "IL TUNNEL DEL MURO DEL PIANTO: IL SOLO LUOGO DI CULTO ACCESSIBILE A GERUSALEMME",
-    "lead_preview": "Il tunnel lungo il Muro del pianto, unico luogo di culto accessibile a Gerusalemme, è un segno di speranza per la popola",
-    "tags": [
-      "gerusalemme",
-      "tunnel del pianto"
     ]
   }
 ]
