@@ -1,5 +1,23 @@
 [
   {
+    "id": "87ee2cc66618798c",
+    "slug": "laminiscua-fotocamera-vintage-di-kodak-charmera-un-87ee2cc66618798c",
+    "title": "Kodak lancia la Charmera, fotocamera da 30 grammi ispirata alle usa e getta anni '90",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-04-02T10:06:10.125162+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1763649278529-eabc7bacdf37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxkaWdpdGFsJTIwZGlzcG9zYWJsZSUyMGNhbWVyYXxlbnwwfDB8fHwxNzc1MTkzNzM5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "LA FOTOCAMERA USA E GETTA DIGITALE RILANCIA LA KODAK",
+    "lead_preview": "Il 2 aprile 2026, la Eastman Kodak Company ha lanciato la Charmera, una fotocamera digitale da 30 grammi e 58 × 24,5 × 2",
+    "tags": [
+      "lancio charmera",
+      "kodak digitale",
+      "fotocamera usa e getta"
+    ]
+  },
+  {
     "id": "4964d28d0575e7ba",
     "slug": "il-cdc-sospende-test-su-malattie-infettive-4964d28d0575e7ba",
     "title": "CDC sospende test COVID",
@@ -1874,23 +1892,6 @@
       "drone ucraino dnepr",
       "rafineria dnepr",
       "attacco dnepr"
-    ]
-  },
-  {
-    "id": "87ee2cc66618798c",
-    "slug": "laminiscua-fotocamera-vintage-di-kodak-charmera-un-87ee2cc66618798c",
-    "title": "Kodak rilancia la usa e getta digitale",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-04-02T10:06:10.125162+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/KodakTMax400.jpg",
-    "occhiello": "KODAK RILANCIA LA USA E GETTA DIGITALE",
-    "lead_preview": "Kodak ha lanciato il 2 aprile 2026 la Charmera, una Fotocamera digitale da 30 grammi e 58 × 24,5 × 20 mm che riprende il",
-    "tags": [
-      "kodak digitale",
-      "charmera fotocamera"
     ]
   },
   {
