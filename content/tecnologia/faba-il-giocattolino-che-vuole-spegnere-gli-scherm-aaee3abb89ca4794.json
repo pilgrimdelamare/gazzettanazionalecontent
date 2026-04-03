@@ -1,0 +1,56 @@
+{
+  "id": "aaee3abb89ca4794",
+  "slug": "faba-il-giocattolino-che-vuole-spegnere-gli-scherm-aaee3abb89ca4794",
+  "title": "Faba+, il giocattolino che vuole spegnere gli schermi",
+  "titles": [
+    "FABA+, IL GIOCATTOLINO CHE VUOLE SPEGNERE GLI SCHERMI",
+    "FABA+, IL GIOCATTOLINO CHE VUOLE SPEGNERE GLI SCHERMI",
+    "FABA+, IL GIOCATTOLINO CHE VUOLE SPEGNERE GLI SCHERMI"
+  ],
+  "title_winner": null,
+  "section": "tecnologia",
+  "occhiello": "FABA+, IL GIOCATTOLINO CHE VUOLE SPEGNERE GLI SCHERMI",
+  "lead": "Faba+, il giocattolo audio italiano che convince bambini e genitori a spegnere gli schermi. La startup italiana, fondata a Treviso nel 2019, lancia Raccontastorie Faba+, un gioco screen-free pensato per stimolare l'immaginazione dei più piccoli. Il giocattolo è disponibile sul sito di Faba per 70 €.",
+  "corpo1": "Faba+, la startup italiana fondata a Treviso nel 2019, si pone l'obiettivo di cambiare la modalità di intrattenimento dei bambini attraverso la proposta di un gioco screen-free. Nasce così Raccontastorie Faba+, un gioco pensato per stimolare l'immaginazione dei più piccoli con l'ascolto di contenuti audio da 0 a 10 anni. Il catalogo ampio e variegato comprende fiabe classiche, storie tratte da film d'animazione, playlist musicali e giochi interattivi. I contenuti sono collaborati con i colossi Disney e Pixar. Faba+ vuole ridurre l'esposizione prolungata agli schermi, che riduce i tempi di concentrazione, limita la capacità di immaginazione e peggiora la qualità del sonno.",
+  "corpo2": "Faba+ vuole cambiare la modalità di intrattenimento dei bambini, ma non è la prima startup a impegnarsi in questa direzione. Nel 2020, un altro giocattolo audio, Storynory, ha lanciato un prodotto simile, che ha avuto successo tra i genitori. Tuttavia, Faba+ ha un vantaggio rispetto a competitor come Storynory: il costo. Il giocattolo è disponibile per 70 €, mentre altri giocattoli audio possono raggiungere i 100 €. Inoltre, Faba+ ha collaborato con i colossi Disney e Pixar, che potrebbe essere un vantaggio per il gioco. Se Faba+ riesce a convincere i genitori a spegnere gli schermi, potrebbe avere un impatto significativo sulla salute dei bambini. Non cambierà nulla, come sempre, ma potrebbe essere un passo importante nella direzione giusta.",
+  "journalist": {
+    "id": "andrea_foti_01",
+    "firma": "Andrea Foti",
+    "sezione": "tecnologia"
+  },
+  "published_at": "2026-04-03T04:40:45.195946+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://media-assets.wired.it/photos/69bad599d94a2e7bfab6d195/16:9/w_1280,c_limit/Faba.png",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"FABA+, IL GIOCATTOLINO CHE VUOLE SPEGNERE GLI SCHERMI\",\n  \"description\": \"Faba+, il giocattolo audio italiano che convince bambini e genitori a spegnere gli schermi. La startup italiana, fondata a Treviso nel 2019, lancia Raccontastorie Faba+, un gioco screen-free pensato per stimolare l'immaginazione dei più piccoli. Il giocattolo è disponibile sul sito di Faba per 70 €.\",\n  \"articleBody\": \"Faba+, il giocattolo audio italiano che convince bambini e genitori a spegnere gli schermi. La startup italiana, fondata a Treviso nel 2019, lancia Raccontastorie Faba+, un gioco screen-free pensato per stimolare l'immaginazione dei più piccoli. Il giocattolo è disponibile sul sito di Faba per 70 €. Faba+, la startup italiana fondata a Treviso nel 2019, si pone l'obiettivo di cambiare la modalità di intrattenimento dei bambini attraverso la proposta di un gioco screen-free. Nasce così Raccontastorie Faba+, un gioco pensato per stimolare l'immaginazione dei più piccoli con l'ascolto di contenuti audio da 0 a 10 anni. Il catalogo ampio e variegato comprende fiabe classiche, storie tratte da film d'animazione, playlist musicali e giochi interattivi. I contenuti sono collaborati con i colossi Disney e Pixar. Faba+ vuole ridurre l'esposizione prolungata agli schermi, che riduce i tempi di concentrazione, limita la capacità di immaginazione e peggiora la qualità del sonno. Faba+ vuole cambiare la modalità di intrattenimento dei bambini, ma non è la prima startup a impegnarsi in questa direzione. Nel 2020, un altro giocattolo audio, Storynory, ha lanciato un prodotto simile, che ha avuto successo tra i genitori. Tuttavia, Faba+ ha un vantaggio rispetto a competitor come Storynory: il costo. Il giocattolo è disponibile per 70 €, mentre altri giocattoli audio possono raggiungere i 100 €. Inoltre, Faba+ ha collaborato con i colossi Disney e Pixar, che potrebbe essere un vantaggio per il gioco. Se Faba+ riesce a convincere i genitori a spegnere gli schermi, potrebbe avere un impatto significativo sulla salute dei bambini. Non cambierà nulla, come sempre, ma potrebbe essere un passo importante nella direzione giusta.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Andrea Foti\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-03T04:40:45.195946+00:00\",\n  \"dateModified\": \"2026-04-03T04:40:45.195946+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/aaee3abb89ca4794\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/aaee3abb89ca4794\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://media-assets.wired.it/photos/69bad599d94a2e7bfab6d195/16:9/w_1280,c_limit/Faba.png\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 5,
+  "source": "Wired Italia",
+  "source_type": "competitor",
+  "original_url": "https://www.wired.it/article/faba-plus-recensione-raccontastorie-bambini-screen-free/",
+  "related": [
+    {
+      "title": "Ritrovati i resti di d'Artagnan nella chiesa di Maastricht, era un moschettiero reale",
+      "url": "/tecnologia/ritrovati-i-resti-di-dartagnan-nella-chiesa-di-maa-8ebf8cc6b85244b0",
+      "id": "8ebf8cc6b85244b0",
+      "image_url": "https://media-assets.wired.it/photos/69cbf0d55419058ec2e24515/16:9/w_1280,c_limit/959146490",
+      "image_type": "image"
+    },
+    {
+      "title": "150 persone a Londra pagano per presentare amici in cerca d'amore con PowerPoint",
+      "url": "/tecnologia/la-crisi-delle-dating-app-bc519c5b36c0d9d4",
+      "id": "bc519c5b36c0d9d4",
+      "image_url": "https://images.pexels.com/photos/7991467/pexels-photo-7991467.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
+    },
+    {
+      "title": "Stefano Epifani: l'Europa perse il treno della sovranità digitale",
+      "url": "/tecnologia/europa-arriva-tardo-alla-sovranita-digitale-609478548dd59c04",
+      "id": "609478548dd59c04",
+      "image_url": "https://images.unsplash.com/photo-1630661112084-665d68faf94b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxjcmVzY2VudGUlMjB0ZW5zaW9uZSUyMGdlb3BvbGl0aWNhfGVufDB8MHx8fDE3NzUxODQyODF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    }
+  ]
+}
