@@ -1,5 +1,23 @@
 [
   {
+    "id": "472e4a7560eea5ba",
+    "slug": "basket-detroit-vince-113-108-472e4a7560eea5ba",
+    "title": "Basket: Detroit vince 113-108",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-03T05:43:17.177709+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/1cbec293490a184ace8d8ece0e0cc88b5829ea9c/skysport/it/nba/video/2026/04/03/1087365_1775187703769_thumb_494.0000001_1775193476660.jpg",
+    "occhiello": "NBA, DETROIT SUPERIORE",
+    "lead_preview": "Il 3 aprile 2026, la squadra di Detroit ha sconfitto Minnesota con un punteggio di 113-108 nella lega NBA.",
+    "tags": [
+      "nba detroit",
+      "detroit vince",
+      "basket nba"
+    ]
+  },
+  {
     "id": "3d163fc278b295fb",
     "slug": "michele-uva-lascia-il-ruolo-di-direttore-esecutivo-3d163fc278b295fb",
     "title": "Michele Uva lascia incarico di direttore esecutivo di Euro 2032-Italy il 2 aprile 2026",
@@ -8539,24 +8557,6 @@
     "lead_preview": "Unifil, 30 marzo 2026 - Un casco blu è stato ucciso in un'esplosione nel sud del Libano. La Forza di Interposizione dell",
     "tags": [
       "casco blu libano"
-    ]
-  },
-  {
-    "id": "7c44b8dfe5504b01",
-    "slug": "vanoli-cremona-batte-napoli-per-88-81-al-palaradi-7c44b8dfe5504b01",
-    "title": "Vanoli Cremona batte Napoli per 88-81 al PalaRadi",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-03-29T22:17:20.423597+00:00",
-    "image_type": "flickr",
-    "image_url": "https://live.staticflickr.com/65535/53977533805_cb354107a3_b.jpg",
-    "occhiello": "CREMONA RIBALTA NAPOLI 88-81",
-    "lead_preview": "Domenica 29 marzo 2026, la Vanoli Cremona ha sconfitto la squadra di Napoli per 88-81 al PalaRadi, dopo quattro sconfitt",
-    "tags": [
-      "basket",
-      "vanoli cremona",
-      "pala radi"
     ]
   }
 ]
