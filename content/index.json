@@ -1,5 +1,23 @@
 [
   {
+    "id": "a5ee4760b2b0d33e",
+    "slug": "19-attivita-chiuse-a-honfleur-per-rischio-crollo-i-a5ee4760b2b0d33e",
+    "title": "19 attività chiuse a Honfleur per rischio crollo in tre edifici storici",
+    "section": "esteri",
+    "priority": 3,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-03T10:05:34.924108+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1592516984291-2db5c29154fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxIb25mbGV1ciUyMGJ1aWxkaW5nJTIwY29sbGFwc2UlMjByaXNrfGVufDB8MHx8fDE3NzUyMTA3MzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "",
+    "lead_preview": "L'architetto della città ha lanciato un allarme dopo aver ispezionato tre edifici nel cuore turistico del comune frances",
+    "tags": [
+      "crollo honfleur",
+      "edifici storici honfleur",
+      "allarme strutturale honfleur"
+    ]
+  },
+  {
     "id": "0a431f826516f9af",
     "slug": "kribi-nave-francese-sotto-bandiera-maltese-transit-0a431f826516f9af",
     "title": "Kribi, nave francese sotto bandiera maltese, transita Hormuz dichiarando proprietà a Parigi",
@@ -8572,23 +8590,6 @@
     "tags": [
       "frosinone apoel",
       "serie c"
-    ]
-  },
-  {
-    "id": "b2b1fe7cc3af9429",
-    "slug": "calcio-cipro-vince-3-2-b2b1fe7cc3af9429",
-    "title": "Calcio: Cipro batte Moldova 3-2",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-03-30T22:43:46.894867+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1740906792290-669025a709e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxDaXBybyUyMG5hdGlvbmFsJTIwZm9vdGJhbGwlMjB0ZWFtfGVufDB8MHx8fDE3NzQ5MTc5MTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "LA NAZIONALE DI CALCIO DI CIPRO VINCITRICE",
-    "lead_preview": "La nazionale di calcio di Cipro ha battuto la Moldova con un punteggio di 3-2 in un match di qualificazione per il campi",
-    "tags": [
-      "cipro moldova",
-      "qualificazioni euro"
     ]
   }
 ]
