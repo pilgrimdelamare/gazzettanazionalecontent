@@ -1,5 +1,22 @@
 [
   {
+    "id": "f278f2979ca7ecb2",
+    "slug": "corte-di-cassazione-prescrive-omicidio-colposo-per-f278f2979ca7ecb2",
+    "title": "Cassazione archivia omicidio colposo costiera",
+    "section": "giustizia",
+    "priority": 5,
+    "journalist_firma": "Carlo Amato",
+    "published_at": "2026-04-03T10:16:25.113914+00:00",
+    "image_type": "none",
+    "image_url": "",
+    "occhiello": "CASSAZIONE ARCHIVIA OMICIDIO COLPOSO COSTIERA",
+    "lead_preview": "Autorità di Guardia Costiera sotto accusa per morte di un giovane marittimo durante un'operazione di soccorso in acque i",
+    "tags": [
+      "omicidio costiera",
+      "guardia costiera"
+    ]
+  },
+  {
     "id": "14c6693168679cd9",
     "slug": "governo-lancia-prestiti-a-380-per-tpe-e-pme-14c6693168679cd9",
     "title": "Governo lancia prestiti a 3,80% per TPE e PME",
@@ -1203,22 +1220,6 @@
       "gattuso nazionale",
       "ritiro gattuso",
       "calcio azzurro"
-    ]
-  },
-  {
-    "id": "f278f2979ca7ecb2",
-    "slug": "corte-di-cassazione-prescrive-omicidio-colposo-per-f278f2979ca7ecb2",
-    "title": "Cassazione archivia inchiesta su omicidio colposo Guardia Costiera",
-    "section": "giustizia",
-    "priority": 5,
-    "journalist_firma": "Carlo Amato",
-    "published_at": "2026-04-03T10:16:25.113914+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/32399031/pexels-photo-32399031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "CASSAZIONE ARCHIVIA L'OMICIDIO COLPOSO NEL NAUFRAGIO DI LAMPEDEUSA",
-    "lead_preview": "La Corte di Cassazione ha confermato martedì 3 aprile 2026 l’archiviazione per prescrizione dell’indagine sull’omicidio ",
-    "tags": [
-      "naufragio lampedeusa"
     ]
   },
   {
