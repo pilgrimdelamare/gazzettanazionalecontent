@@ -1,5 +1,23 @@
 [
   {
+    "id": "bc615f7165300c75",
+    "slug": "toscana-giani-lancia-reddito-fino-a-500-euro-per-d-bc615f7165300c75",
+    "title": "Toscana, Giani lancia reddito fino a 500 euro per disoccupati sotto Isee 15mila",
+    "section": "politica",
+    "priority": 7,
+    "journalist_firma": "Sergio Mancini",
+    "published_at": "2026-04-03T06:13:05.431214+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/02/Imagoeconomica_2678482-1200x630.jpg",
+    "occhiello": "TOSCANA, REDDITO REGIONALE INSIERIMENTO: FINO A 500 EURO/MESE",
+    "lead_preview": "OCCHIELLO TOSCANA, REDDITO REGIONALE INSIERIMENTO: FINO A 500 EURO/MESE LEAD Eugenio Giani, governatore dem uscente dell",
+    "tags": [
+      "reddito regionale toscana",
+      "giani reddito disoccupati",
+      "inserimento lavorativo toscana"
+    ]
+  },
+  {
     "id": "353896840d5a597a",
     "slug": "sindaco-di-preone-condannato-a-1-anno-e-4-mesi-per-353896840d5a597a",
     "title": "Sindaco di Preone condannato a 1 anno e 4 mesi per morte volontario in montagna",
@@ -8539,24 +8557,6 @@
     "tags": [
       "lista castagna",
       "iss advisor"
-    ]
-  },
-  {
-    "id": "8e8f696021a87886",
-    "slug": "mps-maione-non-conferma-lovaglio-8e8f696021a87886",
-    "title": "MPS: Maione non conferma Lovaglio",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-03-29T23:13:05.588843+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1645226880663-81561dcab0ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxzdG9jayUyMG1hcmtldCUyMGNoYXJ0fGVufDB8MHx8fDE3NzQ4MjU5ODV8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "MPS, ATTACCO A LOVAGLIO: “NON È L’UOMO GIUSTO PER LA FASE CHE SI APERE”",
-    "lead_preview": "Il presidente del consiglio di amministrazione della MPS, Maione, ha scritto una lettera agli azionisti in cui spiega pe",
-    "tags": [
-      "mps",
-      "lovaglio",
-      "amministratore delegato"
     ]
   }
 ]
