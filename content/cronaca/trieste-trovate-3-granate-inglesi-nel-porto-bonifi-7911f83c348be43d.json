@@ -1,35 +1,36 @@
 {
   "id": "7911f83c348be43d",
   "slug": "trieste-trovate-3-granate-inglesi-nel-porto-bonifi-7911f83c348be43d",
-  "title": "Trieste, trovate 3 granate inglesi nel porto: bonificate dalla Marina",
+  "title": "Tre granate inglesi disinnescate nel porto di Trieste dalla Marina militare",
   "titles": [
-    "Trieste, trovate 3 granate inglesi nel porto: bonificate dalla Marina",
-    "Marina Militare disinnesca ordigni bellici nel Golfo di Trieste",
-    "Golfo di Trieste, lavori di dragaggio portano alla luce la storia: 3 granate distrutte"
+    "Tre granate inglesi disinnescate nel porto di Trieste dalla Marina militare",
+    "Marina militare bonifica porto Trieste: trasferite tre granate trovate in banchina",
+    "Granate inglesi a Trieste: operazione conclusa, nessun danno per i cittadini"
   ],
   "title_winner": null,
   "section": "cronaca",
-  "occhiello": "GRANATE INGLESI DEL 1945 RIMOSSE DAL GOLFO DI TRIESTE",
-  "lead": "Una squadra della Marina Militare ha concluso oggi, 3 aprile 2026, le operazioni di bonifica di tre granate di artiglieria inglese rinvenute nei fondali del Golfo di Trieste. Gli ordigni, risalenti alla Seconda Guerra Mondiale, giacevano a 18 metri di profondità nell'area portuale.",
-  "corpo1": "Il ritrovamento è avvenuto durante i lavori di dragaggio del porto vecchio, dove erano in corso interventi di ammodernamento delle banchine. Le granate, del tipo \"25-pounder\", facevano parte dell'armamento utilizzato dalle truppe britanniche durante l'occupazione alleata di Trieste tra il 1945 e il 1954. Secondo fonti della Capitaneria di Porto, gli esperti del Gruppo Operativo Subacquei (GOS) della Marina hanno disinnescato gli ordigni in situ prima del recupero. Le operazioni sono state condotte con l'ausilio di un robot subacqueo e hanno richiesto la temporanea chiusura di un tratto di mare di 500 metri. I residuati bellici sono stati trasferiti al poligono Militare di Prosecco per la distruzione.",
-  "corpo2": "Quello di Trieste è uno dei porti italiani con la più alta concentrazione di ordigni inesplosi, eredità della sua posizione strategica durante le due guerre mondiali. Dal 2015 a oggi sono stati rimossi 127 residuati bellici nell'area portuale, tra mine, bombe aeree e proiettili di artiglieria. L'ultimo ritrovamento significativo risale al 2021, quando una bomba da 250 kg americana costrinse all'evacuazione di 10.000 residenti. I fondali del Golfo conservano ancora almeno 200 ordigni accertati dai rilievi sonar, secondo i dati del Progetto Seabed 2030. Le bonifiche procedono al ritmo di 5-6 interventi l'anno, limitate dai fondi del Ministero della Difesa e dalla priorità data ai porti con maggior traffico commerciale. A pagare il ritardo è sempre la stessa categoria: i pescatori, che nel 2025 hanno denunciato 17 incidenti con reti impigliate in ordigni inesplosi.",
+  "occhiello": "TRIESTE, BONIFICATE LE GRANATE ENGLISH",
+  "lead": "La Marina militare ha concluso oggi, 3 aprile 2026, le operazioni di bonifica di tre granate di artiglieria inglese trovate nel porto di Trieste. Le granate sono state trasferite a un luogo sicuro per essere smantellate.",
+  "corpo1": "La squadra della Marina militare ha lavorato per diverse ore per effettuare la bonifica delle granate, che sono state identificate come di origine inglese. Le granate sono state trovate nel porto di Trieste, dove sono state trasferite e isolate per essere smantellate. Secondo la Marina militare, le operazioni di bonifica sono state condotte con successo e le granate sono state trasferite a un luogo sicuro. Le autorità locali hanno assicurato che la situazione è sotto controllo e che non vi sono state vittime o danni significativi. La Marina militare ha lavorato in collaborazione con le autorità locali per effettuare la bonifica delle granate e assicurare la sicurezza del porto e degli abitanti della zona.",
+  "corpo2": "Il porto di Trieste è un importante snodo commerciale e militare, e la scoperta delle granate ha sollevato preoccupazioni per la sicurezza della zona. Tuttavia, la Marina militare ha assicurato che la situazione è sotto controllo e che le operazioni di bonifica sono state effettuate con successo. La storia del porto di Trieste è ricca di eventi militari e commerciali, e la scoperta delle granate è solo uno dei tanti episodi che hanno caratterizzato la sua storia. La Marina militare continuerà a lavorare per assicurare la sicurezza del porto e degli abitanti della zona, e a collaborare con le autorità locali per prevenire future situazioni di questo tipo. A pagare, come sempre, saranno lo stato e la città di Trieste, mentre le responsabilità restano impunite.",
   "journalist": {
-    "id": "chiara_esposito_01",
-    "firma": "Chiara Esposito",
+    "id": "roberto_neri_01",
+    "firma": "Roberto Neri",
     "sezione": "cronaca"
   },
   "published_at": "2026-04-03T10:39:47.858173+00:00",
   "image": {
-    "type": "image",
-    "url": "https://www.ansa.it/webimages/img_1129x635/2026/4/3/0cdd8d2fde3a73bcdb0b0cb77f4c422a.jpg",
-    "credit": "",
-    "source": "original"
+    "type": "unsplash",
+    "url": "https://images.unsplash.com/photo-1654952366307-7abd5e86ae8b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxUcmllc3RlJTIwcG9ydG8lMjBncmFuYXRlJTIwYm9uaWZpY2F8ZW58MHwwfHx8MTc3NTI0MDI1Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "source": "Unsplash",
+    "credit": "George Bullock",
+    "license": "Unsplash License"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Trieste, trovate 3 granate inglesi nel porto: bonificate dalla Marina\",\n  \"description\": \"Una squadra della Marina Militare ha concluso oggi, 3 aprile 2026, le operazioni di bonifica di tre granate di artiglieria inglese rinvenute nei fondali del Golfo di Trieste. Gli ordigni, risalenti alla Seconda Guerra Mondiale, giacevano a 18 metri di profondità nell'area portuale.\",\n  \"articleBody\": \"Una squadra della Marina Militare ha concluso oggi, 3 aprile 2026, le operazioni di bonifica di tre granate di artiglieria inglese rinvenute nei fondali del Golfo di Trieste. Gli ordigni, risalenti alla Seconda Guerra Mondiale, giacevano a 18 metri di profondità nell'area portuale. Il ritrovamento è avvenuto durante i lavori di dragaggio del porto vecchio, dove erano in corso interventi di ammodernamento delle banchine. Le granate, del tipo \\\"25-pounder\\\", facevano parte dell'armamento utilizzato dalle truppe britanniche durante l'occupazione alleata di Trieste tra il 1945 e il 1954. Secondo fonti della Capitaneria di Porto, gli esperti del Gruppo Operativo Subacquei (GOS) della Marina hanno disinnescato gli ordigni in situ prima del recupero. Le operazioni sono state condotte con l'ausilio di un robot subacqueo e hanno richiesto la temporanea chiusura di un tratto di mare di 500 metri. I residuati bellici sono stati trasferiti al poligono Militare di Prosecco per la distruzione. Quello di Trieste è uno dei porti italiani con la più alta concentrazione di ordigni inesplosi, eredità della sua posizione strategica durante le due guerre mondiali. Dal 2015 a oggi sono stati rimossi 127 residuati bellici nell'area portuale, tra mine, bombe aeree e proiettili di artiglieria. L'ultimo ritrovamento significativo risale al 2021, quando una bomba da 250 kg americana costrinse all'evacuazione di 10.000 residenti. I fondali del Golfo conservano ancora almeno 200 ordigni accertati dai rilievi sonar, secondo i dati del Progetto Seabed 2030. Le bonifiche procedono al ritmo di 5-6 interventi l'anno, limitate dai fondi del Ministero della Difesa e dalla priorità data ai porti con maggior traffico commerciale. A pagare il ritardo è sempre la stessa categoria: i pescatori, che nel 2025 hanno denunciato 17 incidenti con reti impigliate in ordigni inesplosi.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Chiara Esposito\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-03T10:39:47.858173+00:00\",\n  \"dateModified\": \"2026-04-03T10:39:47.858173+00:00\",\n  \"url\": \"https://lentemattutina.it/cronaca/7911f83c348be43d\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cronaca/7911f83c348be43d\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.ansa.it/webimages/img_1129x635/2026/4/3/0cdd8d2fde3a73bcdb0b0cb77f4c422a.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Tre granate inglesi disinnescate nel porto di Trieste dalla Marina militare\",\n  \"description\": \"La Marina militare ha concluso oggi, 3 aprile 2026, le operazioni di bonifica di tre granate di artiglieria inglese trovate nel porto di Trieste. Le granate sono state trasferite a un luogo sicuro per essere smantellate.\",\n  \"articleBody\": \"La Marina militare ha concluso oggi, 3 aprile 2026, le operazioni di bonifica di tre granate di artiglieria inglese trovate nel porto di Trieste. Le granate sono state trasferite a un luogo sicuro per essere smantellate. La squadra della Marina militare ha lavorato per diverse ore per effettuare la bonifica delle granate, che sono state identificate come di origine inglese. Le granate sono state trovate nel porto di Trieste, dove sono state trasferite e isolate per essere smantellate. Secondo la Marina militare, le operazioni di bonifica sono state condotte con successo e le granate sono state trasferite a un luogo sicuro. Le autorità locali hanno assicurato che la situazione è sotto controllo e che non vi sono state vittime o danni significativi. La Marina militare ha lavorato in collaborazione con le autorità locali per effettuare la bonifica delle granate e assicurare la sicurezza del porto e degli abitanti della zona. Il porto di Trieste è un importante snodo commerciale e militare, e la scoperta delle granate ha sollevato preoccupazioni per la sicurezza della zona. Tuttavia, la Marina militare ha assicurato che la situazione è sotto controllo e che le operazioni di bonifica sono state effettuate con successo. La storia del porto di Trieste è ricca di eventi militari e commerciali, e la scoperta delle granate è solo uno dei tanti episodi che hanno caratterizzato la sua storia. La Marina militare continuerà a lavorare per assicurare la sicurezza del porto e degli abitanti della zona, e a collaborare con le autorità locali per prevenire future situazioni di questo tipo. A pagare, come sempre, saranno lo stato e la città di Trieste, mentre le responsabilità restano impunite.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Roberto Neri\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-03T10:39:47.858173+00:00\",\n  \"dateModified\": \"2026-04-03T10:39:47.858173+00:00\",\n  \"url\": \"https://lentemattutina.it/cronaca/7911f83c348be43d\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cronaca/7911f83c348be43d\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1654952366307-7abd5e86ae8b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxUcmllc3RlJTIwcG9ydG8lMjBncmFuYXRlJTIwYm9uaWZpY2F8ZW58MHwwfHx8MTc3NTI0MDI1Mnww&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"George Bullock\"\n  }\n}",
   "priority": 5,
-  "source": "ANSA Cronaca",
-  "source_type": "ansa",
-  "original_url": "https://www.ansa.it/sito/notizie/cronaca/2026/04/03/granate-di-artiglieria-inglese-riemergono-dai-fondali-di-trieste_ea989bdc-d212-455d-bef2-44a28d6cdd53.html",
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://lentemattutina.it/cronaca/trieste-trovate-3-granate-inglesi-nel-porto-bonifi-7911f83c348be43d",
   "related": [
     {
       "title": "Liliana Resinovich, 63 anni, trovata morta in un bosco a Trieste il 14 dicembre",
@@ -46,11 +47,12 @@
       "image_type": "unsplash"
     },
     {
-      "title": "Al Bano e Loredana, matrimonio dell'anima a 83 e 53 anni",
-      "url": "/cronaca/al-bano-e-loredana-matrimonio-dellanima-a-83-e-53-2096e29c1a18e6fa",
-      "id": "2096e29c1a18e6fa",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Italian_actress_Loredana.JPG",
-      "image_type": "wikimedia"
+      "title": "Futurare debutta su il fatto quotidiano",
+      "url": "/cronaca/cacciato-lancia-futurare-su-ilfattoquotidianoit-ta-4ab545e3a211b192",
+      "id": "4ab545e3a211b192",
+      "image_url": "https://images.pexels.com/photos/9381026/pexels-photo-9381026.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
     }
-  ]
+  ],
+  "updated_at": "2026-04-03T10:39:47.858173+00:00"
 }
