@@ -1,0 +1,56 @@
+{
+  "id": "35e254a9b5bd410e",
+  "slug": "harvard-si-riunisce-per-votare-limiti-ai-voti-di-a-35e254a9b5bd410e",
+  "title": "Harvard si riunisce per votare limiti ai voti di appello A",
+  "titles": [
+    "Harvard si riunisce per votare limiti ai voti di appello A",
+    "80% dei voti A riservati ai primi 20% degli studenti",
+    "La sfida di Harvard: limitare i voti di appello A"
+  ],
+  "title_winner": null,
+  "section": "esteri",
+  "occhiello": "UNIVERSITÀ DI HARVARD: VOTA GIORNO SUI LIMITE DI GRADE A",
+  "lead": "Harvard University, Cambridge, 3 aprile 2026. La facoltà dell'Università di Harvard voterà oggi su una proposta per limitare il numero di voti di appello A in ogni corso, in un tentativo di ridurre l'inflazione delle voci.",
+  "corpo1": "La facoltà si riunirà oggi a Cambridge per discutere la proposta di limitare i voti di appello A. La proposta, che è stata presentata da un comitato facoltativo, mira a catturare l'inflazione delle voci, che è un fenomeno che sta attraversando molte università negli Stati Uniti. La proposta prevede di riservare l'80% dei voti di appello A ai primi 20% degli studenti con i voti migliori. Gli studenti con un voto inferiore di 20% potrebbero ricevere un voto di appello, ma non sarebbero in grado di ottenere un voto di appello A. Le facoltà si sono riunite in precedenza per discutere la proposta, che è stata fortemente criticata dagli studenti. Molti studenti hanno espresso la loro opposizione alla proposta, sostenendo che limitare i voti di appello A sarebbe ingiusto e danneggerebbe i risultati degli studenti più deboli. Il voto si terrà oggi e la decisione sarà presa presto.",
+  "corpo2": "L'Università di Harvard è una delle università più prestigiose degli Stati Uniti. La proposta di limitare il numero di voti di appello A in ogni corso è un tentativo di ridurre l'inflazione delle voci, che è un problema che sta attraversando molte università negli Stati Uniti. La proposta è stata fortemente criticata dagli studenti, che sostenono che limitare i voti di appello A sarebbe ingiusto e danneggerebbe i risultati degli studenti più deboli. L'Università di Harvard ha già preso misure per ridurre l'inflazione delle voci, come ad esempio aumentare la difficoltà dei corsi. Se la proposta sarà approvata, l'inflazione delle voci continuerà a esistere e gli studenti continueranno a lottare per ottenere un voto di appello A.",
+  "journalist": {
+    "id": "fabrizio_mei_01",
+    "firma": "Fabrizio Mei",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-04-03T15:50:03.777350+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://i.guim.co.uk/img/media/6f560204bd39866594ed0f747355e852258769a5/586_0_2372_1899/master/2372.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c780b2590a19148949c6c23cf58ba2cb",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Harvard si riunisce per votare limiti ai voti di appello A\",\n  \"description\": \"Harvard University, Cambridge, 3 aprile 2026. La facoltà dell'Università di Harvard voterà oggi su una proposta per limitare il numero di voti di appello A in ogni corso, in un tentativo di ridurre l'inflazione delle voci.\",\n  \"articleBody\": \"Harvard University, Cambridge, 3 aprile 2026. La facoltà dell'Università di Harvard voterà oggi su una proposta per limitare il numero di voti di appello A in ogni corso, in un tentativo di ridurre l'inflazione delle voci. La facoltà si riunirà oggi a Cambridge per discutere la proposta di limitare i voti di appello A. La proposta, che è stata presentata da un comitato facoltativo, mira a catturare l'inflazione delle voci, che è un fenomeno che sta attraversando molte università negli Stati Uniti. La proposta prevede di riservare l'80% dei voti di appello A ai primi 20% degli studenti con i voti migliori. Gli studenti con un voto inferiore di 20% potrebbero ricevere un voto di appello, ma non sarebbero in grado di ottenere un voto di appello A. Le facoltà si sono riunite in precedenza per discutere la proposta, che è stata fortemente criticata dagli studenti. Molti studenti hanno espresso la loro opposizione alla proposta, sostenendo che limitare i voti di appello A sarebbe ingiusto e danneggerebbe i risultati degli studenti più deboli. Il voto si terrà oggi e la decisione sarà presa presto. L'Università di Harvard è una delle università più prestigiose degli Stati Uniti. La proposta di limitare il numero di voti di appello A in ogni corso è un tentativo di ridurre l'inflazione delle voci, che è un problema che sta attraversando molte università negli Stati Uniti. La proposta è stata fortemente criticata dagli studenti, che sostenono che limitare i voti di appello A sarebbe ingiusto e danneggerebbe i risultati degli studenti più deboli. L'Università di Harvard ha già preso misure per ridurre l'inflazione delle voci, come ad esempio aumentare la difficoltà dei corsi. Se la proposta sarà approvata, l'inflazione delle voci continuerà a esistere e gli studenti continueranno a lottare per ottenere un voto di appello A.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Fabrizio Mei\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-03T15:50:03.777350+00:00\",\n  \"dateModified\": \"2026-04-03T15:50:03.777350+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/35e254a9b5bd410e\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/35e254a9b5bd410e\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://i.guim.co.uk/img/media/6f560204bd39866594ed0f747355e852258769a5/586_0_2372_1899/master/2372.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c780b2590a19148949c6c23cf58ba2cb\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 3,
+  "source": "The Guardian",
+  "source_type": "esteri",
+  "original_url": "https://www.theguardian.com/education/2026/apr/03/harvard-faculty-grade-inflation-vote-a-grades",
+  "related": [
+    {
+      "title": "Israele approva pena di morte per palestinesi con 52 voti",
+      "url": "/esteri/israele-approva-legge-sulla-pena-di-morte-61-si-co-5f96d049661cd727",
+      "id": "5f96d049661cd727",
+      "image_url": "https://images.unsplash.com/photo-1599514956249-01809da6eb78?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxXZXN0JTIwQmFuayUyMGJhcnJpZXJ8ZW58MHwwfHx8MTc3NDk0NzY0Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Valeria Marini amica del presidente spagnolo Pedro Sánchez",
+      "url": "/esteri/valeria-marini-rivela-amicizia-con-pedro-sanchez-6cae7a059bee1908",
+      "id": "6cae7a059bee1908",
+      "image_url": "https://images.unsplash.com/photo-1698453025401-a64d59dbb944?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxQZWRybyUyMFMlQzMlQTFuY2hlenxlbnwwfDB8fHwxNzc1MjMwNjU0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Ferrari e Lamborghini paralizzate in Oman per 100 mln di dollari",
+      "url": "/esteri/ferrari-e-lamborghini-ferme-nei-porti-guerra-in-ir-7561e8ec947a9e36",
+      "id": "7561e8ec947a9e36",
+      "image_url": "https://images.unsplash.com/photo-1737719158987-e7cd95068bec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxJcmFuJTIwd2FyfGVufDB8MHx8fDE3NzUyMzA1MzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    }
+  ]
+}
