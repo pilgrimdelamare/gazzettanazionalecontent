@@ -1,5 +1,22 @@
 [
   {
+    "id": "4ab545e3a211b192",
+    "slug": "cacciato-lancia-futurare-su-ilfattoquotidianoit-ta-4ab545e3a211b192",
+    "title": "Milano, primi voli con i taxi volanti eVTOL entro pochi mesi",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Chiara Esposito",
+    "published_at": "2026-04-03T14:54:31.177948+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1730346054951-142d9e53a8b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxtaWxhbm8lMjB0YXhpJTIwdm9sYW50aXxlbnwwfDB8fHwxNzc1MjM3NzA1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "IL TAXI VOLANTE È ARRIVATO: A MILANO IL 3 APRILE 2026",
+    "lead_preview": "Alessandro Cacciato ha presentato il 3 aprile 2026 la prima puntata di \"Futurare\", il nuovo format de ilfattoquotidiano.",
+    "tags": [
+      "taxi volanti milano",
+      "evtol milano"
+    ]
+  },
+  {
     "id": "f3efe28bca6cfb38",
     "slug": "ministero-del-lavoro-e-inps-ripristinano-domande-p-f3efe28bca6cfb38",
     "title": "Inps, riaprono i termini per gli assegni ponte: lavoratori italiani più tutelati",
@@ -626,20 +643,6 @@
     "tags": [
       "amministratore condominio"
     ]
-  },
-  {
-    "id": "4ab545e3a211b192",
-    "slug": "cacciato-lancia-futurare-su-ilfattoquotidianoit-ta-4ab545e3a211b192",
-    "title": "Cacciato lancia 'Futurare' su ilfattoquotidiano.it: Taxi volanti a Milano il 3 aprile 2026",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-04-03T14:54:31.177948+00:00",
-    "image_type": "image",
-    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/03/futurare-puntata-1-copertina-youtube.png",
-    "occhiello": "IL FUTURO DEI TASSI VOLANTI",
-    "lead_preview": "Alessandro Cacciato, conduttore del nuovo format \"futurare\" su ilfattoquotidiano.it, ha presentato la prima puntata dedi",
-    "tags": []
   },
   {
     "id": "32c8daae58dc52d4",
