@@ -1,5 +1,23 @@
 [
   {
+    "id": "d927b5526c6f2513",
+    "slug": "primo-aereo-da-guerra-usa-abbattuto-in-iran-d927b5526c6f2513",
+    "title": "F-15E USA abbattuto in Iran: caccia precipitato al confine durante missione",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-03T18:18:57.071879+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1616346796308-bd3e4207d222?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxpcmFuaWFuJTIwbWlsaXRhcnklMjBmb3JjZXN8ZW58MHwwfHx8MTc3NTI0ODM5NXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "FONTE STATUNITENSE ABBATTATA IN IRAN",
+    "lead_preview": "Un F-15E Strike Eagle dell'aeronautica statunitense è stato abbattuto venerdì 3 aprile sul territorio iraniano. L'incide",
+    "tags": [
+      "abbattimento f-15e",
+      "crisi iran",
+      "missione confine iran"
+    ]
+  },
+  {
     "id": "5804a7a7308333b3",
     "slug": "reggio-calabria-uomo-condannato-a-15-anni-e-6-mesi-5804a7a7308333b3",
     "title": "Macellaio di Reggio Calabria condannato a 15 anni e 6 mesi per omicidio in casa",
@@ -271,20 +289,6 @@
       "tentato omicidio",
       "maria rosa esposito"
     ]
-  },
-  {
-    "id": "d927b5526c6f2513",
-    "slug": "primo-aereo-da-guerra-usa-abbattuto-in-iran-d927b5526c6f2513",
-    "title": "Primo aereo da guerra usa abbattuto in iran",
-    "section": "esteri",
-    "priority": 4,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-03T18:18:57.071879+00:00",
-    "image_type": "image",
-    "image_url": "https://i.guim.co.uk/img/media/482982697628386efabd0a787d9590da0690e8a1/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=71aa55243556fe4276e3975782e4c1c6",
-    "occhiello": "PRIMO AEREO DA GUERRA USA ABBATTUTO IN IRAN",
-    "lead_preview": "Un caccia F-15E Strike Eagle dell’aeronautica statunitense è stato abbattuto ieri, venerdì 3 aprile, sul territorio iran",
-    "tags": []
   },
   {
     "id": "7911f83c348be43d",
