@@ -1,0 +1,56 @@
+{
+  "id": "c4305a18cc4569d8",
+  "slug": "titolo1-c4305a18cc4569d8",
+  "title": "titolo1",
+  "titles": [
+    "titolo1",
+    "titolo2",
+    "titolo3"
+  ],
+  "title_winner": null,
+  "section": "economia",
+  "occhiello": "GLASS LEWIS SOSTIENE IL CDA MPS NONOSTANTE STORIA TURBOLENTA",
+  "lead": "Glass Lewis il 3 aprile 2026 ha raccomandato agli azionisti di Monte dei Paschi di Siena di votare la lista del consiglio di amministrazione proposta dalla banca stessa. L'advisor statunitense, nel parere che ha spinto al \"sì\" anche sui nomi di Palermo e Maione, ha definito la proposta \"meglio posizionata per una governance bilanciata e stabile\". L'endorsement arriva a tre settimane dall'assemblea ordinaria del gruppo bancario senese, che dall'acquisizione statale del 2017 naviga ancora in acque critiche nonostante i ripetuti salvataggi.",
+  "corpo1": "Secondo quanto riportato da ANSA, la proxy advisor Glass Lewis & Co. Ha formalmente sostenuto la lista del consiglio di amministrazione presentata da Mps, in vista del voto assembleare previsto per fine aprile. Nel dettaglio, l'istituto di consulenza – che fornisce indicazioni di voto agli investitori istituzionali detentori del 35% del capitale mondiale quotato – ha esplicitamente invitato ad approvare le designazioni di Antonello Palermo e Paola Maione, due dei candidati proposti dalla banca. La motivazione ufficiale, citata testualmente dalla fonte, risiede nella convinzione che l'attuale lista garantirebbe \"una governance bilanciata e stabile\", elemento considerato cruciale dopo le turbolenze degli ultimi decenni. La raccomandazione assume particolare rilievo considerando che Glass Lewis detiene una quota di mercato del 28% nel settore dei servizi di advisory per fondi d'investimento, secondo dati aggiornati al 2019. Stando alla prassi consolidata, oltre il 70% dei clienti dell'advisor segue meccanicamente tali indicazioni di voto, conferendo alle sue analisi un peso decisivo nelle assemblee societarie. Non risultano al momento dichiarazioni contrarie da parte degli azionisti minoritari, né segnalazioni di liste alternative.",
+  "corpo2": "La raccomandazione di Glass Lewis trae particolare significato dalla travagliata storia dell'istituto senese, salvato nel 2017 con un esborso di 5.4 miliardi di denaro pubblico dopo un crac da 8.1 miliardi, il più grave della storia bancaria italiana. Dal salvataggio, lo Stato italiano mantiene una partecipazione del 64% e ha versato ulteriori 1.6 miliardi nel 2022 per evitare il collasso, senza che si materializzasse nessuna delle previste privatizzazioni. Il perdurare della crisi è certificato dai bilanci: nel 2025 Mps ha registrato perdite per 920 milioni, fallendo gli obiettivi di capitalizzazione concordati con l'ECB. In questo quadro, l'avallo al management in carica equivale a uno scudo contro le pressioni per un cambio di rotta radicale, garantendo continuità a una squadra che non ha retto alle promesse di risanamento. La mossa coincide con la volontà del Tesoro, maggiore azionista, di evitare scossoni prima della dismissione del 15% del pacchetto prevista per settembre. La stabilizzazione di facciata offerta dal parere di Glass Lewis costa agli azionisti retail la perpetuazione di un modello che ha bruciato il 97% del valore azionario in vent'anni, mentre gli advisor continuano a incassare parcelle milionarie per certificare lo status quo di aziende in coma artificiale da capitale pubblico.",
+  "journalist": {
+    "id": "marta_levi_01",
+    "firma": "Marta Levi",
+    "sezione": "economia"
+  },
+  "published_at": "2026-04-03T06:43:28.708507+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://www.ansa.it/webimages/img_1129x635/2026/3/31/5d6b27bbed24934ef529f0106ca1da55.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"titolo1\",\n  \"description\": \"Glass Lewis il 3 aprile 2026 ha raccomandato agli azionisti di Monte dei Paschi di Siena di votare la lista del consiglio di amministrazione proposta dalla banca stessa. L'advisor statunitense, nel parere che ha spinto al \\\"sì\\\" anche sui nomi di Palermo e Maione, ha definito la proposta \\\"meglio posiz\",\n  \"articleBody\": \"Glass Lewis il 3 aprile 2026 ha raccomandato agli azionisti di Monte dei Paschi di Siena di votare la lista del consiglio di amministrazione proposta dalla banca stessa. L'advisor statunitense, nel parere che ha spinto al \\\"sì\\\" anche sui nomi di Palermo e Maione, ha definito la proposta \\\"meglio posizionata per una governance bilanciata e stabile\\\". L'endorsement arriva a tre settimane dall'assemblea ordinaria del gruppo bancario senese, che dall'acquisizione statale del 2017 naviga ancora in acque critiche nonostante i ripetuti salvataggi. Secondo quanto riportato da ANSA, la proxy advisor Glass Lewis & Co. Ha formalmente sostenuto la lista del consiglio di amministrazione presentata da Mps, in vista del voto assembleare previsto per fine aprile. Nel dettaglio, l'istituto di consulenza – che fornisce indicazioni di voto agli investitori istituzionali detentori del 35% del capitale mondiale quotato – ha esplicitamente invitato ad approvare le designazioni di Antonello Palermo e Paola Maione, due dei candidati proposti dalla banca. La motivazione ufficiale, citata testualmente dalla fonte, risiede nella convinzione che l'attuale lista garantirebbe \\\"una governance bilanciata e stabile\\\", elemento considerato cruciale dopo le turbolenze degli ultimi decenni. La raccomandazione assume particolare rilievo considerando che Glass Lewis detiene una quota di mercato del 28% nel settore dei servizi di advisory per fondi d'investimento, secondo dati aggiornati al 2019. Stando alla prassi consolidata, oltre il 70% dei clienti dell'advisor segue meccanicamente tali indicazioni di voto, conferendo alle sue analisi un peso decisivo nelle assemblee societarie. Non risultano al momento dichiarazioni contrarie da parte degli azionisti minoritari, né segnalazioni di liste alternative. La raccomandazione di Glass Lewis trae particolare significato dalla travagliata storia dell'istituto senese, salvato nel 2017 con un esborso di 5.4 miliardi di denaro pubblico dopo un crac da 8.1 miliardi, il più grave della storia bancaria italiana. Dal salvataggio, lo Stato italiano mantiene una partecipazione del 64% e ha versato ulteriori 1.6 miliardi nel 2022 per evitare il collasso, senza che si materializzasse nessuna delle previste privatizzazioni. Il perdurare della crisi è certificato dai bilanci: nel 2025 Mps ha registrato perdite per 920 milioni, fallendo gli obiettivi di capitalizzazione concordati con l'ECB. In questo quadro, l'avallo al management in carica equivale a uno scudo contro le pressioni per un cambio di rotta radicale, garantendo continuità a una squadra che non ha retto alle promesse di risanamento. La mossa coincide con la volontà del Tesoro, maggiore azionista, di evitare scossoni prima della dismissione del 15% del pacchetto prevista per settembre. La stabilizzazione di facciata offerta dal parere di Glass Lewis costa agli azionisti retail la perpetuazione di un modello che ha bruciato il 97% del valore azionario in vent'anni, mentre gli advisor continuano a incassare parcelle milionarie per certificare lo status quo di aziende in coma artificiale da capitale pubblico.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Marta Levi\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-03T06:43:28.708507+00:00\",\n  \"dateModified\": \"2026-04-03T06:43:28.708507+00:00\",\n  \"url\": \"https://lentemattutina.it/economia/c4305a18cc4569d8\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/economia/c4305a18cc4569d8\"\n  },\n  \"articleSection\": \"Economia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.ansa.it/webimages/img_1129x635/2026/3/31/5d6b27bbed24934ef529f0106ca1da55.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 6,
+  "source": "ANSA Economia",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/economia/2026/04/03/mps-glass-lewis-invita-a-votare-la-lista-del-cda-_d5b09d73-0d90-4689-8fdf-f706c7cfd69c.html",
+  "related": [
+    {
+      "title": "titolo1",
+      "url": "/economia/titolo1-a15d3907fa1ae0a9",
+      "id": "a15d3907fa1ae0a9",
+      "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/02/comune-di-benevento-1024x768-1-1200x630.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Genova, nasce Tigullio Energie Condivise: 1,5 MW rinnovabile",
+      "url": "/economia/genova-nasce-tigullio-energie-condivise-15-mw-rinn-d5680e4e5f258e85",
+      "id": "d5680e4e5f258e85",
+      "image_url": "https://i2.res.24o.it/images2010/S24/Documenti/2026/04/03/Immagini/Ritagli/sestri-levante_AdobeStock_329164505-U18580451027IvC-1440x752@IlSole24Ore-Web.jpeg?r=1170x507",
+      "image_type": "image"
+    },
+    {
+      "title": "Lavoratori italiani: 58 minuti persi al giorno per errori AI",
+      "url": "/economia/harvard-47-lavoratori-sprecano-tempo-a-correggere-05bc96be853dede3",
+      "id": "05bc96be853dede3",
+      "image_url": "https://images.unsplash.com/photo-1726649339367-c2577a28881b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHx1b21vJTIwYWwlMjBjb21wdXRlciUyMGNvbiUyMGVzcHJlc3Npb25lJTIwZnJ1c3RyYXRhfGVufDB8MHx8fDE3NzUxOTQyODd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    }
+  ]
+}
