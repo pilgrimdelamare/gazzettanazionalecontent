@@ -1,5 +1,21 @@
 [
   {
+    "id": "b24157af12781972",
+    "slug": "studenti-di-oxford-brookes-vincono-3-posto-e-premi-b24157af12781972",
+    "title": "Oxford brookes vince 3° posto",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-03T12:16:43.686019+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1664911200744-8c3a496baa2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxGb3JtdWxhJTIwU3R1ZGVudCUyMFNpbHZlcnN0b25lfGVufDB8MHx8fDE3NzUyMzIxNzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "OXFORD BROOKES VINCE 3° POSTO",
+    "lead_preview": "Ha dichiarato l'obiettivo di vincere la Formula Student a Silverstone, evento che si terrà il 3 aprile 2026, come previs",
+    "tags": [
+      "formula student"
+    ]
+  },
+  {
     "id": "286bf033a055e348",
     "slug": "iran-pasdaran-abbattero-f-15e-usa-nel-cielo-di-ker-286bf033a055e348",
     "title": "Iran: Pasdaran abbattere F-15E sopra Kermanshah, pilota catturato",
@@ -610,20 +626,6 @@
     "tags": [
       "naufragio lampedeusa"
     ]
-  },
-  {
-    "id": "b24157af12781972",
-    "slug": "studenti-di-oxford-brookes-vincono-3-posto-e-premi-b24157af12781972",
-    "title": "Studenti di oxford brookes vincono 3° posto e premio tecnologico",
-    "section": "esteri",
-    "priority": 4,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-03T12:16:43.686019+00:00",
-    "image_type": "image",
-    "image_url": "https://i.guim.co.uk/img/media/1660b24a9522256b2baa46629013dae08146b0e6/1100_0_6830_5464/master/6830.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ded5f8e2543b2ba6659d06f621e752bb",
-    "occhiello": "STUDENTI DI OXFORD BROOKES VINCONO 3° POSTO E PREMIO TECNOLOGICO",
-    "lead_preview": "Il 3 aprile 2026, Oxford Brookes Racing ha annunciato l’obiettivo di vincere la Formula Student a Silverstone. Oltre 100",
-    "tags": []
   },
   {
     "id": "13a9ce1aa502c105",
