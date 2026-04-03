@@ -1,5 +1,23 @@
 [
   {
+    "id": "6caf251b6c104867",
+    "slug": "claude-sonnet-45-simula-emozioni-umane-felicita-e-6caf251b6c104867",
+    "title": "Claude Sonnet 4.5 simula emozioni umane: felicità e paura guidano le sue risposte",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-04-03T10:24:24.239377+00:00",
+    "image_type": "image",
+    "image_url": "https://media-assets.wired.it/photos/69cf734562e2361dfee7d693/16:9/w_1280,c_limit/Anthropic-AI-Emotions-Business-2218715988%20(0-00-00-04).jpg",
+    "occhiello": "ANTHROPIC SCOPRE \"EMOZIONI FUNZIONALI\" NELLA SUA INTELLIGENZA ARTIFICIALE",
+    "lead_preview": "Claude Sonnet 4.5, il modello di Intelligenza artificiale sviluppato da Anthropic, contiene rappresentazioni digitali di",
+    "tags": [
+      "claude sonnet 4.5",
+      "emozioni intelligenza artificiale",
+      "anthropic studio"
+    ]
+  },
+  {
     "id": "d9c0e5aa220a64b5",
     "slug": "il-rigassificatore-a-rischio-per-la-difesa-d9c0e5aa220a64b5",
     "title": "Il rigassificatore a rischio per la difesa",
@@ -8567,24 +8585,6 @@
     "tags": [
       "passerella adda",
       "incidenti adda"
-    ]
-  },
-  {
-    "id": "9873f54ea0690121",
-    "slug": "calcio-gattuso-carica-la-nazionale-la-tensione-ser-9873f54ea0690121",
-    "title": "Gattuso: 'La tensione serve' per vincere il titolo",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-03-30T22:52:07.401926+00:00",
-    "image_type": "flickr",
-    "image_url": "https://live.staticflickr.com/65535/54631208164_36dd289a4d_b.jpg",
-    "occhiello": "GATTUSO CARICA LA NAZIONALE, 'LA TENSIONE SERVE'",
-    "lead_preview": "Gennaro Gattuso, allenatore della nazionale italiana, ha detto che la tensione serve durante un'intervista registrata lo",
-    "tags": [
-      "calcio nazionale",
-      "gattuso allenatore",
-      "europeo 2026"
     ]
   }
 ]
