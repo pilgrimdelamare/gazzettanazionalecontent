@@ -1,5 +1,23 @@
 [
   {
+    "id": "82fe044e6c336754",
+    "slug": "basket-virtus-bologna-ospita-valencia-82fe044e6c336754",
+    "title": "Basket: Virtus Bologna batte Valencia 87-82 in Eurolega con pubblico al 98%",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-03T19:30:25.481218+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1577416412292-747c6607f055?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxiYXNrZXRiYWxsJTIwY291cnR8ZW58MHwwfHx8MTc3NTI1MzkxN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "",
+    "lead_preview": "Saliou Niang ha aperto la partita tra Virtus Bologna e Valencia con un canestro in alley-oop al minuto 1 del Round 35 di",
+    "tags": [
+      "virtus bologna valencia",
+      "eurolega 2026",
+      "pallacanestro bologna"
+    ]
+  },
+  {
     "id": "2096e29c1a18e6fa",
     "slug": "al-bano-e-loredana-matrimonio-dellanima-a-83-e-53-2096e29c1a18e6fa",
     "title": "Al Bano e Loredana separati",
@@ -341,24 +359,6 @@
     "occhiello": "",
     "lead_preview": "Tadej Pogacar, campione del mondo e vincitore della Milano-Sanremo due settimane fa, parla in conferenza stampa del Giro",
     "tags": []
-  },
-  {
-    "id": "82fe044e6c336754",
-    "slug": "basket-virtus-bologna-ospita-valencia-82fe044e6c336754",
-    "title": "Basket: Virtus Bologna ospita Valencia",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-03T19:30:25.481218+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/157ab46e49243b7648c07fd3c0450a43f3d71ea1/skysport/it/basket/eurolega/video/2026/04/03/saliou-niang-airlines-che-schiacciata-in-alley-oop-1087528/niang.jpg",
-    "occhiello": "SALIOUT NIANG \"AEROPORTO\" IN ALLEY-OOOP: LA VIRTUS BOLOGNA IN FLUSSO CONTRO VALENCIA.",
-    "lead_preview": "La Virtus Bologna ospita Valencia nel Round 35 di Eurolega. Saliou Niang ha aperto la partita con un gol in alley-oop su",
-    "tags": [
-      "virtus bologna",
-      "eurolega",
-      "basket"
-    ]
   },
   {
     "id": "1b8daeccdb0b4827",
