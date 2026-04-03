@@ -1,0 +1,56 @@
+{
+  "id": "32c8daae58dc52d4",
+  "slug": "calabria-10-milioni-di-euro-di-danni-allagricoltur-32c8daae58dc52d4",
+  "title": "Calabria, 10 milioni di euro di danni all'agricoltura: richiesto stato di calamità",
+  "titles": [
+    "Calabria, 10 milioni di euro di danni all'agricoltura: richiesto stato di calamità",
+    "Presidente della Calabria chiede aiuti dopo i disastri a Rocca Imperiale e Cosentino",
+    "Dopo i nubifragi, la Regione punta ai fondi: calamità per agricoltura in crisi"
+  ],
+  "title_winner": null,
+  "section": "politica",
+  "occhiello": "DANNI ALL'AGRICOLTURA, REGIONE CALABRIA CHIEDE AIUTI",
+  "lead": "La Regione Calabria ha chiesto lo stato di calamità naturale per i danni all'agricoltura provocati dagli eventi meteorologici intensi nell'Alto Jonio Cosentino e a Rocca Imperiale. La richiesta è stata presentata il 3 aprile 2026.",
+  "corpo1": "I danni all'agricoltura nell'Alto Jonio Cosentino e a Rocca Imperiale sono stati causati da eventi meteorologici intensi. Secondo le stime, i danni ammontano a oltre 10 milioni di euro. La richiesta di stato di calamità naturale è stata avanzata mercoledì 3 aprile 2026, con l'intento di ottenere aiuti economici per i danni causati. La richiesta mira a ottenere lo stato di zona calamitata per accedere ai fondi di emergenza. La richiesta è stata avanzata attraverso un comunicato stampa del presidente della Regione Calabria, che ha affermato che la Regione è stata colpita da una serie di eventi meteorologici intensi che hanno causato danni significativi all'agricoltura. La Regione chiede l'intervento del governo centrale per sostenere cittadini e imprese colpite. Secondo ANSA, la richiesta di stato di calamità naturale è stata avanzata anche per il comune di Rocca Imperiale, che è stato colpito da una serie di eventi meteorologici intensi che hanno causato danni significativi all'agricoltura.",
+  "corpo2": "La Calabria, regione a statuto ordinario del Sud Italia, basa gran parte della sua economia sull'agricoltura. È un settore strategico, fondato su produzioni di frutta, verdura e vino che ora rischiano di andare perdute. Lo stato di calamità richiesto riflette la gravità dei danni provocati dagli eventi meteorologici. La Regione è stata colpita da una serie di eventi meteorologici intensi che hanno causato danni significativi all'agricoltura, e la richiesta di aiuti è un segno della necessità di aiuto per poter rispondere ai bisogni dei cittadini e delle imprese colpite. A pagare saranno ancora una volta i contribuenti calabresi, già oberati dalle tasse più alte del paese.",
+  "journalist": {
+    "id": "sergio_mancini_01",
+    "firma": "Sergio Mancini",
+    "sezione": "politica"
+  },
+  "published_at": "2026-04-03T11:51:33.844231+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://www.ansa.it/webimages/img_1129x635/2026/2/14/1ae8ae40992d070de3db4311546a74fd.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Calabria, 10 milioni di euro di danni all'agricoltura: richiesto stato di calamità\",\n  \"description\": \"La Regione Calabria ha chiesto lo stato di calamità naturale per i danni all'agricoltura provocati dagli eventi meteorologici intensi nell'Alto Jonio Cosentino e a Rocca Imperiale. La richiesta è stata presentata il 3 aprile 2026.\",\n  \"articleBody\": \"La Regione Calabria ha chiesto lo stato di calamità naturale per i danni all'agricoltura provocati dagli eventi meteorologici intensi nell'Alto Jonio Cosentino e a Rocca Imperiale. La richiesta è stata presentata il 3 aprile 2026. I danni all'agricoltura nell'Alto Jonio Cosentino e a Rocca Imperiale sono stati causati da eventi meteorologici intensi. Secondo le stime, i danni ammontano a oltre 10 milioni di euro. La richiesta di stato di calamità naturale è stata avanzata mercoledì 3 aprile 2026, con l'intento di ottenere aiuti economici per i danni causati. La richiesta mira a ottenere lo stato di zona calamitata per accedere ai fondi di emergenza. La richiesta è stata avanzata attraverso un comunicato stampa del presidente della Regione Calabria, che ha affermato che la Regione è stata colpita da una serie di eventi meteorologici intensi che hanno causato danni significativi all'agricoltura. La Regione chiede l'intervento del governo centrale per sostenere cittadini e imprese colpite. Secondo ANSA, la richiesta di stato di calamità naturale è stata avanzata anche per il comune di Rocca Imperiale, che è stato colpito da una serie di eventi meteorologici intensi che hanno causato danni significativi all'agricoltura. La Calabria, regione a statuto ordinario del Sud Italia, basa gran parte della sua economia sull'agricoltura. È un settore strategico, fondato su produzioni di frutta, verdura e vino che ora rischiano di andare perdute. Lo stato di calamità richiesto riflette la gravità dei danni provocati dagli eventi meteorologici. La Regione è stata colpita da una serie di eventi meteorologici intensi che hanno causato danni significativi all'agricoltura, e la richiesta di aiuti è un segno della necessità di aiuto per poter rispondere ai bisogni dei cittadini e delle imprese colpite. A pagare saranno ancora una volta i contribuenti calabresi, già oberati dalle tasse più alte del paese.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Sergio Mancini\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-03T11:51:33.844231+00:00\",\n  \"dateModified\": \"2026-04-03T11:51:33.844231+00:00\",\n  \"url\": \"https://lentemattutina.it/politica/32c8daae58dc52d4\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/politica/32c8daae58dc52d4\"\n  },\n  \"articleSection\": \"Politica\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.ansa.it/webimages/img_1129x635/2026/2/14/1ae8ae40992d070de3db4311546a74fd.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 6,
+  "source": "ANSA Politica",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/politica/2026/04/03/danni-allagricoltura-regione-calabria-chiede-stato-calamita-naturale_86689d6f-9991-417b-ac2a-b38aa355f493.html",
+  "related": [
+    {
+      "title": "Giani approva il reddito di inserimento toscano, fino a 500 euro mensili per i più bisognosi",
+      "url": "/politica/toscana-giani-lancia-reddito-fino-a-500-euro-per-d-bc615f7165300c75",
+      "id": "bc615f7165300c75",
+      "image_url": "https://italiabsolutely.com/images/eugenio_Giani.jpg",
+      "image_type": "ddg_image"
+    },
+    {
+      "title": "8,7 milioni di sterline per manipolare i voti: Advance Uk finanzia società cipri",
+      "url": "/politica/advance-uk-paga-87-mln-sterline-a-societa-segreta-7e07da58ee2295a5",
+      "id": "7e07da58ee2295a5",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/AI-generated_fox_WikiKnight.jpg",
+      "image_type": "wikimedia"
+    },
+    {
+      "title": "Calabria, Consiglio regionale approva legge su sottosegretari: 35 sì, 28 no",
+      "url": "/politica/calabria-35-si-e-28-no-la-legge-sui-sottosegretari-65522e06b2f068aa",
+      "id": "65522e06b2f068aa",
+      "image_url": "https://images.pexels.com/photos/6851717/pexels-photo-6851717.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
+    }
+  ]
+}
