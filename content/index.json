@@ -1,5 +1,19 @@
 [
   {
+    "id": "f61ff47a3fad239f",
+    "slug": "casta-del-pallone-si-barrica-f61ff47a3fad239f",
+    "title": "Casta del pallone si barrica",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Sergio Mancini",
+    "published_at": "2026-04-03T13:39:38.196875+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2019/08/06/figc-1200.jpg",
+    "occhiello": "CASTA DEL PALLONE SI BARRICA",
+    "lead_preview": "Gabriele gravina, giancarlo abete e giovanni malagò sono tra i nomi coinvolti nella riforma del Calcio italiano, che ris",
+    "tags": []
+  },
+  {
     "id": "6cae7a059bee1908",
     "slug": "valeria-marini-rivela-amicizia-con-pedro-sanchez-6cae7a059bee1908",
     "title": "Valeria marini rivela amicizia con pedro sanchez",
@@ -8505,24 +8519,6 @@
       "calcio",
       "bosnia",
       "barbarez"
-    ]
-  },
-  {
-    "id": "1c5b106c4a1fb8a8",
-    "slug": "calcio-ascoli-vince-2-1-ad-arezzo-1c5b106c4a1fb8a8",
-    "title": "Calcio: Ascoli vince ad Arezzo 2-1, decide De Luca al 90'",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-03-30T22:44:32.809350+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1695203063441-9042bcecbdf3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxjYWxjaW8lMjBzZXJpZSUyMGN8ZW58MHwwfHx8MTc3NDkyMjMyNnww&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "ASCOLI VINCITORE IN UN GOL DI DIFFERENZA",
-    "lead_preview": "Ascoli, 30 marzo 2026 - La partita di Serie C tra Arezzo e Ascoli si è conclusa con il risultato di 1-2 a favore dell'As",
-    "tags": [
-      "serie c",
-      "calcio",
-      "ascoli"
     ]
   }
 ]
