@@ -1,0 +1,57 @@
+{
+  "id": "e596f6f886fd0c2a",
+  "slug": "2000-detenuti-liberati-senza-spiegazioni-e596f6f886fd0c2a",
+  "title": "2.000 detenuti liberati senza spiegazioni",
+  "titles": [
+    "2.000 detenuti liberati senza spiegazioni",
+    "Governo cubano concede grazia a massa di detenuti, ma perché?",
+    "La lista dei 2.000 prigionieri liberati da Cuba rimane segreta"
+  ],
+  "title_winner": null,
+  "section": "esteri",
+  "occhiello": "MAIUSCOLO: CUBA LIBERA PIÙ DI 2.000 DETENUTI",
+  "lead": "Cuba ha annunciato la grazia per oltre 2.000 detenuti in occasione della settimana santa. Le autorità cubane non hanno fornito la lista dei beneficiari della grazia, né i motivi della loro detenzione. L'annuncio è stato fatto senza alcuna spiegazione ufficiale.",
+  "corpo1": "La decisione è stata presa dal governo cubano senza alcuna pubblicità, in occasione della Semana Santa, una delle principali festività della religione cattolica. Nonostante la liberazione di oltre 2.000 detenuti, le autorità cubane non hanno fornito alcuna informazione sui motivi della loro detenzione o sulla loro lista dei beneficiari della grazia. Secondo il quotidiano francese Le Monde, l'annuncio è stato fatto senza alcuna spiegazione ufficiale, lasciando molti a chiedersi il motivo di questa decisione improvvisa. Il governo cubano ha sempre mantenuto un atteggiamento segreto sulla detenzione e sulla liberazione dei prigionieri, e questa decisione non fa eccezione. La liberazione di oltre 2.000 detenuti potrebbe essere un tentativo del governo cubano di migliorare la sua immagine, dopo gli anni di isolamento economico e politico.",
+  "corpo2": "Il governo cubano ha sempre mantenuto un atteggiamento distante nei confronti della comunità internazionale, e la sua decisione di liberare oltre 2.000 detenuti potrebbe essere un tentativo di migliorare la sua immagine, e la sua decisione di liberare oltre 2.000 detenuti potrebbe essere un tentativo di migliorare la sua immagine. Tuttavia, la scarsa trasparenza sulla lista dei beneficiari della grazia e sui motivi della loro detenzione lascia molti a chiedersi se questa sia solo una mossa tattica per migliorare la sua immagine o se ci sia qualcosa di più. Il vero scopo di questa decisione potrebbe essere di creare un clima di distensione con la comunità internazionale, ma è difficile dire se questo sia realmente possibile, ma è difficile dire se questo sia realmente possibile senza ulteriori informazioni. In ogni caso, a pagare saranno i detenuti: i detenuti che sono stati liberati potrebbero essere sottoposti a un processo di riabilitazione e reintegrazione nella società, ma molti potrebbero essere costretti a vivere nella segretezza per evitare persecuzioni da parte del governo.",
+  "journalist": {
+    "id": "anna_colombo_01",
+    "firma": "Anna Colombo",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-04-03T02:41:27.486320+00:00",
+  "image": {
+    "type": "unsplash",
+    "url": "https://images.unsplash.com/photo-1570299437488-d430e1e677c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxDdWJhfGVufDB8MHx8fDE3NzUxODQwODd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "source": "Unsplash",
+    "credit": "Spencer Everett",
+    "license": "Unsplash License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"2.000 detenuti liberati senza spiegazioni\",\n  \"description\": \"Cuba ha annunciato la grazia per oltre 2.000 detenuti in occasione della settimana santa. Le autorità cubane non hanno fornito la lista dei beneficiari della grazia, né i motivi della loro detenzione. L'annuncio è stato fatto senza alcuna spiegazione ufficiale.\",\n  \"articleBody\": \"Cuba ha annunciato la grazia per oltre 2.000 detenuti in occasione della settimana santa. Le autorità cubane non hanno fornito la lista dei beneficiari della grazia, né i motivi della loro detenzione. L'annuncio è stato fatto senza alcuna spiegazione ufficiale. La decisione è stata presa dal governo cubano senza alcuna pubblicità, in occasione della Semana Santa, una delle principali festività della religione cattolica. Nonostante la liberazione di oltre 2.000 detenuti, le autorità cubane non hanno fornito alcuna informazione sui motivi della loro detenzione o sulla loro lista dei beneficiari della grazia. Secondo il quotidiano francese Le Monde, l'annuncio è stato fatto senza alcuna spiegazione ufficiale, lasciando molti a chiedersi il motivo di questa decisione improvvisa. Il governo cubano ha sempre mantenuto un atteggiamento segreto sulla detenzione e sulla liberazione dei prigionieri, e questa decisione non fa eccezione. La liberazione di oltre 2.000 detenuti potrebbe essere un tentativo del governo cubano di migliorare la sua immagine, dopo gli anni di isolamento economico e politico. Il governo cubano ha sempre mantenuto un atteggiamento distante nei confronti della comunità internazionale, e la sua decisione di liberare oltre 2.000 detenuti potrebbe essere un tentativo di migliorare la sua immagine, e la sua decisione di liberare oltre 2.000 detenuti potrebbe essere un tentativo di migliorare la sua immagine. Tuttavia, la scarsa trasparenza sulla lista dei beneficiari della grazia e sui motivi della loro detenzione lascia molti a chiedersi se questa sia solo una mossa tattica per migliorare la sua immagine o se ci sia qualcosa di più. Il vero scopo di questa decisione potrebbe essere di creare un clima di distensione con la comunità internazionale, ma è difficile dire se questo sia realmente possibile, ma è difficile dire se questo sia realmente possibile senza ulteriori informazioni. In ogni caso, a pagare saranno i detenuti: i detenuti che sono stati liberati potrebbero essere sottoposti a un processo di riabilitazione e reintegrazione nella società, ma molti potrebbero essere costretti a vivere nella segretezza per evitare persecuzioni da parte del governo.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-03T02:41:27.486320+00:00\",\n  \"dateModified\": \"2026-04-03T02:41:27.486320+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/e596f6f886fd0c2a\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/e596f6f886fd0c2a\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1570299437488-d430e1e677c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxDdWJhfGVufDB8MHx8fDE3NzUxODQwODd8MA&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Spencer Everett\"\n  }\n}",
+  "priority": 3,
+  "source": "Le Monde",
+  "source_type": "esteri",
+  "original_url": "https://www.lemonde.fr/international/article/2026/04/03/cuba-gracie-de-plus-de-2-000-detenus-a-l-occasion-de-la-semaine-sainte_6676302_3210.html",
+  "related": [
+    {
+      "title": "25 detenuti politici liberati a Cuba, il Vaticano mediatore",
+      "url": "/esteri/25-detenuti-politici-liberati-a-cuba-grazie-al-vat-199853fc80379946",
+      "id": "199853fc80379946",
+      "image_url": "https://images.unsplash.com/photo-1547601018-4ee5f9044eaf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxDdWJhJTIwbWlsaXRhcnklMjBmb3JjZXN8ZW58MHwwfHx8MTc3NDkyNDA5NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Cuba concede indulto a 2.010 detenuti per Pasqua",
+      "url": "/esteri/cuba-concede-indulto-a-2010-detenuti-per-pasqua-2d95cd98c20133a3",
+      "id": "2d95cd98c20133a3",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/3/ad7d0a08b68fd4f6025c1e70cf9c02e6.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "1400 casi di violenza sessuale in Sudan, denuncia Medici Senza Frontiere",
+      "url": "/esteri/msf-1400-casi-di-violenza-sessuale-in-sudan-dal-20-02554b916fe851c0",
+      "id": "02554b916fe851c0",
+      "image_url": "https://images.unsplash.com/photo-1535253868107-da56da1693db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxzdWRhbiUyMHdhciUyMHJhcGUlMjB2aWN0aW1zfGVufDB8MHx8fDE3NzUwMTA1MjJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    }
+  ]
+}
