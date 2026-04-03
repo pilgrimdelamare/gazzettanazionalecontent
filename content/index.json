@@ -1,5 +1,23 @@
 [
   {
+    "id": "91974c037a73e4ba",
+    "slug": "luniversita-di-genova-invita-il-ceo-di-tether-vici-91974c037a73e4ba",
+    "title": "Paolo Ardoino a Genova: la critica all'invito alla lectio magistralis",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Chiara Esposito",
+    "published_at": "2026-04-02T18:08:17.989534+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1606092436879-ee73d9c6b8ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxQYW9sbyUyMEFyZG9pbm98ZW58MHwwfHx8MTc3NTE5MDM4OHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "FONDI SCOMPARSI DOPO L'INVITO ALL'UNITÀ DI GENOVA",
+    "lead_preview": "Federico Delfino ha invitato Paolo Ardoino, ceo di Tether e ex studente dell'università di Genova, a tenere la lectio ma",
+    "tags": [
+      "lectio magistralis genova",
+      "caso ardoino",
+      "fondi scomparsi genova"
+    ]
+  },
+  {
     "id": "904f8a9c41d7eb11",
     "slug": "accusato-di-assassinare-amministratore-delegato-di-904f8a9c41d7eb11",
     "title": "Accusato di assassinare amministratore delegato di UnitedHealth Group rinviato a gennaio",
@@ -1805,24 +1823,6 @@
       "omicidio wittke",
       "perizia kauffmann",
       "processo kauffmann"
-    ]
-  },
-  {
-    "id": "91974c037a73e4ba",
-    "slug": "luniversita-di-genova-invita-il-ceo-di-tether-vici-91974c037a73e4ba",
-    "title": "Università di genova invita ceo di tether",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Chiara Esposito",
-    "published_at": "2026-04-02T18:08:17.989534+00:00",
-    "image_type": "flickr",
-    "image_url": "https://live.staticflickr.com/65535/55183505936_bb3ae50f69_b.jpg",
-    "occhiello": "UNIVERSITÀ DI GENOVA INVITA CEO DI TETHER",
-    "lead_preview": "Il rettore Federico Delfino ha invitato Paolo Ardoino, ceo di Tether e ex studente dell'università di Genova, a tenere l",
-    "tags": [
-      "università di genova",
-      "tether",
-      "paolo ardoino"
     ]
   },
   {
