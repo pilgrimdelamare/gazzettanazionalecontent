@@ -1,5 +1,23 @@
 [
   {
+    "id": "53977625940fbf5a",
+    "slug": "new-york-times-licenzia-giornalista-per-recensione-53977625940fbf5a",
+    "title": "Alex Preston, critico letterario freelance del New York Times, è stato licenziato il 3 aprile 2026 d",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-04-03T11:05:18.092555+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1591696331111-ef9586a5b17a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxpbnRlbGxpZ2VuemElMjBhcnRpZmljaWFsZSUyMGdpb3JuYWxpc21vfGVufDB8MHx8fDE3NzUyNTU0MzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "",
+    "lead_preview": "Alex Preston, critico letterario freelance del New York Times, è stato licenziato il 3 aprile 2026 dopo aver pubblicato ",
+    "tags": [
+      "caso alex preston",
+      "new york times",
+      "intelligenza artificiale"
+    ]
+  },
+  {
     "id": "c304985c682efb1c",
     "slug": "calcio-lecco-batte-lr-vicenza-2-0-doppietta-di-bia-c304985c682efb1c",
     "title": "Calcio: Lecco batte L.R. Vicenza 2-0, doppietta di Bianconi e Marconi",
@@ -1152,24 +1170,6 @@
       "esondazione cervaro",
       "alluvione borgo incoronata",
       "fiume cervaro esondato"
-    ]
-  },
-  {
-    "id": "53977625940fbf5a",
-    "slug": "new-york-times-licenzia-giornalista-per-recensione-53977625940fbf5a",
-    "title": "Il New York Times licenzia critico Alex Preston per recensione scritta con IA",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-04-03T11:05:18.092555+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1556073498-c13d8df9c474?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxBbGV4JTIwUHJlc3RvbnxlbnwwfDB8fHwxNzc1MjIzOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "NEW YORK TIMES LICENZIA GIURNALISTA PER RECENSIONE GENERATA DA IA",
-    "lead_preview": "Alex Preston, critico letterario freelance collaboratore del New York Times, è stato licenziato il 3 aprile 2026 dopo ch",
-    "tags": [
-      "licenziamento alex preston",
-      "recensione ia new york times",
-      "giornalismo e intelligenza artificiale"
     ]
   },
   {
