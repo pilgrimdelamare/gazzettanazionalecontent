@@ -1,5 +1,23 @@
 [
   {
+    "id": "9f4c7befec85f5d5",
+    "slug": "iran-rivendica-secondo-abbattimento-di-caccia-usa-9f4c7befec85f5d5",
+    "title": "Iran rivendica secondo abbattimento di caccia usa f-35",
+    "section": "esteri",
+    "priority": 6,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-03T06:17:21.520373+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2024/4/14/38f9f6378d208f9315c680fe03e16543.jpg",
+    "occhiello": "IRAN RIVENDICA SECONDO ABBATTIMENTO DI CACCIA USA F-35",
+    "lead_preview": "Media iraniani hanno annunciato oggi, 3 aprile 2026, l'abbattimento di un secondo caccia statunitense F-35. Secondo quan",
+    "tags": [
+      "abbattimento f-35",
+      "iran usa",
+      "teheran caccia"
+    ]
+  },
+  {
     "id": "b7dade2d39ac0980",
     "slug": "contrattor-con-le-chain-saws-identificato-b7dade2d39ac0980",
     "title": "Contrattor con le chain saws identificato",
@@ -8535,23 +8553,6 @@
       "inflazione australia",
       "chalmers",
       "economia australiana"
-    ]
-  },
-  {
-    "id": "a282a0852dbd2c9f",
-    "slug": "starmer-lancia-campagna-elettorale-sul-costo-della-a282a0852dbd2c9f",
-    "title": "Starmer lancia campagna elettorale a Londra contro il caro vita",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-03-29T21:45:59.198624+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/36100303/pexels-photo-36100303.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "STARMER LANCIANA CAMPAGNA ELETTORALE SUL COSTO DELLA VITA",
-    "lead_preview": "Keir Starmer, il premier britannico, lancia la sua campagna elettorale locale martedì prossimo a Londra, puntando il dit",
-    "tags": [
-      "caro vita uk",
-      "campagna starmer"
     ]
   }
 ]
