@@ -1,5 +1,22 @@
 [
   {
+    "id": "96e5b825481b4df1",
+    "slug": "antonio-esposito-in-rianimazione-dopo-aggressione-96e5b825481b4df1",
+    "title": "Antonio Esposito in rianimazione dopo aggressione con spranga a Avellino",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-04-03T10:17:36.712529+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2023/10/9/ae91df31f49ba18366e5471df5400174.jpg",
+    "occhiello": "AGGRESSIONE A COLPI DI SPRANGA AD AVELLINO",
+    "lead_preview": "Antonio Esposito, 41 anni, è stato ricoverato in rianimazione all’ospedale San Giuseppe Moscati di Avellino dopo essere ",
+    "tags": [
+      "aggressione avellino",
+      "caso antonio esposito"
+    ]
+  },
+  {
     "id": "96d202433c770fde",
     "slug": "gaia-de-laurentiis-minaccia-un-ceffone-alla-figlia-96d202433c770fde",
     "title": "Gaia De Laurentiis minaccia un ceffone alla figlia Agnese a Pechino Express, lei sfida: 'Dammelo!'",
@@ -8575,22 +8592,6 @@
       "usa vs minnesota",
       "atleti trans",
       "processo giustizia"
-    ]
-  },
-  {
-    "id": "f9a302d49d6ddc0d",
-    "slug": "121-milioni-di-contratti-auto-coinvolti-nello-scan-f9a302d49d6ddc0d",
-    "title": "12,1 milioni di contratti auto coinvolti nello scandalo finanziario UK",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-03-30T22:53:17.090538+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1654574111854-be9994f3c265?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxGaW5hbmNpYWwlMjBDb25kdWN0JTIwQXV0aG9yaXR5fGVufDB8MHx8fDE3NzQ5MTg5MTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "SCANDALO FINANZIARIO UK: 12 MILIONI DI CONTRATTI AUTO COLPITI",
-    "lead_preview": "La Financial Conduct Authority (FCA) ha ridotto da 14 milioni a 12,1 milioni il numero di contratti di finanziamento aut",
-    "tags": [
-      "scandalo finanziario uk"
     ]
   }
 ]
