@@ -1,5 +1,23 @@
 [
   {
+    "id": "6f4d7ede450b7efd",
+    "slug": "luca-lucci-ex-capo-ultra-condannato-a-18-anni-per-6f4d7ede450b7efd",
+    "title": "Luca Lucci, ex capo ultrà, condannato a 18 anni per traffico di droga a Milano",
+    "section": "giustizia",
+    "priority": 6,
+    "journalist_firma": "Silvia Greco",
+    "published_at": "2026-04-03T10:16:30.978383+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2024/10/17/4031933e05239e0964d4cfbf403c8ae5.jpg",
+    "occhiello": "18 ANNI E 8 MESI A LUCA LUCCI",
+    "lead_preview": "Luca Lucci, ex capo ultrà, è stato condannato a 18 anni e 8 mesi di reclusione dal gup di Milano il 3 aprile 2026 nel pr",
+    "tags": [
+      "processo lucci",
+      "narcotraffico milano",
+      "ex capo ultrà"
+    ]
+  },
+  {
     "id": "f278f2979ca7ecb2",
     "slug": "corte-di-cassazione-prescrive-omicidio-colposo-per-f278f2979ca7ecb2",
     "title": "Corte di Cassazione prescrive omicidio colposo per due ufficiali della Guardia Costiera nel naufragio di Lampedusa del 2",
@@ -8573,24 +8591,6 @@
       "haaland",
       "calcio",
       "ritiro nazionale"
-    ]
-  },
-  {
-    "id": "40336afc724bce8c",
-    "slug": "calcio-montella-guida-turchia-40336afc724bce8c",
-    "title": "Calcio: Montella sfida Serbia e Irlanda del Nord per la qualificazione",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-03-30T22:43:42.080625+00:00",
-    "image_type": "flickr",
-    "image_url": "https://live.staticflickr.com/65535/55173743333_252b7149da_b.jpg",
-    "occhiello": "TURCHIA VS MONDIALI: MONTALLA GUIDA LA SFIDA",
-    "lead_preview": "Vincent Montella ha parlato lunedì 30 marzo 2026 della sfida della Turchia per qualificarsi ai Mondiali, dopo 24 ore di ",
-    "tags": [
-      "calcio turchia",
-      "mondiali turchia",
-      "montella turchia"
     ]
   }
 ]
