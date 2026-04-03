@@ -1,5 +1,19 @@
 [
   {
+    "id": "39046a6c49348dde",
+    "slug": "zapata-fuori-il-torino-perde-il-bomber-e-il-bilanc-39046a6c49348dde",
+    "title": "Zapata fuori, il torino perde il bomber e il bilancio",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-03T17:13:26.610856+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/13/042b4ee2dd28c1f23314faf727342456.jpg",
+    "occhiello": "ZAPATA FUORI, IL TORINO PERDE IL BOMBER E IL BILANCIO",
+    "lead_preview": "Duvan Zapata, attaccante titolare del Torino, è costretto a fermarsi per un infortunio muscolare alla coscia. La notizia",
+    "tags": []
+  },
+  {
     "id": "92ab6dec43e1c38c",
     "slug": "padalino-italia-va-cambiato-il-momento-92ab6dec43e1c38c",
     "title": "Padalino: \"va cambiato il momento, non solo le persone\"",
@@ -8526,23 +8540,6 @@
       "aeroporto trump",
       "desantis trump",
       "trump florida"
-    ]
-  },
-  {
-    "id": "545bf729edf4b2c2",
-    "slug": "furto-dei-mirabilia-al-museo-di-parm-545bf729edf4b2c2",
-    "title": "Quattro ladri rubano 9 milioni di euro di arte a Traversetolo",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-03-31T01:17:18.732836+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/36539811/pexels-photo-36539811.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "FURTO AL MUSEO DI FONDAZIONE MAGNANI-ROCCA",
-    "lead_preview": "Quattro ladri hanno rubato tre dipinti di Renoir, Matisse e Cézanne al museo di Fondazione Magnani-Rocca a Traversetolo,",
-    "tags": [
-      "furto al museo",
-      "fondazione magnani-rocca"
     ]
   }
 ]
