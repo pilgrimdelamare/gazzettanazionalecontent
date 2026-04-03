@@ -1,57 +1,54 @@
 {
   "id": "b2b923b93bdcdb4b",
   "slug": "trump-vs-repubblicani-sul-pullout-dallotan-b2b923b93bdcdb4b",
-  "title": "Trump vs repubblicani sul pullout dall'otan: la tensione sale",
+  "title": "Tensione tra Trump e repubblicani sale al 33% di consenso",
   "titles": [
-    "TRUMP VS REPUBBLICANI SUL PULLOUT DALL'OTAN: LA TENSIONE SALE",
-    "TRUMP VS REPUBBLICANI SUL PULLOUT DALL'OTAN: LA TENSIONE SALE",
-    "TRUMP VS REPUBBLICANI SUL PULLOUT DALL'OTAN: LA TENSIONE SALE"
+    "Tensione tra Trump e repubblicani sale al 33% di consenso",
+    "Trump sotto tiro dagli influencer della sua base",
+    "La presidenza di Trump: un ritiro da OTAN da non più procrastinare"
   ],
   "title_winner": null,
   "section": "esteri",
-  "occhiello": "TRUMP VS REPUBBLICANI SUL PULLOUT DALL'OTAN: LA TENSIONE SALE",
-  "lead": "La tensione tra Trump e i repubblicani sull'eventuale ritiro degli Stati Uniti dall'Organizzazione del Trattato del Nord Atlantico sale a livelli record. Secondo i sondaggi, il presidente Donald Trump ha raggiunto il 33% di popolarità, il minimo storico.",
-  "corpo1": "Del tycoon, Massimo Basile, su Twitter, come riportato da Massimo Basile. Altri sostenitori di Trump hanno seguito il suo esempio, invitando i repubblicani a prendere le distanze dal presidente in vista delle elezioni di midterm di novembre. Secondo i sondaggi, il presidente Donald Trump ha raggiunto il 33% di popolarità, il minimo storico.. La tensione tra Trump e i repubblicani è aumentata anche a causa del ritiro degli Stati Uniti dall'Organizzazione del Trattato del Nord Atlantico, che Trump ha annunciato nel febbraio",
-  "corpo2": "Scorso. Secondo il comunicato del ministero della Difesa, come riportato dal ministero, il ritiro degli Stati Uniti dall'OTAN è \"una decisione strategica per garantire la sicurezza nazionale degli Stati Uniti\". Tuttavia, molti repubblicani hanno espresso preoccupazione per la decisione di Trump, sottolineando che l'OTAN è un'alleanza fondamentale per la sicurezza europea e che Trump sta ignorando questo fatto. Trump, il 47º presidente degli Stati Uniti, è noto per le sue decisioni impulsive e le sue dichiarazioni polemiche. Tuttavia, la sua decisione di ritirare gli Stati Uniti dall'OTAN è una mossa significativa, che potrebbe avere conseguenze importanti per la sicurezza europea e per la politica internazionale. La notizia del ritiro degli Stati Uniti dall'OTAN è stata accolta con preoccupazione da molti leader europei, che hanno sottolineato l'importanza dell'alleanza per la sicurezza del continente, che hanno sottolineato l'importanza dell'alleanza per la sicurezza del continente. La decisione di Trump potrebbe anche avere conseguenze per le elezioni di midterm di novembre, dove i repubblicani potrebbero subire una sconfitta significativa a causa della populista politica di Trump, dove i repubblicani potrebbero subire una sconfitta significativa a causa della populista politica di Trump. A pagare saranno i soliti noti: chi non può permettersi di non pagarlo.",
+  "occhiello": "TRUMP VS REPUBBLICANI: LA TENSIONE SALE SUL PULLOUT DALL'OTAN",
+  "lead": "Il presidente americano Donald Trump è al centro di una nuova sfida con i repubblicani sull'eventuale ritiro degli Stati Uniti dall'Organizzazione del Trattato del Nord. La tensione sale dopo che i sostenitori di Trump hanno iniziato a scaricarlo in vista delle Elezioni di midterm di novembre.",
+  "corpo1": "La tensione tra Trump e i repubblicani sull'eventuale ritiro degli Stati Uniti dall'Organizzazione del Trattato del Nord (OTAN) sta salendo dopo che influencer e sostenitori del tycoon hanno iniziato a scaricarlo in vista delle elezioni di midterm di novembre, citando un declino mentale e sondaggi che lo danno al 33%. Secondo La Repubblica, gli influencer della galassia Maga hanno iniziato a criticare il presidente per la sua presunta \"declinazione mentale\". I sondaggi citati lo danno al minimo storico del 33% di consenso tra i repubblicani.\n\nSecondo Wikipedia, Donald Trump è stato il 45º presidente degli Stati Uniti d'America dal 2017 al 2021 e torna a ricoprire la carica dal 2025. La sua presidenza è stata caratterizzata da una Serie di decisioni controverse, tra cui la decisione di ritirare gli Stati Uniti dall'Accordo di Parigi sul clima.\n\nI repubblicani stanno iniziando a prendere le distanze da Trump, che sta aumentando la tensione nella sua base elettorale. Non esiste un comunicato ufficiale del Partito Repubblicano: la presa di distanza viene da singoli sostenitori e influencer, non da una posizione istituzionale.",
+  "corpo2": "Il problema di Trump non è solo la sua presunta declinazione mentale, ma anche la sua strategia isolazionista che minaccia l'alleanza atlantica. Il ritiro dall'Accordo di Parigi sul clima, già avvenuto nel suo primo mandato, torna a pesare come simbolo della sua rottura con i repubblicani tradizionali e con l'Europa.\n\nLa parabola di Trump è un esempio di come la politica sia diventata una macchina di consenso basata su personalismo e crisi. La sua ascesa al potere è stata segnata da una Serie di mossa controverse e la sua presidenza è stata caratterizzata da una Serie di decisioni controverse che hanno aumentato la tensione nella sua base elettorale.\n\nLa tensione tra Trump e i repubblicani continuerà a salire, e a pagare il prezzo saranno l'unità del partito e la stabilità dell'alleanza atlantica.",
   "journalist": {
-    "id": "fabrizio_mei_01",
-    "firma": "Fabrizio Mei",
+    "id": "anna_colombo_01",
+    "firma": "Anna Colombo",
     "sezione": "esteri"
   },
   "published_at": "2026-04-02T16:04:28.494935+00:00",
   "image": {
-    "type": "unsplash",
-    "url": "https://images.unsplash.com/photo-1550531996-ff3dcede9477?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxEb25hbGQlMjBUcnVtcHxlbnwwfDB8fHwxNzc1MTU2MzQ2fDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "source": "Unsplash",
-    "credit": "History in HD",
-    "license": "Unsplash License"
+    "type": "none",
+    "source": ""
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"TRUMP VS REPUBBLICANI SUL PULLOUT DALL'OTAN: LA TENSIONE SALE\",\n  \"description\": \"La tensione tra Trump e i repubblicani sull'eventuale ritiro degli Stati Uniti dall'Organizzazione del Trattato del Nord Atlantico sale a livelli record. Secondo i sondaggi, il presidente Donald Trump ha raggiunto il 33% di popolarità, il minimo storico.\",\n  \"articleBody\": \"La tensione tra Trump e i repubblicani sull'eventuale ritiro degli Stati Uniti dall'Organizzazione del Trattato del Nord Atlantico sale a livelli record. Secondo i sondaggi, il presidente Donald Trump ha raggiunto il 33% di popolarità, il minimo storico. Del tycoon, Massimo Basile, su Twitter, come riportato da Massimo Basile. Altri sostenitori di Trump hanno seguito il suo esempio, invitando i repubblicani a prendere le distanze dal presidente in vista delle elezioni di midterm di novembre. Secondo i sondaggi, il presidente Donald Trump ha raggiunto il 33% di popolarità, il minimo storico.. La tensione tra Trump e i repubblicani è aumentata anche a causa del ritiro degli Stati Uniti dall'Organizzazione del Trattato del Nord Atlantico, che Trump ha annunciato nel febbraio Scorso. Secondo il comunicato del ministero della Difesa, come riportato dal ministero, il ritiro degli Stati Uniti dall'OTAN è \\\"una decisione strategica per garantire la sicurezza nazionale degli Stati Uniti\\\". Tuttavia, molti repubblicani hanno espresso preoccupazione per la decisione di Trump, sottolineando che l'OTAN è un'alleanza fondamentale per la sicurezza europea e che Trump sta ignorando questo fatto. Trump, il 47º presidente degli Stati Uniti, è noto per le sue decisioni impulsive e le sue dichiarazioni polemiche. Tuttavia, la sua decisione di ritirare gli Stati Uniti dall'OTAN è una mossa significativa, che potrebbe avere conseguenze importanti per la sicurezza europea e per la politica internazionale. La notizia del ritiro degli Stati Uniti dall'OTAN è stata accolta con preoccupazione da molti leader europei, che hanno sottolineato l'importanza dell'alleanza per la sicurezza del continente, che hanno sottolineato l'importanza dell'alleanza per la sicurezza del continente. La decisione di Trump potrebbe anche avere conseguenze per le elezioni di midterm di novembre, dove i repubblicani potrebbero subire una sconfitta significativa a causa della populista politica di Trump, dove i repubblicani potrebbero subire una sconfitta significativa a causa della populista politica di Trump. A pagare saranno i soliti noti: chi non può permettersi di non pagarlo.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Fabrizio Mei\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-02T16:04:28.494935+00:00\",\n  \"dateModified\": \"2026-04-02T16:04:28.494935+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/b2b923b93bdcdb4b\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/b2b923b93bdcdb4b\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1550531996-ff3dcede9477?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxEb25hbGQlMjBUcnVtcHxlbnwwfDB8fHwxNzc1MTU2MzQ2fDA&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"History in HD\"\n  }\n}",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Tensione tra Trump e repubblicani sale al 33% di consenso\",\n  \"description\": \"Il presidente americano Donald Trump è al centro di una nuova sfida con i repubblicani sull'eventuale ritiro degli Stati Uniti dall'Organizzazione del Trattato del Nord. La tensione sale dopo che i sostenitori di Trump hanno iniziato a scaricarlo in vista delle Elezioni di midterm di novembre.\",\n  \"articleBody\": \"Il presidente americano Donald Trump è al centro di una nuova sfida con i repubblicani sull'eventuale ritiro degli Stati Uniti dall'Organizzazione del Trattato del Nord. La tensione sale dopo che i sostenitori di Trump hanno iniziato a scaricarlo in vista delle Elezioni di midterm di novembre. La tensione tra Trump e i repubblicani sull'eventuale ritiro degli Stati Uniti dall'Organizzazione del Trattato del Nord (OTAN) sta salendo dopo che influencer e sostenitori del tycoon hanno iniziato a scaricarlo in vista delle elezioni di midterm di novembre, citando un declino mentale e sondaggi che lo danno al 33%. Secondo La Repubblica, gli influencer della galassia Maga hanno iniziato a criticare il presidente per la sua presunta \\\"declinazione mentale\\\". I sondaggi citati lo danno al minimo storico del 33% di consenso tra i repubblicani.\\n\\nSecondo Wikipedia, Donald Trump è stato il 45º presidente degli Stati Uniti d'America dal 2017 al 2021 e torna a ricoprire la carica dal 2025. La sua presidenza è stata caratterizzata da una Serie di decisioni controverse, tra cui la decisione di ritirare gli Stati Uniti dall'Accordo di Parigi sul clima.\\n\\nI repubblicani stanno iniziando a prendere le distanze da Trump, che sta aumentando la tensione nella sua base elettorale. Non esiste un comunicato ufficiale del Partito Repubblicano: la presa di distanza viene da singoli sostenitori e influencer, non da una posizione istituzionale. Il problema di Trump non è solo la sua presunta declinazione mentale, ma anche la sua strategia isolazionista che minaccia l'alleanza atlantica. Il ritiro dall'Accordo di Parigi sul clima, già avvenuto nel suo primo mandato, torna a pesare come simbolo della sua rottura con i repubblicani tradizionali e con l'Europa.\\n\\nLa parabola di Trump è un esempio di come la politica sia diventata una macchina di consenso basata su personalismo e crisi. La sua ascesa al potere è stata segnata da una Serie di mossa controverse e la sua presidenza è stata caratterizzata da una Serie di decisioni controverse che hanno aumentato la tensione nella sua base elettorale.\\n\\nLa tensione tra Trump e i repubblicani continuerà a salire, e a pagare il prezzo saranno l'unità del partito e la stabilità dell'alleanza atlantica.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-02T16:04:28.494935+00:00\",\n  \"dateModified\": \"2026-04-02T16:04:28.494935+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/b2b923b93bdcdb4b\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/b2b923b93bdcdb4b\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
   "priority": 5,
   "source": "refresh",
   "source_type": "refresh",
   "original_url": "https://lentemattutina.it/esteri/trump-vs-repubblicani-sul-pullout-dallotan-b2b923b93bdcdb4b",
   "related": [
     {
-      "title": "Maga abbandona trump al 33%",
-      "url": "/esteri/trump-33-di-approvazione-e-il-minimo-storico-51b64181dd0162bb",
-      "id": "51b64181dd0162bb",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Make_America_Hate_Again%3F_%2843833787901%29.jpg/1280px-Make_America_Hate_Again%3F_%2843833787901%29.jpg",
+      "title": "Trump annuncia fine della guerra in Iran, ma la verità è altra",
+      "url": "/esteri/trump-guerra-in-iran-quasi-completata-5c343af1a982983f",
+      "id": "5c343af1a982983f",
+      "image_url": "https://live.staticflickr.com/65535/55174573676_2f4e63de26_b.jpg",
+      "image_type": "flickr"
+    },
+    {
+      "title": "Trump Jr e Eric vendono 17mila droni ai Paesi del Golfo per 5 miliardi",
+      "url": "/esteri/trump-jr-e-eric-vendono-17mila-droni-ai-paesi-del-ba9a4681188d350c",
+      "id": "ba9a4681188d350c",
+      "image_url": "https://i.guim.co.uk/img/media/89c1a7266516e598962dfba897a40f829c532b23/396_155_4468_3575/master/4468.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4c832db62c6b5d40a0081ccceaeab2cc",
       "image_type": "image"
     },
     {
-      "title": "Trump chiede il ritiro dell'Iran dallo Stretto di Hormuz per il cessate il fuoco",
-      "url": "/esteri/liran-chiede-cessate-il-fuoco-a-trump-la-proposta-ae34d99048e98bf0",
-      "id": "ae34d99048e98bf0",
-      "image_url": "",
-      "image_type": "none"
-    },
-    {
-      "title": "Trump scarica sui 35 paesi la difesa di Hormuz: «La NATO non mi serve più»",
-      "url": "/esteri/trump-prendete-il-petrolio-di-hormuz-se-lo-prenda-0db81c64e8208e4c",
-      "id": "0db81c64e8208e4c",
-      "image_url": "https://cdn.britannica.com/18/273318-050-9DE2F788/President-Donald-J-Trump-portrait-2025.jpg",
-      "image_type": "ddg_image"
+      "title": "Trump, indice di approvazione al 33% tra gli elettori MAGA",
+      "url": "/esteri/trump-33-di-approvazione-e-il-minimo-storico-51b64181dd0162bb",
+      "id": "51b64181dd0162bb",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Maga_-_Contempopranea_2010_%284928412461%29.jpg",
+      "image_type": "wikimedia"
     }
   ],
   "updated_at": "2026-04-02T16:04:28.494935+00:00"
