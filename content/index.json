@@ -1,5 +1,23 @@
 [
   {
+    "id": "f590e051626f8cf9",
+    "slug": "trump-contro-macron-f590e051626f8cf9",
+    "title": "Macron replica a Trump dopo l'attacco verbale sugli equilibri internazionali",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-04-02T23:38:36.936570+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1719923486445-3fd637dac98b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHx0cnVtcCUyMGZsb29kfGVufDB8MHx8fDE3NzUxODE2NjB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "TRUMP CONTRO MACRON: L'IMBROGLIO",
+    "lead_preview": "Emmanuel Macron, presidente della Repubblica francese, risponde agli attacchi di Donald Trump, 47º presidente degli Stat",
+    "tags": [
+      "macron trump",
+      "diplomazia franco-americana",
+      "tensioni internazionali"
+    ]
+  },
+  {
     "id": "172025ee47a813cc",
     "slug": "calcio-gotze-rinnova-con-eintracht-francoforte-fin-172025ee47a813cc",
     "title": "Gotze rinnova a Frankfurt fino al 2028",
@@ -540,22 +558,6 @@
       "rientro pulisic",
       "prestazione pulisic",
       "infortunio leao"
-    ]
-  },
-  {
-    "id": "f590e051626f8cf9",
-    "slug": "trump-contro-macron-f590e051626f8cf9",
-    "title": "Trump contro macron",
-    "section": "cronaca",
-    "priority": 4,
-    "journalist_firma": "Chiara Esposito",
-    "published_at": "2026-04-02T23:38:36.936570+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/02/225730024-b8cb36f5-6b53-4ff6-aa85-807f2c703c05.jpg",
-    "occhiello": "TRUMP CONTRO MACRON",
-    "lead_preview": "Emmanuel Macron, presidente della Repubblica francese, ha risposto agli attacchi di donald Trump, tycoon e 47º president",
-    "tags": [
-      "trump contro macron"
     ]
   },
   {
