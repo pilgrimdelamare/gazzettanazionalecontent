@@ -1,5 +1,19 @@
 [
   {
+    "id": "a74d0f31646d9e55",
+    "slug": "gattouso-lascia-litalia-con-il-dolore-nel-cuore-a74d0f31646d9e55",
+    "title": "Gattouso lascia l'italia, con il dolore nel cuore",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-03T12:23:41.030204+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/26/cec809bb9d385db60bf905df46d92252.jpg",
+    "occhiello": "GATTOUSO LASCIA L'ITALIA, CON IL DOLORE NEL CUORE",
+    "lead_preview": "Il ct Gennaro Gattuso ha ufficialmente lasciato la guida della nazionale italiana, a fronte di un contratto risolto cons",
+    "tags": []
+  },
+  {
     "id": "f278f2979ca7ecb2",
     "slug": "corte-di-cassazione-prescrive-omicidio-colposo-per-f278f2979ca7ecb2",
     "title": "Cassazione archivia inchiesta su omicidio colposo Guardia Costiera",
@@ -8508,24 +8522,6 @@
       "attacco libano",
       "caschi blu uccisi",
       "unifil libano"
-    ]
-  },
-  {
-    "id": "7bf44a5012203b8a",
-    "slug": "coppola-intercettato-con-clan-dalessandro-7bf44a5012203b8a",
-    "title": "Massimo Coppola intercettato con esponente del clan D'Alessandro",
-    "section": "giustizia",
-    "priority": 5,
-    "journalist_firma": "Carlo Amato",
-    "published_at": "2026-03-30T22:48:08.703511+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1666172155686-67cfcabe32de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxoYW5kY3VmZnMlMjBhcnJlc3R8ZW58MHwwfHx8MTc3NDkyMTkzNXww&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "INTERCETTATO CON CLAN D'ALESSANDRO",
-    "lead_preview": "Massimo Coppola, ex sindaco di Sorrento, è stato intercettato dalla commissione prefettizia d'accesso mentre parlava con",
-    "tags": [
-      "massimo coppola",
-      "clan d'alessandro",
-      "sorrento"
     ]
   }
 ]
