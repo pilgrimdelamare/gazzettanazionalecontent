@@ -1,5 +1,23 @@
 [
   {
+    "id": "5804a7a7308333b3",
+    "slug": "reggio-calabria-uomo-condannato-a-15-anni-e-6-mesi-5804a7a7308333b3",
+    "title": "Reggio Calabria, uomo condannato a 15 anni e 6 mesi per omicidio di un ladro in casa",
+    "section": "giustizia",
+    "priority": 6,
+    "journalist_firma": "Carlo Amato",
+    "published_at": "2026-04-03T17:43:30.667865+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/12/4/4a4a4636fa8956de5bb2bee920a76f0d.jpg",
+    "occhiello": "CONDANNATO A 15 ANNI E 6 MESI PER OMICIDIO VOLONTARIO",
+    "lead_preview": "Il 3 aprile 2026, la Corte d'assise di Reggio Calabria ha condannato un uomo a 15 anni e 6 mesi di prigione per omicidio",
+    "tags": [
+      "omicidio reggio calabria",
+      "omicidio in casa",
+      "processo ladro ucciso"
+    ]
+  },
+  {
     "id": "4ab545e3a211b192",
     "slug": "cacciato-lancia-futurare-su-ilfattoquotidianoit-ta-4ab545e3a211b192",
     "title": "Futurare debutta su il fatto quotidiano",
@@ -8533,24 +8551,6 @@
     "tags": [
       "guerra ucraina",
       "tregua pasquale"
-    ]
-  },
-  {
-    "id": "99ec7869c3090771",
-    "slug": "desantis-ribatte-a-trump-aeroporto-di-palm-beach-o-99ec7869c3090771",
-    "title": "Desantis firma legge: aeroporto Palm Beach ribattezzato 'Trump'",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-03-31T01:32:49.625500+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/33836963/pexels-photo-33836963.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "AEROPORTO RINOMINATO",
-    "lead_preview": "Ron desantis, governatore della florida, ha firmato un disegno di legge che prevede di rinominare l'aeroporto di Palm Be",
-    "tags": [
-      "aeroporto trump",
-      "desantis trump",
-      "trump florida"
     ]
   }
 ]
