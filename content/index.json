@@ -1,5 +1,23 @@
 [
   {
+    "id": "c651d9b41789870d",
+    "slug": "macron-lancia-coalizione-anti-usa-e-cina-c651d9b41789870d",
+    "title": "Macron lancia coalizione europa-giappone",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-03T11:12:51.551102+00:00",
+    "image_type": "wikimedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Emmanuel_Macron%2C_2017.06.22_%2808%29.jpg",
+    "occhiello": "MACRON LANCIA COALIZIONE EUROPA-GIAPPONE",
+    "lead_preview": "Emmanuel Macron ha proposto venerdì 3 aprile 2026 la formazione di una \"coalizione di indipendenti\" tra Europa e Giappon",
+    "tags": [
+      "coalizione eu-giappone",
+      "macron asia",
+      "nuovo equilibrio potere"
+    ]
+  },
+  {
     "id": "09777a69982ed926",
     "slug": "easyjet-blocchera-la-francia-a-pasqua-24-ore-di-sc-09777a69982ed926",
     "title": "Fondi scomparsi dopo lo sciopero easyjet",
@@ -992,23 +1010,6 @@
     "lead_preview": "Un cavallo imbizzarrito durante un’escursione a Pieve a Salti, nel comune di Montalcino, ha provocato il ferimento di qu",
     "tags": [
       "incidente montalcino"
-    ]
-  },
-  {
-    "id": "c651d9b41789870d",
-    "slug": "macron-lancia-coalizione-anti-usa-e-cina-c651d9b41789870d",
-    "title": "Macron lancia coalizione anti-USA e Cina",
-    "section": "esteri",
-    "priority": 6,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-03T11:12:51.551102+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/3/986febd71c02a7cefb0e570780003efc.jpg",
-    "occhiello": "MACRON LANCIA COALIZIONE DI INDIPENDENTI CONTRO DIPENDENZA DA USA E CINA",
-    "lead_preview": "Emmanuel Macron ha proposto venerdì 3 aprile 2026 la formazione di una \"coalizione di indipendenti\" tra Europa, Giappone",
-    "tags": [
-      "macron coalizione",
-      "europa vs usa cina"
     ]
   },
   {
