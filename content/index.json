@@ -1,5 +1,21 @@
 [
   {
+    "id": "7d89c4482d2c612e",
+    "slug": "netflix-condannata-rimborsare-ai-clienti-fino-a-50-7d89c4482d2c612e",
+    "title": "Netflix condannata: rimborsare ai clienti fino a 500€",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-03T10:33:32.291491+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/8/20/a6cc9ce2c38e654d444beee6688ad281.jpg",
+    "occhiello": "NETFLIX CONDANNATA, I RINCARI SONO ILLEGITTIMI",
+    "lead_preview": "Il tribunale di Roma ha stabilito il 3 aprile che i rincari degli abbonamenti Netflix applicati nel 2022 sono illegittim",
+    "tags": [
+      "condanna netflix"
+    ]
+  },
+  {
     "id": "4150fc86b98e1507",
     "slug": "tentato-femminicidio-arrestato-il-marito-in-fuga-4150fc86b98e1507",
     "title": "Catania, uomo accoltella la moglie 4 volte: arrestato dopo fuga",
@@ -8568,23 +8584,6 @@
       "calcio",
       "italia",
       "europa 2028"
-    ]
-  },
-  {
-    "id": "2c7ac4e150b03a99",
-    "slug": "4-milioni-sprecati-crolla-ancora-la-passerella-cic-2c7ac4e150b03a99",
-    "title": "4 milioni in fumo, passerella ciclopedonale non offre speranza di sicurezza",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-03-30T22:52:11.906520+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1696602806624-3e9875782e0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxjeWNsaW5nJTIwcGF0aCUyMGNvbGxhcHNlJTIwaXRhbHl8ZW58MHwwfHx8MTc3NDkxOTM3N3ww&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "4 MILIARDI SPRECATI SULL'ADDA",
-    "lead_preview": "Un investimento da 4 milioni di euro per una passerella ciclopedonale sull'Adda tra Cremonese e Lodigiano si rivela un f",
-    "tags": [
-      "passerella adda",
-      "incidenti adda"
     ]
   }
 ]
