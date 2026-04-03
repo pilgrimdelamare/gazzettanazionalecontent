@@ -1,5 +1,23 @@
 [
   {
+    "id": "b7dade2d39ac0980",
+    "slug": "contrattor-con-le-chain-saws-identificato-b7dade2d39ac0980",
+    "title": "Ground Control abbattuto quercia secolare a Villa Borghese senza permessi",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-03T06:17:12.191558+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1715524528984-1a5afaaf35ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxSb21lJTIwVmlsbGElMjBCb3JnaGVzZSUyMHBhcmslMjB0cmVlJTIwZmVsbGluZ3xlbnwwfDB8fHwxNzc1MjA2NzAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "",
+    "lead_preview": "Ground Control, il contrattore privato incaricato della manutenzione del Parco di Villa Borghese a Roma, ha abbattuto un",
+    "tags": [
+      "abbattimento quercia villa borghese",
+      "ground control roma",
+      "villetta borghese 2026"
+    ]
+  },
+  {
     "id": "c4305a18cc4569d8",
     "slug": "titolo1-c4305a18cc4569d8",
     "title": "Glass Lewis appoggia il Cda uscente di Mps: riconferma in vista per Fiorentino e Casini",
@@ -524,20 +542,6 @@
       "iran usa",
       "teheran caccia"
     ]
-  },
-  {
-    "id": "b7dade2d39ac0980",
-    "slug": "contrattor-con-le-chain-saws-identificato-b7dade2d39ac0980",
-    "title": "Contrattor con le chain saws identificato",
-    "section": "esteri",
-    "priority": 4,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-03T06:17:12.191558+00:00",
-    "image_type": "image",
-    "image_url": "https://i.guim.co.uk/img/media/a5aac51cd9ed6db3c1a9ded6cad1fa5df0c80919/745_0_6305_5044/master/6305.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e169caa16c54cf90aef2761e7b6a2601",
-    "occhiello": "CONTRATTOR CON LE CHAIN SAWS IDENTIFICATO",
-    "lead_preview": "Ground Control, il misterioso appaltatore che ha usato le motoseghe per tagliare un'antica quercia di 500 anni nel parco",
-    "tags": []
   },
   {
     "id": "fe344dac1b2c45cf",
