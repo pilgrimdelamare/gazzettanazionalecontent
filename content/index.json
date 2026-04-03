@@ -1,5 +1,19 @@
 [
   {
+    "id": "e2e337f710789dc8",
+    "slug": "8bitdo-lancia-ap50-tastiera-vintage-per-i-50-anni-e2e337f710789dc8",
+    "title": "8bitdo lancia ap50, tastiera vintage per i 50 anni di Apple",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-04-03T15:00:22.443168+00:00",
+    "image_type": "image",
+    "image_url": "https://media-assets.wired.it/photos/69cfbf38b461a3922a5fb8f4/16:9/w_1280,c_limit/tastiera%208bitdo%20ap50.png",
+    "occhiello": "8BITDO OMAGGIA I 50 ANNI DI APPLE",
+    "lead_preview": "Diego Barbera, il 3 aprile 2026, ha annunciato la presentazione di 8bitdo ap50, una versione speciale della tastiera Ret",
+    "tags": []
+  },
+  {
     "id": "4e424a12471914e6",
     "slug": "cassazione-no-compenso-per-lamministratore-di-cond-4e424a12471914e6",
     "title": "Cassazione: no compenso per l'amministratore di condominio se il mandato non viene rinnovato",
@@ -8506,24 +8520,6 @@
     "lead_preview": "Il Portogallo ha autorizzato il passaggio dei droni Reaper da una base militare nelle Azzorre, a metà strada tra l'Europ",
     "tags": [
       "droni reaper azzorre"
-    ]
-  },
-  {
-    "id": "7a52fa02dc3ebd34",
-    "slug": "jackie-henderson-chiede-822-milioni-per-licenziame-7a52fa02dc3ebd34",
-    "title": "Jackie Henderson chiede 82,2 milioni di dollari per il licenziamento",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-03-31T00:15:53.745055+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Jackie_O_HS_sunny_jeh.jpg",
-    "occhiello": "GIACCIATORE RADIOFONICA CHIEDE 82 MILIARDI DI DOLLARI",
-    "lead_preview": "Jackie Henderson, co-presentatrice della popolare trasmissione radiofonica \"Kyle and Jackie O Show\" con Kyle Sandilands,",
-    "tags": [
-      "jackie henderson",
-      "kyle and jackie o show",
-      "licenziamento kiis"
     ]
   }
 ]
