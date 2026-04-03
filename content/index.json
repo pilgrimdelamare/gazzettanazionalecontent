@@ -1,5 +1,22 @@
 [
   {
+    "id": "ea6e37ef62f61f8c",
+    "slug": "sandro-veronesi-esce-caducita-raccolta-completa-de-ea6e37ef62f61f8c",
+    "title": "Caducità dei fondi",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-03T11:10:01.179613+00:00",
+    "image_type": "wikimedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Sandro_Veronesi%2C_2010.jpg",
+    "occhiello": "CADUCITÀ DEI FONDI",
+    "lead_preview": "Sandro Veronesi pubblica la raccolta completa dei suoi racconti, 'caducità', per la casa editrice Nave di Teseo. Il volu",
+    "tags": [
+      "sandro veronesi",
+      "libro caducità"
+    ]
+  },
+  {
     "id": "da61d35eec548b3b",
     "slug": "sindacati-bancari-chiedono-518-euro-al-mese-e-35-o-da61d35eec548b3b",
     "title": "Sindaci bancari: +518 euro e 10 euro bonus pasto",
@@ -1027,23 +1044,6 @@
     "lead_preview": "Un cavallo imbizzarrito durante un’escursione a Pieve a Salti, nel comune di Montalcino, ha provocato il ferimento di qu",
     "tags": [
       "incidente montalcino"
-    ]
-  },
-  {
-    "id": "ea6e37ef62f61f8c",
-    "slug": "sandro-veronesi-esce-caducita-raccolta-completa-de-ea6e37ef62f61f8c",
-    "title": "Sandro Veronesi: esce 'Caducità', raccolta completa dei racconti",
-    "section": "cultura",
-    "priority": 6,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-03T11:10:01.179613+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/3/3b87b3a5a88c9812b193fee8ef4abac7.jpg",
-    "occhiello": "VERONESI TORNA AI RACCONTI CON UN INEDITO",
-    "lead_preview": "Sandro Veronesi pubblica la raccolta completa dei suoi racconti, 'caducità', per la nave di Teseo. Il volume, che includ",
-    "tags": [
-      "sandro veronesi",
-      "caducità"
     ]
   },
   {
