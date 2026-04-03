@@ -1,5 +1,19 @@
 [
   {
+    "id": "09777a69982ed926",
+    "slug": "easyjet-blocchera-la-francia-a-pasqua-24-ore-di-sc-09777a69982ed926",
+    "title": "Easyjet bloccherà la francia a pasqua: 24 ore di sciopero",
+    "section": "esteri",
+    "priority": 4,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-03T11:17:35.070657+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/25287928/pexels-photo-25287928.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "EASYJET BLOCCHERÀ LA FRANCIA A PASQUA: 24 ORE DI SCIOPERO",
+    "lead_preview": "Un sindacato francese del personale di volo di EasyJet ha proclamato uno sciopero di 24 ore per lunedì 6 aprile 2026, Pa",
+    "tags": []
+  },
+  {
     "id": "bddae71cb54a4a1d",
     "slug": "quattro-feriti-in-unescursione-a-cavallo-a-pieve-a-bddae71cb54a4a1d",
     "title": "Quattro feriti in un'escursione a cavallo a Pieve a Salti",
@@ -8539,24 +8553,6 @@
     "tags": [
       "ascoliave",
       "azienda energetica"
-    ]
-  },
-  {
-    "id": "e068adf9db7f51ed",
-    "slug": "marco-landi-lingegnere-di-chianciano-che-riporto-s-e068adf9db7f51ed",
-    "title": "L'ingegnere italiano che riportò Steve Jobs ad Apple",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-03-30T23:31:51.239333+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1690732989446-6137fc01e67b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxBcHBsZSUyMGNvcnBvcmF0ZSUyMG1lZXRpbmd8ZW58MHwwfHx8MTc3NDkyMDkzOXww&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "APPLE, LA MELA TENTATRICE CHE HA CAMBIATO IL MONDO",
-    "lead_preview": "Marco Landi, ingegnere di Chianciano, è stato presidente di Apple tra il 1995 e il 1997. È stato lui a riportare Steve J",
-    "tags": [
-      "apple",
-      "steve jobs",
-      "marco landi"
     ]
   }
 ]
