@@ -1,5 +1,21 @@
 [
   {
+    "id": "5bbf96bb46059ce7",
+    "slug": "genova-19enne-accoltellato-in-via-xx-settembre-2-f-5bbf96bb46059ce7",
+    "title": "Genova, 2 arresti per tentato omicidio in via XX Settembre",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-04-03T09:47:27.486433+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1772617616218-79f9bef1279d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxnZW5vdmElMjBmbG9vZHxlbnwwfDB8fHwxNzc1MjE4MzU4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "DUE COETANEI FERMATI DOPO STABILIMENTO A GENOVA",
+    "lead_preview": "Genova, 3 aprile 2026. Un diciannovenne è stato accoltellato ieri sera in via XX Settembre. La Squadra Mobile ha arresta",
+    "tags": [
+      "aggressione genova"
+    ]
+  },
+  {
     "id": "4e1c1eb9a567fd5b",
     "slug": "bridey-sotto-processo-a-creteil-per-145mila-euro-d-4e1c1eb9a567fd5b",
     "title": "Bridey spesa 145 mila euro in spa e abiti",
@@ -1287,22 +1303,6 @@
       "scandalo piantedosi",
       "piantedosi prefetti",
       "relazione conte"
-    ]
-  },
-  {
-    "id": "5bbf96bb46059ce7",
-    "slug": "genova-19enne-accoltellato-in-via-xx-settembre-2-f-5bbf96bb46059ce7",
-    "title": "Genova, 19enne accoltellato in via XX Settembre: 2 fermati",
-    "section": "cronaca",
-    "priority": 6,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-04-03T09:47:27.486433+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/24/784cf0b7909eb0e2838f7719a27d5ffd.jpg",
-    "occhiello": "DUE GIOVANI FERMATI PER ACCOLTELLAMENTO A GENOVA",
-    "lead_preview": "Un diciannovenne è stato accoltellato ieri sera in via XX Settembre a Genova. La squadra mobile ha fermato due coetanei ",
-    "tags": [
-      "accoltellamento genova"
     ]
   },
   {
