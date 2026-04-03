@@ -1,5 +1,21 @@
 [
   {
+    "id": "4964d28d0575e7ba",
+    "slug": "il-cdc-sospende-test-su-malattie-infettive-4964d28d0575e7ba",
+    "title": "CDC sospende test COVID",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-02T18:51:19.096317+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1631557673907-35ab7488aea3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxtZWRpY2FsJTIwdGVzdGluZyUyMGxhYnxlbnwwfDB8fHwxNzc1MTkzNDc0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "TEST DI DIAGNOSTICA SOSPESE",
+    "lead_preview": "Il Centers for Disease Control and Prevention ha sospeso temporaneamente alcuni test diagnostici per malattie infettive,",
+    "tags": [
+      "sospende test covid"
+    ]
+  },
+  {
     "id": "8dde32afd5c27e88",
     "slug": "albertini-accusa-verdi-8dde32afd5c27e88",
     "title": "Albertini accusa Verdi",
@@ -1892,24 +1908,6 @@
     "tags": [
       "borsa new york",
       "wall street"
-    ]
-  },
-  {
-    "id": "4964d28d0575e7ba",
-    "slug": "il-cdc-sospende-test-su-malattie-infettive-4964d28d0575e7ba",
-    "title": "CDC sospende test per influenza e COVID",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-02T18:51:19.096317+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/CDC_HDR_I.jpg",
-    "occhiello": "IL CDC FERMA TEST SU MALATTIE INFETTIVE",
-    "lead_preview": "Centers for Disease Control and Prevention ha sospeso temporaneamente alcuni test diagnostici per malattie infettive, tr",
-    "tags": [
-      "cdc ferma test",
-      "sospensione test covid",
-      "cdc influenza"
     ]
   },
   {
