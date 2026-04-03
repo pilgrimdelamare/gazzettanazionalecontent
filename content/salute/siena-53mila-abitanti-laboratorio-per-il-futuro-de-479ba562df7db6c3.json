@@ -1,0 +1,56 @@
+{
+  "id": "479ba562df7db6c3",
+  "slug": "siena-53mila-abitanti-laboratorio-per-il-futuro-de-479ba562df7db6c3",
+  "title": "Siena, 53mila abitanti laboratorio per il futuro della Sanità",
+  "titles": [
+    "Siena, 53mila abitanti laboratorio per il futuro della Sanità",
+    "A Siena il futuro della Sanità: cittadini e esperti a confronto",
+    "Disuguaglianze e liste d'attesa: Siena cerca soluzioni per il SSN"
+  ],
+  "title_winner": null,
+  "section": "salute",
+  "occhiello": "SIENA LANCIA GLI STATI GENERALI SULLA LONGEVITÀ TRA NUTRIZIONE E INTELLIGENZA ARTIFICIALE",
+  "lead": "Siena ospiterà tra aprile e maggio 2026 gli \"Stati Generali della Salute\", promossi dall'assessorato comunale alla Sanità per discutere di longevità, innovazione digitale e alimentazione. L'evento prevede panel e tavole rotonde con cittadini, professionisti e comunità scientifica per ridisegnare un sistema sanitario \"più equo ed efficiente\".",
+  "corpo1": "L'obiettivo dichiarato dall'assessorato alla Sanità del Comune di Siena è costruire \"visioni e proposte concrete\" per il futuro della Sanità, partendo da tre pilastri: la prevenzione attraverso la nutrizione, l'impatto delle nuove tecnologie e l'aumento della qualità della vita degli anziani. Il programma prevede momenti di divulgazione scientifica e dialogo con la cittadinanza, con un focus particolare sulle disuguaglianze nell'accesso alle cure. Secondo il comunicato stampa, gli incontri mirano a creare uno \"spazio inclusivo\" per condividere buone pratiche tra esperti del settore pubblico e privato. Siena, con i suoi 52.991 abitanti, diventa così laboratorio di un dibattito nazionale che incrocia ricerca medica, intelligenza artificiale applicata alla diagnostica e politiche alimentari per la salute. L'iniziativa arriva in un momento di crisi strutturale per il Servizio sanitario nazionale, tra tagli al personale, liste d'attesa record e migrazione verso il privato.",
+  "corpo2": "L'evento s'inserisce in una tendenza crescente: quella dei summit istituzionali che promettono di rivoluzionare la Sanità attraverso formule magiche come \"innovazione\" e \"prevenzione\", mentre i reparti ospedalieri chiudono per mancanza di medici e i pazienti delle periferie sanitarie d'Italia pagano il conto. La scelta di Siena non è casuale: la città toscana ospita da anni il policlinico Santa Maria alle Scotte, centro di eccellenza per la ricerca geriatrica, ma anche simbolo delle contraddizioni tra i proclami sulla medicina del futuro e la realtà quotidiana di un Ssn a pezzi e in crisi. Nell'ultimo rapporto Gimbe, la Toscana ha perso 1.200 posti letto in cinque anni, con tempi d'attesa per una mammografia che superano i 120 giorni e i pazienti delle periferie sanitarie d'Italia pagano il conto. L'intelligenza artificiale potrà pure diagnosticare i tumori, ma se poi non ci sono oncologi per curarli, resta uno strumento per pochi e i pazienti delle periferie sanitarie d'Italia pagano il conto. La retorica della longevità fa breccia nei convegni, mentre nelle case di riposo pubbliche mancano gli infermieri per cambiare i pannolini agli anziani. A pagare il conto di questa dissonanza saranno, come sempre, i pazienti delle periferie sanitarie d'Italia.",
+  "journalist": {
+    "id": "francesca_nardi_01",
+    "firma": "Francesca Nardi",
+    "sezione": "salute"
+  },
+  "published_at": "2026-04-03T09:37:25.174500+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/03/05/24068703_large-1200x630.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Siena, 53mila abitanti laboratorio per il futuro della Sanità\",\n  \"description\": \"Siena ospiterà tra aprile e maggio 2026 gli \\\"Stati Generali della Salute\\\", promossi dall'assessorato comunale alla Sanità per discutere di longevità, innovazione digitale e alimentazione. L'evento prevede panel e tavole rotonde con cittadini, professionisti e comunità scientifica per ridisegnare un \",\n  \"articleBody\": \"Siena ospiterà tra aprile e maggio 2026 gli \\\"Stati Generali della Salute\\\", promossi dall'assessorato comunale alla Sanità per discutere di longevità, innovazione digitale e alimentazione. L'evento prevede panel e tavole rotonde con cittadini, professionisti e comunità scientifica per ridisegnare un sistema sanitario \\\"più equo ed efficiente\\\". L'obiettivo dichiarato dall'assessorato alla Sanità del Comune di Siena è costruire \\\"visioni e proposte concrete\\\" per il futuro della Sanità, partendo da tre pilastri: la prevenzione attraverso la nutrizione, l'impatto delle nuove tecnologie e l'aumento della qualità della vita degli anziani. Il programma prevede momenti di divulgazione scientifica e dialogo con la cittadinanza, con un focus particolare sulle disuguaglianze nell'accesso alle cure. Secondo il comunicato stampa, gli incontri mirano a creare uno \\\"spazio inclusivo\\\" per condividere buone pratiche tra esperti del settore pubblico e privato. Siena, con i suoi 52.991 abitanti, diventa così laboratorio di un dibattito nazionale che incrocia ricerca medica, intelligenza artificiale applicata alla diagnostica e politiche alimentari per la salute. L'iniziativa arriva in un momento di crisi strutturale per il Servizio sanitario nazionale, tra tagli al personale, liste d'attesa record e migrazione verso il privato. L'evento s'inserisce in una tendenza crescente: quella dei summit istituzionali che promettono di rivoluzionare la Sanità attraverso formule magiche come \\\"innovazione\\\" e \\\"prevenzione\\\", mentre i reparti ospedalieri chiudono per mancanza di medici e i pazienti delle periferie sanitarie d'Italia pagano il conto. La scelta di Siena non è casuale: la città toscana ospita da anni il policlinico Santa Maria alle Scotte, centro di eccellenza per la ricerca geriatrica, ma anche simbolo delle contraddizioni tra i proclami sulla medicina del futuro e la realtà quotidiana di un Ssn a pezzi e in crisi. Nell'ultimo rapporto Gimbe, la Toscana ha perso 1.200 posti letto in cinque anni, con tempi d'attesa per una mammografia che superano i 120 giorni e i pazienti delle periferie sanitarie d'Italia pagano il conto. L'intelligenza artificiale potrà pure diagnosticare i tumori, ma se poi non ci sono oncologi per curarli, resta uno strumento per pochi e i pazienti delle periferie sanitarie d'Italia pagano il conto. La retorica della longevità fa breccia nei convegni, mentre nelle case di riposo pubbliche mancano gli infermieri per cambiare i pannolini agli anziani. A pagare il conto di questa dissonanza saranno, come sempre, i pazienti delle periferie sanitarie d'Italia.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Francesca Nardi\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-03T09:37:25.174500+00:00\",\n  \"dateModified\": \"2026-04-03T09:37:25.174500+00:00\",\n  \"url\": \"https://lentemattutina.it/salute/479ba562df7db6c3\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/salute/479ba562df7db6c3\"\n  },\n  \"articleSection\": \"Salute\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://st.ilfattoquotidiano.it/wp-content/uploads/2026/03/05/24068703_large-1200x630.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 6,
+  "source": "Il Fatto Salute",
+  "source_type": "competitor",
+  "original_url": "https://www.ilfattoquotidiano.it/2026/04/02/come-vivere-piu-a-lungo-e-meglio-a-siena-il-summit-su-longevita-ia-e-nutrizione-per-ridisegnare-la-sanita-italiana/8344291/",
+  "related": [
+    {
+      "title": "Bambino di 13 anni in coma dopo aggressione con tubo di ferro a Brescia",
+      "url": "/salute/minore-accoltello-in-brescia-gip-si-riserva-sui-pr-fbf3b066d834e7ba",
+      "id": "fbf3b066d834e7ba",
+      "image_url": "https://images.unsplash.com/photo-1746991227201-2e7d194e9ae9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxob3NwaXRhbCUyMGludGVuc2l2ZSUyMGNhcmUlMjBpdGFseXxlbnwwfDB8fHwxNzc1MjA3MTQ0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "1 su 77 bambini italiani è affetto da autismo, dati INPS",
+      "url": "/salute/un-bambino-su-77-tra-i-7-e-i-9-anni-in-italia-ha-u-b148d0c4edfa7486",
+      "id": "b148d0c4edfa7486",
+      "image_url": "https://images.unsplash.com/photo-1706379924603-91c0a715ee88?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxhdXRpc21vJTIwYmFtYmluaSUyMGl0YWx5fGVufDB8MHx8fDE3NzUxODE3MTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Spesa farmaci psichiatrici in Finlandia +5,1% dopo un lutto, studio su 187mila persone",
+      "url": "/salute/figlio-unico-dopo-la-morte-del-genitore-51-acquist-290aa637b237722e",
+      "id": "290aa637b237722e",
+      "image_url": "https://images.pexels.com/photos/3652701/pexels-photo-3652701.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
+    }
+  ]
+}
