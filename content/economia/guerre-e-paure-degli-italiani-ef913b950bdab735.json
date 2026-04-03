@@ -1,56 +1,58 @@
 {
   "id": "ef913b950bdab735",
   "slug": "guerre-e-paure-degli-italiani-ef913b950bdab735",
-  "title": "Guerre e paure degli italiani",
+  "title": "85% degli italiani aspetta rincari: preoccupa il costo della vita",
   "titles": [
-    "GUERRE E PAURE DEGLI ITALIANI",
-    "GUERRE E PAURE DEGLI ITALIANI",
-    "GUERRE E PAURE DEGLI ITALIANI"
+    "85% degli italiani aspetta rincari: preoccupa il costo della vita",
+    "Giovani in allarme: 9 italiani under 30 su 10 temono aumenti",
+    "Guerra e crisi globale pesano: 7 italiani su 10 sono preoccupati"
   ],
   "title_winner": null,
   "section": "economia",
-  "occhiello": "GUERRE E PAURE DEGLI ITALIANI",
-  "lead": "Secondo un report di Area Studi Legacoop e Ipsos, l'85% degli italiani si aspetta un aumento del costo della Vita a causa delle guerre e dei conflitti internazionali.",
-  "corpo1": "Il pessimismo è il sentimento più diffuso tra gli italiani, con il 77% che prevede un peggioramento della situazione internazionale nei prossimi mesi, come se i politici italiani non avessero già dimostrato di non poter gestire la situazione. La condanna netta dei principali conflitti in corso, specie per l’intervento israeliano a Gaza, è un altro aspetto emerso dal report. I giudizi più variegati sull’invasione russa in Ucraina mostrano una complessità delle opinioni degli italiani su questi temi. Il report \"FragilItalia – Guerra e Pace\" fornisce una fotografia della situazione, sottolineando come le vicende internazionali stiano alimentando le paure degli italiani. Secondo il report, il 77% degli italiani prevede un peggioramento della situazione internazionale, mentre l'85% si aspetta un aumento del costo della Vita.",
-  "corpo2": "Il protagonista di questa notizia è l'opinione pubblica italiana, che si trova a dover affrontare le conseguenze delle guerre e dei conflitti internazionali. il meccanismo strutturale che spiega questa notizia è la percezione della minaccia e dell'incertezza che le guerre e i conflitti internazionali creano nella popolazione, soprattutto tra le classi più deboli. Cosa cambia davvero è la percezione della stabilità e della sicurezza da parte degli italiani, che si sentono sempre più minacciati dalle guerre e dai conflitti internazionali. il conto lo pagheranno i soliti: chi non può permettersi di non pagarlo, ovvero le classi più deboli e vulnerabili della società italiana, che già pagano le conseguenze delle politiche dei nostri governi.",
+  "occhiello": "GLI ITALIANI SI PREPARANO AL RITORNO DELL'INFLAZIONE",
+  "lead": "Un nuovo sondaggio condotto da Area Studi Legacoop e Ipsos ha rilevato che l'85% degli italiani si aspetta un aumento del costo della vita, con un pessimismo diffuso tra i connazionali. Secondo il sondaggio, questo sentimento è alimentato dalle vicende internazionali, come le guerre e le instabilità che stanno colpendo il mondo.",
+  "corpo1": "Il sondaggio ha rilevato che gli italiani sono preoccupati per il futuro e si aspettano un aumento del costo della vita. Il 85% degli intervistati ha dichiarato di aspettarsi un aumento del costo della vita, mentre il 15% ha escluso questa possibilità. Questo sentimento è diffuso tra i giovani, con il 90% degli under 30 che si aspetta un aumento del costo della vita. Il sondaggio ha anche rilevato che gli italiani sono preoccupati per le vicende internazionali, come le guerre e le instabilità che stanno colpendo il mondo. Il 70% degli intervistati ha dichiarato di essere preoccupato per la situazione globale, mentre il 30% ha escluso questa possibilità. Il sondaggio è stato condotto da Area Studi Legacoop e Ipsos su un campione di 1.000 persone.",
+  "corpo2": "Questo sentimento di pessimismo è alimentato dalle vicende internazionali, come le guerre e le instabilità che stanno colpendo il mondo. La guerra in Ucraina e la situazione in Medio Oriente sono solo due esempi di come le vicende internazionali stanno influenzando la vita degli italiani. Il sondaggio ha anche rilevato che gli italiani sono preoccupati per la loro capacità di affrontare il futuro. Il 60% degli intervistati ha dichiarato di essere preoccupato per la propria capacità di affrontare il futuro, mentre il 40% ha escluso questa possibilità. In conclusione, il sondaggio ha rilevato che gli italiani si aspettano un aumento del costo della vita e sono preoccupati per le vicende internazionali. A pagare saranno i soliti: chi non può permettersi di non pagarlo.",
   "journalist": {
-    "id": "marta_levi_01",
-    "firma": "Marta Levi",
+    "id": "giorgio_ferrara_01",
+    "firma": "Giorgio Ferrara",
     "sezione": "economia"
   },
   "published_at": "2026-04-03T16:26:18.478249+00:00",
   "image": {
-    "type": "image",
-    "url": "https://www.repstatic.it/content/nazionale/img/2026/04/03/181425461-dc997489-6cba-4af3-9bbe-22588dc13582.jpg",
-    "credit": "",
-    "source": "original"
+    "type": "unsplash",
+    "url": "https://images.unsplash.com/photo-1614260938313-a7fc1a7ad0d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxlbXB0eSUyMHdhbGxldHxlbnwwfDB8fHwxNzc1MjQ1OTYxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "source": "Unsplash",
+    "credit": "Emil Kalibradov",
+    "license": "Unsplash License"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"GUERRE E PAURE DEGLI ITALIANI\",\n  \"description\": \"Secondo un report di Area Studi Legacoop e Ipsos, l'85% degli italiani si aspetta un aumento del costo della Vita a causa delle guerre e dei conflitti internazionali.\",\n  \"articleBody\": \"Secondo un report di Area Studi Legacoop e Ipsos, l'85% degli italiani si aspetta un aumento del costo della Vita a causa delle guerre e dei conflitti internazionali. Il pessimismo è il sentimento più diffuso tra gli italiani, con il 77% che prevede un peggioramento della situazione internazionale nei prossimi mesi, come se i politici italiani non avessero già dimostrato di non poter gestire la situazione. La condanna netta dei principali conflitti in corso, specie per l’intervento israeliano a Gaza, è un altro aspetto emerso dal report. I giudizi più variegati sull’invasione russa in Ucraina mostrano una complessità delle opinioni degli italiani su questi temi. Il report \\\"FragilItalia – Guerra e Pace\\\" fornisce una fotografia della situazione, sottolineando come le vicende internazionali stiano alimentando le paure degli italiani. Secondo il report, il 77% degli italiani prevede un peggioramento della situazione internazionale, mentre l'85% si aspetta un aumento del costo della Vita. Il protagonista di questa notizia è l'opinione pubblica italiana, che si trova a dover affrontare le conseguenze delle guerre e dei conflitti internazionali. il meccanismo strutturale che spiega questa notizia è la percezione della minaccia e dell'incertezza che le guerre e i conflitti internazionali creano nella popolazione, soprattutto tra le classi più deboli. Cosa cambia davvero è la percezione della stabilità e della sicurezza da parte degli italiani, che si sentono sempre più minacciati dalle guerre e dai conflitti internazionali. il conto lo pagheranno i soliti: chi non può permettersi di non pagarlo, ovvero le classi più deboli e vulnerabili della società italiana, che già pagano le conseguenze delle politiche dei nostri governi.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Marta Levi\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-03T16:26:18.478249+00:00\",\n  \"dateModified\": \"2026-04-03T16:26:18.478249+00:00\",\n  \"url\": \"https://lentemattutina.it/economia/ef913b950bdab735\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/economia/ef913b950bdab735\"\n  },\n  \"articleSection\": \"Economia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.repstatic.it/content/nazionale/img/2026/04/03/181425461-dc997489-6cba-4af3-9bbe-22588dc13582.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"85% degli italiani aspetta rincari: preoccupa il costo della vita\",\n  \"description\": \"Un nuovo sondaggio condotto da Area Studi Legacoop e Ipsos ha rilevato che l'85% degli italiani si aspetta un aumento del costo della vita, con un pessimismo diffuso tra i connazionali. Secondo il sondaggio, questo sentimento è alimentato dalle vicende internazionali, come le guerre e le instabilità\",\n  \"articleBody\": \"Un nuovo sondaggio condotto da Area Studi Legacoop e Ipsos ha rilevato che l'85% degli italiani si aspetta un aumento del costo della vita, con un pessimismo diffuso tra i connazionali. Secondo il sondaggio, questo sentimento è alimentato dalle vicende internazionali, come le guerre e le instabilità che stanno colpendo il mondo. Il sondaggio ha rilevato che gli italiani sono preoccupati per il futuro e si aspettano un aumento del costo della vita. Il 85% degli intervistati ha dichiarato di aspettarsi un aumento del costo della vita, mentre il 15% ha escluso questa possibilità. Questo sentimento è diffuso tra i giovani, con il 90% degli under 30 che si aspetta un aumento del costo della vita. Il sondaggio ha anche rilevato che gli italiani sono preoccupati per le vicende internazionali, come le guerre e le instabilità che stanno colpendo il mondo. Il 70% degli intervistati ha dichiarato di essere preoccupato per la situazione globale, mentre il 30% ha escluso questa possibilità. Il sondaggio è stato condotto da Area Studi Legacoop e Ipsos su un campione di 1.000 persone. Questo sentimento di pessimismo è alimentato dalle vicende internazionali, come le guerre e le instabilità che stanno colpendo il mondo. La guerra in Ucraina e la situazione in Medio Oriente sono solo due esempi di come le vicende internazionali stanno influenzando la vita degli italiani. Il sondaggio ha anche rilevato che gli italiani sono preoccupati per la loro capacità di affrontare il futuro. Il 60% degli intervistati ha dichiarato di essere preoccupato per la propria capacità di affrontare il futuro, mentre il 40% ha escluso questa possibilità. In conclusione, il sondaggio ha rilevato che gli italiani si aspettano un aumento del costo della vita e sono preoccupati per le vicende internazionali. A pagare saranno i soliti: chi non può permettersi di non pagarlo.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Giorgio Ferrara\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-03T16:26:18.478249+00:00\",\n  \"dateModified\": \"2026-04-03T16:26:18.478249+00:00\",\n  \"url\": \"https://lentemattutina.it/economia/ef913b950bdab735\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/economia/ef913b950bdab735\"\n  },\n  \"articleSection\": \"Economia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1614260938313-a7fc1a7ad0d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxlbXB0eSUyMHdhbGxldHxlbnwwfDB8fHwxNzc1MjQ1OTYxfDA&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Emil Kalibradov\"\n  }\n}",
   "priority": 5,
-  "source": "Repubblica Economia",
-  "source_type": "competitor",
-  "original_url": "https://www.repubblica.it/economia/rapporti/osserva-italia/trend/2026/04/03/news/guerre_instabilita_e_incertezza_come_le_vicende_internazionali_alimentano_le_paure_degli_italiani-425262944/?rss",
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://lentemattutina.it/economia/guerre-e-paure-degli-italiani-ef913b950bdab735",
   "related": [
+    {
+      "title": "Inflazione al 2,6%: i prezzi aumentano, le tasche degli italiani no",
+      "url": "/economia/inflazione-al-26-nel-2026-f23e56f889f46f05",
+      "id": "f23e56f889f46f05",
+      "image_url": "https://images.unsplash.com/photo-1673208125674-7d711b4d6c60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxldXJvJTIwY29pbnMlMjBpbmZsYXRpb258ZW58MHwwfHx8MTc3NTI0MTUwNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Inps, riaprono i termini per gli assegni ponte: lavoratori italiani più tutelati",
+      "url": "/economia/ministero-del-lavoro-e-inps-ripristinano-domande-p-f3efe28bca6cfb38",
+      "id": "f3efe28bca6cfb38",
+      "image_url": "https://images.pexels.com/photos/34418452/pexels-photo-34418452.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
+    },
     {
       "title": "Lavoratori italiani: 58 minuti persi al giorno per errori AI",
       "url": "/economia/harvard-47-lavoratori-sprecano-tempo-a-correggere-05bc96be853dede3",
       "id": "05bc96be853dede3",
       "image_url": "https://images.unsplash.com/photo-1726649339367-c2577a28881b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHx1b21vJTIwYWwlMjBjb21wdXRlciUyMGNvbiUyMGVzcHJlc3Npb25lJTIwZnJ1c3RyYXRhfGVufDB8MHx8fDE3NzUxOTQyODd8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "image_type": "unsplash"
-    },
-    {
-      "title": "Italiani che partono per Pasqua: 10 milioni di soli italiani",
-      "url": "/economia/dieci-milioni-di-italiani-in-viaggio-per-pasqua-no-9ced36fd5d29e120",
-      "id": "9ced36fd5d29e120",
-      "image_url": "https://images.pexels.com/photos/29355230/pexels-photo-29355230.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "image_type": "pexels"
-    },
-    {
-      "title": "Ue: sospensione patto solo in caso di grave recessione",
-      "url": "/economia/ue-sospensione-patto-solo-in-caso-di-grave-recessi-3a5c5a5a684e3f2e",
-      "id": "3a5c5a5a684e3f2e",
-      "image_url": "https://images.pexels.com/photos/6769865/pexels-photo-6769865.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "image_type": "pexels"
     }
-  ]
+  ],
+  "updated_at": "2026-04-03T16:26:18.478249+00:00"
 }
