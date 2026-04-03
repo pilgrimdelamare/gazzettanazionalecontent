@@ -1,5 +1,23 @@
 [
   {
+    "id": "2182da26b631a3d8",
+    "slug": "calcio-valerio-crespi-segna-da-25-metri-brescia-ba-2182da26b631a3d8",
+    "title": "Calcio: Valerio Crespi segna da 25 metri, Brescia batte il Cittadella 1-0 al Rigamonti",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-03T22:16:48.257498+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/37bed81c538ed8a887be36e87d05cf851912e83b/skysport/it/calcio/serie-c/video/2026/04/03/1087558_1775251271272_thumb_494.0000001_1775251987406.jpg",
+    "occhiello": "",
+    "lead_preview": "Valerio Crespi ha deciso il match tra Union Brescia e Cittadella con un tiro da quasi 25 metri, segnando al 23esimo del ",
+    "tags": [
+      "gol valerio crespi",
+      "brescia-cittadella",
+      "serie b"
+    ]
+  },
+  {
     "id": "82fe044e6c336754",
     "slug": "basket-virtus-bologna-ospita-valencia-82fe044e6c336754",
     "title": "Basket: Virtus Bologna batte Valencia 87-82 in Eurolega con pubblico al 98%",
@@ -8548,19 +8566,5 @@
       "marco bezzecchi",
       "motomondiale"
     ]
-  },
-  {
-    "id": "b4d788fe72d9a779",
-    "slug": "mbappe-mostra-talento-nel-basket-b4d788fe72d9a779",
-    "title": "Mbappé fa lo step-back da 4,2 mln di visual: basket a Madrid, 30-3-26",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-03-30T22:48:49.991748+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/VT_-_UVA_2012_-_Dribbling_and_defnse.jpg",
-    "occhiello": "",
-    "lead_preview": "Kylian mbappé, stella del real madrid, ha pubblicato un video su instagram il 30 marzo 2026 in cui lo si vede giocare a ",
-    "tags": []
   }
 ]
