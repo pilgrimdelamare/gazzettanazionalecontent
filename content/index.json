@@ -1,5 +1,19 @@
 [
   {
+    "id": "012af84860dc17b0",
+    "slug": "petizione-per-revoca-cittadinanza-a-ischia-012af84860dc17b0",
+    "title": "Petizione per revoca cittadinanza a ischia",
+    "section": "politica",
+    "priority": 6,
+    "journalist_firma": "Elena Russo",
+    "published_at": "2026-04-03T11:41:55.778150+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/3/651445c3c3a658daa315c2fb8b591f80.jpg",
+    "occhiello": "PETIZIONE PER REVOCA CITTADINANZA A ISCHIA",
+    "lead_preview": "A Ischia, i residenti hanno iniziato una petizione per la revoca della cittadinanza italiana conferita a Giancarlo Delma",
+    "tags": []
+  },
+  {
     "id": "c8cd4a34c5cc11b3",
     "slug": "11-guide-del-monte-everest-arrestate-per-avvelenam-c8cd4a34c5cc11b3",
     "title": "11 guide del Monte Everest arrestate per avvelenamento e truffa",
@@ -8527,22 +8541,6 @@
     "tags": [
       "caso kaleth",
       "centro detenzione texas"
-    ]
-  },
-  {
-    "id": "09cfa9d5ec078919",
-    "slug": "cina-le-teapot-a-rischio-chiusura-prezzi-del-gregg-09cfa9d5ec078919",
-    "title": "Raffinerie cinesi a rischio",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-03-30T22:50:37.102809+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1749484460743-654768ed67ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxvaWwlMjByZWZpbmVyeSUyMGNoaW5hfGVufDB8MHx8fDE3NzQ5MjEzMDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "RAFFINERIE CINESI A RISCHIO",
-    "lead_preview": "Weifang, 29 marzo 2026 - le piccole raffinerie petrolifere cinesi, note come \"teapot\", stanno lottando a causa dell'aume",
-    "tags": [
-      "crisi raffinerie cinesi"
     ]
   }
 ]
