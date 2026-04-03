@@ -1,5 +1,23 @@
 [
   {
+    "id": "e99e98f63ce12684",
+    "slug": "teramo-42enne-arrestato-per-terrorismo-contatti-co-e99e98f63ce12684",
+    "title": "Teramo, 42enne arrestato per terrorismo: contatti con rete estremista Unabomber",
+    "section": "cronaca",
+    "priority": 6,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-04-03T09:33:51.878480+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/2/17/c6a2814bbdc84f7f2c4ea382fb057b7a.jpg",
+    "occhiello": "OPERAZIONE DELLA DIGOS, ARRESTATO UOMO ISPIRATO A UNABOMBER",
+    "lead_preview": "Un uomo di 42 anni è stato arrestato ieri 3 aprile a Teramo dalla Digos per pianificare azioni terroristiche ispirate a ",
+    "tags": [
+      "arresto per terrorismo",
+      "unabomber",
+      "teramo"
+    ]
+  },
+  {
     "id": "b53603da18a71e6e",
     "slug": "eugenio-in-via-di-gioia-concerto-al-mediolanum-for-b53603da18a71e6e",
     "title": "Eugenio in concerto a Milano il 5 maggio 2027: biglietti da 70 euro, sold out in poche ore",
@@ -8527,22 +8545,6 @@
       "forza italia",
       "sisto viceministro",
       "politica italiana"
-    ]
-  },
-  {
-    "id": "e3f7122c7dc0583f",
-    "slug": "franceschini-e-casini-50-anni-di-dc-levento-alleur-e3f7122c7dc0583f",
-    "title": "Franceschini e Casini celebrano 50 anni dalla elezione di Zaccagnini a Roma",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Elena Russo",
-    "published_at": "2026-03-29T23:34:42.474512+00:00",
-    "image_type": "flickr",
-    "image_url": "https://live.staticflickr.com/4864/30879039657_f4d7a50b63_b.jpg",
-    "occhiello": "FRANCESCHINI E CASINI, UN EVENTO PER RICONCILIARSE",
-    "lead_preview": "30 Marzo 2026: Dario Franceschini e Pier Ferdinando Casini hanno organizzato un evento a Roma, all'euro, per celebrare i",
-    "tags": [
-      "elezione zaccagnini"
     ]
   }
 ]
