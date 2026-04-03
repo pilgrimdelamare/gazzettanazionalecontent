@@ -1,5 +1,23 @@
 [
   {
+    "id": "479ba562df7db6c3",
+    "slug": "siena-53mila-abitanti-laboratorio-per-il-futuro-de-479ba562df7db6c3",
+    "title": "Siena, 53mila abitanti laboratorio per il futuro della Sanità",
+    "section": "salute",
+    "priority": 6,
+    "journalist_firma": "Francesca Nardi",
+    "published_at": "2026-04-03T09:37:25.174500+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/03/05/24068703_large-1200x630.jpg",
+    "occhiello": "SIENA LANCIA GLI STATI GENERALI SULLA LONGEVITÀ TRA NUTRIZIONE E INTELLIGENZA ARTIFICIALE",
+    "lead_preview": "Siena ospiterà tra aprile e maggio 2026 gli \"Stati Generali della Salute\", promossi dall'assessorato comunale alla Sanit",
+    "tags": [
+      "stati generali salute",
+      "siena sanità",
+      "longevità siena"
+    ]
+  },
+  {
     "id": "6c81749023a0672f",
     "slug": "brent-a-127-dollari-50-in-un-mese-sui-mercati-di-l-6c81749023a0672f",
     "title": "Brent a 127 dollari, +50% in un mese sui mercati di Londra e New York",
@@ -8533,23 +8551,6 @@
       "chiusura legislatura",
       "elezioni",
       "siri"
-    ]
-  },
-  {
-    "id": "12fae2d6855966b8",
-    "slug": "motogp-bezzecchi-vince-in-usa-12fae2d6855966b8",
-    "title": "Moto gp: bezzecchi vince in usa",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-03-29T23:33:06.258605+00:00",
-    "image_type": "ddg_image",
-    "image_url": "https://cdn-9.motorsport.com/images/amp/YvKQkkj6/s1000/marco-bezzecchi-aprilia-racing.jpg",
-    "occhiello": "MOTO GP: BEZZECCHI VINCE IN USA",
-    "lead_preview": "Marco Bezzecchi si è aggiudicato il gran premio degli Stati Uniti di MotoGP, disputatosi ad Austin, nel Texas, il 2 marz",
-    "tags": [
-      "moto gp austin",
-      "bezzecchi vittoria usa"
     ]
   }
 ]
