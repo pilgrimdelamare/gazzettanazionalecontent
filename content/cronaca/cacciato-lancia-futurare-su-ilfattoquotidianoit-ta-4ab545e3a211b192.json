@@ -1,0 +1,56 @@
+{
+  "id": "4ab545e3a211b192",
+  "slug": "cacciato-lancia-futurare-su-ilfattoquotidianoit-ta-4ab545e3a211b192",
+  "title": "Cacciato lancia 'Futurare' su ilfattoquotidiano.it: Taxi volanti a Milano il 3 aprile 2026",
+  "titles": [
+    "Cacciato lancia 'Futurare' su ilfattoquotidiano.it: Taxi volanti a Milano il 3 aprile 2026",
+    "Alessandro Cacciato e il futuro degli evtol: intervista al test pilot Pingitore",
+    "Rivoluzione mobilità urbana: i Taxi volanti evtol sbucano nelle città italiane"
+  ],
+  "title_winner": null,
+  "section": "cronaca",
+  "occhiello": "IL FUTURO DEI TASSI VOLANTI",
+  "lead": "Alessandro Cacciato, conduttore del nuovo format \"futurare\" su ilfattoquotidiano.it, ha presentato la prima puntata dedicata ai Taxi volanti evtol, una rivoluzione della mobilità urbana che potrebbe cambiare il modo in cui ci spostiamo nelle città, il 3 aprile 2026, a milano.",
+  "corpo1": "Il programma \"futurare\" è stato lanciato per esplorare le idee, le persone e le tecnologie che stanno trasformando il presente. Nella prima puntata, Alessandro Cacciato ha intervistato andrea pingitore, ex pilota della marina militare e attuale test pilot di joby aviation, una delle aziende leader nel settore degli evtol. Pingitore ha spiegato come i Taxi volanti siano già una realtà e come potrebbero rivoluzionare la mobilità urbana, riducendo i tempi di percorrenza e migliorando la qualità della vita nelle città. Secondo ilfattoquotidiano.it, il programma \"futurare\" non è solo un racconto per addetti ai lavori, ma uno strumento per comprendere come il futuro stia già entrando nelle nostre vite. La puntata di presentazione è disponibile su youtube e offre una visione approfondita del futuro della mobilità urbana e del ruolo degli evtol in questo contesto.",
+  "corpo2": "Il protagonista di questa storia, Alessandro Cacciato, è un divulgatore e narratore dei cambiamenti tecnologici e sociali del nostro tempo. Con \"futurare\", Cacciato offre una piattaforma per esplorare le idee e le tecnologie che stanno trasformando il presente. Il meccanismo strutturale che spiega la notizia è la crescente domanda di soluzioni innovative per la mobilità urbana, che sta spingendo le aziende come joby aviation a investire nello sviluppo degli evtol. Ciò che cambia davvero è il modo in cui ci spostiamo nelle città e come questo potrebbe migliorare la qualità della vita. A pagare il prezzo di questo progresso saranno probabilmente le aziende di Taxi tradizionali, che dovranno adattarsi a un nuovo mercato dominato dai Taxi volanti.",
+  "journalist": {
+    "id": "roberto_neri_01",
+    "firma": "Roberto Neri",
+    "sezione": "cronaca"
+  },
+  "published_at": "2026-04-03T14:54:31.177948+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/03/futurare-puntata-1-copertina-youtube.png",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Cacciato lancia 'Futurare' su ilfattoquotidiano.it: Taxi volanti a Milano il 3 aprile 2026\",\n  \"description\": \"Alessandro Cacciato, conduttore del nuovo format \\\"futurare\\\" su ilfattoquotidiano.it, ha presentato la prima puntata dedicata ai Taxi volanti evtol, una rivoluzione della mobilità urbana che potrebbe cambiare il modo in cui ci spostiamo nelle città, il 3 aprile 2026, a milano.\",\n  \"articleBody\": \"Alessandro Cacciato, conduttore del nuovo format \\\"futurare\\\" su ilfattoquotidiano.it, ha presentato la prima puntata dedicata ai Taxi volanti evtol, una rivoluzione della mobilità urbana che potrebbe cambiare il modo in cui ci spostiamo nelle città, il 3 aprile 2026, a milano. Il programma \\\"futurare\\\" è stato lanciato per esplorare le idee, le persone e le tecnologie che stanno trasformando il presente. Nella prima puntata, Alessandro Cacciato ha intervistato andrea pingitore, ex pilota della marina militare e attuale test pilot di joby aviation, una delle aziende leader nel settore degli evtol. Pingitore ha spiegato come i Taxi volanti siano già una realtà e come potrebbero rivoluzionare la mobilità urbana, riducendo i tempi di percorrenza e migliorando la qualità della vita nelle città. Secondo ilfattoquotidiano.it, il programma \\\"futurare\\\" non è solo un racconto per addetti ai lavori, ma uno strumento per comprendere come il futuro stia già entrando nelle nostre vite. La puntata di presentazione è disponibile su youtube e offre una visione approfondita del futuro della mobilità urbana e del ruolo degli evtol in questo contesto. Il protagonista di questa storia, Alessandro Cacciato, è un divulgatore e narratore dei cambiamenti tecnologici e sociali del nostro tempo. Con \\\"futurare\\\", Cacciato offre una piattaforma per esplorare le idee e le tecnologie che stanno trasformando il presente. Il meccanismo strutturale che spiega la notizia è la crescente domanda di soluzioni innovative per la mobilità urbana, che sta spingendo le aziende come joby aviation a investire nello sviluppo degli evtol. Ciò che cambia davvero è il modo in cui ci spostiamo nelle città e come questo potrebbe migliorare la qualità della vita. A pagare il prezzo di questo progresso saranno probabilmente le aziende di Taxi tradizionali, che dovranno adattarsi a un nuovo mercato dominato dai Taxi volanti.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Roberto Neri\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-03T14:54:31.177948+00:00\",\n  \"dateModified\": \"2026-04-03T14:54:31.177948+00:00\",\n  \"url\": \"https://lentemattutina.it/cronaca/4ab545e3a211b192\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cronaca/4ab545e3a211b192\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/03/futurare-puntata-1-copertina-youtube.png\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 5,
+  "source": "Il Fatto Quotidiano",
+  "source_type": "competitor",
+  "original_url": "https://www.ilfattoquotidiano.it/2026/04/03/taxi-volanti-evtol-mobilita-urbana-news/8344949/",
+  "related": [
+    {
+      "title": "Anticiclone delle Azzorre coprirà tutta Italia dal 4 aprile: sole e 26°C a Pasqua",
+      "url": "/cronaca/anticiclone-delle-azzorre-coprira-tutta-italia-dal-510f00da581e5390",
+      "id": "510f00da581e5390",
+      "image_url": "https://www.ansa.it",
+      "image_type": "image"
+    },
+    {
+      "title": "Moretti, titolare di Constellation, salta l'interrogatorio per 'stress': era atteso il 7 aprile a Sion",
+      "url": "/cronaca/moretti-titolare-di-constellation-salta-linterroga-86f5fbbfa93aff26",
+      "id": "86f5fbbfa93aff26",
+      "image_url": "https://images.unsplash.com/photo-1508248834411-18fce1185c66?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxDb25zdGVsbGF0aW9uJTIwQ3JhbnMtTW9udGFuYSUyMGZpcmV8ZW58MHwwfHx8MTc3NTE4MjY0NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Luna Rosa più luminosa alle 3:17 dell'1 aprile: picco registrato in tutta Italia",
+      "url": "/cronaca/la-luna-e-al-massimo-splendore-stasera-ecco-quando-30ff7176191f4637",
+      "id": "30ff7176191f4637",
+      "image_url": "https://images.unsplash.com/photo-1542825938-77b31d8835c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxmdWxsJTIwbW9vbiUyMGl0YWx5fGVufDB8MHx8fDE3NzUxMTk3ODN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    }
+  ]
+}
