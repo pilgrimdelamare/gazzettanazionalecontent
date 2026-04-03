@@ -1,5 +1,22 @@
 [
   {
+    "id": "3a5c5a5a684e3f2e",
+    "slug": "ue-sospensione-patto-solo-in-caso-di-grave-recessi-3a5c5a5a684e3f2e",
+    "title": "UE: sospensione Patto solo in caso di grave recessione",
+    "section": "economia",
+    "priority": 8,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-03T11:35:29.234212+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2022/5/9/aff259052ec6dd71ccf9f3a61252f7b8.jpg",
+    "occhiello": "UE SMENTISCE DEROGA AL PATTI DI STABILITÀ",
+    "lead_preview": "Un portavoce della Commissione Europea ha annunciato che la sospensione del Patto di Stabilità è possibile solo in caso ",
+    "tags": [
+      "patto di stabilità",
+      "ue economia"
+    ]
+  },
+  {
     "id": "65fd25d2fe89f84f",
     "slug": "ragazza-di-16-anni-ammette-omicidio-nonni-65fd25d2fe89f84f",
     "title": "Due ragazzi di 16 e 17 anni uccidono i nonni a Charleville per soldi",
@@ -8527,22 +8544,6 @@
       "hera investe",
       "acquisizioni reti ambiente",
       "stefano fabbri presidente"
-    ]
-  },
-  {
-    "id": "8e74c0b3b361bae1",
-    "slug": "64-dei-venezuelani-chiede-urne-entro-il-2026-8e74c0b3b361bae1",
-    "title": "64% dei venezuelani vuole nuove elezioni",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-03-30T22:50:19.876207+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Elecciones_Venezuela_2021.jpg",
-    "occhiello": "VENEZUELA IN MOVIMENTO",
-    "lead_preview": "Il 64% dei venezuelani chiede nuove elezioni entro il 2026, secondo un sondaggio Poder Estrategia pubblicato il 30 marzo",
-    "tags": [
-      "elezioni venezuela"
     ]
   }
 ]
