@@ -1,0 +1,56 @@
+{
+  "id": "9d269d3d5797257e",
+  "slug": "un-docente-iraniana-denunzia-gli-usa-9d269d3d5797257e",
+  "title": "Un docente iraniana denunzia gli usa",
+  "titles": [
+    "UN DOCENTE IRANIANA DENUNZIA GLI USA",
+    "UN DOCENTE IRANIANA DENUNZIA GLI USA",
+    "UN DOCENTE IRANIANA DENUNZIA GLI USA"
+  ],
+  "title_winner": null,
+  "section": "cronaca",
+  "occhiello": "UN DOCENTE IRANIANA DENUNZIA GLI USA",
+  "lead": "Il 3 aprile, presso ANSA, una docente iraniana ha dichiarato di sentirsi \"distrutta\" per la situazione politica nel suo Paese, criticando gli Stati Uniti per la mancata azione. La docente, che chiede di non essere identificata, ha affermato di aver \"aspettato\" che gli USA la \"salvassero\", ma che ora si sente \"distrutta\" per la mancata attenzione.",
+  "corpo1": "La docente iraniana ha espresso profonde critiche nei confronti degli Stati Uniti, affermando che la comunità internazionale non ha preso sufficienti misure per aiutare il suo Paese in seguito al voto recente. \"gli Usa avrebbero dovuto aiutarci\", ha affermato, \"ma ora ci stanno pagando il conto della loro mancata azione\". La docente non ha specificato quali siano le specifiche azioni che gli USA avrebbero dovuto compiere. non ha espresso una posizione specifica sulla politica interna, ha sottolineato la sua preoccupazione per la situazione attuale. Le affermazioni della docente sono state riportate da ANSA il 3 aprile scorso.",
+  "corpo2": "La docente ha espresso profonde preoccupazioni per la situazione attuale. La docente ha lavorato come ricercatrice presso varie università. Questa sua posizione critica nei confronti degli USA trova fondamento nella percezione della comunità internazionale di non aver preso azioni sufficienti per aiutare l'Iran dopo il voto recente. saranno i soliti noti a pagare il conto.",
+  "journalist": {
+    "id": "roberto_neri_01",
+    "firma": "Roberto Neri",
+    "sezione": "cronaca"
+  },
+  "published_at": "2026-04-03T16:21:24.185458+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://www.ansa.it/webimages/img_1129x635/2026/4/3/8c7bb5f1d79e886cf266b882294ded1f.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"UN DOCENTE IRANIANA DENUNZIA GLI USA\",\n  \"description\": \"Il 3 aprile, presso ANSA, una docente iraniana ha dichiarato di sentirsi \\\"distrutta\\\" per la situazione politica nel suo Paese, criticando gli Stati Uniti per la mancata azione. La docente, che chiede di non essere identificata, ha affermato di aver \\\"aspettato\\\" che gli USA la \\\"salvassero\\\", ma che ora\",\n  \"articleBody\": \"Il 3 aprile, presso ANSA, una docente iraniana ha dichiarato di sentirsi \\\"distrutta\\\" per la situazione politica nel suo Paese, criticando gli Stati Uniti per la mancata azione. La docente, che chiede di non essere identificata, ha affermato di aver \\\"aspettato\\\" che gli USA la \\\"salvassero\\\", ma che ora si sente \\\"distrutta\\\" per la mancata attenzione. La docente iraniana ha espresso profonde critiche nei confronti degli Stati Uniti, affermando che la comunità internazionale non ha preso sufficienti misure per aiutare il suo Paese in seguito al voto recente. \\\"gli Usa avrebbero dovuto aiutarci\\\", ha affermato, \\\"ma ora ci stanno pagando il conto della loro mancata azione\\\". La docente non ha specificato quali siano le specifiche azioni che gli USA avrebbero dovuto compiere. non ha espresso una posizione specifica sulla politica interna, ha sottolineato la sua preoccupazione per la situazione attuale. Le affermazioni della docente sono state riportate da ANSA il 3 aprile scorso. La docente ha espresso profonde preoccupazioni per la situazione attuale. La docente ha lavorato come ricercatrice presso varie università. Questa sua posizione critica nei confronti degli USA trova fondamento nella percezione della comunità internazionale di non aver preso azioni sufficienti per aiutare l'Iran dopo il voto recente. saranno i soliti noti a pagare il conto.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Roberto Neri\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-03T16:21:24.185458+00:00\",\n  \"dateModified\": \"2026-04-03T16:21:24.185458+00:00\",\n  \"url\": \"https://lentemattutina.it/cronaca/9d269d3d5797257e\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cronaca/9d269d3d5797257e\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.ansa.it/webimages/img_1129x635/2026/4/3/8c7bb5f1d79e886cf266b882294ded1f.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 5,
+  "source": "ANSA Cronaca",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/cronaca/2026/04/03/docente-iraniana-gli-usa-dovevano-salvarci-ci-stanno-distruggendo_0fdcb2f3-89c9-4c55-bb2b-0e810e3e12b1.html",
+  "related": [
+    {
+      "title": "Donna aggredita con cintura su autobus ad Alessandria: lesioni a 7 giorni, figlio presente",
+      "url": "/cronaca/alessandria-donna-aggredita-con-cintura-su-autobus-3763242ca884a380",
+      "id": "3763242ca884a380",
+      "image_url": "https://images.unsplash.com/photo-1772960992212-6c9c703e5424?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxBbGVzc2FuZHJpYSUyMGF1dG9idXMlMjBsaW5lYSUyMDUlMjBhZ2dyZXNzaW9uZXxlbnwwfDB8fHwxNzc1MjMyNTA4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Iran: Pasdaran abbattere F-15E sopra Kermanshah, pilota catturato",
+      "url": "/cronaca/iran-pasdaran-abbattero-f-15e-usa-nel-cielo-di-ker-286bf033a055e348",
+      "id": "286bf033a055e348",
+      "image_url": "https://images.pexels.com/photos/29308486/pexels-photo-29308486.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
+    },
+    {
+      "title": "11 guide del monti everest arrestate per avellenamento",
+      "url": "/cronaca/11-guide-del-monte-everest-arrestate-per-avvelenam-c8cd4a34c5cc11b3",
+      "id": "c8cd4a34c5cc11b3",
+      "image_url": "https://images.pexels.com/photos/7785092/pexels-photo-7785092.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
+    }
+  ]
+}
