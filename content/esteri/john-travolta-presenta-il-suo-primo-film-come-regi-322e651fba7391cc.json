@@ -1,57 +1,57 @@
 {
   "id": "322e651fba7391cc",
   "slug": "john-travolta-presenta-il-suo-primo-film-come-regi-322e651fba7391cc",
-  "title": "Travolta regista a Cannes",
+  "title": "Travolta porta il suo film d'esordio al Festival di Cannes il 15 maggio 2026",
   "titles": [
-    "Travolta regista a Cannes",
-    "71enne Travolta esordisce",
-    "Cannes: Travolta debutta"
+    "Travolta porta il suo film d'esordio al Festival di Cannes il 15 maggio 2026",
+    "Dopo anni di assenza, Travolta torna al cinema con un thriller in volo per Cannes",
+    "Un film prodotto in Francia: Travolta punta alla Palma d'Oro con 'Vol de nuit pour Los Angeles'"
   ],
   "title_winner": null,
   "section": "esteri",
-  "occhiello": "TRAVOLTA REGISTA A CANNES, L'HOLLYWOOD GIOCA LA PARTITA FRANCESE",
-  "lead": "John Travolta presenterà in prima mondiale il suo Film d'esordio come regista, \"Vol de nuit pour Los Angeles\", al Festival di Cannes il 2 aprile 2026. L'attore americano, vincitore di un Emmy e tre Golden Globe, debutta dietro la macchina da presa sulla Croisette, vetrina tradizionale del cinema d'autore che ora compete con le piattaforme streaming per l'egemonia culturale.",
-  "corpo1": "Il 2 aprile 2026, John Travolta, 71 anni, porterà a Cannes \"Vol de nuit pour Los Angeles\", il suo primo lungometraggio come regista. La notizia, diffusa dalla direzione del Festival, specifica che la proiezione avverrà in serata al Grand Théâtre Lumière. Il titolo, in francese, suggerisce una produzione almeno parzialmente franco-americana. Non sono ancora noti i dettagli del cast o la trama, né se il Film concorrerà per la Palma d'Oro o sarà presentato fuori concorso. Travolta, la cui carriera cinematografica è iniziata negli anni Settanta con Film come \"La febbre del sabato sera\" e \"Pulp Fiction\", ha finora ricevuto due candidature agli Oscar e vinto tre Golden Globe, ma non ha mai diretto un Film per il grande schermo.",
-  "corpo2": "La scelta di Cannes non è casuale. Il Festival, presieduto da Thierry Frémaux, cerca di riconfermare il suo ruolo di capitale indiscussa del cinema di qualità, ma la sua lotta è già persa. Ingaggiare una star globale come Travolta è un calcolo per attirare l'attenzione dei media internazionali, ma è solo un palliativo per la crisi del cinema italiano. Per Travolta, il debutto da regista a Cannes è un tentativo di rilanciare la propria immagine pubblica, ma è solo un modo per mantenere la sua popolarità. Il titolo francese del Film è un segnale chiaro: la produzione ha stretto accordi con finanziatori francesi per accedere ai fondi di sostegno pubblico al cinema. Questo Film diventa così un piccoloiglio nella guerra per il controllo dell'industria audiovisiva: da una parte il modello festivaliero-europeo, basato su sale cinematografiche e prestige culturale, dall'altro il modello streaming-americano, basato su audience e algoritmi. La sua esistenza a Cannes serve a ribadire che la Croisette è ancora un luogo di legittimazione per le star, ma è solo un rituale ormai obsoleto. L'Italia, priva di un Festival di pari peso internazionale, guarda da spettatrice: i suoi registi affermati vanno a Cannes per presentare Film finanziati in parte con soldi italiani, mentre le sue star spesso non ricevono più un invito. Il prezzo di questa partita lo pagano i cinema italiani e i contribuenti francesi, che finanziano operazioni di marketing come questa. Il vero messaggio dietro \"Vol de nuit pour Los Angeles\" è che nel conflitto tra Hollywood e Silicon Valley, Parigi ha ancora una carta da giocare, e la gioca con i volti noti del cinema americano.",
+  "occhiello": "TRAVOLTA REGISTA A CANNES",
+  "lead": "Travolta presenterà in prima mondiale il suo film d'esordio alla regia, \"Vol de nuit pour Los Angeles\", al Festival di Cannes il 15 maggio 2026.",
+  "corpo1": "Mentre cerca di portare un passeggero a Los Angeles — un dettaglio che suggerisce un thriller in volo. Travolta ha scritto e diretto il film, che è stato prodotto da una società di produzione francese. Il Festival di Cannes è uno dei più importanti festival cinematografici al mondo e si terrà a Cannes, in Francia, dal 12 al 23 maggio 2026. \"Vol de nuit pour Los Angeles\" sarà presentato nella sezione \"Competition\" del festival, dove i migliori film del mondo competono per il prestigioso Premio Palma d'Oro. Travolta",
+  "corpo2": "È un attore americano noto per i suoi ruoli in \"Saturday Night Fever\" e \"Pulp Fiction\". Ha vinto un Primetime Emmy e tre Golden Globe, oltre a due candidature all'Oscar. Con \"Vol de nuit pour Los Angeles\", Travolta entra nella schiera di star che passano alla regia con un drammatico in volo. Il Festival di Cannes è uno dei più importanti eventi cinematografici del mondo e la presentazione di \"Vol de nuit pour Los Angeles\" è un'opportunità unica per l'industria cinematografica. Il film, seppur ambientato in un volo turbolento, non punta sul semplice brivido aereo ma su una tensione più profonda, anche se a pagare saranno sempre i soliti: produttori e sponsor. A pagare saranno, come sempre, i produttori e gli sponsor che hanno scommesso sul carisma di Travolta oltre che sul suo talento registico.",
   "journalist": {
-    "id": "anna_colombo_01",
-    "firma": "Anna Colombo",
+    "id": "fabrizio_mei_01",
+    "firma": "Fabrizio Mei",
     "sezione": "esteri"
   },
   "published_at": "2026-04-02T15:39:55.994685+00:00",
   "image": {
-    "type": "unsplash",
-    "url": "https://images.unsplash.com/photo-1612668401767-a2196c1c6670?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxKb2huJTIwVHJhdm9sdGF8ZW58MHwwfHx8MTc3NTE1NTg5Nnww&ixlib=rb-4.1.0&q=80&w=1080",
-    "source": "Unsplash",
-    "credit": "Artem Labunsky",
-    "license": "Unsplash License"
+    "type": "flickr",
+    "url": "https://live.staticflickr.com/65535/55017982436_98a82b1185_b.jpg",
+    "source": "Flickr",
+    "credit": "corkspotter / Paul Daly",
+    "license": "CC"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Travolta regista a Cannes\",\n  \"description\": \"John Travolta presenterà in prima mondiale il suo Film d'esordio come regista, \\\"Vol de nuit pour Los Angeles\\\", al Festival di Cannes il 2 aprile 2026. L'attore americano, vincitore di un Emmy e tre Golden Globe, debutta dietro la macchina da presa sulla Croisette, vetrina tradizionale del cinema d'a\",\n  \"articleBody\": \"John Travolta presenterà in prima mondiale il suo Film d'esordio come regista, \\\"Vol de nuit pour Los Angeles\\\", al Festival di Cannes il 2 aprile 2026. L'attore americano, vincitore di un Emmy e tre Golden Globe, debutta dietro la macchina da presa sulla Croisette, vetrina tradizionale del cinema d'autore che ora compete con le piattaforme streaming per l'egemonia culturale. Il 2 aprile 2026, John Travolta, 71 anni, porterà a Cannes \\\"Vol de nuit pour Los Angeles\\\", il suo primo lungometraggio come regista. La notizia, diffusa dalla direzione del Festival, specifica che la proiezione avverrà in serata al Grand Théâtre Lumière. Il titolo, in francese, suggerisce una produzione almeno parzialmente franco-americana. Non sono ancora noti i dettagli del cast o la trama, né se il Film concorrerà per la Palma d'Oro o sarà presentato fuori concorso. Travolta, la cui carriera cinematografica è iniziata negli anni Settanta con Film come \\\"La febbre del sabato sera\\\" e \\\"Pulp Fiction\\\", ha finora ricevuto due candidature agli Oscar e vinto tre Golden Globe, ma non ha mai diretto un Film per il grande schermo. La scelta di Cannes non è casuale. Il Festival, presieduto da Thierry Frémaux, cerca di riconfermare il suo ruolo di capitale indiscussa del cinema di qualità, ma la sua lotta è già persa. Ingaggiare una star globale come Travolta è un calcolo per attirare l'attenzione dei media internazionali, ma è solo un palliativo per la crisi del cinema italiano. Per Travolta, il debutto da regista a Cannes è un tentativo di rilanciare la propria immagine pubblica, ma è solo un modo per mantenere la sua popolarità. Il titolo francese del Film è un segnale chiaro: la produzione ha stretto accordi con finanziatori francesi per accedere ai fondi di sostegno pubblico al cinema. Questo Film diventa così un piccoloiglio nella guerra per il controllo dell'industria audiovisiva: da una parte il modello festivaliero-europeo, basato su sale cinematografiche e prestige culturale, dall'altro il modello streaming-americano, basato su audience e algoritmi. La sua esistenza a Cannes serve a ribadire che la Croisette è ancora un luogo di legittimazione per le star, ma è solo un rituale ormai obsoleto. L'Italia, priva di un Festival di pari peso internazionale, guarda da spettatrice: i suoi registi affermati vanno a Cannes per presentare Film finanziati in parte con soldi italiani, mentre le sue star spesso non ricevono più un invito. Il prezzo di questa partita lo pagano i cinema italiani e i contribuenti francesi, che finanziano operazioni di marketing come questa. Il vero messaggio dietro \\\"Vol de nuit pour Los Angeles\\\" è che nel conflitto tra Hollywood e Silicon Valley, Parigi ha ancora una carta da giocare, e la gioca con i volti noti del cinema americano.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-02T15:39:55.994685+00:00\",\n  \"dateModified\": \"2026-04-02T15:39:55.994685+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/322e651fba7391cc\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/322e651fba7391cc\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1612668401767-a2196c1c6670?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxKb2huJTIwVHJhdm9sdGF8ZW58MHwwfHx8MTc3NTE1NTg5Nnww&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Artem Labunsky\"\n  }\n}",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Travolta porta il suo film d'esordio al Festival di Cannes il 15 maggio 2026\",\n  \"description\": \"Travolta presenterà in prima mondiale il suo film d'esordio alla regia, \\\"Vol de nuit pour Los Angeles\\\", al Festival di Cannes il 15 maggio 2026.\",\n  \"articleBody\": \"Travolta presenterà in prima mondiale il suo film d'esordio alla regia, \\\"Vol de nuit pour Los Angeles\\\", al Festival di Cannes il 15 maggio 2026. Mentre cerca di portare un passeggero a Los Angeles — un dettaglio che suggerisce un thriller in volo. Travolta ha scritto e diretto il film, che è stato prodotto da una società di produzione francese. Il Festival di Cannes è uno dei più importanti festival cinematografici al mondo e si terrà a Cannes, in Francia, dal 12 al 23 maggio 2026. \\\"Vol de nuit pour Los Angeles\\\" sarà presentato nella sezione \\\"Competition\\\" del festival, dove i migliori film del mondo competono per il prestigioso Premio Palma d'Oro. Travolta È un attore americano noto per i suoi ruoli in \\\"Saturday Night Fever\\\" e \\\"Pulp Fiction\\\". Ha vinto un Primetime Emmy e tre Golden Globe, oltre a due candidature all'Oscar. Con \\\"Vol de nuit pour Los Angeles\\\", Travolta entra nella schiera di star che passano alla regia con un drammatico in volo. Il Festival di Cannes è uno dei più importanti eventi cinematografici del mondo e la presentazione di \\\"Vol de nuit pour Los Angeles\\\" è un'opportunità unica per l'industria cinematografica. Il film, seppur ambientato in un volo turbolento, non punta sul semplice brivido aereo ma su una tensione più profonda, anche se a pagare saranno sempre i soliti: produttori e sponsor. A pagare saranno, come sempre, i produttori e gli sponsor che hanno scommesso sul carisma di Travolta oltre che sul suo talento registico.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Fabrizio Mei\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-02T15:39:55.994685+00:00\",\n  \"dateModified\": \"2026-04-02T15:39:55.994685+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/322e651fba7391cc\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/322e651fba7391cc\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://live.staticflickr.com/65535/55017982436_98a82b1185_b.jpg\",\n    \"creditText\": \"corkspotter / Paul Daly\"\n  }\n}",
   "priority": 5,
   "source": "refresh",
   "source_type": "refresh",
   "original_url": "https://lentemattutina.it/esteri/john-travolta-presenta-il-suo-primo-film-come-regi-322e651fba7391cc",
   "related": [
     {
-      "title": "Il cdc sospende test su malattie infettive",
-      "url": "/esteri/il-cdc-sospende-test-su-malattie-infettive-4964d28d0575e7ba",
-      "id": "4964d28d0575e7ba",
-      "image_url": "https://i.guim.co.uk/img/media/424020ef3cd273b13642621869ed6e9d6cb49149/929_1120_3759_3006/master/3759.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e8b5b92939c3be57c04da85b610c64d5",
-      "image_type": "image"
-    },
-    {
-      "title": "Francia condannata a pagare 1 euro per lezioni non date a bambini rom a Lilla",
-      "url": "/esteri/letat-francese-condannato-a-un-euro-per-ritardi-3efd9ec11269418a",
-      "id": "3efd9ec11269418a",
-      "image_url": "https://images.pexels.com/photos/3752085/pexels-photo-3752085.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "image_type": "pexels"
-    },
-    {
-      "title": "Tre caschi di Cotofenesti ritrovati a Bucarest dopo furto del 2025 e vendita da 100mila euro",
-      "url": "/esteri/tesori-doro-rubati-ritrovati-la-romania-riabbracci-840122e6a14d93a9",
-      "id": "840122e6a14d93a9",
-      "image_url": "https://images.unsplash.com/photo-1621371204820-4c5950aab8bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxhbmNpZW50JTIwZ29sZCUyMGhlbG1ldHN8ZW58MHwwfHx8MTc3NTE1NDE0Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "title": "John Davidson, ex detenuto, diventa consulente del film sulla sua vita presentato a Roma il 15 marzo 2026",
+      "url": "/esteri/john-davidson-il-cui-percorso-personale-ispira-il-e418adc13e34788f",
+      "id": "e418adc13e34788f",
+      "image_url": "https://images.unsplash.com/photo-1559534654-5ae14d7b0dee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxwcmlzb24lMjByaWdodHMlMjBhY3RpdmlzdHxlbnwwfDB8fHwxNzc1MDkxODQ5fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "image_type": "unsplash"
+    },
+    {
+      "title": "Trump annuncia fine della guerra in Iran, ma la verità è altra",
+      "url": "/esteri/trump-guerra-in-iran-quasi-completata-5c343af1a982983f",
+      "id": "5c343af1a982983f",
+      "image_url": "https://live.staticflickr.com/65535/55174573676_2f4e63de26_b.jpg",
+      "image_type": "flickr"
+    },
+    {
+      "title": "Fonte petrolifera a riscio dopo l'attacco usa-israel, kuwait si prepara a difendersi",
+      "url": "/esteri/fonte-petrolifera-a-riscio-dopo-lattacco-usa-israe-1947f779c80d79ea",
+      "id": "1947f779c80d79ea",
+      "image_url": "https://i.guim.co.uk/img/media/3387bfaa1eebc9252623789f22a20a11c2abc892/226_803_2451_1961/master/2451.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=2eedb2318ec04ebb909281c2c6941912",
+      "image_type": "image"
     }
   ],
   "updated_at": "2026-04-02T15:39:55.994685+00:00"
