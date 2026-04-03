@@ -1,5 +1,19 @@
 [
   {
+    "id": "e29140269a8ed18e",
+    "slug": "apple-rilascia-ios-1877-per-bloccare-lo-spyware-da-e29140269a8ed18e",
+    "title": "Apple rilascia iOS 18.7.7: patch contro lo spyware DarkSword che infetta iPhone e iPad",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-04-02T14:19:02.358631+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/16333805/pexels-photo-16333805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "APPLE RILASCE AGGIORNAMENTO PER BLOCCARE LO SPYWARE DARKSWORD",
+    "lead_preview": "Il 2 aprile 2026, Apple rilascia l'aggiornamento iOS 18.7.7 per correggere una vulnerabilità sfruttata dallo spyware Dar",
+    "tags": []
+  },
+  {
     "id": "820f5ada4f81aeb7",
     "slug": "europarlamentare-palestinese-fermata-a-parigi-per-820f5ada4f81aeb7",
     "title": "Rima Hassan fermata a Parigi per apologia di terrorismo su Okamoto",
@@ -1026,23 +1040,6 @@
     "occhiello": "FILMING DAY A MONZA: HAMILTON GUIDA LA FERRARI",
     "lead_preview": "Ferrari ha convocato Lewis Hamilton e Charles Leclerc per un filming day il 22 aprile a Monza. Un'uscita pubblicitaria c",
     "tags": []
-  },
-  {
-    "id": "e29140269a8ed18e",
-    "slug": "apple-rilascia-ios-1877-per-bloccare-lo-spyware-da-e29140269a8ed18e",
-    "title": "Apple rilascia iOS 18.7.7 contro lo spyware DarkSword",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-04-02T14:19:02.358631+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1762340915398-000c216e7cd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxpUGhvbmUlMjBzb2Z0d2FyZSUyMHVwZGF0ZXxlbnwwfDB8fHwxNzc1MTQ3MjM2fDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "APPLE BLOCCA LO SPYWARE DARKSWORD",
-    "lead_preview": "Apple ha rilasciato l'aggiornamento iOS 18.7.7 il 2 aprile 2026 per correggere una vulnerabilità sfruttata dallo spyware",
-    "tags": [
-      "ios 18.7.7",
-      "spyware darksword"
-    ]
   },
   {
     "id": "25b681d974e44ee1",
