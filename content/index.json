@@ -1,5 +1,19 @@
 [
   {
+    "id": "662cd4b1d5d82bf1",
+    "slug": "ex-turbstile-guitarrista-chiesto-per-assalto-con-l-662cd4b1d5d82bf1",
+    "title": "Ex-turbstile guitarrista chiesto per assalto con la macchina",
+    "section": "esteri",
+    "priority": 3,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-03T10:42:29.650044+00:00",
+    "image_type": "image",
+    "image_url": "https://i.guim.co.uk/img/media/bd553c35bbd28c4eea6a6fc6f2a06d63ae94a881/600_0_5540_4435/master/5540.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0b2e2b64e1933917865e16c9e5270d36",
+    "occhiello": "EX-TURBSTILE GUITARRISTA CHIESTO PER ASSALTO CON LA MACCHINA",
+    "lead_preview": "Brady Ebert, ex chitarrista del gruppo hardcore punk Turnstile, è stato accusato di tentato omicidio di secondo grado pe",
+    "tags": []
+  },
+  {
     "id": "2bbb3efa53a68e37",
     "slug": "openai-acquista-tbpn-per-controllare-il-dibattito-2bbb3efa53a68e37",
     "title": "Openai acquista tbpn per controllare il dibattito sull'ia",
@@ -8556,23 +8570,6 @@
       "delmastro",
       "italia nostra",
       "fondi illeciti"
-    ]
-  },
-  {
-    "id": "eb96db164e9af30f",
-    "slug": "fbi-spinge-per-pubblicare-archivi-sullamico-di-tru-eb96db164e9af30f",
-    "title": "Gli archivi dell'FBI su Swalwell: governo Trump vuole pubblicazione",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-03-30T23:22:15.619420+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1665848383782-1ea74efde68f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxGQkklMjBhZ2VudCUyMGFjY3VzZWQlMjBvZiUyMHNweWluZ3xlbnwwfDB8fHwxNzc0OTIwMjk1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "FBI CHIEDE DI PUBBLICARE ARCHIVI SULL'AMICO DI TRUMP SWALWELL",
-    "lead_preview": "Il governo Trump cerca di rendere pubblici gli archivi di una inchiesta dell'FBI relative a Eric Swalwell, un rappresent",
-    "tags": [
-      "caso swalwell",
-      "governo trump"
     ]
   }
 ]
