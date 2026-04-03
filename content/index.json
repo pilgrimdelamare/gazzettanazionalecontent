@@ -1,5 +1,23 @@
 [
   {
+    "id": "c135a3daaf5c908b",
+    "slug": "donna-arrestata-per-tentato-omicidio-a-napoli-c135a3daaf5c908b",
+    "title": "Maria Rosa Esposito, 32enne di Napoli, arrestata per tentato omicidio il 3 aprile",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-04-03T15:39:55.277281+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1772653319380-0beed272a9f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxOYXBvbGklMjB0ZW50YXRvJTIwb21pY2lkaW98ZW58MHwwfHx8MTc3NTI0MTIzNXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "ARRESTO A NAPOLI: DONNA SOSPESA PER TENTATO OMICIDIO",
+    "lead_preview": "La polizia napoletana ha arrestato venerdì 3 aprile 2026 Maria Rosa Esposito, 32 anni, per tentato omicidio. L'arresto è",
+    "tags": [
+      "arresto napoli",
+      "tentato omicidio",
+      "maria rosa esposito"
+    ]
+  },
+  {
     "id": "d927b5526c6f2513",
     "slug": "primo-aereo-da-guerra-usa-abbattuto-in-iran-d927b5526c6f2513",
     "title": "Primo aereo da guerra usa abbattuto in iran",
@@ -605,24 +623,6 @@
       "mostra parthenope mann",
       "sirena parthenope",
       "museo napoli 2025"
-    ]
-  },
-  {
-    "id": "c135a3daaf5c908b",
-    "slug": "donna-arrestata-per-tentato-omicidio-a-napoli-c135a3daaf5c908b",
-    "title": "Donna arrestata per tentato omicidio a Napoli",
-    "section": "cronaca",
-    "priority": 7,
-    "journalist_firma": "Chiara Esposito",
-    "published_at": "2026-04-03T15:39:55.277281+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2019/10/2/fa6f811cc1336ad3a22ea3cefe04a865.jpg",
-    "occhiello": "PREGRESSO AGGREDITA CON SPRAY E COLPI ALLA TESTA",
-    "lead_preview": "Una donna di 32 anni, identificata come Maria Rosa Esposito, è stata arrestata venerdì 3 aprile 2026 per tentato omicidi",
-    "tags": [
-      "tentatoomicidio",
-      "napoli",
-      "processo esposito"
     ]
   },
   {
