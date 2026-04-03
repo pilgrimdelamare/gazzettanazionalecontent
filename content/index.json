@@ -1,5 +1,21 @@
 [
   {
+    "id": "92ab6dec43e1c38c",
+    "slug": "padalino-italia-va-cambiato-il-momento-92ab6dec43e1c38c",
+    "title": "Padalino: 'Italia, va cambiato il momento'",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Chiara Esposito",
+    "published_at": "2026-04-03T14:54:10.606467+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/03/padalino-1200-1200x630.jpg",
+    "occhiello": "DISFATTA AZZURRA RICORDA BOSNIA 1996",
+    "lead_preview": "Pasquale Padalino, che giocò per la nazionale italiana nel 1996, ricorda la partita contro la Bosnia e commenta la recen",
+    "tags": [
+      "disfatta azzurra"
+    ]
+  },
+  {
     "id": "b7e54e2039f9b9c1",
     "slug": "romanzo-di-sergi-trae-ispirazione-da-vicende-minim-b7e54e2039f9b9c1",
     "title": "Romanzo di sergi trae ispirazione da vicende minime",
@@ -8513,23 +8529,6 @@
     "tags": [
       "mps",
       "fondi iss"
-    ]
-  },
-  {
-    "id": "c2fab1eb9e416ee9",
-    "slug": "calcio-italia-in-campo-a-zenica-per-la-finale-play-c2fab1eb9e416ee9",
-    "title": "Calcio: Gattuso sfida la Bosnia a Zenica per il playoff mondiale",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-03-30T22:41:13.026222+00:00",
-    "image_type": "none",
-    "image_url": "",
-    "occhiello": "ITALIA IN FINALE PLAYOFF A ZENICA",
-    "lead_preview": "Il 30 marzo 2026, Gattuso e la nazionale italiana scendono in campo a Zenica per la finale playoff contro la Bosnia.",
-    "tags": [
-      "calcio",
-      "playoff mondiale"
     ]
   }
 ]
