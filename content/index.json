@@ -1,5 +1,23 @@
 [
   {
+    "id": "53977625940fbf5a",
+    "slug": "new-york-times-licenzia-giornalista-per-recensione-53977625940fbf5a",
+    "title": "Il New York Times licenzia critico Alex Preston per recensione scritta con IA",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-04-03T11:05:18.092555+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1556073498-c13d8df9c474?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxBbGV4JTIwUHJlc3RvbnxlbnwwfDB8fHwxNzc1MjIzOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "NEW YORK TIMES LICENZIA GIURNALISTA PER RECENSIONE GENERATA DA IA",
+    "lead_preview": "Alex Preston, critico letterario freelance collaboratore del New York Times, è stato licenziato il 3 aprile 2026 dopo ch",
+    "tags": [
+      "licenziamento alex preston",
+      "recensione ia new york times",
+      "giornalismo e intelligenza artificiale"
+    ]
+  },
+  {
     "id": "f61ff47a3fad239f",
     "slug": "casta-del-pallone-si-barrica-f61ff47a3fad239f",
     "title": "Casta del pallone si barrica",
@@ -713,20 +731,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/3/a904f148b8f20d40737c7fe49149f81f.jpg",
     "occhiello": "BORGO INCORONATA SOMMERSO DAL FANGO, CASE INAGIBILI",
     "lead_preview": "Il fiume Cervaro è esondato a Borgo Incoronata, in provincia di Foggia, il 3 aprile 2026, lasciando 60 centimetri di fan",
-    "tags": []
-  },
-  {
-    "id": "53977625940fbf5a",
-    "slug": "new-york-times-licenzia-giornalista-per-recensione-53977625940fbf5a",
-    "title": "New york times licenzia giornalista per recensione generata da ia",
-    "section": "tecnologia",
-    "priority": 6,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-04-03T11:05:18.092555+00:00",
-    "image_type": "image",
-    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/01/05/med-1200x630-32-1200x630.jpg",
-    "occhiello": "NEW YORK TIMES LICENZIA GIORNALISTA PER RECENSIONE GENERATA DA IA",
-    "lead_preview": "Alex Preston, critico letterario freelance collaboratore del New York Times, è stato licenziato il 3 aprile 2026 dopo ch",
     "tags": []
   },
   {
