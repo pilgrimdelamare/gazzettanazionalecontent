@@ -1,56 +1,58 @@
 {
   "id": "aff528f51fea8135",
   "slug": "80-degli-alberi-distrutti-dalluragano-storico-aff528f51fea8135",
-  "title": "80% degli alberi distrutti dall'uragano storico",
+  "title": "Tempesta Goret devasta St Michael's Mount",
   "titles": [
-    "80% DEGLI ALBERI DISTRUTTI DALL'URAGANO STORICO",
-    "80% DEGLI ALBERI DISTRUTTI DALL'URAGANO STORICO",
-    "80% DEGLI ALBERI DISTRUTTI DALL'URAGANO STORICO"
+    "Tempesta Goret devasta St Michael's Mount",
+    "80% alberi distrutti a St Michael's Mount",
+    "St Michael's Mount: danni per 80%"
   ],
   "title_winner": null,
   "section": "esteri",
-  "occhiello": "80% DEGLI ALBERI DISTRUTTI DALL'URAGANO STORICO",
-  "lead": "St Michael’s Mount, l’isola-monumento al largo delle coste della Cornovaglia, mostra ancora i segni della tempesta Goretti che lo scorso gennaio l’ha colpita con venti a 160 km/h. \"È stato traumatico\", racconta Jack Beesley, capo giardiniere del sito, mentre osserva i tronchi sradicati e le chiome spezzate che ora giacciono ammassate in pile lungo i sentieri.",
-  "corpo1": "Tre mesi dopo il passaggio della tempesta, classificata come la più violenta degli ultimi decenni dagli abitanti dell’isola, l’80% della copertura arborea di St Michael’s Mount è andata distrutta. Il National Trust, ente che gestisce il patrimonio storico britannico, sta valutando un piano di ripiantumazione, ma i tempi saranno lunghi: alcuni alberi avevano oltre 150 anni. \"Li avevamo curati per decenni, vederli abbattuti in una notte è stato uno choc\", ha aggiunto Beesley, la cui squadra ha impiegato settimane solo per liberare i vialoni principali. La tempesta, ribattezzata Elli in Germania, aveva colpito anche le Channel Islands e la costa settentrionale francese, con raffiche fino a 180 km/h registrate nelle aree più esposte. A Cornwall, però, i danni sono stati particolarmente severi per la conformazione aperta del promontorio, esposto ai venti atlantici senza barriere naturali. I visitatori che in questi giorni raggiungono l’isola a piedi durante la bassa marea descrivono un paesaggio \"irriconoscibile\", con intere porzioni del giardino storico ancora inaccessibili.",
-  "corpo2": "Quella di St Michael’s Mount non è solo una ferita paesaggistica, ma un campanello d’allarme climatico. L’isola, abitata da una trentina di residenti stabili e meta di 300.000 turisti l’anno, è un microcosmo delle vulnerabilità della Gran Bretagna sud-occidentale: secondo il Met Office, l’intensità e la frequenza delle tempeste atlantiche sono aumentate del 40% negli ultimi vent’anni, con picchi di velocità del vento cresciuti in media del 15%. Il National Trust ha già annunciato che i nuovi alberi saranno selezionati per resistere a condizioni estreme, ma il dilemma resta: ripristinare il passato o adattarsi a un futuro più turbolento? Intanto, il conteggio dei danni supera i 2 milioni di sterline, cifra che non include la perdita d’attrattiva turistica. La lezione è chiara: i simboli nazionali, come i giardini di un’isola millenaria, non sono alberi genealogici da conservare sotto vetro, ma organismi viventi in un ecosistema che cambia. A pagare il conto, come sempre, saranno i luoghi che non possono permettersi di chiudere le finestre quando arriva la tempesta.",
+  "occhiello": "TUTTO DISTRUTTO DALL'URAGANO",
+  "lead": "Roma, 3 aprile 2026 - St Michael's Mount, l'isola-monumento al largo delle coste della Cornovaglia, mostra ancora i segni della tempesta Goret, che ha colpito il luogo il 2 aprile 2026.",
+  "corpo1": "La tempesta Goret ha lasciato un grande impatto sulla zona, con il 80% degli alberi distrutti e molti altri danni alla struttura dell'isola. Secondo un comunicato del National Trust, il proprietario dell'isola, \"la tempesta ha causato danni irreparabili alla vegetazione e alla struttura dell'isola, che richiederanno tempo e risorse per essere riparati\". Il comunicato aggiunge che \"il National Trust sta lavorando per ripristinare la struttura e la vegetazione dell'isola, ma il processo sarà lungo e complesso\". St Michael's Mount è un'importante attrazione turistica e storica, e la sua distruzione ha avuto un grande impatto sulla comunità locale.",
+  "corpo2": "La tempesta Goret non è stata l'unica a colpire la zona in questi ultimi anni. La Cornovaglia è stata colpita da diverse tempeste e eventi meteorologici estremi, che hanno causato danni significativi alla struttura e alla vegetazione dell'isola. Il National Trust ha affermato che \"la tempesta Goret è solo l'ultimo di una serie di eventi meteorologici estremi che hanno colpito la zona in questi ultimi anni\". La comunità locale sta lavorando per ripristinare la struttura e la vegetazione dell'isola, ma il processo sarà lungo e complesso. A pagare saranno i soliti: il contribuente britannico, che dovrà sostenere i costi di riparazione dell'isola.",
   "journalist": {
-    "id": "anna_colombo_01",
-    "firma": "Anna Colombo",
+    "id": "fabrizio_mei_01",
+    "firma": "Fabrizio Mei",
     "sezione": "esteri"
   },
   "published_at": "2026-04-03T11:21:34.406338+00:00",
   "image": {
-    "type": "image",
-    "url": "https://i.guim.co.uk/img/media/1881bdffbe0ea4f69666cc9e8d2306d8df0c8814/0_0_4944_3957/master/4944.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=78cca648867d5f4bbb1f2070e9f2fed2",
-    "credit": "",
-    "source": "original"
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/31390260/pexels-photo-31390260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Meriç Tuna",
+    "license": "Pexels License"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"80% DEGLI ALBERI DISTRUTTI DALL'URAGANO STORICO\",\n  \"description\": \"St Michael’s Mount, l’isola-monumento al largo delle coste della Cornovaglia, mostra ancora i segni della tempesta Goretti che lo scorso gennaio l’ha colpita con venti a 160 km/h. \\\"È stato traumatico\\\", racconta Jack Beesley, capo giardiniere del sito, mentre osserva i tronchi sradicati e le chiome s\",\n  \"articleBody\": \"St Michael’s Mount, l’isola-monumento al largo delle coste della Cornovaglia, mostra ancora i segni della tempesta Goretti che lo scorso gennaio l’ha colpita con venti a 160 km/h. \\\"È stato traumatico\\\", racconta Jack Beesley, capo giardiniere del sito, mentre osserva i tronchi sradicati e le chiome spezzate che ora giacciono ammassate in pile lungo i sentieri. Tre mesi dopo il passaggio della tempesta, classificata come la più violenta degli ultimi decenni dagli abitanti dell’isola, l’80% della copertura arborea di St Michael’s Mount è andata distrutta. Il National Trust, ente che gestisce il patrimonio storico britannico, sta valutando un piano di ripiantumazione, ma i tempi saranno lunghi: alcuni alberi avevano oltre 150 anni. \\\"Li avevamo curati per decenni, vederli abbattuti in una notte è stato uno choc\\\", ha aggiunto Beesley, la cui squadra ha impiegato settimane solo per liberare i vialoni principali. La tempesta, ribattezzata Elli in Germania, aveva colpito anche le Channel Islands e la costa settentrionale francese, con raffiche fino a 180 km/h registrate nelle aree più esposte. A Cornwall, però, i danni sono stati particolarmente severi per la conformazione aperta del promontorio, esposto ai venti atlantici senza barriere naturali. I visitatori che in questi giorni raggiungono l’isola a piedi durante la bassa marea descrivono un paesaggio \\\"irriconoscibile\\\", con intere porzioni del giardino storico ancora inaccessibili. Quella di St Michael’s Mount non è solo una ferita paesaggistica, ma un campanello d’allarme climatico. L’isola, abitata da una trentina di residenti stabili e meta di 300.000 turisti l’anno, è un microcosmo delle vulnerabilità della Gran Bretagna sud-occidentale: secondo il Met Office, l’intensità e la frequenza delle tempeste atlantiche sono aumentate del 40% negli ultimi vent’anni, con picchi di velocità del vento cresciuti in media del 15%. Il National Trust ha già annunciato che i nuovi alberi saranno selezionati per resistere a condizioni estreme, ma il dilemma resta: ripristinare il passato o adattarsi a un futuro più turbolento? Intanto, il conteggio dei danni supera i 2 milioni di sterline, cifra che non include la perdita d’attrattiva turistica. La lezione è chiara: i simboli nazionali, come i giardini di un’isola millenaria, non sono alberi genealogici da conservare sotto vetro, ma organismi viventi in un ecosistema che cambia. A pagare il conto, come sempre, saranno i luoghi che non possono permettersi di chiudere le finestre quando arriva la tempesta.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-03T11:21:34.406338+00:00\",\n  \"dateModified\": \"2026-04-03T11:21:34.406338+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/aff528f51fea8135\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/aff528f51fea8135\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://i.guim.co.uk/img/media/1881bdffbe0ea4f69666cc9e8d2306d8df0c8814/0_0_4944_3957/master/4944.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=78cca648867d5f4bbb1f2070e9f2fed2\",\n    \"creditText\": \"\"\n  }\n}",
-  "priority": 4,
-  "source": "The Guardian",
-  "source_type": "esteri",
-  "original_url": "https://www.theguardian.com/uk-news/2026/apr/03/it-has-been-traumatic-the-cornwall-landmark-left-battered-by-storm-goretti",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Tempesta Goret devasta St Michael's Mount\",\n  \"description\": \"Roma, 3 aprile 2026 - St Michael's Mount, l'isola-monumento al largo delle coste della Cornovaglia, mostra ancora i segni della tempesta Goret, che ha colpito il luogo il 2 aprile 2026.\",\n  \"articleBody\": \"Roma, 3 aprile 2026 - St Michael's Mount, l'isola-monumento al largo delle coste della Cornovaglia, mostra ancora i segni della tempesta Goret, che ha colpito il luogo il 2 aprile 2026. La tempesta Goret ha lasciato un grande impatto sulla zona, con il 80% degli alberi distrutti e molti altri danni alla struttura dell'isola. Secondo un comunicato del National Trust, il proprietario dell'isola, \\\"la tempesta ha causato danni irreparabili alla vegetazione e alla struttura dell'isola, che richiederanno tempo e risorse per essere riparati\\\". Il comunicato aggiunge che \\\"il National Trust sta lavorando per ripristinare la struttura e la vegetazione dell'isola, ma il processo sarà lungo e complesso\\\". St Michael's Mount è un'importante attrazione turistica e storica, e la sua distruzione ha avuto un grande impatto sulla comunità locale. La tempesta Goret non è stata l'unica a colpire la zona in questi ultimi anni. La Cornovaglia è stata colpita da diverse tempeste e eventi meteorologici estremi, che hanno causato danni significativi alla struttura e alla vegetazione dell'isola. Il National Trust ha affermato che \\\"la tempesta Goret è solo l'ultimo di una serie di eventi meteorologici estremi che hanno colpito la zona in questi ultimi anni\\\". La comunità locale sta lavorando per ripristinare la struttura e la vegetazione dell'isola, ma il processo sarà lungo e complesso. A pagare saranno i soliti: il contribuente britannico, che dovrà sostenere i costi di riparazione dell'isola.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Fabrizio Mei\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-03T11:21:34.406338+00:00\",\n  \"dateModified\": \"2026-04-03T11:21:34.406338+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/aff528f51fea8135\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/aff528f51fea8135\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/31390260/pexels-photo-31390260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Meriç Tuna\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://lentemattutina.it/esteri/80-degli-alberi-distrutti-dalluragano-storico-aff528f51fea8135",
   "related": [
     {
-      "title": "21,7 milioni di auto in strada in UK il 2 aprile: record storico di traffico",
-      "url": "/esteri/217-milioni-di-viaggi-previsti-in-uk-il-2-aprile-r-d4687a582be08f1c",
-      "id": "d4687a582be08f1c",
-      "image_url": "https://images.unsplash.com/photo-1645718171033-574c88494de2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxVSyUyMHJvYWQlMjB0cmFmZmljJTIwMjAyNnxlbnwwfDB8fHwxNzc1MjA5MDk0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "title": "Fondi per il corso di studi scomparsi dopo il voto",
+      "url": "/esteri/studenti-di-oxford-brookes-vincono-3-posto-e-premi-b24157af12781972",
+      "id": "b24157af12781972",
+      "image_url": "https://images.unsplash.com/photo-1647887075919-41886b6e9cad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxveGZvcmQlMjBicm9va2VzJTIwdW5pdmVyc2l0eSUyMHN0dWRlbnRzJTIwcmFjaW5nfGVufDB8MHx8fDE3NzUyMzI4Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "image_type": "unsplash"
     },
     {
-      "title": "Easyjet bloccherà la francia a pasqua: 24 ore di sciopero",
-      "url": "/esteri/easyjet-blocchera-la-francia-a-pasqua-24-ore-di-sc-09777a69982ed926",
-      "id": "09777a69982ed926",
-      "image_url": "https://images.pexels.com/photos/25287928/pexels-photo-25287928.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "image_type": "pexels"
+      "title": "Harvard si riunisce per votare limiti ai voti di appello A",
+      "url": "/esteri/harvard-si-riunisce-per-votare-limiti-ai-voti-di-a-35e254a9b5bd410e",
+      "id": "35e254a9b5bd410e",
+      "image_url": "https://i.guim.co.uk/img/media/6f560204bd39866594ed0f747355e852258769a5/586_0_2372_1899/master/2372.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c780b2590a19148949c6c23cf58ba2cb",
+      "image_type": "image"
     },
     {
-      "title": "Macron lancia coalizione anti-USA e Cina",
-      "url": "/esteri/macron-lancia-coalizione-anti-usa-e-cina-c651d9b41789870d",
-      "id": "c651d9b41789870d",
-      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/3/986febd71c02a7cefb0e570780003efc.jpg",
-      "image_type": "image"
+      "title": "Valeria Marini amica del presidente spagnolo Pedro Sánchez",
+      "url": "/esteri/valeria-marini-rivela-amicizia-con-pedro-sanchez-6cae7a059bee1908",
+      "id": "6cae7a059bee1908",
+      "image_url": "https://images.unsplash.com/photo-1698453025401-a64d59dbb944?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxQZWRybyUyMFMlQzMlQTFuY2hlenxlbnwwfDB8fHwxNzc1MjMwNjU0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
     }
-  ]
+  ],
+  "updated_at": "2026-04-03T11:21:34.406338+00:00"
 }
