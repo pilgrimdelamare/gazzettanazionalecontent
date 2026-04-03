@@ -1,5 +1,23 @@
 [
   {
+    "id": "ce83a5ba768e79e2",
+    "slug": "3382-posti-in-palio-ministero-della-difesa-lancia-ce83a5ba768e79e2",
+    "title": "3.382 posti in palio: ministero della Difesa lancia maxi reclutamento",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-03T04:41:33.493037+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/02/215214931-4e803e35-2192-4973-a315-a5712d9a2bce.jpg",
+    "occhiello": "MAXI RECLUTAMENTO FORZE ARMATE: 3.400 VOLONTARI CI SONO",
+    "lead_preview": "Il ministero della Difesa ha pubblicato il bando per 3.382 volontari in ferma triennale nell'Esercito, nella Marina e ne",
+    "tags": [
+      "reclutamento forze armate",
+      "maxi reclutamento",
+      "ministero difesa"
+    ]
+  },
+  {
     "id": "dc20044795d46c21",
     "slug": "gravina-e-buffon-a-congedo-dopo-8-anni-al-timone-d-dc20044795d46c21",
     "title": "Gravina e Buffon a congedo dopo 8 anni al timone della FIGC",
@@ -8544,23 +8562,6 @@
     "tags": [
       "formula 1",
       "gran premio austin"
-    ]
-  },
-  {
-    "id": "789f0ab85adc4a5f",
-    "slug": "reggio-emilia-batte-brescia-101-92-789f0ab85adc4a5f",
-    "title": "Reggio emilia batte brescia 101-92",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-03-29T22:16:59.203849+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Serie_A3_pallacanestro.png",
-    "occhiello": "REGGIO EMILIA BATTE BRESCIA 101-92",
-    "lead_preview": "Domenica 29 marzo 2026, la Reggio Emilia ha sconfitto la Brescia con un punteggio di 101-92, nella partita di Serie A ba",
-    "tags": [
-      "reggio emilia basket",
-      "serie a basket"
     ]
   }
 ]
