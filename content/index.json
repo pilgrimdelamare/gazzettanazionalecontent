@@ -1,5 +1,22 @@
 [
   {
+    "id": "0d6140bcf26e46cd",
+    "slug": "wired-italia-le-3-migliori-piastre-a-induzione-0d6140bcf26e46cd",
+    "title": "Wired Italia: le 3 migliori piastre a induzione",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-04-03T14:40:32.610865+00:00",
+    "image_type": "image",
+    "image_url": "https://media-assets.wired.it/photos/69cf8eb80c099328228b5474/16:9/w_1280,c_limit/piastre%20a%20induzione%20portatili%20aprile%202026.jpg",
+    "occhiello": "PIASTRE A INDUZIONE PORTATILI IN VOGA",
+    "lead_preview": "Gaia Masiero e Marco Ravetto, giornalisti di Wired Italia, hanno pubblicato un articolo il 3 aprile 2026 sulle migliori ",
+    "tags": [
+      "piastre induzione",
+      "wired italia"
+    ]
+  },
+  {
     "id": "32c8daae58dc52d4",
     "slug": "calabria-10-milioni-di-euro-di-danni-allagricoltur-32c8daae58dc52d4",
     "title": "Calabria, 10 milioni di euro di danni all'agricoltura per maltempo: richiesto stato di calamità",
@@ -8517,23 +8534,6 @@
       "italia bosnia",
       "mondiali 2026",
       "calcio italia"
-    ]
-  },
-  {
-    "id": "a2324ed099bd2559",
-    "slug": "ronaldo-acquista-attico-da-78-milioni-a-miami-a2324ed099bd2559",
-    "title": "Ronaldo compra attico da 7,8 milioni a Miami",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-03-31T00:00:14.187373+00:00",
-    "image_type": "flickr",
-    "image_url": "https://live.staticflickr.com/65535/55157457980_39e4461414_b.jpg",
-    "occhiello": "RONALDO ACQUISTA ATTICO DA 7,8 MILIONI",
-    "lead_preview": "Ronaldo, proprietario del Real Valladolid e del Cruzeiro, ha acquistato un attico da 7,8 milioni di dollari a Bay Harbor",
-    "tags": [
-      "ronaldo acquista attico",
-      "miami luxury property"
     ]
   }
 ]
