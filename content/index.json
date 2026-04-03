@@ -1,5 +1,19 @@
 [
   {
+    "id": "d4dcea5c44cc60be",
+    "slug": "pressione-fiscale-al-514-d4dcea5c44cc60be",
+    "title": "Su ogni 100 euro ne restano 48,6",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-03T20:14:14.795366+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1635675062617-fc46cb2c04b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxwcmVzc2lvbmUlMjBmaXNjYWxlJTIwSXRhbGlhfGVufDB8MHx8fDE3NzUyNTYxMjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "SU OGNI 100 EURO NE RESTANO 48,6",
+    "lead_preview": "Secondo i dati Istat relativi al quarto trimestre 2025, pubblicati il 3 aprile 2026, la pressione fiscale in Italia ha r",
+    "tags": []
+  },
+  {
     "id": "a6015761c62f3512",
     "slug": "rosario-murillo-chiama-serpenti-velenosi-clero-ed-a6015761c62f3512",
     "title": "Rosario Murillo chiama 'serpenti velenosi' clero ed esuli nel suo discorso del 3 aprile",
@@ -330,20 +344,6 @@
       "processo filice",
       "macellaio reggio"
     ]
-  },
-  {
-    "id": "d4dcea5c44cc60be",
-    "slug": "pressione-fiscale-al-514-d4dcea5c44cc60be",
-    "title": "Pressione fiscale al 51,4%",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-04-03T20:14:14.795366+00:00",
-    "image_type": "image",
-    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/02/05/med-1200x630-21-1200x630.jpg",
-    "occhiello": "PRESSIONE FISCALE AL 51,4%",
-    "lead_preview": "Secondo l'Istat, la pressione fiscale in Italia ha raggiunto il 51,4% nel quarto trimestre del 2025",
-    "tags": []
   },
   {
     "id": "87c5af3de0d055f7",
