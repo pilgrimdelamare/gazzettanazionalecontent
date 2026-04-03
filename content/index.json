@@ -1,5 +1,19 @@
 [
   {
+    "id": "4150fc86b98e1507",
+    "slug": "tentato-femminicidio-arrestato-il-marito-in-fuga-4150fc86b98e1507",
+    "title": "Tentato femminicidio, arrestato il marito in fuga",
+    "section": "cronaca",
+    "priority": 4,
+    "journalist_firma": "Chiara Esposito",
+    "published_at": "2026-04-03T08:14:35.871401+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2025/04/15/Carabinieri-1200x630.jpg",
+    "occhiello": "TENTATO FEMMINICIDIO, ARRESTATO IL MARITO IN FUGA",
+    "lead_preview": "Una donna di 51 anni è stata accoltellata ieri sera, 3 aprile 2026, nel rione Picanello di Catania dal marito 56enne, ch",
+    "tags": []
+  },
+  {
     "id": "39afe8372b0950cc",
     "slug": "inps-fine-del-blocco-iscro-e-dis-coll-ora-ai-lavor-39afe8372b0950cc",
     "title": "L'Inps: finita la corsa contro i termini di Iscro e Dis-coll",
@@ -8518,22 +8532,6 @@
     "lead_preview": "Ilaria Agius vince la gara di Moto2 ad Austin, mentre Joan Piqueras è vittima di un grave incidente che lo lascia con un",
     "tags": [
       "moto2 austin"
-    ]
-  },
-  {
-    "id": "8f6d6516cd05b22f",
-    "slug": "speleologa-cade-in-grotta-a-foligno-soccorsa-dopo-8f6d6516cd05b22f",
-    "title": "Speleologa bloccata 6 ore a Foligno",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-03-29T21:45:41.071458+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Centro_visite_e_museo_sul_carsismo_e_la_speleologia_abc15.jpg",
-    "occhiello": "Speleologa cade in grotta a Foligno, intervento tempestivo dei soccorsi",
-    "lead_preview": "La speleologa Maria Grazia Rizzo, 32 anni, è stata soccorsa ieri sera a Foligno dopo essere rimasta bloccata per sei ore",
-    "tags": [
-      "incidente foligno"
     ]
   }
 ]
