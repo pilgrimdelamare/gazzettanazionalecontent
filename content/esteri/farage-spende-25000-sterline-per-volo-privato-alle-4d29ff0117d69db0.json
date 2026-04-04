@@ -1,37 +1,44 @@
 {
   "id": "4d29ff0117d69db0",
   "slug": "farage-spende-25000-sterline-per-volo-privato-alle-4d29ff0117d69db0",
-  "title": "Farage spende 25.000 sterline per volo privato",
+  "title": "Farage spende 25.000 sterline per due giorni alle Maldive",
   "titles": [
-    "FARAGE SPENDE 25.000 STERLINE PER VOLO PRIVATO",
-    "FARAGE SPENDE 25.000 STERLINE PER VOLO PRIVATO",
-    "FARAGE SPENDE 25.000 STERLINE PER VOLO PRIVATO"
+    "Farage spende 25.000 sterline per due giorni alle Maldive",
+    "Farage si ferma in resort 5 stelle con volo privato a 25.000 sterline",
+    "Farage, il leader che spende la sua quota di aiuti britannici in lusso"
   ],
   "title_winner": null,
   "section": "esteri",
-  "occhiello": "FARAGE SPENDE 25.000 STERLINE PER VOLO PRIVATO",
-  "lead": "Nigel Farage, leader del partito Reform UK, ha trascorso due giorni alle Maldive in un viaggio di lusso, con un costo di 25.000 sterline per il volo privato.",
-  "corpo1": "Secondo le informazioni disponibili, il viaggio di Farage alle Maldive è stato criticato per il suo costo elevato, che ammonta a 25.000 sterline per il solo volo privato. Questo viaggio è stato oggetto di discussione nel Parlamento britannico, dove Farage ha dichiarato che il viaggio era necessario per motivi umanitari. Tuttavia, le critiche sono state avanzate anche sul fatto che il partito Reform UK abbia finanziamenti sufficienti per coprire tali spese, considerando che Farage ha annunciato che il partito manterrà la \"triple lock\" per le pensioni statali, finanziandola con i \"tagli più grandi mai visti\" al bilancio dei benefici. Farage è noto per le sue posizioni controverse e per essere stato il leader del partito UK Independence Party (UKIP) dal 2006 al 2009 e nuovamente dal 2010 al 2016. In passato, è stato anche membro del Parlamento europeo per il Sud-Est dell'Inghilterra fino al 2020, quando il Regno Unito ha lasciato l'Unione Europea.",
-  "corpo2": "Nigel Farage è una figura politica britannica che ha guidato il partito UK Independence Party (UKIP) e attualmente guida il partito Reform UK. La sua carriera politica è stata segnata da posizioni fortemente euroscettiche e da una forte critica all'immigrazione. Il suo viaggio alle Maldive, con un costo così elevato per il volo privato, solleva interrogativi sulla gestione dei fondi del partito e sulla trasparenza delle sue attività. La decisione di Farage di spendere 25.000 sterline per un viaggio di lusso, mentre annuncia tagli ai benefici per finanziare le pensioni statali, pone una questione etica sulle priorità del partito e sulla sua capacità di rappresentare gli interessi dei cittadini britannici. A pagare il conto di queste scelte saranno, come sempre, i contribuenti britannici e coloro che dipendono dai servizi pubblici.",
+  "occhiello": "FARAGE TRASCORRE 2 GIORNI ALLE MALDIVE IN LUSSO",
+  "lead": "Nigel Farage, leader del partito Reform UK, ha trascorso due giorni alle Maldive in un viaggio di lusso, con un costo di 25.000 sterline per il volo privato, secondo la fonte britannica.",
+  "corpo1": "Nel corso del suo viaggio, Farage ha soggiornato in un resort di lusso alle Maldive, dove ha trascorso due giorni di relax e svago. Secondo la fonte, il costo del volo privato è stato di 25.000 sterline, cifra che ha suscitato scalpore tra gli elettori britannici. Farage, leader del partito Reform UK, è stato oggetto di critiche per la sua scelta di trascorrere del tempo in un luogo di lusso, mentre il paese britannico si trova a lottare con problemi economici e sociali. La fonte non ha fornito ulteriori dettagli sulle spese sostenute da Farage durante il suo viaggio.",
+  "corpo2": "Nigel Farage è stato Leader del UK Independence Party (UKIP) dal 2006 al 2009 e poi nuovamente dal 2010 al 2016. È stato membro del Parlamento britannico per Clacton dal 2024 e ha servito come membro del Parlamento europeo per la regione del Sud-Est dell'Inghilterra dal 1999 fino alla ritirata del Regno Unito dall'Unione europea nel 2020. Farage è noto per la sua posizione euroscettica e per la sua critica alla politica europea.\n\nLa scelta di Farage di trascorrere del tempo alle Maldive in un luogo di lusso è un ulteriore esempio della sua distanza dalla realtà dei problemi economici e sociali del Regno Unito. La sua posizione di leader del Reform UK lo rende responsabile di fronte agli elettori britannici, che attendono soluzioni concrete ai problemi del paese. In questo contesto, la scelta di Farage di spendere 25.000 sterline per un volo privato alle Maldive può essere vista come un esempio di irresponsabilità politica.",
   "journalist": {
-    "id": "anna_colombo_01",
-    "firma": "Anna Colombo",
+    "id": "fabrizio_mei_01",
+    "firma": "Fabrizio Mei",
     "sezione": "esteri"
   },
   "published_at": "2026-04-03T08:57:52.677448+00:00",
   "image": {
-    "type": "pexels",
-    "url": "https://images.pexels.com/photos/33175652/pexels-photo-33175652.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "source": "Pexels",
-    "credit": "Bia Limova",
-    "license": "Pexels License"
+    "type": "flickr",
+    "url": "https://live.staticflickr.com/65535/54934621023_38c8bc887f_b.jpg",
+    "source": "Flickr",
+    "credit": "Utopist",
+    "license": "CC"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"FARAGE SPENDE 25.000 STERLINE PER VOLO PRIVATO\",\n  \"description\": \"Nigel Farage, leader del partito Reform UK, ha trascorso due giorni alle Maldive in un viaggio di lusso, con un costo di 25.000 sterline per il volo privato.\",\n  \"articleBody\": \"Nigel Farage, leader del partito Reform UK, ha trascorso due giorni alle Maldive in un viaggio di lusso, con un costo di 25.000 sterline per il volo privato. Secondo le informazioni disponibili, il viaggio di Farage alle Maldive è stato criticato per il suo costo elevato, che ammonta a 25.000 sterline per il solo volo privato. Questo viaggio è stato oggetto di discussione nel Parlamento britannico, dove Farage ha dichiarato che il viaggio era necessario per motivi umanitari. Tuttavia, le critiche sono state avanzate anche sul fatto che il partito Reform UK abbia finanziamenti sufficienti per coprire tali spese, considerando che Farage ha annunciato che il partito manterrà la \\\"triple lock\\\" per le pensioni statali, finanziandola con i \\\"tagli più grandi mai visti\\\" al bilancio dei benefici. Farage è noto per le sue posizioni controverse e per essere stato il leader del partito UK Independence Party (UKIP) dal 2006 al 2009 e nuovamente dal 2010 al 2016. In passato, è stato anche membro del Parlamento europeo per il Sud-Est dell'Inghilterra fino al 2020, quando il Regno Unito ha lasciato l'Unione Europea. Nigel Farage è una figura politica britannica che ha guidato il partito UK Independence Party (UKIP) e attualmente guida il partito Reform UK. La sua carriera politica è stata segnata da posizioni fortemente euroscettiche e da una forte critica all'immigrazione. Il suo viaggio alle Maldive, con un costo così elevato per il volo privato, solleva interrogativi sulla gestione dei fondi del partito e sulla trasparenza delle sue attività. La decisione di Farage di spendere 25.000 sterline per un viaggio di lusso, mentre annuncia tagli ai benefici per finanziare le pensioni statali, pone una questione etica sulle priorità del partito e sulla sua capacità di rappresentare gli interessi dei cittadini britannici. A pagare il conto di queste scelte saranno, come sempre, i contribuenti britannici e coloro che dipendono dai servizi pubblici.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-03T08:57:52.677448+00:00\",\n  \"dateModified\": \"2026-04-03T08:57:52.677448+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/4d29ff0117d69db0\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/4d29ff0117d69db0\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/33175652/pexels-photo-33175652.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Bia Limova\"\n  }\n}",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Farage spende 25.000 sterline per due giorni alle Maldive\",\n  \"description\": \"Nigel Farage, leader del partito Reform UK, ha trascorso due giorni alle Maldive in un viaggio di lusso, con un costo di 25.000 sterline per il volo privato, secondo la fonte britannica.\",\n  \"articleBody\": \"Nigel Farage, leader del partito Reform UK, ha trascorso due giorni alle Maldive in un viaggio di lusso, con un costo di 25.000 sterline per il volo privato, secondo la fonte britannica. Nel corso del suo viaggio, Farage ha soggiornato in un resort di lusso alle Maldive, dove ha trascorso due giorni di relax e svago. Secondo la fonte, il costo del volo privato è stato di 25.000 sterline, cifra che ha suscitato scalpore tra gli elettori britannici. Farage, leader del partito Reform UK, è stato oggetto di critiche per la sua scelta di trascorrere del tempo in un luogo di lusso, mentre il paese britannico si trova a lottare con problemi economici e sociali. La fonte non ha fornito ulteriori dettagli sulle spese sostenute da Farage durante il suo viaggio. Nigel Farage è stato Leader del UK Independence Party (UKIP) dal 2006 al 2009 e poi nuovamente dal 2010 al 2016. È stato membro del Parlamento britannico per Clacton dal 2024 e ha servito come membro del Parlamento europeo per la regione del Sud-Est dell'Inghilterra dal 1999 fino alla ritirata del Regno Unito dall'Unione europea nel 2020. Farage è noto per la sua posizione euroscettica e per la sua critica alla politica europea.\\n\\nLa scelta di Farage di trascorrere del tempo alle Maldive in un luogo di lusso è un ulteriore esempio della sua distanza dalla realtà dei problemi economici e sociali del Regno Unito. La sua posizione di leader del Reform UK lo rende responsabile di fronte agli elettori britannici, che attendono soluzioni concrete ai problemi del paese. In questo contesto, la scelta di Farage di spendere 25.000 sterline per un volo privato alle Maldive può essere vista come un esempio di irresponsabilità politica.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Fabrizio Mei\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-03T08:57:52.677448+00:00\",\n  \"dateModified\": \"2026-04-03T08:57:52.677448+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/4d29ff0117d69db0\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/4d29ff0117d69db0\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://live.staticflickr.com/65535/54934621023_38c8bc887f_b.jpg\",\n    \"creditText\": \"Utopist\"\n  }\n}",
   "priority": 5,
   "source": "refresh",
   "source_type": "refresh",
   "original_url": "https://lentemattutina.it/esteri/farage-spende-25000-sterline-per-volo-privato-alle-4d29ff0117d69db0",
   "related": [
+    {
+      "title": "Solo 3-4 giorni di riabilitazione post-ictus",
+      "url": "/esteri/nhs-al-collasso-3-4-giorni-di-riabilitazione-a-set-01d7e90e1a9d19ab",
+      "id": "01d7e90e1a9d19ab",
+      "image_url": "https://images.pexels.com/photos/27730474/pexels-photo-27730474.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
+    },
     {
       "title": "17 propietari bloccati fuori casa da 850mila sterline di debiti",
       "url": "/esteri/17-proprietari-a-londra-bloccati-per-850000-sterli-3ad182147d8e8124",
@@ -45,13 +52,6 @@
       "id": "cc963714dc98ae12",
       "image_url": "https://images.unsplash.com/photo-1477005264461-b0e201668d92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxTdGVsbGF8ZW58MHwwfHx8MTc3NTEwNTU4NXww&ixlib=rb-4.1.0&q=80&w=1080",
       "image_type": "unsplash"
-    },
-    {
-      "title": "Prezzi case britanniche +0,9% a marzo: 294.000 sterline la media",
-      "url": "/esteri/prezzi-case-uk-ai-massimi-ma-liran-fermera-il-merc-b4b6d19deb025ccb",
-      "id": "b4b6d19deb025ccb",
-      "image_url": "https://images.pexels.com/photos/36614464/pexels-photo-36614464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "image_type": "pexels"
     }
   ],
   "updated_at": "2026-04-03T08:57:52.677448+00:00"
