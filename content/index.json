@@ -1,5 +1,22 @@
 [
   {
+    "id": "d7bee8b5de582eb3",
+    "slug": "bma-rifiuta-35-di-aumento-d7bee8b5de582eb3",
+    "title": "BMA rifiuta 3,5% di aumento",
+    "section": "esteri",
+    "priority": 3,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-04T10:12:51.229121+00:00",
+    "image_type": "image",
+    "image_url": "https://i.guim.co.uk/img/media/bf23af69310b54d764c697788d3bdf39d3b93d33/758_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dc6c8d3beb2f240a684db251878dffcc",
+    "occhiello": "DISACCORDO INTERNO SUGLI SCIOPERI MEDICI",
+    "lead_preview": "Londra, 4 aprile 2026. La British Medical Association (BMA) ha confermato scioperi dei medici per la prossima settimana,",
+    "tags": [
+      "scioperi medici uk",
+      "bma contro governo"
+    ]
+  },
+  {
     "id": "90d08bc215ff4de6",
     "slug": "alianza-lima-crollo-allo-stadio-1-morto-e-decine-d-90d08bc215ff4de6",
     "title": "Alianza Lima, crollo allo stadio: 1 morto e decine di feriti prima del derby a Lima",
@@ -8597,23 +8614,6 @@
     "tags": [
       "francesco mandelli",
       "cena di classe"
-    ]
-  },
-  {
-    "id": "7293833062c2daf5",
-    "slug": "nipote-fidel-castro-300k-follower-contro-il-social-7293833062c2daf5",
-    "title": "Sandro Castro: \"Molti a Cuba vogliono il capitalismo\"",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-03-31T07:53:49.755530+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1606708046251-bc18bdb74925?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxDdWJhJTIwY2FwaXRhbGlzbSUyMHByb3Rlc3R8ZW58MHwwfHx8MTc3NTAwNTM5Mnww&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "SANDRO CASTRO INVADE IL CAPITALISMO",
-    "lead_preview": "Sandro Castro, nipote del leader rivoluzionario Fidel Castro, ha dichiarato alla CNN il 31 marzo 2026 che desidera il ca",
-    "tags": [
-      "sandro castro",
-      "capitalismo cuba"
     ]
   }
 ]
