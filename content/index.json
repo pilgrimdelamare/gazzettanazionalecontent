@@ -1,5 +1,23 @@
 [
   {
+    "id": "bb828d6ca4fc3364",
+    "slug": "donne-pagano-il-20-in-piu-per-gli-spostamenti-urba-bb828d6ca4fc3364",
+    "title": "Donne pagano 150 euro al mese per muoversi in città, 20% in più degli uomini",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-04T09:30:19.793156+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1770010735791-f7c377534c1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHx3b21lbiUyMHVyYmFuJTIwdHJhbnNwb3J0JTIwY29zdHxlbnwwfDB8fHwxNzc1MzAyNDA0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "LE DONNE PAGANO IL 20% IN PIÙ PER SPOSTARSI",
+    "lead_preview": "Lo studio dell’Università Bocconi pubblicato il 4 aprile 2026 rivela che le donne in Italia spendono in media 150 euro a",
+    "tags": [
+      "divario di genere trasporti",
+      "costo vita donne",
+      "studio bocconi 2026"
+    ]
+  },
+  {
     "id": "519c08baa97633c2",
     "slug": "parlamento-ue-blocca-laccordo-di-turnberry-niente-519c08baa97633c2",
     "title": "Parlamento Ue blocca l'accordo di Turnberry: niente dazi USA o è nullo",
@@ -1458,24 +1476,6 @@
     "tags": [
       "gas uk",
       "jackdaw rosebank"
-    ]
-  },
-  {
-    "id": "bb828d6ca4fc3364",
-    "slug": "donne-pagano-il-20-in-piu-per-gli-spostamenti-urba-bb828d6ca4fc3364",
-    "title": "Donne pagano il 20% in più per gli spostamenti urbani",
-    "section": "economia",
-    "priority": 6,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-04T09:30:19.793156+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/04/110656782-877fabb5-8041-47ae-84eb-eb56b32dd1f1.jpg",
-    "occhiello": "DONNE PAGANO IL 20% IN PIÙ PER GLI SPOSTAMENTI URBANI",
-    "lead_preview": "Uno studio dell’Università Bocconi pubblicato il 4 aprile 2026 rivela che le donne spendono in media 150 euro al mese in",
-    "tags": [
-      "disuguaglianza di genere",
-      "trasporti urbani",
-      "costi spostamenti"
     ]
   },
   {
