@@ -1,5 +1,22 @@
 [
   {
+    "id": "011152050c0a9c09",
+    "slug": "esplosione-davanti-a-sede-associazione-cristiana-p-011152050c0a9c09",
+    "title": "Esplosione davanti a sede associazione cristiana pro-israeliana ad Amsterdam",
+    "section": "esteri",
+    "priority": 3,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-04T10:31:50.500915+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/34571917/pexels-photo-34571917.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "ESPLOSIONE AD AMSTERDAM DAVANTI A ASSOCIAZIONE CRISTIANA PRO-ISRAELE",
+    "lead_preview": "Un’esplosione è avvenuta il 4 aprile 2026 davanti alla sede di un’associazione cristiana pro-israeliana ad Amsterdam, se",
+    "tags": [
+      "esplosione ad amsterdam",
+      "attentato pro-israele"
+    ]
+  },
+  {
     "id": "286bf033a055e348",
     "slug": "iran-pasdaran-abbattero-f-15e-usa-nel-cielo-di-ker-286bf033a055e348",
     "title": "F-15E Usa abbattuto sui monti Zagros: pilota catturato dai Pasdaran a Kermanshah",
@@ -8616,22 +8633,6 @@
     "tags": [
       "cinzella festival",
       "musica italiana"
-    ]
-  },
-  {
-    "id": "7f683c42cc5a0bfc",
-    "slug": "monitor-curvi-a-55-pollici-il-business-dellimmersi-7f683c42cc5a0bfc",
-    "title": "Marco Ravetto su Wired: 15 monitor curvi 24-55” dominano il 2026",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-03-31T07:53:10.113868+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1666771409964-4656b1099ccb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxjdXJ2ZWQlMjBtb25pdG9yJTIwNTUlMjBpbmNofGVufDB8MHx8fDE3NzUwMDU3MjB8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "MONITOR CURVI: IL BUSINESS DELL'IMMERSIONE ARTIFICIALE",
-    "lead_preview": "Marco Ravetto, esperto di tecnologia, ha pubblicato una guida sui 15 monitor curvi più performanti del 2026 su Wired Ita",
-    "tags": [
-      "monitor curvi 2026"
     ]
   }
 ]
