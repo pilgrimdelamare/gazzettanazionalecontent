@@ -1,5 +1,22 @@
 [
   {
+    "id": "ec3cbe4c38650a18",
+    "slug": "calcio-sassuolo-cagliari-sabato-ec3cbe4c38650a18",
+    "title": "Calcio: Sassuolo-Cagliari sabato",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-04T08:31:24.536784+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/1/df0eda357816eafbdc1dcb4c6428bdc5.jpg",
+    "occhiello": "NOTIZIA DI SERIE A, ABBONAMENTO OBBLIGATORIO",
+    "lead_preview": "Sabato 4 aprile 2026 alle 15 si disputa la ventottesima giornata di Serie A tra Sassuolo e Cagliari. La notizia, pubblic",
+    "tags": [
+      "sassuolo-cagliari",
+      "serie a"
+    ]
+  },
+  {
     "id": "ceebea23fc899a47",
     "slug": "ritrovata-a-bibbiano-la-viola-da-40mila-euro-rubat-ceebea23fc899a47",
     "title": "Ritrovata a Bibbiano la viola da 40mila euro rubata a Giancarlo Prodi nel 2023",
@@ -8569,19 +8586,5 @@
     "tags": [
       "strage di ustica"
     ]
-  },
-  {
-    "id": "bc47f8b7a1edf6b5",
-    "slug": "duomo-di-cerignola-si-sgretola-raccolta-fondi-tra-bc47f8b7a1edf6b5",
-    "title": "30 marzo: Tufo crolla sul Duomo di Cerignola",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-03-31T05:46:07.475834+00:00",
-    "image_type": "flickr",
-    "image_url": "https://live.staticflickr.com/65535/55095112274_f00e88e8b9_b.jpg",
-    "occhiello": "TUFO DAL DUOMO DI CERIGNOLA, DANNEGGIAMENTI E RACCOLTA IMPOVERITA'",
-    "lead_preview": "Il 30 marzo 2026, un crollo di pezzi di tufo ha colpito il Duomo di Cerignola, danneggiando il sagrato sottostante e alc",
-    "tags": []
   }
 ]
