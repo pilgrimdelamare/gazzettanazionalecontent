@@ -1,5 +1,21 @@
 [
   {
+    "id": "948b59fe6dd48286",
+    "slug": "quarto-arresto-a-londra-per-incendio-ambulanze-948b59fe6dd48286",
+    "title": "Quarto arresto a Londra per incendio ambulanze",
+    "section": "esteri",
+    "priority": 3,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-04T21:39:10.590190+00:00",
+    "image_type": "image",
+    "image_url": "https://i.guim.co.uk/img/media/d6d7d5e6bff0a5e7aa36a2c4bca93ee2013fb7d2/137_0_3366_2693/master/3366.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e2681795ecc72e4c1d5d1a60fef13856",
+    "occhiello": "ARRESTO IN AULA, TERZO INDAGATO IN CARCERE",
+    "lead_preview": "Un diciannovenne è stato arrestato sabato 4 aprile all'interno del tribunale di Westminster a Londra, mentre assisteva a",
+    "tags": [
+      "incendio ambulanze londra"
+    ]
+  },
+  {
     "id": "9b5ff7ad42a4034c",
     "slug": "calcio-lipsia-ribalta-il-werder-brema-allo-stadio-9b5ff7ad42a4034c",
     "title": "Werder brema sconfitta a casa",
@@ -8634,23 +8650,6 @@
     "tags": [
       "borsa tokyo",
       "petrolio"
-    ]
-  },
-  {
-    "id": "4f5e77e7e47f78a9",
-    "slug": "gravina-nei-guai-fondi-zero-per-le-under-4f5e77e7e47f78a9",
-    "title": "Notizia in primo piano",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-04-01T01:13:15.689526+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/3735178/pexels-photo-3735178.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "",
-    "lead_preview": "Angelo carotenuto, direttore di Repubblica, ha espresso preoccupazione per l'assenza di fondi destinati alle nazionali g",
-    "tags": [
-      "nazionali giovanili",
-      "fondi repubblica"
     ]
   }
 ]
