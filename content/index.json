@@ -1,5 +1,23 @@
 [
   {
+    "id": "3fa9d5f69b50d2db",
+    "slug": "ferdinando-boero-errori-scientifici-nelluovo-3fa9d5f69b50d2db",
+    "title": "Boero smonta la simbologia pasquale",
+    "section": "societa",
+    "priority": 5,
+    "journalist_firma": "Federica Conti",
+    "published_at": "2026-04-04T04:51:20.717914+00:00",
+    "image_type": "wikimedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Egg_cartons_with_chicken_eggs_03.jpg",
+    "occhiello": "LA BIOLOGIA SBAGLIATA DELL'UOVO DI PASQUA",
+    "lead_preview": "Ferdinando Boero, docente di zoologia all'Università del Salento, ha denunciato il 4 aprile 2026 un errore scientifico a",
+    "tags": [
+      "uovo di pasqua",
+      "biologia pasquale",
+      "ferdinando boero"
+    ]
+  },
+  {
     "id": "47c033c784df142b",
     "slug": "host-pentite-su-bookingcom-47c033c784df142b",
     "title": "Booking.com obbliga host a rimborsare 1.100€ per certificato medico falso: la denuncia di Piromallo",
@@ -530,23 +548,6 @@
     "tags": [
       "pilosio tour",
       "cassa integrazione pilosio"
-    ]
-  },
-  {
-    "id": "3fa9d5f69b50d2db",
-    "slug": "ferdinando-boero-errori-scientifici-nelluovo-3fa9d5f69b50d2db",
-    "title": "Ferdinando Boero: errori scientifici nell'uovo",
-    "section": "societa",
-    "priority": 5,
-    "journalist_firma": "Federica Conti",
-    "published_at": "2026-04-04T04:51:20.717914+00:00",
-    "image_type": "image",
-    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/03/13/uovo-al-tegamino-1-1200x630.jpg",
-    "occhiello": "UOVO DEL SUPERMERCATO: UNA CELLULA?",
-    "lead_preview": "Secondo Ferdinando Boero, un curioso paradosso culturale riguarda la definizione di uovo, emblema di Pasqua, che potrebb",
-    "tags": [
-      "uovo pasqua",
-      "ferdinando boero"
     ]
   },
   {
