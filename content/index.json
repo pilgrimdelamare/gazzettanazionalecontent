@@ -1,5 +1,19 @@
 [
   {
+    "id": "49bcc80ac3478157",
+    "slug": "diesel-a-21-euro-nonostante-il-taglio-delle-accise-49bcc80ac3478157",
+    "title": "Diesel a 2,1 euro nonostante il taglio delle accise",
+    "section": "economia",
+    "priority": 6,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-04T17:05:32.245725+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/11/2b723e309bd3cf3e7a127ff8402c8e55.jpg",
+    "occhiello": "DIESEL A 2,1 EURO NONOSTANTE IL TAGLIO DELLE ACCISE",
+    "lead_preview": "Il prezzo del diesel ha superato i 2,1 euro al litro nonostante il taglio delle accise deciso dal governo, provocando se",
+    "tags": []
+  },
+  {
     "id": "4c334d8263f56136",
     "slug": "gressier-corre-i-5-km-in-1302-a-lille-nuovo-record-4c334d8263f56136",
     "title": "Gressier corre i 5 km in 13'02 a Lille: nuovo record europeo in 11 gradi",
@@ -8628,22 +8642,6 @@
     "tags": [
       "fusione banca sella",
       "banca sella hype"
-    ]
-  },
-  {
-    "id": "a2db36a7dc7e9ffe",
-    "slug": "hegseth-nessuna-punizione-per-apache-che-sorvolaro-a2db36a7dc7e9ffe",
-    "title": "Apache su Kid Rock, stop a procedimenti",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-03-31T23:56:30.766547+00:00",
-    "image_type": "none",
-    "image_url": "",
-    "occhiello": "HEGSETH BLOCCA PUNITIVE PER CREW DEGLI APACHE",
-    "lead_preview": "Pete Hegseth, segretario della Difesa USA, ha annunciato il 31 marzo 2026 la sospensione di tutte le azioni disciplinari",
-    "tags": [
-      "apache kid rock"
     ]
   }
 ]
