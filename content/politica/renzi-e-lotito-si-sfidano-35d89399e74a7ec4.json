@@ -1,0 +1,56 @@
+{
+  "id": "35d89399e74a7ec4",
+  "slug": "renzi-e-lotito-si-sfidano-35d89399e74a7ec4",
+  "title": "Renzi e lotito si sfidano",
+  "titles": [
+    "RENZI E LOTITO SI SFIDANO",
+    "RENZI E LOTITO SI SFIDANO",
+    "RENZI E LOTITO SI SFIDANO"
+  ],
+  "title_winner": null,
+  "section": "politica",
+  "occhiello": "RENZI E LOTITO SI SFIDANO",
+  "lead": "Matteo Renzi ha scatenato una polemica con claudio Lotito, senatore di Forza Italia e presidente della Lazio, affermando che \"In Senato dorme\". Lotito ha risposto sottolineando la sua presenza In Senato, che sarebbe del 94%, mentre Renzi avrebbe una presenza del 54%.",
+  "corpo1": "La diatriba è iniziata quando Renzi, durante la trasmissione \"aria che tira\" su la 7, ha criticato il sistema del calcio Italiano, affermando che \"la Politica ha distrutto il calcio, finché abbiamo i Lotito che fanno i presidenti e contemporaneamente siedono in parlamento a fare gli emendamenti, non avremo un sistema pulito\". Lotito ha replicato definendo le parole di Renzi come un tentativo di avere visibilità a suo nome. Renzi ha poi ribadito le sue critiche, definendo Lotito \"uno dei simboli del fallimento del sistema del calcio di questo paese\". Secondo quanto riportato da la Repubblica, Lotito ha anche sottolineato la sua presenza In Senato, affermando di essere stato presente al 94% delle sedute, mentre Renzi avrebbe una presenza del 54%. Il confronto tra i due politici si è concentrato sulle presenze In Senato e sulla gestione del calcio Italiano.",
+  "corpo2": "Matteo Renzi, leader di Italia viva, ha una lunga storia di critiche nei confronti del sistema del calcio Italiano. Nel 2014, quando era presidente del consiglio, aveva già espresso la sua preoccupazione per la gestione del calcio Italiano. Claudio Lotito, invece, è noto per la sua attività imprenditoriale e per la sua presidenza della Lazio. La sua presenza In Senato è stata oggetto di critiche in passato, con alcuni che hanno sollevato dubbi sulla sua capacità di bilanciare i suoi impegni politici e sportivi. Il meccanismo strutturale che spiega questa notizia è la tendenza dei politici italiani a utilizzare la critica reciproca come strumento di visibilità e di conquista di consensi. In questo caso, Renzi e Lotito stanno utilizzando la diatriba sul calcio Italiano per attirare l'attenzione dei media e dei cittadini. A pagare il prezzo di questa strategia saranno i tifosi del calcio Italiano, che continuano a subire le conseguenze di una gestione Politica e sportiva inefficiente.",
+  "journalist": {
+    "id": "elena_russo_01",
+    "firma": "Elena Russo",
+    "sezione": "politica"
+  },
+  "published_at": "2026-04-04T13:51:43.380252+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://www.repstatic.it/content/nazionale/img/2026/04/04/154048922-072c0332-2299-41d0-9c98-114a632bddc1.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"RENZI E LOTITO SI SFIDANO\",\n  \"description\": \"Matteo Renzi ha scatenato una polemica con claudio Lotito, senatore di Forza Italia e presidente della Lazio, affermando che \\\"In Senato dorme\\\". Lotito ha risposto sottolineando la sua presenza In Senato, che sarebbe del 94%, mentre Renzi avrebbe una presenza del 54%.\",\n  \"articleBody\": \"Matteo Renzi ha scatenato una polemica con claudio Lotito, senatore di Forza Italia e presidente della Lazio, affermando che \\\"In Senato dorme\\\". Lotito ha risposto sottolineando la sua presenza In Senato, che sarebbe del 94%, mentre Renzi avrebbe una presenza del 54%. La diatriba è iniziata quando Renzi, durante la trasmissione \\\"aria che tira\\\" su la 7, ha criticato il sistema del calcio Italiano, affermando che \\\"la Politica ha distrutto il calcio, finché abbiamo i Lotito che fanno i presidenti e contemporaneamente siedono in parlamento a fare gli emendamenti, non avremo un sistema pulito\\\". Lotito ha replicato definendo le parole di Renzi come un tentativo di avere visibilità a suo nome. Renzi ha poi ribadito le sue critiche, definendo Lotito \\\"uno dei simboli del fallimento del sistema del calcio di questo paese\\\". Secondo quanto riportato da la Repubblica, Lotito ha anche sottolineato la sua presenza In Senato, affermando di essere stato presente al 94% delle sedute, mentre Renzi avrebbe una presenza del 54%. Il confronto tra i due politici si è concentrato sulle presenze In Senato e sulla gestione del calcio Italiano. Matteo Renzi, leader di Italia viva, ha una lunga storia di critiche nei confronti del sistema del calcio Italiano. Nel 2014, quando era presidente del consiglio, aveva già espresso la sua preoccupazione per la gestione del calcio Italiano. Claudio Lotito, invece, è noto per la sua attività imprenditoriale e per la sua presidenza della Lazio. La sua presenza In Senato è stata oggetto di critiche in passato, con alcuni che hanno sollevato dubbi sulla sua capacità di bilanciare i suoi impegni politici e sportivi. Il meccanismo strutturale che spiega questa notizia è la tendenza dei politici italiani a utilizzare la critica reciproca come strumento di visibilità e di conquista di consensi. In questo caso, Renzi e Lotito stanno utilizzando la diatriba sul calcio Italiano per attirare l'attenzione dei media e dei cittadini. A pagare il prezzo di questa strategia saranno i tifosi del calcio Italiano, che continuano a subire le conseguenze di una gestione Politica e sportiva inefficiente.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Elena Russo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-04T13:51:43.380252+00:00\",\n  \"dateModified\": \"2026-04-04T13:51:43.380252+00:00\",\n  \"url\": \"https://lentemattutina.it/politica/35d89399e74a7ec4\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/politica/35d89399e74a7ec4\"\n  },\n  \"articleSection\": \"Politica\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.repstatic.it/content/nazionale/img/2026/04/04/154048922-072c0332-2299-41d0-9c98-114a632bddc1.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 5,
+  "source": "Repubblica Politica",
+  "source_type": "competitor",
+  "original_url": "https://www.repubblica.it/politica/2026/04/04/news/renzi_lotito_presenze_senato-425264294/?rss",
+  "related": [
+    {
+      "title": "Meloni in Arabia per sicurezza energetica",
+      "url": "/politica/meloni-in-arabia-per-sicurezza-energetica-30c36ecce57303db",
+      "id": "30c36ecce57303db",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/4/1c31f279af31013409a6cb180564c644.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Claudia Conte, giornalista legata a Piantedosi, nel cda della Fondazione Marini dal 2002 a Firenze",
+      "url": "/politica/claudia-conte-giornalista-legata-a-piantedosi-nel-b53dd39a3e84440a",
+      "id": "b53dd39a3e84440a",
+      "image_url": "https://www.repstatic.it/content/localirep/img/rep-firenze/2026/04/04/144044630-420127cb-bc66-4ff2-ab2d-765b4766dee3.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Legnini: centrosinistra diviso dietro il 54enne",
+      "url": "/politica/legnini-centrosinistra-diviso-dietro-il-54enne-d7711d86959b0c63",
+      "id": "d7711d86959b0c63",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/4/93bba6f7f59d30734ab896e3f24c339b.jpg",
+      "image_type": "image"
+    }
+  ]
+}
