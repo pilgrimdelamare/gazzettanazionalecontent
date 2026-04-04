@@ -1,5 +1,23 @@
 [
   {
+    "id": "de3759055e6c3d88",
+    "slug": "oncologia-integrata-alla-camera-primo-riconoscimen-de3759055e6c3d88",
+    "title": "Meloni lancia piano anti-cancro da 12 miliardi: 2,4 mld l'anno per 5 anni",
+    "section": "salute",
+    "priority": 5,
+    "journalist_firma": "Luca Tosi",
+    "published_at": "2026-04-03T12:07:36.757522+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1769029259587-6821e9648570?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxjYW5jZXIlMjBwcmV2ZW50aW9uJTIwY2FtcGFpZ258ZW58MHwwfHx8MTc3NTI2MDgzMHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "12 MILIARDI PER I TUMORI ENTRO IL 2030",
+    "lead_preview": "Giorgia Meloni, presidente del Consiglio dei ministri, ha presentato il 3 aprile 2026 alla Camera il Piano Nazionale di ",
+    "tags": [
+      "piano anti-cancro",
+      "meloni salute",
+      "fondo tumori 2030"
+    ]
+  },
+  {
     "id": "5bbf96bb46059ce7",
     "slug": "genova-19enne-accoltellato-in-via-xx-settembre-2-f-5bbf96bb46059ce7",
     "title": "Fondi scomparsi dopo il voto: 2 arresti in via xx settembre",
@@ -1145,24 +1163,6 @@
     "occhiello": "11 GUIDE DEL MONTI EVEREST ARRESTATE PER AVELLENAMENTO",
     "lead_preview": "La polizia nepalese ha arrestato 11 guide del Monte Everest con l'accusa di aver avvelenato segretamente alpinisti stran",
     "tags": []
-  },
-  {
-    "id": "de3759055e6c3d88",
-    "slug": "oncologia-integrata-alla-camera-primo-riconoscimen-de3759055e6c3d88",
-    "title": "Giorgia Meloni presenta Piano Nazionale di Prevenzione e Controllo dei Tumori",
-    "section": "salute",
-    "priority": 5,
-    "journalist_firma": "Francesca Nardi",
-    "published_at": "2026-04-03T12:07:36.757522+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1692875486389-70c40fedfd84?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxHaW9yZ2lhJTIwTWVsb25pfGVufDB8MHx8fDE3NzUyMzE1Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "ONCOLOGIA INTEGRATA ALLA CAMERA: PRIMO RICONOSCIMENTO ISTITUZIONALE",
-    "lead_preview": "OCCHIELLO ONCOLOGIA INTEGRATA ALLA CAMERA: RICONOSCIMENTO ISTITUZIONALE LEAD Giorgia Meloni, Presidente del Consiglio de",
-    "tags": [
-      "piano tumori",
-      "giorgia meloni",
-      "oncologia integrata"
-    ]
   },
   {
     "id": "5ceeb7edaf6d3dbb",
