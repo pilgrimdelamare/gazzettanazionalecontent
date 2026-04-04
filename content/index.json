@@ -1,5 +1,23 @@
 [
   {
+    "id": "d75dc1ae636abe7f",
+    "slug": "minnie-driver-e-blu-hunt-in-le-donne-della-bibbia-d75dc1ae636abe7f",
+    "title": "Minnie Driver e Blu Hunt in 'Le donne della Bibbia', in onda su Canale 5 il 5 e 6 aprile",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-04T10:29:47.779662+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/4/e82ee6d31693f1ceaba14e8ff2c56cea.jpg",
+    "occhiello": "",
+    "lead_preview": "Minne Driver e Blu Hunt sono le protagoniste della miniserie 'Le donne della Bibbia', in onda il 5 e il 6 aprile in prim",
+    "tags": [
+      "le donne della bibbia",
+      "minnie driver",
+      "canale 5"
+    ]
+  },
+  {
     "id": "9da60437020b5811",
     "slug": "35000-copie-vendute-in-pochi-giorni-per-la-mente-r-9da60437020b5811",
     "title": "35.000 copie vendute in pochi giorni per 'La mente radiosa', il libro che unisce dieta e pensiero",
@@ -8614,22 +8632,6 @@
     "lead_preview": "Marco Ravetto, esperto di tecnologia, ha pubblicato una guida sui 15 monitor curvi più performanti del 2026 su Wired Ita",
     "tags": [
       "monitor curvi 2026"
-    ]
-  },
-  {
-    "id": "b4b6d19deb025ccb",
-    "slug": "prezzi-case-uk-ai-massimi-ma-liran-fermera-il-merc-b4b6d19deb025ccb",
-    "title": "Prezzi case britanniche +0,9% a marzo: 294.000 sterline la media",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-03-31T07:53:41.116153+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/36614464/pexels-photo-36614464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "PREZZI CASE UK AI MASSIMI",
-    "lead_preview": "Nationwide ha registrato un aumento dello 0,9% dei prezzi delle case britanniche a marzo 2026, il dato migliore da dicem",
-    "tags": [
-      "prezzi case uk"
     ]
   }
 ]
