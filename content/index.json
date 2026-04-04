@@ -1,5 +1,19 @@
 [
   {
+    "id": "22abd5890fd6d993",
+    "slug": "il-cucciolo-di-puma-che-fa-tremare-washington-22abd5890fd6d993",
+    "title": "Il cucciolo di puma che fa tremare washington",
+    "section": "esteri",
+    "priority": 3,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-04T21:45:43.848612+00:00",
+    "image_type": "image",
+    "image_url": "https://i.guim.co.uk/img/media/7ae371dd978877feb6af2dc363910616eb3a15f4/52_0_3780_3024/master/3780.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cca181797e132aef815133315c2f770b",
+    "occhiello": "IL CUCCIOLO DI PUMA CHE FA TREMARE WASHINGTON",
+    "lead_preview": "Il 4 aprile 2026, biologi del National Park Service hanno recuperato un cucciolo di puma di tre settimane, battezzato Cr",
+    "tags": []
+  },
+  {
     "id": "a6356b0a3c3eedba",
     "slug": "basket-mike-dantoni-nella-hall-of-fame-il-15-agost-a6356b0a3c3eedba",
     "title": "Basket: Mike D’Antoni nella Hall of Fame il 15 agosto 2026 a Springfield",
@@ -8635,22 +8649,6 @@
     "tags": [
       "us forest service",
       "trasferimento sede"
-    ]
-  },
-  {
-    "id": "3cd0f24522198140",
-    "slug": "ministri-ue-in-ucraina-visita-a-bucha-per-commemor-3cd0f24522198140",
-    "title": "Ministri UE a Bucha per commemorare le vittime del massacro",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-03-31T08:24:53.475284+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1758225709128-3721da10baf6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxLYWphJTIwS2FsbGFzfGVufDB8MHx8fDE3NzUwMTUwMjJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "BUCHA, QUATTRO ANNI DOPO IL MASSACRO",
-    "lead_preview": "Il 31 marzo 2026, un gruppo di ministri degli Esteri dell'Unione Europea si è recato a Bucha, in Ucraina, per commemorar",
-    "tags": [
-      "massacro bucha"
     ]
   }
 ]
