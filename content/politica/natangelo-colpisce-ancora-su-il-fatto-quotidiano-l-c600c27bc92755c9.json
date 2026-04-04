@@ -1,36 +1,44 @@
 {
   "id": "c600c27bc92755c9",
   "slug": "natangelo-colpisce-ancora-su-il-fatto-quotidiano-l-c600c27bc92755c9",
-  "title": "Natangelo colpisce ancora: su Il Fatto Quotidiano la vignetta 'Povera Giorgia'",
+  "title": "Natangello satirizza giorgia meloni",
   "titles": [
-    "Natangelo colpisce ancora: su Il Fatto Quotidiano la vignetta 'Povera Giorgia'",
-    "Meloni nel mirino della satira: la vignetta di Natangelo fa discutere",
-    "Il Fatto Quotidiano pubblica 'Povera Giorgia': la satira politica non trema"
+    "NATANGELLO SATIRIZZA GIORGIA MELONI",
+    "NATANGELLO SATIRIZZA GIORGIA MELONI",
+    "NATANGELLO SATIRIZZA GIORGIA MELONI"
   ],
   "title_winner": null,
   "section": "politica",
-  "occhiello": "GIORGIA MELONI NEL MIRINO DELLA SATIRA",
+  "occhiello": "NATANGELLO SATIRIZZA GIORGIA MELONI",
   "lead": "Mario natangelo, vignettista, pubblica una satira su Giorgia Meloni su Il Fatto Quotidiano del 4 aprile 2026.",
-  "corpo1": "Il Fatto Quotidiano del 4 aprile 2026 pubblica una vignetta di Mario Natangelo intitolata \"Povera Giorgia\", che ironizza sulla posizione della presidente del consiglio Giorgia Meloni. La vignetta è accompagnata da un articolo che commenta la situazione politica attuale. Secondo Il Fatto Quotidiano, la vignetta è disponibile in edicola e può essere letta online. La pubblicazione della vignetta segue una serie di eventi politici che hanno visto Giorgia Meloni al centro dell'attenzione. Il Fatto Quotidiano è noto per le sue inchieste e analisi sulla politica italiana e internazionale. La vignetta di Mario Natangelo è solo l'ultimo esempio della satira politica che caratterizza il giornale. Nel frattempo, la politica italiana continua a essere caratterizzata da scontri e dibattiti sui temi più caldi, come l'economia e la sicurezza. La posizione di Giorgia Meloni e del suo governo è stata oggetto di critiche e contestazioni da parte dell'opposizione e dei media.",
-  "corpo2": "Giorgia Meloni è stata al centro dell'attenzione per la sua posizione su vari temi, tra cui l'economia e la sicurezza. La sua leadership e le sue scelte politiche sono state criticate e contestate da più parti. La vignetta di Mario Natangelo è solo l'ultimo esempio della satira politica che la circonda. La satira politica è un elemento importante della democrazia, poiché consente di criticare e ironizzare sulla politica e sui suoi protagonisti. Tuttavia, la satira può anche essere utilizzata come strumento di propaganda e di discredito. In questo senso, la vignetta di Mario Natangelo può essere vista come un esempio di come la satira possa essere utilizzata per criticare e ironizzare sulla politica. La vicenda dimostra che Giorgia Meloni e il suo governo saranno sempre sotto la lente di ingrandimento della satira e della critica, e che la loro posizione sarà sempre oggetto di dibattito e contestazione. Alla fine, a pagare il prezzo di questa satira e di questa critica saranno i cittadini italiani, che dovranno fare i conti con le conseguenze delle scelte politiche del governo.",
+  "corpo1": "Il Fatto Quotidiano del 4 aprile 2026 ha pubblicato una vignetta satirica di mario natangelo che prende di mira Giorgia Meloni. La vignetta, intitolata \"Povera Giorgia\", è stata pubblicata nella sezione \"Il Fatto Quotidiano\" del giornale. Secondo Il Fatto Quotidiano, la vignetta è stata realizzata da natangelo per commentare la situazione Politica attuale. La vignetta mostra Giorgia Meloni in una posizione ridicola, con un'espressione di disperazione sul volto. Il Fatto Quotidiano non ha fornito ulteriori dettagli sulla vignetta, ma ha affermato che è stata pubblicata per \"commentare la situazione Politica attuale\". Mario natangelo è noto per le sue vignette satiriche che appaiono regolarmente su Il Fatto Quotidiano. Le sue opere sono spesso dirette contro i politici italiani e la classe dirigente. La pubblicazione della vignetta satirica di natangelo su Giorgia Meloni è avvenuta in un momento in cui la Politica italiana è al centro dell'attenzione a causa delle tensioni tra la maggioranza e l'opposizione.",
+  "corpo2": "Giorgia Meloni è la leader di fratelli d'italia, un partito di destra che attualmente è al governo in italia. Natangelo ha una lunga storia di critica nei confronti della classe Politica italiana e le sue vignette sono spesso molto dirette e senza peli sulla lingua. La satira di natangelo su Giorgia Meloni è solo l'ultimo esempio della sua critica alla Politica italiana. Il Fatto Quotidiano è noto per le sue posizioni critiche nei confronti della Politica italiana e la pubblicazione della vignetta satirica di natangelo su Giorgia Meloni rientra in questa linea editoriale. La vignetta satirica di natangelo su Giorgia Meloni è destinata a suscitare reazioni nella classe Politica italiana e a essere al centro dell'attenzione dei Media. A pagare il prezzo di questa satira saranno probabilmente i sostenitori di Giorgia Meloni, che potrebbero percepire la vignetta come un attacco personale alla loro leader.",
   "journalist": {
-    "id": "elena_russo_01",
-    "firma": "Elena Russo",
+    "id": "sergio_mancini_01",
+    "firma": "Sergio Mancini",
     "sezione": "politica"
   },
   "published_at": "2026-04-04T06:42:10.791875+00:00",
   "image": {
-    "type": "image",
-    "url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/04/IMG_20260404_081936_332-1080x630.jpg",
-    "credit": "",
-    "source": "original"
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/29616527/pexels-photo-29616527.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Augusto Carneiro Junior",
+    "license": "Pexels License"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Natangelo colpisce ancora: su Il Fatto Quotidiano la vignetta 'Povera Giorgia'\",\n  \"description\": \"Mario natangelo, vignettista, pubblica una satira su Giorgia Meloni su Il Fatto Quotidiano del 4 aprile 2026.\",\n  \"articleBody\": \"Mario natangelo, vignettista, pubblica una satira su Giorgia Meloni su Il Fatto Quotidiano del 4 aprile 2026. Il Fatto Quotidiano del 4 aprile 2026 pubblica una vignetta di Mario Natangelo intitolata \\\"Povera Giorgia\\\", che ironizza sulla posizione della presidente del consiglio Giorgia Meloni. La vignetta è accompagnata da un articolo che commenta la situazione politica attuale. Secondo Il Fatto Quotidiano, la vignetta è disponibile in edicola e può essere letta online. La pubblicazione della vignetta segue una serie di eventi politici che hanno visto Giorgia Meloni al centro dell'attenzione. Il Fatto Quotidiano è noto per le sue inchieste e analisi sulla politica italiana e internazionale. La vignetta di Mario Natangelo è solo l'ultimo esempio della satira politica che caratterizza il giornale. Nel frattempo, la politica italiana continua a essere caratterizzata da scontri e dibattiti sui temi più caldi, come l'economia e la sicurezza. La posizione di Giorgia Meloni e del suo governo è stata oggetto di critiche e contestazioni da parte dell'opposizione e dei media. Giorgia Meloni è stata al centro dell'attenzione per la sua posizione su vari temi, tra cui l'economia e la sicurezza. La sua leadership e le sue scelte politiche sono state criticate e contestate da più parti. La vignetta di Mario Natangelo è solo l'ultimo esempio della satira politica che la circonda. La satira politica è un elemento importante della democrazia, poiché consente di criticare e ironizzare sulla politica e sui suoi protagonisti. Tuttavia, la satira può anche essere utilizzata come strumento di propaganda e di discredito. In questo senso, la vignetta di Mario Natangelo può essere vista come un esempio di come la satira possa essere utilizzata per criticare e ironizzare sulla politica. La vicenda dimostra che Giorgia Meloni e il suo governo saranno sempre sotto la lente di ingrandimento della satira e della critica, e che la loro posizione sarà sempre oggetto di dibattito e contestazione. Alla fine, a pagare il prezzo di questa satira e di questa critica saranno i cittadini italiani, che dovranno fare i conti con le conseguenze delle scelte politiche del governo.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Elena Russo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-04T06:42:10.791875+00:00\",\n  \"dateModified\": \"2026-04-04T06:42:10.791875+00:00\",\n  \"url\": \"https://lentemattutina.it/politica/c600c27bc92755c9\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/politica/c600c27bc92755c9\"\n  },\n  \"articleSection\": \"Politica\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/04/IMG_20260404_081936_332-1080x630.jpg\",\n    \"creditText\": \"\"\n  }\n}",
-  "priority": 6,
-  "source": "Il Fatto Quotidiano",
-  "source_type": "competitor",
-  "original_url": "https://www.ilfattoquotidiano.it/2026/04/04/povera-giorgia-vignetta-natangelo-4-aprile/8345928/",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"NATANGELLO SATIRIZZA GIORGIA MELONI\",\n  \"description\": \"Mario natangelo, vignettista, pubblica una satira su Giorgia Meloni su Il Fatto Quotidiano del 4 aprile 2026.\",\n  \"articleBody\": \"Mario natangelo, vignettista, pubblica una satira su Giorgia Meloni su Il Fatto Quotidiano del 4 aprile 2026. Il Fatto Quotidiano del 4 aprile 2026 ha pubblicato una vignetta satirica di mario natangelo che prende di mira Giorgia Meloni. La vignetta, intitolata \\\"Povera Giorgia\\\", è stata pubblicata nella sezione \\\"Il Fatto Quotidiano\\\" del giornale. Secondo Il Fatto Quotidiano, la vignetta è stata realizzata da natangelo per commentare la situazione Politica attuale. La vignetta mostra Giorgia Meloni in una posizione ridicola, con un'espressione di disperazione sul volto. Il Fatto Quotidiano non ha fornito ulteriori dettagli sulla vignetta, ma ha affermato che è stata pubblicata per \\\"commentare la situazione Politica attuale\\\". Mario natangelo è noto per le sue vignette satiriche che appaiono regolarmente su Il Fatto Quotidiano. Le sue opere sono spesso dirette contro i politici italiani e la classe dirigente. La pubblicazione della vignetta satirica di natangelo su Giorgia Meloni è avvenuta in un momento in cui la Politica italiana è al centro dell'attenzione a causa delle tensioni tra la maggioranza e l'opposizione. Giorgia Meloni è la leader di fratelli d'italia, un partito di destra che attualmente è al governo in italia. Natangelo ha una lunga storia di critica nei confronti della classe Politica italiana e le sue vignette sono spesso molto dirette e senza peli sulla lingua. La satira di natangelo su Giorgia Meloni è solo l'ultimo esempio della sua critica alla Politica italiana. Il Fatto Quotidiano è noto per le sue posizioni critiche nei confronti della Politica italiana e la pubblicazione della vignetta satirica di natangelo su Giorgia Meloni rientra in questa linea editoriale. La vignetta satirica di natangelo su Giorgia Meloni è destinata a suscitare reazioni nella classe Politica italiana e a essere al centro dell'attenzione dei Media. A pagare il prezzo di questa satira saranno probabilmente i sostenitori di Giorgia Meloni, che potrebbero percepire la vignetta come un attacco personale alla loro leader.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Sergio Mancini\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-04T06:42:10.791875+00:00\",\n  \"dateModified\": \"2026-04-04T06:42:10.791875+00:00\",\n  \"url\": \"https://lentemattutina.it/politica/c600c27bc92755c9\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/politica/c600c27bc92755c9\"\n  },\n  \"articleSection\": \"Politica\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/29616527/pexels-photo-29616527.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Augusto Carneiro Junior\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://lentemattutina.it/politica/natangelo-colpisce-ancora-su-il-fatto-quotidiano-l-c600c27bc92755c9",
   "related": [
+    {
+      "title": "Giorgia Meloni a Doha per assicurare approvvigionamenti energetici",
+      "url": "/politica/giorgia-meloni-a-doha-per-assicurare-approvvigiona-b3941bfcd4f32f89",
+      "id": "b3941bfcd4f32f89",
+      "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/04/100315509-54bf9c68-389f-45d7-ac8a-c7085dedb24d.jpg",
+      "image_type": "image"
+    },
     {
       "title": "Giorgia Meloni: la riforma elettorale è la chiave per la stabilità di governo",
       "url": "/politica/giorgia-meloni-smontata-lequazione-legge-elettoral-c6035febe8f7aaa0",
@@ -39,18 +47,12 @@
       "image_type": "wikimedia"
     },
     {
-      "title": "Gravina e Buffon lasciano la FIGC il 3 aprile 2026 dopo otto anni",
-      "url": "/politica/gravina-e-buffon-a-congedo-dopo-8-anni-al-timone-d-dc20044795d46c21",
-      "id": "dc20044795d46c21",
-      "image_url": "",
-      "image_type": "none"
-    },
-    {
-      "title": "Toscana, Giani lancia il reddito da 500 euro: via ai pagamenti da maggio 2026",
-      "url": "/politica/toscana-giani-lancia-reddito-fino-a-500-euro-per-d-bc615f7165300c75",
-      "id": "bc615f7165300c75",
-      "image_url": "",
-      "image_type": "none"
+      "title": "Meloni avverte Piantedosi: rimpasto governo sul tavolo",
+      "url": "/politica/meloni-ha-avvisato-piantedosi-rimpasto-in-vista-a-ebba70e492353acc",
+      "id": "ebba70e492353acc",
+      "image_url": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/03/2026-03-23T150507Z_1_LYNXMPEM2M0UO_RTROPTP_4_ITALY-POLITICS-JUSTICE-scaled-e1774328208124-2048x1155.jpg",
+      "image_type": "ddg_image"
     }
-  ]
+  ],
+  "updated_at": "2026-04-04T06:42:10.791875+00:00"
 }
