@@ -1,5 +1,21 @@
 [
   {
+    "id": "86db031c96b9304b",
+    "slug": "schianto-sulla-tuscolana-due-morti-e-tre-feriti-86db031c96b9304b",
+    "title": "Schianto sulla tuscolana: due morti e tre feriti",
+    "section": "cronaca",
+    "priority": 4,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-04-04T08:59:55.052862+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2025/12/06/polizia-locale-roma.jpg",
+    "occhiello": "SCHIANTO SULLA TUSCOLANA: DUE MORTI E TRE FERITI",
+    "lead_preview": "Una donna di 50 anni e un ragazzo di 16 sono morti nello scontro tra una Fiat Punto e una Fiat 500 avvenuto venerdì 3 ap",
+    "tags": [
+      "schianto tuscolana"
+    ]
+  },
+  {
     "id": "2cc07950c2378770",
     "slug": "usa-e-israele-colpiscono-ponti-e-acciaierie-in-ira-2cc07950c2378770",
     "title": "Usa e Israele colpiscono ponti e acciaierie in Iran: 24 morti in tre ospedali",
@@ -8575,19 +8591,5 @@
     "tags": [
       "minori in carcere"
     ]
-  },
-  {
-    "id": "bbd339d8485f1ed3",
-    "slug": "notizia-in-primo-piano-bbd339d8485f1ed3",
-    "title": "Riccione compra villa mussolini, la residenza estiva di mussolini",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-03-31T05:46:29.378967+00:00",
-    "image_type": "flickr",
-    "image_url": "https://live.staticflickr.com/65535/55180872574_6ef0be43e4_b.jpg",
-    "occhiello": "RICCIONE COMPRA VILLA MUSSOLINI, LA RESIDENZA ESTIVA DI MUSSOLINI",
-    "lead_preview": "Il comune di Riccione ha acquistato Villa Mussolini, residenza estiva di Mussolini dal 1934 al 1943, per 4,2 milioni di ",
-    "tags": []
   }
 ]
