@@ -1,0 +1,56 @@
+{
+  "id": "3cb52959b890e05a",
+  "slug": "roberto-gavioli-73-anni-muore-cadendo-da-gru-a-san-3cb52959b890e05a",
+  "title": "Roberto Gavioli, 73 anni, muore cadendo da gru a San Felice",
+  "titles": [
+    "Roberto Gavioli, 73 anni, muore cadendo da gru a San Felice",
+    "Geppetto, volto noto a San Felice, cade e muore sul tetto",
+    "Figlio in prognosi riservata dopo incidente gru: comunità sotto shock"
+  ],
+  "title_winner": null,
+  "section": "cronaca",
+  "occhiello": "UOMO MUORE A 73 ANNI IN CADUTA DAL CESTELLO",
+  "lead": "Roberto gavioli, 73 anni, è morto questa mattina a San Felice sul panaro, nel modenese, dopo essere caduto dal cestello di una gru mentre lavorava sul tetto della sua abitazione insieme al figlio davide, 39 anni, che è stato ricoverato in prognosi riservata.",
+  "corpo1": "L'incidente è avvenuto intorno alle 9.30, quando il braccio della gru, montata su un mezzo, si è sganciato o è ceduto, provocando il crollo improvviso del cestello e la caduta dei due uomini. Secondo una prima ricostruzione, la vittima e il figlio stavano eseguendo alcuni interventi sul tetto della loro abitazione in via circondaria. Il sindaco di San Felice ha definito l'accaduto un \"duro colpo per la nostra comunità\", sottolineando che roberto gavioli era sempre impegnato come volontario. La Scuola dove gavioli era conosciuto come \"geppetto\" ha espresso il proprio cordoglio per la scomparsa di un uomo che era molto amato nella comunità. Davide gavioli, il figlio di roberto, è attualmente ricoverato in prognosi riservata. Le autorità stanno indagando sulle cause dell'incidente.",
+  "corpo2": "Roberto gavioli era un uomo molto rispettato nella comunità di San Felice sul panaro, dove era conosciuto per il suo impegno come volontario. La sua morte ha suscitato un grande cordoglio tra gli abitanti del paese, che lo ricordano come un uomo sempre disponibile e pronto ad aiutare gli altri. L'incidente che ha causato la sua morte solleva anche questioni relative alla sicurezza sul lavoro e all'uso di attrezzature come le gru. In questo senso, l'accaduto di San Felice sul panaro non è un evento isolato, ma fa parte di una Serie di incidenti che hanno avuto luogo in Italia negli ultimi anni, sottolineando la necessità di maggiori controlli e precauzioni per prevenire tali tragedie. A pagare il prezzo più alto di questa tragedia sarà la famiglia di roberto gavioli, che dovrà affrontare il futuro senza un padre e un marito.",
+  "journalist": {
+    "id": "roberto_neri_01",
+    "firma": "Roberto Neri",
+    "sezione": "cronaca"
+  },
+  "published_at": "2026-04-04T13:55:49.318529+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://www.repstatic.it/content/localirep/img/rep-bologna/2026/04/04/155409654-7603b775-d67a-4813-b156-0a526e7c5210.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Roberto Gavioli, 73 anni, muore cadendo da gru a San Felice\",\n  \"description\": \"Roberto gavioli, 73 anni, è morto questa mattina a San Felice sul panaro, nel modenese, dopo essere caduto dal cestello di una gru mentre lavorava sul tetto della sua abitazione insieme al figlio davide, 39 anni, che è stato ricoverato in prognosi riservata.\",\n  \"articleBody\": \"Roberto gavioli, 73 anni, è morto questa mattina a San Felice sul panaro, nel modenese, dopo essere caduto dal cestello di una gru mentre lavorava sul tetto della sua abitazione insieme al figlio davide, 39 anni, che è stato ricoverato in prognosi riservata. L'incidente è avvenuto intorno alle 9.30, quando il braccio della gru, montata su un mezzo, si è sganciato o è ceduto, provocando il crollo improvviso del cestello e la caduta dei due uomini. Secondo una prima ricostruzione, la vittima e il figlio stavano eseguendo alcuni interventi sul tetto della loro abitazione in via circondaria. Il sindaco di San Felice ha definito l'accaduto un \\\"duro colpo per la nostra comunità\\\", sottolineando che roberto gavioli era sempre impegnato come volontario. La Scuola dove gavioli era conosciuto come \\\"geppetto\\\" ha espresso il proprio cordoglio per la scomparsa di un uomo che era molto amato nella comunità. Davide gavioli, il figlio di roberto, è attualmente ricoverato in prognosi riservata. Le autorità stanno indagando sulle cause dell'incidente. Roberto gavioli era un uomo molto rispettato nella comunità di San Felice sul panaro, dove era conosciuto per il suo impegno come volontario. La sua morte ha suscitato un grande cordoglio tra gli abitanti del paese, che lo ricordano come un uomo sempre disponibile e pronto ad aiutare gli altri. L'incidente che ha causato la sua morte solleva anche questioni relative alla sicurezza sul lavoro e all'uso di attrezzature come le gru. In questo senso, l'accaduto di San Felice sul panaro non è un evento isolato, ma fa parte di una Serie di incidenti che hanno avuto luogo in Italia negli ultimi anni, sottolineando la necessità di maggiori controlli e precauzioni per prevenire tali tragedie. A pagare il prezzo più alto di questa tragedia sarà la famiglia di roberto gavioli, che dovrà affrontare il futuro senza un padre e un marito.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Roberto Neri\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-04T13:55:49.318529+00:00\",\n  \"dateModified\": \"2026-04-04T13:55:49.318529+00:00\",\n  \"url\": \"https://lentemattutina.it/cronaca/3cb52959b890e05a\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cronaca/3cb52959b890e05a\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.repstatic.it/content/localirep/img/rep-bologna/2026/04/04/155409654-7603b775-d67a-4813-b156-0a526e7c5210.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 4,
+  "source": "Redazione",
+  "source_type": "competitor_gap",
+  "original_url": "https://bologna.repubblica.it/cronaca/2026/04/04/news/modena_morto_cadendo_cestello_gru-425264247/",
+  "related": [
+    {
+      "title": "Arrestato a 42 anni per terrorismo: l'uomo di Teramo",
+      "url": "/cronaca/teramo-42enne-arrestato-per-terrorismo-contatti-co-e99e98f63ce12684",
+      "id": "e99e98f63ce12684",
+      "image_url": "https://images.unsplash.com/photo-1614976370625-ae602bce9b3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxUZXJhbW8lMjBhcnJlc3RvJTIwdGVycm9yaXNtbyUyMFVuYWJvbWJlcnxlbnwwfDB8fHwxNzc1MjczNzM1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Ragazzo di 13 anni ruba 500 euro da Poste di Vigliano Biellese con pistola giocattolo",
+      "url": "/cronaca/rapina-a-vigliano-biellese-500-euro-316e0421a509bd8f",
+      "id": "316e0421a509bd8f",
+      "image_url": "https://images.pexels.com/photos/6266682/pexels-photo-6266682.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
+    },
+    {
+      "title": "Liliana Resinovich, 63 anni, trovata morta in un bosco a Trieste il 14 dicembre",
+      "url": "/cronaca/liliana-resinovich-63-anni-trovata-morta-in-un-bos-f324f0ba126e743f",
+      "id": "f324f0ba126e743f",
+      "image_url": "https://images.unsplash.com/photo-1605789437852-980e4fc05c8c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxUcmllc3RlJTIwdmlhJTIwZGVsJTIwYm9zY28lMjBib3NjaGV0dG98ZW58MHwwfHx8MTc3NTExNjE4OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    }
+  ]
+}
