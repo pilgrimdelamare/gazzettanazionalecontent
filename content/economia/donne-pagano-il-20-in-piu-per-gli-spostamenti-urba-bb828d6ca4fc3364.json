@@ -1,0 +1,56 @@
+{
+  "id": "bb828d6ca4fc3364",
+  "slug": "donne-pagano-il-20-in-piu-per-gli-spostamenti-urba-bb828d6ca4fc3364",
+  "title": "Donne pagano il 20% in più per gli spostamenti urbani",
+  "titles": [
+    "DONNE PAGANO IL 20% IN PIÙ PER GLI SPOSTAMENTI URBANI",
+    "DONNE PAGANO IL 20% IN PIÙ PER GLI SPOSTAMENTI URBANI",
+    "DONNE PAGANO IL 20% IN PIÙ PER GLI SPOSTAMENTI URBANI"
+  ],
+  "title_winner": null,
+  "section": "economia",
+  "occhiello": "DONNE PAGANO IL 20% IN PIÙ PER GLI SPOSTAMENTI URBANI",
+  "lead": "Uno studio dell’Università Bocconi pubblicato il 4 aprile 2026 rivela che le donne spendono in media 150 euro al mese in più degli uomini per muoversi in città, a causa di trasporti pubblici inefficienti e insicuri che le costringono a usare taxi e mezzi privati.",
+  "corpo1": "La ricerca, condotta su un campione di 5.000 lavoratori in dieci città italiane, mostra come il divario di genere si traduca in un vero e proprio sovrapprezzo per le donne. A Milano, ad esempio, una donna spende il 22% in più del collega maschio per coprire lo stesso tragitto casa-ufficio. \"Le corse serali in autobus vengono spesso evitate per paura delle aggressioni\", spiega la professoressa Elena Caruso, coordinatrice dello studio. \"Così si ricorre a taxi o auto private, con costi che pesano sul bilancio familiare\". I dati evidenziano come il 63% delle intervistate abbia rinunciato almeno una volta a un’opportunità lavorativa per difficoltà di trasporto.",
+  "corpo2": "Il fenomeno ha ricadute economiche precise: secondo i calcoli della Bocconi, il mancato accesso al Lavoro e alla formazione costa alle donne italiane circa 3,2 miliardi l’anno in reddito perduto. Mentre le aziende di trasporto locale continuano a tagliare le corse notturne e i controlli sugli autobus, le compagnie di taxi e i Servizi di ride-hailing vedono aumentare i profitti proprio sulla pelle delle lavoratrici. L’ultimo bilancio di Uber in Italia mostra un +17% di utenti donne rispetto al 2025, con tariffe dinamiche che schizzano nelle ore di punta. E intanto, nelle periferie dove il trasporto pubblico è più carente, le donne accettano stipendi più bassi pur di lavorare vicino casa. La matematica è spietata: ogni euro speso in più per spostarsi è un euro che non finisce nel conto in banca, ma nelle tasche di chi ha deciso che la sicurezza delle donne non è una priorità.",
+  "journalist": {
+    "id": "giorgio_ferrara_01",
+    "firma": "Giorgio Ferrara",
+    "sezione": "economia"
+  },
+  "published_at": "2026-04-04T09:30:19.793156+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://www.repstatic.it/content/nazionale/img/2026/04/04/110656782-877fabb5-8041-47ae-84eb-eb56b32dd1f1.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"DONNE PAGANO IL 20% IN PIÙ PER GLI SPOSTAMENTI URBANI\",\n  \"description\": \"Uno studio dell’Università Bocconi pubblicato il 4 aprile 2026 rivela che le donne spendono in media 150 euro al mese in più degli uomini per muoversi in città, a causa di trasporti pubblici inefficienti e insicuri che le costringono a usare taxi e mezzi privati.\",\n  \"articleBody\": \"Uno studio dell’Università Bocconi pubblicato il 4 aprile 2026 rivela che le donne spendono in media 150 euro al mese in più degli uomini per muoversi in città, a causa di trasporti pubblici inefficienti e insicuri che le costringono a usare taxi e mezzi privati. La ricerca, condotta su un campione di 5.000 lavoratori in dieci città italiane, mostra come il divario di genere si traduca in un vero e proprio sovrapprezzo per le donne. A Milano, ad esempio, una donna spende il 22% in più del collega maschio per coprire lo stesso tragitto casa-ufficio. \\\"Le corse serali in autobus vengono spesso evitate per paura delle aggressioni\\\", spiega la professoressa Elena Caruso, coordinatrice dello studio. \\\"Così si ricorre a taxi o auto private, con costi che pesano sul bilancio familiare\\\". I dati evidenziano come il 63% delle intervistate abbia rinunciato almeno una volta a un’opportunità lavorativa per difficoltà di trasporto. Il fenomeno ha ricadute economiche precise: secondo i calcoli della Bocconi, il mancato accesso al Lavoro e alla formazione costa alle donne italiane circa 3,2 miliardi l’anno in reddito perduto. Mentre le aziende di trasporto locale continuano a tagliare le corse notturne e i controlli sugli autobus, le compagnie di taxi e i Servizi di ride-hailing vedono aumentare i profitti proprio sulla pelle delle lavoratrici. L’ultimo bilancio di Uber in Italia mostra un +17% di utenti donne rispetto al 2025, con tariffe dinamiche che schizzano nelle ore di punta. E intanto, nelle periferie dove il trasporto pubblico è più carente, le donne accettano stipendi più bassi pur di lavorare vicino casa. La matematica è spietata: ogni euro speso in più per spostarsi è un euro che non finisce nel conto in banca, ma nelle tasche di chi ha deciso che la sicurezza delle donne non è una priorità.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Giorgio Ferrara\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-04T09:30:19.793156+00:00\",\n  \"dateModified\": \"2026-04-04T09:30:19.793156+00:00\",\n  \"url\": \"https://lentemattutina.it/economia/bb828d6ca4fc3364\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/economia/bb828d6ca4fc3364\"\n  },\n  \"articleSection\": \"Economia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.repstatic.it/content/nazionale/img/2026/04/04/110656782-877fabb5-8041-47ae-84eb-eb56b32dd1f1.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 6,
+  "source": "Repubblica Economia",
+  "source_type": "competitor",
+  "original_url": "https://www.repubblica.it/economia/2026/04/04/news/c_e_una_questione_di_genere_sui_mezzi_pubblici_cosi_le_donne_sono_doppiamente_penalizzate-425263961/?rss",
+  "related": [
+    {
+      "title": "Pasqua al distributore, stangata da 1,3 miliardi",
+      "url": "/economia/pasqua-al-distributore-stangata-da-13-miliardi-a100080081ade9ca",
+      "id": "a100080081ade9ca",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/4/214e78d1c1ed57db8f5373cf818dbac6.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Benzina a 1,777 euro, gasolio oltre i 2: controlli non bastano",
+      "url": "/economia/benzina-a-1777-euro-gasolio-oltre-i-2-controlli-no-4792cc4be240082e",
+      "id": "4792cc4be240082e",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/28/0b85c7d03534188027547d03aeaa1d53.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Chi lavora dopo i 41 anni di contributi guadagna 70-120 euro in più al mese",
+      "url": "/economia/chi-lavora-dopo-i-41-anni-di-contributi-guadagna-7-97a0b6f760362719",
+      "id": "97a0b6f760362719",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/2/aacd90b71fb1c22a999a775ca4b0067d.jpg",
+      "image_type": "image"
+    }
+  ]
+}
