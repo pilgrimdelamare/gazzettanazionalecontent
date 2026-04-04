@@ -1,5 +1,19 @@
 [
   {
+    "id": "c600c27bc92755c9",
+    "slug": "natangelo-colpisce-ancora-su-il-fatto-quotidiano-l-c600c27bc92755c9",
+    "title": "Natangello satirizza giorgia meloni",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Sergio Mancini",
+    "published_at": "2026-04-04T06:42:10.791875+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/29616527/pexels-photo-29616527.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "NATANGELLO SATIRIZZA GIORGIA MELONI",
+    "lead_preview": "Mario natangelo, vignettista, pubblica una satira su Giorgia Meloni su Il Fatto Quotidiano del 4 aprile 2026.",
+    "tags": []
+  },
+  {
     "id": "bc3184bc5e7503b7",
     "slug": "nba-milwaukee-boston-101-133-bc3184bc5e7503b7",
     "title": "Bucks tracollano in casa, celtics allungano in classifica",
@@ -537,24 +551,6 @@
     "tags": [
       "veglia pasquale san pietro",
       "papa leone xiv"
-    ]
-  },
-  {
-    "id": "c600c27bc92755c9",
-    "slug": "natangelo-colpisce-ancora-su-il-fatto-quotidiano-l-c600c27bc92755c9",
-    "title": "Natangelo colpisce ancora: su Il Fatto Quotidiano la vignetta 'Povera Giorgia'",
-    "section": "politica",
-    "priority": 6,
-    "journalist_firma": "Elena Russo",
-    "published_at": "2026-04-04T06:42:10.791875+00:00",
-    "image_type": "image",
-    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/04/IMG_20260404_081936_332-1080x630.jpg",
-    "occhiello": "GIORGIA MELONI NEL MIRINO DELLA SATIRA",
-    "lead_preview": "Mario natangelo, vignettista, pubblica una satira su Giorgia Meloni su Il Fatto Quotidiano del 4 aprile 2026.",
-    "tags": [
-      "vignetta natangelo",
-      "satira meloni",
-      "fatto quotidiano"
     ]
   },
   {
