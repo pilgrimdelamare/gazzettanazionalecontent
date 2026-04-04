@@ -1,5 +1,19 @@
 [
   {
+    "id": "fd221025780482d2",
+    "slug": "decreto-bollette-limita-telemkt-fd221025780482d2",
+    "title": "Decreto bollette limita telemkt",
+    "section": "economia",
+    "priority": 8,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-04T08:26:06.164625+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/04/100759560-c84d7b59-9ba7-4e9a-ab28-ee09044f27e2.jpg",
+    "occhiello": "DECRETO BOLLETTE LIMITA TELEMKT",
+    "lead_preview": "Il decreto Bollette, varato di recente, vieta quasi del tutto il telemarketing dei Servizi energetici, una misura che li",
+    "tags": []
+  },
+  {
     "id": "012af84860dc17b0",
     "slug": "petizione-per-revoca-cittadinanza-a-ischia-012af84860dc17b0",
     "title": "Fondi scomparsi dopo il voto su ischia",
@@ -8568,24 +8582,6 @@
       "pedaggio iran",
       "golfo persico",
       "navi mercantili"
-    ]
-  },
-  {
-    "id": "d86398c2ec2e59e0",
-    "slug": "royal-melbourne-institute-di-melbourne-sviluppa-ro-d86398c2ec2e59e0",
-    "title": "Il robot-delfino australiano beve 10 litri d’olio al minuto e salva i mari",
-    "section": "ambiente",
-    "priority": 5,
-    "journalist_firma": "Valentina Costa",
-    "published_at": "2026-03-31T08:08:51.712081+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1759663174560-3e4b925126f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxFbGVjdHJvbmljJTIwRG9scGhpbnxlbnwwfDB8fHwxNzc1MDA0MDY1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "ROYAL MELBOURNE INSTITUTE SVILUPPA ROBOT CHE ASPIRA IDROCARBURI",
-    "lead_preview": "Il RMIT di Melbourne ha sviluppato un prototipo di robot chiamato Electronic Dolphin, in grado di aspirare idrocarburi d",
-    "tags": [
-      "robot delfino",
-      "rmit melbourne",
-      "electronic dolphin"
     ]
   }
 ]
