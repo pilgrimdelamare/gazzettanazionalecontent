@@ -1,5 +1,19 @@
 [
   {
+    "id": "35d89399e74a7ec4",
+    "slug": "renzi-e-lotito-si-sfidano-35d89399e74a7ec4",
+    "title": "Renzi contro lotito: presenze a confronto ma il problema è un altro",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Elena Russo",
+    "published_at": "2026-04-04T13:51:43.380252+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/36567378/pexels-photo-36567378.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "RENZI CONTRO LOTITO: PRESENZE A CONFRONTO MA IL PROBLEMA È UN ALTRO",
+    "lead_preview": "Matteo Renzi ha accusato Claudio Lotito, senatore di Forza Italia e presidente della Lazio, di \"dormire in Senato\" duran",
+    "tags": []
+  },
+  {
     "id": "3fa9d5f69b50d2db",
     "slug": "ferdinando-boero-errori-scientifici-nelluovo-3fa9d5f69b50d2db",
     "title": "Boero smonta la levitazione dei conigli",
@@ -523,20 +537,6 @@
     "tags": [
       "incidente san felice"
     ]
-  },
-  {
-    "id": "35d89399e74a7ec4",
-    "slug": "renzi-e-lotito-si-sfidano-35d89399e74a7ec4",
-    "title": "Renzi e lotito si sfidano",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Elena Russo",
-    "published_at": "2026-04-04T13:51:43.380252+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/04/154048922-072c0332-2299-41d0-9c98-114a632bddc1.jpg",
-    "occhiello": "RENZI E LOTITO SI SFIDANO",
-    "lead_preview": "Matteo Renzi ha scatenato una polemica con claudio Lotito, senatore di Forza Italia e presidente della Lazio, affermando",
-    "tags": []
   },
   {
     "id": "64e1c0d35add1a7b",
