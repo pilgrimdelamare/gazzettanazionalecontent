@@ -1,5 +1,23 @@
 [
   {
+    "id": "c304985c682efb1c",
+    "slug": "calcio-lecco-batte-lr-vicenza-2-0-doppietta-di-bia-c304985c682efb1c",
+    "title": "Calcio: Lecco vince 2-0",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-03T22:25:46.875519+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/30748868/pexels-photo-30748868.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "LECCO BATTE VICENZA 2-0",
+    "lead_preview": "Il 3 aprile 2026, la squadra di Calcio del Lecco ha sconfitto la L.R. Vicenza con un punteggio di 2-0 nella partita di S",
+    "tags": [
+      "lecco vince",
+      "serie c",
+      "lecco vs vicenza"
+    ]
+  },
+  {
     "id": "6cae7a059bee1908",
     "slug": "valeria-marini-rivela-amicizia-con-pedro-sanchez-6cae7a059bee1908",
     "title": "Valeria Marini amica di Pedro Sánchez",
@@ -330,23 +348,6 @@
       "caso alex preston",
       "new york times",
       "intelligenza artificiale"
-    ]
-  },
-  {
-    "id": "c304985c682efb1c",
-    "slug": "calcio-lecco-batte-lr-vicenza-2-0-doppietta-di-bia-c304985c682efb1c",
-    "title": "Calcio: Lecco batte L.R. Vicenza 2-0, doppietta di Bianconi e Marconi",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-03T22:25:46.875519+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/38ef2cb60de9d7e0f0889e9ba1b1605227d943ba/skysport/it/calcio/serie-c/video/2026/04/03/1087545_1775251002862_thumb_494.0000001_1775251172920.jpg",
-    "occhiello": "VITTORIA DEL LECCO SUL VICENZA, 2-0 IN SERIE C",
-    "lead_preview": "Il Lecco ha battuto la L.R. Vicenza per 2-0 nella partita di Serie C disputata il 3 aprile 2026. L'incontro, valido per ",
-    "tags": [
-      "serie c",
-      "lecco vicenza"
     ]
   },
   {
