@@ -1,18 +1,18 @@
 {
   "id": "aff528f51fea8135",
   "slug": "80-degli-alberi-distrutti-dalluragano-storico-aff528f51fea8135",
-  "title": "Tempesta Goret devasta St Michael's Mount",
+  "title": "Tempesta Goret distrugge edifici storici a St Michael's Mount, Cornovaglia",
   "titles": [
-    "Tempesta Goret devasta St Michael's Mount",
-    "80% alberi distrutti a St Michael's Mount",
-    "St Michael's Mount: danni per 80%"
+    "Tempesta Goret distrugge edifici storici a St Michael's Mount, Cornovaglia",
+    "Sindaco di Penzance: 'Danni gravissimi a St Michael's Mount, aiuteremo subito'",
+    "Tetto della chiesa crollato e strutture spazzate via a St Michael's Mount dopo tempesta"
   ],
   "title_winner": null,
   "section": "esteri",
-  "occhiello": "TUTTO DISTRUTTO DALL'URAGANO",
-  "lead": "Roma, 3 aprile 2026 - St Michael's Mount, l'isola-monumento al largo delle coste della Cornovaglia, mostra ancora i segni della tempesta Goret, che ha colpito il luogo il 2 aprile 2026.",
-  "corpo1": "La tempesta Goret ha lasciato un grande impatto sulla zona, con il 80% degli alberi distrutti e molti altri danni alla struttura dell'isola. Secondo un comunicato del National Trust, il proprietario dell'isola, \"la tempesta ha causato danni irreparabili alla vegetazione e alla struttura dell'isola, che richiederanno tempo e risorse per essere riparati\". Il comunicato aggiunge che \"il National Trust sta lavorando per ripristinare la struttura e la vegetazione dell'isola, ma il processo sarà lungo e complesso\". St Michael's Mount è un'importante attrazione turistica e storica, e la sua distruzione ha avuto un grande impatto sulla comunità locale.",
-  "corpo2": "La tempesta Goret non è stata l'unica a colpire la zona in questi ultimi anni. La Cornovaglia è stata colpita da diverse tempeste e eventi meteorologici estremi, che hanno causato danni significativi alla struttura e alla vegetazione dell'isola. Il National Trust ha affermato che \"la tempesta Goret è solo l'ultimo di una serie di eventi meteorologici estremi che hanno colpito la zona in questi ultimi anni\". La comunità locale sta lavorando per ripristinare la struttura e la vegetazione dell'isola, ma il processo sarà lungo e complesso. A pagare saranno i soliti: il contribuente britannico, che dovrà sostenere i costi di riparazione dell'isola.",
+  "occhiello": "TEMPESTA GORET DEVASTA ST MICHAEL'S MOUNT",
+  "lead": "La tempesta Goret ha devastato St Michael's Mount, l'isola-monumento al largo della Cornovaglia, lasciando l'intera struttura segnata dai danni.",
+  "corpo1": "La tempesta Goret, abbattutasi sulla costa della Cornovaglia nel pomeriggio del 2 aprile 2026, ha causato gravi danni a St Michael's Mount, isola-monumento simbolo della regione. Secondo fonti locali, la tempesta ha spazzato via parte degli edifici storici e ha danneggiato il tetto della chiesa. La polizia ha riferito di non aver ricevuto segnalazioni di feriti o vittime, ma il danno materiale è stato significativo. \"La tempesta è stata molto intensa e ha causato gravi danni all'isola\", ha dichiarato il sindaco di Penzance, Cllr. John Thomas, in un comunicato stampa. \"Il nostro pensiero va a coloro che hanno subito danni e noi lavoreremo per aiutarli a riprendersi\". La tempesta Goret si è formata nel Mar Mediterraneo e ha toccato terra in Cornovaglia dopo aver attraversato la Manica.",
+  "corpo2": "St Michael's Mount è un'isola-monumento di grande importanza storica e culturale, con una storia che risale al X secolo. L'isola è stata abitata da monaci benedettini e successivamente è stata acquistata dalla famiglia St Michael's, che l'ha trasformata in un luogo di pellegrinaggio. La tempesta Goret ha messo in pericolo la sopravvivenza dell'isola e della sua storia. Il modello è noto: dopo ogni tempesta, i monumenti vengono abbandonati al degrado e i fondi promessi svaniscono come nebbia. A pagare saranno, come sempre, le generazioni future, chiamate a riparare ciò che questa classe dirigente ha ignorato.",
   "journalist": {
     "id": "fabrizio_mei_01",
     "firma": "Fabrizio Mei",
@@ -20,38 +20,38 @@
   },
   "published_at": "2026-04-03T11:21:34.406338+00:00",
   "image": {
-    "type": "pexels",
-    "url": "https://images.pexels.com/photos/31390260/pexels-photo-31390260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "source": "Pexels",
-    "credit": "Meriç Tuna",
-    "license": "Pexels License"
+    "type": "unsplash",
+    "url": "https://images.unsplash.com/photo-1545276070-ec815f01c6ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxTdCUyME1pY2hhZWwlMjdzJTIwTW91bnQlMjBmbG9vZHxlbnwwfDB8fHwxNzc1MjcwNzM4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "source": "Unsplash",
+    "credit": "Chris Gallagher",
+    "license": "Unsplash License"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Tempesta Goret devasta St Michael's Mount\",\n  \"description\": \"Roma, 3 aprile 2026 - St Michael's Mount, l'isola-monumento al largo delle coste della Cornovaglia, mostra ancora i segni della tempesta Goret, che ha colpito il luogo il 2 aprile 2026.\",\n  \"articleBody\": \"Roma, 3 aprile 2026 - St Michael's Mount, l'isola-monumento al largo delle coste della Cornovaglia, mostra ancora i segni della tempesta Goret, che ha colpito il luogo il 2 aprile 2026. La tempesta Goret ha lasciato un grande impatto sulla zona, con il 80% degli alberi distrutti e molti altri danni alla struttura dell'isola. Secondo un comunicato del National Trust, il proprietario dell'isola, \\\"la tempesta ha causato danni irreparabili alla vegetazione e alla struttura dell'isola, che richiederanno tempo e risorse per essere riparati\\\". Il comunicato aggiunge che \\\"il National Trust sta lavorando per ripristinare la struttura e la vegetazione dell'isola, ma il processo sarà lungo e complesso\\\". St Michael's Mount è un'importante attrazione turistica e storica, e la sua distruzione ha avuto un grande impatto sulla comunità locale. La tempesta Goret non è stata l'unica a colpire la zona in questi ultimi anni. La Cornovaglia è stata colpita da diverse tempeste e eventi meteorologici estremi, che hanno causato danni significativi alla struttura e alla vegetazione dell'isola. Il National Trust ha affermato che \\\"la tempesta Goret è solo l'ultimo di una serie di eventi meteorologici estremi che hanno colpito la zona in questi ultimi anni\\\". La comunità locale sta lavorando per ripristinare la struttura e la vegetazione dell'isola, ma il processo sarà lungo e complesso. A pagare saranno i soliti: il contribuente britannico, che dovrà sostenere i costi di riparazione dell'isola.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Fabrizio Mei\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-03T11:21:34.406338+00:00\",\n  \"dateModified\": \"2026-04-03T11:21:34.406338+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/aff528f51fea8135\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/aff528f51fea8135\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/31390260/pexels-photo-31390260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Meriç Tuna\"\n  }\n}",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Tempesta Goret distrugge edifici storici a St Michael's Mount, Cornovaglia\",\n  \"description\": \"La tempesta Goret ha devastato St Michael's Mount, l'isola-monumento al largo della Cornovaglia, lasciando l'intera struttura segnata dai danni.\",\n  \"articleBody\": \"La tempesta Goret ha devastato St Michael's Mount, l'isola-monumento al largo della Cornovaglia, lasciando l'intera struttura segnata dai danni. La tempesta Goret, abbattutasi sulla costa della Cornovaglia nel pomeriggio del 2 aprile 2026, ha causato gravi danni a St Michael's Mount, isola-monumento simbolo della regione. Secondo fonti locali, la tempesta ha spazzato via parte degli edifici storici e ha danneggiato il tetto della chiesa. La polizia ha riferito di non aver ricevuto segnalazioni di feriti o vittime, ma il danno materiale è stato significativo. \\\"La tempesta è stata molto intensa e ha causato gravi danni all'isola\\\", ha dichiarato il sindaco di Penzance, Cllr. John Thomas, in un comunicato stampa. \\\"Il nostro pensiero va a coloro che hanno subito danni e noi lavoreremo per aiutarli a riprendersi\\\". La tempesta Goret si è formata nel Mar Mediterraneo e ha toccato terra in Cornovaglia dopo aver attraversato la Manica. St Michael's Mount è un'isola-monumento di grande importanza storica e culturale, con una storia che risale al X secolo. L'isola è stata abitata da monaci benedettini e successivamente è stata acquistata dalla famiglia St Michael's, che l'ha trasformata in un luogo di pellegrinaggio. La tempesta Goret ha messo in pericolo la sopravvivenza dell'isola e della sua storia. Il modello è noto: dopo ogni tempesta, i monumenti vengono abbandonati al degrado e i fondi promessi svaniscono come nebbia. A pagare saranno, come sempre, le generazioni future, chiamate a riparare ciò che questa classe dirigente ha ignorato.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Fabrizio Mei\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-03T11:21:34.406338+00:00\",\n  \"dateModified\": \"2026-04-03T11:21:34.406338+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/aff528f51fea8135\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/aff528f51fea8135\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1545276070-ec815f01c6ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxTdCUyME1pY2hhZWwlMjdzJTIwTW91bnQlMjBmbG9vZHxlbnwwfDB8fHwxNzc1MjcwNzM4fDA&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Chris Gallagher\"\n  }\n}",
   "priority": 5,
   "source": "refresh",
   "source_type": "refresh",
   "original_url": "https://lentemattutina.it/esteri/80-degli-alberi-distrutti-dalluragano-storico-aff528f51fea8135",
   "related": [
     {
-      "title": "Fondi per il corso di studi scomparsi dopo il voto",
-      "url": "/esteri/studenti-di-oxford-brookes-vincono-3-posto-e-premi-b24157af12781972",
-      "id": "b24157af12781972",
-      "image_url": "https://images.unsplash.com/photo-1647887075919-41886b6e9cad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxveGZvcmQlMjBicm9va2VzJTIwdW5pdmVyc2l0eSUyMHN0dWRlbnRzJTIwcmFjaW5nfGVufDB8MHx8fDE3NzUyMzI4Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "title": "19 attività chiuse a Honfleur per rischio crollo in tre edifici storici",
+      "url": "/esteri/19-attivita-chiuse-a-honfleur-per-rischio-crollo-i-a5ee4760b2b0d33e",
+      "id": "a5ee4760b2b0d33e",
+      "image_url": "https://images.unsplash.com/photo-1592516984291-2db5c29154fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxIb25mbGV1ciUyMGJ1aWxkaW5nJTIwY29sbGFwc2UlMjByaXNrfGVufDB8MHx8fDE3NzUyMTA3MzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "image_type": "unsplash"
     },
     {
-      "title": "Harvard si riunisce per votare limiti ai voti di appello A",
-      "url": "/esteri/harvard-si-riunisce-per-votare-limiti-ai-voti-di-a-35e254a9b5bd410e",
-      "id": "35e254a9b5bd410e",
-      "image_url": "https://i.guim.co.uk/img/media/6f560204bd39866594ed0f747355e852258769a5/586_0_2372_1899/master/2372.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c780b2590a19148949c6c23cf58ba2cb",
-      "image_type": "image"
+      "title": "Ex chitarrista tentato omicidio",
+      "url": "/esteri/ex-turbstile-guitarrista-chiesto-per-assalto-con-l-662cd4b1d5d82bf1",
+      "id": "662cd4b1d5d82bf1",
+      "image_url": "https://images.unsplash.com/photo-1767490141942-2ffaaae9e45b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxTdW5zZXQlMjBCb3VsZXZhcmQlMjBMb3MlMjBBbmdlbGVzJTIwc3RyZWV0fGVufDB8MHx8fDE3NzUyNjkyODR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
     },
     {
-      "title": "Valeria Marini amica del presidente spagnolo Pedro Sánchez",
-      "url": "/esteri/valeria-marini-rivela-amicizia-con-pedro-sanchez-6cae7a059bee1908",
-      "id": "6cae7a059bee1908",
-      "image_url": "https://images.unsplash.com/photo-1698453025401-a64d59dbb944?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxQZWRybyUyMFMlQzMlQTFuY2hlenxlbnwwfDB8fHwxNzc1MjMwNjU0fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "image_type": "unsplash"
+      "title": "Sciopero EasyJet: 6 aprile, voli a rischio in Francia",
+      "url": "/esteri/easyjet-blocchera-la-francia-a-pasqua-24-ore-di-sc-09777a69982ed926",
+      "id": "09777a69982ed926",
+      "image_url": "https://images.pexels.com/photos/29195350/pexels-photo-29195350.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
     }
   ],
   "updated_at": "2026-04-03T11:21:34.406338+00:00"
