@@ -1,5 +1,19 @@
 [
   {
+    "id": "bc3184bc5e7503b7",
+    "slug": "nba-milwaukee-boston-101-133-bc3184bc5e7503b7",
+    "title": "Bucks tracollano in casa, celtics allungano in classifica",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-04T06:39:17.823107+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/36119195/pexels-photo-36119195.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "BUCKS TRACOLLANO IN CASA, CELTICS ALLUNGANO IN CLASSIFICA",
+    "lead_preview": "Milwaukee Bucks ha subito una pesante sconfitta interna contro i Boston Celtics, 101-133, nella partita di NBA disputata",
+    "tags": []
+  },
+  {
     "id": "86db031c96b9304b",
     "slug": "schianto-sulla-tuscolana-due-morti-e-tre-feriti-86db031c96b9304b",
     "title": "Schianto sulla tuscolana: due morti e tre feriti",
@@ -555,20 +569,6 @@
     "image_url": "https://sport.sky.it/assets/images/d87233754e5b31e5b40fa9bb1d33e40b304143d0/skysport/it/nba/video/2026/04/04/1087566_1775280581393_thumb_494.0000001_1775280975705.jpg",
     "occhiello": "CHARLOTTE SPACCA IN NBA",
     "lead_preview": "Charlotte, 4 aprile 2026, la squadra di Basket di Charlotte ha sconfitto gli Indiana Pacers con un punteggio di 129-108 ",
-    "tags": []
-  },
-  {
-    "id": "bc3184bc5e7503b7",
-    "slug": "nba-milwaukee-boston-101-133-bc3184bc5e7503b7",
-    "title": "Nba, milwaukee boston 101-133",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-04T06:39:17.823107+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/00b6b0ea163fab1fb4c2d009c0a9193178c60537/skysport/it/nba/video/2026/04/04/1087573_1775275112960_thumb_494.0000001_1775280975559.jpg",
-    "occhiello": "NBA, MILWAUKEE BOSTON 101-133",
-    "lead_preview": "Milwaukee, 4 aprile 2026, la squadra di Basket dei Milwaukee Bucks ha perso contro i Boston Celtics con un punteggio di ",
     "tags": []
   },
   {
