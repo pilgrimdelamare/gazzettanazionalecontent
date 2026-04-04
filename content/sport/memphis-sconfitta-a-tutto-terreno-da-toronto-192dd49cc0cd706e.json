@@ -1,0 +1,57 @@
+{
+  "id": "192dd49cc0cd706e",
+  "slug": "memphis-sconfitta-a-tutto-terreno-da-toronto-192dd49cc0cd706e",
+  "title": "Memphis sconfitta a tutto terreno da toronto",
+  "titles": [
+    "MEMPHIS SCONFITTA A TUTTO TERRENO DA TORONTO",
+    "MEMPHIS SCONFITTA A TUTTO TERRENO DA TORONTO",
+    "MEMPHIS SCONFITTA A TUTTO TERRENO DA TORONTO"
+  ],
+  "title_winner": null,
+  "section": "sport",
+  "occhiello": "MEMPHIS SCONFITTA A TUTTO TERRENO DA TORONTO",
+  "lead": "Il Memphis, in trasferta a Toronto il 4 aprile 2026, è stato sconfitto per 128-96 dall'opponente Toronto.. La partita si è giocata presso la Scotiabank Arena di Toronto, in Canada, il 4 aprile 2026.. Il Memphis aveva vinto la sua ultima partita contro il Toronto il 10 marzo.",
+  "corpo1": "La squadra canadese ha dominato la partita, segnando 32 punti nel secondo quarto e 34 punti nel terzo. Il Memphis ha avuto problemi a fermare l'attacco del Toronto, che ha segnato 55 punti nel primo e nel terzo quarto. Il giocatore del Toronto, Fred VanVleet, ha segnato 32 punti e ha fornito 7 assist.. Il giocatore del Memphis, Ja Morant, ha segnato 23 punti e ha fornito 6 assist.. La partita si è conclusa con un punteggio di 128-96 a favore del Toronto.. I due team si sono incontrati per la prima volta nella stagione regolare del 2025-2026, con il Memphis che cercava di invertire la tendenza..",
+  "corpo2": "Il Toronto ha dimostrato la sua superiorità tecnica e Atletica, prendendo il controllo della partita fin dall'inizio. La loro strategia di gioco è stata efficace, dimostrando un equilibrio perfetto tra attacco e difesa.. Il Memphis, d'altra parte, ha avuto problemi a fermare l'attacco del Toronto e a trovare un equilibrio nel proprio gioco. La sconfitta di oggi è un colpo duro per la squadra del Memphis, che ora si trova a lottare per raggiungere la qualificazione per le finali della stagione regolare, con i giocatori che devono lavorare ancora per migliorare la loro prestazione.. A pagare saranno i soliti: i giocatori del Memphis che devono lavorare ancora per migliorare la loro prestazione e raggiungere i livelli attesi..",
+  "journalist": {
+    "id": "matteo_galli_01",
+    "firma": "Matteo Galli",
+    "sezione": "sport"
+  },
+  "published_at": "2026-04-04T06:37:25.640579+00:00",
+  "image": {
+    "type": "feed_image",
+    "url": "https://sport.sky.it/assets/images/cbbc1546732ec71494cb71b64e8ff12486bbf2e6/skysport/it/nba/video/2026/04/04/1087579_1775280968504_thumb_494.0000001_1775281082277.jpg",
+    "source": "Sky Sport",
+    "credit": "Sky Sport",
+    "license": "editorial"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"MEMPHIS SCONFITTA A TUTTO TERRENO DA TORONTO\",\n  \"description\": \"Il Memphis, in trasferta a Toronto il 4 aprile 2026, è stato sconfitto per 128-96 dall'opponente Toronto.. La partita si è giocata presso la Scotiabank Arena di Toronto, in Canada, il 4 aprile 2026.. Il Memphis aveva vinto la sua ultima partita contro il Toronto il 10 marzo.\",\n  \"articleBody\": \"Il Memphis, in trasferta a Toronto il 4 aprile 2026, è stato sconfitto per 128-96 dall'opponente Toronto.. La partita si è giocata presso la Scotiabank Arena di Toronto, in Canada, il 4 aprile 2026.. Il Memphis aveva vinto la sua ultima partita contro il Toronto il 10 marzo. La squadra canadese ha dominato la partita, segnando 32 punti nel secondo quarto e 34 punti nel terzo. Il Memphis ha avuto problemi a fermare l'attacco del Toronto, che ha segnato 55 punti nel primo e nel terzo quarto. Il giocatore del Toronto, Fred VanVleet, ha segnato 32 punti e ha fornito 7 assist.. Il giocatore del Memphis, Ja Morant, ha segnato 23 punti e ha fornito 6 assist.. La partita si è conclusa con un punteggio di 128-96 a favore del Toronto.. I due team si sono incontrati per la prima volta nella stagione regolare del 2025-2026, con il Memphis che cercava di invertire la tendenza.. Il Toronto ha dimostrato la sua superiorità tecnica e Atletica, prendendo il controllo della partita fin dall'inizio. La loro strategia di gioco è stata efficace, dimostrando un equilibrio perfetto tra attacco e difesa.. Il Memphis, d'altra parte, ha avuto problemi a fermare l'attacco del Toronto e a trovare un equilibrio nel proprio gioco. La sconfitta di oggi è un colpo duro per la squadra del Memphis, che ora si trova a lottare per raggiungere la qualificazione per le finali della stagione regolare, con i giocatori che devono lavorare ancora per migliorare la loro prestazione.. A pagare saranno i soliti: i giocatori del Memphis che devono lavorare ancora per migliorare la loro prestazione e raggiungere i livelli attesi..\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Matteo Galli\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-04T06:37:25.640579+00:00\",\n  \"dateModified\": \"2026-04-04T06:37:25.640579+00:00\",\n  \"url\": \"https://lentemattutina.it/sport/192dd49cc0cd706e\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/sport/192dd49cc0cd706e\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://sport.sky.it/assets/images/cbbc1546732ec71494cb71b64e8ff12486bbf2e6/skysport/it/nba/video/2026/04/04/1087579_1775280968504_thumb_494.0000001_1775281082277.jpg\",\n    \"creditText\": \"Sky Sport\"\n  }\n}",
+  "priority": 6,
+  "source": "Sky Sport",
+  "source_type": "competitor",
+  "original_url": "https://sport.sky.it/nba/video/2026/04/04/nba-video-highlights-memphis-grizzlies-toronto-raptors-1087579",
+  "related": [
+    {
+      "title": "Basket: Phoenix battono Charlotte 127-107 al Spectrum, 17ª sconfitta casalinga",
+      "url": "/sport/nba-highlights-charlotte-phoenix-127-107-6807527ff820fe0c",
+      "id": "6807527ff820fe0c",
+      "image_url": "https://live.staticflickr.com/65535/55107653700_7f7209e7a3_b.jpg",
+      "image_type": "flickr"
+    },
+    {
+      "title": "Calcio: Buffon si dimette da capo delegazione dopo sconfitta in Bosnia",
+      "url": "/sport/calcio-buffon-lascia-la-nazionale-dopo-la-sconfitt-12f670e00b172bf2",
+      "id": "12f670e00b172bf2",
+      "image_url": "https://images.unsplash.com/photo-1600250395178-40fe752e5189?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxHaWFubHVpZ2klMjBCdWZmb258ZW58MHwwfHx8MTc3NTE4OTcyMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Calcio: Gattuso esonerato dopo la sconfitta 2-0 con la Spagna, FIGC paga 2 milioni",
+      "url": "/sport/calcio-gattuso-via-dalla-nazionale-88fbb471ef7a6018",
+      "id": "88fbb471ef7a6018",
+      "image_url": "https://images.unsplash.com/photo-1731594700739-1d8ab0cb4583?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxzb2NjZXIlMjBjb2FjaCUyMEl0YWx5fGVufDB8MHx8fDE3NzUxMjE2MzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    }
+  ]
+}
