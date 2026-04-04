@@ -1,5 +1,23 @@
 [
   {
+    "id": "5df1f0a2b2beb3e5",
+    "slug": "israele-colpisce-hezbollah-a-beirut-raid-aerei-nel-5df1f0a2b2beb3e5",
+    "title": "Israele attacca Hezbollah a Beirut con raid notturni",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-04T01:35:51.835548+00:00",
+    "image_type": "none",
+    "image_url": "",
+    "occhiello": "ISRAELE BOMBARDA EROI DI HEZBOLLAH A BEIRUT",
+    "lead_preview": "Israele ha iniziato a colpire le infrastrutture di Hezbollah nella periferia sud di Beirut, in Libano, nella notte tra i",
+    "tags": [
+      "attacco israele libano",
+      "raid beirut 2026",
+      "conflitto israele-hezbollah"
+    ]
+  },
+  {
     "id": "d0c5ccaa8f421714",
     "slug": "marathon-arriva-su-ps5-xbox-e-pc-il-5-marzo-a-40-e-d0c5ccaa8f421714",
     "title": "Bungie lancia Marathon su Ps5, Xbox e Pc per 40 euro",
@@ -2582,24 +2600,6 @@
       "infortunio zapata",
       "torino calcio",
       "napoli torino"
-    ]
-  },
-  {
-    "id": "5df1f0a2b2beb3e5",
-    "slug": "israele-colpisce-hezbollah-a-beirut-raid-aerei-nel-5df1f0a2b2beb3e5",
-    "title": "Israele bombarda infrastrutture di Hezbollah a Beirut nella notte",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-04T01:35:51.835548+00:00",
-    "image_type": "flickr",
-    "image_url": "https://live.staticflickr.com/65535/55182883038_35f303ece4_b.jpg",
-    "occhiello": "ISRAELE CIASCIA HEZBOLLAH A BEYRUT: RAID AEREI",
-    "lead_preview": "Israele ha iniziato a colpire le infrastrutture di Hezbollah nella periferia sud di Beirut, in Libano, nella notte tra i",
-    "tags": [
-      "raid israele beirut",
-      "hezbollah libano",
-      "conflitto israele libano"
     ]
   },
   {
