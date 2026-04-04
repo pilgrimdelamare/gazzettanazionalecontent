@@ -1,5 +1,23 @@
 [
   {
+    "id": "df2f6b953b3d87b3",
+    "slug": "media-inglesi-errano-su-galles-df2f6b953b3d87b3",
+    "title": "Il 12% dei media inglesi cita il Galles, il resto lo ignora o lo cancella",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-04T06:21:56.123879+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1623292867420-65f47ca27398?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxXYWxlcyUyMGhlYWx0aGNhcmUlMjBwb2xpY3l8ZW58MHwwfHx8MTc3NTI5NjE1N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "",
+    "lead_preview": "Cardiff, 4 aprile 2026. Un rapporto dell'Università di Cardiff rivela che i principali media inglesi trascurano o distor",
+    "tags": [
+      "media galles",
+      "rapporto cardiff",
+      "marginalizzazione galles"
+    ]
+  },
+  {
     "id": "192dd49cc0cd706e",
     "slug": "memphis-sconfitta-a-tutto-terreno-da-toronto-192dd49cc0cd706e",
     "title": "Toronto travolge memphis con 32 punti di distacco",
@@ -762,23 +780,6 @@
       "licenziamento alex preston",
       "recensione nytimes",
       "caso preston"
-    ]
-  },
-  {
-    "id": "df2f6b953b3d87b3",
-    "slug": "media-inglesi-errano-su-galles-df2f6b953b3d87b3",
-    "title": "Media inglesi errano su Galles",
-    "section": "esteri",
-    "priority": 4,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-04T06:21:56.123879+00:00",
-    "image_type": "image",
-    "image_url": "https://i.guim.co.uk/img/media/db44a8806ba82fea17a77450b5f040d3ca61967d/522_0_4676_3740/master/4676.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bc3209af188ce6ef6acc8f9a81f93ea5",
-    "occhiello": "MEDIA INGLESE FA CONFUSIONE SU WALES",
-    "lead_preview": "Un rapporto dell'Università di Cardiff rivela che i media inglesi non riportano correttamente le questioni devolute in G",
-    "tags": [
-      "media inglesi galles",
-      "elezioni senedd"
     ]
   },
   {
