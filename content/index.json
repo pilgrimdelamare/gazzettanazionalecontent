@@ -1,5 +1,23 @@
 [
   {
+    "id": "a6015761c62f3512",
+    "slug": "rosario-murillo-chiama-serpenti-velenosi-clero-ed-a6015761c62f3512",
+    "title": "Murillo chiama 'serpenti velenosi' esuli e clero: la bordata a Managua",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-03T22:35:12.492464+00:00",
+    "image_type": "wikimedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Rosario_en_1930.png",
+    "occhiello": "",
+    "lead_preview": "Rosario Murillo, vicepresidente del Nicaragua, ha definito \"serpenti velenosi\" esuli e clero cattolico nel discorso pubb",
+    "tags": [
+      "murillo managua",
+      "clero nicaragua",
+      "esuli nicaraguensi"
+    ]
+  },
+  {
     "id": "a119881a08cf30fb",
     "slug": "calcio-casarini-segna-il-2-0-a119881a08cf30fb",
     "title": "Calcio: Casarini segna il 2-0 per il Carpi contro il Pon",
@@ -396,24 +414,6 @@
     "occhiello": "SU OGNI 100 EURO NE RESTANO 48,6",
     "lead_preview": "Secondo i dati Istat relativi al quarto trimestre 2025, pubblicati il 3 aprile 2026, la pressione fiscale in Italia ha r",
     "tags": []
-  },
-  {
-    "id": "a6015761c62f3512",
-    "slug": "rosario-murillo-chiama-serpenti-velenosi-clero-ed-a6015761c62f3512",
-    "title": "Rosario Murillo chiama 'serpenti velenosi' clero ed esuli nel suo discorso del 3 aprile",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-03T22:35:12.492464+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/3/1fd2f100a772cce1f4c9e1c7e3fe6123.jpg",
-    "occhiello": "LA VICEPRESIDENTE DEL NICARAGUA CONTRO PRETI E OPPONENTI",
-    "lead_preview": "Rosario Murillo, vicepresidente del Nicaragua, ha attaccato esuli e clero, definendoli \"serpenti velenosi\", in un discor",
-    "tags": [
-      "rosario murillo",
-      "clero nicaragua",
-      "discorso 3 aprile"
-    ]
   },
   {
     "id": "53977625940fbf5a",
