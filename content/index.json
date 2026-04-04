@@ -1,5 +1,23 @@
 [
   {
+    "id": "d14c71689ca42cf4",
+    "slug": "gasperi-a-san-siro-la-forza-e-guardare-avanti-non-d14c71689ca42cf4",
+    "title": "Calcio: Gasperini parla a San Siro dopo ko Italia, 8 minuti senza domande",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-04T12:00:51.484403+00:00",
+    "image_type": "wikimedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Gian-piero-gasperini-2019_%28cropped%29.png",
+    "occhiello": "",
+    "lead_preview": "Gian Piero Gasperini, allenatore della Roma, ha parlato in conferenza stampa a San Siro il 2026-04-04, un giorno dopo la",
+    "tags": [
+      "ko italia",
+      "conferenza gasperini",
+      "nazionale calcio"
+    ]
+  },
+  {
     "id": "d7711d86959b0c63",
     "slug": "legnini-centrosinistra-diviso-dietro-il-54enne-d7711d86959b0c63",
     "title": "Giovanni Legnini candidato sindaco di Chieti, ma il centrosinistra è diviso",
@@ -541,23 +559,6 @@
       "morte ricardo ortiz",
       "incornata malaga",
       "toro arena"
-    ]
-  },
-  {
-    "id": "d14c71689ca42cf4",
-    "slug": "gasperi-a-san-siro-la-forza-e-guardare-avanti-non-d14c71689ca42cf4",
-    "title": "Gasperi a san siro: \"la forza è guardare avanti, non crolliamo su un errore\"",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-04T12:00:51.484403+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/66208e202da493703a8128ed2f7d43454f75cd25/skysport/it/calcio/calciomercato/allenatori-svincolati/gasperini_conferenza_getty.jpg",
-    "occhiello": "GASPERI A SAN SIRO: \"LA FORZA È GUARDARE AVANTI, NON CROLLIAMO SU UN ERRORE\"",
-    "lead_preview": "Gian Piero Gasperini, allenatore della Roma, ha risposto in conferenza stampa all'indomani della sconfitta della Naziona",
-    "tags": [
-      "gasperini",
-      "nazionale italiana"
     ]
   },
   {
