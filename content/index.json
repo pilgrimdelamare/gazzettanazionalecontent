@@ -1,5 +1,22 @@
 [
   {
+    "id": "462d589949277872",
+    "slug": "uffizi-colpiti-da-hacker-20-computer-bloccati-rich-462d589949277872",
+    "title": "Attaglio hacker alla Galleria degli Uffizi: 20 macchine compromesse",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-04T11:43:55.861787+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/8720584/pexels-photo-8720584.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "UFFIZI COLPITI DA HACKER",
+    "lead_preview": "La Galleria degli Uffizi a Firenze è stata colpita da un attacco hacker sabato 4 aprile, con 20 macchine informatiche co",
+    "tags": [
+      "hacker uffizi",
+      "attacco uffizi"
+    ]
+  },
+  {
     "id": "519c08baa97633c2",
     "slug": "parlamento-ue-blocca-laccordo-di-turnberry-niente-519c08baa97633c2",
     "title": "Parlamento UE boccia accordo commerciale con USA",
@@ -778,24 +795,6 @@
       "gioco videogame",
       "bungie",
       "marathon"
-    ]
-  },
-  {
-    "id": "462d589949277872",
-    "slug": "uffizi-colpiti-da-hacker-20-computer-bloccati-rich-462d589949277872",
-    "title": "Uffizi colpiti da hacker: 20 computer bloccati, richiesto riscatto di 300mila euro",
-    "section": "economia",
-    "priority": 6,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-04T11:43:55.861787+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/3/9c97b5d737306fd026d87be37e6bc194.jpg",
-    "occhiello": "300 MILA EURO RICHIESTI AGLI UFFIZI",
-    "lead_preview": "Galleria degli Uffizi, firenze — una ventina di macchine informatiche compromesse nell’attacco hacker avvenuto sabato 4 ",
-    "tags": [
-      "attacco hacker uffizi",
-      "ransomware uffizi",
-      "cyberattacco firenze"
     ]
   },
   {
