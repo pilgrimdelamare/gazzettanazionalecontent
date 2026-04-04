@@ -1,5 +1,23 @@
 [
   {
+    "id": "86db031c96b9304b",
+    "slug": "schianto-sulla-tuscolana-due-morti-e-tre-feriti-86db031c96b9304b",
+    "title": "Due morti e tre feriti in scontro frontale tra Roma e Appio Latino sulla Tuscolana",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Chiara Esposito",
+    "published_at": "2026-04-04T08:59:55.052862+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1602148246525-d82f822516c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxSb21lJTIwQXBwaW8lMjBMYXRpbm8lMjBjYXIlMjBhY2NpZGVudHxlbnwwfDB8fHwxNzc1MzAwNzI1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "",
+    "lead_preview": "Ilaria Di Carlo, 50 anni, e un ragazzo di 16 anni sono morti nella tarda serata di venerdì 3 aprile a Roma, dopo lo scon",
+    "tags": [
+      "scontro via tuscolana",
+      "morti roma",
+      "incidente appio latino"
+    ]
+  },
+  {
     "id": "c135a3daaf5c908b",
     "slug": "donna-arrestata-per-tentato-omicidio-a-napoli-c135a3daaf5c908b",
     "title": "Napoli, donna colpisce uomo con piede di porco in via Sanità: è in prognosi riservata",
@@ -1411,22 +1429,6 @@
     "occhiello": "NATANGELLO SATIRIZZA GIORGIA MELONI",
     "lead_preview": "Mario natangelo, vignettista, pubblica una satira su Giorgia Meloni su Il Fatto Quotidiano del 4 aprile 2026.",
     "tags": []
-  },
-  {
-    "id": "86db031c96b9304b",
-    "slug": "schianto-sulla-tuscolana-due-morti-e-tre-feriti-86db031c96b9304b",
-    "title": "Schianto sulla tuscolana: due morti e tre feriti",
-    "section": "cronaca",
-    "priority": 4,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-04-04T08:59:55.052862+00:00",
-    "image_type": "image",
-    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2025/12/06/polizia-locale-roma.jpg",
-    "occhiello": "SCHIANTO SULLA TUSCOLANA: DUE MORTI E TRE FERITI",
-    "lead_preview": "Una donna di 50 anni e un ragazzo di 16 sono morti nello scontro tra una Fiat Punto e una Fiat 500 avvenuto venerdì 3 ap",
-    "tags": [
-      "schianto tuscolana"
-    ]
   },
   {
     "id": "2cc07950c2378770",
