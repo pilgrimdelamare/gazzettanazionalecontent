@@ -1,5 +1,23 @@
 [
   {
+    "id": "14c6693168679cd9",
+    "slug": "governo-lancia-prestiti-a-380-per-tpe-e-pme-14c6693168679cd9",
+    "title": "Governo lancia prestiti a 3,80% per TPE e PME",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-03T23:24:29.706740+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/16537214/pexels-photo-16537214.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "PRESTITI A 3,80% PER TPE E PME",
+    "lead_preview": "Il governo ha lanciato un \"prêt flash\" a 3,80% per sostenere la trésorerie delle TPE e PME, a seguito dell'aumento dei p",
+    "tags": [
+      "prestiti tpe",
+      "prestiti pme",
+      "manovra 2026"
+    ]
+  },
+  {
     "id": "e2e337f710789dc8",
     "slug": "8bitdo-lancia-ap50-tastiera-vintage-per-i-50-anni-e2e337f710789dc8",
     "title": "8bitdo lancia ap50, tastiera omaggio ad Apple da 50 anni",
@@ -460,23 +478,6 @@
     "tags": [
       "omicidio costiera",
       "guardia costiera"
-    ]
-  },
-  {
-    "id": "14c6693168679cd9",
-    "slug": "governo-lancia-prestiti-a-380-per-tpe-e-pme-14c6693168679cd9",
-    "title": "Governo lancia prestiti a 3,80% per TPE e PME",
-    "section": "esteri",
-    "priority": 3,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-03T23:24:29.706740+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Starting_the_charcoal.jpg",
-    "occhiello": "PRESTITI PER PMI COLPITE DALL'AUMENTO DEI CARBURANTI",
-    "lead_preview": "Il governo lancia un \"prêt flash\" a 3,80% per sostenere la trésorerie delle TPE e PME, a seguito dell'aumento dei prezzi",
-    "tags": [
-      "prestiti pmi",
-      "aumento carburanti"
     ]
   },
   {
