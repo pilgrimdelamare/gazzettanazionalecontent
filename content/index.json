@@ -1,5 +1,22 @@
 [
   {
+    "id": "3655609c65ea336f",
+    "slug": "papa-leone-xiv-presiede-la-veglia-pasquale-a-san-p-3655609c65ea336f",
+    "title": "Papa Leone XIV presiede la Veglia pasquale a San Pietro stasera",
+    "section": "cronaca",
+    "priority": 6,
+    "journalist_firma": "Chiara Esposito",
+    "published_at": "2026-04-04T06:43:27.367800+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/03/214840775-7daf9b69-ad50-49ce-bb77-29725920bd37.jpg",
+    "occhiello": "PASQUA A SAN PIETRO",
+    "lead_preview": "Questa sera Papa Leone presiede la Veglia pasquale a San Pietro",
+    "tags": [
+      "veglia pasquale san pietro",
+      "papa leone xiv"
+    ]
+  },
+  {
     "id": "c600c27bc92755c9",
     "slug": "natangelo-colpisce-ancora-su-il-fatto-quotidiano-l-c600c27bc92755c9",
     "title": "Natangelo colpisce ancora: su Il Fatto Quotidiano la vignetta 'Povera Giorgia'",
@@ -8557,23 +8574,6 @@
       "leggi antitras",
       "diritti trans",
       "stati usa"
-    ]
-  },
-  {
-    "id": "f0e9d7c3a0f0a517",
-    "slug": "minnesota-umilia-dallas-124-94-f0e9d7c3a0f0a517",
-    "title": "Basket: Minnesota travolge Dallas 124-94 in casa",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-03-31T06:37:09.331413+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/The_Dallas_Mavericks_%282930809450%29.jpg",
-    "occhiello": "BASKET: WOLVES INFLIGGONO UMILIAZIONE 124-94 A DALLAS",
-    "lead_preview": "OCCHIELLO Minnesota sconfigge Dallas 124-94 in casa il 31 marzo 2026 LEAD La squadra di Minneapolis, i Minnesota Timberw",
-    "tags": [
-      "nba",
-      "minnesota dallas"
     ]
   }
 ]
