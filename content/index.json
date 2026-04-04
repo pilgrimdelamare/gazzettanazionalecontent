@@ -1,5 +1,23 @@
 [
   {
+    "id": "519c08baa97633c2",
+    "slug": "parlamento-ue-blocca-laccordo-di-turnberry-niente-519c08baa97633c2",
+    "title": "Parlamento Ue blocca l'accordo di Turnberry: niente dazi USA o è nullo",
+    "section": "economia",
+    "priority": 6,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-04T11:28:54.749423+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/04/131324090-92bddfee-a55a-4ca4-8527-fcc15965a5e2.jpg",
+    "occhiello": "BLOCCATO DAL PARLAMENTO EUROPEO",
+    "lead_preview": "L’accordo di Turnberry, firmato il 3 aprile 2026 tra Stati Uniti e Unione Europea, è stato di fatto neutralizzato dal Pa",
+    "tags": [
+      "accordo turnberry",
+      "parlamento ue",
+      "dazi usa ue"
+    ]
+  },
+  {
     "id": "1b8daeccdb0b4827",
     "slug": "a-napoli-250-reperti-raccontano-parthenope-la-sire-1b8daeccdb0b4827",
     "title": "250 reperti a 15 euro: Parthenope torna al Museo di Napoli il 6 luglio 2026",
@@ -8637,23 +8655,6 @@
     "tags": [
       "ivo andrić",
       "libri inediti"
-    ]
-  },
-  {
-    "id": "ac274fe5a4ffb2af",
-    "slug": "giusy-valeri-torna-in-scena-a-87-anni-ac274fe5a4ffb2af",
-    "title": "La valeri tornata in scena a napoli",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-03-31T05:47:15.628976+00:00",
-    "image_type": "none",
-    "image_url": "",
-    "occhiello": "LA VALERI TORNATA IN SCENA A NAPOLI",
-    "lead_preview": "La commediografa e attrice napoletana Giusy Valeri torna in scena il 31 marzo 2026 al Teatro Puff di Napoli, esattamente",
-    "tags": [
-      "giusy valeri",
-      "teatro puff napoli"
     ]
   }
 ]
