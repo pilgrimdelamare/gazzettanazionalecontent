@@ -1,5 +1,23 @@
 [
   {
+    "id": "ccc4abf0307b78e8",
+    "slug": "pilota-disperso-lincubo-americano-ccc4abf0307b78e8",
+    "title": "Pilota disperso: l'incubo americano",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-04T15:21:59.191260+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/04/152948031-37df2c65-9257-4b9a-906c-16499abdda8f.jpg",
+    "occhiello": "PILOTA DISPERSO: L'INCUBO AMERICANO",
+    "lead_preview": "Il 4 aprile 2026, l'operazione per recuperare i soldati a Mogadiscio e a Baghdad ha richiamato l'attenzione sulla questi",
+    "tags": [
+      "pilota disperso",
+      "operazione mogadiscio",
+      "soccorso baghdad"
+    ]
+  },
+  {
     "id": "444517793152d157",
     "slug": "james-marsden-e-il-nuovo-rivale-di-jon-hamm-444517793152d157",
     "title": "James Marsden entra nel cast di 'Your Friends and Neighbors 2' su Netflix dal 2026",
@@ -8636,24 +8654,6 @@
       "guerra ucraina",
       "zelensky",
       "russia"
-    ]
-  },
-  {
-    "id": "d8e8105bfba2b7b1",
-    "slug": "accc-indaga-su-tiktok-instagram-e-youtube-per-acce-d8e8105bfba2b7b1",
-    "title": "ACCC indaga su TikTok, Instagram e YouTube per violazioni antitrust",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-03-31T02:19:30.760547+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Indagine_su_un_cittadino_al_di_sopra_di_ogni_sospetto_%28film%29.jpg",
-    "occhiello": "ACC INDAGINA TRE GIANTI DEL WEB",
-    "lead_preview": "L'ACCC ha avviato il 31 marzo 2026 un'indagine formale su TikTok, Instagram e YouTube",
-    "tags": [
-      "indagine accc",
-      "violazioni antitrust",
-      "tiktok instagram youtube"
     ]
   }
 ]
