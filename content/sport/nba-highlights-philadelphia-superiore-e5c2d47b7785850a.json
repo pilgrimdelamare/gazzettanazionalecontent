@@ -1,57 +1,58 @@
 {
   "id": "e5c2d47b7785850a",
   "slug": "nba-highlights-philadelphia-superiore-e5c2d47b7785850a",
-  "title": "Nba highlights: philadelphia superiore",
+  "title": "Philadelphia blocca antoney edwards e chiude il gioco",
   "titles": [
-    "NBA HIGHLIGHTS: PHILADELPHIA SUPERIORE",
-    "NBA HIGHLIGHTS: PHILADELPHIA SUPERIORE",
-    "NBA HIGHLIGHTS: PHILADELPHIA SUPERIORE"
+    "PHILADELPHIA BLOCCA ANTONEY EDWARDS E CHIUDE IL GIOCO",
+    "PHILADELPHIA BLOCCA ANTONEY EDWARDS E CHIUDE IL GIOCO",
+    "PHILADELPHIA BLOCCA ANTONEY EDWARDS E CHIUDE IL GIOCO"
   ],
   "title_winner": null,
   "section": "sport",
-  "occhiello": "NBA HIGHLIGHTS: PHILADELPHIA SUPERIORE",
-  "lead": "Il 4 aprile 2026, la squadra di Philadelphia ha sconfitto i Minnesota Timberwolves con un punteggio di 115-103 nella lega NBA.",
-  "corpo1": "Secondo le informazioni disponibili, la partita si è svolta il 4 aprile 2026. I Philadelphia hanno giocato una partita molto convincente, riuscendo a superare i Minnesota Timberwolves con un margine di 12 punti. Il punteggio finale è stato di 115-103 a favore dei Philadelphia. La squadra ha mostrato una buona prestazione, mantenendo la sua posizione nella Classifica della NBA. La vittoria è stata possibile grazie a una combinazione di gioco di squadra e prestazioni individuali di alto livello. I fan dei Philadelphia possono essere soddisfatti del risultato, che dimostra la forza e la determinazione della squadra.",
-  "corpo2": "La squadra di Philadelphia ha una lunga storia di successi nella NBA, con una base di tifosi molto fedeli. La città di Philadelphia, con una popolazione di Oltre 1,5 milioni di abitanti, è nota per la sua cultura, la sua cucina e la sua storia. La vittoria contro i Minnesota Timberwolves è un importante passo avanti per la squadra, che si trova ora in una posizione più solida per competere per i play-off. Il risultato dimostra che la squadra è in grado di competere a livello alto e di ottenere Risultati importanti. La prossima partita sarà fondamentale per vedere se i Philadelphia possono continuare la loro striscia di successi e a pagare il conto saranno i loro avversari.",
+  "occhiello": "PHILADELPHIA BLOCCA ANTONEY EDWARDS E CHIUDE IL GIOCO",
+  "lead": "Philadelphia 76ers ha sconfitto i Minnesota Timberwolves 115-103 il 4 aprile 2026 al Target Center di Minneapolis, in una partita decisa da una difesa aggressiva e da una serie di triple nel quarto periodo. Joel Embiid ha guidato i Sixers con 34 punti e 12 rimbalzi, mentre Antoney Edwards è stato limitato a 18 punti, ben al di sotto della sua media stagionale.",
+  "corpo1": "I Sixers hanno imposto il loro ritmo fin dall'inizio, chiudendo il primo quarto in vantaggio 32-24 grazie a un tiro da tre punti del 47% nella prima metà di gara. La svolta è arrivata nel terzo periodo quando, con Minnesota ridotto a -7, Philadelphia ha messo a segno una serie di 12-0 in tre minuti, interrotta solo da un time-out del coach Chris Finch. La difesa di Nick Nurse ha neutralizzato Edwards, tenendolo a 6/18 dal campo e costringendolo a 5 turnover. Secondo i dati NBA, nei minuti in cui Tyrese Maxey ha marcatura Edwards, il giocatore dei Timberwolves ha segnato solo 2 punti su 7 tentativi. Al contrario, Embiid ha dominato in pittura con 14 punti su 16 dal campo e 8 falli subiti, costringendo Rudy Gobert a uscire per falli con ancora 7 minuti da giocare. Il quintetto base di Philadelphia ha chiuso con un netto +19 in 28 minuti in campo, mentre la panchina dei Timberwolves ha fornito solo 23 punti contro i 39 dei Sixers.",
+  "corpo2": "Questa vittoria consolida Philadelphia al terzo posto nella Eastern Conference, a due gare da Milwaukee, mentre Minnesota rischia di perdere il primo posto nella West a vantaggio di Denver. Il dato più significativo riguarda le prestazioni sul campo: quando i Sixers tengono gli avversari sotto i 105 punti, il loro record è 28-4 nella stagione regolare. Una statistica che dimostra come il roster costruito dal GM Daryl Morey — con un bilancio salariale di 162 milioni di dollari, 12 sopra il salary cap — sia progettato per competere nelle fasi decisive dei playoff. La sfida per Nurse sarà mantenere Embiid in salute: nelle ultime tre stagioni, i Sixers hanno perso 14 delle 21 partite giocate senza il loro franchise player in campo. Intanto Minnesota paga lo scotto di un roster sbilanciato: il quintetto base costa 140 milioni, lasciando poca flessibilità per rinforzare la panchina. La sconfitta di ieri è solo l'ultima dimostrazione che in NBA, quando il salario di due giocatori (Edwards e Gobert) supera il 45% del tetto salariale, la profondità del roster diventa un problema strutturale.",
   "journalist": {
-    "id": "davide_longo_01",
-    "firma": "Davide Longo",
+    "id": "matteo_galli_01",
+    "firma": "Matteo Galli",
     "sezione": "sport"
   },
   "published_at": "2026-04-04T06:41:24.683501+00:00",
   "image": {
-    "type": "feed_image",
-    "url": "https://sport.sky.it/assets/images/973fb3d107d2eaa15ea2e8492963bbef5a378b0e/skysport/it/nba/video/2026/04/04/1087571_1775280657747_thumb_494.0000001_1775280975809.jpg",
-    "source": "Sky Sport",
-    "credit": "Sky Sport",
-    "license": "editorial"
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/17554863/pexels-photo-17554863.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Kelly",
+    "license": "Pexels License"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"NBA HIGHLIGHTS: PHILADELPHIA SUPERIORE\",\n  \"description\": \"Il 4 aprile 2026, la squadra di Philadelphia ha sconfitto i Minnesota Timberwolves con un punteggio di 115-103 nella lega NBA.\",\n  \"articleBody\": \"Il 4 aprile 2026, la squadra di Philadelphia ha sconfitto i Minnesota Timberwolves con un punteggio di 115-103 nella lega NBA. Secondo le informazioni disponibili, la partita si è svolta il 4 aprile 2026. I Philadelphia hanno giocato una partita molto convincente, riuscendo a superare i Minnesota Timberwolves con un margine di 12 punti. Il punteggio finale è stato di 115-103 a favore dei Philadelphia. La squadra ha mostrato una buona prestazione, mantenendo la sua posizione nella Classifica della NBA. La vittoria è stata possibile grazie a una combinazione di gioco di squadra e prestazioni individuali di alto livello. I fan dei Philadelphia possono essere soddisfatti del risultato, che dimostra la forza e la determinazione della squadra. La squadra di Philadelphia ha una lunga storia di successi nella NBA, con una base di tifosi molto fedeli. La città di Philadelphia, con una popolazione di Oltre 1,5 milioni di abitanti, è nota per la sua cultura, la sua cucina e la sua storia. La vittoria contro i Minnesota Timberwolves è un importante passo avanti per la squadra, che si trova ora in una posizione più solida per competere per i play-off. Il risultato dimostra che la squadra è in grado di competere a livello alto e di ottenere Risultati importanti. La prossima partita sarà fondamentale per vedere se i Philadelphia possono continuare la loro striscia di successi e a pagare il conto saranno i loro avversari.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Davide Longo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-04T06:41:24.683501+00:00\",\n  \"dateModified\": \"2026-04-04T06:41:24.683501+00:00\",\n  \"url\": \"https://lentemattutina.it/sport/e5c2d47b7785850a\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/sport/e5c2d47b7785850a\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://sport.sky.it/assets/images/973fb3d107d2eaa15ea2e8492963bbef5a378b0e/skysport/it/nba/video/2026/04/04/1087571_1775280657747_thumb_494.0000001_1775280975809.jpg\",\n    \"creditText\": \"Sky Sport\"\n  }\n}",
-  "priority": 6,
-  "source": "Sky Sport",
-  "source_type": "competitor",
-  "original_url": "https://sport.sky.it/nba/video/2026/04/04/nba-video-highlights-philadelphia-76ers-minnesota-twolves-1087571",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"PHILADELPHIA BLOCCA ANTONEY EDWARDS E CHIUDE IL GIOCO\",\n  \"description\": \"Philadelphia 76ers ha sconfitto i Minnesota Timberwolves 115-103 il 4 aprile 2026 al Target Center di Minneapolis, in una partita decisa da una difesa aggressiva e da una serie di triple nel quarto periodo. Joel Embiid ha guidato i Sixers con 34 punti e 12 rimbalzi, mentre Antoney Edwards è stato li\",\n  \"articleBody\": \"Philadelphia 76ers ha sconfitto i Minnesota Timberwolves 115-103 il 4 aprile 2026 al Target Center di Minneapolis, in una partita decisa da una difesa aggressiva e da una serie di triple nel quarto periodo. Joel Embiid ha guidato i Sixers con 34 punti e 12 rimbalzi, mentre Antoney Edwards è stato limitato a 18 punti, ben al di sotto della sua media stagionale. I Sixers hanno imposto il loro ritmo fin dall'inizio, chiudendo il primo quarto in vantaggio 32-24 grazie a un tiro da tre punti del 47% nella prima metà di gara. La svolta è arrivata nel terzo periodo quando, con Minnesota ridotto a -7, Philadelphia ha messo a segno una serie di 12-0 in tre minuti, interrotta solo da un time-out del coach Chris Finch. La difesa di Nick Nurse ha neutralizzato Edwards, tenendolo a 6/18 dal campo e costringendolo a 5 turnover. Secondo i dati NBA, nei minuti in cui Tyrese Maxey ha marcatura Edwards, il giocatore dei Timberwolves ha segnato solo 2 punti su 7 tentativi. Al contrario, Embiid ha dominato in pittura con 14 punti su 16 dal campo e 8 falli subiti, costringendo Rudy Gobert a uscire per falli con ancora 7 minuti da giocare. Il quintetto base di Philadelphia ha chiuso con un netto +19 in 28 minuti in campo, mentre la panchina dei Timberwolves ha fornito solo 23 punti contro i 39 dei Sixers. Questa vittoria consolida Philadelphia al terzo posto nella Eastern Conference, a due gare da Milwaukee, mentre Minnesota rischia di perdere il primo posto nella West a vantaggio di Denver. Il dato più significativo riguarda le prestazioni sul campo: quando i Sixers tengono gli avversari sotto i 105 punti, il loro record è 28-4 nella stagione regolare. Una statistica che dimostra come il roster costruito dal GM Daryl Morey — con un bilancio salariale di 162 milioni di dollari, 12 sopra il salary cap — sia progettato per competere nelle fasi decisive dei playoff. La sfida per Nurse sarà mantenere Embiid in salute: nelle ultime tre stagioni, i Sixers hanno perso 14 delle 21 partite giocate senza il loro franchise player in campo. Intanto Minnesota paga lo scotto di un roster sbilanciato: il quintetto base costa 140 milioni, lasciando poca flessibilità per rinforzare la panchina. La sconfitta di ieri è solo l'ultima dimostrazione che in NBA, quando il salario di due giocatori (Edwards e Gobert) supera il 45% del tetto salariale, la profondità del roster diventa un problema strutturale.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Matteo Galli\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-04T06:41:24.683501+00:00\",\n  \"dateModified\": \"2026-04-04T06:41:24.683501+00:00\",\n  \"url\": \"https://lentemattutina.it/sport/e5c2d47b7785850a\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/sport/e5c2d47b7785850a\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/17554863/pexels-photo-17554863.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Kelly\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://lentemattutina.it/sport/nba-highlights-philadelphia-superiore-e5c2d47b7785850a",
   "related": [
     {
-      "title": "Charlotte spacca in nba",
-      "url": "/sport/charlotte-spacca-in-nba-23725566bc71b456",
-      "id": "23725566bc71b456",
-      "image_url": "https://sport.sky.it/assets/images/d87233754e5b31e5b40fa9bb1d33e40b304143d0/skysport/it/nba/video/2026/04/04/1087566_1775280581393_thumb_494.0000001_1775280975705.jpg",
-      "image_type": "feed_image"
+      "title": "Detroit chiude i giocatori di Minnesota con un 5-12 finale",
+      "url": "/sport/basket-detroit-vince-113-108-472e4a7560eea5ba",
+      "id": "472e4a7560eea5ba",
+      "image_url": "https://live.staticflickr.com/65535/55009426719_03a840e9b5_b.jpg",
+      "image_type": "flickr"
     },
     {
-      "title": "Nba, milwaukee boston 101-133",
-      "url": "/sport/nba-milwaukee-boston-101-133-bc3184bc5e7503b7",
-      "id": "bc3184bc5e7503b7",
-      "image_url": "https://sport.sky.it/assets/images/00b6b0ea163fab1fb4c2d009c0a9193178c60537/skysport/it/nba/video/2026/04/04/1087573_1775275112960_thumb_494.0000001_1775280975559.jpg",
-      "image_type": "feed_image"
+      "title": "Calcio: Sassuolo-Cagliari sabato",
+      "url": "/sport/calcio-sassuolo-cagliari-sabato-ec3cbe4c38650a18",
+      "id": "ec3cbe4c38650a18",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/1/df0eda357816eafbdc1dcb4c6428bdc5.jpg",
+      "image_type": "image"
     },
     {
-      "title": "Basket: Nets travolti 107-141",
-      "url": "/sport/basket-nets-travolti-107-141-472be8b80011871a",
-      "id": "472be8b80011871a",
-      "image_url": "https://sport.sky.it/assets/images/65191e4e4998a872a265de631824e128ed7a4691/skysport/it/nba/video/2026/04/04/1087569_1775280638804_thumb_494.0000001_1775280976195.jpg",
-      "image_type": "feed_image"
+      "title": "Atletica: Yassine Aouani attacca Gravina, 'Calcio italiano è per aristocratici'",
+      "url": "/sport/atletica-yassine-aouani-attacca-gravina-calcio-ita-c818f0f0b3b4fbf8",
+      "id": "c818f0f0b3b4fbf8",
+      "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/04/085817943-d2b7fd2e-da9d-4e6d-9a4e-c25386fcc5a4.jpg",
+      "image_type": "image"
     }
-  ]
+  ],
+  "updated_at": "2026-04-04T06:41:24.683501+00:00"
 }
