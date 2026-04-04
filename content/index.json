@@ -1,5 +1,23 @@
 [
   {
+    "id": "aff528f51fea8135",
+    "slug": "80-degli-alberi-distrutti-dalluragano-storico-aff528f51fea8135",
+    "title": "Tempesta Goret distrugge edifici storici a St Michael's Mount, Cornovaglia",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-03T11:21:34.406338+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1545276070-ec815f01c6ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxTdCUyME1pY2hhZWwlMjdzJTIwTW91bnQlMjBmbG9vZHxlbnwwfDB8fHwxNzc1MjcwNzM4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "TEMPESTA GORET DEVASTA ST MICHAEL'S MOUNT",
+    "lead_preview": "La tempesta Goret ha devastato St Michael's Mount, l'isola-monumento al largo della Cornovaglia, lasciando l'intera stru",
+    "tags": [
+      "tempesta goret",
+      "st michael's mount",
+      "danni cornovaglia"
+    ]
+  },
+  {
     "id": "72e3132b64b22654",
     "slug": "270-metri-di-neve-in-poche-ore-passo-lanciano-sott-72e3132b64b22654",
     "title": "2,70 metri di neve in poche ore a Passo Lanciano, residenti in emergenza",
@@ -1253,22 +1271,6 @@
       "acquisizione tbpn",
       "openai editoria",
       "sam altman tech"
-    ]
-  },
-  {
-    "id": "aff528f51fea8135",
-    "slug": "80-degli-alberi-distrutti-dalluragano-storico-aff528f51fea8135",
-    "title": "Tempesta Goret devasta St Michael's Mount",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-03T11:21:34.406338+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/31390260/pexels-photo-31390260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "TUTTO DISTRUTTO DALL'URAGANO",
-    "lead_preview": "Roma, 3 aprile 2026 - St Michael's Mount, l'isola-monumento al largo delle coste della Cornovaglia, mostra ancora i segn",
-    "tags": [
-      "tempesta goret"
     ]
   },
   {
