@@ -1,5 +1,23 @@
 [
   {
+    "id": "1167d6d626047aa2",
+    "slug": "ex-matador-ricardo-ortiz-muore-incornato-da-un-tor-1167d6d626047aa2",
+    "title": "Ex matador Ricardo Ortiz muore incornato da un toro a Malaga durante scarico",
+    "section": "esteri",
+    "priority": 4,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-04T12:01:45.410183+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1712788124666-2d748fdf9b7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxidWxsJTIwYXR0YWNrJTIwc3BhaW58ZW58MHwwfHx8MTc3NTMwNDEwNXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "MORTE IN ARENA A MALAGA",
+    "lead_preview": "Ricardo Ortiz, 51 anni, è morto il 4 aprile 2026 a Malaga dopo essere stato colpito da un toro durante le operazioni di ",
+    "tags": [
+      "morte ricardo ortiz",
+      "incornata malaga",
+      "toro arena"
+    ]
+  },
+  {
     "id": "d7711d86959b0c63",
     "slug": "legnini-centrosinistra-diviso-dietro-il-54enne-d7711d86959b0c63",
     "title": "Legnini: centrosinistra diviso dietro il 54enne",
@@ -8642,24 +8660,6 @@
     "lead_preview": "Matteo Berrettini torna in campo il 31 marzo 2026 a Marrakech, dopo l'uscita al masters 1000 di Miami, mentre Federico C",
     "tags": [
       "berrettini marrakech"
-    ]
-  },
-  {
-    "id": "56e3b72300966d52",
-    "slug": "wembanyama-41-punti-e-doppio-doppio-in-831-record-56e3b72300966d52",
-    "title": "Wembanyama segna 41 punti in 8min31sec: il record NBA è caduto a San Antonio",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-03-31T05:31:17.232444+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1533923156502-be31530547c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxOQkElMjBnYW1lfGVufDB8MHx8fDE3NzUwMDY5NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "WEMBANYAMA SPACCA LA NBA: RECORD DI PUNTI E DOPPIO-DOPPIA IN 8 MINUTI E 31 SECONDI",
-    "lead_preview": "Victor Wembanyama, il cestista francese dei San Antonio Spurs, ha realizzato 41 punti e il doppio-doppio più veloce dell",
-    "tags": [
-      "record nba",
-      "wembanyama",
-      "san antonio spurs"
     ]
   }
 ]
