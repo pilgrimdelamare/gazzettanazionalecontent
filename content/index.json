@@ -1,5 +1,23 @@
 [
   {
+    "id": "142b406b65f73cd6",
+    "slug": "incendio-springs-avanza-a-30-kmh-verso-moreno-vall-142b406b65f73cd6",
+    "title": "Incendio Springs avanza a 30 km/h verso Moreno Valley: 3.000 case evacuate",
+    "section": "esteri",
+    "priority": 3,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-04T01:35:56.306163+00:00",
+    "image_type": "image",
+    "image_url": "https://i.guim.co.uk/img/media/4e8d84bd9c67f1e4aa0fc4f1f407322b3377dada/97_0_722_578/master/722.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0ac8dedb05bde5d870b818af2b14c4bf",
+    "occhiello": "VENTI A 80 KM/H HANNO SPINTO IL FUOCO VERSO MORENO VALLEY",
+    "lead_preview": "Il fuoco Springs, acceso venerdì 3 aprile 2026 a Riverside County, sta avanzando verso Moreno Valley spinto da raffiche ",
+    "tags": [
+      "incendio springs",
+      "moreno valley",
+      "cal fire"
+    ]
+  },
+  {
     "id": "5df1f0a2b2beb3e5",
     "slug": "israele-colpisce-hezbollah-a-beirut-raid-aerei-nel-5df1f0a2b2beb3e5",
     "title": "Israele colpisce Hezbollah a Beirut: raid aerei nella notte",
@@ -8541,19 +8559,5 @@
       "dimissioni sindaco",
       "francia attacco"
     ]
-  },
-  {
-    "id": "5f96d049661cd727",
-    "slug": "israele-approva-legge-sulla-pena-di-morte-61-si-co-5f96d049661cd727",
-    "title": "Israele approva pena di morte per palestinesi con 52 voti",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-03-30T22:54:33.718275+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1599514956249-01809da6eb78?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxXZXN0JTIwQmFuayUyMGJhcnJpZXJ8ZW58MHwwfHx8MTc3NDk0NzY0Mnww&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "PENA DI MORTE PER TERRORISMO: ISRAELE APPROVA LEGGE CONTESTATA",
-    "lead_preview": "Il parlamento israeliano ha approvato lunedì sera una legge una legge che introduce la pena di morte per residenti pales",
-    "tags": []
   }
 ]
