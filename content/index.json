@@ -1,5 +1,23 @@
 [
   {
+    "id": "f003d569c3b8f8b0",
+    "slug": "wawrinka-sogno-di-affrontare-alcaraz-f003d569c3b8f8b0",
+    "title": "Wawrinka: \"sogno di affrontare alcaraz\"",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-04T16:36:06.245476+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/c0d9391cdcfaef493712c1e00e5e788d60746df0/skysport/it/tennis/video/2026/04/04/1087687_1775315620015_thumb_494.0000001_1775316136529.jpg",
+    "occhiello": "WAWRINKA: \"SOGNO DI AFFRONTARE ALCARAZ\"",
+    "lead_preview": "OCCHIELLO Wawrinka sognerebbe di affrontare Alcaraz al Roland Garros LEAD il 4 aprile 2026, Stan Wawrinka, il campione s",
+    "tags": [
+      "roland garros",
+      "stan wawrinka",
+      "carlos alcaraz"
+    ]
+  },
+  {
     "id": "c7938205b47455c6",
     "slug": "rapporto-in-fiamme-tra-gucci-mane-e-poison-shiesty-c7938205b47455c6",
     "title": "Gucci mane rapito a dallas da un commando armato",
@@ -8627,19 +8645,5 @@
     "tags": [
       "occupazione femminile"
     ]
-  },
-  {
-    "id": "52c2fabf1d9b718f",
-    "slug": "milpitas-regala-17000-telecamere-anti-crimi-col-60-52c2fabf1d9b718f",
-    "title": "60.000 dollari per 17.000 occhi elettronici a Milpitis: un portal ogni 5 abitant",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-03-31T23:53:01.250160+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1649564291293-b988821945cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHx3aXJlbGVzcyUyMHNlY3VyaXR5JTIwY2FtZXJhcyUyMGNyaW1lJTIwcHJldmVudGlvbnxlbnwwfDB8fHwxNzc1MDA4NTMwfDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "MILPITAS REGALA 17.000 PORTALI WIRELESS",
-    "lead_preview": "Milpitas, 31 marzo 2026, la città californiana ha approvato un progetto per distribuire 17.000 portali wireless dotati d",
-    "tags": []
   }
 ]
