@@ -1,5 +1,23 @@
 [
   {
+    "id": "4d29ff0117d69db0",
+    "slug": "farage-spende-25000-sterline-per-volo-privato-alle-4d29ff0117d69db0",
+    "title": "Farage spende 25.000 sterline per due giorni alle Maldive",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-03T08:57:52.677448+00:00",
+    "image_type": "flickr",
+    "image_url": "https://live.staticflickr.com/65535/54934621023_38c8bc887f_b.jpg",
+    "occhiello": "FARAGE TRASCORRE 2 GIORNI ALLE MALDIVE IN LUSSO",
+    "lead_preview": "Nigel Farage, leader del partito Reform UK, ha trascorso due giorni alle Maldive in un viaggio di lusso, con un costo di",
+    "tags": [
+      "viaggio maldive farage",
+      "reform uk",
+      "voli privati farage"
+    ]
+  },
+  {
     "id": "848b6343765b6be6",
     "slug": "zelensky-mosca-fornisce-dati-militari-alliran-848b6343765b6be6",
     "title": "Zelensky: Russia cede segreti militari a Teheran per influenzare il Medio Oriente",
@@ -1367,20 +1385,6 @@
       "delitto nonni",
       "confessione minori"
     ]
-  },
-  {
-    "id": "4d29ff0117d69db0",
-    "slug": "farage-spende-25000-sterline-per-volo-privato-alle-4d29ff0117d69db0",
-    "title": "Farage spende 25.000 sterline per volo privato",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-03T08:57:52.677448+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/33175652/pexels-photo-33175652.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "FARAGE SPENDE 25.000 STERLINE PER VOLO PRIVATO",
-    "lead_preview": "Nigel Farage, leader del partito Reform UK, ha trascorso due giorni alle Maldive in un viaggio di lusso, con un costo di",
-    "tags": []
   },
   {
     "id": "5944b17d1c15cfbe",
