@@ -1,5 +1,21 @@
 [
   {
+    "id": "3cb52959b890e05a",
+    "slug": "roberto-gavioli-73-anni-muore-cadendo-da-gru-a-san-3cb52959b890e05a",
+    "title": "Roberto Gavioli, 73 anni, muore cadendo da gru a San Felice",
+    "section": "cronaca",
+    "priority": 4,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-04-04T13:55:49.318529+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/localirep/img/rep-bologna/2026/04/04/155409654-7603b775-d67a-4813-b156-0a526e7c5210.jpg",
+    "occhiello": "UOMO MUORE A 73 ANNI IN CADUTA DAL CESTELLO",
+    "lead_preview": "Roberto gavioli, 73 anni, è morto questa mattina a San Felice sul panaro, nel modenese, dopo essere caduto dal cestello ",
+    "tags": [
+      "incidente san felice"
+    ]
+  },
+  {
     "id": "35d89399e74a7ec4",
     "slug": "renzi-e-lotito-si-sfidano-35d89399e74a7ec4",
     "title": "Renzi e lotito si sfidano",
@@ -8642,19 +8658,5 @@
       "fair work commission",
       "giustizia per i giovani"
     ]
-  },
-  {
-    "id": "305e18df6b0190c0",
-    "slug": "italia-taglio-da-10-miliardi--12-fondi-ue-305e18df6b0190c0",
-    "title": "Dieci miliardi persi: l'Italia beffata dall'UE 2028-2034",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-03-31T05:04:53.957053+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1614260938313-a7fc1a7ad0d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxlbXB0eSUyMHdhbGxldHxlbnwwfDB8fHwxNzc1MDA3ODk5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "10 MILIARDI DI EURO SPARITI DAI NOSTRI CONTI UE",
-    "lead_preview": "Dieci miliardi di euro. È quanto l'Italia perderà nel bilancio pluriennale dell'Unione europea 2028-2034.",
-    "tags": []
   }
 ]
