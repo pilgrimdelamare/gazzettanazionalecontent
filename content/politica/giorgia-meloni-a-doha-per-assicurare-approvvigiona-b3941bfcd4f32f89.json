@@ -1,0 +1,56 @@
+{
+  "id": "b3941bfcd4f32f89",
+  "slug": "giorgia-meloni-a-doha-per-assicurare-approvvigiona-b3941bfcd4f32f89",
+  "title": "Giorgia Meloni a Doha per assicurare approvvigionamenti energetici",
+  "titles": [
+    "Giorgia Meloni a Doha per assicurare approvvigionamenti energetici",
+    "Meloni incontra l'emiro di Qatar per parlare pace e prospettive",
+    "La presidente del Consiglio in Golfo per contenere l'impatto della crisi energia"
+  ],
+  "title_winner": null,
+  "section": "politica",
+  "occhiello": "MELONI INCONTRA AL THANI",
+  "lead": "Giorgia Meloni è arrivata a Doha, in Qatar, per incontrare l'emiro Tamim bin Hamad Al Thani, dopo aver incontrato il principe ereditario e primo ministro dell'arabia saudita, Mohammed bin Salman, il 4 aprile 2026.",
+  "corpo1": "Secondo una nota di Palazzo Chigi, Meloni ha discusso con bin Salman di come \"assicurare gli approvvigionamenti energetici e ridurre l'impatto della crisi su imprese e cittadini\". I due leader hanno anche concordato sull'importanza di assicurare \"al più presto la libertà di navigazione nello Stretto di Hormuz\". Renzi ha commentato la scelta di Meloni di recarsi nel Golfo come \"intelligente\" ma ha anche avvertito di \"allacciarsi le cinture\". La presidente del Consiglio incontrerà anche l'emiro del Qatar, lo sceicco Tamim bin Hamad Al Thani, per discutere dello scenario della regione e delle prospettive di pace. La crisi innescata dal conflitto in Iran è lo sfondo della trasferta di Meloni nella regione del Golfo.",
+  "corpo2": "Giorgia Meloni è nota per la sua posizione ferma sulla politica estera e sulla difesa degli interessi italiani. Nel 2022, aveva affermato che \"l'Italia deve essere presente nella regione del Golfo\" e che \"la stabilità della regione è fondamentale per la sicurezza e la prosperità dell'Europa\". La sua scelta di recarsi nel Golfo e di incontrare i leader della regione è probabilmente dettata dalla volontà di rafforzare i rapporti economici e strategici tra l’Italia e i Paesi del Golfo. Tuttavia, la crisi innescata dal conflitto in Iran rende la situazione molto delicata e Meloni dovrà navigare con attenzione le complesse relazioni tra i paesi della regione. A pagare il prezzo di questa complessità saranno probabilmente le imprese e i cittadini italiani che hanno interessi economici nella regione.",
+  "journalist": {
+    "id": "elena_russo_01",
+    "firma": "Elena Russo",
+    "sezione": "politica"
+  },
+  "published_at": "2026-04-04T08:11:44.321969+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://www.repstatic.it/content/nazionale/img/2026/04/04/100315509-54bf9c68-389f-45d7-ac8a-c7085dedb24d.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Giorgia Meloni a Doha per assicurare approvvigionamenti energetici\",\n  \"description\": \"Giorgia Meloni è arrivata a Doha, in Qatar, per incontrare l'emiro Tamim bin Hamad Al Thani, dopo aver incontrato il principe ereditario e primo ministro dell'arabia saudita, Mohammed bin Salman, il 4 aprile 2026.\",\n  \"articleBody\": \"Giorgia Meloni è arrivata a Doha, in Qatar, per incontrare l'emiro Tamim bin Hamad Al Thani, dopo aver incontrato il principe ereditario e primo ministro dell'arabia saudita, Mohammed bin Salman, il 4 aprile 2026. Secondo una nota di Palazzo Chigi, Meloni ha discusso con bin Salman di come \\\"assicurare gli approvvigionamenti energetici e ridurre l'impatto della crisi su imprese e cittadini\\\". I due leader hanno anche concordato sull'importanza di assicurare \\\"al più presto la libertà di navigazione nello Stretto di Hormuz\\\". Renzi ha commentato la scelta di Meloni di recarsi nel Golfo come \\\"intelligente\\\" ma ha anche avvertito di \\\"allacciarsi le cinture\\\". La presidente del Consiglio incontrerà anche l'emiro del Qatar, lo sceicco Tamim bin Hamad Al Thani, per discutere dello scenario della regione e delle prospettive di pace. La crisi innescata dal conflitto in Iran è lo sfondo della trasferta di Meloni nella regione del Golfo. Giorgia Meloni è nota per la sua posizione ferma sulla politica estera e sulla difesa degli interessi italiani. Nel 2022, aveva affermato che \\\"l'Italia deve essere presente nella regione del Golfo\\\" e che \\\"la stabilità della regione è fondamentale per la sicurezza e la prosperità dell'Europa\\\". La sua scelta di recarsi nel Golfo e di incontrare i leader della regione è probabilmente dettata dalla volontà di rafforzare i rapporti economici e strategici tra l’Italia e i Paesi del Golfo. Tuttavia, la crisi innescata dal conflitto in Iran rende la situazione molto delicata e Meloni dovrà navigare con attenzione le complesse relazioni tra i paesi della regione. A pagare il prezzo di questa complessità saranno probabilmente le imprese e i cittadini italiani che hanno interessi economici nella regione.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Elena Russo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-04T08:11:44.321969+00:00\",\n  \"dateModified\": \"2026-04-04T08:11:44.321969+00:00\",\n  \"url\": \"https://lentemattutina.it/politica/b3941bfcd4f32f89\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/politica/b3941bfcd4f32f89\"\n  },\n  \"articleSection\": \"Politica\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.repstatic.it/content/nazionale/img/2026/04/04/100315509-54bf9c68-389f-45d7-ac8a-c7085dedb24d.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 6,
+  "source": "Repubblica Politica",
+  "source_type": "competitor",
+  "original_url": "https://www.repubblica.it/politica/2026/04/04/news/meloni_golfo_persico_doha_incontro_al_thani-425263874/?rss",
+  "related": [
+    {
+      "title": "Giorgia Meloni: la riforma elettorale è la chiave per la stabilità di governo",
+      "url": "/politica/giorgia-meloni-smontata-lequazione-legge-elettoral-c6035febe8f7aaa0",
+      "id": "c6035febe8f7aaa0",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Giorgia_Meloni_2019.jpg",
+      "image_type": "wikimedia"
+    },
+    {
+      "title": "Natangelo colpisce ancora: su Il Fatto Quotidiano la vignetta 'Povera Giorgia'",
+      "url": "/politica/natangelo-colpisce-ancora-su-il-fatto-quotidiano-l-c600c27bc92755c9",
+      "id": "c600c27bc92755c9",
+      "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/04/IMG_20260404_081936_332-1080x630.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Meloni avverte Piantedosi: rimpasto governo sul tavolo",
+      "url": "/politica/meloni-ha-avvisato-piantedosi-rimpasto-in-vista-a-ebba70e492353acc",
+      "id": "ebba70e492353acc",
+      "image_url": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/03/2026-03-23T150507Z_1_LYNXMPEM2M0UO_RTROPTP_4_ITALY-POLITICS-JUSTICE-scaled-e1774328208124-2048x1155.jpg",
+      "image_type": "ddg_image"
+    }
+  ]
+}
