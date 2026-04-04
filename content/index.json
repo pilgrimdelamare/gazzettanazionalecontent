@@ -1,5 +1,22 @@
 [
   {
+    "id": "df2f6b953b3d87b3",
+    "slug": "media-inglesi-errano-su-galles-df2f6b953b3d87b3",
+    "title": "Media inglesi errano su Galles",
+    "section": "esteri",
+    "priority": 4,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-04T06:21:56.123879+00:00",
+    "image_type": "image",
+    "image_url": "https://i.guim.co.uk/img/media/db44a8806ba82fea17a77450b5f040d3ca61967d/522_0_4676_3740/master/4676.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bc3209af188ce6ef6acc8f9a81f93ea5",
+    "occhiello": "MEDIA INGLESE FA CONFUSIONE SU WALES",
+    "lead_preview": "Un rapporto dell'Università di Cardiff rivela che i media inglesi non riportano correttamente le questioni devolute in G",
+    "tags": [
+      "media inglesi galles",
+      "elezioni senedd"
+    ]
+  },
+  {
     "id": "82fe044e6c336754",
     "slug": "basket-virtus-bologna-ospita-valencia-82fe044e6c336754",
     "title": "Basket: Saliou Niang show, Virtus Bologna vince 87-82 contro Valencia",
@@ -8575,22 +8592,6 @@
     "tags": [
       "rubio elon musk",
       "monitoraggio x-2026"
-    ]
-  },
-  {
-    "id": "a94724b7ef4bb29b",
-    "slug": "roma-pasticceria-dolce-vita-chiusa-per-alimenti-av-a94724b7ef4bb29b",
-    "title": "Pasticceria Dolce Vita chiusa per muffa nei dolci: 200 porzioni sequestrate, 17 ",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-03-30T22:51:56.792906+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1729007183138-51c47d72409a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxkb2xjaSUyMGF2YXJpYXRpfGVufDB8MHx8fDE3NzQ5OTE0MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "",
-    "lead_preview": "Dolce vita, pasticceria di via appia nuova 45 a Roma, è stata chiusa d’urgenza il 30 marzo 2026 dopo il ritrovamento di ",
-    "tags": [
-      "chiusura dolce vita"
     ]
   }
 ]
