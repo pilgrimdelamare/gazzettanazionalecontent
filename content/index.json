@@ -1,5 +1,23 @@
 [
   {
+    "id": "bddae71cb54a4a1d",
+    "slug": "quattro-feriti-in-unescursione-a-cavallo-a-pieve-a-bddae71cb54a4a1d",
+    "title": "Cavallo scappa e ferisce 4 escursionisti a Pieve a Salti",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-04-03T11:15:53.567957+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1731594700232-7f891e3e4e30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxjYXZhbGxvJTIwZmVyaXNjZSUyMHBlcnNvbmUlMjBJdGFsaWF8ZW58MHwwfHx8MTc3NTI5Njc1OXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "CHEVAL BLANC IMBIZZARITO FERISCE QUATTRO",
+    "lead_preview": "Il cavallo di nome Cheval Blanc è scappato durante un’escursione a Pieve a Salti, nel comune di Pieve a Salti, il 3 apri",
+    "tags": [
+      "cavallo imbizzarito pieve a salti",
+      "cheval blanc incidente",
+      "escursione feriti 2026"
+    ]
+  },
+  {
     "id": "c651d9b41789870d",
     "slug": "macron-lancia-coalizione-anti-usa-e-cina-c651d9b41789870d",
     "title": "Macron propone al Giappone una coalizione per l'autonomia strategica fuori da Usa e Cina",
@@ -2524,20 +2542,6 @@
       "finanziamenti sergi",
       "romanzo rosso podestà"
     ]
-  },
-  {
-    "id": "bddae71cb54a4a1d",
-    "slug": "quattro-feriti-in-unescursione-a-cavallo-a-pieve-a-bddae71cb54a4a1d",
-    "title": "Cavallo imbizzarrito ferisce quattro persone",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Chiara Esposito",
-    "published_at": "2026-04-03T11:15:53.567957+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/14853260/pexels-photo-14853260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "CAVALLO IMBIZZARRITO FERISCE QUATTRO PERSONE",
-    "lead_preview": "Un cavallo è scappato durante un'escursione a Pieve a Salti, nel comune di Pieve a Salti, il 3 aprile 2026, ferendo quat",
-    "tags": []
   },
   {
     "id": "2182da26b631a3d8",
