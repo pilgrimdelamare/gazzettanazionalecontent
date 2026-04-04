@@ -1,5 +1,23 @@
 [
   {
+    "id": "b53dd39a3e84440a",
+    "slug": "claudia-conte-giornalista-legata-a-piantedosi-nel-b53dd39a3e84440a",
+    "title": "Claudia Conte, giornalista legata a Piantedosi, nel cda della Fondazione Marini dal 2002 a Firenze",
+    "section": "politica",
+    "priority": 6,
+    "journalist_firma": "Elena Russo",
+    "published_at": "2026-04-04T12:46:30.308746+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/localirep/img/rep-firenze/2026/04/04/144044630-420127cb-bc66-4ff2-ab2d-765b4766dee3.jpg",
+    "occhiello": "CLAUDIA CONTE NELLA BUFERA",
+    "lead_preview": "Claudia Conte, la giornalista che ha rivelato la relazione con Piantedosi, siede nel cda della Fondazione Marini a Firen",
+    "tags": [
+      "caso conte",
+      "piantedosi",
+      "fondazione marini"
+    ]
+  },
+  {
     "id": "9da60437020b5811",
     "slug": "35000-copie-vendute-in-pochi-giorni-per-la-mente-r-9da60437020b5811",
     "title": "35mila copie in 3 giorni: così 'La mente radiosa' domina le classifiche",
@@ -8645,23 +8663,6 @@
     "tags": [
       "talent week 2026",
       "neolaureati assunti"
-    ]
-  },
-  {
-    "id": "eeba081dc72dd979",
-    "slug": "4-lotti-di-sughi-vegetali-richiamati-eeba081dc72dd979",
-    "title": "Quattro lotti di sughi pronti richiamati: è il 31 marzo l'ultima scadenza",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-03-31T07:37:35.575603+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1704915259832-761a712a7b3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxpdGFsaWFuJTIwZm9vZCUyMHJlY2FsbHxlbnwwfDB8fHwxNzc1MDA3NDQ4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "SUGHI VEGETALI RICHIAMATI",
-    "lead_preview": "Il ministero della salute ha disposto il richiamo di quattro lotti di sughi pronti 100% vegetali in vasetto di vetro il ",
-    "tags": [
-      "richiamo sughi",
-      "sughi vegetali"
     ]
   }
 ]
