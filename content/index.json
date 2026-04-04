@@ -1,5 +1,21 @@
 [
   {
+    "id": "572616aa6f2d62fe",
+    "slug": "matteo-berrettini-si-fa-pagare-17000-euro-a-monte-572616aa6f2d62fe",
+    "title": "Tennis: 17.000 euro per una cena a Monte-Carlo",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-04T15:48:53.496008+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/3038555/pexels-photo-3038555.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "CONTO DA 17.000 EURO PER I TRE TENNISTI",
+    "lead_preview": "Flavio Cobolli, Lorenzo Musetti e Matteo Berrettini hanno consumato una cena il 4 aprile 2026 a Monte-Carlo con un conto",
+    "tags": [
+      "cena monte-carlo"
+    ]
+  },
+  {
     "id": "d9725a4dad990814",
     "slug": "proposta-italiana-bocciata-d9725a4dad990814",
     "title": "La proposta di Tajani per un corridoio umanitario in Iran bocciata dall'ONU",
@@ -507,24 +523,6 @@
       "spazio",
       "artemis",
       "reid wiseman"
-    ]
-  },
-  {
-    "id": "572616aa6f2d62fe",
-    "slug": "matteo-berrettini-si-fa-pagare-17000-euro-a-monte-572616aa6f2d62fe",
-    "title": "Matteo Berrettini si fa pagare 17.000 euro a Monte-Carlo",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-04T15:48:53.496008+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/d84843236a4f20300a1cc0f435f6a4aa80b1eac9/skysport/it/tennis/video/2026/04/04/1087675_1775313434421_thumb_494.0000001_1775313665117.jpg",
-    "occhiello": "BERRETTINI SANSUOCESSE COBOLLI: UNA CENA DA 17.000 EURO",
-    "lead_preview": "La cena tra Flavio Cobolli, Lorenzo Musetti e Matteo Berrettini si è conclusa con un conto da 17.000 euro. Secondo Cobol",
-    "tags": [
-      "berrettini",
-      "montecarlo",
-      "cena"
     ]
   },
   {
