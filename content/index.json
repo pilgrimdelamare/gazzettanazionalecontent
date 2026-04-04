@@ -1,5 +1,22 @@
 [
   {
+    "id": "b3941bfcd4f32f89",
+    "slug": "giorgia-meloni-a-doha-per-assicurare-approvvigiona-b3941bfcd4f32f89",
+    "title": "Giorgia Meloni a Doha per assicurare approvvigionamenti energetici",
+    "section": "politica",
+    "priority": 6,
+    "journalist_firma": "Elena Russo",
+    "published_at": "2026-04-04T08:11:44.321969+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/04/100315509-54bf9c68-389f-45d7-ac8a-c7085dedb24d.jpg",
+    "occhiello": "MELONI INCONTRA AL THANI",
+    "lead_preview": "Giorgia Meloni è arrivata a Doha, in Qatar, per incontrare l'emiro Tamim bin Hamad Al Thani, dopo aver incontrato il pri",
+    "tags": [
+      "giorgia meloni",
+      "qatar energia"
+    ]
+  },
+  {
     "id": "db510b9615331e2c",
     "slug": "11640-lavoratori-coinvolti-in-42-verteze-db510b9615331e2c",
     "title": "11.640 lavoratori coinvolti in 42 verteze",
@@ -8570,19 +8587,5 @@
       "rmit melbourne",
       "electronic dolphin"
     ]
-  },
-  {
-    "id": "d9bd45bbfd81254c",
-    "slug": "napoli-aperte-le-porte-del-duomo-40-metri-daltezza-d9bd45bbfd81254c",
-    "title": "200.000 euro del MiBAC per un pontile a 40 metri sull’opera di Pia Campana a Pis",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-03-31T05:45:42.141938+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/The_installation_by_L._Chiarelli.JPG",
-    "occhiello": "FONDI SCOMPARSI DOPO IL VOTO",
-    "lead_preview": "Mercoledì 30 marzo 2026, alle 16:27, il nuovo percorso di accesso all'installazione dell'artista italiana Pia Campana è ",
-    "tags": []
   }
 ]
