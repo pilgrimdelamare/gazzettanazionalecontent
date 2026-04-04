@@ -1,5 +1,23 @@
 [
   {
+    "id": "97a0b6f760362719",
+    "slug": "chi-lavora-dopo-i-41-anni-di-contributi-guadagna-7-97a0b6f760362719",
+    "title": "Chi lavora dopo i 41 anni di contributi guadagna 70-120 euro in più al mese",
+    "section": "economia",
+    "priority": 6,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-04T08:41:08.702602+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/2/aacd90b71fb1c22a999a775ca4b0067d.jpg",
+    "occhiello": "",
+    "lead_preview": "Inps, 4 aprile 2026: a chi rinuncia alla pensione anticipata spetta un aumento in busta paga grazie al trattamento dei c",
+    "tags": [
+      "pensione anticipata",
+      "inps 2026",
+      "lavoro dopo 41 anni"
+    ]
+  },
+  {
     "id": "ec3cbe4c38650a18",
     "slug": "calcio-sassuolo-cagliari-sabato-ec3cbe4c38650a18",
     "title": "Calcio: Sassuolo-Cagliari sabato",
@@ -8569,22 +8587,6 @@
       "concerto sapienza",
       "veronika eberle",
       "dénes várjon"
-    ]
-  },
-  {
-    "id": "80f46e74e654e864",
-    "slug": "notizia-in-primo-piano-80f46e74e654e864",
-    "title": "Mauro guerieri rinnova la memoria ustica al teatro san leonardo",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-03-31T05:49:42.066115+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/783_3_%28%2B_3%29_dancers_performing_on_stage_V-P.jpg",
-    "occhiello": "MAURO GUERIERI RINNOVA LA MEMORIA USTICA AL TEATRO SAN LEONARDO",
-    "lead_preview": "Maurizio Guernieri presenterà in prima assoluta lunedì 1 aprile al Teatro San Leonardo di Bologna la sua opera teatrale ",
-    "tags": [
-      "strage di ustica"
     ]
   }
 ]
