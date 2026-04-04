@@ -1,5 +1,21 @@
 [
   {
+    "id": "472be8b80011871a",
+    "slug": "basket-nets-travolti-107-141-472be8b80011871a",
+    "title": "Basket: Nets travolti 107-141",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-04T06:38:47.652449+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/65191e4e4998a872a265de631824e128ed7a4691/skysport/it/nba/video/2026/04/04/1087569_1775280638804_thumb_494.0000001_1775280976195.jpg",
+    "occhiello": "ATLANTA TRAVOLGE BROOKLYN CON 141 PUNTI, DISTACCO DI 34",
+    "lead_preview": "Brooklyn Nets hanno subito una schiacciante sconfitta 107-141 dagli Atlanta Hawks al Barclays Center sabato 4 aprile 202",
+    "tags": [
+      "nba nets hawks"
+    ]
+  },
+  {
     "id": "88ad86e3f43f2a13",
     "slug": "knicks-umiliano-i-bulls-40-punti-di-differenza-88ad86e3f43f2a13",
     "title": "Knicks umiliano i bulls: 40 punti di differenza",
@@ -8569,24 +8585,6 @@
     "tags": [
       "oro record",
       "prezzi oro"
-    ]
-  },
-  {
-    "id": "507763686838c5c0",
-    "slug": "basket-utah-jazz-ko-122-113-in-casa-col-cleveland-507763686838c5c0",
-    "title": "Basket: Jazz battezzato dagli abissi a casa",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-03-31T06:37:55.462685+00:00",
-    "image_type": "flickr",
-    "image_url": "https://live.staticflickr.com/65535/54791575295_57ff4cf83e_b.jpg",
-    "occhiello": "UTAH JAZZ SCONFITTA DA CLEVELAND CAVALIERS",
-    "lead_preview": "Il 31 marzo 2026, l'Utah Jazz ha perso 113-122 contro i Cleveland Cavaliers alla Vivint Arena di Salt Lake City.",
-    "tags": [
-      "utah jazz",
-      "cleveland cavaliers",
-      "nba"
     ]
   }
 ]
