@@ -1,5 +1,22 @@
 [
   {
+    "id": "ea6e37ef62f61f8c",
+    "slug": "sandro-veronesi-esce-caducita-raccolta-completa-de-ea6e37ef62f61f8c",
+    "title": "Veronesi pubblica raccolta integrale di racconti, ma i fondi editoriali scarseggiano",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-03T11:10:01.179613+00:00",
+    "image_type": "wikimedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Sandro_Veronesi%2C_2010_%28cropped%29.jpg",
+    "occhiello": "VERONESI PUBBLICA RACCOLTA INTEGRALE DI RACCONTI, MA I FONDI EDITORIALI SCARSEGGIANO",
+    "lead_preview": "Sandro Veronesi presenta oggi la raccolta completa dei suoi racconti, intitolata \"Caducità\", per la casa editrice Nave d",
+    "tags": [
+      "sandro veronesi",
+      "libro caducità"
+    ]
+  },
+  {
     "id": "c090af25525b26e1",
     "slug": "abodi-pronto-a-commissariare-la-figc-dopo-il-falli-c090af25525b26e1",
     "title": "Calcio: Abodi valuta commissariamento FIGC",
@@ -1090,23 +1107,6 @@
     "lead_preview": "Un cavallo imbizzarrito ha provocato il ferimento di quattro persone durante un'escursione a Pieve a Salti, nel comune d",
     "tags": [
       "incidente pieve a salti"
-    ]
-  },
-  {
-    "id": "ea6e37ef62f61f8c",
-    "slug": "sandro-veronesi-esce-caducita-raccolta-completa-de-ea6e37ef62f61f8c",
-    "title": "Caducità dei fondi",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-04-03T11:10:01.179613+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Sandro_Veronesi%2C_2010.jpg",
-    "occhiello": "CADUCITÀ DEI FONDI",
-    "lead_preview": "Sandro Veronesi pubblica la raccolta completa dei suoi racconti, 'caducità', per la casa editrice Nave di Teseo. Il volu",
-    "tags": [
-      "sandro veronesi",
-      "libro caducità"
     ]
   },
   {
