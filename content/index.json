@@ -1,5 +1,23 @@
 [
   {
+    "id": "4cfba32dc041655d",
+    "slug": "calcio-bayern-vince-3-2-in-extremis-a-friburgo-con-4cfba32dc041655d",
+    "title": "Calcio: Bayern vince 3-2 in extremis a Friburgo con Sané all'88'",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-04T16:51:30.538792+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/b28638606b706bf52485c63f326c117805c9342a/skysport/it/calcio/bundesliga/video/2026/04/04/1087713_1775318182402_thumb_494.0000001_1775318229376.jpg",
+    "occhiello": "BAYERN VITTORIOSO MA NON DOMINANTE",
+    "lead_preview": "Il Bayern Monaco ha battuto il Friburgo per 3-2 il 4 aprile 2026 allo Stadio Europa-Park allo Stadio Europa-Park, una vi",
+    "tags": [
+      "bayern friburgo 2026",
+      "sané 88'",
+      "bundesliga 2026"
+    ]
+  },
+  {
     "id": "3cb52959b890e05a",
     "slug": "roberto-gavioli-73-anni-muore-cadendo-da-gru-a-san-3cb52959b890e05a",
     "title": "Morto Gavioli, 73enne caduto da una gru a San Felice sul Panaro",
@@ -8632,22 +8650,6 @@
     "tags": [
       "semafori britannico",
       "ricerca carburanti"
-    ]
-  },
-  {
-    "id": "42333cb6705db54b",
-    "slug": "italia-ultima-in-europa-per-occupazione-femminile-42333cb6705db54b",
-    "title": "Italia in ultima posizione in Europa per occupazione femminile",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-03-31T23:48:33.097172+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1702978204663-df6fb4589b62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxpdGFsaWElMjBuYXRhbGl0JUMzJUEwfGVufDB8MHx8fDE3NzUwMDg1NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "ITALIA ULTIMA IN EUROPA PER OCCUPAZIONE FEMMINILE",
-    "lead_preview": "L'Italia è ultima in Europa per occupazione femminile e tra gli ultimi Paesi per numero di figli, secondo le ultime stat",
-    "tags": [
-      "occupazione femminile"
     ]
   }
 ]
