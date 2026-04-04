@@ -1,5 +1,23 @@
 [
   {
+    "id": "c600c27bc92755c9",
+    "slug": "natangelo-colpisce-ancora-su-il-fatto-quotidiano-l-c600c27bc92755c9",
+    "title": "Natangelo colpisce ancora: su Il Fatto Quotidiano la vignetta 'Povera Giorgia'",
+    "section": "politica",
+    "priority": 6,
+    "journalist_firma": "Elena Russo",
+    "published_at": "2026-04-04T06:42:10.791875+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/04/IMG_20260404_081936_332-1080x630.jpg",
+    "occhiello": "GIORGIA MELONI NEL MIRINO DELLA SATIRA",
+    "lead_preview": "Mario natangelo, vignettista, pubblica una satira su Giorgia Meloni su Il Fatto Quotidiano del 4 aprile 2026.",
+    "tags": [
+      "vignetta natangelo",
+      "satira meloni",
+      "fatto quotidiano"
+    ]
+  },
+  {
     "id": "e5c2d47b7785850a",
     "slug": "nba-highlights-philadelphia-superiore-e5c2d47b7785850a",
     "title": "Nba highlights: philadelphia superiore",
@@ -8556,24 +8574,6 @@
     "tags": [
       "nba",
       "minnesota dallas"
-    ]
-  },
-  {
-    "id": "47f42f0765b38680",
-    "slug": "vendite-biciclette--4-in-italia-13-mln-unita-nel-2-47f42f0765b38680",
-    "title": "La produzione di biciclette in Italia crolla del 4% (1,3 milioni di unità)",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-03-31T06:38:41.188073+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1590575789744-bf178345e16b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxiaWNpJTIwdmVuZGl0ZSUyMGluJTIwY2FsbyUyMGl0YWx5fGVufDB8MHx8fDE3NzUwMDMwNzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "VENDITE BICI IN CALO, 1,3 MILIONI DI UNITÀ IN ITALIA",
-    "lead_preview": "Massimo Panzeri, presidente di Atala, ha definito \"un anno pessimo\" il 2025 per il mercato italiano delle biciclette. Il",
-    "tags": [
-      "vendite bici",
-      "biciclette italia",
-      "mercato bici"
     ]
   }
 ]
