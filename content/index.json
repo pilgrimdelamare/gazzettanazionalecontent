@@ -1,5 +1,23 @@
 [
   {
+    "id": "519c08baa97633c2",
+    "slug": "parlamento-ue-blocca-laccordo-di-turnberry-niente-519c08baa97633c2",
+    "title": "Parlamento UE boccia accordo commerciale con USA",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-04T11:28:54.749423+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1740393068414-d1fc73159b91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHx0cmFkZSUyMHRhcmlmZnMlMjBhZ3JlZW1lbnR8ZW58MHwwfHx8MTc3NTMxNzM0Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "PARLAMENTO UE NEUTRALIZZA ACCORDO DI TURNBERRY.",
+    "lead_preview": "Il Parlamento UE ha neutralizzato l'accordo di Turnberry, firmato il 3 aprile 2026 tra Stati Uniti e Unione Europea, ren",
+    "tags": [
+      "accordo di turnberry",
+      "parlamento ue",
+      "tariffe usa-ue"
+    ]
+  },
+  {
     "id": "51d2f6a195437047",
     "slug": "arrestati-i-parenti-del-gen-soleimani-la-corte-fed-51d2f6a195437047",
     "title": "Arrestati i parenti del gen. Soleimani, la Corte federale americana indaga",
@@ -832,24 +850,6 @@
       "divario di genere trasporti",
       "costo vita donne",
       "studio bocconi 2026"
-    ]
-  },
-  {
-    "id": "519c08baa97633c2",
-    "slug": "parlamento-ue-blocca-laccordo-di-turnberry-niente-519c08baa97633c2",
-    "title": "Parlamento Ue blocca l'accordo di Turnberry: niente dazi USA o è nullo",
-    "section": "economia",
-    "priority": 6,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-04T11:28:54.749423+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/04/131324090-92bddfee-a55a-4ca4-8527-fcc15965a5e2.jpg",
-    "occhiello": "BLOCCATO DAL PARLAMENTO EUROPEO",
-    "lead_preview": "L’accordo di Turnberry, firmato il 3 aprile 2026 tra Stati Uniti e Unione Europea, è stato di fatto neutralizzato dal Pa",
-    "tags": [
-      "accordo turnberry",
-      "parlamento ue",
-      "dazi usa ue"
     ]
   },
   {
