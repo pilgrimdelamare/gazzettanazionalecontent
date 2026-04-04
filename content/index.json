@@ -1,5 +1,22 @@
 [
   {
+    "id": "3fa9d5f69b50d2db",
+    "slug": "ferdinando-boero-errori-scientifici-nelluovo-3fa9d5f69b50d2db",
+    "title": "Ferdinando Boero: errori scientifici nell'uovo",
+    "section": "societa",
+    "priority": 5,
+    "journalist_firma": "Federica Conti",
+    "published_at": "2026-04-04T04:51:20.717914+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/03/13/uovo-al-tegamino-1-1200x630.jpg",
+    "occhiello": "UOVO DEL SUPERMERCATO: UNA CELLULA?",
+    "lead_preview": "Secondo Ferdinando Boero, un curioso paradosso culturale riguarda la definizione di uovo, emblema di Pasqua, che potrebb",
+    "tags": [
+      "uovo pasqua",
+      "ferdinando boero"
+    ]
+  },
+  {
     "id": "dc8a54e14a2af927",
     "slug": "doppio-femminicidio-a-nantes-la-richiesta-di-class-dc8a54e14a2af927",
     "title": "Due donne uccise a Nantes, sospettato arrestato in centro psicosociale",
@@ -8580,24 +8597,6 @@
       "mondiali qatar",
       "donnarumma",
       "nazionale italiana"
-    ]
-  },
-  {
-    "id": "2123d8c6a0566d76",
-    "slug": "vandali-contro-il-sindaco-olivier-pellan-si-dimett-2123d8c6a0566d76",
-    "title": "Bomba artigianale al sindaco di Moncontour: dimissioni dopo attacco 5/3/26",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-03-30T22:53:57.617292+00:00",
-    "image_type": "flickr",
-    "image_url": "https://live.staticflickr.com/65535/55178378358_87313be11f_b.jpg",
-    "occhiello": "SINDACO SI DIMETTE DOPO ATTENTATO A CASA E AUTO",
-    "lead_preview": "Olivier pellan, sindaco di Moncontour (vienne, francia), ha rassegnato le dimissioni l'8 marzo 2026 dopo che la sua abit",
-    "tags": [
-      "attentato moncontour",
-      "dimissioni sindaco",
-      "francia attacco"
     ]
   }
 ]
