@@ -1,5 +1,19 @@
 [
   {
+    "id": "2ce676e2ed46e363",
+    "slug": "minacce-di-rivelare-foto-intime-arrestato-per-abus-2ce676e2ed46e363",
+    "title": "Giovanni L",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-04-04T12:15:14.253516+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/1807891/pexels-photo-1807891.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "",
+    "lead_preview": "Giovanni L., 39enne di Macerata, è stato arrestato il 30 marzo 2023 dai carabinieri del Nucleo investigativo della città",
+    "tags": []
+  },
+  {
     "id": "cc13a0f380197252",
     "slug": "calcio-vlahovic-titolare-contro-il-genoa-cc13a0f380197252",
     "title": "Calcio: Vlahović titolare contro il Genoa, la Juventus punta sulla valorizzazione",
@@ -512,20 +526,6 @@
       "sciopero medici inglesi",
       "bma in sciopero"
     ]
-  },
-  {
-    "id": "2ce676e2ed46e363",
-    "slug": "minacce-di-rivelare-foto-intime-arrestato-per-abus-2ce676e2ed46e363",
-    "title": "Minacce di rivelare foto intime, arrestato per abusi",
-    "section": "cronaca",
-    "priority": 6,
-    "journalist_firma": "Chiara Esposito",
-    "published_at": "2026-04-04T12:15:14.253516+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/4/434ae4df7506fbb6e8e5306064747d0c.jpg",
-    "occhiello": "MINACCE DI RIVELARE FOTO INTIME, ARRESTATO PER ABUSI",
-    "lead_preview": "Il 30 marzo 2023, i carabinieri del Nucleo investigativo di Macerata hanno arrestato Giovanni L., 39enne originario del ",
-    "tags": []
   },
   {
     "id": "06dc65cc5176e2d4",
