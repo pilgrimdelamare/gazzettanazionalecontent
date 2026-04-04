@@ -1,5 +1,22 @@
 [
   {
+    "id": "a119881a08cf30fb",
+    "slug": "calcio-casarini-segna-il-2-0-a119881a08cf30fb",
+    "title": "Calcio: Casarini segna il 2-0 per il Carpi contro il Pon",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-03T22:18:49.061578+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/12954088/pexels-photo-12954088.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "CASARINI SEGNA IL 2-0",
+    "lead_preview": "Federico Casarini, ex centrocampista del Bologna, ha segnato il raddoppio per il Carpi al 67' contro il Pon.",
+    "tags": [
+      "carpi pon",
+      "federico casarini"
+    ]
+  },
+  {
     "id": "3763242ca884a380",
     "slug": "alessandria-donna-aggredita-con-cintura-su-autobus-3763242ca884a380",
     "title": "Donna aggredita con cintura su autobus",
@@ -414,23 +431,6 @@
       "caso alex preston",
       "new york times",
       "intelligenza artificiale"
-    ]
-  },
-  {
-    "id": "a119881a08cf30fb",
-    "slug": "calcio-casarini-segna-il-2-0-a119881a08cf30fb",
-    "title": "Calcio: Casarini segna il 2-0",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-03T22:18:49.061578+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/f73da8afff01287d5f3e423efa21ab4da0e975cf/skysport/it/calcio/serie-c/video/2026/04/03/1087557_1775251193185_thumb_494.0000001_1775251986947.jpg",
-    "occhiello": "UN TACCO IN SERIE C CHE VALE PIÙ DI MILLE PAROLE",
-    "lead_preview": "Federico Casarini, trentaduenne ex centrocampista del Bologna, ha segnato il raddoppio per il Carpi al 67' contro il Pon",
-    "tags": [
-      "serie c",
-      "carpi pontedera"
     ]
   },
   {
