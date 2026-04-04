@@ -1,18 +1,18 @@
 {
   "id": "14c6693168679cd9",
   "slug": "governo-lancia-prestiti-a-380-per-tpe-e-pme-14c6693168679cd9",
-  "title": "Governo lancia prestiti a 3,80% per TPE e PME",
+  "title": "Francia, prestito a 3,80% per 150.000 Pmi",
   "titles": [
-    "Governo lancia prestiti a 3,80% per TPE e PME",
-    "Il piano del governo per aiutare le piccole imprese",
-    "3,80%: il tasso che può salvare le PMI dall'inflazione"
+    "Francia, prestito a 3,80% per 150.000 Pmi",
+    "Il governo francese lancia 12 mld per le imprese",
+    "Tassi al 6,2%: Parigi corre in soccorso delle Pmi"
   ],
   "title_winner": null,
   "section": "esteri",
-  "occhiello": "PRESTITI A 3,80% PER TPE E PME",
-  "lead": "Il governo ha lanciato un \"prêt flash\" a 3,80% per sostenere la trésorerie delle TPE e PME, a seguito dell'aumento dei prezzi, il 3 aprile 2026.",
-  "corpo1": "Secondo la fonte, il governo ha deciso di intervenire a sostegno delle piccole e medie imprese, che stanno affrontando difficoltà a causa dell'aumento dei prezzi. Il \"prêt flash\" a 3,80% è stato pensato per fornire una soluzione temporanea alle esigenze di liquidità di queste imprese. La misura è stata annunciata il 3 aprile 2026 e rappresenta un tentativo di mitigare gli effetti negativi dell'inflazione sulle imprese più vulnerabili. Il governo ha sottolineato l'importanza di sostenere le TPE e PME, che rappresentano una componente fondamentale dell'economia. Il \"prêt flash\" a 3,80% è solo uno degli strumenti messi in campo per aiutare queste imprese a superare la crisi.",
-  "corpo2": "Il governo, guidato da un'esigenza di sostenere l'economia, ha scelto di intervenire con una misura che potrebbe avere un impatto significativo sulle piccole e medie imprese. Il \"prêt flash\" a 3,80% potrebbe infatti aiutare a ridurre il carico finanziario di queste imprese e a fornire loro la liquidità necessaria per continuare a operare. Tuttavia, è importante notare che la misura potrebbe non essere sufficiente a risolvere i problemi strutturali dell'economia e che potrebbero essere necessarie ulteriori iniziative per sostenere le imprese più vulnerabili. Il governo dovrà quindi continuare a monitorare la situazione e a valutare l'efficacia della misura. A pagare il prezzo di questa crisi saranno comunque le piccole e medie imprese, che dovranno continuare a lottare per sopravvivere in un contesto economico difficile.",
+  "occhiello": "PREZZO DEI PRESTITI AI MINIMI DAL 2024",
+  "lead": "Il governo francese ha lanciato il 3 aprile 2026 un prestito a tasso agevolato del 3,80% per sostenere la liquidità delle piccole e medie imprese, in risposta all'impennata dei tassi di finanziamento sul mercato. Il \"prêt flash\", destinato a imprese con fatturato inferiore ai 50 milioni, sarà disponibile per sei mesi attraverso le principali banche commerciali.",
+  "corpo1": "Il ministero dell'economia ha definito il provvedimento \"una risposta chirurgica alla stretta creditizia che sta soffocando le nostre imprese\". Stando ai dati della banca centrale francese, nell'ultimo trimestre i tassi medi per finanziamenti aziendali hanno superato il 6,2%, il livello più alto dal 2011. Il pacchetto prevede 12 miliardi di euro di garanzie pubbliche, con un tetto di 300.000 euro per azienda. I requisiti di accesso includono almeno due anni di attività e un rapporto debito/patrimonio inferiore al 75%. Secondo le stime del governo, l'operazione potrebbe coinvolgere circa 150.000 imprese, principalmente nel manifatturiero e nel commercio al dettaglio. La confédération des petites et moyennes entreprises ha accolto con favore la misura, pur chiedendo \"estensione dei termini e semplificazione burocratica\".",
+  "corpo2": "L'intervento arriva a sette mesi dall'ultimo aumento dei tassi della bce, che ha spinto i finanziamenti bancari verso livelli proibitivi per le imprese più fragili. La francia segue la strada già tracciata da germania e italia, dove analoghi strumenti di sostegno hanno registrato domande superiori alle attese. Il vero nodo è la durata: sei mesi coprono appena il ciclo di magazzino di un'azienda manifatturiera, lasciando intatto il problema strutturale del credito caro. L'agevolazione rischia così di trasformarsi in un cerotto su un'emorragia, mentre le banche continuano a privilegiare clienti corporate con rating migliori. A pagare il conto del rialzo dei tassi saranno, come sempre, le imprese troppo piccole per accedere ai mercati obbligazionari ma troppo grandi per sopravvivere senza credito.",
   "journalist": {
     "id": "fabrizio_mei_01",
     "firma": "Fabrizio Mei",
@@ -20,38 +20,38 @@
   },
   "published_at": "2026-04-03T23:24:29.706740+00:00",
   "image": {
-    "type": "pexels",
-    "url": "https://images.pexels.com/photos/16537214/pexels-photo-16537214.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "source": "Pexels",
-    "credit": "Photography Maghradze PH",
-    "license": "Pexels License"
+    "type": "ddg_image",
+    "url": "https://nuovecronache.com/wp-content/uploads/2024/12/cassa-depositi-e-prestiti-lancia-il-piano-strategico-2025-2027.jpg",
+    "source": "Bing",
+    "credit": "Bing",
+    "license": "unknown"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Governo lancia prestiti a 3,80% per TPE e PME\",\n  \"description\": \"Il governo ha lanciato un \\\"prêt flash\\\" a 3,80% per sostenere la trésorerie delle TPE e PME, a seguito dell'aumento dei prezzi, il 3 aprile 2026.\",\n  \"articleBody\": \"Il governo ha lanciato un \\\"prêt flash\\\" a 3,80% per sostenere la trésorerie delle TPE e PME, a seguito dell'aumento dei prezzi, il 3 aprile 2026. Secondo la fonte, il governo ha deciso di intervenire a sostegno delle piccole e medie imprese, che stanno affrontando difficoltà a causa dell'aumento dei prezzi. Il \\\"prêt flash\\\" a 3,80% è stato pensato per fornire una soluzione temporanea alle esigenze di liquidità di queste imprese. La misura è stata annunciata il 3 aprile 2026 e rappresenta un tentativo di mitigare gli effetti negativi dell'inflazione sulle imprese più vulnerabili. Il governo ha sottolineato l'importanza di sostenere le TPE e PME, che rappresentano una componente fondamentale dell'economia. Il \\\"prêt flash\\\" a 3,80% è solo uno degli strumenti messi in campo per aiutare queste imprese a superare la crisi. Il governo, guidato da un'esigenza di sostenere l'economia, ha scelto di intervenire con una misura che potrebbe avere un impatto significativo sulle piccole e medie imprese. Il \\\"prêt flash\\\" a 3,80% potrebbe infatti aiutare a ridurre il carico finanziario di queste imprese e a fornire loro la liquidità necessaria per continuare a operare. Tuttavia, è importante notare che la misura potrebbe non essere sufficiente a risolvere i problemi strutturali dell'economia e che potrebbero essere necessarie ulteriori iniziative per sostenere le imprese più vulnerabili. Il governo dovrà quindi continuare a monitorare la situazione e a valutare l'efficacia della misura. A pagare il prezzo di questa crisi saranno comunque le piccole e medie imprese, che dovranno continuare a lottare per sopravvivere in un contesto economico difficile.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Fabrizio Mei\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-03T23:24:29.706740+00:00\",\n  \"dateModified\": \"2026-04-03T23:24:29.706740+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/14c6693168679cd9\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/14c6693168679cd9\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/16537214/pexels-photo-16537214.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Photography Maghradze PH\"\n  }\n}",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Francia, prestito a 3,80% per 150.000 Pmi\",\n  \"description\": \"Il governo francese ha lanciato il 3 aprile 2026 un prestito a tasso agevolato del 3,80% per sostenere la liquidità delle piccole e medie imprese, in risposta all'impennata dei tassi di finanziamento sul mercato. Il \\\"prêt flash\\\", destinato a imprese con fatturato inferiore ai 50 milioni, sarà dispon\",\n  \"articleBody\": \"Il governo francese ha lanciato il 3 aprile 2026 un prestito a tasso agevolato del 3,80% per sostenere la liquidità delle piccole e medie imprese, in risposta all'impennata dei tassi di finanziamento sul mercato. Il \\\"prêt flash\\\", destinato a imprese con fatturato inferiore ai 50 milioni, sarà disponibile per sei mesi attraverso le principali banche commerciali. Il ministero dell'economia ha definito il provvedimento \\\"una risposta chirurgica alla stretta creditizia che sta soffocando le nostre imprese\\\". Stando ai dati della banca centrale francese, nell'ultimo trimestre i tassi medi per finanziamenti aziendali hanno superato il 6,2%, il livello più alto dal 2011. Il pacchetto prevede 12 miliardi di euro di garanzie pubbliche, con un tetto di 300.000 euro per azienda. I requisiti di accesso includono almeno due anni di attività e un rapporto debito/patrimonio inferiore al 75%. Secondo le stime del governo, l'operazione potrebbe coinvolgere circa 150.000 imprese, principalmente nel manifatturiero e nel commercio al dettaglio. La confédération des petites et moyennes entreprises ha accolto con favore la misura, pur chiedendo \\\"estensione dei termini e semplificazione burocratica\\\". L'intervento arriva a sette mesi dall'ultimo aumento dei tassi della bce, che ha spinto i finanziamenti bancari verso livelli proibitivi per le imprese più fragili. La francia segue la strada già tracciata da germania e italia, dove analoghi strumenti di sostegno hanno registrato domande superiori alle attese. Il vero nodo è la durata: sei mesi coprono appena il ciclo di magazzino di un'azienda manifatturiera, lasciando intatto il problema strutturale del credito caro. L'agevolazione rischia così di trasformarsi in un cerotto su un'emorragia, mentre le banche continuano a privilegiare clienti corporate con rating migliori. A pagare il conto del rialzo dei tassi saranno, come sempre, le imprese troppo piccole per accedere ai mercati obbligazionari ma troppo grandi per sopravvivere senza credito.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Fabrizio Mei\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-03T23:24:29.706740+00:00\",\n  \"dateModified\": \"2026-04-03T23:24:29.706740+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/14c6693168679cd9\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/14c6693168679cd9\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://nuovecronache.com/wp-content/uploads/2024/12/cassa-depositi-e-prestiti-lancia-il-piano-strategico-2025-2027.jpg\",\n    \"creditText\": \"Bing\"\n  }\n}",
   "priority": 5,
   "source": "refresh",
   "source_type": "refresh",
   "original_url": "https://lentemattutina.it/esteri/governo-lancia-prestiti-a-380-per-tpe-e-pme-14c6693168679cd9",
   "related": [
     {
-      "title": "Macron lancia 'coalizione di indipendenti' tra Europa e Giappone",
-      "url": "/esteri/macron-lancia-coalizione-anti-usa-e-cina-c651d9b41789870d",
-      "id": "c651d9b41789870d",
-      "image_url": "https://images.unsplash.com/photo-1771340589259-5b8ee8ff8ea9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxFbW1hbnVlbCUyME1hY3JvbnxlbnwwfDB8fHwxNzc1MjY2NDEwfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "image_type": "unsplash"
+      "title": "Francia, Bompard (LFI) propone alleanza con Verdi: respinta",
+      "url": "/esteri/ecologisti-e-comunisti-bocciano-patto-lfi-per-pres-7a5c78fec0ade05d",
+      "id": "7a5c78fec0ade05d",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Manuel_Bompard_%2848941643602%29.jpg",
+      "image_type": "wikimedia"
     },
     {
-      "title": "HBO lancia il 5 aprile un documentario sui retroscena dei film di Harry Potter",
-      "url": "/esteri/hbo-mostra-il-dietro-le-quinte-del-nuovo-harry-pot-d0fac34297582164",
-      "id": "d0fac34297582164",
-      "image_url": "https://cdn.moviepilot.de/files/a132bbc5448194defa06e88ef3e80824324cb74c63bdb8c8d39d2de6e927/limit/1280/848/unnamed%20(1).jpg",
-      "image_type": "ddg_image"
+      "title": "Sciopero EasyJet: 6 aprile, voli a rischio in Francia",
+      "url": "/esteri/easyjet-blocchera-la-francia-a-pasqua-24-ore-di-sc-09777a69982ed926",
+      "id": "09777a69982ed926",
+      "image_url": "https://images.pexels.com/photos/29195350/pexels-photo-29195350.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
     },
     {
-      "title": "Il Guardian lancia diari rurali scritti da under 30 in tutta la Gran Bretagna",
-      "url": "/esteri/il-guardian-cerca-giovani-talenti-apre-le-candidat-06e8bdf030787cbc",
-      "id": "06e8bdf030787cbc",
-      "image_url": "https://images.unsplash.com/photo-1589738284462-b601bb7d6f51?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxydXJhbCUyMGxpZmUlMjB1a3xlbnwwfDB8fHwxNzc1MTEyNDkyfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "image_type": "unsplash"
+      "title": "Francia condannata a un euro per discriminazione rom",
+      "url": "/esteri/letat-francese-condannato-a-un-euro-per-ritardi-3efd9ec11269418a",
+      "id": "3efd9ec11269418a",
+      "image_url": "https://images.pexels.com/photos/6317649/pexels-photo-6317649.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
     }
   ],
   "updated_at": "2026-04-03T23:24:29.706740+00:00"
