@@ -1,5 +1,23 @@
 [
   {
+    "id": "90d08bc215ff4de6",
+    "slug": "alianza-lima-crollo-allo-stadio-1-morto-e-decine-d-90d08bc215ff4de6",
+    "title": "Crollo a Lima durante il derby: 1 morto e 50 feriti fuori stadio Villanueva",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-04T10:11:47.764252+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1714876906025-77b148689e2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxzdGFkaW8lMjBjcm9sbG8lMjBsaW1hfGVufDB8MHx8fDE3NzUzMzQ2Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "DERBY CON DRAMMA: 1 MORTO E 50 FERITI A LIMA",
+    "lead_preview": "Lima, 4 aprile 2026. Un crollo strutturale all'esterno dello stadio Alejandro Villanueva, sede del derby tra Alianza Lim",
+    "tags": [
+      "crollo lima",
+      "derby peruviano",
+      "stadio villanueva"
+    ]
+  },
+  {
     "id": "da73965fdc97b1cf",
     "slug": "sambendettesi-arezzo-0-0-un-risultato-dicegnato-da73965fdc97b1cf",
     "title": "Calcio: Sambenedettese-Arezzo finisce 0-0 al Riviera delle Palme",
@@ -1133,23 +1151,6 @@
       "omicidio filice",
       "processo macellaio reggio",
       "difesa casa calabria"
-    ]
-  },
-  {
-    "id": "90d08bc215ff4de6",
-    "slug": "alianza-lima-crollo-allo-stadio-1-morto-e-decine-d-90d08bc215ff4de6",
-    "title": "Crollo allo stadio di Lima: 1 morto e 50 feriti nel derby",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-04T10:11:47.764252+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1730063527022-166a967f8a38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxzdGFkaXVtJTIwZGlzYXN0ZXIlMjBsaW1hJTIwcGVydXxlbnwwfDB8fHwxNzc1MzA1MjI3fDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "CROLLO ALLO STADIO DI ALIANZA LIMA: UNO SCOMPARSO E DECINE DI FERITI PRIMA DEL DERBY",
-    "lead_preview": "Alianza Lima, 4 aprile 2026. Un crollo strutturale all’esterno dello stadio Alejandro Villanueva, sede del derby con l’U",
-    "tags": [
-      "crollo stadio lima",
-      "derby lima"
     ]
   },
   {
