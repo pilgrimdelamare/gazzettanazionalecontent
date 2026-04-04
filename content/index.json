@@ -1,5 +1,23 @@
 [
   {
+    "id": "fad1abe7b335188a",
+    "slug": "daniele-silvestri-e-i-negriata-a-moon-in-june-fad1abe7b335188a",
+    "title": "Daniele silvestri e i negriata a moon in june",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-04T14:51:45.229210+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2023/11/25/649cd7a64051e74b75013158fbe2043a.jpg",
+    "occhiello": "DANIELE SILVESTRI E I NEGRIATA A MOON IN JUNE",
+    "lead_preview": "Daniele Silvestri e i Negrita saranno i protagonisti del festival Moon in June, che si terrà a Tuoro sul Trasimeno. Il c",
+    "tags": [
+      "moon in june",
+      "daniele silvestri",
+      "concerto trasimeno"
+    ]
+  },
+  {
     "id": "aedc5004103616b7",
     "slug": "tennis-trungelliti-in-finale-atp-a-marrakech-aedc5004103616b7",
     "title": "Tennis: Trungelliti in finale ATP a Marrakech",
@@ -8641,23 +8659,6 @@
       "indagine accc",
       "violazioni antitrust",
       "tiktok instagram youtube"
-    ]
-  },
-  {
-    "id": "06b9aa3f545755fd",
-    "slug": "sheinbaum-chiude-scuole-per-mondiali-06b9aa3f545755fd",
-    "title": "Claudia Sheinbaum chiude scuole nel Messico, telelavoro obbligatorio a partire d",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-03-31T03:03:07.099935+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Claudia_Sheinbaum_en_su_conferencia_matutina.jpg",
-    "occhiello": "MESSICO CHIUDONO SCUOLE PUBBLICHE",
-    "lead_preview": "Claudia sheinbaum, presidente del messico, ha annunciato la chiusura delle scuole pubbliche e la promozione del telelavo",
-    "tags": [
-      "claudia sheinbaum",
-      "messico scuole chiuse"
     ]
   }
 ]
