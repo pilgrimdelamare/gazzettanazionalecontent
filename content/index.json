@@ -1,5 +1,19 @@
 [
   {
+    "id": "e5c2d47b7785850a",
+    "slug": "nba-highlights-philadelphia-superiore-e5c2d47b7785850a",
+    "title": "Philadelphia blocca antoney edwards e chiude il gioco",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-04T06:41:24.683501+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/17554863/pexels-photo-17554863.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "PHILADELPHIA BLOCCA ANTONEY EDWARDS E CHIUDE IL GIOCO",
+    "lead_preview": "Philadelphia 76ers ha sconfitto i Minnesota Timberwolves 115-103 il 4 aprile 2026 al Target Center di Minneapolis, in un",
+    "tags": []
+  },
+  {
     "id": "f56d042e7b332e62",
     "slug": "regno-unito-pilates-senza-regole-f56d042e7b332e62",
     "title": "Regno Unito: pilates senza regole",
@@ -494,20 +508,6 @@
       "satira meloni",
       "fatto quotidiano"
     ]
-  },
-  {
-    "id": "e5c2d47b7785850a",
-    "slug": "nba-highlights-philadelphia-superiore-e5c2d47b7785850a",
-    "title": "Nba highlights: philadelphia superiore",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-04T06:41:24.683501+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/973fb3d107d2eaa15ea2e8492963bbef5a378b0e/skysport/it/nba/video/2026/04/04/1087571_1775280657747_thumb_494.0000001_1775280975809.jpg",
-    "occhiello": "NBA HIGHLIGHTS: PHILADELPHIA SUPERIORE",
-    "lead_preview": "Il 4 aprile 2026, la squadra di Philadelphia ha sconfitto i Minnesota Timberwolves con un punteggio di 115-103 nella leg",
-    "tags": []
   },
   {
     "id": "23725566bc71b456",
