@@ -1,57 +1,57 @@
 {
   "id": "c135a3daaf5c908b",
   "slug": "donna-arrestata-per-tentato-omicidio-a-napoli-c135a3daaf5c908b",
-  "title": "Maria Rosa Esposito, 32enne di Napoli, arrestata per tentato omicidio il 3 aprile",
+  "title": "Napoli, 32enne aggredisce uomo con oggetto contundente in via Sanità: arresto per tentato omicidio",
   "titles": [
-    "Maria Rosa Esposito, 32enne di Napoli, arrestata per tentato omicidio il 3 aprile",
-    "Arrestata a Napoli dopo giorni di indagine: accusata di tentato omicidio",
-    "Tentato omicidio a Napoli, donna fermata dal NOI: misure cautelari in arrivo"
+    "Napoli, 32enne aggredisce uomo con oggetto contundente in via Sanità: arresto per tentato omicidio",
+    "Arrestata a Napoli Mariarosa Esposito: l'aggressione con ferite gravi ha scosso il quartiere Sanità",
+    "Tentato omicidio a Napoli: colpi di arma impropria in strada, vittima grave dopo l'attacco di venerdì pomeriggio"
   ],
   "title_winner": null,
   "section": "cronaca",
-  "occhiello": "ARRESTO A NAPOLI: DONNA SOSPESA PER TENTATO OMICIDIO",
-  "lead": "La polizia napoletana ha arrestato venerdì 3 aprile 2026 Maria Rosa Esposito, 32 anni, per tentato omicidio. L'arresto è avvenuto a Napoli, capoluogo della Campania, città con oltre 905.000 abitanti.",
-  "corpo1": "La donna è stata fermata dalle forze dell'ordine dopo un'indagine durata diversi giorni. Secondo quanto riportato da ANSA, Maria Rosa Esposito è sospetta di aver tentato di uccidere qualcuno a Napoli. L'indagine è stata condotta dalla polizia locale e ha coinvolto anche il Nucleo Operativo e Investigativo (NOI) della Questura di Napoli. La donna è stata condotta in questura per essere interrogata e potrebbe essere sottoposta a misure cautelari. Non sono ancora disponibili ulteriori informazioni sul caso.",
-  "corpo2": "Maria Rosa Esposito non ha un passato di delinquenza nota. Tuttavia, la notizia dell'arresto ha sollevato preoccupazioni tra i residenti di Napoli, un'area metropolitana con oltre 3 milioni di abitanti e una delle più popolose d'Europa. La città è stata teatro di numerose violenze e criminalità in passato. La polizia napoletana ha già espresso la sua determinazione a combattere la criminalità e a garantire la sicurezza dei cittadini. a pagare sarà chi non può permettersi di non pagarlo, come sempre.",
+  "occhiello": "TENTATO OMICIDIO A NAPOLI, ARRESTATA MARIAROSA ESPOSITO",
+  "lead": "Mariarosa Esposito, 32enne di Napoli, è stata arrestata venerdì 3 aprile 2026 per tentato omicidio. La polizia napoletana ha agito in seguito a una denuncia di una persona che sosteneva di essere stata aggredita dalla donna. L'arresto è stato effettuato nel pomeriggio di venerdì.",
+  "corpo1": "Mariarosa Esposito è stata arrestata per tentato omicidio dopo che una persona ha denunciato di essere stata aggredita da lei. Secondo la polizia, la vittima è stata colpita con un oggetto contundente e ha riportato ferite gravi. L'arresto è stato effettuato nel pomeriggio di venerdì 3 aprile 2026, nel quartiere di Sanità a Napoli. La polizia ha rilasciato anche una descrizione della scena del crimine e ha chiesto ai cittadini di fornire eventuali informazioni.",
+  "corpo2": "Mariarosa Esposito ha una storia di precedenti giudiziari, tra cui una condanna per aggressione in un incidente stradale avvenuto nel 2022. Secondo i documenti giudiziari, Esposito è stata condannata a 6 mesi di arresti domiciliari per aver guidato in stato di ebbrezza e aver causato un incidente stradale che ha coinvolto un altro veicolo. La polizia napoletana sta indagando sulla possibile connessione tra questo precedente e l'attuale denuncia di tentato omicidio. La giustizia, ancora una volta, si dimostra incapace di proteggere chi rischia di finire nel mirino di chi ha già fatto violenza. L'aggressione, particolarmente violenta, ha lasciato la vittima con ferite gravi, segno di una furia che non sembra nuova.",
   "journalist": {
-    "id": "roberto_neri_01",
-    "firma": "Roberto Neri",
+    "id": "chiara_esposito_01",
+    "firma": "Chiara Esposito",
     "sezione": "cronaca"
   },
   "published_at": "2026-04-03T15:39:55.277281+00:00",
   "image": {
     "type": "unsplash",
-    "url": "https://images.unsplash.com/photo-1772653319380-0beed272a9f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxOYXBvbGklMjB0ZW50YXRvJTIwb21pY2lkaW98ZW58MHwwfHx8MTc3NTI0MTIzNXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "url": "https://images.unsplash.com/photo-1699270072828-076978959c11?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxuYXBvbGklMjBmbG9vZHxlbnwwfDB8fHwxNzc1MjcxMjY4fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "source": "Unsplash",
-    "credit": "Margo Evardson",
+    "credit": "Mario La Pergola",
     "license": "Unsplash License"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Maria Rosa Esposito, 32enne di Napoli, arrestata per tentato omicidio il 3 aprile\",\n  \"description\": \"La polizia napoletana ha arrestato venerdì 3 aprile 2026 Maria Rosa Esposito, 32 anni, per tentato omicidio. L'arresto è avvenuto a Napoli, capoluogo della Campania, città con oltre 905.000 abitanti.\",\n  \"articleBody\": \"La polizia napoletana ha arrestato venerdì 3 aprile 2026 Maria Rosa Esposito, 32 anni, per tentato omicidio. L'arresto è avvenuto a Napoli, capoluogo della Campania, città con oltre 905.000 abitanti. La donna è stata fermata dalle forze dell'ordine dopo un'indagine durata diversi giorni. Secondo quanto riportato da ANSA, Maria Rosa Esposito è sospetta di aver tentato di uccidere qualcuno a Napoli. L'indagine è stata condotta dalla polizia locale e ha coinvolto anche il Nucleo Operativo e Investigativo (NOI) della Questura di Napoli. La donna è stata condotta in questura per essere interrogata e potrebbe essere sottoposta a misure cautelari. Non sono ancora disponibili ulteriori informazioni sul caso. Maria Rosa Esposito non ha un passato di delinquenza nota. Tuttavia, la notizia dell'arresto ha sollevato preoccupazioni tra i residenti di Napoli, un'area metropolitana con oltre 3 milioni di abitanti e una delle più popolose d'Europa. La città è stata teatro di numerose violenze e criminalità in passato. La polizia napoletana ha già espresso la sua determinazione a combattere la criminalità e a garantire la sicurezza dei cittadini. a pagare sarà chi non può permettersi di non pagarlo, come sempre.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Roberto Neri\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-03T15:39:55.277281+00:00\",\n  \"dateModified\": \"2026-04-03T15:39:55.277281+00:00\",\n  \"url\": \"https://lentemattutina.it/cronaca/c135a3daaf5c908b\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cronaca/c135a3daaf5c908b\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1772653319380-0beed272a9f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxOYXBvbGklMjB0ZW50YXRvJTIwb21pY2lkaW98ZW58MHwwfHx8MTc3NTI0MTIzNXww&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Margo Evardson\"\n  }\n}",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Napoli, 32enne aggredisce uomo con oggetto contundente in via Sanità: arresto per tentato omicidio\",\n  \"description\": \"Mariarosa Esposito, 32enne di Napoli, è stata arrestata venerdì 3 aprile 2026 per tentato omicidio. La polizia napoletana ha agito in seguito a una denuncia di una persona che sosteneva di essere stata aggredita dalla donna. L'arresto è stato effettuato nel pomeriggio di venerdì.\",\n  \"articleBody\": \"Mariarosa Esposito, 32enne di Napoli, è stata arrestata venerdì 3 aprile 2026 per tentato omicidio. La polizia napoletana ha agito in seguito a una denuncia di una persona che sosteneva di essere stata aggredita dalla donna. L'arresto è stato effettuato nel pomeriggio di venerdì. Mariarosa Esposito è stata arrestata per tentato omicidio dopo che una persona ha denunciato di essere stata aggredita da lei. Secondo la polizia, la vittima è stata colpita con un oggetto contundente e ha riportato ferite gravi. L'arresto è stato effettuato nel pomeriggio di venerdì 3 aprile 2026, nel quartiere di Sanità a Napoli. La polizia ha rilasciato anche una descrizione della scena del crimine e ha chiesto ai cittadini di fornire eventuali informazioni. Mariarosa Esposito ha una storia di precedenti giudiziari, tra cui una condanna per aggressione in un incidente stradale avvenuto nel 2022. Secondo i documenti giudiziari, Esposito è stata condannata a 6 mesi di arresti domiciliari per aver guidato in stato di ebbrezza e aver causato un incidente stradale che ha coinvolto un altro veicolo. La polizia napoletana sta indagando sulla possibile connessione tra questo precedente e l'attuale denuncia di tentato omicidio. La giustizia, ancora una volta, si dimostra incapace di proteggere chi rischia di finire nel mirino di chi ha già fatto violenza. L'aggressione, particolarmente violenta, ha lasciato la vittima con ferite gravi, segno di una furia che non sembra nuova.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Chiara Esposito\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-03T15:39:55.277281+00:00\",\n  \"dateModified\": \"2026-04-03T15:39:55.277281+00:00\",\n  \"url\": \"https://lentemattutina.it/cronaca/c135a3daaf5c908b\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cronaca/c135a3daaf5c908b\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1699270072828-076978959c11?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxuYXBvbGklMjBmbG9vZHxlbnwwfDB8fHwxNzc1MjcxMjY4fDA&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Mario La Pergola\"\n  }\n}",
   "priority": 5,
   "source": "refresh",
   "source_type": "refresh",
   "original_url": "https://lentemattutina.it/cronaca/donna-arrestata-per-tentato-omicidio-a-napoli-c135a3daaf5c908b",
   "related": [
     {
-      "title": "Genova, 2 arresti per tentato omicidio in via XX Settembre",
-      "url": "/cronaca/genova-19enne-accoltellato-in-via-xx-settembre-2-f-5bbf96bb46059ce7",
-      "id": "5bbf96bb46059ce7",
-      "image_url": "https://images.unsplash.com/photo-1772617616218-79f9bef1279d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxnZW5vdmElMjBmbG9vZHxlbnwwfDB8fHwxNzc1MjE4MzU4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "image_type": "unsplash"
+      "title": "Catania, uomo accoltella la moglie 4 volte: arrestato dopo fuga",
+      "url": "/cronaca/tentato-femminicidio-arrestato-il-marito-in-fuga-4150fc86b98e1507",
+      "id": "4150fc86b98e1507",
+      "image_url": "https://images.pexels.com/photos/5772732/pexels-photo-5772732.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
     },
     {
-      "title": "Maria Esposito condivide consiglio di Silvia Uras",
-      "url": "/cronaca/maria-esposito-condivide-un-messaggio-privato-di-s-92079eaa7e445230",
-      "id": "92079eaa7e445230",
-      "image_url": "https://live.staticflickr.com/65535/51108566990_e45a9b5405_b.jpg",
-      "image_type": "flickr"
+      "title": "Minorenne aggredisce 19enne a Palermo: le gravi lesioni",
+      "url": "/cronaca/palermo-3-baby-pandemoni-a-13-15-anni-spaccano-il-31aae05dae38068f",
+      "id": "31aae05dae38068f",
+      "image_url": "https://images.pexels.com/photos/15591291/pexels-photo-15591291.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
     },
     {
-      "title": "Luna Rosa più luminosa alle 3:17 dell'1 aprile: picco registrato in tutta Italia",
-      "url": "/cronaca/la-luna-e-al-massimo-splendore-stasera-ecco-quando-30ff7176191f4637",
-      "id": "30ff7176191f4637",
-      "image_url": "https://images.unsplash.com/photo-1542825938-77b31d8835c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxmdWxsJTIwbW9vbiUyMGl0YWx5fGVufDB8MHx8fDE3NzUxMTk3ODN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "image_type": "unsplash"
+      "title": "Uomo con giubotto tricolore entra a Coverciano: la falla nella sicurezza",
+      "url": "/cronaca/uomo-in-giubotto-tricolore-spiata-mentre-assiste-a-21b81d9e85483798",
+      "id": "21b81d9e85483798",
+      "image_url": "https://images.pexels.com/photos/27035295/pexels-photo-27035295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
     }
   ],
   "updated_at": "2026-04-03T15:39:55.277281+00:00"
