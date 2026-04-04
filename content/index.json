@@ -1,5 +1,23 @@
 [
   {
+    "id": "fd221025780482d2",
+    "slug": "decreto-bollette-limita-telemkt-fd221025780482d2",
+    "title": "Dal 4 aprile 2026 stop alle chiamate a freddo per luce e gas: sanzioni fino a 200mila euro",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-04T08:26:06.164625+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1754587111680-9a34bb46aca4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHx0ZWxlbWFya2V0aW5nJTIwZW5lcmd5JTIwc2VydmljZXN8ZW58MHwwfHx8MTc3NTI5ODgyOXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "",
+    "lead_preview": "Il decreto Bollette, varato il 4 aprile 2026, vieta quasi del tutto il telemarketing per la vendita di servizi energetic",
+    "tags": [
+      "decreto bollette",
+      "telemarketing energia",
+      "stop chiamate freddo"
+    ]
+  },
+  {
     "id": "09777a69982ed926",
     "slug": "easyjet-blocchera-la-francia-a-pasqua-24-ore-di-sc-09777a69982ed926",
     "title": "EasyJet: sciopero del 60% dei voli in 5 aeroporti francesi il 6 aprile",
@@ -1122,20 +1140,6 @@
       "furto bibbiano",
       "prodi viola rubata"
     ]
-  },
-  {
-    "id": "fd221025780482d2",
-    "slug": "decreto-bollette-limita-telemkt-fd221025780482d2",
-    "title": "Decreto bollette limita telemkt",
-    "section": "economia",
-    "priority": 8,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-04-04T08:26:06.164625+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/04/100759560-c84d7b59-9ba7-4e9a-ab28-ee09044f27e2.jpg",
-    "occhiello": "DECRETO BOLLETTE LIMITA TELEMKT",
-    "lead_preview": "Il decreto Bollette, varato di recente, vieta quasi del tutto il telemarketing dei Servizi energetici, una misura che li",
-    "tags": []
   },
   {
     "id": "012af84860dc17b0",
