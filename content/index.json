@@ -1,5 +1,23 @@
 [
   {
+    "id": "5944b17d1c15cfbe",
+    "slug": "ue-valuta-razionamento-energia-jorgensen-prezzi-al-5944b17d1c15cfbe",
+    "title": "Ue valeta razionamento carburante",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-03T09:01:13.549024+00:00",
+    "image_type": "none",
+    "image_url": "",
+    "occhiello": "UE VALETA RAZIONAMENTO CARBURANTE",
+    "lead_preview": "Il commissario europeo per l'Energia, Dan Jorgensen, ha dichiarato al Financial Times che l'Unione Europea valuta provve",
+    "tags": [
+      "razionamento carburante ue",
+      "crisi energetica europa",
+      "daniel jorgensen"
+    ]
+  },
+  {
     "id": "4d29ff0117d69db0",
     "slug": "farage-spende-25000-sterline-per-volo-privato-alle-4d29ff0117d69db0",
     "title": "Farage spende 25.000 sterline per due giorni alle Maldive",
@@ -1385,20 +1403,6 @@
       "delitto nonni",
       "confessione minori"
     ]
-  },
-  {
-    "id": "5944b17d1c15cfbe",
-    "slug": "ue-valuta-razionamento-energia-jorgensen-prezzi-al-5944b17d1c15cfbe",
-    "title": "Ue valuta razionamento carburante per crisi energetica",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-04-03T09:01:13.549024+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/158776/euro-money-currency-the-european-158776.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "UE VALUTA RAZIONAMENTO CARBURANTE PER CRISI ENERGETICA",
-    "lead_preview": "Dan Jorgensen, commissario europeo per l’Energia, ha dichiarato al Financial Times il 3 aprile 2026 che l’Unione Europea",
-    "tags": []
   },
   {
     "id": "1208b5039fbd2412",
