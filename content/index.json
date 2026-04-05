@@ -1,5 +1,20 @@
 [
   {
+    "id": "d0e5afeafd7824a1",
+    "slug": "esplosivi-vicino-gasdotto-turkstream-d0e5afeafd7824a1",
+    "title": "Esplosivi vicino al gasdotto. serbia accusa, budapest punta il dito",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Elena Russo",
+    "published_at": "2026-04-05T17:32:34.313405+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/33257776/pexels-photo-33257776.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "ESPLOSIVI VICINO AL GASDOTTO. SERBIA ACCUSA, BUDAPEST PUNTA IL DITO",
+    "lead_preview": "Il presidente serbo Aleksandar Vucic ha annunciato il 5 aprile 2026 che esercito e polizia hanno scoperto due zaini cont",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "d95785ff29745bf5",
     "slug": "calcio-parma-ko-2-1-con-bologna-daversa-nel-second-d95785ff29745bf5",
     "title": "Calcio: Parma ko 2-1 col Bologna, D'Aversa: \"Secondo tempo giusto, ma paghiamo errori fatali\"",
@@ -31,25 +46,6 @@
     "occhiello": "GERMANIA, DIVIETO DI VIAGGI PER UOMINI GIOVANI",
     "lead_preview": "Berlino, 5 aprile 2026. La Germania ha imposto un divieto di Viaggi per gli uomini tra i 17 e i 45 anni che intendono so",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "d0e5afeafd7824a1",
-    "slug": "esplosivi-vicino-gasdotto-turkstream-d0e5afeafd7824a1",
-    "title": "Serbia, Vucic: 'Sequestrati due zaini con esplosivo vicino al gasdotto TurkStream'",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Elena Russo",
-    "published_at": "2026-04-05T17:32:34.313405+00:00",
-    "image_type": "ddg_image",
-    "image_url": "https://c8.alamy.com/comp/2WH33TD/belgrad-serbia-07th-feb-2024-aleksandar-vucic-president-of-serbia-speaks-during-a-joint-press-conference-with-federal-minister-of-defense-pistorius-credit-soeren-stachedpaalamy-live-news-2WH33TD.jpg",
-    "occhiello": "ESPLOSIVI VICINO AL GASDOTTO",
-    "lead_preview": "Aleksandar Vucic ha annunciato che esercito e polizia serba hanno trovato due zaini contenenti esplosivo vicino al gasdo",
-    "tags": [
-      "esplosivi serbia",
-      "gasdotto turkstream",
-      "vucic esplosivo"
-    ],
     "hero_eligible": true
   },
   {
