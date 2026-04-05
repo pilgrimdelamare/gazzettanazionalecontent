@@ -1,5 +1,23 @@
 [
   {
+    "id": "55776d3e62ee0ac1",
+    "slug": "32-migranti-salvati-al-largo-della-libia-70-disper-55776d3e62ee0ac1",
+    "title": "32 migranti salvati al largo della Libia, 70 dispersi dopo naufragio di barcone",
+    "section": "cronaca",
+    "priority": 4,
+    "journalist_firma": "Chiara Esposito",
+    "published_at": "2026-04-05T11:07:27.856110+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/localirep/img/rep-palermo/2026/04/05/124700052-dbc98bc6-6f02-4e72-98e7-67cb3809c9c7.jpg",
+    "occhiello": "SETTANTA DISPERSI DOPO IL NAUFRAGIO DI UN BARCONE PARTITO DA TRIPOLI",
+    "lead_preview": "Settanta migranti risultano dispersi dopo il Naufragio di un barcone in legno salpato da Tripoli con 105 persone a bordo",
+    "tags": [
+      "naufragio libia",
+      "migranti mediterraneo",
+      "salvataggio migranti"
+    ]
+  },
+  {
     "id": "3cb52959b890e05a",
     "slug": "roberto-gavioli-73-anni-muore-cadendo-da-gru-a-san-3cb52959b890e05a",
     "title": "Falegname cade da gru, morto a 73 anni a San Felice",
@@ -8673,23 +8691,5 @@
     "occhiello": "RHOVE SCATENANO ‘FEMMINA’, IL SINGOLO CHE FA DISCUSSIONE SUL GENDER",
     "lead_preview": "Rhove pubblica il 3 aprile il singolo ‘Femmina’ su tutte le piattaforme digitali. Il brano, lanciato in concomitanza con",
     "tags": []
-  },
-  {
-    "id": "35f4d6172e331cc6",
-    "slug": "stefano-fonzi-lancia-blugo-35f4d6172e331cc6",
-    "title": "Stefano Fonzi lancia BluGo, l'app gratuita per l'autonomia delle persone autistiche",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-03-31T09:47:46.326904+00:00",
-    "image_type": "image",
-    "image_url": "https://www.rainews.it/cropgd/1600x900/dl/img/2026/04/01/1775042529747_jj.jpg",
-    "occhiello": "BLUGO, APP GRATUITA PER AIUTARE LE PERSONE AUTISTICHE A MUOVERSI IN SICUREZZA",
-    "lead_preview": "Stefano Fonzi, fondatore di BluGo, ha lanciato il 1° aprile 2026 l'app gratuita che aiuta le persone con disturbi dello ",
-    "tags": [
-      "blugo",
-      "autismo",
-      "app blugo"
-    ]
   }
 ]
