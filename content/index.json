@@ -1,5 +1,22 @@
 [
   {
+    "id": "ee9798d74cb72c49",
+    "slug": "leeds-in-semifinale-di-coppa-dinghilterra-ee9798d74cb72c49",
+    "title": "Calcio: Leeds vince ai rigori contro il West Ham",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-05T20:33:47.259974+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/30586374/pexels-photo-30586374.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "RIGORI DECISIVI, BILANCI INCERTI",
+    "lead_preview": "Il 5 aprile 2026 il Leeds ha sconfitto il West Ham ai calci di rigore, guadagnando l'accesso alla semifinale della Coppa",
+    "tags": [
+      "coppa inghilterra"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "d0e5afeafd7824a1",
     "slug": "esplosivi-vicino-gasdotto-turkstream-d0e5afeafd7824a1",
     "title": "Esplosivi vicino al gasdotto. serbia accusa, budapest punta il dito",
@@ -278,20 +295,6 @@
       "monte conero",
       "decesso sportivo"
     ]
-  },
-  {
-    "id": "ee9798d74cb72c49",
-    "slug": "leeds-in-semifinale-di-coppa-dinghilterra-ee9798d74cb72c49",
-    "title": "Leeds in semifinale di coppa d'inghilterra",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-05T20:33:47.259974+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/1/4/abff9ed34d51caa34a41517a983b7174.jpg",
-    "occhiello": "LEEDS IN SEMIFINALE DI COPPA D'INGHILTERRA",
-    "lead_preview": "Il 5 aprile 2026, la squadra del Leeds ha sconfitto il West Ham ai rigori, guadagnando l'accesso alla semifinale di Copp",
-    "tags": []
   },
   {
     "id": "12070c7b95826523",
