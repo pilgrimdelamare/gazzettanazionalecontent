@@ -1,5 +1,21 @@
 [
   {
+    "id": "0fac622441d4959f",
+    "slug": "ciclismo-pogacar-sfida-van-der-poel-0fac622441d4959f",
+    "title": "Ciclismo: Pogacar sfida van der Poel",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-05T07:48:08.737360+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/ea2ad719c76532ca1a9a8de9e2de382c893c38fe/skysport/it/ciclismo/2026/04/05/giro-fiandre-2026-classifica-live/getty_pogacar_fiandre.jpg",
+    "occhiello": "GIRO DELLE FIANDRE 2026, I FAB FOUR",
+    "lead_preview": "Domenica 5 aprile 2026, il Giro delle Fiandre, seconda \"Classica Monumento\" della stagione, vede al via Tadej Pogacar, M",
+    "tags": [
+      "giro delle fiandre 2026"
+    ]
+  },
+  {
     "id": "1cf247c9cdbc78b1",
     "slug": "israele-colpisce-impianti-petrolchimici-in-iran-co-1cf247c9cdbc78b1",
     "title": "Israele colpisce l'iran",
@@ -8670,22 +8686,6 @@
       "acquisizione dnata",
       "airport handling",
       "aeroporti italiani"
-    ]
-  },
-  {
-    "id": "ad9068122c28905a",
-    "slug": "cosmoprof-lia-non-salva-linnovazione-solo-2300-esp-ad9068122c28905a",
-    "title": "250mila visitatori a Cosmoprof: il record della fiera della bellezza",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-03-31T13:36:02.059324+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1731594701733-dc60b1052e1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxjb3Ntb3Byb2YlMjBib2xvZ25hJTIwYmVhdXR5JTIwZmFpcnxlbnwwfDB8fHwxNzc1MDMwOTExfDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "",
-    "lead_preview": "Cosmoprof, la fiera internazionale del settore bellezza e cosmetici, ha registrato un nuovo record di affluenza a Bologn",
-    "tags": [
-      "cosmoprof bologna"
     ]
   }
 ]
