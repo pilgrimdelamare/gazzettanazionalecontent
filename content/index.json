@@ -1,5 +1,23 @@
 [
   {
+    "id": "6d098befd87acfbb",
+    "slug": "usa-recupera-il-pilota-disperso-in-iran-dopo-abbat-6d098befd87acfbb",
+    "title": "Usa recuperano il corpo del pilota abbattuto in Iran dopo taglia di 50.000 euro",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-05T04:44:24.360740+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1643404168239-9a6bb707b784?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxwaWxvdCUyMHJlY292ZXJ5JTIwaXJhbnxlbnwwfDB8fHwxNzc1MzcxNjEzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "FONDI SCOMPARSI DOPO IL VOTO",
+    "lead_preview": "Abbattuto venerdì nel sud-ovest dell'Iran. La notizia è stata confermata dopo due giorni di ricerca.",
+    "tags": [
+      "abbattimento iran",
+      "pilota usa",
+      "taglia 50000 euro"
+    ]
+  },
+  {
     "id": "82c6348e8f1a283b",
     "slug": "btp-decennali-al-4-rendimenti-ai-massimi-per-infla-82c6348e8f1a283b",
     "title": "Btp decennali al 4%: rendimenti ai massimi per inflazione e crisi energetica",
@@ -420,24 +438,6 @@
     "tags": [
       "sambenedettese arezzo",
       "serie c playoff"
-    ]
-  },
-  {
-    "id": "6d098befd87acfbb",
-    "slug": "usa-recupera-il-pilota-disperso-in-iran-dopo-abbat-6d098befd87acfbb",
-    "title": "Usa recupera il pilota disperso in Iran dopo abbattimento F-15E nel sud-ovest del Paese",
-    "section": "esteri",
-    "priority": 3,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-05T04:44:24.360740+00:00",
-    "image_type": "image",
-    "image_url": "https://i.guim.co.uk/img/media/f25ff0881cf8104e60c5476df96b96139c8b8527/588_0_3967_3176/master/3967.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f5f7c535b373b0a0691ac98da6fa7f55",
-    "occhiello": "SECOND CREW MEMBER RESCUED FROM IRAN",
-    "lead_preview": "Dopo due giorni di ricerca, le forze statunitensi hanno recuperato il secondo membro dell'equipaggio dell'F-15E Strike E",
-    "tags": [
-      "abbattimento f-15e",
-      "recupero pilota usa",
-      "crisi iran usa"
     ]
   },
   {
