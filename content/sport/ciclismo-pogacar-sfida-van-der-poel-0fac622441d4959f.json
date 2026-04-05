@@ -1,37 +1,44 @@
 {
   "id": "0fac622441d4959f",
   "slug": "ciclismo-pogacar-sfida-van-der-poel-0fac622441d4959f",
-  "title": "Ciclismo: Pogacar sfida van der Poel nel Giro delle Fiandre il 5 aprile 2026",
+  "title": "Tadej pogacar sfida mathieu van der poel nel giro delle fiandre",
   "titles": [
-    "Ciclismo: Pogacar sfida van der Poel nel Giro delle Fiandre il 5 aprile 2026",
-    "Ciclismo: Il duello sloveno Pogacar-van der Poel infiamma le strade delle Fiandre",
-    "Ciclismo: Pogacar punta alla vittoria nel Monumento delle Fiandre dopo il secondo posto al Giro"
+    "TADEJ POGACAR SFIDA MATHIEU VAN DER POEL NEL GIRO DELLE FIANDRE",
+    "TADEJ POGACAR SFIDA MATHIEU VAN DER POEL NEL GIRO DELLE FIANDRE",
+    "TADEJ POGACAR SFIDA MATHIEU VAN DER POEL NEL GIRO DELLE FIANDRE"
   ],
   "title_winner": null,
   "section": "sport",
-  "occhiello": "POGACAR SFIDA VAN DER POEL AL GIRO DELLE FIANDE",
-  "lead": "Tadej Pogacar, il ciclista sloveno campione del mondo, sfiderà il connazionale Mathieu van der Poel nel Giro delle Fiandre, seconda Classica Monumento della stagione. La gara si svolgerà domenica 5 aprile 2026.",
-  "corpo1": "Regioni delle Fiandre belghe e del Brabante. La gara è nota per le sue asperità e le condizioni meteorologiche avverse, che mettono alla prova i corridori fin dagli anni '20. Pogacar, 25 anni, è uno dei favoriti per la vittoria, avendo già vinto la Classica di San Sebastian nel 2023 e aver chiuso al secondo posto il Giro",
-  "corpo2": "Di Lombardia dello stesso anno. Van der Poel, 24 anni, è un giovane talento olandese che ha già vinto numerose gare, tra cui la Parigi-Roubaix del 2022. La gara sarà trasmessa in diretta su Rai Sport e Sky Sport, con inizio previsto alle 13:00 del 5 aprile 2026. Il percorso sarà quello tradizionale, con una salita al Kemmelberg e una discesa verso la linea di arrivo a Oudenaarde. Il direttore sportivo della squadra di Pogacar, Ivan Basso, ha dichiarato: \"Tadej è pronto per la vittoria. Ha lavorato duramente per questa gara e credo che possa vincere\". Il direttore sportivo della squadra di Pogacar, Ivan Basso, ha dichiarato: \"Tadej è pronto per la vittoria. Ha lavorato duramente per questa gara e credo che possa vincere\".",
+  "occhiello": "TADEJ POGACAR SFIDA MATHIEU VAN DER POEL NEL GIRO DELLE FIANDRE",
+  "lead": "Tadej Pogacar, il campione del mondo sloveno, sfiderà il connazionale Mathieu van der Poel nel Giro delle Fiandre il 5 aprile 2026. l'evento si terrà il 5 aprile 2026 in Belgio.",
+  "corpo1": "Il Giro delle Fiandre è uno degli eventi più importanti del calendario ciclistico, noto per le sue difficili e tecniche piste. Pogacar, 24 anni, è già campione del mondo dal 2023 e si è imposto anche nel Giro d'Italia del 2024. Van der Poel, connazionale di Pogacar, è un ciclista esperto che ha già vinto numerosi eventi importanti, tra cui la Parigi-Roubaix del 2022.\n\nSecondo la fonte, \"Pogačar è pronto a sfidare van der Poel nel Giro delle Fiandre, dopo aver vinto il titolo Mondiale nel 2023. 'Sono molto fiducioso nelle mie abilità e sono pronto a dare il massimo per vincere' ha dichiarato Pogacar. Van der Poel ha avuto problemi in alcune delle sue ultime gare, ma è comunque un concorrente formidabile e non bisogna dimenticare che è già Stato vincitore di questa gara nel 2019\".\n\nIl Giro delle Fiandre si terrà il 5 aprile 2026 e sarà un evento molto importante per entrambi i ciclisti.",
+  "corpo2": "Tadej Pogacar è un ciclista noto nel mondo del ciclismo, dopo aver vinto il titolo Mondiale nel 2023 e il Giro d'Italia nel 2024. La sua abilità e la sua determinazione lo rendono uno dei principali candidati alla vittoria. Van der Poel è un ciclista esperto con una lunga storia di successi, tra cui la vittoria della Parigi-Roubaix del 2022.\n\nIl Giro delle Fiandre è un evento molto importante per i ciclisti e per il pubblico, e la sfida tra Pogacar e van der Poel sarà sicuramente un momento emozionante. La gara si terrà in Belgio e sarà seguita da milioni di spettatori.\n\nLa vera vittoria sarà solo per uno dei due, ma il vero perdente sarà il pubblico. Il vero vincitore sarà solo uno dei due, ma il vero perdeditore sarà il pubblico che sarà costretto a pagare per vedere la gara, anche se non avrà il diritto di entrare nello stadio.",
   "journalist": {
-    "id": "davide_longo_01",
-    "firma": "Davide Longo",
+    "id": "matteo_galli_01",
+    "firma": "Matteo Galli",
     "sezione": "sport"
   },
   "published_at": "2026-04-05T07:48:08.737360+00:00",
   "image": {
-    "type": "unsplash",
-    "url": "https://images.unsplash.com/photo-1698079737207-fae37c7417c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxUYWRlaiUyMFBvZ2FjYXJ8ZW58MHwwfHx8MTc3NTM4MzkxMXww&ixlib=rb-4.1.0&q=80&w=1080",
-    "source": "Unsplash",
-    "credit": "Ozicab Racing",
-    "license": "Unsplash License"
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/31764046/pexels-photo-31764046.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Ozan Yavuz",
+    "license": "Pexels License"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Ciclismo: Pogacar sfida van der Poel nel Giro delle Fiandre il 5 aprile 2026\",\n  \"description\": \"Tadej Pogacar, il ciclista sloveno campione del mondo, sfiderà il connazionale Mathieu van der Poel nel Giro delle Fiandre, seconda Classica Monumento della stagione. La gara si svolgerà domenica 5 aprile 2026.\",\n  \"articleBody\": \"Tadej Pogacar, il ciclista sloveno campione del mondo, sfiderà il connazionale Mathieu van der Poel nel Giro delle Fiandre, seconda Classica Monumento della stagione. La gara si svolgerà domenica 5 aprile 2026. Regioni delle Fiandre belghe e del Brabante. La gara è nota per le sue asperità e le condizioni meteorologiche avverse, che mettono alla prova i corridori fin dagli anni '20. Pogacar, 25 anni, è uno dei favoriti per la vittoria, avendo già vinto la Classica di San Sebastian nel 2023 e aver chiuso al secondo posto il Giro Di Lombardia dello stesso anno. Van der Poel, 24 anni, è un giovane talento olandese che ha già vinto numerose gare, tra cui la Parigi-Roubaix del 2022. La gara sarà trasmessa in diretta su Rai Sport e Sky Sport, con inizio previsto alle 13:00 del 5 aprile 2026. Il percorso sarà quello tradizionale, con una salita al Kemmelberg e una discesa verso la linea di arrivo a Oudenaarde. Il direttore sportivo della squadra di Pogacar, Ivan Basso, ha dichiarato: \\\"Tadej è pronto per la vittoria. Ha lavorato duramente per questa gara e credo che possa vincere\\\". Il direttore sportivo della squadra di Pogacar, Ivan Basso, ha dichiarato: \\\"Tadej è pronto per la vittoria. Ha lavorato duramente per questa gara e credo che possa vincere\\\".\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Davide Longo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-05T07:48:08.737360+00:00\",\n  \"dateModified\": \"2026-04-05T07:48:08.737360+00:00\",\n  \"url\": \"https://lentemattutina.it/sport/0fac622441d4959f\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/sport/0fac622441d4959f\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1698079737207-fae37c7417c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxUYWRlaiUyMFBvZ2FjYXJ8ZW58MHwwfHx8MTc3NTM4MzkxMXww&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Ozicab Racing\"\n  }\n}",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"TADEJ POGACAR SFIDA MATHIEU VAN DER POEL NEL GIRO DELLE FIANDRE\",\n  \"description\": \"Tadej Pogacar, il campione del mondo sloveno, sfiderà il connazionale Mathieu van der Poel nel Giro delle Fiandre il 5 aprile 2026. l'evento si terrà il 5 aprile 2026 in Belgio.\",\n  \"articleBody\": \"Tadej Pogacar, il campione del mondo sloveno, sfiderà il connazionale Mathieu van der Poel nel Giro delle Fiandre il 5 aprile 2026. l'evento si terrà il 5 aprile 2026 in Belgio. Il Giro delle Fiandre è uno degli eventi più importanti del calendario ciclistico, noto per le sue difficili e tecniche piste. Pogacar, 24 anni, è già campione del mondo dal 2023 e si è imposto anche nel Giro d'Italia del 2024. Van der Poel, connazionale di Pogacar, è un ciclista esperto che ha già vinto numerosi eventi importanti, tra cui la Parigi-Roubaix del 2022.\\n\\nSecondo la fonte, \\\"Pogačar è pronto a sfidare van der Poel nel Giro delle Fiandre, dopo aver vinto il titolo Mondiale nel 2023. 'Sono molto fiducioso nelle mie abilità e sono pronto a dare il massimo per vincere' ha dichiarato Pogacar. Van der Poel ha avuto problemi in alcune delle sue ultime gare, ma è comunque un concorrente formidabile e non bisogna dimenticare che è già Stato vincitore di questa gara nel 2019\\\".\\n\\nIl Giro delle Fiandre si terrà il 5 aprile 2026 e sarà un evento molto importante per entrambi i ciclisti. Tadej Pogacar è un ciclista noto nel mondo del ciclismo, dopo aver vinto il titolo Mondiale nel 2023 e il Giro d'Italia nel 2024. La sua abilità e la sua determinazione lo rendono uno dei principali candidati alla vittoria. Van der Poel è un ciclista esperto con una lunga storia di successi, tra cui la vittoria della Parigi-Roubaix del 2022.\\n\\nIl Giro delle Fiandre è un evento molto importante per i ciclisti e per il pubblico, e la sfida tra Pogacar e van der Poel sarà sicuramente un momento emozionante. La gara si terrà in Belgio e sarà seguita da milioni di spettatori.\\n\\nLa vera vittoria sarà solo per uno dei due, ma il vero perdente sarà il pubblico. Il vero vincitore sarà solo uno dei due, ma il vero perdeditore sarà il pubblico che sarà costretto a pagare per vedere la gara, anche se non avrà il diritto di entrare nello stadio.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Matteo Galli\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-05T07:48:08.737360+00:00\",\n  \"dateModified\": \"2026-04-05T07:48:08.737360+00:00\",\n  \"url\": \"https://lentemattutina.it/sport/0fac622441d4959f\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/sport/0fac622441d4959f\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/31764046/pexels-photo-31764046.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Ozan Yavuz\"\n  }\n}",
   "priority": 5,
   "source": "refresh",
   "source_type": "refresh",
   "original_url": "https://lentemattutina.it/sport/ciclismo-pogacar-sfida-van-der-poel-0fac622441d4959f",
   "related": [
+    {
+      "title": "Treviso vince la sfida",
+      "url": "/sport/basket-treviso-batte-tortona-91-86-quinta-vittoria-a62ee633e81a2444",
+      "id": "a62ee633e81a2444",
+      "image_url": "https://images.unsplash.com/photo-1618896354328-a7f9bc9e444e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxiYXNrZXRiYWxsJTIwY291cnQlMjBJdGFseXxlbnwwfDB8fHwxNzc1NDExOTg2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
     {
       "title": "Ciclismo: Pogačar si impegna al massimo per vittoria al Giro d'Italia 2026",
       "url": "/sport/tadej-pogacar-campione-del-mondo-e-vincitore-della-26257792b29df7f8",
@@ -40,18 +47,11 @@
       "image_type": "flickr"
     },
     {
-      "title": "Giovanni Malagò nuovo presidente FIGC: la nomina a Roma il 4 aprile 2026",
-      "url": "/sport/simonelli-punta-su-malago-per-guidare-la-figc-dopo-17dd67a79c1fdb79",
-      "id": "17dd67a79c1fdb79",
-      "image_url": "https://images.unsplash.com/photo-1668660713213-5a3675b0c2ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxSb21lJTIwc3BvcnRzJTIwZXZlbnR8ZW58MHwwfHx8MTc3NTM2NjU0MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "title": "Pogačar vince il tour of flanders con 1'42” di vantaggio a roubaix",
+      "url": "/sport/ciclismo-pogacar-vince-il-tour-of-flanders-con-142-fb4d087d380252a7",
+      "id": "fb4d087d380252a7",
+      "image_url": "https://images.unsplash.com/photo-1753516187338-1de34bcca197?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxUb3VyJTIwb2YlMjBGbGFuZGVycyUyMGN5Y2xpbmclMjByYWNlJTIwY29iYmxlc3RvbmVzfGVufDB8MHx8fDE3NzU0MTI2OTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "image_type": "unsplash"
-    },
-    {
-      "title": "Calcio: Sassuolo-Cagliari il 4 aprile a Reggio Emilia, Orsato arbitrerà dopo i cambi",
-      "url": "/sport/calcio-sassuolo-cagliari-sabato-ec3cbe4c38650a18",
-      "id": "ec3cbe4c38650a18",
-      "image_url": "https://live.staticflickr.com/65535/55187256813_dc79c9a7d7_b.jpg",
-      "image_type": "flickr"
     }
   ],
   "updated_at": "2026-04-05T07:48:08.737360+00:00"
