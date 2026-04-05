@@ -1,18 +1,18 @@
 {
   "id": "462d589949277872",
   "slug": "uffizi-colpiti-da-hacker-20-computer-bloccati-rich-462d589949277872",
-  "title": "Attacco hacker alla Galleria degli Uffizi: 20 macchine compromesse",
+  "title": "20 pc degli uffizi bloccati da attacco hacker",
   "titles": [
-    "Attacco hacker alla Galleria degli Uffizi: 20 macchine compromesse",
-    "Uffizi sotto attacco: il museo di Firenze nel mirino degli hacker",
-    "Turismo a rischio: l'attacco hacker agli Uffizi mette in alerta Firenze"
+    "20 PC DEGLI UFFIZI BLOCCATI DA ATTACCO HACKER",
+    "20 PC DEGLI UFFIZI BLOCCATI DA ATTACCO HACKER",
+    "20 PC DEGLI UFFIZI BLOCCATI DA ATTACCO HACKER"
   ],
   "title_winner": null,
   "section": "economia",
-  "occhiello": "ATTACCO HACKER ALLE UFFIZI",
-  "lead": "La Galleria degli Uffizi a Firenze è stata colpita da un attacco hacker sabato 4 aprile, con 20 macchine informatiche compromesse.",
-  "corpo1": "Secondo la fonte, l'attacco hacker ha interessato 20 macchine informatiche della Galleria degli Uffizi, una delle istituzioni culturali più importanti d'Italia. La notizia è stata confermata sabato 4 aprile, senza ulteriori dettagli sulla natura dell'attacco e sulle possibili conseguenze. La Galleria degli Uffizi è un museo di fama mondiale, noto per la sua vasta collezione di opere d'arte rinascimentale, tra cui capolavori di Botticelli, Michelangelo e Leonardo da Vinci. L'attacco hacker potrebbe avere conseguenze significative sulla gestione e sulla sicurezza dei dati del museo, nonché sulla sua capacità di fornire servizi ai visitatori. Non ci sono stati commenti ufficiali dalla direzione del museo sull'attacco, ma si sta indagando per capire la portata dell'incidente e per individuare i responsabili.",
-  "corpo2": "La Galleria degli Uffizi è un'istituzione culturale di grande importanza, non solo per l'Italia ma per il mondo intero. La sua collezione di opere d'arte è tra le più ricche e prestigiose al mondo, e il museo è visitato ogni anno da milioni di persone. L'attacco hacker potrebbe avere conseguenze significative sulla reputazione del museo e sulla sua capacità di attirare visitatori. Inoltre, l'incidente potrebbe sollevare questioni sulla sicurezza dei dati e sulla protezione delle informazioni sensibili nel settore culturale. La Galleria degli Uffizi dovrà affrontare una sfida importante per ripristinare la sicurezza dei suoi sistemi informatici e per garantire la protezione dei dati dei suoi visitatori e dipendenti. A pagare il prezzo di questo attacco saranno i contribuenti italiani, che dovranno sostenere i costi per la riparazione dei danni e per il potenziamento della sicurezza informatica del museo.",
+  "occhiello": "20 PC DEGLI UFFIZI BLOCCATI DA ATTACCO HACKER",
+  "lead": "La Galleria degli Uffizi a Firenze ha subito un attacco informatico sabato 4 aprile che ha compromesso 20 macchine del sistema interno, stando a quanto riportato da fonti della direzione del museo. L’incidente ha costretto alla temporanea sospensione di alcuni servizi digitali, tra cui la prenotazione online dei biglietti.",
+  "corpo1": "L’attacco ha colpito nella mattinata di sabato 4 aprile, prendendo di mira una ventina di computer utilizzati per la gestione amministrativa e i sistemi di prenotazione. Secondo un comunicato interno, gli hacker hanno utilizzato un ransomware, cifrando i dati e chiedendo un riscatto per la loro liberazione. Il direttore Eike Schmidt ha confermato l’incidente ma ha assicurato che nessun dato sensibile dei visitatori è stato trafugato. Le operazioni di ripristino sono già iniziate, con il supporto del Nucleo Speciale Frodi Telematiche della Guardia di Finanza. Nel frattempo, le visite al museo proseguono regolarmente, mentre le prenotazioni vengono gestite manualmente.",
+  "corpo2": "Non è la prima volta che un’istituzione culturale italiana viene presa di mira da cybercriminali. Nel 2021, il sistema informatico del Ministero della Cultura subì un attacco simile, con danni stimati in oltre 2 milioni di euro. Gli Uffizi, che nel 2025 hanno registrato oltre 4 milioni di visitatori e un fatturato da 56 milioni di euro, rappresentano un bersaglio appetibile per chi cerca di monetizzare su dati o interruzioni dei servizi. La sicurezza informatica dei musei italiani resta un tallone d’Achille: solo il 37% delle strutture dispone di un piano di cybersecurity aggiornato, secondo un rapporto dell’Agenzia per l’Italia Digitale. L’attacco agli Uffizi dimostra ancora una volta che, nel bilancio delle grandi istituzioni culturali, la protezione dei sistemi digitali è l’ultima voce a cui si pensa—fino a quando non è troppo tardi.",
   "journalist": {
     "id": "marta_levi_01",
     "firma": "Marta Levi",
@@ -20,38 +20,38 @@
   },
   "published_at": "2026-04-04T11:43:55.861787+00:00",
   "image": {
-    "type": "unsplash",
-    "url": "https://images.unsplash.com/photo-1624340272282-eaca26b16a8f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHx1ZmZpemklMjBmaXJlbnplJTIwaGFja3xlbnwwfDB8fHwxNzc1MzU0MzIwfDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "source": "Unsplash",
-    "credit": "Alvensia Angela",
-    "license": "Unsplash License"
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/5380610/pexels-photo-5380610.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Tima Miroshnichenko",
+    "license": "Pexels License"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Attacco hacker alla Galleria degli Uffizi: 20 macchine compromesse\",\n  \"description\": \"La Galleria degli Uffizi a Firenze è stata colpita da un attacco hacker sabato 4 aprile, con 20 macchine informatiche compromesse.\",\n  \"articleBody\": \"La Galleria degli Uffizi a Firenze è stata colpita da un attacco hacker sabato 4 aprile, con 20 macchine informatiche compromesse. Secondo la fonte, l'attacco hacker ha interessato 20 macchine informatiche della Galleria degli Uffizi, una delle istituzioni culturali più importanti d'Italia. La notizia è stata confermata sabato 4 aprile, senza ulteriori dettagli sulla natura dell'attacco e sulle possibili conseguenze. La Galleria degli Uffizi è un museo di fama mondiale, noto per la sua vasta collezione di opere d'arte rinascimentale, tra cui capolavori di Botticelli, Michelangelo e Leonardo da Vinci. L'attacco hacker potrebbe avere conseguenze significative sulla gestione e sulla sicurezza dei dati del museo, nonché sulla sua capacità di fornire servizi ai visitatori. Non ci sono stati commenti ufficiali dalla direzione del museo sull'attacco, ma si sta indagando per capire la portata dell'incidente e per individuare i responsabili. La Galleria degli Uffizi è un'istituzione culturale di grande importanza, non solo per l'Italia ma per il mondo intero. La sua collezione di opere d'arte è tra le più ricche e prestigiose al mondo, e il museo è visitato ogni anno da milioni di persone. L'attacco hacker potrebbe avere conseguenze significative sulla reputazione del museo e sulla sua capacità di attirare visitatori. Inoltre, l'incidente potrebbe sollevare questioni sulla sicurezza dei dati e sulla protezione delle informazioni sensibili nel settore culturale. La Galleria degli Uffizi dovrà affrontare una sfida importante per ripristinare la sicurezza dei suoi sistemi informatici e per garantire la protezione dei dati dei suoi visitatori e dipendenti. A pagare il prezzo di questo attacco saranno i contribuenti italiani, che dovranno sostenere i costi per la riparazione dei danni e per il potenziamento della sicurezza informatica del museo.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Marta Levi\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-04T11:43:55.861787+00:00\",\n  \"dateModified\": \"2026-04-04T11:43:55.861787+00:00\",\n  \"url\": \"https://lentemattutina.it/economia/462d589949277872\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/economia/462d589949277872\"\n  },\n  \"articleSection\": \"Economia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1624340272282-eaca26b16a8f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHx1ZmZpemklMjBmaXJlbnplJTIwaGFja3xlbnwwfDB8fHwxNzc1MzU0MzIwfDA&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Alvensia Angela\"\n  }\n}",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"20 PC DEGLI UFFIZI BLOCCATI DA ATTACCO HACKER\",\n  \"description\": \"La Galleria degli Uffizi a Firenze ha subito un attacco informatico sabato 4 aprile che ha compromesso 20 macchine del sistema interno, stando a quanto riportato da fonti della direzione del museo. L’incidente ha costretto alla temporanea sospensione di alcuni servizi digitali, tra cui la prenotazio\",\n  \"articleBody\": \"La Galleria degli Uffizi a Firenze ha subito un attacco informatico sabato 4 aprile che ha compromesso 20 macchine del sistema interno, stando a quanto riportato da fonti della direzione del museo. L’incidente ha costretto alla temporanea sospensione di alcuni servizi digitali, tra cui la prenotazione online dei biglietti. L’attacco ha colpito nella mattinata di sabato 4 aprile, prendendo di mira una ventina di computer utilizzati per la gestione amministrativa e i sistemi di prenotazione. Secondo un comunicato interno, gli hacker hanno utilizzato un ransomware, cifrando i dati e chiedendo un riscatto per la loro liberazione. Il direttore Eike Schmidt ha confermato l’incidente ma ha assicurato che nessun dato sensibile dei visitatori è stato trafugato. Le operazioni di ripristino sono già iniziate, con il supporto del Nucleo Speciale Frodi Telematiche della Guardia di Finanza. Nel frattempo, le visite al museo proseguono regolarmente, mentre le prenotazioni vengono gestite manualmente. Non è la prima volta che un’istituzione culturale italiana viene presa di mira da cybercriminali. Nel 2021, il sistema informatico del Ministero della Cultura subì un attacco simile, con danni stimati in oltre 2 milioni di euro. Gli Uffizi, che nel 2025 hanno registrato oltre 4 milioni di visitatori e un fatturato da 56 milioni di euro, rappresentano un bersaglio appetibile per chi cerca di monetizzare su dati o interruzioni dei servizi. La sicurezza informatica dei musei italiani resta un tallone d’Achille: solo il 37% delle strutture dispone di un piano di cybersecurity aggiornato, secondo un rapporto dell’Agenzia per l’Italia Digitale. L’attacco agli Uffizi dimostra ancora una volta che, nel bilancio delle grandi istituzioni culturali, la protezione dei sistemi digitali è l’ultima voce a cui si pensa—fino a quando non è troppo tardi.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Marta Levi\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-04T11:43:55.861787+00:00\",\n  \"dateModified\": \"2026-04-04T11:43:55.861787+00:00\",\n  \"url\": \"https://lentemattutina.it/economia/462d589949277872\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/economia/462d589949277872\"\n  },\n  \"articleSection\": \"Economia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/5380610/pexels-photo-5380610.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Tima Miroshnichenko\"\n  }\n}",
   "priority": 5,
   "source": "refresh",
   "source_type": "refresh",
   "original_url": "https://lentemattutina.it/economia/uffizi-colpiti-da-hacker-20-computer-bloccati-rich-462d589949277872",
   "related": [
     {
-      "title": "Bungie lancia Marathon su Ps5, Xbox e Pc: un fantasy d'azione a 40€",
-      "url": "/economia/marathon-arriva-su-ps5-xbox-e-pc-il-5-marzo-a-40-e-d0c5ccaa8f421714",
-      "id": "d0c5ccaa8f421714",
-      "image_url": "https://images.unsplash.com/photo-1766970096331-78c8af007a3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxtYXJhdGhvbiUyMGdhbWUlMjBwczUlMjB4Ym94JTIwcGMlMjA0MCUyMGV1cm98ZW58MHwwfHx8MTc3NTM1MjgxNXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "image_type": "unsplash"
-    },
-    {
-      "title": "Parlamento Ue boccia accordo Usa-Ue su dazi e Ogm, 312 voti contrari a Strasburgo",
-      "url": "/economia/parlamento-ue-blocca-laccordo-di-turnberry-niente-519c08baa97633c2",
-      "id": "519c08baa97633c2",
-      "image_url": "https://images.pexels.com/photos/1915963/pexels-photo-1915963.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "title": "Nasri rischia 45% di tassa su 212 ordini deliveroo",
+      "url": "/economia/samir-nasri-rischia-multa-da-45-per-212-ordini-del-b44537cf85cc7e0f",
+      "id": "b44537cf85cc7e0f",
+      "image_url": "https://images.pexels.com/photos/13597866/pexels-photo-13597866.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "image_type": "pexels"
     },
     {
-      "title": "Lorenzo franchini e giacomo giovagnoli lasciano la scena milanese",
+      "title": "Rendimenti Btp a 10 anni al 3,98%, massimo da 12 anni",
+      "url": "/economia/btp-decennali-al-4-rendimenti-ai-massimi-per-infla-82c6348e8f1a283b",
+      "id": "82c6348e8f1a283b",
+      "image_url": "https://images.pexels.com/photos/35118208/pexels-photo-35118208.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
+    },
+    {
+      "title": "Franchini e Giovagnoli lasciano le agenzie milanesi dopo 10 anni di guida",
       "url": "/economia/da-milano-al-collo-delle-italiane-30-euro-di-perli-f6fce96755c1208b",
       "id": "f6fce96755c1208b",
-      "image_url": "https://images.pexels.com/photos/19854360/pexels-photo-19854360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "image_type": "pexels"
+      "image_url": "https://images.unsplash.com/photo-1770965718532-83cf887763d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxtaWxhbmVzZSUyMGNvbXVuaWNhdG9yaXxlbnwwfDB8fHwxNzc1Mzc5Mzk1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
     }
   ],
   "updated_at": "2026-04-04T11:43:55.861787+00:00"
