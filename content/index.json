@@ -1,5 +1,22 @@
 [
   {
+    "id": "8b1701b39c482b42",
+    "slug": "allevi-cancro-al-sangue-8b1701b39c482b42",
+    "title": "Giovanni Allevi, diagnosi mieloma multiplo: la malattia del sangue",
+    "section": "salute",
+    "priority": 5,
+    "journalist_firma": "Francesca Nardi",
+    "published_at": "2026-04-05T07:34:22.384064+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/12203156/pexels-photo-12203156.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "ALLEVI RIVELA IL MIELOMA",
+    "lead_preview": "Giovanni Allevi, il famoso pianista e compositore italiano, ha annunciato la sua diagnosi di mieloma multiplo, un tumore",
+    "tags": [
+      "giovanni allevi",
+      "mieloma multiplo"
+    ]
+  },
+  {
     "id": "0bc5e5000549c6c1",
     "slug": "calcio-sky-esclusiva-champions-0bc5e5000549c6c1",
     "title": "Sky e la champions league, esclusiva tv inizia oggi",
@@ -2049,20 +2066,6 @@
       "serge papin",
       "francia 2026"
     ]
-  },
-  {
-    "id": "8b1701b39c482b42",
-    "slug": "allevi-cancro-al-sangue-8b1701b39c482b42",
-    "title": "Allevi rivela il mieloma: \"una battaglia più grande di me\"",
-    "section": "salute",
-    "priority": 5,
-    "journalist_firma": "Luca Tosi",
-    "published_at": "2026-04-05T07:34:22.384064+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/19146694/pexels-photo-19146694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "ALLEVI RIVELA IL MIELOMA: \"UNA BATTAGLIA PIÙ GRANDE DI ME\"",
-    "lead_preview": "Giovanni Allevi ha annunciato il 5 aprile 2026 la diagnosi di mieloma multiplo, un tumore del sangue particolarmente agg",
-    "tags": []
   },
   {
     "id": "35d89399e74a7ec4",
