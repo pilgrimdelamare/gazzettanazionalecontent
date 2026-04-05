@@ -1,5 +1,22 @@
 [
   {
+    "id": "baaa570b1b18c55d",
+    "slug": "xingu-cucciolo-di-giaguaro-nato-in-brasile-baaa570b1b18c55d",
+    "title": "Xingu, cucciolo di giaguaro nato in Brasile",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-05T15:44:30.476462+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/1/22/c8383d48f7bd3f45cb00e6d03f4eab3c.jpg",
+    "occhiello": "XINGU, IL CUCCIOLO DI GIAGUARO CHE IMITA IL CORSO DEL FIUME",
+    "lead_preview": "Xingu, il cucciolo di giaguaro nato il 5 aprile 2026 in Brasile, ha battesimo popolare nel Parco Indigeno dello Xingu. S",
+    "tags": [
+      "xingu",
+      "giaguaro brasiliano"
+    ]
+  },
+  {
     "id": "0bc5e5000549c6c1",
     "slug": "calcio-sky-esclusiva-champions-0bc5e5000549c6c1",
     "title": "Calcio: Sky esclusiva Champions",
@@ -8694,24 +8711,6 @@
       "cancellazione france musique",
       "patricia schlesinger",
       "voto azionisti radio france"
-    ]
-  },
-  {
-    "id": "0eddee59e79b3285",
-    "slug": "jamila-26enne-12-mesi-di-inferno-dopo-la-mastoplas-0eddee59e79b3285",
-    "title": "26enne in lotta con ospedale dopo mastoplastica esplosa",
-    "section": "salute",
-    "priority": 5,
-    "journalist_firma": "Luca Tosi",
-    "published_at": "2026-04-01T08:55:54.962933+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1559375372-60966049577d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxtYXN0b3BsYXN0aWNhJTIwZGlmZXR0b3NhfGVufDB8MHx8fDE3NzUwOTM2NzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "Jamilia 26enne: 12 mesi di inferno dopo la mastoplastica",
-    "lead_preview": "Jamila Chierichetti, 26 anni, ha trascorso dodici mesi di dolore e paura dopo una mastoplastica additiva eseguita nel 20",
-    "tags": [
-      "mastoplastica esplosa",
-      "ospedale",
-      "caso chierichetti"
     ]
   }
 ]
