@@ -1,5 +1,22 @@
 [
   {
+    "id": "1cf247c9cdbc78b1",
+    "slug": "israele-colpisce-impianti-petrolchimici-in-iran-co-1cf247c9cdbc78b1",
+    "title": "Netanyahu colpisce Iran",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-04T20:01:02.623748+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1578310723108-03b6882e8e77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxCZW5qYW1pbiUyME5ldGFueWFodSUyMElyYW4lMjBhdHRhY2t8ZW58MHwwfHx8MTc3NTQwNDE5MXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "ISRAELE COLPISCE IMPIANTI OIL IRANIANI",
+    "lead_preview": "Benjamin Netanyahu, il primo ministro di Israele, ha dichiarato l'attacco a impianti petrolchimici iraniani a Bandar Ima",
+    "tags": [
+      "attacco iran",
+      "netanyahu iran"
+    ]
+  },
+  {
     "id": "da70c48d46d4205d",
     "slug": "calcio-luca-dangelo-annuncia-in-panchina-nonostant-da70c48d46d4205d",
     "title": "Calcio: Luca D'Angelo annuncia in panchina nonostante prestazioni al di sotto",
@@ -1898,20 +1915,6 @@
     "tags": [
       "arresto londra"
     ]
-  },
-  {
-    "id": "1cf247c9cdbc78b1",
-    "slug": "israele-colpisce-impianti-petrolchimici-in-iran-co-1cf247c9cdbc78b1",
-    "title": "Israele colpisce l'iran",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-04T20:01:02.623748+00:00",
-    "image_type": "ddg_image",
-    "image_url": "http://globalsecurity.org/military/world/iran/images/bandar-e-khomeini-image01.jpg",
-    "occhiello": "ISRAELE COLPISCE L'IRAN",
-    "lead_preview": "Benjamin Netanyahu, primo ministro di Israele, ha annunciato l'attacco a impianti petrolchimici iraniani a Bandar Imam e",
-    "tags": []
   },
   {
     "id": "2ce676e2ed46e363",
