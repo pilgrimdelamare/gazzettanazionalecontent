@@ -1,5 +1,23 @@
 [
   {
+    "id": "1ec139ebc68240b0",
+    "slug": "32-migranti-tratti-in-salvo-e-2-corpi-recuperati-a-1ec139ebc68240b0",
+    "title": "32 migranti tratti in salvo e 2 corpi recuperati al largo della Libia, nave italiana a Lampedusa",
+    "section": "societa",
+    "priority": 6,
+    "journalist_firma": "Marco Sala",
+    "published_at": "2026-04-05T09:51:24.804389+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/1/2a8d4d3b6a88d53e32fb5519faaa701b.jpg",
+    "occhiello": "",
+    "lead_preview": "Lampedusa, 5 apr 2026 — trentadue migranti sono stati tratti in salvo e due corpi recuperati dopo un naufragio avvenuto ",
+    "tags": [
+      "naufragio libia",
+      "migranti lampedusa",
+      "soccorso mare"
+    ]
+  },
+  {
     "id": "06a51791d028bf3b",
     "slug": "calcio-shevchenko-solo-linter-puo-perdere-lo-scude-06a51791d028bf3b",
     "title": "Calcio: Shevchenko, solo l'Inter può perdere lo scudetto",
@@ -8666,19 +8684,5 @@
       "comportamenti turistici",
       "studio radical storage"
     ]
-  },
-  {
-    "id": "65d8ca6d4f83de9d",
-    "slug": "zampolli-chiede-5-milioni-a-fedez-e-mr-marra-per-d-65d8ca6d4f83de9d",
-    "title": "Zampolli querela Fedez e Mr. Marra: 5 milioni per diffamazione",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Chiara Esposito",
-    "published_at": "2026-03-31T08:54:40.445972+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1731594700577-3ef49b4c20c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxpdGFsaWFuJTIwcG9kY2FzdCUyMGhvc3RzJTIwZGVmYW1hdGlvbiUyMGNhc2V8ZW58MHwwfHx8MTc3NTAzMzI2NHww&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "PAOLO ZAMPOLLI CHIEDE 5 MILIARDI A FEDEZ E MR. MARRA PER DIFFAMAZIONE",
-    "lead_preview": "Paolo Zampolli, imprenditore italoamericano e stretto collaboratore di Donald Trump, ha presentato una querela per diffa",
-    "tags": []
   }
 ]
