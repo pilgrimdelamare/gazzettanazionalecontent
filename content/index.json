@@ -1,5 +1,23 @@
 [
   {
+    "id": "baaa570b1b18c55d",
+    "slug": "xingu-cucciolo-di-giaguaro-nato-in-brasile-baaa570b1b18c55d",
+    "title": "Nato Xingu, il cucciolo di giaguaro nel Parco Indigeno dello Xingu",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-05T15:44:30.476462+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/29150072/pexels-photo-29150072.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "XINGU, CUCCIOLO DI GIAGUARO NATO IN BRASILE",
+    "lead_preview": "Il 5 aprile 2026, a Pará, è nato Xingu, il cucciolo di giaguaro, nel Parco Indigeno dello Xingu. La nascita del piccolo ",
+    "tags": [
+      "xingu",
+      "cucciolo giaguaro",
+      "parco indigeno xingu"
+    ]
+  },
+  {
     "id": "da70c48d46d4205d",
     "slug": "calcio-luca-dangelo-annuncia-in-panchina-nonostant-da70c48d46d4205d",
     "title": "Calcio: Pisa conferma D'Angelo in panchina contro il Torino dopo 12 partite senza vittorie",
@@ -588,23 +606,6 @@
     "tags": [
       "attacco iran",
       "netanyahu iran"
-    ]
-  },
-  {
-    "id": "baaa570b1b18c55d",
-    "slug": "xingu-cucciolo-di-giaguaro-nato-in-brasile-baaa570b1b18c55d",
-    "title": "Xingu, cucciolo di giaguaro nato in Brasile",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-05T15:44:30.476462+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/1/22/c8383d48f7bd3f45cb00e6d03f4eab3c.jpg",
-    "occhiello": "XINGU, IL CUCCIOLO DI GIAGUARO CHE IMITA IL CORSO DEL FIUME",
-    "lead_preview": "Xingu, il cucciolo di giaguaro nato il 5 aprile 2026 in Brasile, ha battesimo popolare nel Parco Indigeno dello Xingu. S",
-    "tags": [
-      "xingu",
-      "giaguaro brasiliano"
     ]
   },
   {
