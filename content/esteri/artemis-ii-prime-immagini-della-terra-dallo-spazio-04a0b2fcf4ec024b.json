@@ -1,18 +1,18 @@
 {
   "id": "04a0b2fcf4ec024b",
   "slug": "artemis-ii-prime-immagini-della-terra-dallo-spazio-04a0b2fcf4ec024b",
-  "title": "Reid Wiseman pubblica prime foto Terra da 38.000 km",
+  "title": "Reid Wiseman cattura immagini della Terra da Artemis ii",
   "titles": [
-    "Reid Wiseman pubblica prime foto Terra da 38.000 km",
-    "La Luna ripresa dal cuore dell'esplorazione spaziale",
-    "Raggiunta velocità record in missione spaziale trans-lunare"
+    "Reid Wiseman cattura immagini della Terra da Artemis ii",
+    "Big Photo: Reid Wiseman vede la Terra da 38 miliardi di chilometri",
+    "Cosa si vedì da Reid Wiseman durante Artemis II?"
   ],
   "title_winner": null,
   "section": "esteri",
-  "occhiello": "PRIME FOTO DELLA TERRA DA 38.000 KM",
-  "lead": "Reid Wiseman, comandante della missione Artemis II, ha pubblicato le prime immagini della Terra scattate da 38.000 chilometri di distanza, un vero e proprio colpo di scena per l'esplorazione spaziale. La missione è partita il 23 marzo 2026 e si è diretta verso la Luna.",
-  "corpo1": "La missione Artemis II è una delle prime missioni spaziali umane dirette verso la Luna dopo il programma Apollo, un passo importante per l'esplorazione spaziale umana. Il comandante Reid Wiseman ha pubblicato sul suo account Twitter le prime immagini della Terra scattate da 38.000 chilometri di distanza. Le immagini mostrano la Terra in un modo mai visto prima, con i continenti e gli oceani ben visibili. La missione è stata lanciata il 23 marzo 2026 e si è diretta verso la Luna, un passo importante per l'esplorazione spaziale umana. Il team di astronauti a bordo della capsula Orion ha trascorso 10 giorni in volo spaziale prima di tornare sulla Terra il 2 aprile 2026, un vero record per l'esplorazione spaziale. La missione ha raggiunto una velocità di 40.000 chilometri orari e ha percorso una distanza di oltre 1,5 milioni di chilometri, un vero record per l'esplorazione spaziale. Le immagini pubblicate da Reid Wiseman sono state scattate utilizzando un apparato fotografico speciale che ha permesso di captare la luce del Sole e di scattare foto della Terra in condizioni di illuminazione estremamente difficili.",
-  "corpo2": "Reid Wiseman è un astronauta americano che ha trascorso oltre 1.000 ore in volo spaziale durante le sue missioni precedenti, un vero professionista dell'esplorazione spaziale. La missione Artemis II è la sua prima volta come comandante di una missione spaziale umana. La missione è stata lanciata con il sostegno della NASA e dell'agenzia spaziale europea (ESA). La missione ha raggiunto un obiettivo importante per l'esplorazione spaziale umana, dimostrando che è possibile raggiungere la Luna con una capsula spaziale Orion, un vero passo avanti per l'esplorazione spaziale. La missione ha anche aperto nuove prospettive per l'esplorazione spaziale umana, mostrando che è possibile raggiungere destinazioni più lontane nello spazio. A pagare saranno i contribuenti che finanzieranno ulteriori missioni spaziali, come sempre.",
+  "occhiello": "REID WISEMAN PUBBLICA PRIME FOTO DELLA TERRA",
+  "lead": "Reid Wiseman, comandante della missione Artemis ii, ha pubblicato le prime immagini della Terra scattate da 38.000 chilometri di distanza.",
+  "corpo1": "Secondo le informazioni disponibili, Reid Wiseman ha condiviso queste immagini durante la missione Artemis ii, la prima missione con equipaggio che sorvola la luna dal 1972. Wiseman è un astronauta e un aviatore navale americano che ha ricoperto il ruolo di capo dell'ufficio degli astronauti fino al 14 novembre 2022. La missione Artemis ii è un importante passo avanti nella esplorazione dello spazio e queste immagini rappresentano un momento storico per la scienza e la tecnologia. Le immagini scattate da Wiseman mostrano La Terra in tutta la sua bellezza, con i suoi oceani, continenti e atmosfera. La Terra, come noto, è il terzo pianeta in ordine di distanza dal Sole e il più grande tra i pianeti terrestri del sistema solare, per massa e dimensioni. La sua superficie è caratterizzata dalla presenza di acqua in tutti e tre gli stati di aggregazione e da un'atmosfera composta principalmente da azoto e ossigeno, che protegge la biosfera dai raggi cosmici e dalle radiazioni solari.",
+  "corpo2": "Reid Wiseman è un figura di spicco nella comunità scientifica e la sua esperienza come capo dell'ufficio degli astronauti gli ha permesso di guidare la missione Artemis ii con successo. La pubblicazione delle immagini della Terra scattate da 38.000 chilometri di distanza rappresenta un importante traguardo per la missione e un passo avanti nella comprensione del nostro pianeta e dell'universo. La missione Artemis ii è anche un esempio di come la tecnologia e la scienza possano lavorare insieme per raggiungere obiettivi ambiziosi. Il fatto che queste immagini siano state scattate da un astronauta che ha trascorso anni a studiare e prepararsi per questa missione, dimostra che il successo non è solo il risultato di una buona tecnologia, ma anche di una grande dedizione e passione. E alla fine, è proprio questa dedizione e passione che renderanno possibile l'esplorazione dello spazio e la scoperta di nuovi mondi, e non solo le immagini della Terra scattate da 38.000 chilometri di distanza.",
   "journalist": {
     "id": "fabrizio_mei_01",
     "firma": "Fabrizio Mei",
@@ -20,38 +20,38 @@
   },
   "published_at": "2026-04-04T05:07:27.095848+00:00",
   "image": {
-    "type": "unsplash",
-    "url": "https://images.unsplash.com/photo-1614730321146-b6fa6a46bcb4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxlYXJ0aCUyMGZyb20lMjBzcGFjZXxlbnwwfDB8fHwxNzc1MzE3NzM5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "source": "Unsplash",
-    "credit": "NASA",
-    "license": "Unsplash License"
+    "type": "ddg_image",
+    "url": "https://www.nasa.gov/wp-content/uploads/2020/12/wiseman_chief_astronaut_0.jpg",
+    "source": "Bing",
+    "credit": "Bing",
+    "license": "unknown"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Reid Wiseman pubblica prime foto Terra da 38.000 km\",\n  \"description\": \"Reid Wiseman, comandante della missione Artemis II, ha pubblicato le prime immagini della Terra scattate da 38.000 chilometri di distanza, un vero e proprio colpo di scena per l'esplorazione spaziale. La missione è partita il 23 marzo 2026 e si è diretta verso la Luna.\",\n  \"articleBody\": \"Reid Wiseman, comandante della missione Artemis II, ha pubblicato le prime immagini della Terra scattate da 38.000 chilometri di distanza, un vero e proprio colpo di scena per l'esplorazione spaziale. La missione è partita il 23 marzo 2026 e si è diretta verso la Luna. La missione Artemis II è una delle prime missioni spaziali umane dirette verso la Luna dopo il programma Apollo, un passo importante per l'esplorazione spaziale umana. Il comandante Reid Wiseman ha pubblicato sul suo account Twitter le prime immagini della Terra scattate da 38.000 chilometri di distanza. Le immagini mostrano la Terra in un modo mai visto prima, con i continenti e gli oceani ben visibili. La missione è stata lanciata il 23 marzo 2026 e si è diretta verso la Luna, un passo importante per l'esplorazione spaziale umana. Il team di astronauti a bordo della capsula Orion ha trascorso 10 giorni in volo spaziale prima di tornare sulla Terra il 2 aprile 2026, un vero record per l'esplorazione spaziale. La missione ha raggiunto una velocità di 40.000 chilometri orari e ha percorso una distanza di oltre 1,5 milioni di chilometri, un vero record per l'esplorazione spaziale. Le immagini pubblicate da Reid Wiseman sono state scattate utilizzando un apparato fotografico speciale che ha permesso di captare la luce del Sole e di scattare foto della Terra in condizioni di illuminazione estremamente difficili. Reid Wiseman è un astronauta americano che ha trascorso oltre 1.000 ore in volo spaziale durante le sue missioni precedenti, un vero professionista dell'esplorazione spaziale. La missione Artemis II è la sua prima volta come comandante di una missione spaziale umana. La missione è stata lanciata con il sostegno della NASA e dell'agenzia spaziale europea (ESA). La missione ha raggiunto un obiettivo importante per l'esplorazione spaziale umana, dimostrando che è possibile raggiungere la Luna con una capsula spaziale Orion, un vero passo avanti per l'esplorazione spaziale. La missione ha anche aperto nuove prospettive per l'esplorazione spaziale umana, mostrando che è possibile raggiungere destinazioni più lontane nello spazio. A pagare saranno i contribuenti che finanzieranno ulteriori missioni spaziali, come sempre.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Fabrizio Mei\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-04T05:07:27.095848+00:00\",\n  \"dateModified\": \"2026-04-04T05:07:27.095848+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/04a0b2fcf4ec024b\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/04a0b2fcf4ec024b\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1614730321146-b6fa6a46bcb4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxlYXJ0aCUyMGZyb20lMjBzcGFjZXxlbnwwfDB8fHwxNzc1MzE3NzM5fDA&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"NASA\"\n  }\n}",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Reid Wiseman cattura immagini della Terra da Artemis ii\",\n  \"description\": \"Reid Wiseman, comandante della missione Artemis ii, ha pubblicato le prime immagini della Terra scattate da 38.000 chilometri di distanza.\",\n  \"articleBody\": \"Reid Wiseman, comandante della missione Artemis ii, ha pubblicato le prime immagini della Terra scattate da 38.000 chilometri di distanza. Secondo le informazioni disponibili, Reid Wiseman ha condiviso queste immagini durante la missione Artemis ii, la prima missione con equipaggio che sorvola la luna dal 1972. Wiseman è un astronauta e un aviatore navale americano che ha ricoperto il ruolo di capo dell'ufficio degli astronauti fino al 14 novembre 2022. La missione Artemis ii è un importante passo avanti nella esplorazione dello spazio e queste immagini rappresentano un momento storico per la scienza e la tecnologia. Le immagini scattate da Wiseman mostrano La Terra in tutta la sua bellezza, con i suoi oceani, continenti e atmosfera. La Terra, come noto, è il terzo pianeta in ordine di distanza dal Sole e il più grande tra i pianeti terrestri del sistema solare, per massa e dimensioni. La sua superficie è caratterizzata dalla presenza di acqua in tutti e tre gli stati di aggregazione e da un'atmosfera composta principalmente da azoto e ossigeno, che protegge la biosfera dai raggi cosmici e dalle radiazioni solari. Reid Wiseman è un figura di spicco nella comunità scientifica e la sua esperienza come capo dell'ufficio degli astronauti gli ha permesso di guidare la missione Artemis ii con successo. La pubblicazione delle immagini della Terra scattate da 38.000 chilometri di distanza rappresenta un importante traguardo per la missione e un passo avanti nella comprensione del nostro pianeta e dell'universo. La missione Artemis ii è anche un esempio di come la tecnologia e la scienza possano lavorare insieme per raggiungere obiettivi ambiziosi. Il fatto che queste immagini siano state scattate da un astronauta che ha trascorso anni a studiare e prepararsi per questa missione, dimostra che il successo non è solo il risultato di una buona tecnologia, ma anche di una grande dedizione e passione. E alla fine, è proprio questa dedizione e passione che renderanno possibile l'esplorazione dello spazio e la scoperta di nuovi mondi, e non solo le immagini della Terra scattate da 38.000 chilometri di distanza.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Fabrizio Mei\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-04T05:07:27.095848+00:00\",\n  \"dateModified\": \"2026-04-04T05:07:27.095848+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/04a0b2fcf4ec024b\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/04a0b2fcf4ec024b\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.nasa.gov/wp-content/uploads/2020/12/wiseman_chief_astronaut_0.jpg\",\n    \"creditText\": \"Bing\"\n  }\n}",
   "priority": 5,
   "source": "refresh",
   "source_type": "refresh",
   "original_url": "https://lentemattutina.it/esteri/artemis-ii-prime-immagini-della-terra-dallo-spazio-04a0b2fcf4ec024b",
   "related": [
     {
-      "title": "Arrestati i parenti del gen. Soleimani, la Corte federale americana indaga",
-      "url": "/esteri/arrestati-i-parenti-del-gen-soleimani-la-corte-fed-51d2f6a195437047",
-      "id": "51d2f6a195437047",
-      "image_url": "https://www.ansa.it/webimages/img_1129x635/2020/6/29/43d35a2198f6d49167887576825a9757.jpg",
-      "image_type": "image"
-    },
-    {
-      "title": "Iran smente rifiuto colloqui a islamabad",
-      "url": "/esteri/iran-smentisce-rifiuto-colloqui-a-islamabad-posizi-767d3e41e335904b",
-      "id": "767d3e41e335904b",
-      "image_url": "https://images.unsplash.com/photo-1659260943552-386a67f7cf8b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxBcmFzaCUyMEFyYWdoY2hpfGVufDB8MHx8fDE3NzUzMTY5OTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "title": "Cruciale recupero del cucciolo di puma nel parco del grand teton",
+      "url": "/esteri/il-cucciolo-di-puma-che-fa-tremare-washington-22abd5890fd6d993",
+      "id": "22abd5890fd6d993",
+      "image_url": "https://images.unsplash.com/photo-1655980868066-027183c6f464?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHx3aWxkbGlmZSUyMGNvbnNlcnZhdGlvbnxlbnwwfDB8fHwxNzc1MzQ4Mzc2fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "image_type": "unsplash"
     },
     {
-      "title": "Proposta italiana bocciata",
-      "url": "/esteri/proposta-italiana-bocciata-d9725a4dad990814",
-      "id": "d9725a4dad990814",
-      "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/04/Volenterosi-per-Hormuz.jpg",
-      "image_type": "image"
+      "title": "Arresto choc a Londra: 19enne fermato in tribunale per un incendio",
+      "url": "/esteri/quarto-arresto-a-londra-per-incendio-ambulanze-948b59fe6dd48286",
+      "id": "948b59fe6dd48286",
+      "image_url": "https://images.unsplash.com/photo-1713111391998-6b8fc58f563e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxMb25kb24lMjBhbWJ1bGFuY2UlMjBmaXJlfGVufDB8MHx8fDE3NzUzNDc2Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Torero muore schiacciato da un toro di 580 kg durante scarico ad Almería",
+      "url": "/esteri/ex-matador-ricardo-ortiz-muore-incornato-da-un-tor-1167d6d626047aa2",
+      "id": "1167d6d626047aa2",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/La_muerte_del_picador.jpg",
+      "image_type": "wikimedia"
     }
   ],
   "updated_at": "2026-04-04T05:07:27.095848+00:00"
