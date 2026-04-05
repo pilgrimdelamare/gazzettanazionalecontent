@@ -1,0 +1,56 @@
+{
+  "id": "eda8213e4416e6a1",
+  "slug": "don-carlo-giorgi-celebra-pasqua-in-mezzo-ai-bombar-eda8213e4416e6a1",
+  "title": "Don Carlo Giorgi celebra Pasqua in mezzo ai bombardamenti",
+  "titles": [
+    "Don Carlo Giorgi celebra Pasqua in mezzo ai bombardamenti",
+    "La Pasqua è un atto di resistenza per i sacerdoti della guerra",
+    "Celebrando Pasqua in Palestina e Ucraina, gli unici pastori che non si sono arresi"
+  ],
+  "title_winner": null,
+  "section": "esteri",
+  "occhiello": "SPERANZA NELLA GUERRA: SACERDOTI RACCONTANO LA PASQUA DRAMMATICA",
+  "lead": "Don Carlo Giorgi, sacerdote della chiesa di \"San Giuseppe\" a Beirut, ha deciso di celebrare la Pasqua nonostante i bombardamenti che arrivano da Israele. La decisione è stata presa nonostante la difficile situazione in cui si trova il Libano, che sta subendo gli effetti della Guerra tra Israele e Hamas.",
+  "corpo1": "Per i sacerdoti del Libano e dell’Ucraina, celebrare la Pasqua è un atto di resistenza in mezzo alle macerie della guerra. \"Celebrare la Pasqua è la forma di resistenza più bella\", ha dichiarato Don Carlo Giorgi. L'igumeno Arsenij Sokolov, che risiede alla comunità monastica di Bose in Piemonte, è tornato in Siberia per vivere la Settimana Santa nella sua Terra, scossa da una Guerra che dura da tre anni. Don Slavik Bystrytskiy continua a non muoversi dalla sua parrocchia di Khmelnytskvj nell'Ucraina centro occidentale per essere accanto a chi soffre al fronte e ai rifugiati. Padre Gabriel Romanelli, l'unico parroco cattolico in tutta la Striscia di Gaza, è stato costretto a celebrare la messa in un luogo nascosto per paura degli attacchi israeliani.",
+  "corpo2": "Il Libano e l'Ucraina sono due Paesi che stanno subendo gli effetti della Guerra e della violenza. Il Libano è stato colpito da una serie di bombardamenti che hanno causato la morte di decine di persone e il ferimento di molti altri. L’Ucraina, devastata dall’invasione russa, continua a bruciare sotto attacchi che cancellano città e vite da oltre tre anni. I sacerdoti di questi Paesi sono stati costretti a celebrare la Pasqua in condizioni difficili, ma non hanno perso la speranza. Hanno continuato a celebrare la messa e a confortare le persone che soffrono. La Pasqua è una festa di speranza e di rinascita, e i sacerdoti del Libano e dell'Ucraina l'hanno celebrata nonostante la difficile situazione in cui si trovano. A pagare, come sempre, saranno i civili innocenti, quelli che nessuno nomina nei comunicati di guerra.",
+  "journalist": {
+    "id": "anna_colombo_01",
+    "firma": "Anna Colombo",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-04-05T07:05:59.710593+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/03/24293882_medium-1200x630.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Don Carlo Giorgi celebra Pasqua in mezzo ai bombardamenti\",\n  \"description\": \"Don Carlo Giorgi, sacerdote della chiesa di \\\"San Giuseppe\\\" a Beirut, ha deciso di celebrare la Pasqua nonostante i bombardamenti che arrivano da Israele. La decisione è stata presa nonostante la difficile situazione in cui si trova il Libano, che sta subendo gli effetti della Guerra tra Israele e Ha\",\n  \"articleBody\": \"Don Carlo Giorgi, sacerdote della chiesa di \\\"San Giuseppe\\\" a Beirut, ha deciso di celebrare la Pasqua nonostante i bombardamenti che arrivano da Israele. La decisione è stata presa nonostante la difficile situazione in cui si trova il Libano, che sta subendo gli effetti della Guerra tra Israele e Hamas. Per i sacerdoti del Libano e dell’Ucraina, celebrare la Pasqua è un atto di resistenza in mezzo alle macerie della guerra. \\\"Celebrare la Pasqua è la forma di resistenza più bella\\\", ha dichiarato Don Carlo Giorgi. L'igumeno Arsenij Sokolov, che risiede alla comunità monastica di Bose in Piemonte, è tornato in Siberia per vivere la Settimana Santa nella sua Terra, scossa da una Guerra che dura da tre anni. Don Slavik Bystrytskiy continua a non muoversi dalla sua parrocchia di Khmelnytskvj nell'Ucraina centro occidentale per essere accanto a chi soffre al fronte e ai rifugiati. Padre Gabriel Romanelli, l'unico parroco cattolico in tutta la Striscia di Gaza, è stato costretto a celebrare la messa in un luogo nascosto per paura degli attacchi israeliani. Il Libano e l'Ucraina sono due Paesi che stanno subendo gli effetti della Guerra e della violenza. Il Libano è stato colpito da una serie di bombardamenti che hanno causato la morte di decine di persone e il ferimento di molti altri. L’Ucraina, devastata dall’invasione russa, continua a bruciare sotto attacchi che cancellano città e vite da oltre tre anni. I sacerdoti di questi Paesi sono stati costretti a celebrare la Pasqua in condizioni difficili, ma non hanno perso la speranza. Hanno continuato a celebrare la messa e a confortare le persone che soffrono. La Pasqua è una festa di speranza e di rinascita, e i sacerdoti del Libano e dell'Ucraina l'hanno celebrata nonostante la difficile situazione in cui si trovano. A pagare, come sempre, saranno i civili innocenti, quelli che nessuno nomina nei comunicati di guerra.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-05T07:05:59.710593+00:00\",\n  \"dateModified\": \"2026-04-05T07:05:59.710593+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/eda8213e4416e6a1\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/eda8213e4416e6a1\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/03/24293882_medium-1200x630.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 6,
+  "source": "Redazione",
+  "source_type": "competitor_gap",
+  "original_url": "https://www.ilfattoquotidiano.it/2026/04/05/pasqua-guerra-gaza-libano-ucraina-sacerdoti-notizie/8345464/",
+  "related": [
+    {
+      "title": "Trump minaccia Iran di bombardamenti 'finché non ci stanchiamo'",
+      "url": "/esteri/trump-bombarderemo-liran-fino-a-che-non-ci-stanchi-72de8e0cf613e12e",
+      "id": "72de8e0cf613e12e",
+      "image_url": "https://live.staticflickr.com/65535/55174573676_2f4e63de26_b.jpg",
+      "image_type": "flickr"
+    },
+    {
+      "title": "Cuba concede l'indulto a 2.010 detenuti in occasione della Pasqua",
+      "url": "/esteri/cuba-concede-indulto-a-2010-detenuti-per-pasqua-2d95cd98c20133a3",
+      "id": "2d95cd98c20133a3",
+      "image_url": "https://images.unsplash.com/photo-1592825595474-864693a8c955?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxhbW5lc3R5JTIwcHJpc29uZXJzJTIwQ3ViYXxlbnwwfDB8fHwxNzc1MTkwMDQ5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Usa recuperano il corpo del pilota abbattuto in Iran dopo taglia di 50.000 euro",
+      "url": "/esteri/usa-recupera-il-pilota-disperso-in-iran-dopo-abbat-6d098befd87acfbb",
+      "id": "6d098befd87acfbb",
+      "image_url": "https://images.unsplash.com/photo-1643404168239-9a6bb707b784?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxwaWxvdCUyMHJlY292ZXJ5JTIwaXJhbnxlbnwwfDB8fHwxNzc1MzcxNjEzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    }
+  ]
+}
