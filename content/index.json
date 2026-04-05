@@ -1,5 +1,23 @@
 [
   {
+    "id": "0baedc532477935a",
+    "slug": "il-galles-low-cost-secondo-il-fatto-quotidiano-0baedc532477935a",
+    "title": "Il Fatto Quotidiano lancia il Galles come meta 'low cost' e 'instagrammabile'",
+    "section": "societa",
+    "priority": 5,
+    "journalist_firma": "Marco Sala",
+    "published_at": "2026-04-05T12:38:03.739387+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1773402315907-ff0af96443f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxXYWxlcyUyMHJ1cmFsJTIwdG91cmlzbSUyMGNvdW50cnlzaWRlfGVufDB8MHx8fDE3NzU0MzA2MDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "GALLES, LA SCOPERTA (CHE NON ESISTE)",
+    "lead_preview": "Il Fatto Quotidiano ha descritto il Galles come \"meta low cost e super instagrammabile\" per vacanze \"rural-chic\" in un a",
+    "tags": [
+      "galles",
+      "turismo low cost"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "04e783f05d3c84d7",
     "slug": "mircea-lucescu-in-coma-farmacologico-in-un-ospedal-04e783f05d3c84d7",
     "title": "Mircea lucescu in coma",
@@ -1321,23 +1339,6 @@
       "abbattimento f-15 iran",
       "pilota usa morto khuzestan",
       "pasdaran recupero corpo"
-    ]
-  },
-  {
-    "id": "0baedc532477935a",
-    "slug": "il-galles-low-cost-secondo-il-fatto-quotidiano-0baedc532477935a",
-    "title": "Il Fatto Quotidiano lancia la moda del Galles: turismo rural-chic in ascesa dal 5 aprile",
-    "section": "societa",
-    "priority": 5,
-    "journalist_firma": "Federica Conti",
-    "published_at": "2026-04-05T12:38:03.739387+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1773402315907-ff0af96443f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxXYWxlcyUyMHJ1cmFsJTIwdG91cmlzbXxlbnwwfDB8fHwxNzc1NDAwMjA2fDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "FONDI SCOMPARSI DOPO IL VOTO: IL GALLES LOW COST",
-    "lead_preview": "Il Fatto Quotidiano descrive il Galles come \"meta low cost e super instagrammabile\" per vacanze \"rural-chic\". I turisti ",
-    "tags": [
-      "turismo galles",
-      "vacanze low cost"
     ]
   },
   {
