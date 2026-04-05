@@ -1,5 +1,23 @@
 [
   {
+    "id": "5e9ab6cdc65b65ff",
+    "slug": "zelensky-a-damasco-il-5-aprile-incontro-segreto-co-5e9ab6cdc65b65ff",
+    "title": "Zelensky a Damasco il 5 aprile: incontro segreto con Assad e il ministro turco Fidan",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-05T14:12:08.921284+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/13/442b9bb3ffb77c97bf581b223789ff97.jpg",
+    "occhiello": "",
+    "lead_preview": "Volodymyr Zelensky è arrivato a Damasco il 5 aprile 2026, in un viaggio non annunciato in precedenza, accompagnato dal m",
+    "tags": [
+      "zelensky assad incontro",
+      "siria 2026",
+      "fidan mediazione"
+    ]
+  },
+  {
     "id": "67e66c391fd5dbf4",
     "slug": "kate-middleton-torna-in-pubblico-a-windsor-dopo-la-67e66c391fd5dbf4",
     "title": "Kate Middleton torna in pubblico a Windsor dopo la diagnosi di tumore",
@@ -8708,24 +8726,6 @@
     "tags": [
       "riforma elettorale meloni",
       "stabilità governo meloni"
-    ]
-  },
-  {
-    "id": "e1678e38908bba9e",
-    "slug": "kast-blocca-il-memoriale-alla-colonia-dignidad-e1678e38908bba9e",
-    "title": "Kast sospende i lavori per il memoriale della Colonia Dignidad a Villa Baviera",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-01T09:00:37.673968+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Jos%C3%A9_Antonio_Kast_%282009%29_4x3_cropped.jpg",
-    "occhiello": "KAST BLOCCA IL MEMORIALE ALLA COLONIA DIGNIDAD",
-    "lead_preview": "José Antonio Kast, presidente del Cile, ha sospeso i lavori per trasformare l'ex Colonia Dignidad in un memoriale. La de",
-    "tags": [
-      "colonia dignidad",
-      "kast cile",
-      "memoriale cile"
     ]
   }
 ]
