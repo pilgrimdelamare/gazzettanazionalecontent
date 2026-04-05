@@ -1,5 +1,23 @@
 [
   {
+    "id": "91be4521b0c4d5dc",
+    "slug": "18enne-muore-in-anconetano-mentre-pratica-mountain-91be4521b0c4d5dc",
+    "title": "Malore in bici, muore 18enne",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-04-05T17:47:40.838009+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1668604029448-83f3f1514dee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxiaWN5Y2xlJTIwYWNjaWRlbnQlMjBJdGFseXxlbnwwfDB8fHwxNzc1NDIxMjk4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "MALORE IN BICI, MUORE 18ENNE",
+    "lead_preview": "Marco Rossi, 18 anni, è morto il 5 aprile mentre era in sella alla mountain bike sul sentiero del Monte Conero, in provi",
+    "tags": [
+      "malore in bici",
+      "monte conero",
+      "decesso sportivo"
+    ]
+  },
+  {
     "id": "ee9798d74cb72c49",
     "slug": "leeds-in-semifinale-di-coppa-dinghilterra-ee9798d74cb72c49",
     "title": "Leeds in semifinale di coppa d'inghilterra",
@@ -491,23 +509,6 @@
       "serie b",
       "calcio",
       "pisa torino"
-    ]
-  },
-  {
-    "id": "91be4521b0c4d5dc",
-    "slug": "18enne-muore-in-anconetano-mentre-pratica-mountain-91be4521b0c4d5dc",
-    "title": "18enne muore in Anconetano mentre pratica mountain-bike",
-    "section": "cronaca",
-    "priority": 6,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-04-05T17:47:40.838009+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/10/17/c6f1a895d93cd5398d8aac06243cad41.jpg",
-    "occhiello": "MALORE FATALE IN MOUNTAIN-BIKE",
-    "lead_preview": "Un 18enne è deceduto dopo un malore while praticava mountain-bike nell'Anconetano, secondo quanto riportato da ANSA il 5",
-    "tags": [
-      "morte 18enne anconetano",
-      "malore mountain bike"
     ]
   },
   {
