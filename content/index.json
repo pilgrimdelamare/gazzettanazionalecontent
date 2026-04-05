@@ -1,5 +1,22 @@
 [
   {
+    "id": "4e4f9e706819f279",
+    "slug": "sci-de-silvestro-e-boscacci-secondi-nella-staffett-4e4f9e706819f279",
+    "title": "Sci: De Silvestro e Boscacci secondi nella staffetta di Coppa del Mondo",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-05T10:56:37.408509+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/2/21/26f6aaa65cbd3e3e68c4adafe6184a4a.jpg",
+    "occhiello": "",
+    "lead_preview": "De Silvestro e Boscacci hanno chiuso al secondo posto la staffetta delle finali di Coppa del Mondo di sci alpinismo a Vi",
+    "tags": [
+      "coppa del mondo sci",
+      "sci alpinismo"
+    ]
+  },
+  {
     "id": "011152050c0a9c09",
     "slug": "esplosione-davanti-a-sede-associazione-cristiana-p-011152050c0a9c09",
     "title": "Esplosione a Amsterdam: ordigno contro sede pro-Israele, 3 feriti",
@@ -8667,23 +8684,6 @@
     "tags": [
       "arresto benevento",
       "caso mastella"
-    ]
-  },
-  {
-    "id": "0476eb1feeda300e",
-    "slug": "truffa-booking-via-whatsapp-con-dati-sensibili-0476eb1feeda300e",
-    "title": "Milano, impiegato truffato su WhatsApp: 60.000 euro persi per un volo mai arrivato",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-03-31T08:54:16.606937+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1735302615900-ae781b356418?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHw2MC4wMDAlMjBldXJvfGVufDB8MHx8fDE3NzUwMzM5MDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "60.000 EURO PER UN BIGLIETTO INESISTENTE: LA TRUFFA SU WHATSAPP",
-    "lead_preview": "Matteo Bianchi, 41enne milanese, ha denunciato il 31 marzo 2026 alla polizia postale di essere stato truffato di 60.000 ",
-    "tags": [
-      "truffa whatsapp milano",
-      "truffa volo inesistente"
     ]
   }
 ]
