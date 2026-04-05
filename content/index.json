@@ -1,5 +1,24 @@
 [
   {
+    "id": "968cb0464cf8ec54",
+    "slug": "britannia-in-crisi-cala-la-domanda-di-pubblicazion-968cb0464cf8ec54",
+    "title": "Utenti UK pubblicano il 40% in meno di contenuti sui social nel primo trimestre 2026",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-05T05:15:09.036625+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1589394471525-dbb7bd2658a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxVSyUyMGRpZ2l0YWwlMjBwYXJ0aWNpcGF0aW9uJTIwZGVjbGluZSUyMDIwMjZ8ZW58MHwwfHx8MTc3NTQwMzE4N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "UTENTI UK POSTANO MEGLIO DEL 40%",
+    "lead_preview": "Il 5 aprile 2026, Ofcom ha registrato un calo del 40% nei contenuti pubblicati dagli utenti britannici tra gennaio e mar",
+    "tags": [
+      "calo social uk",
+      "ofcom 2026",
+      "partecipazione digitale"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "f37e3e5497ab67df",
     "slug": "la-startup-glutensens-lancia-dispositivo-per-ident-f37e3e5497ab67df",
     "title": "Glutine sotto controllo: test in 5 minuti a Milano",
@@ -1362,20 +1381,6 @@
       "attacco iran",
       "netanyahu iran"
     ]
-  },
-  {
-    "id": "968cb0464cf8ec54",
-    "slug": "britannia-in-crisi-cala-la-domanda-di-pubblicazion-968cb0464cf8ec54",
-    "title": "Utenti uk postano meno del 40%: crolla la digital participation",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-05T05:15:09.036625+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1589394471525-dbb7bd2658a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxVSyUyMGRpZ2l0YWwlMjBwYXJ0aWNpcGF0aW9uJTIwZGVjbGluZSUyMDIwMjZ8ZW58MHwwfHx8MTc3NTQwMzE4N3ww&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "UTENTI UK POSTANO MENO DEL 40%: CROLLA LA DIGITAL PARTICIPATION",
-    "lead_preview": "Ofcom ha registrato il 5 aprile 2026 un calo del 40% nei contenuti pubblicati dagli utenti britannici tra gennaio e marz",
-    "tags": []
   },
   {
     "id": "175f5cd64e34284a",
