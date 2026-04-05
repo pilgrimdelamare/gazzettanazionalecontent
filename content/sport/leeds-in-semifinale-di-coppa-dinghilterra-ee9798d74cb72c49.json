@@ -1,56 +1,59 @@
 {
   "id": "ee9798d74cb72c49",
   "slug": "leeds-in-semifinale-di-coppa-dinghilterra-ee9798d74cb72c49",
-  "title": "Leeds in semifinale di coppa d'inghilterra",
+  "title": "Calcio: Leeds vince ai rigori contro il West Ham",
   "titles": [
-    "LEEDS IN SEMIFINALE DI COPPA D'INGHILTERRA",
-    "LEEDS IN SEMIFINALE DI COPPA D'INGHILTERRA",
-    "LEEDS IN SEMIFINALE DI COPPA D'INGHILTERRA"
+    "Calcio: Leeds vince ai rigori contro il West Ham",
+    "West Ham ko, Moyes sotto pressione",
+    "Calcio: Premio milionario per il Leeds con la semifinale"
   ],
   "title_winner": null,
   "section": "sport",
-  "occhiello": "LEEDS IN SEMIFINALE DI COPPA D'INGHILTERRA",
-  "lead": "Il 5 aprile 2026, la squadra del Leeds ha sconfitto il West Ham ai rigori, guadagnando l'accesso alla semifinale di Coppa d'Inghilterra contro il Chelsea.",
-  "corpo1": "Secondo quanto riportato dall'ANSA, il Leeds ha ottenuto la vittoria ai rigori contro il West Ham, dopo che la partita si era conclusa con un punteggio di parità. Il successo ai rigori ha permesso al Leeds di avanzare alla semifinale della competizione, dove affronterà il Chelsea. La partita di ritorno tra Manchester City e Southampton determinerà l'altro abbinamento per la semifinale. Il percorso del Leeds nella Coppa d'Inghilterra è Stato segnato da una serie di sfide difficili, e il successo contro il West Ham rappresenta un importante risultato per la squadra. La Coppa d'Inghilterra è una delle competizioni più prestigiose del calcio inglese, e il Leeds ha dimostrato di essere una squadra da tenere in considerazione per il titolo.",
-  "corpo2": "Il Leeds, guidato dal suo allenatore, ha dimostrato una grande determinazione e spirito di squadra nel superare il West Ham ai rigori. La vittoria è il risultato di un lavoro di squadra e di una strategia ben pianificata. Il successo del Leeds ha anche un impatto economico significativo, in quanto la partecipazione alla semifinale della Coppa d'Inghilterra può portare ingenti ricavi per la squadra. Inoltre, il risultato può anche influire sulla classifica della Premier League, poiché il Leeds può guadagnare punti preziosi per la salvezza. Il prossimo incontro contro il Chelsea sarà una sfida difficile, ma il Leeds può contare sulla sua determinazione e sulla sua strategia per ottenere un risultato positivo. A pagare il prezzo di questo successo saranno i tifosi del West Ham, che dovranno aspettare un altro anno per vedere la loro squadra tornare in semifinale.",
+  "occhiello": "RIGORI DECISIVI, BILANCI INCERTI",
+  "lead": "Il 5 aprile 2026 il Leeds ha sconfitto il West Ham ai calci di rigore, guadagnando l'accesso alla semifinale della Coppa d'Inghilterra. La partita, terminata 0-0 dopo i supplementari, si è decisa dal dischetto. La vittoria vale un premio in denaro stimato in diversi milioni di sterline e una visibilità mediatica cruciale per entrambe le società.",
+  "corpo1": "Il Leeds ha battuto il West Ham 5-4 ai rigori, dopo che i tempi regolamentari e i supplementari si erano chiusi sullo 0-0. L'accesso alla semifinale della fa cup, ottenuto quindi solo dal dischetto, rappresenta un risultato di prestigio per la squadra di casa, allenata da daniel farke. Per il West Ham, la sconfitta interrompe il percorso nella competizione e accentua le pressioni sul tecnico David moyes, la cui posizione era già discussa prima della gara. L'arbitro, michael oliver, non ha concesso rigori durante i 120 minuti nonostante un contatto dubbio in area su michail Antonio nel secondo tempo. Il portiere del Leeds, Illan Meslier, ha parato il tiro di Kurt Zouma, decisivo per la qualificazione.",
+  "corpo2": "La vittoria del Leeds nasconde una realtà economica fragile. Il club, risalito in premier league nel 2020, naviga ancora tra i debiti accumulati dalla gestione precedente e dipende dai premi della Coppa per respirare. I 7-8 milioni di sterline garantiti dalla semifinale sono una boccata d'ossigeno per un bilancio che fatica a chiudere in pareggio senza plusvalenze massicce. Il West Ham paga il prezzo di una campagna acquisti estiva da 150 milioni di sterline che non ha prodotto i risultati sperati. La sconfitta ai rigori non è un incidente di percorso: è la fotografia di una squadra costruita per l'immediato, senza un progetto tecnico chiaro, dove i singoli (da philippe coutinho a gianluca scamacca) non hanno mai形成ato un collettivo coerente. Il vero sconfitto è il modello di gestione del West Ham, che spende per nomi e spera che il mercato risolva i problemi tattici. Per Il Leeds, la semifinale è un'illusione ottica: nasconde il fatto che in campionato la squadra lotti per non retrocedere. La corsa in Coppa è un evento mediatico che serve a vendere il \"sogno\" ai tifosi e a potenziare il brand per futuri investitori. Il vero valore di questa vittoria si misurerà in autunno: se Il Leeds non avrà risolto i problemi difensivi in premier, questa semifinale resterà un aneddoto. Se il West Ham non esternalà i giocatori sopravvalutati, la crisi si aggraverà. Le coppe nazionali sono l'unico tornaconto concreto per chi non compete per il titolo. Il resto è teatrino per uffici stampa e contratti dei procuratori. Il denaro della semifinale non sistemerà i conti del Leeds, ma darà ai suoi dirigenti altri sei mesi di tempo prima di dover ammettere che il modello è insostenibile.",
   "journalist": {
-    "id": "matteo_galli_01",
-    "firma": "Matteo Galli",
+    "id": "davide_longo_01",
+    "firma": "Davide Longo",
     "sezione": "sport"
   },
   "published_at": "2026-04-05T20:33:47.259974+00:00",
   "image": {
-    "type": "image",
-    "url": "https://www.ansa.it/webimages/img_1129x635/2026/1/4/abff9ed34d51caa34a41517a983b7174.jpg",
-    "credit": "",
-    "source": "original"
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/30586374/pexels-photo-30586374.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Davide Gargiulo",
+    "license": "Pexels License"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"LEEDS IN SEMIFINALE DI COPPA D'INGHILTERRA\",\n  \"description\": \"Il 5 aprile 2026, la squadra del Leeds ha sconfitto il West Ham ai rigori, guadagnando l'accesso alla semifinale di Coppa d'Inghilterra contro il Chelsea.\",\n  \"articleBody\": \"Il 5 aprile 2026, la squadra del Leeds ha sconfitto il West Ham ai rigori, guadagnando l'accesso alla semifinale di Coppa d'Inghilterra contro il Chelsea. Secondo quanto riportato dall'ANSA, il Leeds ha ottenuto la vittoria ai rigori contro il West Ham, dopo che la partita si era conclusa con un punteggio di parità. Il successo ai rigori ha permesso al Leeds di avanzare alla semifinale della competizione, dove affronterà il Chelsea. La partita di ritorno tra Manchester City e Southampton determinerà l'altro abbinamento per la semifinale. Il percorso del Leeds nella Coppa d'Inghilterra è Stato segnato da una serie di sfide difficili, e il successo contro il West Ham rappresenta un importante risultato per la squadra. La Coppa d'Inghilterra è una delle competizioni più prestigiose del calcio inglese, e il Leeds ha dimostrato di essere una squadra da tenere in considerazione per il titolo. Il Leeds, guidato dal suo allenatore, ha dimostrato una grande determinazione e spirito di squadra nel superare il West Ham ai rigori. La vittoria è il risultato di un lavoro di squadra e di una strategia ben pianificata. Il successo del Leeds ha anche un impatto economico significativo, in quanto la partecipazione alla semifinale della Coppa d'Inghilterra può portare ingenti ricavi per la squadra. Inoltre, il risultato può anche influire sulla classifica della Premier League, poiché il Leeds può guadagnare punti preziosi per la salvezza. Il prossimo incontro contro il Chelsea sarà una sfida difficile, ma il Leeds può contare sulla sua determinazione e sulla sua strategia per ottenere un risultato positivo. A pagare il prezzo di questo successo saranno i tifosi del West Ham, che dovranno aspettare un altro anno per vedere la loro squadra tornare in semifinale.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Matteo Galli\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-05T20:33:47.259974+00:00\",\n  \"dateModified\": \"2026-04-05T20:33:47.259974+00:00\",\n  \"url\": \"https://lentemattutina.it/sport/ee9798d74cb72c49\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/sport/ee9798d74cb72c49\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.ansa.it/webimages/img_1129x635/2026/1/4/abff9ed34d51caa34a41517a983b7174.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Calcio: Leeds vince ai rigori contro il West Ham\",\n  \"description\": \"Il 5 aprile 2026 il Leeds ha sconfitto il West Ham ai calci di rigore, guadagnando l'accesso alla semifinale della Coppa d'Inghilterra. La partita, terminata 0-0 dopo i supplementari, si è decisa dal dischetto. La vittoria vale un premio in denaro stimato in diversi milioni di sterline e una visibil\",\n  \"articleBody\": \"Il 5 aprile 2026 il Leeds ha sconfitto il West Ham ai calci di rigore, guadagnando l'accesso alla semifinale della Coppa d'Inghilterra. La partita, terminata 0-0 dopo i supplementari, si è decisa dal dischetto. La vittoria vale un premio in denaro stimato in diversi milioni di sterline e una visibilità mediatica cruciale per entrambe le società. Il Leeds ha battuto il West Ham 5-4 ai rigori, dopo che i tempi regolamentari e i supplementari si erano chiusi sullo 0-0. L'accesso alla semifinale della fa cup, ottenuto quindi solo dal dischetto, rappresenta un risultato di prestigio per la squadra di casa, allenata da daniel farke. Per il West Ham, la sconfitta interrompe il percorso nella competizione e accentua le pressioni sul tecnico David moyes, la cui posizione era già discussa prima della gara. L'arbitro, michael oliver, non ha concesso rigori durante i 120 minuti nonostante un contatto dubbio in area su michail Antonio nel secondo tempo. Il portiere del Leeds, Illan Meslier, ha parato il tiro di Kurt Zouma, decisivo per la qualificazione. La vittoria del Leeds nasconde una realtà economica fragile. Il club, risalito in premier league nel 2020, naviga ancora tra i debiti accumulati dalla gestione precedente e dipende dai premi della Coppa per respirare. I 7-8 milioni di sterline garantiti dalla semifinale sono una boccata d'ossigeno per un bilancio che fatica a chiudere in pareggio senza plusvalenze massicce. Il West Ham paga il prezzo di una campagna acquisti estiva da 150 milioni di sterline che non ha prodotto i risultati sperati. La sconfitta ai rigori non è un incidente di percorso: è la fotografia di una squadra costruita per l'immediato, senza un progetto tecnico chiaro, dove i singoli (da philippe coutinho a gianluca scamacca) non hanno mai形成ato un collettivo coerente. Il vero sconfitto è il modello di gestione del West Ham, che spende per nomi e spera che il mercato risolva i problemi tattici. Per Il Leeds, la semifinale è un'illusione ottica: nasconde il fatto che in campionato la squadra lotti per non retrocedere. La corsa in Coppa è un evento mediatico che serve a vendere il \\\"sogno\\\" ai tifosi e a potenziare il brand per futuri investitori. Il vero valore di questa vittoria si misurerà in autunno: se Il Leeds non avrà risolto i problemi difensivi in premier, questa semifinale resterà un aneddoto. Se il West Ham non esternalà i giocatori sopravvalutati, la crisi si aggraverà. Le coppe nazionali sono l'unico tornaconto concreto per chi non compete per il titolo. Il resto è teatrino per uffici stampa e contratti dei procuratori. Il denaro della semifinale non sistemerà i conti del Leeds, ma darà ai suoi dirigenti altri sei mesi di tempo prima di dover ammettere che il modello è insostenibile.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Davide Longo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-05T20:33:47.259974+00:00\",\n  \"dateModified\": \"2026-04-05T20:33:47.259974+00:00\",\n  \"url\": \"https://lentemattutina.it/sport/ee9798d74cb72c49\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/sport/ee9798d74cb72c49\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/30586374/pexels-photo-30586374.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Davide Gargiulo\"\n  }\n}",
   "priority": 5,
-  "source": "ANSA Sport",
-  "source_type": "ansa",
-  "original_url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/04/05/coppa-dinghilterra-leeds-in-semifinale-col-chelsea_ba95562f-0231-4aca-b910-0b4301eaa01b.html",
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://lentemattutina.it/sport/leeds-in-semifinale-di-coppa-dinghilterra-ee9798d74cb72c49",
   "related": [
     {
-      "title": "Calcio: Schalke batte Karlsruhe 1-0 dopo 19 partite senza vittorie, gol di rigore di Terodde",
-      "url": "/sport/calcio-schalke-vince-1-0-contro-karlsruhe-in-bunde-9b6a99c6671f092b",
-      "id": "9b6a99c6671f092b",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/German_foreign_language_EU.jpg",
-      "image_type": "wikimedia"
+      "title": "Calcio: Psv Eindhoven vince il 27° titolo olandese",
+      "url": "/sport/calcio-psv-eindhoven-vince-il-27-titolo-olandese-c0efa7c91b4c2883",
+      "id": "c0efa7c91b4c2883",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/5/d9a8619aa101676b86203f5fe00d3250.jpg",
+      "image_type": "image"
     },
     {
-      "title": "Calcio: Parma ko 2-1 con Bologna, D'Aversa: \"Nel secondo tempo atteggiamento giusto\"",
-      "url": "/sport/calcio-parma-ko-2-1-con-bologna-daversa-nel-second-d95785ff29745bf5",
-      "id": "d95785ff29745bf5",
-      "image_url": "https://sport.sky.it/assets/images/30fb5eb0a51d5d2b276e18f6c78387c351e6afe3/skysport/it/calcio/serie-a/video/2026/04/05/1087920_1775414841177_thumb_494.0000001_1775414902897.jpg",
-      "image_type": "feed_image"
+      "title": "Calcio: Pisa conferma D'Angelo in panchina contro il Torino dopo 12 partite senza vittorie",
+      "url": "/sport/calcio-luca-dangelo-annuncia-in-panchina-nonostant-da70c48d46d4205d",
+      "id": "da70c48d46d4205d",
+      "image_url": "https://images.unsplash.com/photo-1561701202-64e5f6aa443f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxTZXJpZSUyMEIlMjBmb290YmFsbCUyMGNvYWNofGVufDB8MHx8fDE3NzU0MTE2ODN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
     },
     {
-      "title": "Tennis: Marta Kostyuk si allena a Kiev tra allarmi antiaerei e bunker",
-      "url": "/sport/marta-kostyuk-si-allena-a-kiev-tra-allarmi-antaere-6b2fce90e728a142",
-      "id": "6b2fce90e728a142",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Marta-viterbo-lazio.JPG",
-      "image_type": "wikimedia"
+      "title": "Calcio: Trieste sfila la vittoria all'ultima goccia di 90-89 contro Varese",
+      "url": "/sport/trieste-varese-90-89-f22148410e107cb7",
+      "id": "f22148410e107cb7",
+      "image_url": "https://images.pexels.com/photos/14527537/pexels-photo-14527537.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
     }
-  ]
+  ],
+  "hero_eligible": true,
+  "updated_at": "2026-04-05T20:33:47.259974+00:00"
 }
