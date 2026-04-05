@@ -1,5 +1,22 @@
 [
   {
+    "id": "55b47b721cce05e6",
+    "slug": "laquila-ricorda-le-309-vittime-del-terremoto-con-d-55b47b721cce05e6",
+    "title": "L'aquila ricorda il terremoto",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Chiara Esposito",
+    "published_at": "2026-04-05T12:52:30.855459+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1694153015265-cd1d6657bd64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxMJTI3QXF1aWxhJTIwZWFydGhxdWFrZSUyMGFubml2ZXJzYXJ5fGVufDB8MHx8fDE3NzU0MzE4MDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "L'AQUILA RICORDA IL TERREMOTO",
+    "lead_preview": "L'Aquila celebra il diciassettesimo anniversario del terremoto del 2009, che uccise 309 persone e ferì 1600.",
+    "tags": [
+      "terremoto l'aquila"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "6d098befd87acfbb",
     "slug": "usa-recupera-il-pilota-disperso-in-iran-dopo-abbat-6d098befd87acfbb",
     "title": "Pilota usa ucciso nel khuzestan",
@@ -1353,23 +1370,6 @@
     "tags": [
       "trattativa nave garibaldi",
       "caso ottaviani"
-    ]
-  },
-  {
-    "id": "55b47b721cce05e6",
-    "slug": "laquila-ricorda-le-309-vittime-del-terremoto-con-d-55b47b721cce05e6",
-    "title": "L'Aquila ricorda il terremoto del 2009 con 2000 persone attese",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-04-05T12:52:30.855459+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/15861716/pexels-photo-15861716.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "309 MORTI E 1600 FERITI RICORDATI CON DUE GIORNI DI CERIMONIE A L’AQUILA",
-    "lead_preview": "L’Aquila celebra domani e il 6 aprile il diciassettesimo anniversario del terremoto del 2009, che uccise 309 persone e n",
-    "tags": [
-      "terremoto l'aquila",
-      "terremoto 2009"
     ]
   },
   {
