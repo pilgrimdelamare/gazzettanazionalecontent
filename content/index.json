@@ -1,5 +1,20 @@
 [
   {
+    "id": "adce83e1141bbded",
+    "slug": "basket-record-storico-con-288-punti-adce83e1141bbded",
+    "title": "Record nba con 288 punti combinati",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-05T05:14:42.768015+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/15586680/pexels-photo-15586680.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "RECORD NBA CON 288 PUNTI COMBINATI",
+    "lead_preview": "Miami Heat e Washington Wizards hanno stabilito un nuovo record nella notte del 5 aprile 2026, combinando 288 punti",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "c0efa7c91b4c2883",
     "slug": "calcio-psv-eindhoven-vince-il-27-titolo-olandese-c0efa7c91b4c2883",
     "title": "Psv eindhoven vince 27° titolo",
@@ -1338,24 +1353,6 @@
     "occhiello": "ARRESTATO A GERUSALEMME 5 APRILE 2026",
     "lead_preview": "Un uomo è Stato arrestato a Gerusalemme il 5 aprile 2026. Trascinato da un luogo all’altro, interrogato, esposto e giudi",
     "tags": []
-  },
-  {
-    "id": "adce83e1141bbded",
-    "slug": "basket-record-storico-con-288-punti-adce83e1141bbded",
-    "title": "Record nba nella notte: 288 punti combinati",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-05T05:14:42.768015+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/15586680/pexels-photo-15586680.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "RECORD NBA NELLA NOTTE: 288 PUNTI COMBINATI",
-    "lead_preview": "Miami Heat e Washington Wizards hanno stabilito una nuova soglia storica nella notte del 5 aprile 2026, combinando 288 p",
-    "tags": [
-      "nba record",
-      "miami heat",
-      "washington wizards"
-    ]
   },
   {
     "id": "175f5cd64e34284a",
