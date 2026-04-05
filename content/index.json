@@ -1,5 +1,22 @@
 [
   {
+    "id": "a62ee633e81a2444",
+    "slug": "basket-treviso-batte-tortona-91-86-quinta-vittoria-a62ee633e81a2444",
+    "title": "Basket: Treviso batte Tortona 91-86, quinta vittoria in campionato",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-05T07:03:05.236125+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/4765155b8e0fd835b0e66fe357763a05df9a21a2/skysport/it/basket/serie-a/video/2026/04/05/1087795_1775370152263_thumb_494.0000001_1775370459188.jpg",
+    "occhiello": "TRIEVISO SUPERIORE A TORTONA",
+    "lead_preview": "Domenica 5 aprile 2026, la squadra di Treviso ha sconfitto Tortona con un punteggio di 91-86 nella partita di LBA Serie ",
+    "tags": [
+      "lba serie a",
+      "treviso tortona"
+    ]
+  },
+  {
     "id": "a15faced2e5325cd",
     "slug": "vignetta-satirica-su-piantedosi-nelledizione-di-fa-a15faced2e5325cd",
     "title": "Vignetta satirica su piantedosi nell'edizione di fatto",
@@ -8663,22 +8680,6 @@
     "tags": [
       "gianfranco frattini",
       "centenario frattini"
-    ]
-  },
-  {
-    "id": "21b81d9e85483798",
-    "slug": "uomo-in-giubotto-tricolore-spiata-mentre-assiste-a-21b81d9e85483798",
-    "title": "Uomo con giubotto tricolore entra a Coverciano: la falla nella sicurezza",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-03-31T09:12:00.678995+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/27035295/pexels-photo-27035295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "UOMO CON SIMBOLO TRICOLORE SPIATO ALLA NAZIONALE",
-    "lead_preview": "Roberto Bianchi, 58 anni, è stato notato mentre assisteva alla seduta di rifinitura della Nazionale italiana a Covercian",
-    "tags": [
-      "sicurezza coverciano"
     ]
   }
 ]
