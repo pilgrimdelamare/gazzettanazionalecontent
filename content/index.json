@@ -1,5 +1,23 @@
 [
   {
+    "id": "7dd0105d9300e491",
+    "slug": "cinque-progetti-indigeni-lanciati-in-brasile-per-p-7dd0105d9300e491",
+    "title": "Cinque progetti indigeni lanciati in Brasile per proteggere Amazzonia e Cerrado",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-05T14:12:19.323100+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/2/25/e931f2cb352f9e1a4bc8c35e02ca90ac.jpg",
+    "occhiello": "BRASILE, CINQUE PROGETTI INDIGENI IN DIFESA DI FORESTE E BIODIVERSITÀ",
+    "lead_preview": "MAIUSCOLO Brasile, comunità indigene difendono foreste e biodiversità LEAD L'Amazzonia e il Cerrado, le comunità locali ",
+    "tags": [
+      "progetti indigeni brasiliani",
+      "protezione amazzonia",
+      "cerrado foreste"
+    ]
+  },
+  {
     "id": "5e9ab6cdc65b65ff",
     "slug": "zelensky-a-damasco-il-5-aprile-incontro-segreto-co-5e9ab6cdc65b65ff",
     "title": "Zelensky a Damasco il 5 aprile: incontro segreto con Assad e il ministro turco Fidan",
@@ -8709,23 +8727,6 @@
       "cessione mavericks",
       "mark cuban",
       "pentimento vendita mavericks"
-    ]
-  },
-  {
-    "id": "c6035febe8f7aaa0",
-    "slug": "giorgia-meloni-smontata-lequazione-legge-elettoral-c6035febe8f7aaa0",
-    "title": "Giorgia Meloni: la riforma elettorale è la chiave per la stabilità di governo",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Sergio Mancini",
-    "published_at": "2026-04-01T07:04:48.554660+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Giorgia_Meloni_2019.jpg",
-    "occhiello": "MELONI: \"RIFORMA ELETTORALE PER STABILITÀ\"",
-    "lead_preview": "Giorgia Meloni ha indicato nella riforma elettorale la chiave per garantire la stabilità di governo durante l'intervento",
-    "tags": [
-      "riforma elettorale meloni",
-      "stabilità governo meloni"
     ]
   }
 ]
