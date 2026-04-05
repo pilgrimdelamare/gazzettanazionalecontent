@@ -1,5 +1,21 @@
 [
   {
+    "id": "489b5fe5543abb4c",
+    "slug": "card-castillo-vieta-ai-preti-di-indicare-il-candid-489b5fe5543abb4c",
+    "title": "Card. Castillo vieta ai preti di indicare il candidato: 'La Chiesa non ha un suo candidato'",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-05T14:43:26.170335+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/5/4f6f000dc6b8ae13f96314b5bb54e6b7.jpg",
+    "occhiello": "FONDI SCOMPARSI DOPO IL VOTO",
+    "lead_preview": "Il 12 aprile si terranno le presidenziali in Perù, e l'arcivescovo di Lima, Card. Pedro Castillo, ha emesso un'ordinanza",
+    "tags": [
+      "elezioni peru"
+    ]
+  },
+  {
     "id": "04e783f05d3c84d7",
     "slug": "mircea-lucescu-in-coma-farmacologico-in-un-ospedal-04e783f05d3c84d7",
     "title": "Mircea Lucescu, 71 anni, in coma farmacologico a Bucarest dal 5 aprile",
@@ -8712,24 +8728,6 @@
       "riduzione fondi ricerca linguistica",
       "d'achille allarme italiano",
       "accademia della crusca 2026"
-    ]
-  },
-  {
-    "id": "a8a48ab770139422",
-    "slug": "trieste-nuovo-graffiti-del-banksy-locale-scimmia-a-a8a48ab770139422",
-    "title": "A Trieste compare un nuovo graffiti: una scimmia alla macchina da scrivere in via Roma",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-04-01T09:23:42.668419+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1605789437852-980e4fc05c8c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxUcmllc3RlJTIwdmlhJTIwUm9tYSUyMGdyYWZmaXRpfGVufDB8MHx8fDE3NzUwOTMzMjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "GRAFFITI DEL BANKSY TRIESTINO: SCIMMIA A MACCHINA DA SCRIVERE",
-    "lead_preview": "Il 1° aprile, un artista anonimo che si firma come il Banksy triestino ha lasciato un nuovo graffiti nella città giulian",
-    "tags": [
-      "graffiti banksy triestino",
-      "scimmia macchina da scrivere",
-      "artista anonimo trieste"
     ]
   }
 ]
