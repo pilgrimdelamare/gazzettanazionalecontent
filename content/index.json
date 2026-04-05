@@ -1,5 +1,23 @@
 [
   {
+    "id": "fee24be306b11d73",
+    "slug": "papa-leone-xiv-chiama-trump-in-diretta-cerca-una-v-fee24be306b11d73",
+    "title": "Papa Leone XIV chiama Trump in diretta: 'Cerca una via d'uscita dalla guerra'",
+    "section": "esteri",
+    "priority": 3,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-05T10:57:10.403991+00:00",
+    "image_type": "wikimedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Pope_Trump_AI_by_Donald_Trump.png",
+    "occhiello": "",
+    "lead_preview": "Leonardo De Luca, noto come Papa Léon XIV, ha rivolto un appello pubblico a Donald Trump durante la benediction urbi et ",
+    "tags": [
+      "papa leone xiv",
+      "appello trump",
+      "benediction urbi et orbi"
+    ]
+  },
+  {
     "id": "853cebe9f393c910",
     "slug": "guerra-in-medio-oriente-fa-impennare-i-prezzi-gove-853cebe9f393c910",
     "title": "Guerra in medio oriente fa impennare i prezzi, governo cerca coperture",
@@ -8671,19 +8689,5 @@
       "autismo",
       "app blugo"
     ]
-  },
-  {
-    "id": "24bded3124831735",
-    "slug": "renoir-abbandonato-9-milioni-rubati-a-fondazione-m-24bded3124831735",
-    "title": "Renoir rubato a Parma, ritrovato in un campo",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Chiara Esposito",
-    "published_at": "2026-03-31T10:11:27.619994+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1602870040448-12a366a24374?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxQYXlzYWdlJTIwZGUlMjBDYWduZXN8ZW58MHwwfHx8MTc3NTAzNTAyM3ww&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "RENOIR DA 3 MILIONI RITROVATO IN UN CAMPO A PARMA",
-    "lead_preview": "Pierre-Auguste Renoir, il pittore francese Pierre-Auguste Renoir, ha visto il suo capolavoro \"Paysage de Cagnes\" ritrova",
-    "tags": []
   }
 ]
