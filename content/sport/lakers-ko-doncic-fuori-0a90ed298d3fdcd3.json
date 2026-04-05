@@ -1,0 +1,57 @@
+{
+  "id": "0a90ed298d3fdcd3",
+  "slug": "lakers-ko-doncic-fuori-0a90ed298d3fdcd3",
+  "title": "Lakers ko: Doncic fuori",
+  "titles": [
+    "Lakers ko: Doncic fuori",
+    "Doncic e Reaves out",
+    "Lakers senza Doncic"
+  ],
+  "title_winner": null,
+  "section": "sport",
+  "occhiello": "LAKERS IN CRISI PER GLI INFORTUNI",
+  "lead": "Luka Doncic, la stella dei los angeles Lakers, è fuori per il resto della regular season a causa di un infortunio, e ora anche Austin Reaves potrebbe saltare per un mese, rischiando di non essere disponibile per il primo turno dei playoff.",
+  "corpo1": "La notizia degli infortuni ai Lakers arriva dopo una stagione già difficile per la squadra, che deve fare i conti con la perdita di Giocatori chiave. Secondo sky Sport, Doncic è stato costretto a fermarsi a causa di un stiramento alla coscia della gamba sinistra, mentre Reaves ha subito un infortunio alla zona addominale. La lista degli infortunati nella nba è lunga e comprende anche steph curry, jaden mcdaniels, jaden ivey e ja morant, tutti fuori per infortuni vari. La loro assenza si traduce in un disastro per i playoff, con i Lakers che devono fare i conti con la perdita di due pedine fondamentali. I Lakers hanno già vinto 17 titoli nella loro storia, cinque dei quali a minneapolis prima di trasferirsi a los angeles nella stagione 1960-1961.",
+  "corpo2": "Luka Doncic, il giocatore sloveno dei Lakers, ha una storia di successi nella nba, nonostante la sua giovane età. La sua assenza dalla squadra potrebbe avere un impatto significativo sulla loro possibilità di vincere. In un campionato dove il talento fa la differenza, la perdita di Doncic e Reaves è un colpo che i Lakers faticano a digerire. Il denaro fa il gioco nella NBA, e senza Doncic e Reaves, i Lakers sono condannati a lottare per non affondare. In questo senso, la perdita di Doncic e Reaves potrebbe essere un esempio di come la struttura economica della nba possa influenzare i Risultati sul campo. I tifosi dei Lakers saranno costretti a subire le conseguenze della perdita di Doncic e Reaves, con la squadra che fatica a rimanere a galla nella corsa ai playoff.",
+  "journalist": {
+    "id": "matteo_galli_01",
+    "firma": "Matteo Galli",
+    "sezione": "sport"
+  },
+  "published_at": "2026-04-05T07:48:10.814001+00:00",
+  "image": {
+    "type": "feed_image",
+    "url": "https://sport.sky.it/assets/images/5f6dbe52ef098e91af165247b78ba46bcc422f69/skysport/it/nba/video/2025/10/27/austin-reaves-nba-lakers-video-1046697/austin_reaves_lakers_getty.jpg",
+    "source": "Sky Sport",
+    "credit": "Sky Sport",
+    "license": "editorial"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Lakers ko: Doncic fuori\",\n  \"description\": \"Luka Doncic, la stella dei los angeles Lakers, è fuori per il resto della regular season a causa di un infortunio, e ora anche Austin Reaves potrebbe saltare per un mese, rischiando di non essere disponibile per il primo turno dei playoff.\",\n  \"articleBody\": \"Luka Doncic, la stella dei los angeles Lakers, è fuori per il resto della regular season a causa di un infortunio, e ora anche Austin Reaves potrebbe saltare per un mese, rischiando di non essere disponibile per il primo turno dei playoff. La notizia degli infortuni ai Lakers arriva dopo una stagione già difficile per la squadra, che deve fare i conti con la perdita di Giocatori chiave. Secondo sky Sport, Doncic è stato costretto a fermarsi a causa di un stiramento alla coscia della gamba sinistra, mentre Reaves ha subito un infortunio alla zona addominale. La lista degli infortunati nella nba è lunga e comprende anche steph curry, jaden mcdaniels, jaden ivey e ja morant, tutti fuori per infortuni vari. La loro assenza si traduce in un disastro per i playoff, con i Lakers che devono fare i conti con la perdita di due pedine fondamentali. I Lakers hanno già vinto 17 titoli nella loro storia, cinque dei quali a minneapolis prima di trasferirsi a los angeles nella stagione 1960-1961. Luka Doncic, il giocatore sloveno dei Lakers, ha una storia di successi nella nba, nonostante la sua giovane età. La sua assenza dalla squadra potrebbe avere un impatto significativo sulla loro possibilità di vincere. In un campionato dove il talento fa la differenza, la perdita di Doncic e Reaves è un colpo che i Lakers faticano a digerire. Il denaro fa il gioco nella NBA, e senza Doncic e Reaves, i Lakers sono condannati a lottare per non affondare. In questo senso, la perdita di Doncic e Reaves potrebbe essere un esempio di come la struttura economica della nba possa influenzare i Risultati sul campo. I tifosi dei Lakers saranno costretti a subire le conseguenze della perdita di Doncic e Reaves, con la squadra che fatica a rimanere a galla nella corsa ai playoff.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Matteo Galli\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-05T07:48:10.814001+00:00\",\n  \"dateModified\": \"2026-04-05T07:48:10.814001+00:00\",\n  \"url\": \"https://lentemattutina.it/sport/0a90ed298d3fdcd3\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/sport/0a90ed298d3fdcd3\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://sport.sky.it/assets/images/5f6dbe52ef098e91af165247b78ba46bcc422f69/skysport/it/nba/video/2025/10/27/austin-reaves-nba-lakers-video-1046697/austin_reaves_lakers_getty.jpg\",\n    \"creditText\": \"Sky Sport\"\n  }\n}",
+  "priority": 6,
+  "source": "Sky Sport",
+  "source_type": "competitor",
+  "original_url": "https://sport.sky.it/nba/nba-2025-2026-infortuni",
+  "related": [
+    {
+      "title": "Calcio: Turchia fuori dal Mondiale, Yildiz sbaglia il tiro decisivo",
+      "url": "/sport/calcio-yildiz-e-zhegrova-sfida-diretta-per-i-mondi-6ad17d08338293ce",
+      "id": "6ad17d08338293ce",
+      "image_url": "https://live.staticflickr.com/65535/55179569408_38293f1fd6_b.jpg",
+      "image_type": "flickr"
+    },
+    {
+      "title": "Ciclismo: Pogacar sfida van der Poel",
+      "url": "/sport/ciclismo-pogacar-sfida-van-der-poel-0fac622441d4959f",
+      "id": "0fac622441d4959f",
+      "image_url": "https://sport.sky.it/assets/images/ea2ad719c76532ca1a9a8de9e2de382c893c38fe/skysport/it/ciclismo/2026/04/05/giro-fiandre-2026-classifica-live/getty_pogacar_fiandre.jpg",
+      "image_type": "feed_image"
+    },
+    {
+      "title": "Atletico Madrid ingaggia Ederson a 5 milioni euro",
+      "url": "/sport/atletico-madrid-offrira-35-milioni-allatalanta-per-97e92972fd69cbf1",
+      "id": "97e92972fd69cbf1",
+      "image_url": "https://live.staticflickr.com/65535/55185325744_fa063d919f_b.jpg",
+      "image_type": "flickr"
+    }
+  ]
+}
