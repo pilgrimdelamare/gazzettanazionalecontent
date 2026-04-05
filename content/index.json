@@ -1,5 +1,22 @@
 [
   {
+    "id": "6b2fce90e728a142",
+    "slug": "marta-kostyuk-si-allena-a-kiev-tra-allarmi-antaere-6b2fce90e728a142",
+    "title": "Tennis: Kostyuk si allena a Kiev con sirene antiaeree",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-05T08:21:02.894242+00:00",
+    "image_type": "wikimedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Marta-VT.jpg",
+    "occhiello": "KOSTYUK SI ALLENA A KIEV TRA LE SIRENE ANTIAEREE",
+    "lead_preview": "Marta Kostyuk, tennista ucraina numero 25 del ranking WTA, si è allenata il 5 aprile 2026 a Kiev mentre suonavano gli al",
+    "tags": [
+      "guerra ucraina",
+      "kostyuk"
+    ]
+  },
+  {
     "id": "782a7f80008661e6",
     "slug": "il-fotoreporter-deghati-parla-782a7f80008661e6",
     "title": "Emergono foto inedite dell'operazione Eagle Claw: 8 morti e 52 ostaggi",
@@ -560,20 +577,6 @@
     "tags": [
       "morte ricardo ortiz"
     ]
-  },
-  {
-    "id": "6b2fce90e728a142",
-    "slug": "marta-kostyuk-si-allena-a-kiev-tra-allarmi-antaere-6b2fce90e728a142",
-    "title": "Marta kostyuk si allena a kiev tra allarmi antaerei",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-05T08:21:02.894242+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/c818390a5453f2c56507145a604d95faacbaf5c5/skysport/it/tennis/video/2026/04/05/1087797_1775374286657_thumb_494.0000001_1775374798600.jpg",
-    "occhiello": "MARTA KOSTYUK SI ALLENA A KIEV TRA ALLARMI ANTAEREI",
-    "lead_preview": "Marta Kostyuk, tennista ucraina, si allena a Kiev tra allarmi antiaerei prima dell'inizio della stagione sulla terra ros",
-    "tags": []
   },
   {
     "id": "948b59fe6dd48286",
