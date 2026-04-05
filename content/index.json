@@ -1,5 +1,23 @@
 [
   {
+    "id": "04e783f05d3c84d7",
+    "slug": "mircea-lucescu-in-coma-farmacologico-in-un-ospedal-04e783f05d3c84d7",
+    "title": "Mircea Lucescu in coma farmacologico in un ospedale di Bucarest",
+    "section": "salute",
+    "priority": 4,
+    "journalist_firma": "Francesca Nardi",
+    "published_at": "2026-04-05T12:39:17.833897+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/05/131740326-39009e1d-9374-4075-8838-b99128648311.jpg",
+    "occhiello": "",
+    "lead_preview": "Mircea Lucescu è in coma farmacologico presso l’ospedale di Bucarest, dove è ricoverato in terapia intensiva dal 5 april",
+    "tags": [
+      "coma mircea lucescu",
+      "ricovero bucarest",
+      "salute allenatore rumeno"
+    ]
+  },
+  {
     "id": "f278142926554b03",
     "slug": "17000-parrocchetti-invadono-roma-colonizzano-monum-f278142926554b03",
     "title": "17.000 parrocchetti invadono Roma: colonizzano monumenti, parchi e appartamenti",
@@ -8696,24 +8714,6 @@
       "incontro conte trump",
       "caso libero",
       "diplomazia m5s"
-    ]
-  },
-  {
-    "id": "6e918c4cbfc0624a",
-    "slug": "ex-dipendente-infowars-erano-bugie-le-teorie-del-c-6e918c4cbfc0624a",
-    "title": "Ex dipendente infowars: \"erano bugie\" le teorie del compllotto",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-01T09:13:36.535813+00:00",
-    "image_type": "flickr",
-    "image_url": "https://live.staticflickr.com/65535/55172917384_bc181112b5_b.jpg",
-    "occhiello": "EX DIPENDENTE INFOWARS: \"ERANO BUGIE\" LE TEORIE DEL COMPLLOTTO",
-    "lead_preview": "Un ex dipendente di Infowars, il noto sito web di estrema destra fondato da Alex Jones, ha dichiarato che le teorie del ",
-    "tags": [
-      "infowars bugie",
-      "alex jones",
-      "teorie del complotto"
     ]
   }
 ]
