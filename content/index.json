@@ -1,5 +1,23 @@
 [
   {
+    "id": "f37e3e5497ab67df",
+    "slug": "la-startup-glutensens-lancia-dispositivo-per-ident-f37e3e5497ab67df",
+    "title": "Una docente di chimica dell'Università di Milano inventa un sensore anti-glutine per i ristoranti",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-04-05T04:30:11.730295+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1663363912772-b2f34992c805?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxnbHV0ZW4lMjBkZXRlY3Rpb24lMjBkZXZpY2V8ZW58MHwwfHx8MTc3NTM3MDkxN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "LA STARTUP GLUTSENS PROGETTA DISPOSITIVO PER IDENTIFICARE GLUTINE",
+    "lead_preview": "La startup Glutensens sta lavorando a un dispositivo per certificare l'assenza di contaminazioni di glutine nei piatti s",
+    "tags": [
+      "sensore anti-glutine",
+      "glutensens",
+      "ricerca università milano"
+    ]
+  },
+  {
     "id": "4d3e2caf0edd263d",
     "slug": "lo-studio-giapponese-rivela-una-volta-a-settimana-4d3e2caf0edd263d",
     "title": "Anziani che cucinano una volta a settimana hanno meno demenza, rivela studio giapponese",
@@ -403,24 +421,6 @@
       "crollo stadio lima",
       "derby alianza cristal",
       "incidente stadio perù"
-    ]
-  },
-  {
-    "id": "f37e3e5497ab67df",
-    "slug": "la-startup-glutensens-lancia-dispositivo-per-ident-f37e3e5497ab67df",
-    "title": "La startup Glutensens lancia dispositivo per identificare glutine nei ristoranti",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-04-05T04:30:11.730295+00:00",
-    "image_type": "image",
-    "image_url": "https://media-assets.wired.it/photos/69ce39aaa6fc510e599a508c/16:9/w_1280,c_limit/2236543250",
-    "occhiello": "LA TECNOLOGIA DI TROVA IL GLUTINE NELLE PATTINE",
-    "lead_preview": "La startup Glutensens lavora a un dispositivo per certificare l'assenza di contaminazioni di glutine nei piatti serviti ",
-    "tags": [
-      "glutensens",
-      "dispositivo glutine",
-      "chiara di lorenzo"
     ]
   },
   {
