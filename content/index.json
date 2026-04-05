@@ -1,5 +1,23 @@
 [
   {
+    "id": "15e6c53050810aab",
+    "slug": "papa-francesco-annuncia-veglia-per-la-pace-l11-apr-15e6c53050810aab",
+    "title": "Papa Francesco convoca 100mila persone a San Pietro per la veglia per la pace",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Sergio Mancini",
+    "published_at": "2026-04-05T10:47:37.686507+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1538175911510-25336f95b07d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxQYXBhJTIwRnJhbmNlc2NvfGVufDB8MHx8fDE3NzUzOTM2MjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "",
+    "lead_preview": "Papa Francesco ha convocato una veglia di preghiera per la pace in piazza San Pietro l'11 aprile 2026, come annunciato u",
+    "tags": [
+      "veglia papa francesco",
+      "pace san pietro",
+      "papa francesco 2026"
+    ]
+  },
+  {
     "id": "41e9197cdc400f2e",
     "slug": "playmobil-perde-quote-di-mercato-dopo-la-morte-del-41e9197cdc400f2e",
     "title": "Playmobil perde il 14% delle vendite dopo la scelta segreta di Brandstätter",
@@ -922,20 +940,6 @@
       "museo marini firenze",
       "italia viva chiarimenti"
     ]
-  },
-  {
-    "id": "15e6c53050810aab",
-    "slug": "papa-francesco-annuncia-veglia-per-la-pace-l11-apr-15e6c53050810aab",
-    "title": "Papa francesco annuncia veglia per la pace l'11 aprile",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Sergio Mancini",
-    "published_at": "2026-04-05T10:47:37.686507+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/1/6/049c6a082916bc374d5b21222c6a8261.jpg",
-    "occhiello": "PAPA FRANCESCO ANNUNCIA VEGLIA PER LA PACE L'11 APRILE",
-    "lead_preview": "Papa Francesco ha convocato una veglia di preghiera per la pace l'11 aprile in piazza San Pietro, come annunciato oggi d",
-    "tags": []
   },
   {
     "id": "6b2fce90e728a142",
