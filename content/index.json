@@ -1,5 +1,23 @@
 [
   {
+    "id": "a07e7182d757e880",
+    "slug": "hidalgo-trasforma-parigi--40-smog-e-400mila-bici-a-a07e7182d757e880",
+    "title": "Hidalgo trasforma Parigi: -40% smog e 400mila bici al giorno, ma i commercianti insorgono",
+    "section": "esteri",
+    "priority": 4,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-05T07:17:37.027904+00:00",
+    "image_type": "image",
+    "image_url": "https://i.guim.co.uk/img/media/77e512c0c8c08500b87c0b8a533d3f6a46fc95fd/0_0_7129_5706/master/7129.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0819d32a27c42466004865aa8feaf302",
+    "occhiello": "PARIGI AL PODIO MONDIALE: RADIUS 10 KM SENZA AUTO",
+    "lead_preview": "Anne Hidalgo, sindaco uscente di Parigi, ha stravolto la viabilità urbana in dieci anni con 1.000 km di piste ciclabili ",
+    "tags": [
+      "hidalgo parigi",
+      "smog parigi",
+      "piste ciclabili parigi"
+    ]
+  },
+  {
     "id": "b44537cf85cc7e0f",
     "slug": "samir-nasri-rischia-multa-da-45-per-212-ordini-del-b44537cf85cc7e0f",
     "title": "Samir Nasri rischia multa da 45% per 212 ordini Deliveroo a Parigi: la Francia lo vuole tassare",
@@ -8660,23 +8678,6 @@
     "tags": [
       "instagram plus",
       "meta giappone"
-    ]
-  },
-  {
-    "id": "cab870b4d4add54e",
-    "slug": "rai-e-disney-insieme-contenuti-italiani-su-piattaf-cab870b4d4add54e",
-    "title": "Rai paga 100 milioni per andare su disney+",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-03-31T13:20:39.190768+00:00",
-    "image_type": "flickr",
-    "image_url": "https://live.staticflickr.com/65535/55179428952_5520a92fab_b.jpg",
-    "occhiello": "RAI PAGA 100 MILIONI PER ANDARE SU DISNEY+",
-    "lead_preview": "Rai e The Walt Disney Company hanno siglato un accordo per rendere disponibili contenuti italiani su Disney+, a partire ",
-    "tags": [
-      "rai disney+",
-      "accordo disney+"
     ]
   }
 ]
