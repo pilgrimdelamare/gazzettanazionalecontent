@@ -1,43 +1,50 @@
 {
   "id": "948b59fe6dd48286",
   "slug": "quarto-arresto-a-londra-per-incendio-ambulanze-948b59fe6dd48286",
-  "title": "Arresto choc a Londra: 19enne fermato in tribunale per un incendio",
+  "title": "Giovane arrestato a Londra",
   "titles": [
-    "Arresto choc a Londra: 19enne fermato in tribunale per un incendio",
-    "Diciannovenne in manette per un'ambulanza bruciata durante una protesta",
-    "Londra, giovane arrestato per danni durante una manifestazione sanitaria"
+    "Giovane arrestato a Londra",
+    "19enne in manette a Westminster",
+    "Arresto in tribunale a Londra"
   ],
   "title_winner": null,
   "section": "esteri",
-  "occhiello": "ARRESTO A LONDRA PER INCENDIO AMBULANZE",
-  "lead": "Un diciannovenne è stato arrestato sabato 4 aprile all'interno del tribunale di Westminster a Londra, mentre assisteva a un processo concernente un incendio ambulanza avvenuto il 17 febbraio scorso.",
-  "corpo1": "danni alle ambulanze, ma non aveva provocato vittime. L'incendio era avvenuto durante una manifestazione contro la gestione della sanità pubblica nella città di Londra. La polizia ha già iniziato a indagare sull'incidente e ha rilasciato una dichiarazione in cui si precisa che l'indagine è ancora in corso e che non sono stati fatti nomi per l'arresto. Tuttavia, la notizia dell'arresto del diciannovenne ha suscitato scalpore nella comunità di",
-  "corpo2": "Londra, poiché l'incendio dell'ambulanza è stato visto come un atto di protesta contro la gestione della sanità pubblica nella città. La questione della gestione della sanità pubblica a Londra è stata oggetto di dibattito negli ultimi mesi, con molte persone che si sono lamentate della scarsità di servizi sanitari e della mancanza di accesso alle cure mediche. L'arresto del diciannovenne ha portato a una maggiore consapevolezza della questione e ha sollevato la domanda sulla gestione della sanità pubblica nella città. In effetti, il governo locale ha già iniziato a prendere misure per migliorare la gestione della sanità pubblica, ma le proteste continuano a essere un tema di discussione. In sintesi, l'arresto del diciannovenne è solo l'inizio di un dibattito più ampio sulla gestione della sanità pubblica a Londra e sul ruolo della protesta nel cambiare le politiche pubbliche.",
+  "occhiello": "ARRESTO A LONDRA: 19ENNE FERMATO",
+  "lead": "Un diciannovenne è stato arrestato sabato 4 aprile all'interno del tribunale di Westminster a Londra",
+  "corpo1": "Il giovane era presente in tribunale come spettatore, secondo quanto riportato dalla fonte. Non sono state fornite informazioni sulle motivazioni dell'arresto, né sui possibili capi d'accusa. Il tribunale di Westminster è un'importante sede giudiziaria nel cuore di Londra, una città con una popolazione di circa 9 milioni di abitanti. L'arresto è avvenuto in un luogo sensibile, data la presenza di molte persone che si trovavano nel tribunale per motivi legati a processi o udienze. La polizia non ha rilasciato ulteriori dichiarazioni sull'arresto, mantenendo la riservatezza sulle indagini in corso.",
+  "corpo2": "Il protagonista di questa storia, il diciannovenne arrestato, non è stato identificato dalla fonte. Quindi, non è possibile stabilire se abbia avuto precedenti con la giustizia o se ci siano stati episodi simili nel passato. Il meccanismo strutturale che potrebbe aver portato a questo arresto potrebbe essere legato alle norme di sicurezza all'interno del tribunale, che potrebbero essere state violate dal giovane. Ciò che cambia davvero in questa vicenda è la percezione della sicurezza all'interno degli edifici pubblici, come i tribunali, dove la presenza di persone sconosciute potrebbe rappresentare un rischio per l'incolumità degli altri presenti. A pagare le conseguenze di questo evento sarà probabilmente il sistema di sicurezza del tribunale di Westminster, che dovrà rivedere le proprie procedure per prevenire episodi simili in futuro.",
   "journalist": {
-    "id": "anna_colombo_01",
-    "firma": "Anna Colombo",
+    "id": "fabrizio_mei_01",
+    "firma": "Fabrizio Mei",
     "sezione": "esteri"
   },
   "published_at": "2026-04-04T21:39:10.590190+00:00",
   "image": {
     "type": "unsplash",
-    "url": "https://images.unsplash.com/photo-1713111391998-6b8fc58f563e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxMb25kb24lMjBhbWJ1bGFuY2UlMjBmaXJlfGVufDB8MHx8fDE3NzUzNDc2Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "url": "https://images.unsplash.com/photo-1757990111482-396ac08c97a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxjb3VydCUyMGFycmVzdHxlbnwwfDB8fHwxNzc1Mzc2NjEwfDA&ixlib=rb-4.1.0&q=80&w=1080",
     "source": "Unsplash",
-    "credit": "Ethan",
+    "credit": "Mathias Reding",
     "license": "Unsplash License"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Arresto choc a Londra: 19enne fermato in tribunale per un incendio\",\n  \"description\": \"Un diciannovenne è stato arrestato sabato 4 aprile all'interno del tribunale di Westminster a Londra, mentre assisteva a un processo concernente un incendio ambulanza avvenuto il 17 febbraio scorso.\",\n  \"articleBody\": \"Un diciannovenne è stato arrestato sabato 4 aprile all'interno del tribunale di Westminster a Londra, mentre assisteva a un processo concernente un incendio ambulanza avvenuto il 17 febbraio scorso. danni alle ambulanze, ma non aveva provocato vittime. L'incendio era avvenuto durante una manifestazione contro la gestione della sanità pubblica nella città di Londra. La polizia ha già iniziato a indagare sull'incidente e ha rilasciato una dichiarazione in cui si precisa che l'indagine è ancora in corso e che non sono stati fatti nomi per l'arresto. Tuttavia, la notizia dell'arresto del diciannovenne ha suscitato scalpore nella comunità di Londra, poiché l'incendio dell'ambulanza è stato visto come un atto di protesta contro la gestione della sanità pubblica nella città. La questione della gestione della sanità pubblica a Londra è stata oggetto di dibattito negli ultimi mesi, con molte persone che si sono lamentate della scarsità di servizi sanitari e della mancanza di accesso alle cure mediche. L'arresto del diciannovenne ha portato a una maggiore consapevolezza della questione e ha sollevato la domanda sulla gestione della sanità pubblica nella città. In effetti, il governo locale ha già iniziato a prendere misure per migliorare la gestione della sanità pubblica, ma le proteste continuano a essere un tema di discussione. In sintesi, l'arresto del diciannovenne è solo l'inizio di un dibattito più ampio sulla gestione della sanità pubblica a Londra e sul ruolo della protesta nel cambiare le politiche pubbliche.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-04T21:39:10.590190+00:00\",\n  \"dateModified\": \"2026-04-04T21:39:10.590190+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/948b59fe6dd48286\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/948b59fe6dd48286\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1713111391998-6b8fc58f563e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxMb25kb24lMjBhbWJ1bGFuY2UlMjBmaXJlfGVufDB8MHx8fDE3NzUzNDc2Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Ethan\"\n  }\n}",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Giovane arrestato a Londra\",\n  \"description\": \"Un diciannovenne è stato arrestato sabato 4 aprile all'interno del tribunale di Westminster a Londra\",\n  \"articleBody\": \"Un diciannovenne è stato arrestato sabato 4 aprile all'interno del tribunale di Westminster a Londra Il giovane era presente in tribunale come spettatore, secondo quanto riportato dalla fonte. Non sono state fornite informazioni sulle motivazioni dell'arresto, né sui possibili capi d'accusa. Il tribunale di Westminster è un'importante sede giudiziaria nel cuore di Londra, una città con una popolazione di circa 9 milioni di abitanti. L'arresto è avvenuto in un luogo sensibile, data la presenza di molte persone che si trovavano nel tribunale per motivi legati a processi o udienze. La polizia non ha rilasciato ulteriori dichiarazioni sull'arresto, mantenendo la riservatezza sulle indagini in corso. Il protagonista di questa storia, il diciannovenne arrestato, non è stato identificato dalla fonte. Quindi, non è possibile stabilire se abbia avuto precedenti con la giustizia o se ci siano stati episodi simili nel passato. Il meccanismo strutturale che potrebbe aver portato a questo arresto potrebbe essere legato alle norme di sicurezza all'interno del tribunale, che potrebbero essere state violate dal giovane. Ciò che cambia davvero in questa vicenda è la percezione della sicurezza all'interno degli edifici pubblici, come i tribunali, dove la presenza di persone sconosciute potrebbe rappresentare un rischio per l'incolumità degli altri presenti. A pagare le conseguenze di questo evento sarà probabilmente il sistema di sicurezza del tribunale di Westminster, che dovrà rivedere le proprie procedure per prevenire episodi simili in futuro.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Fabrizio Mei\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-04T21:39:10.590190+00:00\",\n  \"dateModified\": \"2026-04-04T21:39:10.590190+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/948b59fe6dd48286\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/948b59fe6dd48286\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1757990111482-396ac08c97a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxjb3VydCUyMGFycmVzdHxlbnwwfDB8fHwxNzc1Mzc2NjEwfDA&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Mathias Reding\"\n  }\n}",
   "priority": 5,
   "source": "refresh",
   "source_type": "refresh",
   "original_url": "https://lentemattutina.it/esteri/quarto-arresto-a-londra-per-incendio-ambulanze-948b59fe6dd48286",
   "related": [
     {
-      "title": "Incendio in California: 180mila in pericolo",
-      "url": "/esteri/incendio-springs-avanza-a-30-kmh-verso-moreno-vall-142b406b65f73cd6",
-      "id": "142b406b65f73cd6",
-      "image_url": "https://images.unsplash.com/photo-1627741145472-53cffba5d9b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHx3aWxkZmlyZSUyMGNhbGlmb3JuaWF8ZW58MHwwfHx8MTc3NTMwMzYxNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "title": "Brady Ebert, ex Turnstile, arrestato a Los Angeles per tentato omicidio con arma da fuoco",
+      "url": "/esteri/ex-turbstile-guitarrista-chiesto-per-assalto-con-l-662cd4b1d5d82bf1",
+      "id": "662cd4b1d5d82bf1",
+      "image_url": "https://images.unsplash.com/photo-1560956737-3428333ba83f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxMb3MlMjBBbmdlbGVzJTIwc2hvb3RpbmclMjBpbmNpZGVudHxlbnwwfDB8fHwxNzc1Mjk4MzA5fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "image_type": "unsplash"
+    },
+    {
+      "title": "Due donne uccise a Nantes, sospettato arrestato in centro psicosociale",
+      "url": "/esteri/doppio-femminicidio-a-nantes-la-richiesta-di-class-dc8a54e14a2af927",
+      "id": "dc8a54e14a2af927",
+      "image_url": "https://live.staticflickr.com/65535/55185469243_b54878c3cb_b.jpg",
+      "image_type": "flickr"
     },
     {
       "title": "Nick Candy vende la sua Chelsea per 275 milioni, nuovo record a Londra",
@@ -45,13 +52,6 @@
       "id": "5eec4ade17f57064",
       "image_url": "https://www.superyachtfan.com/wp-content/uploads/2020/10/Gordon-House-Chelsea-Nick-Candy.jpg",
       "image_type": "ddg_image"
-    },
-    {
-      "title": "Naveed Akram resta in carcere: tribunale australiano nega cauzione dopo strage di Bondi Beach",
-      "url": "/esteri/tribunale-australiano-respinge-richiesta-di-akram-511542741cc2e0ed",
-      "id": "511542741cc2e0ed",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Bondi_Beach_gunmen_parking_their_vehicle_to_inspect_the_back_seats.jpg",
-      "image_type": "wikimedia"
     }
   ],
   "updated_at": "2026-04-04T21:39:10.590190+00:00"
