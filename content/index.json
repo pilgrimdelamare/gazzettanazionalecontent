@@ -1,5 +1,21 @@
 [
   {
+    "id": "462d589949277872",
+    "slug": "uffizi-colpiti-da-hacker-20-computer-bloccati-rich-462d589949277872",
+    "title": "Attacco hacker alla Galleria degli Uffizi: 20 macchine compromesse",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-04T11:43:55.861787+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1618171889969-0feeb769fe78?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxoYWNraW5nJTIwY29tcHV0ZXIlMjBzY3JlZW58ZW58MHwwfHx8MTc3NTM1MzUzM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "ATTACCO HACKER AGLI UFFIZI",
+    "lead_preview": "Sabato 4 aprile, la Galleria degli Uffizi a Firenze è stata colpita da un attacco hacker, con 20 macchine informatiche c",
+    "tags": [
+      "attacco hacker uffizi"
+    ]
+  },
+  {
     "id": "5df1f0a2b2beb3e5",
     "slug": "israele-colpisce-hezbollah-a-beirut-raid-aerei-nel-5df1f0a2b2beb3e5",
     "title": "Israele colpisce Hezbollah a Beirut",
@@ -47,22 +63,6 @@
     "occhiello": "INCENDIO IN CALIFORNIA MINACCIA MORENO VALLEY",
     "lead_preview": "Un incendio sta avanzando a 30 chilometri orari verso Moreno Valley, in California, minacciando la città",
     "tags": []
-  },
-  {
-    "id": "462d589949277872",
-    "slug": "uffizi-colpiti-da-hacker-20-computer-bloccati-rich-462d589949277872",
-    "title": "Attacco hacker alla Galleria degli Uffizi: 20 pc infettati",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-04T11:43:55.861787+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1524635962361-d7f8ae9c79b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxmaXJlbnplJTIwaGFja3xlbnwwfDB8fHwxNzc1MzUyOTgyfDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "ATTACCO INFORMATICO ALLA GALLERIA DEGLI UFFIZI: 20 COMPUTER INFETTI",
-    "lead_preview": "Sabato 4 aprile la Galleria degli Uffizi a Firenze è stata colpita da un attacco hacker che ha compromesso 20 macchine i",
-    "tags": [
-      "attacco uffizi"
-    ]
   },
   {
     "id": "d0c5ccaa8f421714",
