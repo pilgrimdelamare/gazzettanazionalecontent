@@ -1,5 +1,23 @@
 [
   {
+    "id": "bd94755d11343a7b",
+    "slug": "calcio-bologna-batte-cremonese-2-1-a-zini-joao-mar-bd94755d11343a7b",
+    "title": "Ciclismo: Bologna sconfitta 2-1",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-05T15:12:28.637294+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1671715789458-431a634ff0bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxKb2FvJTIwTWFyaW8lMjBCb2xvZ25hJTIwQ3JlbW9uZXNlJTIwU3RhZGlvJTIwR2lvdmFubmklMjBaaW5pfGVufDB8MHx8fDE3NzU0MDk1NTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "JOAO MARIO DECIDE CON UN GOL MEMORABILE.",
+    "lead_preview": "Joao Mario decide con un gol memorabile. Joao Mario ha segnato al 23’ del primo tempo, decidendo la gara tra Cremonese e",
+    "tags": [
+      "ciclismo",
+      "bologna",
+      "cremonese"
+    ]
+  },
+  {
     "id": "e32c2e53949d2667",
     "slug": "calcio-0-0-angers-e-lione-si-dividono-i-punti-in-l-e32c2e53949d2667",
     "title": "Calcio: 0-0, Angers e Lione si dividono i punti in Ligue 1",
@@ -542,24 +560,6 @@
     "tags": [
       "trattativa nave garibaldi",
       "caso ottaviani"
-    ]
-  },
-  {
-    "id": "bd94755d11343a7b",
-    "slug": "calcio-bologna-batte-cremonese-2-1-a-zini-joao-mar-bd94755d11343a7b",
-    "title": "Calcio: Bologna batte Cremonese 2-1 a Zini, Joao Mario decide al 23'",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-05T15:12:28.637294+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it",
-    "occhiello": "JOAO MARIO DECIDE AL 23'",
-    "lead_preview": "Joao Mario ha segnato al 23’ del primo tempo, decidendo la gara tra Cremonese e Bologna terminata 2-1 in favore dei ross",
-    "tags": [
-      "bologna-cremonese 2-1",
-      "joao mario gol",
-      "serie a"
     ]
   },
   {
