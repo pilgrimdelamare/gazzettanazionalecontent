@@ -1,40 +1,43 @@
 {
   "id": "22abd5890fd6d993",
   "slug": "il-cucciolo-di-puma-che-fa-tremare-washington-22abd5890fd6d993",
-  "title": "Cucciolo di puma salvato a Washington, è il terzo in due mesi",
+  "title": "Puma abbandonato: un cucciolo è salvato nel National Park di Washington",
   "titles": [
-    "Cucciolo di puma salvato a Washington, è il terzo in due mesi",
-    "Puma, tre settimane e un destino cambiato: Cr in cura",
-    "Washington, crolla popolazione di puma: tre cuccioli in salvo"
+    "Puma abbandonato: un cucciolo è salvato nel National Park di Washington",
+    "National Park Service trova terzo cucciolo di puma abbandonato in due mesi",
+    "Un cucciolo di tre settimane è salvato da un'abbandono mortale nel parco di Washington"
   ],
   "title_winner": null,
   "section": "esteri",
-  "occhiello": "TERZO CUCCIOLO DI PUMA RECUPERATO NEL WASHINGTON",
-  "lead": "Cr, un cucciolo di puma di tre settimane, è stato recuperato il 4 aprile 2026 dal National Park Service nello stato di Washington. Il felino, rinvenuto in condizioni critiche, rappresenta il terzo esemplare giovane salvato nella stessa area negli ultimi due mesi.",
-  "corpo1": "Il National Park Service ha confermato il recupero del cucciolo nella foresta nazionale di Gifford Pinchot, a circa 150 km a sudest di Seattle. Secondo il biologo capo Mark Elbroch, Cr presentava disidratazione e ipotermia ma risponde positivamente alle cure. Il precedente intervento risale al 12 febbraio 2026, quando furono salvati due esemplari femmina di cinque settimane. La zona è monitorata da 18 telecamere termiche e 32 trappole fotografiche dal 2025, dopo il crollo del 40% della popolazione locale di puma registrato tra il 2020 e il 2024.",
-  "corpo2": "Le operazioni di salvataggio coincidono con l'escalation del dibattito sul Piano di Conservazione dei Grandi Predatori dello stato di Washington, bloccato da tre anni per le proteste degli allevatori. Il documento prevedeva l'istituzione di corridoi ecologici tra le aree protette, misura osteggiata dall'Associazione degli Agricoltori del Nordovest. Intanto, i ricercatori dell'Università statale hanno identificato nei pesticidi neonicotinoidi la causa principale della sindrome da deperimento che colpisce i cuccioli. L'amministrazione federale ha stanziato 2,3 milioni di dollari per studiare il fenomeno, mentre le associazioni ambientaliste denunciano l'assenza di restrizioni all'uso dei fitofarmaci. Il destino di Cr è già scritto: finirà in un programma di riabilitazione, lontano dal territorio dove i suoi simili continuano a morire per mano dell'uomo.",
+  "occhiello": "CUCCIOLO DI PUMA SALVATO A WASHINGTON",
+  "lead": "Un cucciolo di puma di tre settimane è Stato recuperato il 4 aprile 2026 dal National Park Service nello Stato di Washington. Il cucciolo è stato trovato in una zona isolata del parco e sembra essere Stato abbandonato dai suoi genitori.",
+  "corpo1": "Il cucciolo di puma è il terzo a essere salvato dal National Park Service in due mesi. Secondo il comunicato ufficiale del servizio, il cucciolo è Stato trovato in una zona isolata del parco e sembra essere Stato abbandonato dai suoi genitori. Il cucciolo è stato trasportato in un centro di cura per animali selvatici, dove riceverà cure mediche e alimentari. Il National Park Service ha dichiarato che il cucciolo sarà rilasciato nel suo habitat naturale una volta che sarà in grado di sopravvivere da solo.",
+  "corpo2": "Il cucciolo di puma è un esempio di fragilità della fragilità della vita selvatica e della necessità di proteggere gli habitat naturali. Il National Park Service lavora costantamente per proteggere gli animali selvatici e i loro habitat, ma la loro sopravvivenza è sempre a rischio a causa della distruzione dell'habitat e dell'inquinamento. Il cucciolo di puma salvato sarà un esempio un esempio di come la protezione degli animali selvatici possa avere un impatto positivo sulla conservazione dell'habitat naturale. La comunità locale dovrà affrontare della sopravvivenza dei puma sarà la comunità locale, che dovrà affrontare le conseguenze dell'inquinamento e della distruzione dell'habitat.",
   "journalist": {
-    "id": "fabrizio_mei_01",
-    "firma": "Fabrizio Mei",
+    "id": "anna_colombo_01",
+    "firma": "Anna Colombo",
     "sezione": "esteri"
   },
   "published_at": "2026-04-04T21:45:43.848612+00:00",
   "image": {
-    "type": "none",
-    "source": ""
+    "type": "unsplash",
+    "url": "https://images.unsplash.com/photo-1603097703801-7b1ae8458fe7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxXYXNoaW5ndG9uJTIwcHVtYSUyMGN1YiUyMHJlc2N1ZSUyMDIwMjZ8ZW58MHwwfHx8MTc3NTQwOTIzOHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "source": "Unsplash",
+    "credit": "Alex Kramarevsky",
+    "license": "Unsplash License"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Cucciolo di puma salvato a Washington, è il terzo in due mesi\",\n  \"description\": \"Cr, un cucciolo di puma di tre settimane, è stato recuperato il 4 aprile 2026 dal National Park Service nello stato di Washington. Il felino, rinvenuto in condizioni critiche, rappresenta il terzo esemplare giovane salvato nella stessa area negli ultimi due mesi.\",\n  \"articleBody\": \"Cr, un cucciolo di puma di tre settimane, è stato recuperato il 4 aprile 2026 dal National Park Service nello stato di Washington. Il felino, rinvenuto in condizioni critiche, rappresenta il terzo esemplare giovane salvato nella stessa area negli ultimi due mesi. Il National Park Service ha confermato il recupero del cucciolo nella foresta nazionale di Gifford Pinchot, a circa 150 km a sudest di Seattle. Secondo il biologo capo Mark Elbroch, Cr presentava disidratazione e ipotermia ma risponde positivamente alle cure. Il precedente intervento risale al 12 febbraio 2026, quando furono salvati due esemplari femmina di cinque settimane. La zona è monitorata da 18 telecamere termiche e 32 trappole fotografiche dal 2025, dopo il crollo del 40% della popolazione locale di puma registrato tra il 2020 e il 2024. Le operazioni di salvataggio coincidono con l'escalation del dibattito sul Piano di Conservazione dei Grandi Predatori dello stato di Washington, bloccato da tre anni per le proteste degli allevatori. Il documento prevedeva l'istituzione di corridoi ecologici tra le aree protette, misura osteggiata dall'Associazione degli Agricoltori del Nordovest. Intanto, i ricercatori dell'Università statale hanno identificato nei pesticidi neonicotinoidi la causa principale della sindrome da deperimento che colpisce i cuccioli. L'amministrazione federale ha stanziato 2,3 milioni di dollari per studiare il fenomeno, mentre le associazioni ambientaliste denunciano l'assenza di restrizioni all'uso dei fitofarmaci. Il destino di Cr è già scritto: finirà in un programma di riabilitazione, lontano dal territorio dove i suoi simili continuano a morire per mano dell'uomo.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Fabrizio Mei\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-04T21:45:43.848612+00:00\",\n  \"dateModified\": \"2026-04-04T21:45:43.848612+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/22abd5890fd6d993\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/22abd5890fd6d993\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Puma abbandonato: un cucciolo è salvato nel National Park di Washington\",\n  \"description\": \"Un cucciolo di puma di tre settimane è Stato recuperato il 4 aprile 2026 dal National Park Service nello Stato di Washington. Il cucciolo è stato trovato in una zona isolata del parco e sembra essere Stato abbandonato dai suoi genitori.\",\n  \"articleBody\": \"Un cucciolo di puma di tre settimane è Stato recuperato il 4 aprile 2026 dal National Park Service nello Stato di Washington. Il cucciolo è stato trovato in una zona isolata del parco e sembra essere Stato abbandonato dai suoi genitori. Il cucciolo di puma è il terzo a essere salvato dal National Park Service in due mesi. Secondo il comunicato ufficiale del servizio, il cucciolo è Stato trovato in una zona isolata del parco e sembra essere Stato abbandonato dai suoi genitori. Il cucciolo è stato trasportato in un centro di cura per animali selvatici, dove riceverà cure mediche e alimentari. Il National Park Service ha dichiarato che il cucciolo sarà rilasciato nel suo habitat naturale una volta che sarà in grado di sopravvivere da solo. Il cucciolo di puma è un esempio di fragilità della fragilità della vita selvatica e della necessità di proteggere gli habitat naturali. Il National Park Service lavora costantamente per proteggere gli animali selvatici e i loro habitat, ma la loro sopravvivenza è sempre a rischio a causa della distruzione dell'habitat e dell'inquinamento. Il cucciolo di puma salvato sarà un esempio un esempio di come la protezione degli animali selvatici possa avere un impatto positivo sulla conservazione dell'habitat naturale. La comunità locale dovrà affrontare della sopravvivenza dei puma sarà la comunità locale, che dovrà affrontare le conseguenze dell'inquinamento e della distruzione dell'habitat.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-04T21:45:43.848612+00:00\",\n  \"dateModified\": \"2026-04-04T21:45:43.848612+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/22abd5890fd6d993\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/22abd5890fd6d993\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1603097703801-7b1ae8458fe7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxXYXNoaW5ndG9uJTIwcHVtYSUyMGN1YiUyMHJlc2N1ZSUyMDIwMjZ8ZW58MHwwfHx8MTc3NTQwOTIzOHww&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Alex Kramarevsky\"\n  }\n}",
   "priority": 5,
   "source": "refresh",
   "source_type": "refresh",
   "original_url": "https://lentemattutina.it/esteri/il-cucciolo-di-puma-che-fa-tremare-washington-22abd5890fd6d993",
   "related": [
     {
-      "title": "Iran abbatte un F-35 statunitense ad Ahvaz: è il secondo in sei mesi",
-      "url": "/esteri/iran-rivendica-secondo-abbattimento-di-caccia-usa-9f4c7befec85f5d5",
-      "id": "9f4c7befec85f5d5",
-      "image_url": "https://images.unsplash.com/photo-1616346796308-bd3e4207d222?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxBaHZheiUyMG1pbGl0YXJ5JTIwY29uZmxpY3R8ZW58MHwwfHx8MTc3NTI3NDQwN3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "image_type": "unsplash"
+      "title": "Xingu, cucciolo di giaguaro nato in Brasile",
+      "url": "/esteri/xingu-cucciolo-di-giaguaro-nato-in-brasile-baaa570b1b18c55d",
+      "id": "baaa570b1b18c55d",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/1/22/c8383d48f7bd3f45cb00e6d03f4eab3c.jpg",
+      "image_type": "image"
     },
     {
       "title": "Rubio: Washington 'riesamina' questione misteriosa",
@@ -44,10 +47,10 @@
       "image_type": "wikimedia"
     },
     {
-      "title": "Regno Unito, governo chiede revisione normativa lavoro per ridurre 'pressione regolatoria'",
+      "title": "Regno Unito chiama a ridurre pressione regolatoria sulle imprese",
       "url": "/esteri/il-governo-britannico-vuole-mortificare-i-diritti-3137605a102228aa",
       "id": "3137605a102228aa",
-      "image_url": "https://images.pexels.com/photos/36100296/pexels-photo-36100296.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_url": "https://images.pexels.com/photos/36100303/pexels-photo-36100303.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "image_type": "pexels"
     }
   ],
