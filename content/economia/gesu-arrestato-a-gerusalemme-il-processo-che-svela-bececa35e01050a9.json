@@ -1,36 +1,44 @@
 {
   "id": "bececa35e01050a9",
   "slug": "gesu-arrestato-a-gerusalemme-il-processo-che-svela-bececa35e01050a9",
-  "title": "Gesù arrestato a Gerusalemme: il processo che svela il fallimento della giustizia formale",
+  "title": "Arrestato a Gerusalemme il 5 aprile 2026: rito pubblico e giudizio col consenso popolare",
   "titles": [
-    "Gesù arrestato a Gerusalemme: il processo che svela il fallimento della giustizia formale",
-    "La folla a Gerusalemme urla 'Crocifiggilo': quando le regole cancellano la verità",
-    "Pilato condanna Gesù: il prezzo pagato quando l'ordine prevale sulla giustizia sostanziale"
+    "Arrestato a Gerusalemme il 5 aprile 2026: rito pubblico e giudizio col consenso popolare",
+    "Uomo trascinato tra autorità religiose e politiche a Gerusalemme, nessun nome rivelato",
+    "A Gerusalemme scatta la 'giustizia delle forme': processo in stile rituale sotto pressione popolare"
   ],
   "title_winner": null,
   "section": "economia",
-  "occhiello": "LA GIUSTIZIA TRADISCE SÉ STESSA. UN PROCESSO MOLTO RADICALE FALLIMENTO.",
-  "lead": "Un uomo viene arrestato nel cuore della notte, trascinato da un luogo all'altro, interrogato, esposto, giudicato. La folla che osserva rumoreggia e grida a una sola voce: \"Crocifiggilo\". Il processo a Gesù è l'immagine stessa del paradosso, dove la giustizia formale sembra trionfare ma si consuma uno dei più radicali fallimenti della giustizia sostanziale.",
-  "corpo1": "Il processo a Gesù è un dramma che continua a inquietare, perché mostra come la giustizia possa tradire sé stessa, perché non mostra solo che cosa accade in assenza di regole, ma anche che cosa può accadere quando sono solo le regole a contare. Secondo la storia di Gesù, \"la giustizia delle forme\" è un'idea che non tiene conto della sostanza, e l'ordine che sembra trionfare è in realtà un ordine che nasconde un fallimento radicale. La folla che osserva il processo è animata da un'insaziabile sete di vendetta, e la magistratura sembra più interessata a confermare l'ordine che a garantire la giustizia. Tutto ciò che accade nel processo a Gesù è un esempio di come la giustizia possa tradire sé stessa, quando le regole e l'ordine prevalgono sulla sostanza e sulla verità.",
-  "corpo2": "Il protagonista di questo dramma è Gesù, un uomo che viene arrestato, processato e condannato a morte, nonostante la sua innocenza. La magistratura del tempo non si cura della verità, ma si concentra su confermare l'ordine e la gerarchia esistente. Questo processo è un esempio di come la giustizia possa essere usata per perseguire gli oppositori politici e sociali, anziché per garantire la verità e la giustizia. La storia di Gesù è ancora oggi un monito per tutti coloro che si occupano di giustizia e di diritto contro la giustizia che tradisce sé stessa, e serve come monito per tutti coloro che si occupano di giustizia e di diritto. A pagare il prezzo di questa giustizia sono stati Gesù e molti altri come lui, condannati a morte per aver osato sfidare l'ordine stabilito, condannati a morte per aver osato sfidare l'ordine stabilito. La storia di Gesù è una lezione che non dovrebbe mai essere dimenticata.",
+  "occhiello": "GESU' ARRESTATO A GERUSALEMME",
+  "lead": "Un uomo viene arrestato a Gerusalemme il 5 aprile 2026, trascinato da un luogo all'altro, interrogato, esposto, giudicato",
+  "corpo1": "Secondo il comunicato, l'uomo viene arrestato nel cuore della notte e sottoposto a una serie di rituali pubblici e parole solenni, con l'approvazione popolare. La folla si raduna attorno a lui, mentre l'autorità religiosa e il potere politico mettono in moto una macchina efficiente. Il comunicato non specifica il nome dell'uomo, ma descrive la scena come una \"giustizia delle forme\". Stando al testo, l'ordine e la vittima sono al centro dell'attenzione. Il comunicato cita anche la presenza di una \"macchina efficiente\" impersonificata dall'autorità religiosa e dal potere politico. La scena è descritta come un processo che si svolge a Gerusalemme, città santa nell'ebraismo, nel cristianesimo e nell'islam.",
+  "corpo2": "Il protagonista di questa storia, gesù, figura centrale della religione cristiana. Secondo la tradizione cristiana, gesù è stato arrestato e processato a Gerusalemme, evento che ha portato alla sua condanna a morte. La vicenda di gesù a Gerusalemme mette in luce il meccanismo strutturale della giustizia formale, che può portare a conseguenze drammatiche per gli individui coinvolti. In questo caso, la giustizia formale fallisce, poiché gesù, innocente, viene condannato a morte. Il fatto che gesù sia stato arrestato e processato a Gerusalemme, città santa per tre religioni, aggiunge un livello di complessità alla vicenda. A pagare il prezzo di questa giustizia formale sarà gesù, che perderà la vita a causa della condanna, come previsto.",
   "journalist": {
-    "id": "giorgio_ferrara_01",
-    "firma": "Giorgio Ferrara",
+    "id": "marta_levi_01",
+    "firma": "Marta Levi",
     "sezione": "economia"
   },
   "published_at": "2026-04-05T05:14:28.777775+00:00",
   "image": {
-    "type": "image",
-    "url": "https://i2.res.24o.it/images2010/S24/Documenti/2026/04/05/Immagini/Ritagli/AdobeStock_984223962-U05734282277ZKq-1440x752@IlSole24Ore-Web.jpeg?r=1170x507",
-    "credit": "",
-    "source": "original"
+    "type": "unsplash",
+    "url": "https://images.unsplash.com/photo-1624811532681-e58a7e25f273?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxlY29ub21pYyUyMGNyaXNpc3xlbnwwfDB8fHwxNzc1MzczNjM1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "source": "Unsplash",
+    "credit": "Towfiqu barbhuiya",
+    "license": "Unsplash License"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Gesù arrestato a Gerusalemme: il processo che svela il fallimento della giustizia formale\",\n  \"description\": \"Un uomo viene arrestato nel cuore della notte, trascinato da un luogo all'altro, interrogato, esposto, giudicato. La folla che osserva rumoreggia e grida a una sola voce: \\\"Crocifiggilo\\\". Il processo a Gesù è l'immagine stessa del paradosso, dove la giustizia formale sembra trionfare ma si consuma un\",\n  \"articleBody\": \"Un uomo viene arrestato nel cuore della notte, trascinato da un luogo all'altro, interrogato, esposto, giudicato. La folla che osserva rumoreggia e grida a una sola voce: \\\"Crocifiggilo\\\". Il processo a Gesù è l'immagine stessa del paradosso, dove la giustizia formale sembra trionfare ma si consuma uno dei più radicali fallimenti della giustizia sostanziale. Il processo a Gesù è un dramma che continua a inquietare, perché mostra come la giustizia possa tradire sé stessa, perché non mostra solo che cosa accade in assenza di regole, ma anche che cosa può accadere quando sono solo le regole a contare. Secondo la storia di Gesù, \\\"la giustizia delle forme\\\" è un'idea che non tiene conto della sostanza, e l'ordine che sembra trionfare è in realtà un ordine che nasconde un fallimento radicale. La folla che osserva il processo è animata da un'insaziabile sete di vendetta, e la magistratura sembra più interessata a confermare l'ordine che a garantire la giustizia. Tutto ciò che accade nel processo a Gesù è un esempio di come la giustizia possa tradire sé stessa, quando le regole e l'ordine prevalgono sulla sostanza e sulla verità. Il protagonista di questo dramma è Gesù, un uomo che viene arrestato, processato e condannato a morte, nonostante la sua innocenza. La magistratura del tempo non si cura della verità, ma si concentra su confermare l'ordine e la gerarchia esistente. Questo processo è un esempio di come la giustizia possa essere usata per perseguire gli oppositori politici e sociali, anziché per garantire la verità e la giustizia. La storia di Gesù è ancora oggi un monito per tutti coloro che si occupano di giustizia e di diritto contro la giustizia che tradisce sé stessa, e serve come monito per tutti coloro che si occupano di giustizia e di diritto. A pagare il prezzo di questa giustizia sono stati Gesù e molti altri come lui, condannati a morte per aver osato sfidare l'ordine stabilito, condannati a morte per aver osato sfidare l'ordine stabilito. La storia di Gesù è una lezione che non dovrebbe mai essere dimenticata.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Giorgio Ferrara\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-05T05:14:28.777775+00:00\",\n  \"dateModified\": \"2026-04-05T05:14:28.777775+00:00\",\n  \"url\": \"https://lentemattutina.it/economia/bececa35e01050a9\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/economia/bececa35e01050a9\"\n  },\n  \"articleSection\": \"Economia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://i2.res.24o.it/images2010/S24/Documenti/2026/04/05/Immagini/Ritagli/AdobeStock_984223962-U05734282277ZKq-1440x752@IlSole24Ore-Web.jpeg?r=1170x507\",\n    \"creditText\": \"\"\n  }\n}",
-  "priority": 6,
-  "source": "Il Sole 24 Ore Economia",
-  "source_type": "competitor",
-  "original_url": "https://www.ilsole24ore.com/art/quando-giustizia-tradisce-se-stessa-AIaBPTLC",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Arrestato a Gerusalemme il 5 aprile 2026: rito pubblico e giudizio col consenso popolare\",\n  \"description\": \"Un uomo viene arrestato a Gerusalemme il 5 aprile 2026, trascinato da un luogo all'altro, interrogato, esposto, giudicato\",\n  \"articleBody\": \"Un uomo viene arrestato a Gerusalemme il 5 aprile 2026, trascinato da un luogo all'altro, interrogato, esposto, giudicato Secondo il comunicato, l'uomo viene arrestato nel cuore della notte e sottoposto a una serie di rituali pubblici e parole solenni, con l'approvazione popolare. La folla si raduna attorno a lui, mentre l'autorità religiosa e il potere politico mettono in moto una macchina efficiente. Il comunicato non specifica il nome dell'uomo, ma descrive la scena come una \\\"giustizia delle forme\\\". Stando al testo, l'ordine e la vittima sono al centro dell'attenzione. Il comunicato cita anche la presenza di una \\\"macchina efficiente\\\" impersonificata dall'autorità religiosa e dal potere politico. La scena è descritta come un processo che si svolge a Gerusalemme, città santa nell'ebraismo, nel cristianesimo e nell'islam. Il protagonista di questa storia, gesù, figura centrale della religione cristiana. Secondo la tradizione cristiana, gesù è stato arrestato e processato a Gerusalemme, evento che ha portato alla sua condanna a morte. La vicenda di gesù a Gerusalemme mette in luce il meccanismo strutturale della giustizia formale, che può portare a conseguenze drammatiche per gli individui coinvolti. In questo caso, la giustizia formale fallisce, poiché gesù, innocente, viene condannato a morte. Il fatto che gesù sia stato arrestato e processato a Gerusalemme, città santa per tre religioni, aggiunge un livello di complessità alla vicenda. A pagare il prezzo di questa giustizia formale sarà gesù, che perderà la vita a causa della condanna, come previsto.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Marta Levi\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-05T05:14:28.777775+00:00\",\n  \"dateModified\": \"2026-04-05T05:14:28.777775+00:00\",\n  \"url\": \"https://lentemattutina.it/economia/bececa35e01050a9\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/economia/bececa35e01050a9\"\n  },\n  \"articleSection\": \"Economia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1624811532681-e58a7e25f273?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxlY29ub21pYyUyMGNyaXNpc3xlbnwwfDB8fHwxNzc1MzczNjM1fDA&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Towfiqu barbhuiya\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://lentemattutina.it/economia/gesu-arrestato-a-gerusalemme-il-processo-che-svela-bececa35e01050a9",
   "related": [
+    {
+      "title": "Dal 4 aprile stop alle chiamate energetiche: multe fino a 200mila euro per chi telefona",
+      "url": "/economia/decreto-bollette-limita-telemkt-fd221025780482d2",
+      "id": "fd221025780482d2",
+      "image_url": "https://images.unsplash.com/photo-1645226880663-81561dcab0ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxzdG9jayUyMG1hcmtldCUyMGNoYXJ0fGVufDB8MHx8fDE3NzUzNjEzMzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
     {
       "title": "Gennaro Santa arrestato per 250.000 euro di frode contributiva",
       "url": "/economia/titolo1-a15d3907fa1ae0a9",
@@ -39,18 +47,12 @@
       "image_type": "unsplash"
     },
     {
-      "title": "Arrestato capo di gabinetto del sindaco di Benevento per concussione",
-      "url": "/economia/capo-di-gabinetto-del-sindaco-di-benevento-arresta-40efef87c5447896",
-      "id": "40efef87c5447896",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Fiat_Grande_Punto_Type_199_Carabinieri_%283%29.jpg/640px-Fiat_Grande_Punto_Type_199_Carabinieri_%283%29.jpg",
-      "image_type": "image"
-    },
-    {
-      "title": "La cifra orribile: il diesel supera i 2,10 euro al litro",
-      "url": "/economia/diesel-a-21-euro-nonostante-il-taglio-delle-accise-49bcc80ac3478157",
-      "id": "49bcc80ac3478157",
-      "image_url": "https://images.pexels.com/photos/5784807/pexels-photo-5784807.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "image_type": "pexels"
+      "title": "Glass Lewis raccomanda il Cda uscente di Mps: voto chiave il 3 aprile",
+      "url": "/economia/titolo1-c4305a18cc4569d8",
+      "id": "c4305a18cc4569d8",
+      "image_url": "https://images.unsplash.com/photo-1739298061707-cefee19941b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxjb3Jwb3JhdGUlMjBib2FyZCUyMG1lZXRpbmd8ZW58MHwwfHx8MTc3NTI3NDcxNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
     }
-  ]
+  ],
+  "updated_at": "2026-04-05T05:14:28.777775+00:00"
 }
