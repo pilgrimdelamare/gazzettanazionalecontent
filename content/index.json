@@ -1,5 +1,19 @@
 [
   {
+    "id": "142b406b65f73cd6",
+    "slug": "incendio-springs-avanza-a-30-kmh-verso-moreno-vall-142b406b65f73cd6",
+    "title": "Incendio in california minaccia moreno valley",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-04T01:35:56.306163+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/18734673/pexels-photo-18734673.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "INCENDIO IN CALIFORNIA MINACCIA MORENO VALLEY",
+    "lead_preview": "Un incendio sta avanzando a 30 chilometri orari verso Moreno Valley, in California, minacciando la città",
+    "tags": []
+  },
+  {
     "id": "462d589949277872",
     "slug": "uffizi-colpiti-da-hacker-20-computer-bloccati-rich-462d589949277872",
     "title": "Attacco hacker alla Galleria degli Uffizi: 20 pc infettati",
@@ -1426,22 +1440,6 @@
     "lead_preview": "Area Studi Legacoop e Ipsos. 3 Aprile 2026. L’85% degli italiani si aspetta un aumento dei costi di Vita. La paura più d",
     "tags": [
       "aumento costi vita"
-    ]
-  },
-  {
-    "id": "142b406b65f73cd6",
-    "slug": "incendio-springs-avanza-a-30-kmh-verso-moreno-vall-142b406b65f73cd6",
-    "title": "Incendio in California: 180mila in pericolo",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-04T01:35:56.306163+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1627741145472-53cffba5d9b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHx3aWxkZmlyZSUyMGNhbGlmb3JuaWF8ZW58MHwwfHx8MTc3NTMwMzYxNHww&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "INCENDIO A 30 KM/H: PIÙ VELOCE DI UNA FERROVIA",
-    "lead_preview": "Un incendio inarrestabile sta avanzando a 30 chilometri orari verso Moreno Valley, in California, minacciando la città d",
-    "tags": [
-      "incendio california"
     ]
   },
   {
