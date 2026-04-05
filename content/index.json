@@ -1,5 +1,22 @@
 [
   {
+    "id": "f37e3e5497ab67df",
+    "slug": "la-startup-glutensens-lancia-dispositivo-per-ident-f37e3e5497ab67df",
+    "title": "Glutine sotto controllo: test in 5 minuti a Milano",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-04-05T04:30:11.730295+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1605781231474-f60dea478e8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxmb29kJTIwc2FmZXR5JTIwdGVzdGluZyUyMGdsdXRlbiUyMGRldGVjdGlvbnxlbnwwfDB8fHwxNzc1Mzk5Nzc1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "GLUTINE RILEVATO IN 5 MINUTI",
+    "lead_preview": "Chiara di Lorenzo, farmacista e professoressa di chimica degli alimenti all’università degli studi di Milano, ha fondato",
+    "tags": [
+      "test glutine milano"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "bececa35e01050a9",
     "slug": "gesu-arrestato-a-gerusalemme-il-processo-che-svela-bececa35e01050a9",
     "title": "Uomo arrestato a Gerusalemme",
@@ -1393,24 +1410,6 @@
       "fondi stipendi arretrati",
       "serie c fondi",
       "rischio esclusione fondi"
-    ]
-  },
-  {
-    "id": "f37e3e5497ab67df",
-    "slug": "la-startup-glutensens-lancia-dispositivo-per-ident-f37e3e5497ab67df",
-    "title": "A Milano un test in cucina rileva il glutine in 5 minuti sotto i 20 ppm",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-04-05T04:30:11.730295+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1605781231474-f60dea478e8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxmb29kJTIwc2FmZXR5JTIwdGVzdGluZyUyMGdsdXRlbiUyMGRldGVjdGlvbnxlbnwwfDB8fHwxNzc1Mzk5Nzc1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "",
-    "lead_preview": "Chiara Di Lorenzo, farmacista e professoressa di chimica degli alimenti all’università degli studi di Milano, ha fondato",
-    "tags": [
-      "test glutine milano",
-      "startup glutensens",
-      "chiara di lorenzo"
     ]
   },
   {
