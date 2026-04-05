@@ -1,5 +1,23 @@
 [
   {
+    "id": "6373105027974f5d",
+    "slug": "calcio-bologna-batte-ginevra-3-1-in-amichevole-bar-6373105027974f5d",
+    "title": "Calcio: Bologna-Ginevra 3-1, Barrow trascina i rossoblù",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-05T16:28:40.941114+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/33605804/pexels-photo-33605804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "BARROW TRASCINA IL BOLOGNA IN AMICHEVOLE",
+    "lead_preview": "Il Bologna ha battuto il Ginevra 3-1 in un'amichevole di preparazione il 5 aprile 2026. L'attaccante musa barrow è Stato",
+    "tags": [
+      "bologna calcio",
+      "amichevole bologna",
+      "barrow bologna"
+    ]
+  },
+  {
     "id": "0a90ed298d3fdcd3",
     "slug": "lakers-ko-doncic-fuori-0a90ed298d3fdcd3",
     "title": "Basket: Luka Doncic salta il resto della stagione NBA per infortunio al ginocchio",
@@ -32,23 +50,6 @@
     "tags": [
       "vildoza infortunio",
       "virtus bologna"
-    ]
-  },
-  {
-    "id": "6373105027974f5d",
-    "slug": "calcio-bologna-batte-ginevra-3-1-in-amichevole-bar-6373105027974f5d",
-    "title": "Calcio: Musa Barrow show, Bologna-Ginevra 3-1",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-05T16:28:40.941114+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Musa_Bay%2C_Iran_ESA372739.jpg",
-    "occhiello": "BOLOGNA-GINEVRA 3-1: AMICHEVOLE, BARROW FA TRIPLO",
-    "lead_preview": "Musa Barrow ha segnato tutti e tre i gol con cui il Bologna ha battuto 3-1 il Ginevra allo stadio Renato Dall'Ara il 5 a",
-    "tags": [
-      "bologna-ginevra",
-      "musa barrow"
     ]
   },
   {
