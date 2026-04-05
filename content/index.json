@@ -1,5 +1,23 @@
 [
   {
+    "id": "782a7f80008661e6",
+    "slug": "il-fotoreporter-deghati-parla-782a7f80008661e6",
+    "title": "Fotoreporter iraniano pubblica le immagini esclusive del fallimento dell'operazione Eagle Claw in Iran",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-04T23:48:29.059887+00:00",
+    "image_type": "flickr",
+    "image_url": "https://live.staticflickr.com/65535/51977856554_e09f89061d_b.jpg",
+    "occhiello": "",
+    "lead_preview": "Manoocher Deghati ha raccontato la sua esperienza durante l'operazione Eagle Claw, l’intervento militare fallito ordinat",
+    "tags": [
+      "operazione eagle claw",
+      "fotoreporter iraniano",
+      "ostaggi iran 1980"
+    ]
+  },
+  {
     "id": "12070c7b95826523",
     "slug": "elly-schlein-convoca-la-direzione-del-pd-il-13-apr-12070c7b95826523",
     "title": "Schlein convoca la direzione del Pd per il 13 aprile a Roma",
@@ -31,24 +49,6 @@
     "tags": [
       "guerra ucraina",
       "kostyuk"
-    ]
-  },
-  {
-    "id": "782a7f80008661e6",
-    "slug": "il-fotoreporter-deghati-parla-782a7f80008661e6",
-    "title": "Emergono foto inedite dell'operazione Eagle Claw: 8 morti e 52 ostaggi",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-04T23:48:29.059887+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/36756176/pexels-photo-36756176.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "DEGHATI RIVELA LE FOTO PROIBITE DEL BLITZ FALLITO IN IRAN NEL 1980",
-    "lead_preview": "Manoocher Deghati, 73 anni, ha pubblicato il 4 aprile 2026 gli scatti inediti dell'operazione Eagle Claw, il tentativo f",
-    "tags": [
-      "operazione eagle claw",
-      "crisi iran",
-      "ostaggi teheran"
     ]
   },
   {
