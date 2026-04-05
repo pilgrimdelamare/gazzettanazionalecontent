@@ -1,5 +1,22 @@
 [
   {
+    "id": "853cebe9f393c910",
+    "slug": "guerra-in-medio-oriente-fa-impennare-i-prezzi-gove-853cebe9f393c910",
+    "title": "Guerra in medio oriente fa impennare i prezzi, governo cerca coperture",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-05T10:56:55.701614+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/05/124447588-d384a022-4a0f-4da3-ade6-24a134e8b60e.jpg",
+    "occhiello": "GUERRA IN MEDIO ORIENTE FA IMPENNARE I PREZZI, GOVERNO CERCA COPERTURE",
+    "lead_preview": "Il conflitto in Medio Oriente ha fatto schizzare i prezzi del petrolio oltre i 120 dollari al barile, mentre il governo ",
+    "tags": [
+      "guerra medio oriente",
+      "prezzi petrolio"
+    ]
+  },
+  {
     "id": "4e4f9e706819f279",
     "slug": "sci-de-silvestro-e-boscacci-secondi-nella-staffett-4e4f9e706819f279",
     "title": "Sci: De Silvestro e Boscacci secondi nella staffetta di Coppa del Mondo",
@@ -8668,22 +8685,5 @@
     "occhiello": "RENOIR DA 3 MILIONI RITROVATO IN UN CAMPO A PARMA",
     "lead_preview": "Pierre-Auguste Renoir, il pittore francese Pierre-Auguste Renoir, ha visto il suo capolavoro \"Paysage de Cagnes\" ritrova",
     "tags": []
-  },
-  {
-    "id": "40efef87c5447896",
-    "slug": "capo-di-gabinetto-del-sindaco-di-benevento-arresta-40efef87c5447896",
-    "title": "Arrestato capo di gabinetto del sindaco di Benevento per concussione",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-03-31T09:27:34.547227+00:00",
-    "image_type": "image",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Fiat_Grande_Punto_Type_199_Carabinieri_%283%29.jpg/640px-Fiat_Grande_Punto_Type_199_Carabinieri_%283%29.jpg",
-    "occhiello": "CAPO GABINETTO DI MASTELLA ARRESTATO PER CONCUSSIONE",
-    "lead_preview": "Gennaro Santamaria, 53 anni, capo di gabinetto del sindaco di Benevento Clemente Mastella, è stato arrestato il 30 marzo",
-    "tags": [
-      "arresto benevento",
-      "caso mastella"
-    ]
   }
 ]
