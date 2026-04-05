@@ -1,0 +1,56 @@
+{
+  "id": "91be4521b0c4d5dc",
+  "slug": "18enne-muore-in-anconetano-mentre-pratica-mountain-91be4521b0c4d5dc",
+  "title": "18enne muore in Anconetano mentre pratica mountain-bike",
+  "titles": [
+    "18enne muore in Anconetano mentre pratica mountain-bike",
+    "Tragedia in Montemarciano: un ragazzo di 18 anni perde la vita",
+    "Malore in Anconetano: 18enne muore durante allenamento di mountain-bike"
+  ],
+  "title_winner": null,
+  "section": "cronaca",
+  "occhiello": "MALORE FATALE IN MOUNTAIN-BIKE",
+  "lead": "Un 18enne è deceduto dopo un malore while praticava mountain-bike nell'Anconetano, secondo quanto riportato da ANSA il 5 aprile 2026.",
+  "corpo1": "Il ragazzo è stato ricoverato dopo il malore, ma purtroppo è deceduto. La notizia è stata resa pubblica da ANSA, che ha riferito del fatto senza fornire ulteriori dettagli sulla dinamica dell'evento. Il comune di Montemarciano non ha ancora rilasciato una dichiarazione ufficiale. Stando alla fonte, il giovane era intento a praticare mountain-bike quando ha avuto il malore. Non sono stati resi noti i motivi del malore, né è Stato fornito alcun aggiornamento sulle Condizioni dei familiari del ragazzo. La polizia locale sta indagando sull'accaduto, anche se non è Stato ancora chiarito se si tratti di un incidente o di una causa medica preesistente. Il fatto è avvenuto a Montemarciano, nel territorio dell'Anconetano.",
+  "corpo2": "Il caso di questo 18enne fa riflettere sulla Sicurezza degli sport estremi e sulla importanza della prevenzione medica per i giovani atleti. La mountain-bike, come molti altri sport estremi, comporta rischi per la salute se non si prendono le dovute precauzioni. I giovani praticanti della mountain-bike devono essere consapevoli dei rischi e sottoporsi a regolari controlli medici. La comunità locale di Montemarciano è scossa da questo evento e dovrà capire cosa sia successo per evitare che simili tragedie si ripetano. Il costo umano di questo incidente è già Stato pagato, e a pagare saranno anche i familiari del ragazzo, che dovranno affrontare il dolore della perdita.",
+  "journalist": {
+    "id": "roberto_neri_01",
+    "firma": "Roberto Neri",
+    "sezione": "cronaca"
+  },
+  "published_at": "2026-04-05T17:47:40.838009+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://www.ansa.it/webimages/img_1129x635/2025/10/17/c6f1a895d93cd5398d8aac06243cad41.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"18enne muore in Anconetano mentre pratica mountain-bike\",\n  \"description\": \"Un 18enne è deceduto dopo un malore while praticava mountain-bike nell'Anconetano, secondo quanto riportato da ANSA il 5 aprile 2026.\",\n  \"articleBody\": \"Un 18enne è deceduto dopo un malore while praticava mountain-bike nell'Anconetano, secondo quanto riportato da ANSA il 5 aprile 2026. Il ragazzo è stato ricoverato dopo il malore, ma purtroppo è deceduto. La notizia è stata resa pubblica da ANSA, che ha riferito del fatto senza fornire ulteriori dettagli sulla dinamica dell'evento. Il comune di Montemarciano non ha ancora rilasciato una dichiarazione ufficiale. Stando alla fonte, il giovane era intento a praticare mountain-bike quando ha avuto il malore. Non sono stati resi noti i motivi del malore, né è Stato fornito alcun aggiornamento sulle Condizioni dei familiari del ragazzo. La polizia locale sta indagando sull'accaduto, anche se non è Stato ancora chiarito se si tratti di un incidente o di una causa medica preesistente. Il fatto è avvenuto a Montemarciano, nel territorio dell'Anconetano. Il caso di questo 18enne fa riflettere sulla Sicurezza degli sport estremi e sulla importanza della prevenzione medica per i giovani atleti. La mountain-bike, come molti altri sport estremi, comporta rischi per la salute se non si prendono le dovute precauzioni. I giovani praticanti della mountain-bike devono essere consapevoli dei rischi e sottoporsi a regolari controlli medici. La comunità locale di Montemarciano è scossa da questo evento e dovrà capire cosa sia successo per evitare che simili tragedie si ripetano. Il costo umano di questo incidente è già Stato pagato, e a pagare saranno anche i familiari del ragazzo, che dovranno affrontare il dolore della perdita.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Roberto Neri\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-05T17:47:40.838009+00:00\",\n  \"dateModified\": \"2026-04-05T17:47:40.838009+00:00\",\n  \"url\": \"https://lentemattutina.it/cronaca/91be4521b0c4d5dc\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cronaca/91be4521b0c4d5dc\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.ansa.it/webimages/img_1129x635/2025/10/17/c6f1a895d93cd5398d8aac06243cad41.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 6,
+  "source": "ANSA Cronaca",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/cronaca/2026/04/05/malore-in-mountain-bike-nellanconetano-morto-un-18enne_0908af70-121b-440e-854b-dbc5ade77685.html",
+  "related": [
+    {
+      "title": "Natangelo pubblica su Linus una vignetta con fucile a svastica, scatta la polemica sulle armi italiane",
+      "url": "/cronaca/vignetta-satirica-su-piantedosi-nelledizione-di-fa-a15faced2e5325cd",
+      "id": "a15faced2e5325cd",
+      "image_url": "https://images.pexels.com/photos/12126369/pexels-photo-12126369.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
+    },
+    {
+      "title": "Centocinquanta imbarcazioni salparono da Marsiglia per rompere il blocco israeliano",
+      "url": "/cronaca/centocinquanta-imbarcazioni-salparono-da-marsiglia-4e26048c54c0ed05",
+      "id": "4e26048c54c0ed05",
+      "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/05/nuova-flotilla.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "30 feriti in un crollo di ruota panoramica in India",
+      "url": "/cronaca/30-feriti-a-kushinagar-per-crollo-ruota-panoramica-b4ea86556c325f03",
+      "id": "b4ea86556c325f03",
+      "image_url": "https://images.unsplash.com/photo-1744103120879-8b337c1c1d2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxydW90YSUyMHBhbm9yYW1pY2ElMjBjcm9sbG98ZW58MHwwfHx8MTc3NTQwNjgwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    }
+  ]
+}
