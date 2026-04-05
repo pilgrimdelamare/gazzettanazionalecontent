@@ -1,5 +1,23 @@
 [
   {
+    "id": "10c3748951f234b5",
+    "slug": "wired-italia-promuove-i-migliori-topper-per-matera-10c3748951f234b5",
+    "title": "Wired Italia promuove i migliori topper per materassi: pagati da chi li produce",
+    "section": "tecnologia",
+    "priority": 6,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-04-05T07:16:50.897219+00:00",
+    "image_type": "image",
+    "image_url": "https://media-assets.wired.it/photos/69c15b8e485566f04678f7cb/16:9/w_1280,c_limit/migliori%20topper%20marzo%202026.jpg",
+    "occhiello": "COMMISSIONI NASCOSTE DIETRO I \"MIGLIORI TOPPER\" DEL 2026",
+    "lead_preview": "Wired Italia ha pubblicato il 5 aprile 2026 una guida ai \"migliori Topper per materassi\" raccomandando tre prodotti spec",
+    "tags": [
+      "topper materassi",
+      "wired italia",
+      "commissioni nascoste"
+    ]
+  },
+  {
     "id": "cc13a0f380197252",
     "slug": "calcio-vlahovic-titolare-contro-il-genoa-cc13a0f380197252",
     "title": "Vlachović titolare dopo tre partite in panchina",
@@ -8659,24 +8677,6 @@
       "minacce a gratteri",
       "camorra napoli",
       "carcere poggioreale"
-    ]
-  },
-  {
-    "id": "5dcd29e2162be9db",
-    "slug": "fabio-manica-indagato-a-crotone-5dcd29e2162be9db",
-    "title": "Forza Italia, indagato il consigliere Manica a Crotone per legami con la 'ndrangheta",
-    "section": "giustizia",
-    "priority": 5,
-    "journalist_firma": "Carlo Amato",
-    "published_at": "2026-03-31T12:21:06.519758+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/12-Comizio-terza-pista.jpg",
-    "occhiello": "",
-    "lead_preview": "Fabio Manica, consigliere comunale di Forza Italia a Crotone, è indagato dalla Procura della Repubblica di Crotone per p",
-    "tags": [
-      "inchiesta manica",
-      "ndrangheta crotone",
-      "forza italia"
     ]
   }
 ]
