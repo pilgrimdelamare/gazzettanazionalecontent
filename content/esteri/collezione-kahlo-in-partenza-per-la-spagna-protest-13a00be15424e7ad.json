@@ -1,0 +1,56 @@
+{
+  "id": "13a00be15424e7ad",
+  "slug": "collezione-kahlo-in-partenza-per-la-spagna-protest-13a00be15424e7ad",
+  "title": "Collezione kahlo in partenza per la spagna, proteste in messico",
+  "titles": [
+    "COLLEZIONE KAHLO IN PARTENZA PER LA SPAGNA, PROTESTE IN MESSICO",
+    "COLLEZIONE KAHLO IN PARTENZA PER LA SPAGNA, PROTESTE IN MESSICO",
+    "COLLEZIONE KAHLO IN PARTENZA PER LA SPAGNA, PROTESTE IN MESSICO"
+  ],
+  "title_winner": null,
+  "section": "esteri",
+  "occhiello": "COLLEZIONE KAHLO IN PARTENZA PER LA SPAGNA, PROTESTE IN MESSICO",
+  "lead": "Oscar Lopez, corrispondente da Città del Messico, riferisce che 400 esponenti del mondo culturale messicano hanno firmato una lettera aperta contro il trasferimento in Spagna della collezione Gelman, che include opere di Frida Kahlo e Diego Rivera. L'accordo con Banco Santander, annunciato il 5 aprile 2026, non specifica la durata del prestito.",
+  "corpo1": "La collezione Gelman, considerata tra le più importanti del XX secolo per l'arte messicana, comprende capolavori come \"Diego on My Mind\" (1943) di Frida Kahlo. Secondo quanto riportato dal Guardian, il trasferimento avverrà sotto la gestione di Banco Santander, senza che il governo messicano abbia chiarito i termini temporali dell'operazione. La lettera di protesta, sottoscritta da curatori, artisti e accademici, chiede trasparenza sulle condizioni del prestito e garanzie per il ritorno delle opere. Tra i firmatari figurano direttori di musei nazionali e discendenti degli stessi Kahlo e Rivera. Il ministero della Cultura messicano non ha ancora risposto ufficialmente alle critiche.",
+  "corpo2": "La vicenda tocca un nervo scoperto dell'identità culturale messicana post-rivoluzionaria. Kahlo e Rivera non furono semplici pittori: incarnarono il movimento Mexicayotl che ridefinì l'arte nazionale dopo il colonialismo. Le loro opere, spesso esplicitamente politiche, sono considerate beni sovrani quanto il petrolio nazionalizzato da Lázaro Cárdenas nel 1938. L'opacità sull'accordo con la Spagna - ex potenza coloniale - riaccende il dibattito sullo sfruttamento delle risorse culturali del Sud globale. Banco Santander, che gestirà la collezione, ha già utilizzato opere d'arte come asset finanziari in passato: nel 2021 pegno' 30 milioni di euro in quadri per un prestito della banca centrale europea. Il vero nodo non è la temporanea esposizione all'estero, ma il rischio che capolavori simbolo diventino meri strumenti di collateralizzazione bancaria. A pagare il prezzo sarà la memoria storica di un paese che ha sempre visto nell'arte un'arma di liberazione, non di speculazione.",
+  "journalist": {
+    "id": "anna_colombo_01",
+    "firma": "Anna Colombo",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-04-05T09:22:02.552884+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://i.guim.co.uk/img/media/8ebfdc104af4136150c0572688978781655da7d2/0_0_2643_2114/master/2643.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5061de591da7809f5fe7b19699281f5d",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"COLLEZIONE KAHLO IN PARTENZA PER LA SPAGNA, PROTESTE IN MESSICO\",\n  \"description\": \"Oscar Lopez, corrispondente da Città del Messico, riferisce che 400 esponenti del mondo culturale messicano hanno firmato una lettera aperta contro il trasferimento in Spagna della collezione Gelman, che include opere di Frida Kahlo e Diego Rivera. L'accordo con Banco Santander, annunciato il 5 apri\",\n  \"articleBody\": \"Oscar Lopez, corrispondente da Città del Messico, riferisce che 400 esponenti del mondo culturale messicano hanno firmato una lettera aperta contro il trasferimento in Spagna della collezione Gelman, che include opere di Frida Kahlo e Diego Rivera. L'accordo con Banco Santander, annunciato il 5 aprile 2026, non specifica la durata del prestito. La collezione Gelman, considerata tra le più importanti del XX secolo per l'arte messicana, comprende capolavori come \\\"Diego on My Mind\\\" (1943) di Frida Kahlo. Secondo quanto riportato dal Guardian, il trasferimento avverrà sotto la gestione di Banco Santander, senza che il governo messicano abbia chiarito i termini temporali dell'operazione. La lettera di protesta, sottoscritta da curatori, artisti e accademici, chiede trasparenza sulle condizioni del prestito e garanzie per il ritorno delle opere. Tra i firmatari figurano direttori di musei nazionali e discendenti degli stessi Kahlo e Rivera. Il ministero della Cultura messicano non ha ancora risposto ufficialmente alle critiche. La vicenda tocca un nervo scoperto dell'identità culturale messicana post-rivoluzionaria. Kahlo e Rivera non furono semplici pittori: incarnarono il movimento Mexicayotl che ridefinì l'arte nazionale dopo il colonialismo. Le loro opere, spesso esplicitamente politiche, sono considerate beni sovrani quanto il petrolio nazionalizzato da Lázaro Cárdenas nel 1938. L'opacità sull'accordo con la Spagna - ex potenza coloniale - riaccende il dibattito sullo sfruttamento delle risorse culturali del Sud globale. Banco Santander, che gestirà la collezione, ha già utilizzato opere d'arte come asset finanziari in passato: nel 2021 pegno' 30 milioni di euro in quadri per un prestito della banca centrale europea. Il vero nodo non è la temporanea esposizione all'estero, ma il rischio che capolavori simbolo diventino meri strumenti di collateralizzazione bancaria. A pagare il prezzo sarà la memoria storica di un paese che ha sempre visto nell'arte un'arma di liberazione, non di speculazione.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-05T09:22:02.552884+00:00\",\n  \"dateModified\": \"2026-04-05T09:22:02.552884+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/13a00be15424e7ad\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/13a00be15424e7ad\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://i.guim.co.uk/img/media/8ebfdc104af4136150c0572688978781655da7d2/0_0_2643_2114/master/2643.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5061de591da7809f5fe7b19699281f5d\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 4,
+  "source": "The Guardian",
+  "source_type": "esteri",
+  "original_url": "https://www.theguardian.com/world/2026/apr/05/mexican-art-world-protests-over-plan-to-send-frida-kahlo-masterpieces-to-spain",
+  "related": [
+    {
+      "title": "Don Giorgi celebra Pasqua sotto i bombardamenti a Beirut con 60 fedeli",
+      "url": "/esteri/don-carlo-giorgi-celebra-pasqua-in-mezzo-ai-bombar-eda8213e4416e6a1",
+      "id": "eda8213e4416e6a1",
+      "image_url": "https://images.unsplash.com/photo-1744869509211-748e38a44028?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxEb24lMjBDYXJsbyUyMEdpb3JnaXxlbnwwfDB8fHwxNzc1MzgwODg1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Cucciolo di puma salvato a Washington, è il terzo in due mesi",
+      "url": "/esteri/il-cucciolo-di-puma-che-fa-tremare-washington-22abd5890fd6d993",
+      "id": "22abd5890fd6d993",
+      "image_url": "",
+      "image_type": "none"
+    },
+    {
+      "title": "Regno Unito, governo chiede revisione normativa lavoro per ridurre 'pressione regolatoria'",
+      "url": "/esteri/il-governo-britannico-vuole-mortificare-i-diritti-3137605a102228aa",
+      "id": "3137605a102228aa",
+      "image_url": "https://images.pexels.com/photos/36100296/pexels-photo-36100296.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
+    }
+  ]
+}
