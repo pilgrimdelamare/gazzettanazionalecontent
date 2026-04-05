@@ -1,5 +1,23 @@
 [
   {
+    "id": "6fcf2cf5c1616f0c",
+    "slug": "governo-laburista-uk-rinuncia-a-divieto-foie-gras-6fcf2cf5c1616f0c",
+    "title": "Governo laburista UK rinuncia a divieto foie gras per accordo Ue del 2026",
+    "section": "esteri",
+    "priority": 3,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-05T13:26:49.567524+00:00",
+    "image_type": "image",
+    "image_url": "https://i.guim.co.uk/img/media/522192855dfd6c39b488de36463c911c5fa074e3/364_0_3640_2912/master/3640.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c96fc4c05e53a329c7454d147bcdf499",
+    "occhiello": "LONDRA CEDE A BRUXELLES E CONSERVA FOIE GRAS E PELLICCE",
+    "lead_preview": "Il governo laburista britannico ha abbandonato il divieto di importazione di foie gras e pellicce, promesso nel manifest",
+    "tags": [
+      "foie gras uk",
+      "accordo ue 2026",
+      "governo laburista uk"
+    ]
+  },
+  {
     "id": "217105c869a9e11d",
     "slug": "esplosione-a-trieste-in-via-grozio-appartamento-di-217105c869a9e11d",
     "title": "Esplosione a Trieste: appartamento distrutto da fuga di gas in via Grozio",
@@ -8709,24 +8727,6 @@
       "mostra arte femminile",
       "barocca modenese",
       "virtù e grazia"
-    ]
-  },
-  {
-    "id": "e1731559229b3fca",
-    "slug": "airbnb-paghera-i-transfer-privati-in-9-localita-it-e1731559229b3fca",
-    "title": "Airbnb lancia transfer privati in 9 città italiane, prezzi variabili per tragitto",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-04-01T09:11:07.169552+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1588756111081-8ca618899256?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHx0cmFuc2ZlciUyMHByaXZhdGUlMjBpdGFseXxlbnwwfDB8fHwxNzc1MDkyNzA5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "AIRBNB LANCIA TRANSFER PRIVATI IN ITALIA",
-    "lead_preview": "Ai primi del mese, Airbnb lancia il servizio di transfer privato per i propri utenti in collaborazione con Welcome Picku",
-    "tags": [
-      "airbnb",
-      "trasferimenti",
-      "italia"
     ]
   }
 ]
