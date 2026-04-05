@@ -1,5 +1,22 @@
 [
   {
+    "id": "55776d3e62ee0ac1",
+    "slug": "32-migranti-salvati-al-largo-della-libia-70-disper-55776d3e62ee0ac1",
+    "title": "70 Migranti dispersi al largo di Tripoli",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Chiara Esposito",
+    "published_at": "2026-04-05T11:07:27.856110+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/33106629/pexels-photo-33106629.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "TRIPOLI SETTANTA VITE IN UN BARCO",
+    "lead_preview": "Settanta Migranti risultano dispersi dopo il naufragio di un barcone partito da Tripoli con centocinque persone a bordo.",
+    "tags": [
+      "migranti tripoli",
+      "naufragio tripoli"
+    ]
+  },
+  {
     "id": "8e1850125d89fe94",
     "slug": "oltre-40-arresti-tra-cucine-e-mercati-del-wisconsi-8e1850125d89fe94",
     "title": "42 Arresti per immigrazione clandestina in retate Ice nel Wisconsin",
@@ -1523,24 +1540,6 @@
       "prezzi carburanti 2026",
       "diesel 210 euro",
       "ministero sviluppo economico"
-    ]
-  },
-  {
-    "id": "55776d3e62ee0ac1",
-    "slug": "32-migranti-salvati-al-largo-della-libia-70-disper-55776d3e62ee0ac1",
-    "title": "70 migranti dispersi dopo il naufragio di un barcone partito da Tripoli",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-04-05T11:07:27.856110+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1607357574137-d238e9a14383?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxNZWRpdGVycmFuZWFuJTIwU2VhJTIwbWlncmFudCUyMHJlc2N1ZSUyMG9wZXJhdGlvbnxlbnwwfDB8fHwxNzc1Mzk0Nzc1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "SETTANTA DISPERSI DOPO IL NAUFRAGIO",
-    "lead_preview": "Settanta migranti risultano dispersi dopo il naufragio di un barcone in legno salpato da Tripoli con 105 persone a bordo",
-    "tags": [
-      "naufragio tripoli",
-      "migranti dispersi",
-      "soccorso marittimo libia"
     ]
   },
   {
