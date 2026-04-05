@@ -1,0 +1,56 @@
+{
+  "id": "ee9798d74cb72c49",
+  "slug": "leeds-in-semifinale-di-coppa-dinghilterra-ee9798d74cb72c49",
+  "title": "Leeds in semifinale di coppa d'inghilterra",
+  "titles": [
+    "LEEDS IN SEMIFINALE DI COPPA D'INGHILTERRA",
+    "LEEDS IN SEMIFINALE DI COPPA D'INGHILTERRA",
+    "LEEDS IN SEMIFINALE DI COPPA D'INGHILTERRA"
+  ],
+  "title_winner": null,
+  "section": "sport",
+  "occhiello": "LEEDS IN SEMIFINALE DI COPPA D'INGHILTERRA",
+  "lead": "Il 5 aprile 2026, la squadra del Leeds ha sconfitto il West Ham ai rigori, guadagnando l'accesso alla semifinale di Coppa d'Inghilterra contro il Chelsea.",
+  "corpo1": "Secondo quanto riportato dall'ANSA, il Leeds ha ottenuto la vittoria ai rigori contro il West Ham, dopo che la partita si era conclusa con un punteggio di parità. Il successo ai rigori ha permesso al Leeds di avanzare alla semifinale della competizione, dove affronterà il Chelsea. La partita di ritorno tra Manchester City e Southampton determinerà l'altro abbinamento per la semifinale. Il percorso del Leeds nella Coppa d'Inghilterra è Stato segnato da una serie di sfide difficili, e il successo contro il West Ham rappresenta un importante risultato per la squadra. La Coppa d'Inghilterra è una delle competizioni più prestigiose del calcio inglese, e il Leeds ha dimostrato di essere una squadra da tenere in considerazione per il titolo.",
+  "corpo2": "Il Leeds, guidato dal suo allenatore, ha dimostrato una grande determinazione e spirito di squadra nel superare il West Ham ai rigori. La vittoria è il risultato di un lavoro di squadra e di una strategia ben pianificata. Il successo del Leeds ha anche un impatto economico significativo, in quanto la partecipazione alla semifinale della Coppa d'Inghilterra può portare ingenti ricavi per la squadra. Inoltre, il risultato può anche influire sulla classifica della Premier League, poiché il Leeds può guadagnare punti preziosi per la salvezza. Il prossimo incontro contro il Chelsea sarà una sfida difficile, ma il Leeds può contare sulla sua determinazione e sulla sua strategia per ottenere un risultato positivo. A pagare il prezzo di questo successo saranno i tifosi del West Ham, che dovranno aspettare un altro anno per vedere la loro squadra tornare in semifinale.",
+  "journalist": {
+    "id": "matteo_galli_01",
+    "firma": "Matteo Galli",
+    "sezione": "sport"
+  },
+  "published_at": "2026-04-05T20:33:47.259974+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://www.ansa.it/webimages/img_1129x635/2026/1/4/abff9ed34d51caa34a41517a983b7174.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"LEEDS IN SEMIFINALE DI COPPA D'INGHILTERRA\",\n  \"description\": \"Il 5 aprile 2026, la squadra del Leeds ha sconfitto il West Ham ai rigori, guadagnando l'accesso alla semifinale di Coppa d'Inghilterra contro il Chelsea.\",\n  \"articleBody\": \"Il 5 aprile 2026, la squadra del Leeds ha sconfitto il West Ham ai rigori, guadagnando l'accesso alla semifinale di Coppa d'Inghilterra contro il Chelsea. Secondo quanto riportato dall'ANSA, il Leeds ha ottenuto la vittoria ai rigori contro il West Ham, dopo che la partita si era conclusa con un punteggio di parità. Il successo ai rigori ha permesso al Leeds di avanzare alla semifinale della competizione, dove affronterà il Chelsea. La partita di ritorno tra Manchester City e Southampton determinerà l'altro abbinamento per la semifinale. Il percorso del Leeds nella Coppa d'Inghilterra è Stato segnato da una serie di sfide difficili, e il successo contro il West Ham rappresenta un importante risultato per la squadra. La Coppa d'Inghilterra è una delle competizioni più prestigiose del calcio inglese, e il Leeds ha dimostrato di essere una squadra da tenere in considerazione per il titolo. Il Leeds, guidato dal suo allenatore, ha dimostrato una grande determinazione e spirito di squadra nel superare il West Ham ai rigori. La vittoria è il risultato di un lavoro di squadra e di una strategia ben pianificata. Il successo del Leeds ha anche un impatto economico significativo, in quanto la partecipazione alla semifinale della Coppa d'Inghilterra può portare ingenti ricavi per la squadra. Inoltre, il risultato può anche influire sulla classifica della Premier League, poiché il Leeds può guadagnare punti preziosi per la salvezza. Il prossimo incontro contro il Chelsea sarà una sfida difficile, ma il Leeds può contare sulla sua determinazione e sulla sua strategia per ottenere un risultato positivo. A pagare il prezzo di questo successo saranno i tifosi del West Ham, che dovranno aspettare un altro anno per vedere la loro squadra tornare in semifinale.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Matteo Galli\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-05T20:33:47.259974+00:00\",\n  \"dateModified\": \"2026-04-05T20:33:47.259974+00:00\",\n  \"url\": \"https://lentemattutina.it/sport/ee9798d74cb72c49\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/sport/ee9798d74cb72c49\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.ansa.it/webimages/img_1129x635/2026/1/4/abff9ed34d51caa34a41517a983b7174.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 5,
+  "source": "ANSA Sport",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/04/05/coppa-dinghilterra-leeds-in-semifinale-col-chelsea_ba95562f-0231-4aca-b910-0b4301eaa01b.html",
+  "related": [
+    {
+      "title": "Calcio: Schalke batte Karlsruhe 1-0 dopo 19 partite senza vittorie, gol di rigore di Terodde",
+      "url": "/sport/calcio-schalke-vince-1-0-contro-karlsruhe-in-bunde-9b6a99c6671f092b",
+      "id": "9b6a99c6671f092b",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/German_foreign_language_EU.jpg",
+      "image_type": "wikimedia"
+    },
+    {
+      "title": "Calcio: Parma ko 2-1 con Bologna, D'Aversa: \"Nel secondo tempo atteggiamento giusto\"",
+      "url": "/sport/calcio-parma-ko-2-1-con-bologna-daversa-nel-second-d95785ff29745bf5",
+      "id": "d95785ff29745bf5",
+      "image_url": "https://sport.sky.it/assets/images/30fb5eb0a51d5d2b276e18f6c78387c351e6afe3/skysport/it/calcio/serie-a/video/2026/04/05/1087920_1775414841177_thumb_494.0000001_1775414902897.jpg",
+      "image_type": "feed_image"
+    },
+    {
+      "title": "Tennis: Marta Kostyuk si allena a Kiev tra allarmi antiaerei e bunker",
+      "url": "/sport/marta-kostyuk-si-allena-a-kiev-tra-allarmi-antaere-6b2fce90e728a142",
+      "id": "6b2fce90e728a142",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Marta-viterbo-lazio.JPG",
+      "image_type": "wikimedia"
+    }
+  ]
+}
