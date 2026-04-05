@@ -1,5 +1,22 @@
 [
   {
+    "id": "4435391bdbf7ee9a",
+    "slug": "pizzaballa-pace-non-e-solo-tregua-4435391bdbf7ee9a",
+    "title": "Pizzaballa: pace non è solo tregua",
+    "section": "politica",
+    "priority": 6,
+    "journalist_firma": "Elena Russo",
+    "published_at": "2026-04-05T09:37:19.741152+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/29/3abc5d95320940d37f6c446684c26b48.jpg",
+    "occhiello": "PATRIARCA PIZZABALLA: \"CRISTO RISORTO NON È NELLE NOSTRE STRATEGIE\"",
+    "lead_preview": "Pierbattista Pizzaballa, Patriarca latino di Gerusalemme, ha rilasciato una dichiarazione che sta facendo discutere ieri",
+    "tags": [
+      "pizzaballa",
+      "pace in medioriente"
+    ]
+  },
+  {
     "id": "d5eb1c45ac13daff",
     "slug": "626-comuni-al-voto-a-maggio-tra-ex-berlusconiani-e-d5eb1c45ac13daff",
     "title": "626 comuni al voto a maggio, tra ex berlusconiani e avvocati di casi celebri",
@@ -8664,19 +8681,5 @@
       "film commission veneta",
       "luca zaia"
     ]
-  },
-  {
-    "id": "44ea19243a59578f",
-    "slug": "fascicolo-sanitario-elettronico-al-via-oggi-per-tu-44ea19243a59578f",
-    "title": "Fascicolo sanitario elettronico accessibile a tutti: 58 milioni di utenti pronti",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-03-31T08:39:06.497479+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1586452169837-dad2a1fad15a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxmYXNjaWNvbG8lMjBzYW5pdGFyaW8lMjBlbGV0dHJvbmljbyUyMGl0YWxpYXxlbnwwfDB8fHwxNzc1MDMyOTU3fDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "",
-    "lead_preview": "Francesco Zambon, direttore generale dell’Agenzia per l’Italia Digitale, ha annunciato il 31 marzo 2026 che il fascicolo",
-    "tags": []
   }
 ]
