@@ -1,5 +1,22 @@
 [
   {
+    "id": "51901fbeb629817b",
+    "slug": "il-csn-riabilita-apostolico-51901fbeb629817b",
+    "title": "Riabilitata l'ex giudice attaccato dalla destra",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Elena Russo",
+    "published_at": "2026-04-04T22:39:55.935456+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/27271144/pexels-photo-27271144.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "RIABILITATA L'EX GIUDICE ATTACCATO DALLA DESTRA",
+    "lead_preview": "Apostolico, l’ex giudice criticata dalla destra per aver disapplicato il decreto Cutro, è stata riabilitata dal Consigli",
+    "tags": [
+      "caso apostolico",
+      "decreto cutro"
+    ]
+  },
+  {
     "id": "f6fce96755c1208b",
     "slug": "da-milano-al-collo-delle-italiane-30-euro-di-perli-f6fce96755c1208b",
     "title": "Lorenzo franchini e giacomo giovagnoli lasciano la scena milanese",
@@ -470,20 +487,6 @@
       "pd chieti",
       "centrosinistra chieti"
     ]
-  },
-  {
-    "id": "51901fbeb629817b",
-    "slug": "il-csn-riabilita-apostolico-51901fbeb629817b",
-    "title": "Il csn riabilita apostolico",
-    "section": "politica",
-    "priority": 4,
-    "journalist_firma": "Sergio Mancini",
-    "published_at": "2026-04-04T22:39:55.935456+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/04/235515118-7ce45a51-6185-4d42-85ff-19e52f1b0276.jpg",
-    "occhiello": "IL CSN RIABILITA APOSTOLICO",
-    "lead_preview": "Il consiglio superiore della magistratura riabilita Apostolico, l’ex giudice attaccata dalla destra, che aveva disapplic",
-    "tags": []
   },
   {
     "id": "37155c2e55a0fcfa",
