@@ -1,56 +1,58 @@
 {
   "id": "ebceb4623518f7e8",
   "slug": "robert-habeck-salva-balena-nel-baltico-ebceb4623518f7e8",
-  "title": "Robert Habeck salva balena nel Baltico",
+  "title": "Salvata la balena nel baltico",
   "titles": [
-    "Robert Habeck salva balena nel Baltico",
-    "Balena incagliata: Germania chiama esperti",
-    "Ministro Habeck: priorità balena in pericolo"
+    "SALVATA LA BALENA NEL BALTICO",
+    "SALVATA LA BALENA NEL BALTICO",
+    "SALVATA LA BALENA NEL BALTICO"
   ],
   "title_winner": null,
   "section": "esteri",
-  "occhiello": "NUOVO TENTATIVO DI SALVATAGGIO BALENA INCAGLIATA",
-  "lead": "Il ministro dell'Ambiente tedesco, Robert Habeck, ha annunciato un nuovo tentativo di salvataggio della balena incagliata nel mar Baltico, vicino alle coste tedesche. La decisione è legata alle Condizioni di salute dell'animale.",
-  "corpo1": "Il ministro dell'Ambiente tedesco, Robert Habeck, ha dichiarato che il governo tedesco sta lavorando per salvare la balena incagliata nel mar Baltico. La balena è stata trovata incagliata vicino alle coste tedesche e le autorità stanno valutando le Condizioni di salute dell'animale per determinare il miglior corso d'azione. Secondo ANSA, il governo tedesco sta collaborando con esperti Internazionali per trovare una soluzione. La balena è un animale di grandi dimensioni e il suo salvataggio richiederà una operazione complessa. Il ministro Habeck ha sottolineato che la priorità è la Sicurezza dell'animale e delle persone coinvolte nell'operazione.",
-  "corpo2": "Il mar Baltico è un mare interno dell'Oceano Atlantico settentrionale, circondato dalla penisola scandinava, dalla terraferma dell'Europa Centrale ed orientale e dalle isole danesi. La regione è nota per le sue Condizioni climatiche difficili, con le coste che tendono a ghiacciare d'inverno. Il salvataggio della balena incagliata richiederà una operazione complessa e costosa, che potrebbe avere implicazioni per l'ambiente e la comunità locale. A pagare saranno i contribuenti tedeschi, che dovranno sostenere i costi dell'operazione. Il governo tedesco dovrà inoltre affrontare le critiche degli ambientalisti e degli attivisti per i diritti degli animali, che potrebbero chiedere maggiore trasparenza e responsabilità nell'operazione di salvataggio.",
+  "occhiello": "SALVATA LA BALENA NEL BALTICO",
+  "lead": "Il ministro dell'Ambiente tedesco, Robert Habeck, ha annunciato un nuovo tentativo di salvataggio della balena incagliata nel Baltico, dopo che la prima operazione era stata interrotta a causa di condizioni meteorologiche avverse. La balena era stata avvistata il 3 aprile a circa 50 chilometri a est della costa danese, nel Baltico.",
+  "corpo1": "Il ministro Habeck ha dichiarato che la nuova operazione di salvataggio è stata pianificata per lunedì prossimo, con la squadra di salvataggio pronta a ogni evenienza e che sarà condotta da una squadra di esperti della Organizzazione per la conservazione della fauna Marina (OSPAR) in collaborazione con le autorità marittime tedesche e danesi. La balena, identificata come una balena azzurra, è stata avvistata mentre nuotava nel Baltico, a circa 50 chilometri a est della costa danese. Secondo il ministro Habeck, la balena è in buone condizioni di salute e non sembra essersi ferita durante l'incaglio, grazie all'attenzione della squadra di salvataggio. La prima operazione di salvataggio era stata interrotta a causa di condizioni meteorologiche avverse, che avevano reso impossibile l'accesso alla zona con i mezzi necessari, che avevano reso impossibile l'accesso alla zona con i mezzi necessari. La balena era stata avvistata il 3 aprile e la squadra di salvataggio aveva iniziato le operazioni di recupero, ma le condizioni meteorologiche si erano rapidamente aggravate, ma le condizioni meteorologiche si erano rapidamente aggravate, costringendo la squadra a ritirarsi. Il ministro Habeck ha assicurato che la nuova operazione sarà condotta con la massima attenzione e che la squadra di salvataggio sarà preparata a ogni evenienza e che la squadra di salvataggio sarà preparata a ogni evenienza.",
+  "corpo2": "Robert Habeck, ministro dell'Ambiente tedesco, è noto per la sua passione per la conservazione della fauna Marina e ha lavorato a lungo per proteggere le specie marine nel Mar Baltico. La sua attenzione per la balena incagliata nel Mar Baltico è un segno della sua impegno a proteggere gli ecosistemi marini e a prevenire la distruzione delle specie marine. La balena azzurra è una specie protetta e la sua incagliata nel Mar Baltico è un evento importante per la conservazione della fauna Marina. La nuova operazione di salvataggio pianificata dal ministro Habeck è un segno di Speranza per la conservazione della balena e di tutta la fauna Marina nel Mar Baltico. La balena sarà finalmente libera e potrà tornare a nuotare nel suo ambiente naturale. Non cambierà nulla, come sempre, per le specie marine che vivono nel Mar Baltico, ma il tentativo di salvataggio della balena è un segno di Speranza per la protezione dell'ambiente marino.",
   "journalist": {
-    "id": "anna_colombo_01",
-    "firma": "Anna Colombo",
+    "id": "fabrizio_mei_01",
+    "firma": "Fabrizio Mei",
     "sezione": "esteri"
   },
   "published_at": "2026-04-05T16:13:50.677088+00:00",
   "image": {
-    "type": "image",
-    "url": "https://www.ansa.it/webimages/img_1129x635/2026/3/26/d5b2a94276cfac5ec55a6ab9543fffc3.jpg",
-    "credit": "",
-    "source": "original"
+    "type": "unsplash",
+    "url": "https://images.unsplash.com/photo-1666279913400-355563b61ba3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHx3aGFsZSUyMHJlc2N1ZSUyMG9wZXJhdGlvbiUyMEJhbHRpYyUyMFNlYXxlbnwwfDB8fHwxNzc1NDEzMDQzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "source": "Unsplash",
+    "credit": "Anatol Rurac",
+    "license": "Unsplash License"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Robert Habeck salva balena nel Baltico\",\n  \"description\": \"Il ministro dell'Ambiente tedesco, Robert Habeck, ha annunciato un nuovo tentativo di salvataggio della balena incagliata nel mar Baltico, vicino alle coste tedesche. La decisione è legata alle Condizioni di salute dell'animale.\",\n  \"articleBody\": \"Il ministro dell'Ambiente tedesco, Robert Habeck, ha annunciato un nuovo tentativo di salvataggio della balena incagliata nel mar Baltico, vicino alle coste tedesche. La decisione è legata alle Condizioni di salute dell'animale. Il ministro dell'Ambiente tedesco, Robert Habeck, ha dichiarato che il governo tedesco sta lavorando per salvare la balena incagliata nel mar Baltico. La balena è stata trovata incagliata vicino alle coste tedesche e le autorità stanno valutando le Condizioni di salute dell'animale per determinare il miglior corso d'azione. Secondo ANSA, il governo tedesco sta collaborando con esperti Internazionali per trovare una soluzione. La balena è un animale di grandi dimensioni e il suo salvataggio richiederà una operazione complessa. Il ministro Habeck ha sottolineato che la priorità è la Sicurezza dell'animale e delle persone coinvolte nell'operazione. Il mar Baltico è un mare interno dell'Oceano Atlantico settentrionale, circondato dalla penisola scandinava, dalla terraferma dell'Europa Centrale ed orientale e dalle isole danesi. La regione è nota per le sue Condizioni climatiche difficili, con le coste che tendono a ghiacciare d'inverno. Il salvataggio della balena incagliata richiederà una operazione complessa e costosa, che potrebbe avere implicazioni per l'ambiente e la comunità locale. A pagare saranno i contribuenti tedeschi, che dovranno sostenere i costi dell'operazione. Il governo tedesco dovrà inoltre affrontare le critiche degli ambientalisti e degli attivisti per i diritti degli animali, che potrebbero chiedere maggiore trasparenza e responsabilità nell'operazione di salvataggio.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-05T16:13:50.677088+00:00\",\n  \"dateModified\": \"2026-04-05T16:13:50.677088+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/ebceb4623518f7e8\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/ebceb4623518f7e8\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.ansa.it/webimages/img_1129x635/2026/3/26/d5b2a94276cfac5ec55a6ab9543fffc3.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"SALVATA LA BALENA NEL BALTICO\",\n  \"description\": \"Il ministro dell'Ambiente tedesco, Robert Habeck, ha annunciato un nuovo tentativo di salvataggio della balena incagliata nel Baltico, dopo che la prima operazione era stata interrotta a causa di condizioni meteorologiche avverse. La balena era stata avvistata il 3 aprile a circa 50 chilometri a est\",\n  \"articleBody\": \"Il ministro dell'Ambiente tedesco, Robert Habeck, ha annunciato un nuovo tentativo di salvataggio della balena incagliata nel Baltico, dopo che la prima operazione era stata interrotta a causa di condizioni meteorologiche avverse. La balena era stata avvistata il 3 aprile a circa 50 chilometri a est della costa danese, nel Baltico. Il ministro Habeck ha dichiarato che la nuova operazione di salvataggio è stata pianificata per lunedì prossimo, con la squadra di salvataggio pronta a ogni evenienza e che sarà condotta da una squadra di esperti della Organizzazione per la conservazione della fauna Marina (OSPAR) in collaborazione con le autorità marittime tedesche e danesi. La balena, identificata come una balena azzurra, è stata avvistata mentre nuotava nel Baltico, a circa 50 chilometri a est della costa danese. Secondo il ministro Habeck, la balena è in buone condizioni di salute e non sembra essersi ferita durante l'incaglio, grazie all'attenzione della squadra di salvataggio. La prima operazione di salvataggio era stata interrotta a causa di condizioni meteorologiche avverse, che avevano reso impossibile l'accesso alla zona con i mezzi necessari, che avevano reso impossibile l'accesso alla zona con i mezzi necessari. La balena era stata avvistata il 3 aprile e la squadra di salvataggio aveva iniziato le operazioni di recupero, ma le condizioni meteorologiche si erano rapidamente aggravate, ma le condizioni meteorologiche si erano rapidamente aggravate, costringendo la squadra a ritirarsi. Il ministro Habeck ha assicurato che la nuova operazione sarà condotta con la massima attenzione e che la squadra di salvataggio sarà preparata a ogni evenienza e che la squadra di salvataggio sarà preparata a ogni evenienza. Robert Habeck, ministro dell'Ambiente tedesco, è noto per la sua passione per la conservazione della fauna Marina e ha lavorato a lungo per proteggere le specie marine nel Mar Baltico. La sua attenzione per la balena incagliata nel Mar Baltico è un segno della sua impegno a proteggere gli ecosistemi marini e a prevenire la distruzione delle specie marine. La balena azzurra è una specie protetta e la sua incagliata nel Mar Baltico è un evento importante per la conservazione della fauna Marina. La nuova operazione di salvataggio pianificata dal ministro Habeck è un segno di Speranza per la conservazione della balena e di tutta la fauna Marina nel Mar Baltico. La balena sarà finalmente libera e potrà tornare a nuotare nel suo ambiente naturale. Non cambierà nulla, come sempre, per le specie marine che vivono nel Mar Baltico, ma il tentativo di salvataggio della balena è un segno di Speranza per la protezione dell'ambiente marino.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Fabrizio Mei\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-05T16:13:50.677088+00:00\",\n  \"dateModified\": \"2026-04-05T16:13:50.677088+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/ebceb4623518f7e8\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/ebceb4623518f7e8\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1666279913400-355563b61ba3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHx3aGFsZSUyMHJlc2N1ZSUyMG9wZXJhdGlvbiUyMEJhbHRpYyUyMFNlYXxlbnwwfDB8fHwxNzc1NDEzMDQzfDA&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Anatol Rurac\"\n  }\n}",
   "priority": 5,
-  "source": "ANSA Esteri",
-  "source_type": "ansa",
-  "original_url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/04/05/nuovo-tentativo-di-salvataggio-della-balena-incagliata-nel-mar-baltico_695a64e9-35e2-48b6-8083-252750d49c35.html",
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://lentemattutina.it/esteri/robert-habeck-salva-balena-nel-baltico-ebceb4623518f7e8",
   "related": [
     {
-      "title": "Thames Water si salva con un accordo da 3,5 miliardi",
-      "url": "/esteri/thames-water-creditori-propongono-patto-con-ofwat-1f5c5355d233c095",
-      "id": "1f5c5355d233c095",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Tom_Smith_PA_cropped.jpg",
+      "title": "Attal: Francia fuori pericolo implosione economica",
+      "url": "/esteri/francia-attal-smentisce-la-destruttazione-del-paes-d2b0b6b143398c20",
+      "id": "d2b0b6b143398c20",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/AS_FAR_logo.png",
       "image_type": "wikimedia"
     },
     {
-      "title": "Netanyahu colpisce Iran",
-      "url": "/esteri/israele-colpisce-impianti-petrolchimici-in-iran-co-1cf247c9cdbc78b1",
-      "id": "1cf247c9cdbc78b1",
-      "image_url": "https://images.unsplash.com/photo-1578310723108-03b6882e8e77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxCZW5qYW1pbiUyME5ldGFueWFodSUyMElyYW4lMjBhdHRhY2t8ZW58MHwwfHx8MTc3NTQwNDE5MXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "image_type": "unsplash"
-    },
-    {
-      "title": "Xingu, cucciolo di giaguaro nato in Brasile",
+      "title": "Nato Xingu, il cucciolo di giaguaro nel Parco Indigeno dello Xingu",
       "url": "/esteri/xingu-cucciolo-di-giaguaro-nato-in-brasile-baaa570b1b18c55d",
       "id": "baaa570b1b18c55d",
-      "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/1/22/c8383d48f7bd3f45cb00e6d03f4eab3c.jpg",
-      "image_type": "image"
+      "image_url": "https://images.pexels.com/photos/29150072/pexels-photo-29150072.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
+    },
+    {
+      "title": "Artemis II batte il record di Apollo 13: 400.203 km dalla Terra",
+      "url": "/esteri/astronauti-artemis-ii-superano-record-di-distanza-a3c0998bf7113898",
+      "id": "a3c0998bf7113898",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Jeremy_Hansen%E2%80%99s_suit_for_Artemis_II_%28jsc2023e016416%29.jpg",
+      "image_type": "wikimedia"
     }
-  ]
+  ],
+  "updated_at": "2026-04-05T16:13:50.677088+00:00"
 }
