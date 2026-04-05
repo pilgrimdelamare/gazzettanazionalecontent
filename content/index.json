@@ -1,5 +1,22 @@
 [
   {
+    "id": "6d098befd87acfbb",
+    "slug": "usa-recupera-il-pilota-disperso-in-iran-dopo-abbat-6d098befd87acfbb",
+    "title": "Pilota usa ucciso nel khuzestan",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-05T04:44:24.360740+00:00",
+    "image_type": "ddg_image",
+    "image_url": "https://media.defense.gov/2007/Aug/02/2000464157/-1/-1/0/070610-F-0205S-103.JPG",
+    "occhiello": "PILOTA USA UCCISO NEL KHUZESTAN",
+    "lead_preview": "Venerdì 3 aprile un caccia F-15E Strike Eagle dell’aeronautica militare statunitense è Stato abbattuto nel cielo del Khu",
+    "tags": [
+      "guerra iran"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "951098697795f9a3",
     "slug": "daniele-luttazzi-pubblica-su-il-fatto-un-racconto-951098697795f9a3",
     "title": "Luttazzi scrive di una signora formosa",
@@ -1353,24 +1370,6 @@
     "tags": [
       "terremoto l'aquila",
       "terremoto 2009"
-    ]
-  },
-  {
-    "id": "6d098befd87acfbb",
-    "slug": "usa-recupera-il-pilota-disperso-in-iran-dopo-abbat-6d098befd87acfbb",
-    "title": "F-15 USA abbattuto in Iran, pilota morto e corpo recuperato dai Pasdaran a Khuzestan",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-05T04:44:24.360740+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Bodie_September_2016_019.jpg",
-    "occhiello": "IRAN, ABBATTUTO F-15 USA: IL PILOTA ERA GIA' MORTO",
-    "lead_preview": "Venerdì 3 aprile un caccia F-15E Strike Eagle dell’aeronautica militare statunitense è Stato abbattuto nel cielo del Khu",
-    "tags": [
-      "abbattimento f-15 iran",
-      "pilota usa morto khuzestan",
-      "pasdaran recupero corpo"
     ]
   },
   {
