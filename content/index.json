@@ -1,5 +1,23 @@
 [
   {
+    "id": "c0efa7c91b4c2883",
+    "slug": "calcio-psv-eindhoven-vince-il-27-titolo-olandese-c0efa7c91b4c2883",
+    "title": "Calcio: Psv Eindhoven vince il 27° titolo olandese",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-05T21:19:59.202105+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/5/d9a8619aa101676b86203f5fe00d3250.jpg",
+    "occhiello": "VENTISETTESIMO TITOLO E CONTI IN ORDINE",
+    "lead_preview": "Il Psv Eindhoven ha vinto il campionato olandese per la 27/a volta, la matematica certezza è arrivata il 5 aprile 2026 c",
+    "tags": [
+      "psv eindhoven",
+      "campionato olandese",
+      "eredivisie"
+    ]
+  },
+  {
     "id": "1880a22d6003eb31",
     "slug": "lindia-punta-al-60-di-elettricita-green-entro-il-2-1880a22d6003eb31",
     "title": "India punta al 60% di rinnovabili entro il 2035: il piano da Nuova Delhi",
@@ -8710,24 +8728,6 @@
       "acquisizione solacem",
       "fhp torre annunziata",
       "terminal cereali"
-    ]
-  },
-  {
-    "id": "177540645dee4ada",
-    "slug": "generale-dan-caine-capo-dello-stato-maggiore-congi-177540645dee4ada",
-    "title": "Crosetto nega a Washington l'uso della base di Sigonella ai bombardieri in volo verso il Golfo",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-04-01T05:18:04.857907+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1699447459686-7728143f0953?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxib21iYXJkaWVyaSUyMFVzYSUyMGluJTIwdm9sb3xlbnwwfDB8fHwxNzc1MDk1NDAxfDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "CROSETTO BLOCCA BOMBARDIERI USA",
-    "lead_preview": "Il ministro della Difesa Guido Crosetto ha negato agli Stati Uniti l'uso della base aerea di Sigonella in Sicilia per i ",
-    "tags": [
-      "crosetto sigonella",
-      "base sigonella",
-      "bombardieri usa"
     ]
   }
 ]
