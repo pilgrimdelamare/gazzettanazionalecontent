@@ -1,5 +1,23 @@
 [
   {
+    "id": "4e4f9e706819f279",
+    "slug": "sci-de-silvestro-e-boscacci-secondi-nella-staffett-4e4f9e706819f279",
+    "title": "Sci: Boscacci e De Silvestro secondi",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-05T10:56:37.408509+00:00",
+    "image_type": "wikimedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/000039-asteroid_shape_model_%2839%29_Laetitia.png",
+    "occhiello": "BOSCACCI E DE SILVESTRO D'ARGENTO NELLA STAFFETTA DI COPPA DEL MONDO",
+    "lead_preview": "Michele Boscacci e Laetitia De Silvestro hanno chiuso al secondo posto la staffetta delle finali di Coppa del Mondo di s",
+    "tags": [
+      "coppa del mondo sci",
+      "sci alpinismo 2026"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "12b3da1394f6d59f",
     "slug": "calcio-inter-juve-milan-e-palermo-in-amichevole-a-12b3da1394f6d59f",
     "title": "Calcio: 4 squadre a Perth",
@@ -2114,21 +2132,6 @@
       "basket trieste",
       "pala trieste"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "4e4f9e706819f279",
-    "slug": "sci-de-silvestro-e-boscacci-secondi-nella-staffett-4e4f9e706819f279",
-    "title": "Michele Boscacci e Laetitia De Silvestro hanno conquistato il secondo posto nella staffetta delle fi",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-05T10:56:37.408509+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/000039-asteroid_shape_model_%2839%29_Laetitia.png",
-    "occhiello": "",
-    "lead_preview": "Michele Boscacci e Laetitia De Silvestro hanno conquistato il secondo posto nella staffetta delle finali di Coppa del Mo",
-    "tags": [],
     "hero_eligible": true
   },
   {
