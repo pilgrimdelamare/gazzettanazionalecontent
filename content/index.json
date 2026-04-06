@@ -1,5 +1,23 @@
 [
   {
+    "id": "80315a6664864adb",
+    "slug": "basket-oklahoma-city-travolge-utah-146-111-e-ottim-80315a6664864adb",
+    "title": "Basket: Oklahoma City travolge Utah 146-111 e ottimizza il roster",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-06T06:09:38.372008+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/4a12e9ff7dd4394a498b36a517a00815c5431348/skysport/it/nba/video/2026/04/06/1087979_1775442757807_thumb_494.0000001_1775452350983.jpg",
+    "occhiello": "TRI PRESA A MANI",
+    "lead_preview": "Oklahoma City ha chiuso 146-111 su Utah, 6 aprile 2026, trentasei ore dopo aver spiegato al proprietario di un gruppo da",
+    "tags": [
+      "nba okahoma city",
+      "basket nba"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "93557621b31cc912",
     "slug": "basket-il-minnesota-crolla-a-minneapolis-108-122-93557621b31cc912",
     "title": "Basket: il Minnesota crolla a Minneapolis (108-122)",
@@ -8763,23 +8781,6 @@
     "tags": [
       "mostra miramare",
       "massimiliano dasburgo"
-    ]
-  },
-  {
-    "id": "cc963714dc98ae12",
-    "slug": "stella-mccartney-costruira-una-villa-da-5-milioni-cc963714dc98ae12",
-    "title": "5 milioni di sterline per villa di Stella McCartney in Scozia",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-01T17:29:04.410770+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1477005264461-b0e201668d92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxTdGVsbGF8ZW58MHwwfHx8MTc3NTEwNTU4NXww&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "STELLA MCCARTNEY, VILLA DA 5 MLN",
-    "lead_preview": "Stella McCartney e il marito Alasdhair Willis hanno ottenuto il permesso di costruire una villa da 5 milioni di sterline",
-    "tags": [
-      "villa stella mccartney",
-      "scozia"
     ]
   }
 ]
