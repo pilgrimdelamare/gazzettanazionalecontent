@@ -1,0 +1,57 @@
+{
+  "id": "1e8181b9a2eb9f87",
+  "slug": "gabriel-boric-kast-in-argentina-visita-di-stato-al-1e8181b9a2eb9f87",
+  "title": "Gabriel Boric Kast in Argentina: visita di Stato al governo di Alberto Fernández",
+  "titles": [
+    "Gabriel Boric Kast in Argentina: visita di Stato al governo di Alberto Fernández",
+    "Il presidente cileno in visita: Boric Kast a Buenos Aires per unire Sud America",
+    "Il peso dell'incontro: Kast e Fernández suggellano legami tra Cile e Argentina"
+  ],
+  "title_winner": null,
+  "section": "esteri",
+  "occhiello": "KAST IN ARGENTINA: PRIMA VISITA DI STATO PER IL PRESIDENTE CILENO",
+  "lead": "Il presidente cileno Gabriel Boric Kast arriva in Argentina per la sua prima visita di Stato. Kast incontrerà il suo omologo argentino Alberto Fernández alla Casa Rosada di Buenos Aires lunedì prossimo.",
+  "corpo1": "Il presidente cileno Gabriel Boric Kast arriva in Argentina per la sua prima visita di Stato. L'incontro con il suo omologo argentino Alberto Fernández sarà cruciale per consolidare i rapporti tra i due Paesi. Secondo la fonte, l'incontro si svolgerà lunedì prossimo alla Casa Rosada di Buenos Aires, sede del governo argentino. Boric Kast sarà accompagnato da un alto rappresentante del suo governo e da una delegazione di funzionari. L'incontro sarà un'occasione importante per discutere di questioni di comune interesse tra i due Paesi, come la Cooperazione economica e la Sicurezza regionale. La visita di Boric Kast in Argentina è parte di un viaggio più ampio nel Sud America, durante il quale il presidente cileno incontrerà anche il presidente del Brasile, Luiz Inácio Lula da Silva.",
+  "corpo2": "Il presidente cileno Gabriel Boric Kast è un politico di sinistra che ha vinto le elezioni presidenziali in Cile nel 2021. La sua visita in Argentina è importante perché riflette la crescente Cooperazione tra i due Paesi in settori come l'economia e la Sicurezza. La Cile e l'Argentina hanno una lunga storia di relazioni diplomatiche, ma negli ultimi anni sono cresciuti i legami economici e commerciali tra i due Paesi. La visita di Boric Kast in Argentina è un segno di questo crescente coinvolgimento reciproco. A pagare sarà il popolo cileno, che spera di vedere un miglioramento nella sua vita quotidiana grazie alla Cooperazione con l'Argentina.",
+  "journalist": {
+    "id": "fabrizio_mei_01",
+    "firma": "Fabrizio Mei",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-04-06T08:10:14.787772+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://www.ansa.it/webimages/img_1129x635/2026/3/12/6b965148a58d7e2d21d7d320643c5d65.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Gabriel Boric Kast in Argentina: visita di Stato al governo di Alberto Fernández\",\n  \"description\": \"Il presidente cileno Gabriel Boric Kast arriva in Argentina per la sua prima visita di Stato. Kast incontrerà il suo omologo argentino Alberto Fernández alla Casa Rosada di Buenos Aires lunedì prossimo.\",\n  \"articleBody\": \"Il presidente cileno Gabriel Boric Kast arriva in Argentina per la sua prima visita di Stato. Kast incontrerà il suo omologo argentino Alberto Fernández alla Casa Rosada di Buenos Aires lunedì prossimo. Il presidente cileno Gabriel Boric Kast arriva in Argentina per la sua prima visita di Stato. L'incontro con il suo omologo argentino Alberto Fernández sarà cruciale per consolidare i rapporti tra i due Paesi. Secondo la fonte, l'incontro si svolgerà lunedì prossimo alla Casa Rosada di Buenos Aires, sede del governo argentino. Boric Kast sarà accompagnato da un alto rappresentante del suo governo e da una delegazione di funzionari. L'incontro sarà un'occasione importante per discutere di questioni di comune interesse tra i due Paesi, come la Cooperazione economica e la Sicurezza regionale. La visita di Boric Kast in Argentina è parte di un viaggio più ampio nel Sud America, durante il quale il presidente cileno incontrerà anche il presidente del Brasile, Luiz Inácio Lula da Silva. Il presidente cileno Gabriel Boric Kast è un politico di sinistra che ha vinto le elezioni presidenziali in Cile nel 2021. La sua visita in Argentina è importante perché riflette la crescente Cooperazione tra i due Paesi in settori come l'economia e la Sicurezza. La Cile e l'Argentina hanno una lunga storia di relazioni diplomatiche, ma negli ultimi anni sono cresciuti i legami economici e commerciali tra i due Paesi. La visita di Boric Kast in Argentina è un segno di questo crescente coinvolgimento reciproco. A pagare sarà il popolo cileno, che spera di vedere un miglioramento nella sua vita quotidiana grazie alla Cooperazione con l'Argentina.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Fabrizio Mei\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-06T08:10:14.787772+00:00\",\n  \"dateModified\": \"2026-04-06T08:10:14.787772+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/1e8181b9a2eb9f87\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/1e8181b9a2eb9f87\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.ansa.it/webimages/img_1129x635/2026/3/12/6b965148a58d7e2d21d7d320643c5d65.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 6,
+  "source": "ANSA Esteri",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/04/06/il-presidente-cileno-kast-in-argentina-per-la-sua-prima-visita-di-stato_099cbc66-9255-45df-936c-3b09f2b20bfd.html",
+  "related": [
+    {
+      "title": "Regno Unito, PIL a 0,2%: Governo chiede revisione norme lavoro",
+      "url": "/esteri/il-governo-britannico-vuole-mortificare-i-diritti-3137605a102228aa",
+      "id": "3137605a102228aa",
+      "image_url": "https://images.pexels.com/photos/36100303/pexels-photo-36100303.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
+    },
+    {
+      "title": "Mike Levin in visita al centro ICE di Otay Mesa il 3 aprile 2026",
+      "url": "/esteri/mike-levin-visita-centro-ice-di-otay-mesa-375143895ebf9a41",
+      "id": "375143895ebf9a41",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Mike_Levin.jpg",
+      "image_type": "wikimedia"
+    },
+    {
+      "title": "Pakistan propone riapertura Stretto di Hormuz in 15 giorni con comitato navale USA-Iran",
+      "url": "/esteri/pakistan-propone-riapertura-stretto-di-hormuz-in-1-f469e75290285cc5",
+      "id": "f469e75290285cc5",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/6/f5613558e294c6d4ac8d8d9f72530e58.jpg",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": true
+}
