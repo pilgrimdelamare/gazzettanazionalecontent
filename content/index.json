@@ -1,5 +1,24 @@
 [
   {
+    "id": "9b6a99c6671f092b",
+    "slug": "calcio-schalke-vince-1-0-contro-karlsruhe-in-bunde-9b6a99c6671f092b",
+    "title": "Calcio: Schalke batte Karlsruhe 1-0 dopo 19 partite, Warnes decide dal dischetto al 67’",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-05T17:46:48.023447+00:00",
+    "image_type": "wikimedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/German_foreign_language_EU.jpg",
+    "occhiello": "SCHALKE ROMPE LA SERIE NEGATIVA DOPO 19 PARTITE",
+    "lead_preview": "Matthias Warnes, il 5 aprile 2026, ha segnato il gol decisivo allo stadio Veltins-Arena di Gelsenkirchen, portando lo Sc",
+    "tags": [
+      "schalke-karlsruhe 1-0",
+      "warnes gol decisivo",
+      "bundesliga 2026"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "ed3694ca9c3c6d4d",
     "slug": "espriella-denuncia-petro-per-intercettazioni-illeg-ed3694ca9c3c6d4d",
     "title": "De La Espriella denuncia Petro",
@@ -1488,24 +1507,6 @@
       "direzione pd",
       "schlein pd",
       "partito democratico"
-    ]
-  },
-  {
-    "id": "9b6a99c6671f092b",
-    "slug": "calcio-schalke-vince-1-0-contro-karlsruhe-in-bunde-9b6a99c6671f092b",
-    "title": "Calcio: Schalke batte Karlsruhe 1-0 dopo 19 partite senza vittorie, gol di rigore di Terodde",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-05T17:46:48.023447+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/German_foreign_language_EU.jpg",
-    "occhiello": "",
-    "lead_preview": "Lo Schalke ha sconfitto il Karlsruhe per 1-0 nella partita di Bundesliga disputata domenica 5 aprile 2026 allo stadio Ve",
-    "tags": [
-      "schalke-karlsruhe 1-0",
-      "vittoria schalke",
-      "gol terodde rigore"
     ]
   },
   {
