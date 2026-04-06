@@ -1,5 +1,24 @@
 [
   {
+    "id": "8ce2e3840f3c1532",
+    "slug": "laquila-ricorda-le-vittime-del-sisma-del-2009-con-8ce2e3840f3c1532",
+    "title": "L'Aquila ricorda le 309 vittime del terremoto del 2009 con due giorni di silenzio e musica",
+    "section": "giustizia",
+    "priority": 5,
+    "journalist_firma": "Carlo Amato",
+    "published_at": "2026-04-06T07:23:08.838621+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/6/881426829c58c806cb63600d096724c4.jpg",
+    "occhiello": "L'AQUILA RICORDA LE VITTIME DEL SISMA DEL 2009",
+    "lead_preview": "Il diciassettesimo anniversario del terremoto del 2009 che sconvolse l'Aquila e fece 309 morti e 1600 feriti è è stato c",
+    "tags": [
+      "terremoto aquila 2009",
+      "anniversario sisma aquila",
+      "vittime terremoto aquila"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "bcedb98d65ef61d5",
     "slug": "il-business-del-graceful-aging-vale-37-miliardi-bcedb98d65ef61d5",
     "title": "Il business del graceful aging vale 3,7 miliardi",
@@ -1127,25 +1146,6 @@
       "attacco peroni andreoli",
       "libro la preghiera",
       "polemica andreoli peroni"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "8ce2e3840f3c1532",
-    "slug": "laquila-ricorda-le-vittime-del-sisma-del-2009-con-8ce2e3840f3c1532",
-    "title": "L'Aquila ricorda le vittime del sisma del 2009 con musica e silenzio",
-    "section": "giustizia",
-    "priority": 6,
-    "journalist_firma": "Carlo Amato",
-    "published_at": "2026-04-06T07:23:08.838621+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/6/881426829c58c806cb63600d096724c4.jpg",
-    "occhiello": "ANNIVERSARIO DEL SISMA: L'AQUILA RICORDA LE VITTIME",
-    "lead_preview": "L'anniversario del sisma del 2009, che sconvolse l'Aquila e fece 309 morti e 1600 feriti, è Stato celebrato ieri e oggi ",
-    "tags": [
-      "anniversario sisma aquila",
-      "terremoto aquila 2009",
-      "vittime sisma aquila"
     ],
     "hero_eligible": true
   },
