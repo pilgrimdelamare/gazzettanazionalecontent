@@ -1,5 +1,20 @@
 [
   {
+    "id": "baaa570b1b18c55d",
+    "slug": "xingu-cucciolo-di-giaguaro-nato-in-brasile-baaa570b1b18c55d",
+    "title": "Xingu, cucciolo di giaguaro, è nato il 5 aprile 2026 nel Parco Indigeno dello Xi",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-05T15:44:30.476462+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/29150072/pexels-photo-29150072.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "",
+    "lead_preview": "Xingu, cucciolo di giaguaro, è nato il 5 aprile 2026 nel Parco Indigeno dello Xingu, nello Stato del Pará, in Brasile. I",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "63207760ea72a701",
     "slug": "iran-boccia-il-piano-usa-sul-nucleare-inaccettabil-63207760ea72a701",
     "title": "Iran boccia il piano USA sul nucleare: 'inaccettabile'",
@@ -2240,25 +2255,6 @@
       "guanto di sfida",
       "celentano peparini",
       "abbandono diretta"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "baaa570b1b18c55d",
-    "slug": "xingu-cucciolo-di-giaguaro-nato-in-brasile-baaa570b1b18c55d",
-    "title": "Nasce un cucciolo di giaguaro nel Parco dello Xingu: segnale di Speranza per la specie in pericolo",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-05T15:44:30.476462+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/29150072/pexels-photo-29150072.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "XINGU, IL CUCCIOLO DI GIAGUARO NEL PARCO INDIENO DELLO XINGU",
-    "lead_preview": "Il 5 aprile 2026, nel Parco Indigeno dello Xingu in Pará, è nato Xingu, un cucciolo di giaguaro.",
-    "tags": [
-      "nascita giaguaro xingu",
-      "parco xingu",
-      "conservazione giaguaro"
     ],
     "hero_eligible": true
   },
