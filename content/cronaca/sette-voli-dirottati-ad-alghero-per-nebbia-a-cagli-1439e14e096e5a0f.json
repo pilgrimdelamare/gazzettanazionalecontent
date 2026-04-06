@@ -1,0 +1,57 @@
+{
+  "id": "1439e14e096e5a0f",
+  "slug": "sette-voli-dirottati-ad-alghero-per-nebbia-a-cagli-1439e14e096e5a0f",
+  "title": "Sette voli dirottati ad alghero per nebbia a cagliari",
+  "titles": [
+    "SETTE VOLI DIROTTATI AD ALGHERO PER NEBBIA A CAGLIARI",
+    "SETTE VOLI DIROTTATI AD ALGHERO PER NEBBIA A CAGLIARI",
+    "SETTE VOLI DIROTTATI AD ALGHERO PER NEBBIA A CAGLIARI"
+  ],
+  "title_winner": null,
+  "section": "cronaca",
+  "occhiello": "SETTE VOLI DIROTTATI AD ALGHERO PER NEBBIA A CAGLIARI",
+  "lead": "Sette voli in arrivo all'aeroporto di Cagliari-Elmas sono stati dirottati ad Alghero-Fertilia a causa della fitta nebbia che ha ridotto la visibilità sotto i 1000 metri. Lo scalo sardo ha mantenuto regolari tutte le partenze, stando ai dati riportati da ANSA il 6 aprile 2026.",
+  "corpo1": "La nebbia ha costretto il diversivo di sette voli previsti in atterraggio a Cagliari tra le 11:00 e le 14:00. Secondo i criteri dell’Organizzazione Meteorologica Mondiale, si parla di nebbia quando la visibilità scende sotto i 1000 metri: Condizioni che hanno reso impossibile l’atterraggio in Sicurezza. I voli sono stati tutti reindirizzati all’aeroporto di Alghero, distante circa 180 chilometri dal capoluogo sardo. L’ente gestatore ha confermato che tutte le partenze da Cagliari sono avvenute regolarmente, senza ritardi o cancellazioni. Non sono stati segnalati disagi significativi per i passeggeri, con le compagnie aeree che hanno provveduto ad organizzare il trasferimento via terra verso la destinazione originaria. Alghero, città di 41.765 abitanti con un’aerostazione di dimensioni minori, ha gestito il flusso aggiuntivo senza intoppi.",
+  "corpo2": "L’aeroporto di Cagliari-Elmas, hub principale della Sardegna con 145.981 abitanti nell’area urbana, è particolarmente esposto a fenomeni di nebbia durante i mesi invernali e primaverili a causa della sua posizione vicina agli stagni di Santa Gilla e Molentargius. Si tratta del terzo episodio di diversivi per maltempo dall’inizio del 2026, dopo due casi simili registrati a febbraio. Alghero, soprannominata \"Barceloneta sarda\" per le sue radici catalane, funge da aeroporto di riserva grazie alla pista lunga 3000 metri e alla capacità di gestire voli di linea. Il piano di emergenza per il maltempo prevede il dirottamento automatico quando la visibilità scende sotto i 550 metri, come stabilito dall’ENAV. I passeggeri pagano il conto di queste interruzioni con ore di ritardo e trasferimenti forzati, mentre le compagnie aeree scaricano i costi sui biglietti con la voce \"rischi operativi\".",
+  "journalist": {
+    "id": "roberto_neri_01",
+    "firma": "Roberto Neri",
+    "sezione": "cronaca"
+  },
+  "published_at": "2026-04-06T09:42:35.660659+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://www.ansa.it/webimages/img_1129x635/2020/1/25/9362cd539565e20f26260706d26ce2d9.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"SETTE VOLI DIROTTATI AD ALGHERO PER NEBBIA A CAGLIARI\",\n  \"description\": \"Sette voli in arrivo all'aeroporto di Cagliari-Elmas sono stati dirottati ad Alghero-Fertilia a causa della fitta nebbia che ha ridotto la visibilità sotto i 1000 metri. Lo scalo sardo ha mantenuto regolari tutte le partenze, stando ai dati riportati da ANSA il 6 aprile 2026.\",\n  \"articleBody\": \"Sette voli in arrivo all'aeroporto di Cagliari-Elmas sono stati dirottati ad Alghero-Fertilia a causa della fitta nebbia che ha ridotto la visibilità sotto i 1000 metri. Lo scalo sardo ha mantenuto regolari tutte le partenze, stando ai dati riportati da ANSA il 6 aprile 2026. La nebbia ha costretto il diversivo di sette voli previsti in atterraggio a Cagliari tra le 11:00 e le 14:00. Secondo i criteri dell’Organizzazione Meteorologica Mondiale, si parla di nebbia quando la visibilità scende sotto i 1000 metri: Condizioni che hanno reso impossibile l’atterraggio in Sicurezza. I voli sono stati tutti reindirizzati all’aeroporto di Alghero, distante circa 180 chilometri dal capoluogo sardo. L’ente gestatore ha confermato che tutte le partenze da Cagliari sono avvenute regolarmente, senza ritardi o cancellazioni. Non sono stati segnalati disagi significativi per i passeggeri, con le compagnie aeree che hanno provveduto ad organizzare il trasferimento via terra verso la destinazione originaria. Alghero, città di 41.765 abitanti con un’aerostazione di dimensioni minori, ha gestito il flusso aggiuntivo senza intoppi. L’aeroporto di Cagliari-Elmas, hub principale della Sardegna con 145.981 abitanti nell’area urbana, è particolarmente esposto a fenomeni di nebbia durante i mesi invernali e primaverili a causa della sua posizione vicina agli stagni di Santa Gilla e Molentargius. Si tratta del terzo episodio di diversivi per maltempo dall’inizio del 2026, dopo due casi simili registrati a febbraio. Alghero, soprannominata \\\"Barceloneta sarda\\\" per le sue radici catalane, funge da aeroporto di riserva grazie alla pista lunga 3000 metri e alla capacità di gestire voli di linea. Il piano di emergenza per il maltempo prevede il dirottamento automatico quando la visibilità scende sotto i 550 metri, come stabilito dall’ENAV. I passeggeri pagano il conto di queste interruzioni con ore di ritardo e trasferimenti forzati, mentre le compagnie aeree scaricano i costi sui biglietti con la voce \\\"rischi operativi\\\".\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Roberto Neri\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-06T09:42:35.660659+00:00\",\n  \"dateModified\": \"2026-04-06T09:42:35.660659+00:00\",\n  \"url\": \"https://lentemattutina.it/cronaca/1439e14e096e5a0f\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cronaca/1439e14e096e5a0f\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.ansa.it/webimages/img_1129x635/2020/1/25/9362cd539565e20f26260706d26ce2d9.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 6,
+  "source": "ANSA Cronaca",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/cronaca/2026/04/06/nebbia-allaeroporto-di-cagliari-sette-voli-in-arrivo-dirottati-ad-alghero_3a4c8972-ef3f-48d7-9d8e-32aaf316413c.html",
+  "related": [
+    {
+      "title": "Ruota panoramica si blocca a kushinagar, 30 feriti",
+      "url": "/cronaca/30-feriti-a-kushinagar-per-crollo-ruota-panoramica-b4ea86556c325f03",
+      "id": "b4ea86556c325f03",
+      "image_url": "https://images.unsplash.com/photo-1744103120879-8b337c1c1d2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxydW90YSUyMHBhbm9yYW1pY2ElMjBjcm9sbG98ZW58MHwwfHx8MTc3NTQwNjgwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Petrolio in rialzo il 6 aprile, nonostante la possibile tregua",
+      "url": "/cronaca/petrolio-in-rialzo-il-6-aprile-nonostante-la-possi-1b5abd44cc229ea6",
+      "id": "1b5abd44cc229ea6",
+      "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/06/103244915-0a0229d6-ca10-4204-9e32-ec4f2cf20ae4.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Garattini a Milano: 'Farmaci per bambini testati su adulti, rischio cervello'",
+      "url": "/cronaca/garattini-a-milano-farmaci-per-bambini-testati-su-b46e693d4c0547f3",
+      "id": "b46e693d4c0547f3",
+      "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2023/09/18/farmaci-bambini.jpg",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": true
+}
