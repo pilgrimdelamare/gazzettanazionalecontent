@@ -1,5 +1,20 @@
 [
   {
+    "id": "bd94755d11343a7b",
+    "slug": "calcio-bologna-batte-cremonese-2-1-a-zini-joao-mar-bd94755d11343a7b",
+    "title": "Joao mario decide la gara",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-05T15:12:28.637294+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1671715789458-431a634ff0bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxKb2FvJTIwTWFyaW8lMjBCb2xvZ25hJTIwQ3JlbW9uZXNlJTIwU3RhZGlvJTIwR2lvdmFubmklMjBaaW5pfGVufDB8MHx8fDE3NzU0MDk1NTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "JOAO MARIO DECIDE LA GARA",
+    "lead_preview": "Joao Mario ha segnato al 23’ del primo tempo, decidendo la gara tra Cremonese e bologna, che si è conclusa con una sconf",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "3137605a102228aa",
     "slug": "il-governo-britannico-vuole-mortificare-i-diritti-3137605a102228aa",
     "title": "Regno Unito, PIL a 0,2%: Governo chiede revisione norme lavoro",
@@ -1551,24 +1566,6 @@
       "calcio",
       "ascoli",
       "vis pesaro"
-    ]
-  },
-  {
-    "id": "bd94755d11343a7b",
-    "slug": "calcio-bologna-batte-cremonese-2-1-a-zini-joao-mar-bd94755d11343a7b",
-    "title": "Ciclismo: Bologna sconfitta 2-1",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-05T15:12:28.637294+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1671715789458-431a634ff0bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxKb2FvJTIwTWFyaW8lMjBCb2xvZ25hJTIwQ3JlbW9uZXNlJTIwU3RhZGlvJTIwR2lvdmFubmklMjBaaW5pfGVufDB8MHx8fDE3NzU0MDk1NTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "JOAO MARIO DECIDE CON UN GOL MEMORABILE.",
-    "lead_preview": "Joao Mario decide con un gol memorabile. Joao Mario ha segnato al 23’ del primo tempo, decidendo la gara tra Cremonese e",
-    "tags": [
-      "ciclismo",
-      "bologna",
-      "cremonese"
     ]
   },
   {
