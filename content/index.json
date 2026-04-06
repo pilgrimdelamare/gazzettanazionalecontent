@@ -1,5 +1,23 @@
 [
   {
+    "id": "15e6c53050810aab",
+    "slug": "papa-francesco-annuncia-veglia-per-la-pace-l11-apr-15e6c53050810aab",
+    "title": "Papa Francesco ha convocato una veglia di preghiera per la pace in piazza San Pi",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Sergio Mancini",
+    "published_at": "2026-04-05T10:47:37.686507+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1538175911510-25336f95b07d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxQYXBhJTIwRnJhbmNlc2NvfGVufDB8MHx8fDE3NzUzOTM2MjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "",
+    "lead_preview": "Papa Francesco ha convocato una veglia di preghiera per la pace in piazza San Pietro l'11 aprile 2026, come annunciato u",
+    "tags": [
+      "veglia per la pace",
+      "papa francesco"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "3137605a102228aa",
     "slug": "il-governo-britannico-vuole-mortificare-i-diritti-3137605a102228aa",
     "title": "Regno Unito, Governo chiede revisione norme lavoro per alleggerire imprese",
@@ -68,24 +86,6 @@
     "tags": [
       "scandalo colombia",
       "intercettazioni petro"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "15e6c53050810aab",
-    "slug": "papa-francesco-annuncia-veglia-per-la-pace-l11-apr-15e6c53050810aab",
-    "title": "Papa Leone XIV: veglia di preghiera a Roma l'11 aprile",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Elena Russo",
-    "published_at": "2026-04-05T10:47:37.686507+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1538175911510-25336f95b07d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxQYXBhJTIwRnJhbmNlc2NvfGVufDB8MHx8fDE3NzUzOTM2MjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "PAPA FRANCESCO CHIAMA IN PREGHIERA 100 MILA PERSONE A SAN PIETRO.",
-    "lead_preview": "In un messaggio diffuso il 5 aprile 2026, Papa Leone XIV ha convocato una veglia di preghiera per la pace in piazza San ",
-    "tags": [
-      "veglia di preghiera",
-      "papa leone xiv"
     ],
     "hero_eligible": true
   },
