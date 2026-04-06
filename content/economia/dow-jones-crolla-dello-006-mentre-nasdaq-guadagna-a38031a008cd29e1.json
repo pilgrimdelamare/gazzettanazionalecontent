@@ -1,0 +1,57 @@
+{
+  "id": "a38031a008cd29e1",
+  "slug": "dow-jones-crolla-dello-006-mentre-nasdaq-guadagna-a38031a008cd29e1",
+  "title": "Dow Jones crolla dello 0,06% mentre Nasdaq guadagna 0,36%",
+  "titles": [
+    "Dow Jones crolla dello 0,06% mentre Nasdaq guadagna 0,36%",
+    "Wall Street si divide alla pari tra acquirenti e venditori",
+    "Millioni di dollari muovono i trader in un balletto di decimali"
+  ],
+  "title_winner": null,
+  "section": "economia",
+  "occhiello": "WALL STREET GIOCA A RIDOTTO, I SOLITI GUADAGNANO LO STESSO",
+  "lead": "Il 6 aprile 2026 Wall Street ha chiuso una seduta contrastata con il Dow Jones in calo dello 0,06% e il Nasdaq in rialzo dello 0,36%. I due indicatori più seguiti della Borsa americana hanno oscillato attorno alla parità per ore, in un balletto di decimali che non sposta di un centesimo la vita di chi produce beni reali, ma che muove miliardi di dollari nei Conti di hedge fund e banche d'affari.",
+  "corpo1": "L'agenzia ansa riporta le cifre esatte della giornata: l'indice industriale Dow Jones, che racchiude trenta grandi società statunitensi, ha perso lo 0,06%. Il Nasdaq, mercato elettronico dove sono listate migliaia di tech company, ha guadagnato lo 0,36%. Sono movimenti infinitesimi, dentro la norma del rumore di Fondo quotidiano. Il comunicato ufficiale parla di \"seduta contrastata\", termine standard per dire che gli acquirenti e i venditori si sono equilibrati senza una direzione chiara. Non c'è Stato un dato macroeconomico particolare a muovere le sorti, né un comunicato della federal reserve. Solo il consueto flusso di ordini algoritmici e la rincorsa a pochi decimi di punto percentuale da parte dei trader più aggressivi.",
+  "corpo2": "Questi decimali sono il pane quotidiano di Wall Street, il vero motore dell'economia finanziaria globale. Il Dow Jones, nato come media di poche industrie pesanti, oggi è un paniere di colossi come Apple, Microsoft e Goldman Sachs. Il Nasdaq è la patria delle società tecnologiche, dove la valutazione spesso sfida le leggi della fisica e della redditività. Chi muove queste virgole? Non il piccolo risparmiatore italiano che acquista un etf, ma fondi speculative con leva finanziaria che scommettono su variazioni di pochi basis point. Per loro, uno 0,36% di rialzo su un portafoglio da un miliardo di dollari sono 3,6 milioni di dollari in un giorno. Soldi che non derivano da una nuova invenzione o da una fabbrica che produce, ma dalla semplice previsione che un indice salirà.\n\nIl meccanismo è semplice: la complessità artificiale. Per giustificare compensi milionari, l'industria finanziaria ha costruito un universo di derivati, future e opzioni che trasformano ogni oscillazione in una scommessa. Quel +0,36% del Nasdaq significa che alcuni contratti di opzione sono scaduti in the money, regalando fortune a chi aveva comprato il derivativo giusto. Il -0,06% del Dow Jones ha attivato stop loss su posizioni Corte, generando commissioni per le banche broker. In entrambi i casi, il sistema bancario e i grandi gestori intascano fee, spread e profitti indipendentemente dalla direzione. È un gioco a somma zero dove la casa (le banche) vince sempre, applicando un pedaggio su ogni giro della roulette.\n\nPer il resto del mondo, questi numeri sono puro rumore. Il prezzo del pane, la rata del mutuo, lo stipendio che non cresce non hanno alcuna correlazione diretta con lo 0,12% di variazioni aggregate. Eppure, ogni sera i telegiornali riportano queste cifre come fossero un termometro della salute economica nazionale. È una finzione. Il vero termometro sono i bonus che stasera i ceo di Goldman Sachs e Morgan Stanley distribuiranno ai propri trader per aver \"gestito bene il rischio\" in una seduta senza storia. Quei bonus, milionari, verranno pagati con i profitti generati proprio da queste oscillazioni artificiali. Il conto, come sempre, lo pagano i contribuenti ordinari quando, tra qualche anno, una di queste scommesse sbagliate esploderà in una nuova crisi e servirà un salvataggio pubblico. Intanto, Wall Street festeggia lo 0,36% come fosse un trionfo.",
+  "journalist": {
+    "id": "giorgio_ferrara_01",
+    "firma": "Giorgio Ferrara",
+    "sezione": "economia"
+  },
+  "published_at": "2026-04-06T13:46:52.114838+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://www.ansa.it/webimages/img_1129x635/2026/3/23/c75f5e676a3c3cb713d32f5df34c161a.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Dow Jones crolla dello 0,06% mentre Nasdaq guadagna 0,36%\",\n  \"description\": \"Il 6 aprile 2026 Wall Street ha chiuso una seduta contrastata con il Dow Jones in calo dello 0,06% e il Nasdaq in rialzo dello 0,36%. I due indicatori più seguiti della Borsa americana hanno oscillato attorno alla parità per ore, in un balletto di decimali che non sposta di un centesimo la vita di c\",\n  \"articleBody\": \"Il 6 aprile 2026 Wall Street ha chiuso una seduta contrastata con il Dow Jones in calo dello 0,06% e il Nasdaq in rialzo dello 0,36%. I due indicatori più seguiti della Borsa americana hanno oscillato attorno alla parità per ore, in un balletto di decimali che non sposta di un centesimo la vita di chi produce beni reali, ma che muove miliardi di dollari nei Conti di hedge fund e banche d'affari. L'agenzia ansa riporta le cifre esatte della giornata: l'indice industriale Dow Jones, che racchiude trenta grandi società statunitensi, ha perso lo 0,06%. Il Nasdaq, mercato elettronico dove sono listate migliaia di tech company, ha guadagnato lo 0,36%. Sono movimenti infinitesimi, dentro la norma del rumore di Fondo quotidiano. Il comunicato ufficiale parla di \\\"seduta contrastata\\\", termine standard per dire che gli acquirenti e i venditori si sono equilibrati senza una direzione chiara. Non c'è Stato un dato macroeconomico particolare a muovere le sorti, né un comunicato della federal reserve. Solo il consueto flusso di ordini algoritmici e la rincorsa a pochi decimi di punto percentuale da parte dei trader più aggressivi. Questi decimali sono il pane quotidiano di Wall Street, il vero motore dell'economia finanziaria globale. Il Dow Jones, nato come media di poche industrie pesanti, oggi è un paniere di colossi come Apple, Microsoft e Goldman Sachs. Il Nasdaq è la patria delle società tecnologiche, dove la valutazione spesso sfida le leggi della fisica e della redditività. Chi muove queste virgole? Non il piccolo risparmiatore italiano che acquista un etf, ma fondi speculative con leva finanziaria che scommettono su variazioni di pochi basis point. Per loro, uno 0,36% di rialzo su un portafoglio da un miliardo di dollari sono 3,6 milioni di dollari in un giorno. Soldi che non derivano da una nuova invenzione o da una fabbrica che produce, ma dalla semplice previsione che un indice salirà.\\n\\nIl meccanismo è semplice: la complessità artificiale. Per giustificare compensi milionari, l'industria finanziaria ha costruito un universo di derivati, future e opzioni che trasformano ogni oscillazione in una scommessa. Quel +0,36% del Nasdaq significa che alcuni contratti di opzione sono scaduti in the money, regalando fortune a chi aveva comprato il derivativo giusto. Il -0,06% del Dow Jones ha attivato stop loss su posizioni Corte, generando commissioni per le banche broker. In entrambi i casi, il sistema bancario e i grandi gestori intascano fee, spread e profitti indipendentemente dalla direzione. È un gioco a somma zero dove la casa (le banche) vince sempre, applicando un pedaggio su ogni giro della roulette.\\n\\nPer il resto del mondo, questi numeri sono puro rumore. Il prezzo del pane, la rata del mutuo, lo stipendio che non cresce non hanno alcuna correlazione diretta con lo 0,12% di variazioni aggregate. Eppure, ogni sera i telegiornali riportano queste cifre come fossero un termometro della salute economica nazionale. È una finzione. Il vero termometro sono i bonus che stasera i ceo di Goldman Sachs e Morgan Stanley distribuiranno ai propri trader per aver \\\"gestito bene il rischio\\\" in una seduta senza storia. Quei bonus, milionari, verranno pagati con i profitti generati proprio da queste oscillazioni artificiali. Il conto, come sempre, lo pagano i contribuenti ordinari quando, tra qualche anno, una di queste scommesse sbagliate esploderà in una nuova crisi e servirà un salvataggio pubblico. Intanto, Wall Street festeggia lo 0,36% come fosse un trionfo.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Giorgio Ferrara\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-06T13:46:52.114838+00:00\",\n  \"dateModified\": \"2026-04-06T13:46:52.114838+00:00\",\n  \"url\": \"https://lentemattutina.it/economia/a38031a008cd29e1\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/economia/a38031a008cd29e1\"\n  },\n  \"articleSection\": \"Economia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.ansa.it/webimages/img_1129x635/2026/3/23/c75f5e676a3c3cb713d32f5df34c161a.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 5,
+  "source": "ANSA Economia",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/economia/2026/04/06/wall-street-apre-contrastata-dj-006-nasdaq-036_4ff345bc-1767-4070-a677-a4eacd9e7422.html",
+  "related": [
+    {
+      "title": "380Mila pensionati riceveranno fino a 450 euro di arretrati dallo Stato entro giugno",
+      "url": "/economia/220mila-dipendenti-pubblici-riscuoteranno-170-mili-c8b1977f8f450f62",
+      "id": "c8b1977f8f450f62",
+      "image_url": "https://images.unsplash.com/photo-1596627116752-94ec9536a1fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxJdGFsaWFuJTIwZ292ZXJubWVudCUyMHBlbnNpb24lMjBhcnJlYXJzJTIwcHVibGljJTIwZW1wbG95ZWVzJTIwcm9tZXxlbnwwfDB8fHwxNzc1NDEwNjE1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Sánchez: 22 milioni di occupati in Spagna, record storico nella previdenza",
+      "url": "/economia/sanchez-22-milioni-di-occupati-in-spagna-record-st-0203997d2bd84cd4",
+      "id": "0203997d2bd84cd4",
+      "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/06/Pedro-Sanchez.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "21 Navi nello Stretto di Hormuz in 48 ore, +50% rispetto alla media mensile",
+      "url": "/economia/21-navi-nello-stretto-di-hormuz-in-48-ore-50-rispe-e24ad8e32d8a1639",
+      "id": "e24ad8e32d8a1639",
+      "image_url": "https://www.ansa.it",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": true
+}
