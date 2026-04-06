@@ -1,5 +1,20 @@
 [
   {
+    "id": "461ecc5b4c37fc3f",
+    "slug": "chirurgia-oncologica-awake-senza-anestesia-general-461ecc5b4c37fc3f",
+    "title": "Chirurgia oncologica awake senza anestesia generale alle molinette",
+    "section": "salute",
+    "priority": 9,
+    "journalist_firma": "Luca Tosi",
+    "published_at": "2026-04-06T09:42:29.751336+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/6/0dc4e695ae11535c007f16464085af8c.jpg",
+    "occhiello": "CHIRURGIA ONCOLOGICA AWAKE SENZA ANESTESIA GENERALE ALLE MOLINETTE",
+    "lead_preview": "Un team dell’ospedale Molinette di Torino ha asportato un tumore al colon a un paziente sveglio, in ipnosi, il 6 aprile ",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "fee24be306b11d73",
     "slug": "papa-leone-xiv-chiama-trump-in-diretta-cerca-una-v-fee24be306b11d73",
     "title": "Papa leone xiv attacca trump in diretta pasquale: \"sanzioni all'iran inutili\"",
@@ -8793,24 +8808,6 @@
       "caso david rossi",
       "banca etruria",
       "mail rossi profumo"
-    ]
-  },
-  {
-    "id": "316e0421a509bd8f",
-    "slug": "rapina-a-vigliano-biellese-500-euro-316e0421a509bd8f",
-    "title": "Ragazzo di 13 anni ruba 500 euro da Poste di Vigliano Biellese con pistola giocattolo",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Chiara Esposito",
-    "published_at": "2026-04-01T12:13:21.897511+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/6266682/pexels-photo-6266682.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "",
-    "lead_preview": "De Luca Matteo, tredicenne di Vigliano Biellese, ha rapinato l'ufficio postale del comune in provincia di Biella alle 14",
-    "tags": [
-      "rapina poste vigliano",
-      "ragazzo 13enne arma giocattolo",
-      "de luca matteo"
     ]
   }
 ]
