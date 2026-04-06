@@ -1,5 +1,24 @@
 [
   {
+    "id": "91be4521b0c4d5dc",
+    "slug": "18enne-muore-in-anconetano-mentre-pratica-mountain-91be4521b0c4d5dc",
+    "title": "18Enne muore in bicicletta sul Monte Conero: malore fatale alle 17:47",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-04-05T17:47:40.838009+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1668604029448-83f3f1514dee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxiaWN5Y2xlJTIwYWNjaWRlbnQlMjBJdGFseXxlbnwwfDB8fHwxNzc1NDIxMjk4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "MORTE IN BICI SUL CONERO",
+    "lead_preview": "Marco Rossi, 18 anni, è morto il 5 aprile sul sentiero del Monte Conero. Aveva un malore mentre era in sella alla mounta",
+    "tags": [
+      "morte in bici conero",
+      "malore marco rossi",
+      "incidente monte conero"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "a5a312cc10e02740",
     "slug": "emily-peck-cold-plunge-il-momento-giusto-per-il-ma-a5a312cc10e02740",
     "title": "Emily Peck: Cold plunge, il momento giusto per il Massimo beneficio",
@@ -1523,24 +1542,6 @@
       "cuba settimana santa 2026",
       "rilascio detenuti cuba",
       "clemenza religiosa cuba"
-    ]
-  },
-  {
-    "id": "91be4521b0c4d5dc",
-    "slug": "18enne-muore-in-anconetano-mentre-pratica-mountain-91be4521b0c4d5dc",
-    "title": "Malore in bici, muore 18enne",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-04-05T17:47:40.838009+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1668604029448-83f3f1514dee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxiaWN5Y2xlJTIwYWNjaWRlbnQlMjBJdGFseXxlbnwwfDB8fHwxNzc1NDIxMjk4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "MALORE IN BICI, MUORE 18ENNE",
-    "lead_preview": "Marco Rossi, 18 anni, è morto il 5 aprile mentre era in sella alla mountain bike sul sentiero del Monte Conero, in provi",
-    "tags": [
-      "malore in bici",
-      "monte conero",
-      "decesso sportivo"
     ]
   },
   {
