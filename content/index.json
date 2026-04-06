@@ -1,5 +1,24 @@
 [
   {
+    "id": "93557621b31cc912",
+    "slug": "basket-il-minnesota-crolla-a-minneapolis-108-122-93557621b31cc912",
+    "title": "Basket: Minnesota crolla a casa, Charlotte vince 122-108 al Target Center",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-06T06:08:59.524081+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/ee37c7fd33af9c1ff0550b0d0ba25e1b7e0ca14e/skysport/it/nba/video/2026/04/06/1087984_1775444717668_thumb_494.0000001_1775452401534.jpg",
+    "occhiello": "BASKET: IL MINNESOTA CROLLA A MINNEAPOLIS CON UN RISULTATO DI 122-108",
+    "lead_preview": "Minneapolis, 6 aprile 2026 - Il Minnesota ha perso contro la Charlotte con un risultato di 108-122 durante la partita di",
+    "tags": [
+      "basket",
+      "minnesota",
+      "charlotte"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "bded048886f70297",
     "slug": "basket-cleveland-indiana-batte-cleveland-117-108-c-bded048886f70297",
     "title": "Basket: Cleveland Indiana batte Cleveland 117-108 in trasferta",
@@ -837,24 +856,6 @@
     "tags": [
       "nba okahoma city",
       "basket nba"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "93557621b31cc912",
-    "slug": "basket-il-minnesota-crolla-a-minneapolis-108-122-93557621b31cc912",
-    "title": "Basket: il Minnesota crolla a Minneapolis (108-122)",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-06T06:08:59.524081+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/ee37c7fd33af9c1ff0550b0d0ba25e1b7e0ca14e/skysport/it/nba/video/2026/04/06/1087984_1775444717668_thumb_494.0000001_1775452401534.jpg",
-    "occhiello": "MINNESOTA-CHARLOTTE, UNA VITTORIA IN ASPETTO!",
-    "lead_preview": "Minneapolis, 6 aprile 2026 - Il Minnesota ha perso contro la Charlotte con un risultato di 108-122. La partita si è gioc",
-    "tags": [
-      "minnesota-charlotte",
-      "nba 2026"
     ],
     "hero_eligible": true
   },
