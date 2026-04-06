@@ -1,5 +1,23 @@
 [
   {
+    "id": "489b5fe5543abb4c",
+    "slug": "card-castillo-vieta-ai-preti-di-indicare-il-candid-489b5fe5543abb4c",
+    "title": "Cardinale Castillo: stop a endorsement politici per i sacerdoti di Lima",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-05T14:43:26.170335+00:00",
+    "image_type": "wikimedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Chachani%2C_Peru_ESA413331.png",
+    "occhiello": "PRETI PERUVIANI VIETATI DI SOSTENERE CANDIDATI POLITICI",
+    "lead_preview": "Il cardinale Pedro Castillo, arcivescovo di Lima, ha emesso il 5 aprile una direttiva che vieta ai sacerdoti della sua a",
+    "tags": [
+      "cardinale castillo",
+      "lima elezioni"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "833a990cf09e0a19",
     "slug": "slayare-ghostare-o-drippare-la-scelta-e-per-i-giov-833a990cf09e0a19",
     "title": "Siena ospita Festival linguistico",
@@ -2166,23 +2184,6 @@
     "tags": [
       "basket trieste",
       "pala trieste"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "489b5fe5543abb4c",
-    "slug": "card-castillo-vieta-ai-preti-di-indicare-il-candid-489b5fe5543abb4c",
-    "title": "Cardinale Castillo: stop a endorsement elettorali per i preti di Lima",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-05T14:43:26.170335+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Chachani%2C_Peru_ESA413331.png",
-    "occhiello": "CHIESA PERUVIANA SILENZIA I PRETI PRIMA DEL VOTO",
-    "lead_preview": "Il cardinale Pedro Castillo, arcivescovo di Lima, ha vietato ai sacerdoti peruviani di indicare un candidato alle elezio",
-    "tags": [
-      "elezioni peruviane 2026"
     ],
     "hero_eligible": true
   },
