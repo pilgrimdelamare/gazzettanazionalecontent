@@ -1,5 +1,24 @@
 [
   {
+    "id": "03243f554a0abb81",
+    "slug": "la-decisione-del-comune-di-padova-e-stata-presa-se-03243f554a0abb81",
+    "title": "Padova demolisce campo fascista Dosché senza avvisare Anpi e Aned",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Chiara Esposito",
+    "published_at": "2026-04-05T14:13:55.739767+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/11663049/pexels-photo-11663049.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "DEMOLITO IL CAMPO DOSCHÉ SENZA CONSULTARE LE ASSOCIAZIONI",
+    "lead_preview": "Padova ha avviato la demolizione del campo di concentramento fascista Dosché il 5 aprile 2026, senza consultare Anpi e A",
+    "tags": [
+      "demolizione campo dosché",
+      "aned padova",
+      "anpi padova"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c46756f63bfbacb3",
     "slug": "di-canio-critica-leao-c46756f63bfbacb3",
     "title": "Di canio critica leao",
@@ -11,21 +30,6 @@
     "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/05/192925227-d7cda450-656a-4a8d-a79a-affa08d646a9.jpg",
     "occhiello": "DI CANIO CRITICA LEAO",
     "lead_preview": "Paolo di Canio, ex attaccante e voce di sky, ha criticato l'atteggiamento di leão, il numero 10 del Milan, definendolo \"",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "03243f554a0abb81",
-    "slug": "la-decisione-del-comune-di-padova-e-stata-presa-se-03243f554a0abb81",
-    "title": "Demolito il campo di concentramento dosché",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-04-05T14:13:55.739767+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/11663049/pexels-photo-11663049.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "DEMOLITO IL CAMPO DI CONCENTRAMENTO DOSCHÉ",
-    "lead_preview": "Padova, il Comune ha dato il via alla demolizione del campo di concentramento Dosché, struttura fascista utilizzata dura",
     "tags": [],
     "hero_eligible": true
   },
