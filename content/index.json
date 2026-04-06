@@ -1,5 +1,23 @@
 [
   {
+    "id": "6267c25e8083e0a6",
+    "slug": "alessandria-citta-della-vecchiaia-il-273-di-anzian-6267c25e8083e0a6",
+    "title": "Alessandria: 27,3% di anziani, oltre la media Italiana",
+    "section": "societa",
+    "priority": 5,
+    "journalist_firma": "Federica Conti",
+    "published_at": "2026-04-06T07:08:56.312602+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2023/09/04/anziani.jpg",
+    "occhiello": "ANZIANI IN AUMENTO A ALESSANDRIA",
+    "lead_preview": "Alessandria, con una popolazione di 93.409 abitanti, ha un tasso di anziani del 27,3%, secondo i dati dell'Istat del 6 a",
+    "tags": [
+      "anziani alessandria",
+      "tassi anziani"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "489b5fe5543abb4c",
     "slug": "card-castillo-vieta-ai-preti-di-indicare-il-candid-489b5fe5543abb4c",
     "title": "Cardinale Castillo: stop a endorsement politici per i sacerdoti di Lima",
@@ -1138,25 +1156,6 @@
       "rifiuto inzaghi nazionale",
       "simone inzaghi ct",
       "nazionale italiana allenatore"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "6267c25e8083e0a6",
-    "slug": "alessandria-citta-della-vecchiaia-il-273-di-anzian-6267c25e8083e0a6",
-    "title": "Alessandria, città della vecchiaia: il 27,3% di anziani è più del doppio dellamedia Italiana",
-    "section": "societa",
-    "priority": 7,
-    "journalist_firma": "Federica Conti",
-    "published_at": "2026-04-06T07:08:56.312602+00:00",
-    "image_type": "image",
-    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2023/09/04/anziani.jpg",
-    "occhiello": "LA SOCIETÀ LONGEVA: UN FUTURO INVECCHIATO",
-    "lead_preview": "La Società Italiana invecchia rapidamente. Secondo i dati dell'Istat, il 23,6% della popolazione italiana ha più di 65 a",
-    "tags": [
-      "societa longeva",
-      "invecchiamento italiano",
-      "città anziani"
     ],
     "hero_eligible": true
   },
