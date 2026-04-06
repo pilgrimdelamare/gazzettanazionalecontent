@@ -1,5 +1,23 @@
 [
   {
+    "id": "54affd137fee6024",
+    "slug": "di-maio-condanna-attacchi-in-iran-inaccettabili-co-54affd137fee6024",
+    "title": "Di Maio condanna attacchi in Iran: 'Illegali e inaccettabili'",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-06T10:29:33.291943+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/6/ba594fc2377be1792c44017941edaf14.jpg",
+    "occhiello": "",
+    "lead_preview": "Luigi Di Maio ha definito \"illegali e inaccettabili\" gli attacchi alle infrastrutture civili in Iran, in una dichiarazio",
+    "tags": [
+      "attacchi in iran",
+      "di maio esteri"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "6373105027974f5d",
     "slug": "calcio-bologna-batte-ginevra-3-1-in-amichevole-bar-6373105027974f5d",
     "title": "Calcio: Barrow tris nel 3-1 del Bologna al Ginevra in amichevole",
@@ -874,23 +892,6 @@
     "occhiello": "58ENNE ACCOLTELLATO DAL NIPOTE IN LITE FAMILIARE",
     "lead_preview": "Un 58enne è Stato accoltellato dal nipote durante una lite familiare nelle campagne di Isola Capo Rizzuto, in provincia ",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "54affd137fee6024",
-    "slug": "di-maio-condanna-attacchi-in-iran-inaccettabili-co-54affd137fee6024",
-    "title": "Di Maio condanna attacchi in Iran: \"Inaccettabili contro civili\"",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-06T10:29:33.291943+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/6/ba594fc2377be1792c44017941edaf14.jpg",
-    "occhiello": "COSTA CONDANNA ATTACCHI A INFRASTRUTTURE CIVILI IN IRAN: \"ILLEGALI E INACCETTABILI\"",
-    "lead_preview": "Il ministro degli esteri Luigi Di Maio ha definito \"illegali e inaccettabili\" gli attacchi alle infrastrutture civili in",
-    "tags": [
-      "attacchi iran"
-    ],
     "hero_eligible": true
   },
   {
