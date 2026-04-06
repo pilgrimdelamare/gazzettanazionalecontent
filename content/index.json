@@ -1,5 +1,20 @@
 [
   {
+    "id": "f113d18bc0d8b300",
+    "slug": "bangladesh-15-milioni-di-vaccini-anti-morbillo-in-f113d18bc0d8b300",
+    "title": "87Mila casi in tre settimane, il morbillo torna a colpire il Bangladesh",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-05T12:22:29.584549+00:00",
+    "image_type": "wikimedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Measles_virus.JPG",
+    "occhiello": "87MILA CASI IN TRE SETTIMANE",
+    "lead_preview": "Il morbillo ha colpito 87mila persone in tre settimane. Il governo ha dichiarato emergenza sanitaria il 5 aprile, con 1,",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "05a916072c6fdc90",
     "slug": "basket-orlando-batte-new-orleans-112-108-al-fiserv-05a916072c6fdc90",
     "title": "Basket: Orlando Magic battono i Pelicans 112-108 in rimonta",
@@ -2012,24 +2027,6 @@
     "tags": [
       "progetti indigeni amazonia",
       "salvataggio foreste amazonia"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "f113d18bc0d8b300",
-    "slug": "bangladesh-15-milioni-di-vaccini-anti-morbillo-in-f113d18bc0d8b300",
-    "title": "87Mila contagi in 3 settimane: il morbillo devasta il Bangladesh",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-05T12:22:29.584549+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Measles_virus.JPG",
-    "occhiello": "BANGLADESH, EPIDEMIA DI MORBILLO",
-    "lead_preview": "Dhaka, 5 aprile 2026. Il governo del Bangladesh ha avviato un programma di vaccinazione d’emergenza dopo che l’epidemia ",
-    "tags": [
-      "epidemia morbillo",
-      "bangladesh morbillo"
     ],
     "hero_eligible": true
   },
