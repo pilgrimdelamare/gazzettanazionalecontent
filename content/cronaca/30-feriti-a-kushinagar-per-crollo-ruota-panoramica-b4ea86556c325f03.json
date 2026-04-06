@@ -1,18 +1,18 @@
 {
   "id": "b4ea86556c325f03",
   "slug": "30-feriti-a-kushinagar-per-crollo-ruota-panoramica-b4ea86556c325f03",
-  "title": "30 feriti in un crollo di ruota panoramica in India",
+  "title": "Ruota panoramica si bloquea in India",
   "titles": [
-    "30 feriti in un crollo di ruota panoramica in India",
-    "Kushinagar: 30 feriti in un incidente disastro di ruota panoramica",
-    "30 vite a rischio: la ruota panoramica di Kushinagar si còlta in India"
+    "Ruota panoramica si bloquea in India",
+    "30 Feriti a Kushinagar",
+    "Kushinagar: disastro alla fiera"
   ],
   "title_winner": null,
   "section": "cronaca",
-  "occhiello": "CROLLO RUOTA PANORAMICA A KUSHINAGAR: 30 FERITI TRA 80 PERSONE A BORDO",
-  "lead": "Il 5 aprile 2026, alle 14:26, una ruota panoramica a Kushinagar, in India, si è còlta improvvisamente, lasciando 30 persone ferite. I superstiti sono stati soccorsi e trasportati in ospedale.",
-  "corpo1": "Nella città di Kushinagar, nello stato federato dell'Uttar Pradesh. Secondo le prime informazioni, c'erano 80 persone a bordo, ma nessuno sapeva che la ruota era a rischio. La causa del crollo è già scritta tra le righe: la negligenza dei responsabili. I soccorsi sono stati immediati, ma non abbastanza veloci per evitare il disastro. I",
-  "corpo2": "30 feriti sono stati trasportati in ospedale per ricevere le cure mediche necessarie. La polizia locale sta investigando, ma non è chiaro se cercheranno la verità. Kushinagar, una città che ha già dimostrato di non essere sicura per i turisti. La ruota panoramica era uno dei principali attrazioni, ma non era sicura. L'incidente si è verificato durante il periodo di alta stagione, quando la città è piena di visitatori, ma i responsabili non hanno fatto nulla per prevenirlo. La causa del crollo è già scritta tra le righe: la negligenza dei responsabili, ma è evidente che la sicurezza dei turisti è stata compromessa. A pagare il prezzo saranno sempre gli stessi: i poveri.",
+  "occhiello": "RUOTA PANORAMICA CROLLA IN INDIA",
+  "lead": "Kushinagar, in India, è il luogo dove una ruota panoramica si è còlta improvvisamente, lasciando 30 persone ferite, il 5 aprile 2026, alle 14:26.",
+  "corpo1": "La ruota panoramica si è còlta mentre era in funzione con a bordo decine di persone: una dinamica che le autorità fingono di dover ancora chiarire. Il luogo dell'incidente, Kushinagar, è una città situata nello Stato di Uttar Pradesh, in India. Le autorità locali hanno immediatamente attivato i soccorsi e trasportato i feriti in ospedale. Nessuna vittima per ora, ma il numero dei feriti è destinato a salire: il classico copione dopo ogni incidente evitabile. La polizia locale ha avviato un'indagine per stabilire le cause dell'incidente. Una nota di colore non richiesta: l'India conta 1,4 miliardi di abitanti e una lunga tradizione di controlli alla cieca su attrazioni che dovrebbero essere messe sotto torchio.",
+  "corpo2": "Il crollo mette in luce ciò che tutti sanno e nessuno applicherà: i controlli sono un optional che in India si può pagare per non fare. L'India è un paese in rapida crescita, con un settore del turismo in continua espansione, e la Sicurezza dei visitatori deve essere una priorità. La ruota panoramica che si è còlta era probabilmente una delle principali attrazioni del parco, e l'incidente potrebbe avere conseguenze negative per il turismo locale. Il governo indiano annuncerà una task force, qualche retweet e poi dimenticherà il tutto fino al prossimo crollo. Il conto lo pagheranno i soliti: i turisti che hanno perso la fiducia nei parchi di divertimento indiani e le famiglie delle vittime che dovranno convivere con le conseguenze di questo incidente.",
   "journalist": {
     "id": "roberto_neri_01",
     "firma": "Roberto Neri",
@@ -26,33 +26,34 @@
     "credit": "Kristie Cross",
     "license": "Unsplash License"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"30 feriti in un crollo di ruota panoramica in India\",\n  \"description\": \"Il 5 aprile 2026, alle 14:26, una ruota panoramica a Kushinagar, in India, si è còlta improvvisamente, lasciando 30 persone ferite. I superstiti sono stati soccorsi e trasportati in ospedale.\",\n  \"articleBody\": \"Il 5 aprile 2026, alle 14:26, una ruota panoramica a Kushinagar, in India, si è còlta improvvisamente, lasciando 30 persone ferite. I superstiti sono stati soccorsi e trasportati in ospedale. Nella città di Kushinagar, nello stato federato dell'Uttar Pradesh. Secondo le prime informazioni, c'erano 80 persone a bordo, ma nessuno sapeva che la ruota era a rischio. La causa del crollo è già scritta tra le righe: la negligenza dei responsabili. I soccorsi sono stati immediati, ma non abbastanza veloci per evitare il disastro. I 30 feriti sono stati trasportati in ospedale per ricevere le cure mediche necessarie. La polizia locale sta investigando, ma non è chiaro se cercheranno la verità. Kushinagar, una città che ha già dimostrato di non essere sicura per i turisti. La ruota panoramica era uno dei principali attrazioni, ma non era sicura. L'incidente si è verificato durante il periodo di alta stagione, quando la città è piena di visitatori, ma i responsabili non hanno fatto nulla per prevenirlo. La causa del crollo è già scritta tra le righe: la negligenza dei responsabili, ma è evidente che la sicurezza dei turisti è stata compromessa. A pagare il prezzo saranno sempre gli stessi: i poveri.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Roberto Neri\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-05T14:26:41.878917+00:00\",\n  \"dateModified\": \"2026-04-05T14:26:41.878917+00:00\",\n  \"url\": \"https://lentemattutina.it/cronaca/b4ea86556c325f03\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cronaca/b4ea86556c325f03\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1744103120879-8b337c1c1d2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxydW90YSUyMHBhbm9yYW1pY2ElMjBjcm9sbG98ZW58MHwwfHx8MTc3NTQwNjgwMHww&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Kristie Cross\"\n  }\n}",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Ruota panoramica si bloquea in India\",\n  \"description\": \"Kushinagar, in India, è il luogo dove una ruota panoramica si è còlta improvvisamente, lasciando 30 persone ferite, il 5 aprile 2026, alle 14:26.\",\n  \"articleBody\": \"Kushinagar, in India, è il luogo dove una ruota panoramica si è còlta improvvisamente, lasciando 30 persone ferite, il 5 aprile 2026, alle 14:26. La ruota panoramica si è còlta mentre era in funzione con a bordo decine di persone: una dinamica che le autorità fingono di dover ancora chiarire. Il luogo dell'incidente, Kushinagar, è una città situata nello Stato di Uttar Pradesh, in India. Le autorità locali hanno immediatamente attivato i soccorsi e trasportato i feriti in ospedale. Nessuna vittima per ora, ma il numero dei feriti è destinato a salire: il classico copione dopo ogni incidente evitabile. La polizia locale ha avviato un'indagine per stabilire le cause dell'incidente. Una nota di colore non richiesta: l'India conta 1,4 miliardi di abitanti e una lunga tradizione di controlli alla cieca su attrazioni che dovrebbero essere messe sotto torchio. Il crollo mette in luce ciò che tutti sanno e nessuno applicherà: i controlli sono un optional che in India si può pagare per non fare. L'India è un paese in rapida crescita, con un settore del turismo in continua espansione, e la Sicurezza dei visitatori deve essere una priorità. La ruota panoramica che si è còlta era probabilmente una delle principali attrazioni del parco, e l'incidente potrebbe avere conseguenze negative per il turismo locale. Il governo indiano annuncerà una task force, qualche retweet e poi dimenticherà il tutto fino al prossimo crollo. Il conto lo pagheranno i soliti: i turisti che hanno perso la fiducia nei parchi di divertimento indiani e le famiglie delle vittime che dovranno convivere con le conseguenze di questo incidente.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Roberto Neri\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-05T14:26:41.878917+00:00\",\n  \"dateModified\": \"2026-04-05T14:26:41.878917+00:00\",\n  \"url\": \"https://lentemattutina.it/cronaca/b4ea86556c325f03\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cronaca/b4ea86556c325f03\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
   "priority": 5,
   "source": "refresh",
   "source_type": "refresh",
   "original_url": "https://lentemattutina.it/cronaca/30-feriti-a-kushinagar-per-crollo-ruota-panoramica-b4ea86556c325f03",
   "related": [
     {
-      "title": "Demolito il campo di concentramento Dosché a Padova senza consultar le associazioni",
+      "title": "Padova demolisce campo fascista Dosché senza avvisare Anpi e Aned",
       "url": "/cronaca/la-decisione-del-comune-di-padova-e-stata-presa-se-03243f554a0abb81",
       "id": "03243f554a0abb81",
       "image_url": "https://images.pexels.com/photos/11663049/pexels-photo-11663049.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "image_type": "pexels"
     },
     {
-      "title": "L'Aquila ricorda il terremoto del 2009 con 2000 persone attese",
-      "url": "/cronaca/laquila-ricorda-le-309-vittime-del-terremoto-con-d-55b47b721cce05e6",
-      "id": "55b47b721cce05e6",
-      "image_url": "https://images.pexels.com/photos/15861716/pexels-photo-15861716.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "image_type": "pexels"
+      "title": "Veronica Ruggeri lascia Niccolò de Vitiis",
+      "url": "/cronaca/veronica-ruggeri-rivela-a-verissimo-la-fine-con-ni-752727f865538164",
+      "id": "752727f865538164",
+      "image_url": "https://images.unsplash.com/photo-1641483564996-d187e607ce7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxWZXJvbmljYSUyMFJ1Z2dlcmklMjBWZXJpc3NpbW8lMjBpbnRlcnZpZXd8ZW58MHwwfHx8MTc3NTM5OTQ0MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
     },
     {
-      "title": "Luttazzi scrive: 'una signora formosa, me e il mio Angelo custode' su Il Fatto quotidianouno",
-      "url": "/cronaca/daniele-luttazzi-pubblica-su-il-fatto-un-racconto-951098697795f9a3",
-      "id": "951098697795f9a3",
-      "image_url": "https://images.unsplash.com/photo-1626159296613-94af81f83d4a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxzYXRpcmljYWwlMjBhcnRpY2xlJTIwcHVibGljYXRpb258ZW58MHwwfHx8MTc3NTQwMTU2MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "title": "L'aquila ricorda il terremoto",
+      "url": "/cronaca/laquila-ricorda-le-309-vittime-del-terremoto-con-d-55b47b721cce05e6",
+      "id": "55b47b721cce05e6",
+      "image_url": "https://images.unsplash.com/photo-1694153015265-cd1d6657bd64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxMJTI3QXF1aWxhJTIwZWFydGhxdWFrZSUyMGFubml2ZXJzYXJ5fGVufDB8MHx8fDE3NzU0MzE4MDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "image_type": "unsplash"
     }
   ],
+  "hero_eligible": true,
   "updated_at": "2026-04-05T14:26:41.878917+00:00"
 }
