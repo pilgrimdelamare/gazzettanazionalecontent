@@ -1,5 +1,24 @@
 [
   {
+    "id": "7dd0105d9300e491",
+    "slug": "cinque-progetti-indigeni-lanciati-in-brasile-per-p-7dd0105d9300e491",
+    "title": "5 Popoli indigeni creano un Fondo da 14,8 milioni di reais per proteggere 11,3 milioni di ettari in Amazzonia",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-05T14:12:19.323100+00:00",
+    "image_type": "flickr",
+    "image_url": "https://live.staticflickr.com/65535/55184891217_b20af0303d_b.jpg",
+    "occhiello": "INDIGENI BRASILIANI LANCIANO FONDO SOVRANO",
+    "lead_preview": "Xikrin, Kayapó, Munduruku, Ashaninka e Yawanawá hanno annunciato il 5 aprile 2026 la creazione di un Fondo sovrano da 14",
+    "tags": [
+      "fondo sovrano indigeni",
+      "protezione amazzonia",
+      "popoli indigeni brasiliani"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "51491ae1d84ec7ec",
     "slug": "verdiana-bonaccorti-il-doloroso-ricordo-della-madr-51491ae1d84ec7ec",
     "title": "Verdiana Bonaccorti: il doloroso ricordo della madre Enrica a Verissimo",
@@ -2058,24 +2077,6 @@
       "zelensky damasco",
       "incontro zelensky-assad",
       "ministero turco ersoy"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "7dd0105d9300e491",
-    "slug": "cinque-progetti-indigeni-lanciati-in-brasile-per-p-7dd0105d9300e491",
-    "title": "Xikrin, Kayapó, Munduruku, Ashaninka e Yawanawá lanciano 14,8 M reais per salvare 11,3 M ettari in Amazzonia",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-05T14:12:19.323100+00:00",
-    "image_type": "flickr",
-    "image_url": "https://live.staticflickr.com/65535/55184891217_b20af0303d_b.jpg",
-    "occhiello": "PROGETTI INDIGENI DA 14,8 MLN PER 11,3 MLN ETTARI",
-    "lead_preview": "Il 5 aprile 2026 cinque comunità indigene brasiliane – Xikrin, Kayapó, Munduruku, Ashaninka e Yawanawá – hanno annunciat",
-    "tags": [
-      "progetti indigeni amazonia",
-      "salvataggio foreste amazonia"
     ],
     "hero_eligible": true
   },
