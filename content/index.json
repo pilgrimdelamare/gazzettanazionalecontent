@@ -1,5 +1,24 @@
 [
   {
+    "id": "13a00be15424e7ad",
+    "slug": "collezione-kahlo-in-partenza-per-la-spagna-protest-13a00be15424e7ad",
+    "title": "400 Artisti messicani contro il Prado: 52 opere di Frida Kahlo esposte a Madrid con 10 milioni di euro",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-05T09:22:02.552884+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1640417680522-e12b951ab1c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxGcmlkYSUyMEthaGxvfGVufDB8MHx8fDE3NzUzODgyMjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "FONDI SCOMPARSI DOPO IL VOTO (ma con un titolo più adatto alla notizia)",
+    "lead_preview": "52 opere di Frida Kahlo arriveranno al Museo del Prado di Madrid, ma 400 artisti messicani si oppongono alla decisione. ",
+    "tags": [
+      "esposizione frida kahlo",
+      "museo del prado",
+      "artisti messicani contro prado"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "4435391bdbf7ee9a",
     "slug": "pizzaballa-pace-non-e-solo-tregua-4435391bdbf7ee9a",
     "title": "Pizzaballa: 'Pace senza verità è tregua fragile', la svolta del Patriarca di Gerusalemme",
@@ -1960,24 +1979,6 @@
       "elezioni amministrative 2026",
       "voto 24 maggio",
       "ex berlusconiani"
-    ]
-  },
-  {
-    "id": "13a00be15424e7ad",
-    "slug": "collezione-kahlo-in-partenza-per-la-spagna-protest-13a00be15424e7ad",
-    "title": "52 opere di Frida Kahlo in arrivo al Prado, ma 400 artisti messicani si oppongono",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-05T09:22:02.552884+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1640417680522-e12b951ab1c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxGcmlkYSUyMEthaGxvfGVufDB8MHx8fDE3NzUzODgyMjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "CENTINAIA DI ARTISTI CONTRO IL PRESTITO",
-    "lead_preview": "Frida Kahlo non viaggerà in Spagna senza polemiche, anzi: il suo nome diventa oggi bersaglio di un braccio di ferro tra ",
-    "tags": [
-      "frida kahlo prado",
-      "prestito opere kahlo",
-      "polemica artisti messicani"
     ]
   },
   {
