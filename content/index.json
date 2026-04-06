@@ -1,5 +1,24 @@
 [
   {
+    "id": "0c1faefe9e616c28",
+    "slug": "trump-minaccia-liran-0c1faefe9e616c28",
+    "title": "Trump minaccia l'Iran: 'Aprire Hormuz entro il 7 aprile o sarà l'inferno'",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-06T03:15:40.797369+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/3/6267f5c41aa7ddfdfbee2a9144a3cb0c.jpg",
+    "occhiello": "",
+    "lead_preview": "Donald Trump ha definito gli iraniani \"pazzi bastardi\" in un post pubblicato alle 03:15 del 6 aprile 2026 su Truth, mina",
+    "tags": [
+      "trump iran",
+      "stretto hormuz",
+      "minaccia trump"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c4d35e1807b848d8",
     "slug": "gucci-mane-rapito-a-dallas-costretto-a-firmare-la-c4d35e1807b848d8",
     "title": "Gucci Mane rapito a Dallas: costretto a firmare la fine del contratto con la 1017 Records",
@@ -2452,24 +2471,6 @@
       "infortunio vildoza",
       "virtus bologna",
       "basket serie a"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "0c1faefe9e616c28",
-    "slug": "trump-minaccia-liran-0c1faefe9e616c28",
-    "title": "Trump minaccia l'Iran: 'aprite Hormuz entro il 7 aprile o sarà l'inferno'",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-06T03:15:40.797369+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/3/6267f5c41aa7ddfdfbee2a9144a3cb0c.jpg",
-    "occhiello": "TRUMP MINACCIA DI TRASCINARE USA NELL'INFERNO",
-    "lead_preview": "Donald Trump ha definito gli iraniani \"pazzi bastardi\", un linguaggio volgare che non gli è nuovo e ha minacciato di tra",
-    "tags": [
-      "trump iran",
-      "stretto hormuz"
     ],
     "hero_eligible": true
   },
