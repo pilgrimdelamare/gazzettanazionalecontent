@@ -1,5 +1,22 @@
 [
   {
+    "id": "f469e75290285cc5",
+    "slug": "pakistan-propone-riapertura-stretto-di-hormuz-in-1-f469e75290285cc5",
+    "title": "Pakistan propone comitato navale per Hormuz",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-06T07:54:20.647433+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/6/f5613558e294c6d4ac8d8d9f72530e58.jpg",
+    "occhiello": "IL PAKISTAN PROPONE RIAPERTURA DELLO STRETTO DI HORMUZ",
+    "lead_preview": "Il Pakistan ha inviato un piano per la riapertura dello Stretto di Hormuz entro 15 giorni a USA e Iran, secondo Reuters.",
+    "tags": [
+      "stretto di hormuz"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c9451a132beaa165",
     "slug": "il-fatto-quotidiano-pubblica-loroscopo-di-pasquett-c9451a132beaa165",
     "title": "Oroscopo di pasquetta pubblicato su il fatto quotidiano",
@@ -1047,25 +1064,6 @@
     "tags": [
       "serena rossi",
       "permalosità italiana"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "f469e75290285cc5",
-    "slug": "pakistan-propone-riapertura-stretto-di-hormuz-in-1-f469e75290285cc5",
-    "title": "Pakistan propone riapertura Stretto di Hormuz in 15 giorni con comitato navale USA-Iran",
-    "section": "esteri",
-    "priority": 8,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-06T07:54:20.647433+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/6/f5613558e294c6d4ac8d8d9f72530e58.jpg",
-    "occhiello": "HORMUZ SI APRERA ENTRO 15-20 GIORNI",
-    "lead_preview": "Il piano per la fine della guerra è stato inviato dall'Islamabad a USA e Iran, secondo Reuters. Il piano prevede la riap",
-    "tags": [
-      "piano pakistan hormuz",
-      "riapertura stretto hormuz",
-      "comitato usa-iran"
     ],
     "hero_eligible": true
   },
