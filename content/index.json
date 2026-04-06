@@ -1,5 +1,24 @@
 [
   {
+    "id": "ee9798d74cb72c49",
+    "slug": "leeds-in-semifinale-di-coppa-dinghilterra-ee9798d74cb72c49",
+    "title": "Calcio: Leeds batte West Ham 5-4 ai rigori dopo il 1-1 all'Olimpico di Londra",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-05T20:33:47.259974+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/30586374/pexels-photo-30586374.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "LEEDS VINCIO AI RIGORI",
+    "lead_preview": "Il Leeds ha sconfitto il West Ham ai calci di rigore nella semifinale della Coppa, conquistando la finale. La gara è ter",
+    "tags": [
+      "leeds west ham",
+      "coppa semifinale",
+      "rigori olimpico"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "f278142926554b03",
     "slug": "17000-parrocchetti-invadono-roma-colonizzano-monum-f278142926554b03",
     "title": "A Roma 17.000 parrocchetti esotici minacciano l'equilibrio ecologico",
@@ -2075,23 +2094,6 @@
     "occhiello": "NETFLIX CONDANNATA A RIMBORSI",
     "lead_preview": "Il tribunale di Roma ha stabilito che i rincari imposti da Netflix nel 2025 sono illegittimi e ha condannato la società ",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "ee9798d74cb72c49",
-    "slug": "leeds-in-semifinale-di-coppa-dinghilterra-ee9798d74cb72c49",
-    "title": "Calcio: Leeds vince ai rigori contro il West Ham",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-05T20:33:47.259974+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/30586374/pexels-photo-30586374.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "RIGORI DECISIVI, BILANCI INCERTI",
-    "lead_preview": "Il 5 aprile 2026 il Leeds ha sconfitto il West Ham ai calci di rigore, guadagnando l'accesso alla semifinale della Coppa",
-    "tags": [
-      "coppa inghilterra"
-    ],
     "hero_eligible": true
   },
   {
