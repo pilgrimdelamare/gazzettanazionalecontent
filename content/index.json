@@ -1,5 +1,23 @@
 [
   {
+    "id": "a3c0998bf7113898",
+    "slug": "astronauti-artemis-ii-superano-record-di-distanza-a3c0998bf7113898",
+    "title": "400.203 Km: l'equipaggio dell'Artemis II stabilisce un nuovo record",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-05T15:29:24.671626+00:00",
+    "image_type": "wikimedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Jeremy_Hansen%E2%80%99s_suit_for_Artemis_II_%28jsc2023e016416%29.jpg",
+    "occhiello": "ASTRONAUTI A 400.203 KM DA TERRA",
+    "lead_preview": "Jeremy Hansen, astronauta dell’agenzia spaziale canadese, insieme agli altri tre membri dell’equipaggio dell’artemis ii,",
+    "tags": [
+      "missione artemis ii",
+      "record distanza terra"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "a62ee633e81a2444",
     "slug": "basket-treviso-batte-tortona-91-86-quinta-vittoria-a62ee633e81a2444",
     "title": "Basket: Treviso vince 91-86 contro Tortona e consolida la sua posizione",
@@ -1461,24 +1479,6 @@
       "xingu",
       "cucciolo giaguaro",
       "parco indigeno xingu"
-    ]
-  },
-  {
-    "id": "a3c0998bf7113898",
-    "slug": "astronauti-artemis-ii-superano-record-di-distanza-a3c0998bf7113898",
-    "title": "Artemis II batte il record di Apollo 13: 400.203 km dalla Terra",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-05T15:29:24.671626+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Jeremy_Hansen%E2%80%99s_suit_for_Artemis_II_%28jsc2023e016416%29.jpg",
-    "occhiello": "ARTEMIS II SUPERA IL RECORD DI APOLLO",
-    "lead_preview": "Jeremy Hansen, astronauta dell’Agenzia spaziale canadese, insieme agli altri tre membri dell’equipaggio dell’Artemis II,",
-    "tags": [
-      "arremis ii",
-      "record apollo 13",
-      "missione spaziale 2026"
     ]
   },
   {
