@@ -1,0 +1,57 @@
+{
+  "id": "972c8707ff31f897",
+  "slug": "la-musica-salva-la-vita-di-andrea-bocelli-972c8707ff31f897",
+  "title": "La musica salva la vita di andrea bocelli",
+  "titles": [
+    "LA MUSICA SALVA LA VITA DI ANDREA BOCELLI",
+    "LA MUSICA SALVA LA VITA DI ANDREA BOCELLI",
+    "LA MUSICA SALVA LA VITA DI ANDREA BOCELLI"
+  ],
+  "title_winner": null,
+  "section": "sport",
+  "occhiello": "LA MUSICA SALVA LA VITA DI ANDREA BOCELLI",
+  "lead": "Andrea Bocelli, il famoso tenore italiano, racconta come la Musica gli ha salvato la vita quando era bambino. Egli è nato con il glaucoma congenito e ha perso la vista completamente a dodici anni, dopo un incidente durante una partita di Calcio.",
+  "corpo1": "Il tenore, noto per le sue voci emozionanti e le sue canzoni classiche, ha raccontato la sua storia in un documentario di Sky. Egli ha spiegato che, quando era bambino, soffriva di forti dolori agli occhi e piangeva quando l'operaio russo che lo accudiva metteva la Musica su un giradischi. La Musica sembrava essere l'unico rimedio che gli impediva di piangere. Egli ha anche raccontato di come la Musica l'abbia aiutato a superare la perdita della vista e a trovare la propria identità. \"La Musica mi ha salvato la vita\", ha dichiarato Bocelli. \"Non so cosa avrei Fatto senza di essa\". Secondo la fonte, Bocelli è nato nel 1958 a Lajatico, in Toscana, e ha iniziato a cantare da bambino. Ha vinto il primo premio al Concorso Internazionale di Canto di Sanremo nel 1994 e da allora è diventato uno dei tenori più famosi del Mondo.",
+  "corpo2": "La storia di Andrea Bocelli è un esempio di come La Musica possa cambiare la vita delle persone. La sua esperienza di perdita della vista e la sua capacità di trovare la propria identità attraverso La Musica sono un'ispirazione per molti. La Musica non solo può aiutare a superare le difficoltà, ma può anche trasformare la vita delle persone. In questo caso, La Musica ha salvato la vita di Andrea Bocelli e lo ha aiutato a trovare la propria identità. Non cambiare nulla, come sempre.",
+  "journalist": {
+    "id": "davide_longo_01",
+    "firma": "Davide Longo",
+    "sezione": "sport"
+  },
+  "published_at": "2026-04-06T14:34:57.788871+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2025/12/03/andrea-bocelli.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"LA MUSICA SALVA LA VITA DI ANDREA BOCELLI\",\n  \"description\": \"Andrea Bocelli, il famoso tenore italiano, racconta come la Musica gli ha salvato la vita quando era bambino. Egli è nato con il glaucoma congenito e ha perso la vista completamente a dodici anni, dopo un incidente durante una partita di Calcio.\",\n  \"articleBody\": \"Andrea Bocelli, il famoso tenore italiano, racconta come la Musica gli ha salvato la vita quando era bambino. Egli è nato con il glaucoma congenito e ha perso la vista completamente a dodici anni, dopo un incidente durante una partita di Calcio. Il tenore, noto per le sue voci emozionanti e le sue canzoni classiche, ha raccontato la sua storia in un documentario di Sky. Egli ha spiegato che, quando era bambino, soffriva di forti dolori agli occhi e piangeva quando l'operaio russo che lo accudiva metteva la Musica su un giradischi. La Musica sembrava essere l'unico rimedio che gli impediva di piangere. Egli ha anche raccontato di come la Musica l'abbia aiutato a superare la perdita della vista e a trovare la propria identità. \\\"La Musica mi ha salvato la vita\\\", ha dichiarato Bocelli. \\\"Non so cosa avrei Fatto senza di essa\\\". Secondo la fonte, Bocelli è nato nel 1958 a Lajatico, in Toscana, e ha iniziato a cantare da bambino. Ha vinto il primo premio al Concorso Internazionale di Canto di Sanremo nel 1994 e da allora è diventato uno dei tenori più famosi del Mondo. La storia di Andrea Bocelli è un esempio di come La Musica possa cambiare la vita delle persone. La sua esperienza di perdita della vista e la sua capacità di trovare la propria identità attraverso La Musica sono un'ispirazione per molti. La Musica non solo può aiutare a superare le difficoltà, ma può anche trasformare la vita delle persone. In questo caso, La Musica ha salvato la vita di Andrea Bocelli e lo ha aiutato a trovare la propria identità. Non cambiare nulla, come sempre.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Davide Longo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-06T14:34:57.788871+00:00\",\n  \"dateModified\": \"2026-04-06T14:34:57.788871+00:00\",\n  \"url\": \"https://lentemattutina.it/sport/972c8707ff31f897\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/sport/972c8707ff31f897\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://st.ilfattoquotidiano.it/wp-content/uploads/2025/12/03/andrea-bocelli.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 5,
+  "source": "Redazione",
+  "source_type": "competitor_gap",
+  "original_url": "https://www.ilfattoquotidiano.it/2026/04/06/andrea-bocelli-piangevo-per-i-forti-dolori-agli-occhi-smettevo-solo-quando-un-operaio-russo-metteva-la-musica-su-un-giradischi/8347177/",
+  "related": [
+    {
+      "title": "Calcio: Giugliano batte Crotone 1-0, Rossi segna al 78'",
+      "url": "/sport/calcio-giugliano-batte-crotone-1-0-rossi-segna-al-039057fefb2c417e",
+      "id": "039057fefb2c417e",
+      "image_url": "https://sport.sky.it/assets/images/3cde1096844de955501b177f8f0f36fd805073dc/skysport/it/calcio/serie-c/video/2026/04/06/1088052_1775482514582_thumb_494.0000001_1775482574404.jpg",
+      "image_type": "feed_image"
+    },
+    {
+      "title": "Calcio: Donnarumma beffato, foglio rigoristi strappato da un 14enne",
+      "url": "/sport/calcio-donnarumma-beffato-foglio-rigoristi-strappa-850961becbb4f4d2",
+      "id": "850961becbb4f4d2",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/1/d4094c583988260d1d2de9601d018c6f.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Calcio: Sky Sport pubblica articolo su Udinese-Como senza una parola sulla partita",
+      "url": "/sport/calcio-sky-sport-pubblica-articolo-su-udinese-como-ca290fa87b4792ee",
+      "id": "ca290fa87b4792ee",
+      "image_url": "https://sport.sky.it/assets/images/96869a8132d88d743422f4b7d2166f4923a3ad54/skysport/it/calcio/serie-a/video/2026/04/06/1088043_1775479748511_thumb_494.0000001_1775481400614.jpg",
+      "image_type": "feed_image"
+    }
+  ],
+  "hero_eligible": true
+}
