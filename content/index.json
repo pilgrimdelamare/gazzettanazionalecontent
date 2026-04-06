@@ -1,5 +1,24 @@
 [
   {
+    "id": "0de88f80786c69a0",
+    "slug": "basket-brooklyn-nets-conquista-vittoria-con-121-11-0de88f80786c69a0",
+    "title": "Basket: Brooklyn Nets conquista vittoria con 121-115 contro Wizards!",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-06T06:10:13.114689+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/f915b0f719598e33232ebf438573b0358cc2cecb/skysport/it/nba/video/2026/04/06/1087974_1775432211532_thumb_494.0000001_1775452336614.jpg",
+    "occhiello": "NBA, BROOKLYN-WASHINGTON: I DETTAGLI DELLA VITTORIA NETS 121-115",
+    "lead_preview": "La notte di venerdì 6 aprile, il Brooklyn Nets ha sconfitto il Washington Wizards con un risultato finale di 121-115. La",
+    "tags": [
+      "basket",
+      "nba",
+      "brooklyn nets"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "bded048886f70297",
     "slug": "basket-cleveland-indiana-batte-cleveland-117-108-c-bded048886f70297",
     "title": "Basket: Cleveland Indiana batte Cleveland 117-108 con ritmo serrato e triple decisive",
@@ -8766,23 +8785,5 @@
     "occhiello": "",
     "lead_preview": "Fiat ha annunciato il 1 aprile 2026 che la Panda è l'auto più venduta in Italia, superando tutti gli altri modelli nel m",
     "tags": []
-  },
-  {
-    "id": "54630d1ae9dde2be",
-    "slug": "trump-minaccia-uscita-nato-54630d1ae9dde2be",
-    "title": "Trump minaccia l'uscita dagli Usa dalla Nato se l'Europa non appoggia l'operazione a Hormuz",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-01T14:49:33.944642+00:00",
-    "image_type": "none",
-    "image_url": "",
-    "occhiello": "",
-    "lead_preview": "Donald Trump ha minacciato di ritirare gli Stati Uniti dalla Nato il 1° aprile 2026, dopo che gli alleati non hanno sost",
-    "tags": [
-      "trump minaccia nato",
-      "operazione hormuz",
-      "trump 2026"
-    ]
   }
 ]
