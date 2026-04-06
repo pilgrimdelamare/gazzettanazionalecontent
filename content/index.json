@@ -1,5 +1,24 @@
 [
   {
+    "id": "e55c881825dbf1df",
+    "slug": "iran-pasdaran-completa-preparativi-per-nuovo-ordin-e55c881825dbf1df",
+    "title": "Iran: Pasdaran completa preparativi per 'nuovo ordine regionale' nel Golfo Persico",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-06T06:38:26.648689+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/5/695ae83acaae0bfde3bd66441fb02ba3.jpg",
+    "occhiello": "",
+    "lead_preview": "Il Pasdaran ha dichiarato il 6 aprile 2026 che Hormuz non tornerà mai più al suo Stato precedente, annunciando il comple",
+    "tags": [
+      "iran",
+      "pasdaran",
+      "golfo persico"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "4eb921162571ecc8",
     "slug": "copenaghen-e-la-citta-piu-felice-del-mondo-per-il-4eb921162571ecc8",
     "title": "Copenaghen è la Città più felice del Mondo per il secondo anno",
@@ -8777,24 +8796,6 @@
       "gite scolastiche 2026",
       "skuola.net report",
       "studenti italia"
-    ]
-  },
-  {
-    "id": "0db81c64e8208e4c",
-    "slug": "trump-prendete-il-petrolio-di-hormuz-se-lo-prenda-0db81c64e8208e4c",
-    "title": "Trump scarica sui 35 paesi la difesa di Hormuz: «La NATO non mi serve più»",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-02T02:11:45.388247+00:00",
-    "image_type": "ddg_image",
-    "image_url": "https://cdn.britannica.com/18/273318-050-9DE2F788/President-Donald-J-Trump-portrait-2025.jpg",
-    "occhiello": "TRUMP SCARICA LA NATO: “OCCUPATEVI DI HORMUZ”",
-    "lead_preview": "Il 2 aprile 2026, Donald Trump ha dichiarato che i paesi che ricevono petrolio dallo stretto di Hormuz se ne occupino lo",
-    "tags": [
-      "trump nato",
-      "hormuz",
-      "crisi hormuz"
     ]
   }
 ]
