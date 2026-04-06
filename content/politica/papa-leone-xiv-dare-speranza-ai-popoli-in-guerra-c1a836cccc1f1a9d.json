@@ -1,0 +1,57 @@
+{
+  "id": "c1a836cccc1f1a9d",
+  "slug": "papa-leone-xiv-dare-speranza-ai-popoli-in-guerra-c1a836cccc1f1a9d",
+  "title": "Papa Leone XIV: 'Dare Speranza ai popoli in Guerra'",
+  "titles": [
+    "Papa Leone XIV: 'Dare Speranza ai popoli in Guerra'",
+    "Le parole del Papa: un messaggio di pace nel Mondo in crisi",
+    "La Guerra in Iran: Papa Leone XIV lancia un appello alla pace"
+  ],
+  "title_winner": null,
+  "section": "politica",
+  "occhiello": "PAPA LEONE XIV CHIEDE SPERANZA",
+  "lead": "Papa Leone xiv ha dichiarato che è importante dare Speranza ai popoli tormentati dalla Guerra, secondo Quanto riportato dall'ansa il 6 aprile 2026.",
+  "corpo1": "Il Papa ha sottolineato l'importanza di portare il Vangelo a coloro che sono oppressi dalla malvagità. Questa dichiarazione arriva in un momento in cui il Mondo sta affrontando diverse crisi, tra cui la Guerra in Iran, che sta avendo un impatto significativo sull'egitto e sul medio oriente. Il Papa ha chiesto di dare Speranza ai popoli tormentati dalla Guerra, sottolineando il ruolo della Chiesa cattolica nel portare pace e consolazione a coloro che soffrono. Secondo l'ansa, Il Papa ha ribadito l'importanza di lavorare per la pace e la Giustizia nel Mondo, e di dare voce a coloro che non hanno voce. La dichiarazione del Papa è stata accolta con attenzione da parte della comunità Internazionale, che sta cercando di trovare soluzioni alle diverse crisi che affliggono il Mondo.",
+  "corpo2": "Papa Leone xiv, il 267º Papa della Chiesa cattolica, è noto per le sue posizioni fermamente a favore della pace e della Giustizia. Dal suo insediamento l'8 maggio 2025, ha lavorato per rafforzare il ruolo della Chiesa cattolica nel Mondo, e per portare Speranza e consolazione a coloro che soffrono. La sua dichiarazione sull'importanza di dare Speranza ai popoli tormentati dalla Guerra è in linea con la sua visione di una Chiesa cattolica che sia presente e attiva nel Mondo, e che lavori per la pace e la Giustizia. Il Fatto che Il Papa abbia scelto di parlare di questo tema in questo momento, dimostra la sua volontà di affrontare le sfide più pressanti del nostro tempo, e di dare una risposta cristiana alle crisi che affliggono il Mondo. A pagare il prezzo più alto di queste crisi saranno, come sempre, i più deboli e i più poveri.",
+  "journalist": {
+    "id": "sergio_mancini_01",
+    "firma": "Sergio Mancini",
+    "sezione": "politica"
+  },
+  "published_at": "2026-04-06T10:35:55.012129+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://www.ansa.it/webimages/img_1129x635/2026/3/22/869889e6b50efd94452c2e4533747ff4.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Papa Leone XIV: 'Dare Speranza ai popoli in Guerra'\",\n  \"description\": \"Papa Leone xiv ha dichiarato che è importante dare Speranza ai popoli tormentati dalla Guerra, secondo Quanto riportato dall'ansa il 6 aprile 2026.\",\n  \"articleBody\": \"Papa Leone xiv ha dichiarato che è importante dare Speranza ai popoli tormentati dalla Guerra, secondo Quanto riportato dall'ansa il 6 aprile 2026. Il Papa ha sottolineato l'importanza di portare il Vangelo a coloro che sono oppressi dalla malvagità. Questa dichiarazione arriva in un momento in cui il Mondo sta affrontando diverse crisi, tra cui la Guerra in Iran, che sta avendo un impatto significativo sull'egitto e sul medio oriente. Il Papa ha chiesto di dare Speranza ai popoli tormentati dalla Guerra, sottolineando il ruolo della Chiesa cattolica nel portare pace e consolazione a coloro che soffrono. Secondo l'ansa, Il Papa ha ribadito l'importanza di lavorare per la pace e la Giustizia nel Mondo, e di dare voce a coloro che non hanno voce. La dichiarazione del Papa è stata accolta con attenzione da parte della comunità Internazionale, che sta cercando di trovare soluzioni alle diverse crisi che affliggono il Mondo. Papa Leone xiv, il 267º Papa della Chiesa cattolica, è noto per le sue posizioni fermamente a favore della pace e della Giustizia. Dal suo insediamento l'8 maggio 2025, ha lavorato per rafforzare il ruolo della Chiesa cattolica nel Mondo, e per portare Speranza e consolazione a coloro che soffrono. La sua dichiarazione sull'importanza di dare Speranza ai popoli tormentati dalla Guerra è in linea con la sua visione di una Chiesa cattolica che sia presente e attiva nel Mondo, e che lavori per la pace e la Giustizia. Il Fatto che Il Papa abbia scelto di parlare di questo tema in questo momento, dimostra la sua volontà di affrontare le sfide più pressanti del nostro tempo, e di dare una risposta cristiana alle crisi che affliggono il Mondo. A pagare il prezzo più alto di queste crisi saranno, come sempre, i più deboli e i più poveri.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Sergio Mancini\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-06T10:35:55.012129+00:00\",\n  \"dateModified\": \"2026-04-06T10:35:55.012129+00:00\",\n  \"url\": \"https://lentemattutina.it/politica/c1a836cccc1f1a9d\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/politica/c1a836cccc1f1a9d\"\n  },\n  \"articleSection\": \"Politica\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.ansa.it/webimages/img_1129x635/2026/3/22/869889e6b50efd94452c2e4533747ff4.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 5,
+  "source": "ANSA Politica",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/politica/2026/04/06/il-papa-diamo-speranza-ai-popoli-tormentati-dalla-guerra_c347159f-6695-4af2-99e1-1ca1ecd6331b.html",
+  "related": [
+    {
+      "title": "Papa Francesco ha convocato una veglia di preghiera per la pace in piazza San Pi",
+      "url": "/politica/papa-francesco-annuncia-veglia-per-la-pace-l11-apr-15e6c53050810aab",
+      "id": "15e6c53050810aab",
+      "image_url": "https://images.unsplash.com/photo-1538175911510-25336f95b07d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxQYXBhJTIwRnJhbmNlc2NvfGVufDB8MHx8fDE3NzUzOTM2MjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Harry, trudeau e eileen gu in seggiovia: assente meghan",
+      "url": "/politica/harry-trudeau-e-eileen-gu-in-seggiovia-assente-meg-69935413474d9d1e",
+      "id": "69935413474d9d1e",
+      "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/06/Prince-Harry-Eileen-Gu-Justin-Truedau-040426-a4b2d90796ae4e0d9d5ca59569e75b4c-1200x630.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Piantedosi all'Aquila: 17 anni dopo, ferita ancora aperta",
+      "url": "/politica/piantedosi-ad-aquila-309-vittime-del-terremoto-la-1fa37a4964fc2346",
+      "id": "1fa37a4964fc2346",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/4/5/be28499b7c97f8088facdf9a7aaea019.jpg",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": true
+}
