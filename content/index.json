@@ -1,5 +1,24 @@
 [
   {
+    "id": "d1081bd668e7f733",
+    "slug": "paralimpiadi-2026-ragazzo-disabile-discriminato-a-d1081bd668e7f733",
+    "title": "Ilfattoquotidiano.it: Andrea De Vitis denuncia falsificazione referti a Milano",
+    "section": "societa",
+    "priority": 5,
+    "journalist_firma": "Federica Conti",
+    "published_at": "2026-04-06T05:39:05.411040+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/02/denuncia-paralimpiadi.jpg",
+    "occhiello": "PARALIMPICI 2026: DISCRIMINAZIONE A MILANO",
+    "lead_preview": "Andrea De Vitis, un giovane atleta disabile, ha denunciato a ilfattoquotidiano.it un episodio di discriminazione durante",
+    "tags": [
+      "para ice hockey milano",
+      "discriminazione paralimpici 2026",
+      "caso andrea de vitis"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "1fa37a4964fc2346",
     "slug": "piantedosi-ad-aquila-309-vittime-del-terremoto-la-1fa37a4964fc2346",
     "title": "Piantedosi ad Aquila: 309 vittime del terremoto, la ferita è ancora aperta",
@@ -689,24 +708,6 @@
       "retate ice wisconsin",
       "immigrazione clandestina 2026",
       "arresti madison"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "d1081bd668e7f733",
-    "slug": "paralimpiadi-2026-ragazzo-disabile-discriminato-a-d1081bd668e7f733",
-    "title": "Paralimpiadi 2026: ragazzo disabile discriminato a Milano",
-    "section": "societa",
-    "priority": 5,
-    "journalist_firma": "Marco Sala",
-    "published_at": "2026-04-06T05:39:05.411040+00:00",
-    "image_type": "image",
-    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/02/denuncia-paralimpiadi.jpg",
-    "occhiello": "PARALIMPIADI INCLUSIVI? IL FIGLIO DI DE VITIS TRATTATO DA SOLO",
-    "lead_preview": "Andrea De Vitis ha denunciato a ilfattoquotidiano.it un episodio di discriminazione durante un match di Para Ice Hockey ",
-    "tags": [
-      "paralimpiadi 2026",
-      "discriminazione milano"
     ],
     "hero_eligible": true
   },
