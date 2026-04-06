@@ -1,5 +1,24 @@
 [
   {
+    "id": "907508d99ad7d74b",
+    "slug": "la-nasa-scopre-la-firma-della-fotosintesi-a-distan-907508d99ad7d74b",
+    "title": "La Nasa annuncia la scoperta di tracce di fotosintesi a interstellari",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-04-06T04:59:58.181839+00:00",
+    "image_type": "image",
+    "image_url": "https://media-assets.wired.it/photos/69cf84d0c2495004b97fd6e9/16:9/w_1280,c_limit/910550448",
+    "occhiello": "LA NASA SCOPRE LA FIRMA DELLA FOTOSINTESI A DISTANZE INTERSTELLARI",
+    "lead_preview": "Una ricerca del Jet Propulsion Laboratory (JPL) della Nasa e del Goddard Space Flight Center ha dimostrato che la tracci",
+    "tags": [
+      "scoperta nasa fotosintesi",
+      "tracce vita interstellare",
+      "ricerca jpl"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "d0e5afeafd7824a1",
     "slug": "esplosivi-vicino-gasdotto-turkstream-d0e5afeafd7824a1",
     "title": "Due zaini con esplosivo trovati lungo il gasdotto TurkStream in Serbia",
@@ -707,25 +726,6 @@
       "elezioni amministrative 2026",
       "comuni al voto",
       "voto maggio 2026"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "907508d99ad7d74b",
-    "slug": "la-nasa-scopre-la-firma-della-fotosintesi-a-distan-907508d99ad7d74b",
-    "title": "La NASA scopre la firma della fotosintesi a distanze interstellari",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-04-06T04:59:58.181839+00:00",
-    "image_type": "image",
-    "image_url": "https://media-assets.wired.it/photos/69cf84d0c2495004b97fd6e9/16:9/w_1280,c_limit/910550448",
-    "occhiello": "LA FIRMA DELLA FOTOSINTESI È VISIBILE A DISTANZE SIDERALI.",
-    "lead_preview": "Una ricerca del Jet Propulsion Laboratory (Jpl) della Nasa e del Goddard Space Flight Center ha dimostrato che la tracci",
-    "tags": [
-      "firma fotosintesi",
-      "nasa scoperta",
-      "jpl ricerca"
     ],
     "hero_eligible": true
   },
