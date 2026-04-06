@@ -1,21 +1,21 @@
 {
   "id": "d5eb1c45ac13daff",
   "slug": "626-comuni-al-voto-a-maggio-tra-ex-berlusconiani-e-d5eb1c45ac13daff",
-  "title": "Governo distribuisce fondi per 626 comuni: Elezioni",
+  "title": "626 Comuni, 15 Capoluoghi, 1 Voto Cruciale",
   "titles": [
-    "Governo distribuisce fondi per 626 comuni: Elezioni",
-    "Ex berlusconiani in gioco con fondi pubblici per le amministrative",
-    "Fondi elettorali da aziende statali: polemiche sulle Elezioni Locali"
+    "626 Comuni, 15 Capoluoghi, 1 Voto Cruciale",
+    "La Rinascita di Berlusconi: un Anello alle Elezioni Comunali",
+    "Le Sorti dei 626 Comuni: chi Voterà e Come Voterà"
   ],
   "title_winner": null,
   "section": "politica",
-  "occhiello": "FONDI SCOMPARSI DOPO IL VOTO: 626 COMUNI AL VOTO IL 24 E 25 MAGGIO",
-  "lead": "Il primo turno delle Elezioni amministrative si terrà il 24 e il 25 maggio 2026 in 626 comuni, tra cui 15 capoluoghi di provincia. Il governo ha già iniziato a distribuire i fondi per le campagne elettorali.",
-  "corpo1": "Il governo ha annunciato di distribuire fondi per le campagne elettorali in 626 comuni, tra cui 15 capoluoghi di provincia. Secondo la fonte, il primo turno delle Elezioni amministrative si terrà il 24 e il 25 maggio 2026. Alcuni dei candidati alle Elezioni sono ex esponenti del partito di Berlusconi, mentre altri sono figure controverse. I fondi per le campagne elettorali sono stati distribuiti da alcune aziende di Stato e da alcuni enti Locali. Il governo ha affermato di aver distribuito i fondi in modo imparziale, senza discriminazioni verso nessun partito.",
-  "corpo2": "Il governo ha già distribuito fondi per le campagne elettorali in alcune zone, ma non è chiaro se sono stati utilizzati correttamente. Alcuni candidati alle Elezioni sono stati criticati per la loro mancanza di esperienza e scarsa trasparenza. I fondi sono stati probabilmente utilizzati per finanziare campagne elettorali aggressive, con tentativi di corruzione. La verità sarà probabilmente rivelata dopo le Elezioni. I contribuenti italiani saranno di nuovo i soliti pagatori.",
+  "occhiello": "FONDI SCOMPARSI DOPO IL VOTO",
+  "lead": "626 Comuni italiani andranno al voto il 24 e il 25 maggio 2026, tra cui 15 capoluoghi di provincia. Il primo turno delle Elezioni amministrative sarà un momento importante per la Politica Italiana.",
+  "corpo1": "Il primo turno delle elezioni amministrative si terrà il 24 e il 25 maggio 2026 nei 626 comuni italiani, tra cui 15 capoluoghi di provincia.. secondo la Repubblica, il voto sarà un momento importante per la Politica Italiana. Alcuni dei candidati che si presenteranno alle Elezioni hanno già una notevole esperienza Politica, come Berlusconi, mentre altri sono figure controverse. Il primo turno è un momento cruciale per le amministrazioni Locali, che dovranno affrontare sfide importanti per il futuro dei loro comuni. Tra i candidati che si presenteranno alle Elezioni, ci sono anche alcuni ex politici che hanno già svolto ruoli importanti nel governo.",
+  "corpo2": "Il primo turno è un momento cruciale per la politica italiana, ma anche per le amministrazioni Locali che dovranno affrontare sfide importanti per il futuro dei loro comuni. Alcuni dei candidati che si presenteranno alle Elezioni hanno già una notevole esperienza Politica e sono stati impegnati in progetti importanti per la loro comunità. Il primo turno sarà un momento di grande attesa per la Politica Italiana, ma anche per le azioni che i nuovi amministratori Locali dovranno intraprendere per il bene dei loro comuni. saranno i soliti cittadini a pagare le conseguenze di una gestione amministrativa inefficace..",
   "journalist": {
-    "id": "sergio_mancini_01",
-    "firma": "Sergio Mancini",
+    "id": "elena_russo_01",
+    "firma": "Elena Russo",
     "sezione": "politica"
   },
   "published_at": "2026-04-05T09:36:57.023296+00:00",
@@ -26,19 +26,12 @@
     "credit": "Bing",
     "license": "unknown"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Governo distribuisce fondi per 626 comuni: Elezioni\",\n  \"description\": \"Il primo turno delle Elezioni amministrative si terrà il 24 e il 25 maggio 2026 in 626 comuni, tra cui 15 capoluoghi di provincia. Il governo ha già iniziato a distribuire i fondi per le campagne elettorali.\",\n  \"articleBody\": \"Il primo turno delle Elezioni amministrative si terrà il 24 e il 25 maggio 2026 in 626 comuni, tra cui 15 capoluoghi di provincia. Il governo ha già iniziato a distribuire i fondi per le campagne elettorali. Il governo ha annunciato di distribuire fondi per le campagne elettorali in 626 comuni, tra cui 15 capoluoghi di provincia. Secondo la fonte, il primo turno delle Elezioni amministrative si terrà il 24 e il 25 maggio 2026. Alcuni dei candidati alle Elezioni sono ex esponenti del partito di Berlusconi, mentre altri sono figure controverse. I fondi per le campagne elettorali sono stati distribuiti da alcune aziende di Stato e da alcuni enti Locali. Il governo ha affermato di aver distribuito i fondi in modo imparziale, senza discriminazioni verso nessun partito. Il governo ha già distribuito fondi per le campagne elettorali in alcune zone, ma non è chiaro se sono stati utilizzati correttamente. Alcuni candidati alle Elezioni sono stati criticati per la loro mancanza di esperienza e scarsa trasparenza. I fondi sono stati probabilmente utilizzati per finanziare campagne elettorali aggressive, con tentativi di corruzione. La verità sarà probabilmente rivelata dopo le Elezioni. I contribuenti italiani saranno di nuovo i soliti pagatori.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Sergio Mancini\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-05T09:36:57.023296+00:00\",\n  \"dateModified\": \"2026-04-05T09:36:57.023296+00:00\",\n  \"url\": \"https://lentemattutina.it/politica/d5eb1c45ac13daff\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/politica/d5eb1c45ac13daff\"\n  },\n  \"articleSection\": \"Politica\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"626 Comuni, 15 Capoluoghi, 1 Voto Cruciale\",\n  \"description\": \"626 Comuni italiani andranno al voto il 24 e il 25 maggio 2026, tra cui 15 capoluoghi di provincia. Il primo turno delle Elezioni amministrative sarà un momento importante per la Politica Italiana.\",\n  \"articleBody\": \"626 Comuni italiani andranno al voto il 24 e il 25 maggio 2026, tra cui 15 capoluoghi di provincia. Il primo turno delle Elezioni amministrative sarà un momento importante per la Politica Italiana. Il primo turno delle elezioni amministrative si terrà il 24 e il 25 maggio 2026 nei 626 comuni italiani, tra cui 15 capoluoghi di provincia.. secondo la Repubblica, il voto sarà un momento importante per la Politica Italiana. Alcuni dei candidati che si presenteranno alle Elezioni hanno già una notevole esperienza Politica, come Berlusconi, mentre altri sono figure controverse. Il primo turno è un momento cruciale per le amministrazioni Locali, che dovranno affrontare sfide importanti per il futuro dei loro comuni. Tra i candidati che si presenteranno alle Elezioni, ci sono anche alcuni ex politici che hanno già svolto ruoli importanti nel governo. Il primo turno è un momento cruciale per la politica italiana, ma anche per le amministrazioni Locali che dovranno affrontare sfide importanti per il futuro dei loro comuni. Alcuni dei candidati che si presenteranno alle Elezioni hanno già una notevole esperienza Politica e sono stati impegnati in progetti importanti per la loro comunità. Il primo turno sarà un momento di grande attesa per la Politica Italiana, ma anche per le azioni che i nuovi amministratori Locali dovranno intraprendere per il bene dei loro comuni. saranno i soliti cittadini a pagare le conseguenze di una gestione amministrativa inefficace..\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Elena Russo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-05T09:36:57.023296+00:00\",\n  \"dateModified\": \"2026-04-05T09:36:57.023296+00:00\",\n  \"url\": \"https://lentemattutina.it/politica/d5eb1c45ac13daff\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/politica/d5eb1c45ac13daff\"\n  },\n  \"articleSection\": \"Politica\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
   "priority": 5,
   "source": "refresh",
   "source_type": "refresh",
   "original_url": "https://lentemattutina.it/politica/626-comuni-al-voto-a-maggio-tra-ex-berlusconiani-e-d5eb1c45ac13daff",
   "related": [
-    {
-      "title": "Fondi Calcio sparito dagli albi federali dal gennaio 2025, nessuna spiegazione ufficiale",
-      "url": "/politica/casta-del-pallone-si-barrica-f61ff47a3fad239f",
-      "id": "f61ff47a3fad239f",
-      "image_url": "https://images.unsplash.com/photo-1648309665249-896e1a8163d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxQYWxhenpvJTIwTWFkYW1hfGVufDB8MHx8fDE3NzUyOTc2MDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "image_type": "unsplash"
-    },
     {
       "title": "Fondi scomparsi dopo il voto su ischia",
       "url": "/politica/petizione-per-revoca-cittadinanza-a-ischia-012af84860dc17b0",
@@ -47,11 +40,18 @@
       "image_type": "pexels"
     },
     {
-      "title": "Meloni avverte Piantedosi: rimpasto governo sul tavolo",
-      "url": "/politica/meloni-ha-avvisato-piantedosi-rimpasto-in-vista-a-ebba70e492353acc",
-      "id": "ebba70e492353acc",
-      "image_url": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/03/2026-03-23T150507Z_1_LYNXMPEM2M0UO_RTROPTP_4_ITALY-POLITICS-JUSTICE-scaled-e1774328208124-2048x1155.jpg",
+      "title": "Pizzaballa: 'Pace senza verità è tregua fragile', la svolta del Patriarca di Gerusalemme",
+      "url": "/politica/pizzaballa-pace-non-e-solo-tregua-4435391bdbf7ee9a",
+      "id": "4435391bdbf7ee9a",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5c817e417a1fbd595de870e9/70cf2cc0-a087-4431-9a3c-497ccc5643c0/102450.png",
       "image_type": "ddg_image"
+    },
+    {
+      "title": "Papa Francesco ha convocato una veglia di preghiera per la pace in piazza San Pi",
+      "url": "/politica/papa-francesco-annuncia-veglia-per-la-pace-l11-apr-15e6c53050810aab",
+      "id": "15e6c53050810aab",
+      "image_url": "https://images.unsplash.com/photo-1538175911510-25336f95b07d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxQYXBhJTIwRnJhbmNlc2NvfGVufDB8MHx8fDE3NzUzOTM2MjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
     }
   ],
   "hero_eligible": true,
