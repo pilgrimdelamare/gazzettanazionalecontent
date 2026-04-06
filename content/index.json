@@ -1,5 +1,24 @@
 [
   {
+    "id": "fa9d1e4b3a231847",
+    "slug": "sofia-15-anni-morta-a-maddaloni-shock-anafilattico-fa9d1e4b3a231847",
+    "title": "Maddaloni, 15enne bulgara muore per shock anafilattico",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-04-06T09:56:15.703504+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/4/6e254c43d299637d993874a1f69ef234.jpg",
+    "occhiello": "",
+    "lead_preview": "Sofia, 15 anni, è morta molto probabilmente per uno shock anafilattico. I funerali si sono svolti il 6 aprile 2026 a Mad",
+    "tags": [
+      "shock anafilattico",
+      "maddaloni",
+      "decesso giovanile"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "cda9bf95101c6746",
     "slug": "calcio-bernardo-silva-lascia-il-manchester-city-a-cda9bf95101c6746",
     "title": "Calcio: Bernardo Silva lascia il Manchester City a fine stagione",
@@ -666,25 +685,6 @@
     "tags": [
       "export moda medio oriente",
       "crisi export 2026"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "fa9d1e4b3a231847",
-    "slug": "sofia-15-anni-morta-a-maddaloni-shock-anafilattico-fa9d1e4b3a231847",
-    "title": "Sofia, 15 anni, morta a Maddaloni: shock anafilattico ipotizzato",
-    "section": "cronaca",
-    "priority": 6,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-04-06T09:56:15.703504+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/4/6e254c43d299637d993874a1f69ef234.jpg",
-    "occhiello": "MADDA LONI FERMA PER UN FUNERALE",
-    "lead_preview": "Sofia, 15 anni, è morta molto probabilmente per uno shock anafilattico. I funerali si sono svolti il 6 aprile 2026 a Mad",
-    "tags": [
-      "morte soffia maddaloni",
-      "shock anafilattico soffia",
-      "funerali soffia 2026"
     ],
     "hero_eligible": true
   },
