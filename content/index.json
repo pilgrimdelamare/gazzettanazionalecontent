@@ -1,5 +1,20 @@
 [
   {
+    "id": "29a7c94738ab3fef",
+    "slug": "bombardato-per-sbaglio-il-palazzo-del-leader-crist-29a7c94738ab3fef",
+    "title": "Bombardato per sbaglio il palazzo del leader cristiano libanese",
+    "section": "politica",
+    "priority": 7,
+    "journalist_firma": "Elena Russo",
+    "published_at": "2026-04-06T15:36:21.490965+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/06/24307691_medium-1200x630.jpg",
+    "occhiello": "BOMBARDATO PER SBAGLIO IL PALAZZO DEL LEADER CRISTIANO LIBANESE",
+    "lead_preview": "Le Forze di Difesa israeliane hanno ammesso di aver bombardato per errore la casa di Pierre Mouawad, un leader Cristiano",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "7128c69abb81bc24",
     "slug": "moses-pendleton-porta-a-bologna-la-prima-di-botani-7128c69abb81bc24",
     "title": "MOMIX torna a Bologna con Botanica Season 2",
@@ -8843,24 +8858,6 @@
       "apollo 4",
       "lancio spaziale",
       "arteims ii"
-    ]
-  },
-  {
-    "id": "86f5fbbfa93aff26",
-    "slug": "moretti-titolare-di-constellation-salta-linterroga-86f5fbbfa93aff26",
-    "title": "Moretti, titolare di Constellation, salta l'interrogatorio per 'stress': era atteso il 7 aprile a Sion",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Chiara Esposito",
-    "published_at": "2026-04-02T07:47:44.092125+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1508248834411-18fce1185c66?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxDb25zdGVsbGF0aW9uJTIwQ3JhbnMtTW9udGFuYSUyMGZpcmV8ZW58MHwwfHx8MTc3NTE4MjY0NHww&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "IL TITOLARE DEL CONSTELLATION SALTA L'INTERROGATORIO",
-    "lead_preview": "Jacques Moretti, 54 anni, titolare del locale Constellation di Crans-Montana, dove il 1° gennaio sono morti 41 giovani, ",
-    "tags": [
-      "caso constellation",
-      "moretti interrogatorio",
-      "tragedia crans-montana"
     ]
   }
 ]
