@@ -1,5 +1,24 @@
 [
   {
+    "id": "0de88f80786c69a0",
+    "slug": "basket-brooklyn-nets-conquista-vittoria-con-121-11-0de88f80786c69a0",
+    "title": "Basket: Brooklyn Nets ribaltano 121-115 sugli Wizards con 39 punti nell'ultimo quarto al Barclays",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-06T06:10:13.114689+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/f915b0f719598e33232ebf438573b0358cc2cecb/skysport/it/nba/video/2026/04/06/1087974_1775432211532_thumb_494.0000001_1775452336614.jpg",
+    "occhiello": "NETS RESISTONO RITORNO WIZARDS IN NOTTATA DA 121-115",
+    "lead_preview": "Brooklyn Nets hanno chiuso venerdì 6 aprile 2026 con un 121-115 sui Washington Wizards al Barclays Center dopo un quarto",
+    "tags": [
+      "nba brooklyn nets",
+      "wizards vs nets",
+      "partita del 6 aprile 2026"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "80315a6664864adb",
     "slug": "basket-oklahoma-city-travolge-utah-146-111-e-ottim-80315a6664864adb",
     "title": "Basket: oklahoma city travolge utah 146-111",
@@ -837,25 +856,6 @@
       "naufragio libia",
       "migranti mediterraneo",
       "barcone tripoli"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "0de88f80786c69a0",
-    "slug": "basket-brooklyn-nets-conquista-vittoria-con-121-11-0de88f80786c69a0",
-    "title": "Basket: Brooklyn Nets conquista vittoria con 121-115 contro Wizards!",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-06T06:10:13.114689+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/f915b0f719598e33232ebf438573b0358cc2cecb/skysport/it/nba/video/2026/04/06/1087974_1775432211532_thumb_494.0000001_1775452336614.jpg",
-    "occhiello": "NBA, BROOKLYN-WASHINGTON: I DETTAGLI DELLA VITTORIA NETS 121-115",
-    "lead_preview": "La notte di venerdì 6 aprile, il Brooklyn Nets ha sconfitto il Washington Wizards con un risultato finale di 121-115. La",
-    "tags": [
-      "basket",
-      "nba",
-      "brooklyn nets"
     ],
     "hero_eligible": true
   },
