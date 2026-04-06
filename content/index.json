@@ -1,5 +1,24 @@
 [
   {
+    "id": "9b6a99c6671f092b",
+    "slug": "calcio-schalke-vince-1-0-contro-karlsruhe-in-bunde-9b6a99c6671f092b",
+    "title": "Calcio: Warnes segna al 67’ e ferma 19 partite senza vittorie dello Schalke",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-05T17:46:48.023447+00:00",
+    "image_type": "wikimedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/German_foreign_language_EU.jpg",
+    "occhiello": "",
+    "lead_preview": "Matthias Warnes ha segnato al 67’ il gol vittoria allo stadio Veltins-Arena di Gelsenkirchen il 5 aprile 2026, portando ",
+    "tags": [
+      "gol warnes",
+      "schalke vittoria",
+      "bundesliga 2026"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "fb4d087d380252a7",
     "slug": "ciclismo-pogacar-vince-il-tour-of-flanders-con-142-fb4d087d380252a7",
     "title": "Ciclismo: Pogačar vince la Tour of Flanders 2026 con attacco a 37 km dall'arrivo",
@@ -2362,25 +2381,6 @@
     "occhiello": "ALLENAMENTI TRA BOMBE PER LA TOP 16",
     "lead_preview": "Marta Kostyuk, numero 16 del ranking wta e quartofinalista agli Australian Open 2024, ha ripreso gli allenamenti sulla t",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "9b6a99c6671f092b",
-    "slug": "calcio-schalke-vince-1-0-contro-karlsruhe-in-bunde-9b6a99c6671f092b",
-    "title": "Calcio: Schalke batte Karlsruhe 1-0 dopo 19 partite, Warnes decide dal dischetto al 67’",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-05T17:46:48.023447+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/German_foreign_language_EU.jpg",
-    "occhiello": "SCHALKE ROMPE LA SERIE NEGATIVA DOPO 19 PARTITE",
-    "lead_preview": "Matthias Warnes, il 5 aprile 2026, ha segnato il gol decisivo allo stadio Veltins-Arena di Gelsenkirchen, portando lo Sc",
-    "tags": [
-      "schalke-karlsruhe 1-0",
-      "warnes gol decisivo",
-      "bundesliga 2026"
-    ],
     "hero_eligible": true
   },
   {
