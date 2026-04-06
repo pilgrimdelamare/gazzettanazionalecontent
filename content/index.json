@@ -1,5 +1,24 @@
 [
   {
+    "id": "833a990cf09e0a19",
+    "slug": "slayare-ghostare-o-drippare-la-scelta-e-per-i-giov-833a990cf09e0a19",
+    "title": "Siena ospita Festival linguistico",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-06T07:09:25.035563+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2025/10/27/giovani-1200.jpg",
+    "occhiello": "SENA SI PREPARA AL FESTIVAL",
+    "lead_preview": "Il 21 aprile 2026, a Siena, si terrà l'evento \"Parole in cammino, il Festival dell’Italiano e delle Lingue d’Italia\" per",
+    "tags": [
+      "festival linguistico",
+      "siena festival",
+      "parole in cammino"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "75bada6e26e1903d",
     "slug": "calcio-udinese-como-in-diretta-dazn-lunedi-6-april-75bada6e26e1903d",
     "title": "Calcio: Udinese-Como alle 12.30",
@@ -1101,25 +1120,6 @@
       "rifiuto inzaghi nazionale",
       "simone inzaghi ct",
       "nazionale italiana allenatore"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "833a990cf09e0a19",
-    "slug": "slayare-ghostare-o-drippare-la-scelta-e-per-i-giov-833a990cf09e0a19",
-    "title": "Slayare, ghostare o drippare? La scelta è per i giovani italiani!",
-    "section": "cultura",
-    "priority": 7,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-06T07:09:25.035563+00:00",
-    "image_type": "image",
-    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2025/10/27/giovani-1200.jpg",
-    "occhiello": "SLAYARE, GHOSTARE, DRIPPARE: LE PAROLE GIOVANILI DEGLI ANNI VENTI",
-    "lead_preview": "Il 21 aprile 2026, a Siena, si terrà l'evento \"Parole in cammino, il Festival dell’Italiano e delle Lingue d’Italia\" per",
-    "tags": [
-      "parola giovanile 2026",
-      "festival italiano lingue",
-      "slayare ghostare drippare"
     ],
     "hero_eligible": true
   },
