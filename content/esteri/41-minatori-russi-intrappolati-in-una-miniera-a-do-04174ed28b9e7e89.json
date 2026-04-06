@@ -1,0 +1,57 @@
+{
+  "id": "04174ed28b9e7e89",
+  "slug": "41-minatori-russi-intrappolati-in-una-miniera-a-do-04174ed28b9e7e89",
+  "title": "41 Minatori russi intrappolati in una miniera a Donetsk dopo attacco ucraino",
+  "titles": [
+    "41 Minatori russi intrappolati in una miniera a Donetsk dopo attacco ucraino",
+    "Sottostazione colpita a Donetsk: 41 russi bloccati sottoterra",
+    "Attacco ucraino a miniera di Donetsk, 41 russi in pericolo tra fumo e ordigni"
+  ],
+  "title_winner": null,
+  "section": "esteri",
+  "occhiello": "INTRAPPOLATI IN MINIERA, 41 RUSSI A DONETSK DOPO ATTACCO UCRAINO",
+  "lead": "41 Russi sono stati intrappolati in una miniera a Donetsk, in Ucraina, dopo un attacco ucraino. Secondo ANSA, il raid ha danneggiato una sottostazione e ha bloccato gli operai sottoterra. La notizia è arrivata oggi, 6 aprile 2026.",
+  "corpo1": "La miniera, situata a Donetsk, è stata colpita da un attacco ucraino che ha danneggiato una sottostazione e ha bloccato gli operai sottoterra. Secondo ANSA, 41 russi sono stati intrappolati nella miniera e sono in attesa di essere soccorsi. Il raid è Stato condotto da forze ucraine in risposta a una serie di attacchi russi nella regione. La situazione è particolarmente difficile a causa della presenza di mine e di altri ordigni esplosivi nella zona.\n\nLa miniera di Donetsk è stata attiva per decenni e ha prodotto una grande quantità di carbone. Tuttavia, la situazione nella regione è divenuta sempre più instabile a causa della guerra tra Ucraina e Russia. La città di Donetsk è stata annessa dalla Russia nel 2022 e la maggior parte della popolazione è di etnia Russa.\n\nIl governo ucraino ha condannato l'attacco e ha chiesto ai russi di ritirare le loro truppe dalla regione. La situazione è attualmente sotto controllo delle autorità locali, che stanno lavorando per soccorrere gli operai intrappolati nella miniera.",
+  "corpo2": "La miniera di Donetsk è solo uno dei tanti luoghi di lavoro che hanno subito danni a causa della guerra. La regione è stata teatro di una serie di attacchi e di bombardamenti, che hanno causato numerose vittime e danni alle infrastrutture locali. La situazione è particolarmente difficile per gli operai e per le loro famiglie, che sono state costrette a lasciare la zona a causa della guerra.\n\nLa guerra tra Ucraina e Russia ha causato una grande quantità di danni e di vittime, e la situazione è attualmente molto tesa. La comunità Internazionale ha condannato l'attacco e ha chiesto ai russi di ritirare le loro truppe dalla regione. La situazione è attualmente sotto controllo delle autorità locali, che stanno lavorando per risolvere la crisi e per proteggere la popolazione civile.",
+  "journalist": {
+    "id": "fabrizio_mei_01",
+    "firma": "Fabrizio Mei",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-04-06T06:53:07.454094+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://www.ansa.it/webimages/img_1129x635/2024/8/13/e229e9b6ef9496a4a9bd1d0921f925c5.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"41 Minatori russi intrappolati in una miniera a Donetsk dopo attacco ucraino\",\n  \"description\": \"41 Russi sono stati intrappolati in una miniera a Donetsk, in Ucraina, dopo un attacco ucraino. Secondo ANSA, il raid ha danneggiato una sottostazione e ha bloccato gli operai sottoterra. La notizia è arrivata oggi, 6 aprile 2026.\",\n  \"articleBody\": \"41 Russi sono stati intrappolati in una miniera a Donetsk, in Ucraina, dopo un attacco ucraino. Secondo ANSA, il raid ha danneggiato una sottostazione e ha bloccato gli operai sottoterra. La notizia è arrivata oggi, 6 aprile 2026. La miniera, situata a Donetsk, è stata colpita da un attacco ucraino che ha danneggiato una sottostazione e ha bloccato gli operai sottoterra. Secondo ANSA, 41 russi sono stati intrappolati nella miniera e sono in attesa di essere soccorsi. Il raid è Stato condotto da forze ucraine in risposta a una serie di attacchi russi nella regione. La situazione è particolarmente difficile a causa della presenza di mine e di altri ordigni esplosivi nella zona.\\n\\nLa miniera di Donetsk è stata attiva per decenni e ha prodotto una grande quantità di carbone. Tuttavia, la situazione nella regione è divenuta sempre più instabile a causa della guerra tra Ucraina e Russia. La città di Donetsk è stata annessa dalla Russia nel 2022 e la maggior parte della popolazione è di etnia Russa.\\n\\nIl governo ucraino ha condannato l'attacco e ha chiesto ai russi di ritirare le loro truppe dalla regione. La situazione è attualmente sotto controllo delle autorità locali, che stanno lavorando per soccorrere gli operai intrappolati nella miniera. La miniera di Donetsk è solo uno dei tanti luoghi di lavoro che hanno subito danni a causa della guerra. La regione è stata teatro di una serie di attacchi e di bombardamenti, che hanno causato numerose vittime e danni alle infrastrutture locali. La situazione è particolarmente difficile per gli operai e per le loro famiglie, che sono state costrette a lasciare la zona a causa della guerra.\\n\\nLa guerra tra Ucraina e Russia ha causato una grande quantità di danni e di vittime, e la situazione è attualmente molto tesa. La comunità Internazionale ha condannato l'attacco e ha chiesto ai russi di ritirare le loro truppe dalla regione. La situazione è attualmente sotto controllo delle autorità locali, che stanno lavorando per risolvere la crisi e per proteggere la popolazione civile.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Fabrizio Mei\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-06T06:53:07.454094+00:00\",\n  \"dateModified\": \"2026-04-06T06:53:07.454094+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/04174ed28b9e7e89\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/04174ed28b9e7e89\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.ansa.it/webimages/img_1129x635/2024/8/13/e229e9b6ef9496a4a9bd1d0921f925c5.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 8,
+  "source": "ANSA Esteri",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/04/06/mosca-41-intrappolati-in-miniera-nel-donetsk-dopo-attacco-ucraino_bcbf0da1-6965-4423-bad1-a9a96dfa8cc2.html",
+  "related": [
+    {
+      "title": "Drone ucraino colpisce raffineria russa: morto e 2 feriti",
+      "url": "/esteri/droni-ucraini-colpiscono-raffineria-russa-1-morto-0d7223c22e99950c",
+      "id": "0d7223c22e99950c",
+      "image_url": "https://images.pexels.com/photos/28966473/pexels-photo-28966473.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
+    },
+    {
+      "title": "Netanyahu attacca la Corte dopo il via libera alla protesta a Tel Aviv",
+      "url": "/esteri/netanyahu-critica-la-corte-suprema-israele-1df83ee63a60f691",
+      "id": "1df83ee63a60f691",
+      "image_url": "https://live.staticflickr.com/65535/55188561907_b85f99e4aa_b.jpg",
+      "image_type": "flickr"
+    },
+    {
+      "title": "42 Arresti in retate Ice a Madison, Milwaukee e Kenosha",
+      "url": "/esteri/oltre-40-arresti-tra-cucine-e-mercati-del-wisconsi-8e1850125d89fe94",
+      "id": "8e1850125d89fe94",
+      "image_url": "https://live.staticflickr.com/65535/55190094275_ea92f2cfce_b.jpg",
+      "image_type": "flickr"
+    }
+  ],
+  "hero_eligible": true
+}
