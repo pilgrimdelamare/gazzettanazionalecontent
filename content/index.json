@@ -1,5 +1,24 @@
 [
   {
+    "id": "5b327b1952402d62",
+    "slug": "prof-fattore-la-teoria-neoclassica-tradisce-la-lib-5b327b1952402d62",
+    "title": "Prof. Fattore: la teoria neoclassica tradisce la libertà",
+    "section": "cronaca",
+    "priority": 6,
+    "journalist_firma": "Chiara Esposito",
+    "published_at": "2026-04-06T05:38:13.206683+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2025/02/20/pil-soldi-1200.jpg",
+    "occhiello": "LIBERALISMO: TROVATO IL VUOTO AL CENTRO.",
+    "lead_preview": "Giovanni Fattore, Professore di Economia e Management, ha lanciato un duro attacco contro la teoria neoclassica, accusan",
+    "tags": [
+      "teoria neoclassica",
+      "attacco fattore",
+      "liberalismo individualismo"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "41faece6835cee52",
     "slug": "basket-chicago-batte-phoenix-120-110-al-united-cen-41faece6835cee52",
     "title": "Basket: Chicago batte Phoenix 120-110 al United Center con 32 punti di Wembanyama",
@@ -8753,23 +8772,5 @@
     "occhiello": "RYAN SOULÉ TORNA IN CAMPO DOPO 68 GIORNI DI STOP PER INFORTUNIO",
     "lead_preview": "Gasparotto convoca Ryan Soulé per la trasferta di San Siro del 3 aprile 2026, dopo 68 giorni di stop per un infortunio. ",
     "tags": []
-  },
-  {
-    "id": "49390a66098bcce3",
-    "slug": "berruto-pd-chiede-le-dimissioni-di-gravina-alla-ca-49390a66098bcce3",
-    "title": "Gravina sotto accusa in Parlamento dopo flop mondiali 2026",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Sergio Mancini",
-    "published_at": "2026-04-02T01:09:18.247672+00:00",
-    "image_type": "image",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Gabriele_Gravina_2021.jpg",
-    "occhiello": "CAIATA (FDI) CHIEDE INFORMATIVA SU GRAVINA",
-    "lead_preview": "Gabriele Gravina, presidente della FIGC, è nel mirino della politica dopo la mancata qualificazione della nazionale ai m",
-    "tags": [
-      "flop mondiali 2026",
-      "processo gravina",
-      "figc sotto accusa"
-    ]
   }
 ]
