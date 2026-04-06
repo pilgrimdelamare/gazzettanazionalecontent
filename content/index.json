@@ -1,5 +1,24 @@
 [
   {
+    "id": "5784c8c88d19e917",
+    "slug": "5-turisti-caduti-nel-lago-di-braies-sul-ghiaccio-v-5784c8c88d19e917",
+    "title": "5 Turisti caduti nel Lago di Braies sul ghiaccio vietato, salvati da passanti",
+    "section": "cronaca",
+    "priority": 6,
+    "journalist_firma": "Chiara Esposito",
+    "published_at": "2026-04-06T12:14:26.115747+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/6/4555e6bfa93fb6ffd58bf5933a4d10b3.jpg",
+    "occhiello": "",
+    "lead_preview": "Lago di Braies, 5 turisti sono finiti nell’acqua gelida dopo il cedimento del ghiaccio venerdì 5 aprile 2026 intorno all",
+    "tags": [
+      "lago di braies",
+      "turisti caduti",
+      "ghiaccio vietato"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "7e9a00ab199cf343",
     "slug": "basket-jasmin-repesa-firma-con-il-napoli-fino-al-2-7e9a00ab199cf343",
     "title": "Basket: Jasmin Repesa firma con il Napoli fino al 2027 dopo l’esonero di Magro",
@@ -8801,19 +8820,5 @@
       "sanità 2026",
       "fondo sanitario 2026"
     ]
-  },
-  {
-    "id": "fd7f8dc89b122904",
-    "slug": "wired-italia-seleziona-le-migliori-fotocamere-comp-fd7f8dc89b122904",
-    "title": "Wired italia pubblica classifica fotocamere mentre spariscono fondi ambiente",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-04-01T15:21:47.423429+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/27048100/pexels-photo-27048100.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "WIRED ITALIA PUBBLICA CLASSIFICA FOTOCAMERE MENTRE SPARISCONO FONDI AMBIENTE",
-    "lead_preview": "Wired Italia ha dedicato il 1° aprile 2026 un ampio servizio alle \"migliori fotocamere compatte\", mentre documenti inter",
-    "tags": []
   }
 ]
