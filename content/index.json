@@ -1,5 +1,23 @@
 [
   {
+    "id": "3636b0e268453bc2",
+    "slug": "roma-stalker-minaccia-donna-via-social-farai-la-fi-3636b0e268453bc2",
+    "title": "Roma, stalker minaccia donna via social: \"Farai la fine di Roberta Siragusa\"",
+    "section": "giustizia",
+    "priority": 5,
+    "journalist_firma": "Silvia Greco",
+    "published_at": "2026-04-06T10:19:12.680596+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2018/5/24/a21b99e73e4f973fdfe56227687ccee9.0",
+    "occhiello": "LA PROCURA CHIEDE RINVIAMENTO A GIUDIZIO PER STALKER",
+    "lead_preview": "La procura di Roma chiede rinvio a giudizio per stalker che ha minacciato una donna via social con la frase \"Farai la fi",
+    "tags": [
+      "caso roberta siragusa",
+      "stalker roma"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "587349f484429e87",
     "slug": "calcio-marotta-difende-bastoni-dopo-lespulsione-in-587349f484429e87",
     "title": "Calcio: Marotta difende Bastoni dopo l'espulsione in Bosnia",
@@ -8779,24 +8797,6 @@
       "fusione eurec",
       "voto fondi",
       "ricerca economia"
-    ]
-  },
-  {
-    "id": "138a14dab23d3fcd",
-    "slug": "lvmh-sotto-accusa-antitrust-indaga-su-sephora-e-be-138a14dab23d3fcd",
-    "title": "Antitrust indaga Sephora e Benefit: accuse di abuso di posizione dominante nel beauty",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-04-01T09:42:54.577960+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1577071835592-d5d55ffef660?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxjb21wYW55JTIwbG9nbyUyMGJsdXJ8ZW58MHwwfHx8MTc3NTExOTIwN3ww&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "ANTITRUST IN AZIONE CONTRO DUE COLPOSI",
-    "lead_preview": "Separa l'1 aprile 2026 l'Autorità Garante della concorrenza e del mercato ha avviato due istruttorie amministrative cont",
-    "tags": [
-      "indagine antitrust sephora",
-      "abuso posizione dominante",
-      "benefit cosmetici indagine"
     ]
   }
 ]
