@@ -1,5 +1,24 @@
 [
   {
+    "id": "ca290fa87b4792ee",
+    "slug": "calcio-sky-sport-pubblica-articolo-su-udinese-como-ca290fa87b4792ee",
+    "title": "Calcio: Sky Sport pubblica articolo su Udinese-Como senza una parola sulla partita",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-06T13:49:08.323006+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/96869a8132d88d743422f4b7d2166f4923a3ad54/skysport/it/calcio/serie-a/video/2026/04/06/1088043_1775479748511_thumb_494.0000001_1775481400614.jpg",
+    "occhiello": "IL COMMENTO CHE NON C'È",
+    "lead_preview": "Il 6 aprile 2026 Sky Sport ha pubblicato un articolo dal titolo \"Udinese-Como, il commento\". Il testo, composto da link,",
+    "tags": [
+      "udinese-come",
+      "sky-sport-2026",
+      "articolo-vuoto"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "a38031a008cd29e1",
     "slug": "dow-jones-crolla-dello-006-mentre-nasdaq-guadagna-a38031a008cd29e1",
     "title": "Dow Jones crolla dello 0,06% mentre Nasdaq guadagna 0,36%",
@@ -8855,23 +8874,6 @@
       "esodo cristiani terra santa",
       "pizzaballa gerusalemme",
       "cristiani palestina"
-    ]
-  },
-  {
-    "id": "51b64181dd0162bb",
-    "slug": "trump-33-di-approvazione-e-il-minimo-storico-51b64181dd0162bb",
-    "title": "Trump, indice di approvazione al 33% tra gli elettori MAGA",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-02T09:02:54.233394+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Maga_-_Contempopranea_2010_%284928412461%29.jpg",
-    "occhiello": "TRUMP PERDE UN TERZO DEI SUOI ELETTORI PIÙ FEDELI",
-    "lead_preview": "Il 2 aprile 2026 i dati aggregati dei principali istituti di sondaggio statunitensi hanno fissato l'indice di approvazio",
-    "tags": [
-      "trump",
-      "elezioni usa"
     ]
   }
 ]
