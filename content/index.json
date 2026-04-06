@@ -1,5 +1,24 @@
 [
   {
+    "id": "bd94755d11343a7b",
+    "slug": "calcio-bologna-batte-cremonese-2-1-a-zini-joao-mar-bd94755d11343a7b",
+    "title": "Calcio: Joao Mario firma il fulmine da 35 metri che affossa il Bologna a Cremona",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-05T15:12:28.637294+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1671715789458-431a634ff0bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxKb2FvJTIwTWFyaW8lMjBCb2xvZ25hJTIwQ3JlbW9uZXNlJTIwU3RhZGlvJTIwR2lvdmFubmklMjBaaW5pfGVufDB8MHx8fDE3NzU0MDk1NTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "",
+    "lead_preview": "Joao Mario ha segnato al 23’ del primo tempo in Cremonese-Bologna, gara terminata con la sconfitta del Bologna per 1-0. ",
+    "tags": [
+      "joao mario gol",
+      "cremonese-bologna 2026",
+      "gol da 35 metri"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c8b1977f8f450f62",
     "slug": "220mila-dipendenti-pubblici-riscuoteranno-170-mili-c8b1977f8f450f62",
     "title": "380Mila pensionati riceveranno fino a 450 euro di arretrati dallo Stato entro giugno",
@@ -2678,21 +2697,6 @@
       "caso allevi",
       "mieloma allevi"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "bd94755d11343a7b",
-    "slug": "calcio-bologna-batte-cremonese-2-1-a-zini-joao-mar-bd94755d11343a7b",
-    "title": "Joao mario decide la gara",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-05T15:12:28.637294+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1671715789458-431a634ff0bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxKb2FvJTIwTWFyaW8lMjBCb2xvZ25hJTIwQ3JlbW9uZXNlJTIwU3RhZGlvJTIwR2lvdmFubmklMjBaaW5pfGVufDB8MHx8fDE3NzU0MDk1NTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "JOAO MARIO DECIDE LA GARA",
-    "lead_preview": "Joao Mario ha segnato al 23’ del primo tempo, decidendo la gara tra Cremonese e bologna, che si è conclusa con una sconf",
-    "tags": [],
     "hero_eligible": true
   },
   {
