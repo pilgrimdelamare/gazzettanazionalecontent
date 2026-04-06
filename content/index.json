@@ -1,5 +1,24 @@
 [
   {
+    "id": "55b47b721cce05e6",
+    "slug": "laquila-ricorda-le-309-vittime-del-terremoto-con-d-55b47b721cce05e6",
+    "title": "L'Aquila ricorda le 309 vittime del terremoto del 2009 con un fascio di luce",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-04-05T12:52:30.855459+00:00",
+    "image_type": "unsplash",
+    "image_url": "https://images.unsplash.com/photo-1694153015265-cd1d6657bd64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxMJTI3QXF1aWxhJTIwZWFydGhxdWFrZSUyMGFubml2ZXJzYXJ5fGVufDB8MHx8fDE3NzU0MzE4MDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "occhiello": "L'AQUILA RICORDA IL TERREMOTO",
+    "lead_preview": "Il 5 aprile 2026, a L'Aquila, si è celebrato il diciassettesimo anniversario del terremoto del 2009, che uccise 309 pers",
+    "tags": [
+      "terremoto aquila 2009",
+      "anniversario terremoto",
+      "l'aquila 2026"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "1ca7e2a3d3a85c67",
     "slug": "robert-peroni-attacca-la-preghiera-di-andreoli-tes-1ca7e2a3d3a85c67",
     "title": "Robert Peroni attacca il libro di Andreoli: \"La Preghiera\" manca di rigore scientifico",
@@ -2048,23 +2067,6 @@
     "lead_preview": "Venerdì 3 aprile un caccia F-15E Strike Eagle dell’aeronautica militare statunitense è Stato abbattuto nel cielo del Khu",
     "tags": [
       "guerra iran"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "55b47b721cce05e6",
-    "slug": "laquila-ricorda-le-309-vittime-del-terremoto-con-d-55b47b721cce05e6",
-    "title": "L'aquila ricorda il terremoto",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Chiara Esposito",
-    "published_at": "2026-04-05T12:52:30.855459+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1694153015265-cd1d6657bd64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxMJTI3QXF1aWxhJTIwZWFydGhxdWFrZSUyMGFubml2ZXJzYXJ5fGVufDB8MHx8fDE3NzU0MzE4MDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "L'AQUILA RICORDA IL TERREMOTO",
-    "lead_preview": "L'Aquila celebra il diciassettesimo anniversario del terremoto del 2009, che uccise 309 persone e ferì 1600.",
-    "tags": [
-      "terremoto l'aquila"
     ],
     "hero_eligible": true
   },
