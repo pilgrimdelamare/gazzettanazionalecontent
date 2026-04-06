@@ -1,5 +1,24 @@
 [
   {
+    "id": "76e5c33803be10a8",
+    "slug": "basket-i-bucks-impennano-a-fiserv-forum-76e5c33803be10a8",
+    "title": "Basket: i Bucks fanno tabellone contro Memphis 131-115",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-06T05:37:09.406487+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/62cb778609b1a28e91fd9667bce166365f1ad341/skysport/it/nba/video/2026/04/06/1087973_1775432196532_thumb_494.0000001_1775452325598.jpg",
+    "occhiello": "BUCKS FISERV FORUM: IMPENNA A MILWAUKEE",
+    "lead_preview": "Il Milwaukee si impone per 131-115 contro la Memphis nella partita di NBA della notte di venerdì 6 aprile 2026 al Fiserv",
+    "tags": [
+      "nba bucks",
+      "memphis grizzlies",
+      "fiserv forum"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "d1081bd668e7f733",
     "slug": "paralimpiadi-2026-ragazzo-disabile-discriminato-a-d1081bd668e7f733",
     "title": "Ilfattoquotidiano.it: Andrea De Vitis denuncia falsificazione referti a Milano",
@@ -746,25 +765,6 @@
       "basket",
       "wembanyama",
       "chicago"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "76e5c33803be10a8",
-    "slug": "basket-i-bucks-impennano-a-fiserv-forum-76e5c33803be10a8",
-    "title": "Basket: I Bucks impennano a Fiserv Forum",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-06T05:37:09.406487+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/62cb778609b1a28e91fd9667bce166365f1ad341/skysport/it/nba/video/2026/04/06/1087973_1775432196532_thumb_494.0000001_1775452325598.jpg",
-    "occhiello": "LA MILWAUKEE VINCITRICE SI FA VISTO.",
-    "lead_preview": "La Milwaukee si impone per 131-115 contro la Memphis nella partita di NBA della notte di venerdì 6 aprile 2026 al Fiserv",
-    "tags": [
-      "vittoria bucks",
-      "nba 2026",
-      "fiserv forum"
     ],
     "hero_eligible": true
   },
