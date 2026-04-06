@@ -1,5 +1,24 @@
 [
   {
+    "id": "5e9ab6cdc65b65ff",
+    "slug": "zelensky-a-damasco-il-5-aprile-incontro-segreto-co-5e9ab6cdc65b65ff",
+    "title": "Zelensky incontra Assad a Damasco: storico vertice con la mediazione turca",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-05T14:12:08.921284+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/25304512/pexels-photo-25304512.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "INCONTRI A DAMASCO",
+    "lead_preview": "Volodymyr Zelensky è arrivato a Damasco il 5 aprile 2026, accompagnato dal ministro turco Mehmet Nuri Ersoy, in un viagg",
+    "tags": [
+      "zelensky assad damasco",
+      "vertice siria ucraina",
+      "mediazione turca siria"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "7dd0105d9300e491",
     "slug": "cinque-progetti-indigeni-lanciati-in-brasile-per-p-7dd0105d9300e491",
     "title": "5 Popoli indigeni creano un Fondo da 14,8 milioni di reais per proteggere 11,3 milioni di ettari in Amazzonia",
@@ -2058,25 +2077,6 @@
     "tags": [
       "attacco a erbıl",
       "ufficiale usa ucciso"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "5e9ab6cdc65b65ff",
-    "slug": "zelensky-a-damasco-il-5-aprile-incontro-segreto-co-5e9ab6cdc65b65ff",
-    "title": "Zelensky a Damasco il 5 aprile 2026: incontro riservato con Assad accompagnato dal ministro turco Ersoy",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-05T14:12:08.921284+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/25304512/pexels-photo-25304512.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "",
-    "lead_preview": "Volodymyr Zelensky è arrivato a Damasco il 5 aprile 2026, accompagnato dal ministro turco Mehmet Nuri Ersoy, in un viagg",
-    "tags": [
-      "zelensky damasco",
-      "incontro zelensky-assad",
-      "ministero turco ersoy"
     ],
     "hero_eligible": true
   },
