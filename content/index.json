@@ -1,5 +1,23 @@
 [
   {
+    "id": "51491ae1d84ec7ec",
+    "slug": "verdiana-bonaccorti-il-doloroso-ricordo-della-madr-51491ae1d84ec7ec",
+    "title": "Verdiana Bonaccorti racconta in diretta su Canale 5 la morte della madre Enrica",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-04-06T08:31:28.445537+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/06/Screenshot-2026-04-06-alle-10.08.51-1200x630.png",
+    "occhiello": "MORTE DI ENRICA BONACCORTI RIVISSUTA A VERISSIMO",
+    "lead_preview": "Verdiana Bonaccorti ha raccontato sabato 5 aprile la morte della madre Enrica Bonaccorti nel corso della trasmissione Ve",
+    "tags": [
+      "morte enrica bonaccorti",
+      "verissimo canale 5"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "587349f484429e87",
     "slug": "calcio-marotta-difende-bastoni-dopo-lespulsione-in-587349f484429e87",
     "title": "Calcio: Bastoni espulso a Sarajevo, rosso diretto al 78' per fallo su Džeko",
@@ -1320,21 +1338,6 @@
       "protezione amazzonia",
       "popoli indigeni brasiliani"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "51491ae1d84ec7ec",
-    "slug": "verdiana-bonaccorti-il-doloroso-ricordo-della-madr-51491ae1d84ec7ec",
-    "title": "Verdiana Bonaccorti: il doloroso ricordo della madre Enrica a Verissimo",
-    "section": "cronaca",
-    "priority": 4,
-    "journalist_firma": "Chiara Esposito",
-    "published_at": "2026-04-06T08:31:28.445537+00:00",
-    "image_type": "image",
-    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/06/Screenshot-2026-04-06-alle-10.08.51-1200x630.png",
-    "occhiello": "VERDIANA BONACCORTI RACCONTA AGONIA MADRE A VERISSIMO",
-    "lead_preview": "Verdiana Bonaccorti ha rievocato la morte della madre Enrica nel salotto di Verissimo trasmesso su Canale 5 il 5 aprile ",
-    "tags": [],
     "hero_eligible": true
   },
   {
