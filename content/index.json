@@ -1,5 +1,24 @@
 [
   {
+    "id": "7e9a00ab199cf343",
+    "slug": "basket-jasmin-repesa-firma-con-il-napoli-fino-al-2-7e9a00ab199cf343",
+    "title": "Basket: Jasmin Repesa firma con il Napoli fino al 2027 dopo l’esonero di Magro",
+    "section": "sport",
+    "priority": 7,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-06T12:13:37.465829+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/bcc8281e49f1bff9edb239ebcf824d9ae21c0412/skysport/it/basket/serie-a/2025/12/04/trapani-basket-repesa-dimissioni-news/ciamillo_repesa_trapani.jpg",
+    "occhiello": "",
+    "lead_preview": "Jasmin Repesa è il nuovo allenatore del Napoli Basket, ufficializzato 6 aprile 2026, dopo l’esonero di Alessandro Magro.",
+    "tags": [
+      "jasmin repesa napoli",
+      "napoli basket",
+      "esonero magro"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "499f504e3fe478f7",
     "slug": "calcio-conte-lancia-la-fab-four-titolare-al-marado-499f504e3fe478f7",
     "title": "Calcio: Conte lancia la 'Fab Four' titolare al Maradona, primo assoluto contro il Milan",
@@ -8796,23 +8815,5 @@
     "occhiello": "WIRED ITALIA PUBBLICA CLASSIFICA FOTOCAMERE MENTRE SPARISCONO FONDI AMBIENTE",
     "lead_preview": "Wired Italia ha dedicato il 1° aprile 2026 un ampio servizio alle \"migliori fotocamere compatte\", mentre documenti inter",
     "tags": []
-  },
-  {
-    "id": "88fbb471ef7a6018",
-    "slug": "calcio-gattuso-via-dalla-nazionale-88fbb471ef7a6018",
-    "title": "Calcio: Gattuso esonerato dopo la sconfitta 2-0 con la Spagna, FIGC paga 2 milioni",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-01T23:08:38.772827+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1731594700739-1d8ab0cb4583?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxzb2NjZXIlMjBjb2FjaCUyMEl0YWx5fGVufDB8MHx8fDE3NzUxMjE2MzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "ESONERO DA 2 MILIONI DOPO LA SPAGNOLA",
-    "lead_preview": "Gennaro Gattuso ha cessato di essere il commissario tecnico della nazionale italiana il 2 aprile 2026, giorno successivo",
-    "tags": [
-      "esonero gattuso",
-      "figc 2026",
-      "amichevole spagna"
-    ]
   }
 ]
