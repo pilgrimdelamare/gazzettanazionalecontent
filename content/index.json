@@ -1,5 +1,24 @@
 [
   {
+    "id": "0a8915ea791e64ce",
+    "slug": "basket-celtics-battono-raptors-115-101-con-32-punt-0a8915ea791e64ce",
+    "title": "Basket: Celtics battono Raptors 115-101 con 32 punti di Tatum al TD Garden",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-06T05:36:58.645161+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/e28f546cb55af86b66d868f3305526ad4752a310/skysport/it/nba/video/2026/04/06/1087971_1775431695660_thumb_494.0000001_1775452316776.jpg",
+    "occhiello": "BOSTON HA SCONFITTO TORONTO CON UN PUNTICGIO DI 14",
+    "lead_preview": "La partita di NBA tra Boston e Toronto si è conclusa con un risultato di 115-101 a favore dei Celtics. La gara si è tenu",
+    "tags": [
+      "celtics-raptors 2026",
+      "tatum 32 punti",
+      "nba boston"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "0710d0a828a5e1d4",
     "slug": "ministro-espulso-in-prima-linea-per-candidatura-un-0710d0a828a5e1d4",
     "title": "Jeanbrun espulso da Les Républicains dopo le frasi sull'immigrazione",
@@ -8742,23 +8761,5 @@
     "occhiello": "OMICIDI GIÙ DEL 28% IN ECUADOR DOPO COPRIFUOCO",
     "lead_preview": "Quito, 2 aprile 2026. Il numero di omicidi in Ecuador è calato del 28 per cento a marzo rispetto allo stesso mese del 20",
     "tags": []
-  },
-  {
-    "id": "31c614213ab4754a",
-    "slug": "fondi-scomparsi-dopo-lacquisto-della-collezione-bo-31c614213ab4754a",
-    "title": "Fede Galizia entra nel Museo di Capodimonte, Angela Schmidt esclusa",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-04-01T15:56:27.159045+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/15454532/pexels-photo-15454532.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "",
-    "lead_preview": "Fede Galizia è entrata ufficialmente nella collezione Borbone al Museo di Capodimonte il 1° aprile 2026, mentre la pittr",
-    "tags": [
-      "museo capodimonte",
-      "fede galizia",
-      "angela schmidt"
-    ]
   }
 ]
