@@ -1,5 +1,20 @@
 [
   {
+    "id": "7128c69abb81bc24",
+    "slug": "moses-pendleton-porta-a-bologna-la-prima-di-botani-7128c69abb81bc24",
+    "title": "MOMIX torna a Bologna con Botanica Season 2",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-06T12:44:25.707175+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/6/1d0f285f0daa5606440c5cb39fe35a87.jpg",
+    "occhiello": "MOMIX porta a Bologna una novità danza",
+    "lead_preview": "Moses Pendleton riporta a Bologna la prima assoluta di Botanica - Season 2 con i suoi Momix, dopo dodici anni di assenza",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "523fd65f1085bbab",
     "slug": "calcio-udinese-blocca-il-como-0-0-a-bergamo-interr-523fd65f1085bbab",
     "title": "Calcio: Como fermato 0-0 Dall'Udinese a Bergamo",
@@ -704,25 +719,6 @@
       "mostra giotto",
       "perugia pasqua",
       "calo visitatori"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "7128c69abb81bc24",
-    "slug": "moses-pendleton-porta-a-bologna-la-prima-di-botani-7128c69abb81bc24",
-    "title": "Moses Pendleton porta a Bologna la prima di Botanica - Season 2 con Momix",
-    "section": "cultura",
-    "priority": 6,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-04-06T12:44:25.707175+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/6/1d0f285f0daa5606440c5cb39fe35a87.jpg",
-    "occhiello": "",
-    "lead_preview": "Moses Pendleton porta al teatro Celebrazioni di Bologna la prima assoluta di Botanica - Season 2 con i suoi Momix, dodic",
-    "tags": [
-      "prima botanica bologna",
-      "moses pendleton momix",
-      "spettacolo danza bologna"
     ],
     "hero_eligible": true
   },
