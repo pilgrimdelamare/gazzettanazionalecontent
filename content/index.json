@@ -1,5 +1,23 @@
 [
   {
+    "id": "75bada6e26e1903d",
+    "slug": "calcio-udinese-como-in-diretta-dazn-lunedi-6-april-75bada6e26e1903d",
+    "title": "Calcio: Udinese-Como alle 12.30",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-06T07:08:39.664471+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/d43f32396bd06c5f05f47e38e8771fbea621bcff/skysport/it/calcio/serie-a/partite/2025/giornata-14/udinese-genoa/Runjaic_ansa.jpg",
+    "occhiello": "UDINESE-COMO IN DIRETTA SU DAZN OGGI ALLE 12.30",
+    "lead_preview": "Udinese e Como si affrontano oggi alle 12.30 allo stadio Friuli per la 31ª giornata di Serie A. La partita sarà trasmess",
+    "tags": [
+      "serie a",
+      "udinese-como"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "1b5abd44cc229ea6",
     "slug": "petrolio-in-rialzo-il-6-aprile-nonostante-la-possi-1b5abd44cc229ea6",
     "title": "Petrolio in rialzo il 6 aprile, nonostante la possibile tregua",
@@ -1121,25 +1139,6 @@
       "societa longeva",
       "invecchiamento italiano",
       "città anziani"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "75bada6e26e1903d",
-    "slug": "calcio-udinese-como-in-diretta-dazn-lunedi-6-april-75bada6e26e1903d",
-    "title": "Calcio: Udinese-Como in diretta DAZN lunedì 6 aprile alle 12.30",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-06T07:08:39.664471+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/d43f32396bd06c5f05f47e38e8771fbea621bcff/skysport/it/calcio/serie-a/partite/2025/giornata-14/udinese-genoa/Runjaic_ansa.jpg",
-    "occhiello": "UDINESE-COMO IN TV: IL CANALE GIUSTO",
-    "lead_preview": "La partita tra Udinese e Como della 31^ giornata di Serie A si gioca lunedì 6 aprile alle 12.30 e sarà in diretta sulla ",
-    "tags": [
-      "udinese-como",
-      "serie a",
-      "dazn"
     ],
     "hero_eligible": true
   },
