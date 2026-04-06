@@ -1,5 +1,23 @@
 [
   {
+    "id": "ef1420572da89926",
+    "slug": "4-aeroporti-italiani-razionano-carburante-ef1420572da89926",
+    "title": "4 Aeroporti italiani razionano Carburante",
+    "section": "societa",
+    "priority": 7,
+    "journalist_firma": "Marco Sala",
+    "published_at": "2026-04-06T11:36:53.083982+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2023/02/01/voli-aereo-francia-air-france-1200x630.jpg",
+    "occhiello": "PRIMI RAZIONAMENTI CARBURANTE IN QUATTRO AEROPORTI",
+    "lead_preview": "Il 6 aprile 2026, quattro aeroporti italiani hanno attivato i primi razionamenti di Carburante per l'aviazione, aprendo ",
+    "tags": [
+      "razionamento carburante",
+      "aeroporti italiani"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "9af7e0dd5f8304ac",
     "slug": "calcio-manchester-city-batte-liverpool-4-0-e-vince-9af7e0dd5f8304ac",
     "title": "Calcio: Manchester City batte Liverpool 4-0 e vince la FA Cup 2026 a Wembley",
@@ -8763,24 +8781,6 @@
       "lite familiari funerale",
       "francesco di mauro",
       "cimitero ariano irpino"
-    ]
-  },
-  {
-    "id": "bc71872470cdee96",
-    "slug": "feltrinelli-raddoppia-lutile-73-milioni-nel-2025-bc71872470cdee96",
-    "title": "La Feltrinelli vola a +114,8%: utile netto a 7,3 milioni nel 2025",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-04-01T12:59:19.568105+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/8761636/pexels-photo-8761636.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "7,3 MILIONI DI UTILE, +115% IN UN ANNO",
-    "lead_preview": "7,3 milioni di euro di utile netto nel 2025, un salto del 114,8% rispetto all’anno precedente. È il risultato annunciato",
-    "tags": [
-      "la feltrinelli 2025",
-      "utile netto la feltrinelli",
-      "risultati la feltrinelli"
     ]
   }
 ]
