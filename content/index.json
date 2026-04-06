@@ -1,5 +1,24 @@
 [
   {
+    "id": "60ee15383b7670df",
+    "slug": "basket-luka-doncic-vola-in-europa-per-recuperare-l-60ee15383b7670df",
+    "title": "Basket: Dončić lascia gli USA, riabilitazione a Lubiana dopo infortunio",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-06T09:25:54.102919+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/abaa0c346100818b8eecb6bddb374dd6c2eb5550/skysport/it/nba/video/2026/03/26/luka-doncic-nba-la-lakers-video-1085350/luka_doncic_getty.jpg",
+    "occhiello": "",
+    "lead_preview": "Luka Dončić ha lasciato gli Stati Uniti il 5 aprile 2026 per trasferirsi in Europa con l'obiettivo di recuperare dalla l",
+    "tags": [
+      "basket",
+      "doncic",
+      "infortunio"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "6a9a7fc27b3f9911",
     "slug": "il-cairo-spegne-le-luci-e-chiude-i-negozi-alle-21-6a9a7fc27b3f9911",
     "title": "Cairo spenge le luci e chiude i negozi alle 21 per crisi energetica",
@@ -765,25 +784,6 @@
       "terremoto aquila 2009",
       "anniversario sisma aquila",
       "vittime terremoto aquila"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "60ee15383b7670df",
-    "slug": "basket-luka-doncic-vola-in-europa-per-recuperare-l-60ee15383b7670df",
-    "title": "Basket: Luka Dončić vola in Europa per recuperare l'infortunio in vista dei playoff",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-06T09:25:54.102919+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/abaa0c346100818b8eecb6bddb374dd6c2eb5550/skysport/it/nba/video/2026/03/26/luka-doncic-nba-la-lakers-video-1085350/luka_doncic_getty.jpg",
-    "occhiello": "DONCIC PUNTA AI PLAYOFF DA INFORTUNATO",
-    "lead_preview": "Luka Dončić ha deciso di tornare in Europa per curare la lesione di secondo grado al bicipite femorale sinistro rimediat",
-    "tags": [
-      "infortunio doncic",
-      "playoff nba",
-      "luka doncic europa"
     ],
     "hero_eligible": true
   },
