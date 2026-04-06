@@ -1,21 +1,21 @@
 {
   "id": "75bada6e26e1903d",
   "slug": "calcio-udinese-como-in-diretta-dazn-lunedi-6-april-75bada6e26e1903d",
-  "title": "Calcio: Udinese-Como in diretta DAZN lunedì 6 aprile alle 12.30",
+  "title": "Calcio: Udinese-Como alle 12.30",
   "titles": [
-    "Calcio: Udinese-Como in diretta DAZN lunedì 6 aprile alle 12.30",
-    "Calcio: DAZN in onda su Sky al canale 214 per Udinese-Como",
-    "Calcio: Sky Q e Glass, comando vocale attivo per vedere Udinese-Como"
+    "Calcio: Udinese-Como alle 12.30",
+    "Calcio: Cutrone contro Lucca",
+    "Calcio: Udinese-Como su DAZN alle 12.30"
   ],
   "title_winner": null,
   "section": "sport",
-  "occhiello": "UDINESE-COMO IN TV: IL CANALE GIUSTO",
-  "lead": "La partita tra Udinese e Como della 31^ giornata di Serie A si gioca lunedì 6 aprile alle 12.30 e sarà in diretta sulla app di DAZN e sul canale DAZN, disponibile al canale 214 del telecomando Sky. Gli abbonati Sky Q e Sky Glass che sono anche clienti DAZN, potranno accedere all'Offerta DAZN anche col controllo vocale, tramite il comando \"Apri DAZN\".",
-  "corpo1": "12.30 in diretta sull'app di DAZN, disponibile nella sezione App di Sky Q e Sky Glass. Gli abbonati Sky Q (via satellite o via internet) e Sky Glass che sono anche clienti DAZN, potranno accedere all'offerta DAZN anche col controllo vocale, tramite il comando \"Apri DAZN\". Su Sky Q e My Sky, la partita è visibile anche sul canale DAZN, disponibile al canale 214 del telecomando Sky. Per vedere i canali DAZN, i clienti DAZN devono aderire ad una specifica opzione disponibile all'interno dell'area \"il mio account\" su",
-  "corpo2": "dazn.com. Per abbonarsi a DAZN ed attivare l'opzione per vedere i canali DAZN su Sky Q o My Sky, è necessario andare su dazn.com/sky e seguire le indicazioni per la sottoscrizione. Le 10 partite di ogni turno di Serie A sono visibili sull'app di DAZN e sul canale DAZN, disponibile al canale 214 del telecomando Sky. La partita tra Udinese e Como è un evento importante per la Serie A, ed è naturale che gli abbonati a Sky Q e Sky Glass che sono anche clienti DAZN vogliano accedere all'offerta DAZN anche col controllo vocale. Questo potrebbe essere un vantaggio per gli abbonati che non vogliono lasciare il loro posto per accedere ai canali DAZN. Inoltre, la possibilità di vedere le 10 partite di ogni turno di Serie A sull'app di DAZN e sul canale DAZN è una convenienza per gli abbonati che vogliono seguire tutti i risultati del campionato. A pagare saranno i soliti, ovvero gli abbonati che non hanno la possibilità di accedere all'offerta DAZN anche col controllo vocale o che non vogliono sottoscrivere il servizio.",
+  "occhiello": "UDINESE-COMO IN DIRETTA SU DAZN OGGI ALLE 12.30",
+  "lead": "Udinese e Como si affrontano oggi alle 12.30 allo stadio Friuli per la 31ª giornata di Serie A. La partita sarà trasmessa in diretta su DAZN, come annunciato dalla società di streaming. I friulani, attualmente a metà classifica, cercano punti per consolidare la posizione, mentre il Como, neopromosso, cerca di allontanarsi dalla zona retrocessione con una vittoria.",
+  "corpo1": "L’incontro di oggi rappresenta una sfida cruciale per entrambe le squadre. L’Udinese, con 38 punti in classifica, punta a consolidare la posizione di centroclassifica, lontana dai rischi diretti di retrocessione ma ancora con qualche ambizione Europea. Il Como, invece, è a 25 punti e rischia di finire nella zona playoff-salvezza se non raccoglie risultati positivi nelle prossime gare. L’arbitro designato è Daniele Doveri, alla sua terza direzione in Serie A questa stagione. La formazione friulana dovrebbe schierare l’attaccante Lorenzo Lucca come punta Centrale, mentre il Como potrebbe puntare su Patrick Cutrone, ex Milan, per cercare gol in trasferta. La partita sarà visibile solo in abbonamento su DAZN, senza opzioni di chiaro sul digitale terrestre.",
+  "corpo2": "L’Udinese vive una stagione altalenante, con buone prestazioni in casa ma risultati deludenti in trasferta. La squadra di Gabriele Cioffi ha dimostrato di poter competere con le grandi, ma spesso cede contro avversarie di pari livello. Il Como, invece, è la classica rivelazione delle neopromosse: squadra organizzata, con un gioco spesso coraggioso, ma che paga la mancanza di esperienza nei momenti decisivi. Il fattore economico pesa: l’Udinese ha un budget nettamente superiore, ma il Como ha investito bene nei giovani, scommettendo su un progetto a medio termine. La posta in palio oggi non è solo sportiva: per l’Udinese, ogni punto in più significa avvicinarsi a un possibile piazzamento in Europa League o Conference League, con i relativi introiti. Per il Como, invece, la salvezza varrebbe circa 20 milioni di euro tra diritti TV e sponsor. A fine partita, qualcuno avrà già iniziato a contare i soldi, altri i danni.",
   "journalist": {
-    "id": "matteo_galli_01",
-    "firma": "Matteo Galli",
+    "id": "davide_longo_01",
+    "firma": "Davide Longo",
     "sezione": "sport"
   },
   "published_at": "2026-04-06T07:08:39.664471+00:00",
@@ -26,33 +26,34 @@
     "credit": "Sky Sport",
     "license": "editorial"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Calcio: Udinese-Como in diretta DAZN lunedì 6 aprile alle 12.30\",\n  \"description\": \"La partita tra Udinese e Como della 31^ giornata di Serie A si gioca lunedì 6 aprile alle 12.30 e sarà in diretta sulla app di DAZN e sul canale DAZN, disponibile al canale 214 del telecomando Sky. Gli abbonati Sky Q e Sky Glass che sono anche clienti DAZN, potranno accedere all'Offerta DAZN anche c\",\n  \"articleBody\": \"La partita tra Udinese e Como della 31^ giornata di Serie A si gioca lunedì 6 aprile alle 12.30 e sarà in diretta sulla app di DAZN e sul canale DAZN, disponibile al canale 214 del telecomando Sky. Gli abbonati Sky Q e Sky Glass che sono anche clienti DAZN, potranno accedere all'Offerta DAZN anche col controllo vocale, tramite il comando \\\"Apri DAZN\\\". 12.30 in diretta sull'app di DAZN, disponibile nella sezione App di Sky Q e Sky Glass. Gli abbonati Sky Q (via satellite o via internet) e Sky Glass che sono anche clienti DAZN, potranno accedere all'offerta DAZN anche col controllo vocale, tramite il comando \\\"Apri DAZN\\\". Su Sky Q e My Sky, la partita è visibile anche sul canale DAZN, disponibile al canale 214 del telecomando Sky. Per vedere i canali DAZN, i clienti DAZN devono aderire ad una specifica opzione disponibile all'interno dell'area \\\"il mio account\\\" su dazn.com. Per abbonarsi a DAZN ed attivare l'opzione per vedere i canali DAZN su Sky Q o My Sky, è necessario andare su dazn.com/sky e seguire le indicazioni per la sottoscrizione. Le 10 partite di ogni turno di Serie A sono visibili sull'app di DAZN e sul canale DAZN, disponibile al canale 214 del telecomando Sky. La partita tra Udinese e Como è un evento importante per la Serie A, ed è naturale che gli abbonati a Sky Q e Sky Glass che sono anche clienti DAZN vogliano accedere all'offerta DAZN anche col controllo vocale. Questo potrebbe essere un vantaggio per gli abbonati che non vogliono lasciare il loro posto per accedere ai canali DAZN. Inoltre, la possibilità di vedere le 10 partite di ogni turno di Serie A sull'app di DAZN e sul canale DAZN è una convenienza per gli abbonati che vogliono seguire tutti i risultati del campionato. A pagare saranno i soliti, ovvero gli abbonati che non hanno la possibilità di accedere all'offerta DAZN anche col controllo vocale o che non vogliono sottoscrivere il servizio.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Matteo Galli\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-06T07:08:39.664471+00:00\",\n  \"dateModified\": \"2026-04-06T07:08:39.664471+00:00\",\n  \"url\": \"https://lentemattutina.it/sport/75bada6e26e1903d\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/sport/75bada6e26e1903d\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://sport.sky.it/assets/images/d43f32396bd06c5f05f47e38e8771fbea621bcff/skysport/it/calcio/serie-a/partite/2025/giornata-14/udinese-genoa/Runjaic_ansa.jpg\",\n    \"creditText\": \"Sky Sport\"\n  }\n}",
-  "priority": 6,
-  "source": "Sky Sport",
-  "source_type": "competitor",
-  "original_url": "https://sport.sky.it/calcio/serie-a/2026/04/06/udinese-como-dove-vedere-tv-streaming",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Calcio: Udinese-Como alle 12.30\",\n  \"description\": \"Udinese e Como si affrontano oggi alle 12.30 allo stadio Friuli per la 31ª giornata di Serie A. La partita sarà trasmessa in diretta su DAZN, come annunciato dalla società di streaming. I friulani, attualmente a metà classifica, cercano punti per consolidare la posizione, mentre il Como, neopromosso\",\n  \"articleBody\": \"Udinese e Como si affrontano oggi alle 12.30 allo stadio Friuli per la 31ª giornata di Serie A. La partita sarà trasmessa in diretta su DAZN, come annunciato dalla società di streaming. I friulani, attualmente a metà classifica, cercano punti per consolidare la posizione, mentre il Como, neopromosso, cerca di allontanarsi dalla zona retrocessione con una vittoria. L’incontro di oggi rappresenta una sfida cruciale per entrambe le squadre. L’Udinese, con 38 punti in classifica, punta a consolidare la posizione di centroclassifica, lontana dai rischi diretti di retrocessione ma ancora con qualche ambizione Europea. Il Como, invece, è a 25 punti e rischia di finire nella zona playoff-salvezza se non raccoglie risultati positivi nelle prossime gare. L’arbitro designato è Daniele Doveri, alla sua terza direzione in Serie A questa stagione. La formazione friulana dovrebbe schierare l’attaccante Lorenzo Lucca come punta Centrale, mentre il Como potrebbe puntare su Patrick Cutrone, ex Milan, per cercare gol in trasferta. La partita sarà visibile solo in abbonamento su DAZN, senza opzioni di chiaro sul digitale terrestre. L’Udinese vive una stagione altalenante, con buone prestazioni in casa ma risultati deludenti in trasferta. La squadra di Gabriele Cioffi ha dimostrato di poter competere con le grandi, ma spesso cede contro avversarie di pari livello. Il Como, invece, è la classica rivelazione delle neopromosse: squadra organizzata, con un gioco spesso coraggioso, ma che paga la mancanza di esperienza nei momenti decisivi. Il fattore economico pesa: l’Udinese ha un budget nettamente superiore, ma il Como ha investito bene nei giovani, scommettendo su un progetto a medio termine. La posta in palio oggi non è solo sportiva: per l’Udinese, ogni punto in più significa avvicinarsi a un possibile piazzamento in Europa League o Conference League, con i relativi introiti. Per il Como, invece, la salvezza varrebbe circa 20 milioni di euro tra diritti TV e sponsor. A fine partita, qualcuno avrà già iniziato a contare i soldi, altri i danni.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Davide Longo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-06T07:08:39.664471+00:00\",\n  \"dateModified\": \"2026-04-06T07:08:39.664471+00:00\",\n  \"url\": \"https://lentemattutina.it/sport/75bada6e26e1903d\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/sport/75bada6e26e1903d\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://lentemattutina.it/sport/calcio-udinese-como-in-diretta-dazn-lunedi-6-april-75bada6e26e1903d",
   "related": [
     {
-      "title": "Calcio: Pisacane abbandona in diretta Sky Sport dopo la sconfitta del Cagliari",
-      "url": "/sport/calcio-pisacane-lascia-in-sospeso-le-sue-parole-do-a278dc910d8780b1",
-      "id": "a278dc910d8780b1",
-      "image_url": "https://images.unsplash.com/photo-1668891653884-d81508fe7f4f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxGYWJpbyUyMFBpc2FjYW5lfGVufDB8MHx8fDE3NzUzOTIzMzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "image_type": "unsplash"
-    },
-    {
-      "title": "Calcio: Sassuolo-Cagliari il 4 aprile a Reggio Emilia, Orsato arbitrerà dopo i cambi",
-      "url": "/sport/calcio-sassuolo-cagliari-sabato-ec3cbe4c38650a18",
-      "id": "ec3cbe4c38650a18",
-      "image_url": "https://live.staticflickr.com/65535/55187256813_dc79c9a7d7_b.jpg",
-      "image_type": "flickr"
-    },
-    {
-      "title": "Calcio: Lecco batte Vicenza 2-0 e vola a 48 punti, a -6 dalla promozione diretta",
-      "url": "/sport/calcio-lecco-batte-lr-vicenza-2-0-doppietta-di-bia-c304985c682efb1c",
-      "id": "c304985c682efb1c",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/004653_Tommaso_-_orbit-viewer-snapshot.png",
+      "title": "Calcio: 4 squadre a Perth",
+      "url": "/sport/calcio-inter-juve-milan-e-palermo-in-amichevole-a-12b3da1394f6d59f",
+      "id": "12b3da1394f6d59f",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Inter_milan_academy.jpg",
       "image_type": "wikimedia"
+    },
+    {
+      "title": "Calcio: Calhanoglu segna da 50 metri contro la Roma",
+      "url": "/sport/calcio-calhanoglu-sfonda-record-con-gol-da-50-metr-b8aac6254aefbdd6",
+      "id": "b8aac6254aefbdd6",
+      "image_url": "https://sport.sky.it/assets/images/b850ad45b592be862cf7946f682e7c2cd1d63102/skysport/it/calcio/serie-a/video/2026/04/06/1087950_1775425800988_thumb_494.0000001_1775426469309.jpg",
+      "image_type": "feed_image"
+    },
+    {
+      "title": "Buffon, Cannavaro e Agnelli presentano il piano per il calcio italiano",
+      "url": "/sport/buffon-cannavaro-e-agnelli-presentano-il-piano-per-af8d3d15c12214dd",
+      "id": "af8d3d15c12214dd",
+      "image_url": "https://sport.sky.it/assets/images/1fc445a6b221b3314714748c27fb2a3f1920f0b1/skysport/it/calcio/nazionale/video/2026/04/06/1087957_1775426831590_thumb_494.0000001_1775458765690.jpg",
+      "image_type": "feed_image"
     }
   ],
-  "hero_eligible": true
+  "hero_eligible": true,
+  "updated_at": "2026-04-06T07:08:39.664471+00:00"
 }
