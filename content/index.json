@@ -1,5 +1,23 @@
 [
   {
+    "id": "3137605a102228aa",
+    "slug": "il-governo-britannico-vuole-mortificare-i-diritti-3137605a102228aa",
+    "title": "Regno Unito, PIL a 0,2%: Governo chiede revisione norme lavoro",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-05T06:15:51.087942+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/36100303/pexels-photo-36100303.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "REGNO UNITO VIRA SU RIGORE REGOLATORIO PER LE IMPRESE",
+    "lead_preview": "Il Governo britannico ha chiesto, il 5 aprile 2026, all'Agenzia per i diritti del lavoro di avviare una revisione delle ",
+    "tags": [
+      "pil regno unito",
+      "norme lavoro uk"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "a07e7182d757e880",
     "slug": "hidalgo-trasforma-parigi--40-smog-e-400mila-bici-a-a07e7182d757e880",
     "title": "Parigi completa 1.000 km di piste ciclabili dopo dieci anni di lavori",
@@ -105,23 +123,6 @@
     "tags": [
       "veglia per la pace",
       "papa francesco"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "3137605a102228aa",
-    "slug": "il-governo-britannico-vuole-mortificare-i-diritti-3137605a102228aa",
-    "title": "Regno Unito, Governo chiede revisione norme lavoro per alleggerire imprese",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-05T06:15:51.087942+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/36100303/pexels-photo-36100303.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "REGNO UNITO CHIEDE RIFORMA NORME LAVORO",
-    "lead_preview": "Il Governo britannico ha chiesto il 5 aprile 2026 all'Agenzia per i diritti del lavoro di avviare una revisione delle no",
-    "tags": [
-      "riforma lavoro uk"
     ],
     "hero_eligible": true
   },
