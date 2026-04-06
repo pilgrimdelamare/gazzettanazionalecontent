@@ -1,5 +1,24 @@
 [
   {
+    "id": "523fd65f1085bbab",
+    "slug": "calcio-udinese-blocca-il-como-0-0-a-bergamo-interr-523fd65f1085bbab",
+    "title": "Calcio: Udinese blocca il Como 0-0 a Bergamo, interrotta la Serie positiva dei lariani",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-06T12:59:19.636180+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/6/09f6e3a3db2b36b8d9b7e4c7fce2ff98.jpg",
+    "occhiello": "",
+    "lead_preview": "L'Udinese ha bloccato Il Como sullo 0-0 allo stadio sinigaglia, sabato 4 aprile 2026, interrompendo la Serie positiva de",
+    "tags": [
+      "udinese-como 2026",
+      "serie b 2026",
+      "salvezza serie b"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "06f0417fa852e4b7",
     "slug": "76enne-operato-al-colon-senza-anestesia-generale-a-06f0417fa852e4b7",
     "title": "76Enne operato al colon senza anestesia generale alle Molinette di Torino",
@@ -8848,23 +8867,6 @@
     "tags": [
       "rimpasto governo",
       "crisi governo meloni"
-    ]
-  },
-  {
-    "id": "d7f0f55f7f91575c",
-    "slug": "terrorismi-a-teheran-funerali-e-messaggi-di-vendet-d7f0f55f7f91575c",
-    "title": "84 morti in Iran, Pezeshkian: 'Risposta dura'",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-01T16:49:12.064794+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Masoud_Pezeshkian_in_2025_%28cropped%29.jpg",
-    "occhiello": "ATTACCO A KERMAN: PEZESHKIAN MINACCIA RITORSIONI",
-    "lead_preview": "Il presidente iraniano Masoud Pezeshkian ha dichiarato che le forze di sicurezza esigeranno una \"risposta dura e precisa",
-    "tags": [
-      "attentato iran",
-      "crisi iran"
     ]
   }
 ]
