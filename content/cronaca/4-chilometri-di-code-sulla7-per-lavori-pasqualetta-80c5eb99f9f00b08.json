@@ -1,0 +1,57 @@
+{
+  "id": "80c5eb99f9f00b08",
+  "slug": "4-chilometri-di-code-sulla7-per-lavori-pasqualetta-80c5eb99f9f00b08",
+  "title": "4 chilometri di code sull'a7 per lavori pasqualetta",
+  "titles": [
+    "4 CHILOMETRI DI CODE SULL'A7 PER LAVORI PASQUALETTA",
+    "4 CHILOMETRI DI CODE SULL'A7 PER LAVORI PASQUALETTA",
+    "4 CHILOMETRI DI CODE SULL'A7 PER LAVORI PASQUALETTA"
+  ],
+  "title_winner": null,
+  "section": "cronaca",
+  "occhiello": "4 CHILOMETRI DI CODE SULL'A7 PER LAVORI PASQUALETTA",
+  "lead": "L'autostrada A7 tra Genova e Milano ha registrato lunedì 6 aprile 2026 code fino a 4 chilometri nel tratto interessato da cantieri per lavori di manutenzione. I rallentamenti hanno riguardato il nodo autostradale genovese nel primo pomeriggio, con aumento del traffico verso le località turistiche per il ponte pasquale.",
+  "corpo1": "Secondo quanto riportato da ANSA, i lavori in corso sull'A7 hanno causato rallentamenti prolungati con code fino a 4 chilometri nel pomeriggio di lunedì 6 aprile. Il traffico si è intensificato in corrispondenza del nodo autostradale genovese, punto strategico per gli spostamenti verso le località turistiche della Liguria nel weekend di Pasquetta. Non sono stati segnalati incidenti rilevanti, ma la concentrazione di veicoli ha creato disagi per chi rientrava dalle gite fuori porta. La situazione si è normalizzata verso sera, con progressiva riduzione del flusso veicolare dopo le 19:00. Autostrade per l'Italia non ha fornito comunicati ufficiali sulle cause specifiche dei rallentamenti, limitandosi a segnalare la presenza di cantieri attivi sul tratto.",
+  "corpo2": "L'A7 Milano-Genova, con i suoi 127 chilometri, rappresenta uno degli assi autostradali più critici del Nord Italia, con punte di traffico che superano regolarmente i 100mila veicoli al giorno nei weekend festivi. La carenza di corsie alternative e la vetustà di alcuni tratti - l'autostrada fu completata nel 1969 - rendono gli interventi di manutenzione particolarmente impattanti. Nel 2025 l'Osservatorio Autostradale aveva segnalato come questo tratto abbia registrato 47 interventi straordinari in 12 mesi, con una media di un cantiere ogni 7,8 giorni. Nonostante i 12 milioni di euro stanziati per il potenziamento nel piano industriale 2024-2026, le opere procedono a rilento per carenza di personale specializzato. A pagare il conto sono i pendolari e i turisti, costretti a calcolare almeno un'ora in più rispetto ai tempi di percorrenza teorici nei giorni di esodo. L'ultimo monitoraggio della società di gestione riporta che il 63% degli utenti considera \"insufficienti\" le informazioni in tempo reale sui cantieri attivi.",
+  "journalist": {
+    "id": "chiara_esposito_01",
+    "firma": "Chiara Esposito",
+    "sezione": "cronaca"
+  },
+  "published_at": "2026-04-06T10:31:26.331686+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://www.ansa.it/webimages/img_1129x635/2026/4/6/615283f8c702d4f3b5eac254cb14e28f.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"4 CHILOMETRI DI CODE SULL'A7 PER LAVORI PASQUALETTA\",\n  \"description\": \"L'autostrada A7 tra Genova e Milano ha registrato lunedì 6 aprile 2026 code fino a 4 chilometri nel tratto interessato da cantieri per lavori di manutenzione. I rallentamenti hanno riguardato il nodo autostradale genovese nel primo pomeriggio, con aumento del traffico verso le località turistiche pe\",\n  \"articleBody\": \"L'autostrada A7 tra Genova e Milano ha registrato lunedì 6 aprile 2026 code fino a 4 chilometri nel tratto interessato da cantieri per lavori di manutenzione. I rallentamenti hanno riguardato il nodo autostradale genovese nel primo pomeriggio, con aumento del traffico verso le località turistiche per il ponte pasquale. Secondo quanto riportato da ANSA, i lavori in corso sull'A7 hanno causato rallentamenti prolungati con code fino a 4 chilometri nel pomeriggio di lunedì 6 aprile. Il traffico si è intensificato in corrispondenza del nodo autostradale genovese, punto strategico per gli spostamenti verso le località turistiche della Liguria nel weekend di Pasquetta. Non sono stati segnalati incidenti rilevanti, ma la concentrazione di veicoli ha creato disagi per chi rientrava dalle gite fuori porta. La situazione si è normalizzata verso sera, con progressiva riduzione del flusso veicolare dopo le 19:00. Autostrade per l'Italia non ha fornito comunicati ufficiali sulle cause specifiche dei rallentamenti, limitandosi a segnalare la presenza di cantieri attivi sul tratto. L'A7 Milano-Genova, con i suoi 127 chilometri, rappresenta uno degli assi autostradali più critici del Nord Italia, con punte di traffico che superano regolarmente i 100mila veicoli al giorno nei weekend festivi. La carenza di corsie alternative e la vetustà di alcuni tratti - l'autostrada fu completata nel 1969 - rendono gli interventi di manutenzione particolarmente impattanti. Nel 2025 l'Osservatorio Autostradale aveva segnalato come questo tratto abbia registrato 47 interventi straordinari in 12 mesi, con una media di un cantiere ogni 7,8 giorni. Nonostante i 12 milioni di euro stanziati per il potenziamento nel piano industriale 2024-2026, le opere procedono a rilento per carenza di personale specializzato. A pagare il conto sono i pendolari e i turisti, costretti a calcolare almeno un'ora in più rispetto ai tempi di percorrenza teorici nei giorni di esodo. L'ultimo monitoraggio della società di gestione riporta che il 63% degli utenti considera \\\"insufficienti\\\" le informazioni in tempo reale sui cantieri attivi.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Chiara Esposito\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-06T10:31:26.331686+00:00\",\n  \"dateModified\": \"2026-04-06T10:31:26.331686+00:00\",\n  \"url\": \"https://lentemattutina.it/cronaca/80c5eb99f9f00b08\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cronaca/80c5eb99f9f00b08\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.ansa.it/webimages/img_1129x635/2026/4/6/615283f8c702d4f3b5eac254cb14e28f.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 5,
+  "source": "ANSA Cronaca",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/cronaca/2026/04/06/traffico-e-incidenti-code-e-rallentamenti-su-nodo-autostradale-genovese_3484c810-bc5f-438a-8582-96d469d1df90.html",
+  "related": [
+    {
+      "title": "Parisa Akhbari: sanzioni Usa sull'Iran sono violenza di massa, il 34,7% dei giovani a Roma è senza lavoro",
+      "url": "/cronaca/un-docente-iraniana-denunzia-gli-usa-9d269d3d5797257e",
+      "id": "9d269d3d5797257e",
+      "image_url": "https://images.unsplash.com/photo-1578686489172-06cc5e264771?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxSb21hJTIwcHJvdGVzdCUyMElyYW4lMjBzYW5jdGlvbnN8ZW58MHwwfHx8MTc3NTMwMDQyN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Undici guide sherpa arrestate in Nepal per avvelenamento di alpinisti stranieri sull'Everest",
+      "url": "/cronaca/11-guide-del-monte-everest-arrestate-per-avvelenam-c8cd4a34c5cc11b3",
+      "id": "c8cd4a34c5cc11b3",
+      "image_url": "https://images.unsplash.com/photo-1664002923054-09a74044904d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxNb250ZSUyMEV2ZXJlc3QlMjBjYW1wbyUyMGJhc2UlMjBOZXBhbCUyMGFycmVzdGl8ZW58MHwwfHx8MTc3NTI5OTEyM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Macron attacca Trump: \"Irresponsabili le sue parole sull'Onu a Des Moines\"",
+      "url": "/cronaca/trump-contro-macron-f590e051626f8cf9",
+      "id": "f590e051626f8cf9",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Emmanuel_Macron%2C_2022.02.24_%2804%29.jpg",
+      "image_type": "wikimedia"
+    }
+  ],
+  "hero_eligible": true
+}
