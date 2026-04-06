@@ -1,5 +1,24 @@
 [
   {
+    "id": "c46756f63bfbacb3",
+    "slug": "di-canio-critica-leao-c46756f63bfbacb3",
+    "title": "Di Canio attacca Leão: 'Non si adatta mai al gioco del Milan'",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-06T00:48:59.706373+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/05/192925227-d7cda450-656a-4a8d-a79a-affa08d646a9.jpg",
+    "occhiello": "DI CANIO CRITICA LEÃO",
+    "lead_preview": "Paolo Di Canio, ex attaccante del Milan e commentatore sportivo, ha criticato oggi, 6 aprile, l'atteggiamento del numero",
+    "tags": [
+      "di canio critica leão",
+      "leão milan",
+      "paolo di canio"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "05eec2094129297c",
     "slug": "calcio-italia-fuori-dai-mondiali-2026-per-mano-del-05eec2094129297c",
     "title": "Calcio: Italia fuori dai Mondiali 2026 per mano della Bosnia, crolla il sistema",
@@ -2458,24 +2477,6 @@
     "occhiello": "SKY SI AGGIUDICA I QUARTI DI CHAMPIONS",
     "lead_preview": "Martedì 5 aprile 2026, sky detiene l'esclusiva televisiva dei quarti di finale della Champions League",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "c46756f63bfbacb3",
-    "slug": "di-canio-critica-leao-c46756f63bfbacb3",
-    "title": "Di Canio critica Leão",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-06T00:48:59.706373+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/05/192925227-d7cda450-656a-4a8d-a79a-affa08d646a9.jpg",
-    "occhiello": "DI CANIO CRITICA LEAO",
-    "lead_preview": "Paolo di Canio, ex attaccante e voce di sky, ha criticato l'atteggiamento di leão, il numero 10 del Milan, definendolo",
-    "tags": [
-      "di canio leao",
-      "milan calcio"
-    ],
     "hero_eligible": true
   },
   {
