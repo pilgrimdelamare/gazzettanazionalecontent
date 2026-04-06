@@ -1,5 +1,24 @@
 [
   {
+    "id": "d0e5afeafd7824a1",
+    "slug": "esplosivi-vicino-gasdotto-turkstream-d0e5afeafd7824a1",
+    "title": "Due zaini con esplosivo trovati lungo il gasdotto TurkStream in Serbia",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Sergio Mancini",
+    "published_at": "2026-04-05T17:32:34.313405+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/33257776/pexels-photo-33257776.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "ESPLOSI PIÙ DI DUE ZAINI NELLA SERBIA DELL'EST",
+    "lead_preview": "Aleksandar Vučić ha annunciato il 5 aprile 2026 che forze dell’ordine e militari serbi hanno scoperto dUE zaini con espl",
+    "tags": [
+      "turkstream",
+      "esplosivi",
+      "serbia"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "d95785ff29745bf5",
     "slug": "calcio-parma-ko-2-1-con-bologna-daversa-nel-second-d95785ff29745bf5",
     "title": "Calcio: Bologna-Parma 2-1, il secondo tempo dei crociati affossa D'Aversa",
@@ -2010,21 +2029,6 @@
     "tags": [
       "coppa inghilterra"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "d0e5afeafd7824a1",
-    "slug": "esplosivi-vicino-gasdotto-turkstream-d0e5afeafd7824a1",
-    "title": "Esplosivi vicino al gasdotto. serbia accusa, budapest punta il dito",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Elena Russo",
-    "published_at": "2026-04-05T17:32:34.313405+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/33257776/pexels-photo-33257776.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "ESPLOSIVI VICINO AL GASDOTTO. SERBIA ACCUSA, BUDAPEST PUNTA IL DITO",
-    "lead_preview": "Il presidente serbo Aleksandar Vucic ha annunciato il 5 aprile 2026 che esercito e polizia hanno scoperto due zaini cont",
-    "tags": [],
     "hero_eligible": true
   },
   {
