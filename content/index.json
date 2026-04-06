@@ -1,5 +1,23 @@
 [
   {
+    "id": "b8aac6254aefbdd6",
+    "slug": "calcio-calhanoglu-sfonda-record-con-gol-da-50-metr-b8aac6254aefbdd6",
+    "title": "Calcio: Calhanoglu segna da 50 metri contro la Roma",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-05T22:29:07.136845+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/b850ad45b592be862cf7946f682e7c2cd1d63102/skysport/it/calcio/serie-a/video/2026/04/06/1087950_1775425800988_thumb_494.0000001_1775426469309.jpg",
+    "occhiello": "CALHANOGLU SEGNA DA 50 METRI",
+    "lead_preview": "Hakan Calhanoglu ha segnato un gol da 50 metri all'8' del primo tempo della partita contro la Roma a San Siro",
+    "tags": [
+      "calhanoglu",
+      "roma inter"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "752727f865538164",
     "slug": "veronica-ruggeri-rivela-a-verissimo-la-fine-con-ni-752727f865538164",
     "title": "Veronica Ruggeri annuncia a Verissimo la fine della storia con Niccolò de Vitiis",
@@ -2082,25 +2100,6 @@
     "tags": [
       "kate middleton",
       "tumore kate middleton"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "b8aac6254aefbdd6",
-    "slug": "calcio-calhanoglu-sfonda-record-con-gol-da-50-metr-b8aac6254aefbdd6",
-    "title": "Calcio: Hakan Calhanoglu segna da 50 metri all'8' contro la Roma a San Siro",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-05T22:29:07.136845+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/b850ad45b592be862cf7946f682e7c2cd1d63102/skysport/it/calcio/serie-a/video/2026/04/06/1087950_1775425800988_thumb_494.0000001_1775426469309.jpg",
-    "occhiello": "UN GOL DA 50 METRI FA CANTARE LA INTER",
-    "lead_preview": "Hakan Calhanoglu, il centrocampista dell'Inter, ha segnato un gol da 50 metri all'8' del primo tempo della partita contr",
-    "tags": [
-      "gol calhanoglu",
-      "inter-roma 2026",
-      "calhanoglu da 50 metri"
     ],
     "hero_eligible": true
   },
