@@ -1,5 +1,20 @@
 [
   {
+    "id": "4eb921162571ecc8",
+    "slug": "copenaghen-e-la-citta-piu-felice-del-mondo-per-il-4eb921162571ecc8",
+    "title": "Copenaghen, la Città più felice del mondo per il secondo anno",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-06T06:38:21.931250+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/04/170134286-e6ee06a7-98fd-4f39-b374-3acb2ec5985a.jpg",
+    "occhiello": "COPENAGHEN RICONFERMATA CITTÀ PIÙ FELICE",
+    "lead_preview": "Copenaghen, 6 aprile 2026 – la capitale danese è stata confermata come la città più felice del mondo per il secondo anno",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "b8aac6254aefbdd6",
     "slug": "calcio-calhanoglu-sfonda-record-con-gol-da-50-metr-b8aac6254aefbdd6",
     "title": "Calcio: Calhanoglu segna da 50 metri contro la Roma",
@@ -992,25 +1007,6 @@
       "minatori donetsk",
       "attacco ucraino",
       "miniera russa"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "4eb921162571ecc8",
-    "slug": "copenaghen-e-la-citta-piu-felice-del-mondo-per-il-4eb921162571ecc8",
-    "title": "Copenaghen è la Città più felice del Mondo per il secondo anno",
-    "section": "sport",
-    "priority": 4,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-06T06:38:21.931250+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/04/170134286-e6ee06a7-98fd-4f39-b374-3acb2ec5985a.jpg",
-    "occhiello": "COPENAGHEN, LA CITTÀ PIÙ FELICE DEL MONDO",
-    "lead_preview": "Copenaghen, 6 aprile 2026 – La capitale danese è stata confermata come la città più felice del mondo per il secondo anno",
-    "tags": [
-      "copenaghen felice",
-      "happy city index",
-      "città felice"
     ],
     "hero_eligible": true
   },
