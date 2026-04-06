@@ -1,5 +1,24 @@
 [
   {
+    "id": "a38031a008cd29e1",
+    "slug": "dow-jones-crolla-dello-006-mentre-nasdaq-guadagna-a38031a008cd29e1",
+    "title": "Dow Jones crolla dello 0,06% mentre Nasdaq guadagna 0,36%",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-06T13:46:52.114838+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/23/c75f5e676a3c3cb713d32f5df34c161a.jpg",
+    "occhiello": "WALL STREET GIOCA A RIDOTTO, I SOLITI GUADAGNANO LO STESSO",
+    "lead_preview": "Il 6 aprile 2026 Wall Street ha chiuso una seduta contrastata con il Dow Jones in calo dello 0,06% e il Nasdaq in rialzo",
+    "tags": [
+      "dow jones 2026",
+      "nasdaq 2026",
+      "wall street"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "9af7e0dd5f8304ac",
     "slug": "calcio-manchester-city-batte-liverpool-4-0-e-vince-9af7e0dd5f8304ac",
     "title": "Calcio: Manchester City vince FA Cup 4-0 contro Liverpool con Lijnders in panchina",
@@ -8854,19 +8873,5 @@
       "trump",
       "elezioni usa"
     ]
-  },
-  {
-    "id": "5e42a298ecf7837d",
-    "slug": "visco-a-roma-crisi-iran-potrebbe-portare-inflazion-5e42a298ecf7837d",
-    "title": "Panetta: crisi iran minaccia i vostri mutui",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-02T09:18:03.670219+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/14136477/pexels-photo-14136477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "PANETTA: CRISI IRAN MINACCIA I VOSTRI MUTUI",
-    "lead_preview": "Ignazio Panetta, governatore della Banca d’Italia, ha avvertito il 2 aprile 2026 che la crisi in Iran potrebbe avere rip",
-    "tags": []
   }
 ]
