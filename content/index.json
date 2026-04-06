@@ -1,5 +1,23 @@
 [
   {
+    "id": "a15faced2e5325cd",
+    "slug": "vignetta-satirica-su-piantedosi-nelledizione-di-fa-a15faced2e5325cd",
+    "title": "Natangelo scatena polemica con vignetta",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-04-05T07:01:52.475425+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/12126369/pexels-photo-12126369.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "POLEMICA SU LINUS",
+    "lead_preview": "Mario Natangelo ha pubblicato il 5 aprile 2026 una vignetta intitolata “tira di più” sull’edizione cartacea di “Linus”, ",
+    "tags": [
+      "polemica linus",
+      "vignetta natangelo"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "eda8213e4416e6a1",
     "slug": "don-carlo-giorgi-celebra-pasqua-in-mezzo-ai-bombar-eda8213e4416e6a1",
     "title": "Don Carlo Giorgi celebra Pasqua a Beirut sotto esplosioni ad Ashrafieh",
@@ -1491,24 +1509,6 @@
       "calcio",
       "ascoli",
       "vis pesaro"
-    ]
-  },
-  {
-    "id": "a15faced2e5325cd",
-    "slug": "vignetta-satirica-su-piantedosi-nelledizione-di-fa-a15faced2e5325cd",
-    "title": "Natangelo pubblica su Linus una vignetta con fucile a svastica, scatta la polemica sulle armi italiane",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Chiara Esposito",
-    "published_at": "2026-04-05T07:01:52.475425+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/12126369/pexels-photo-12126369.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "UNA VIGNETTA SULLE ARMI AI PALESTINESI",
-    "lead_preview": "Mario Natangelo ha pubblicato il 5 aprile 2026 una vignetta intitolata “Tira di più” sull’edizione cartacea di “Linus”, ",
-    "tags": [
-      "vignetta natangelo",
-      "polemica armi italiane",
-      "caso linus"
     ]
   },
   {
