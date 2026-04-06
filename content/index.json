@@ -1,5 +1,24 @@
 [
   {
+    "id": "de634ef269f81cec",
+    "slug": "lavrov-sventa-gli-ultimatum-usa-alliran-de634ef269f81cec",
+    "title": "Lavrov a Usa: stop agli ultimatum all'Iran, dialogo senza condizioni a Mosca il 5 aprile",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-05T16:45:55.802906+00:00",
+    "image_type": "flickr",
+    "image_url": "https://live.staticflickr.com/65535/55188234224_d38fb70106_b.jpg",
+    "occhiello": "LAVROV ATTACCA GLI ULTIMATUM USA ALL’IRAN",
+    "lead_preview": "Sergey Lavrov ha chiesto agli Stati Uniti di abbandonare gli ultimatum all’Iran durante un incontro diplomatico a Mosca ",
+    "tags": [
+      "lavrov iran",
+      "diplomazia mosca",
+      "tensioni usa-iran"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "bffc143f43b6c40c",
     "slug": "tennis-humbert-affronta-sinner-a-monte-carlo-oggi-bffc143f43b6c40c",
     "title": "Tennis: Humbert sfida Sinner a Monte-Carlo dopo il derby con Musetti",
@@ -2291,24 +2310,6 @@
       "naufragio libia",
       "migranti lampedusa",
       "sbarchi 2026"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "de634ef269f81cec",
-    "slug": "lavrov-sventa-gli-ultimatum-usa-alliran-de634ef269f81cec",
-    "title": "Russia: no agli ultimatum Usa all'Iran",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-05T16:45:55.802906+00:00",
-    "image_type": "flickr",
-    "image_url": "https://live.staticflickr.com/65535/55188234224_d38fb70106_b.jpg",
-    "occhiello": "LAVROV CHIEDE A USA DI TOLIERE IRAN",
-    "lead_preview": "Il ministro degli Esteri russo Sergey Lavrov ha chiesto agli Stati Uniti di abbandonare gli ultimatum all'Iran durante u",
-    "tags": [
-      "crisi iran",
-      "russia usa"
     ],
     "hero_eligible": true
   },
