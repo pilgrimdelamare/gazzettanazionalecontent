@@ -1,5 +1,24 @@
 [
   {
+    "id": "1880a22d6003eb31",
+    "slug": "lindia-punta-al-60-di-elettricita-green-entro-il-2-1880a22d6003eb31",
+    "title": "India punta al 60% di rinnovabili entro il 2035, accelerata su solare ed eolico",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-05T10:20:47.645229+00:00",
+    "image_type": "ddg_image",
+    "image_url": "https://www.teriin.org/sites/default/files/inline-images/India-NDC-briefing-Cover-Page.jpg",
+    "occhiello": "INDIA: 60% ENERGIA DA FONTI VERDI ENTRO 2035",
+    "lead_preview": "Nuova Delhi, 5 aprile 2026. L’India, terzo emettitore Mondiale di gas serra, ha annunciato domenica 5 aprile l’obiettivo",
+    "tags": [
+      "india rinnovabili 2035",
+      "energia solare india",
+      "transizione energetica india"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "rassegnista_daily",
     "slug": "rassegna-stampa",
     "title": "Le prime pagine di oggi, lunedì 6 aprile 2026",
@@ -1639,24 +1658,6 @@
       "infortunio vildoza",
       "virtus bologna",
       "serie a basket"
-    ]
-  },
-  {
-    "id": "1880a22d6003eb31",
-    "slug": "lindia-punta-al-60-di-elettricita-green-entro-il-2-1880a22d6003eb31",
-    "title": "India punta al 60% di rinnovabili entro il 2035: il piano da Nuova Delhi",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-05T10:20:47.645229+00:00",
-    "image_type": "ddg_image",
-    "image_url": "https://www.teriin.org/sites/default/files/inline-images/India-NDC-briefing-Cover-Page.jpg",
-    "occhiello": "INDIA: OBIETTIVO DI 60% DI ELETTRICITÀ RINNOVABILE ENTRO IL 2035",
-    "lead_preview": "Nuova Delhi, 5 aprile 2026. L'India, terzo emettitore mondiale di gas serra, ha annunciato domenica 5 aprile l'obiettivo",
-    "tags": [
-      "india rinnovabili 2035",
-      "transizione energetica india",
-      "obiettivo climatico india"
     ]
   },
   {
