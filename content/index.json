@@ -1,5 +1,23 @@
 [
   {
+    "id": "a5a312cc10e02740",
+    "slug": "emily-peck-cold-plunge-il-momento-giusto-per-il-ma-a5a312cc10e02740",
+    "title": "Emily Peck: Cold plunge, il momento giusto per il Massimo beneficio",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-04-06T04:48:36.748893+00:00",
+    "image_type": "image",
+    "image_url": "https://media-assets.wired.it/photos/69cfc85a4faea638f5157158/16:9/w_1280,c_limit/2227493689",
+    "occhiello": "COLD PLUNGE PRIMA O DOPO ALLENAMENTO",
+    "lead_preview": "Emily Peck, giornalista di Wired Italia, ha chiesto agli esperti come trarre il Massimo beneficio dalle immersioni in ac",
+    "tags": [
+      "cold plunge",
+      "allenamento sportivo"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "4435391bdbf7ee9a",
     "slug": "pizzaballa-pace-non-e-solo-tregua-4435391bdbf7ee9a",
     "title": "Patriarca di Gerusalemme: 17mila soldati in West Bank non portano pace ma occupazione",
@@ -8718,23 +8736,6 @@
     "tags": [
       "attacco ransomware cardarelli",
       "ospedale cardarelli napoli"
-    ]
-  },
-  {
-    "id": "a5ea886cc00e6723",
-    "slug": "notizia-in-primo-piano-a5ea886cc00e6723",
-    "title": "Rubio: Washington 'riesamina' questione misteriosa",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-01T03:32:06.943623+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Marco_Rubio_%2824634232483%29.jpg",
-    "occhiello": "RUBIO ANNUNCIA RIESAME A WASHINGTON",
-    "lead_preview": "Marco Rubio, segretario di Stato degli Stati Uniti, ha annunciato il 1° aprile 2026 che Washington dovrà \"riesamin\" una ",
-    "tags": [
-      "rubio washington",
-      "riesame washington"
     ]
   }
 ]
