@@ -1,0 +1,57 @@
+{
+  "id": "c7551c7ae323a1fa",
+  "slug": "levante-in-tour-10-concerti-estivi-c7551c7ae323a1fa",
+  "title": "Levante in tour: 10 concerti estivi",
+  "titles": [
+    "Levante in tour: 10 concerti estivi",
+    "Francesca Lavezzini si esibirà in 10 date",
+    "10 Concerti di Levante dal 3 luglio"
+  ],
+  "title_winner": null,
+  "section": "cultura",
+  "occhiello": "LEVANTE IN TOUR ESTIVO 2026",
+  "lead": "Levante annuncia 10 concerti per l'estate 2026. La cantante Italiana partirà per un tour nei club in primavera, per poi approdare sui palchi delle rassegne estive a partire dal 3 luglio.",
+  "corpo1": "Levante, nome d'arte di Francesca Lavezzini, sarà protagonista di un tour estivo che la vedrà esibirsi in 10 concerti. In primavera sarà nei club, a luglio nei festival. , ma la notizia è stata diffusa attraverso un comunicato stampa.",
+  "corpo2": "Levante è una cantante e songwriter Italiana che ha guadagnato popolarità negli ultimi anni grazie al suo stile unico e alla sua capacità di creare musica che spazia tra generi diversi. Il suo ultimo album, pubblicato nel 2022, ha riscosso un grande successo di critica e pubblico, posizionandosi nelle prime posizioni delle classifiche musicali italiane. Il tour estivo del 2026 rappresenta quindi un importante passo per la carriera di Levante, che con questo progetto continua a consolidare la sua presenza nel panorama musicale italiano. saranno i fan a pagare per vederla dal vivo, che potranno così apprezzare dal vivo la sua musica.",
+  "journalist": {
+    "id": "laura_bianchi_01",
+    "firma": "Laura Bianchi",
+    "sezione": "cultura"
+  },
+  "published_at": "2026-04-07T22:46:15.585814+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://www.ansa.it/webimages/img_1129x635/2026/3/8/eb821069014bc3d8c811ff44eac261cc.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Levante in tour: 10 concerti estivi\",\n  \"description\": \"Levante annuncia 10 concerti per l'estate 2026. La cantante Italiana partirà per un tour nei club in primavera, per poi approdare sui palchi delle rassegne estive a partire dal 3 luglio.\",\n  \"articleBody\": \"Levante annuncia 10 concerti per l'estate 2026. La cantante Italiana partirà per un tour nei club in primavera, per poi approdare sui palchi delle rassegne estive a partire dal 3 luglio. Levante, nome d'arte di Francesca Lavezzini, sarà protagonista di un tour estivo che la vedrà esibirsi in 10 concerti. In primavera sarà nei club, a luglio nei festival. , ma la notizia è stata diffusa attraverso un comunicato stampa. Levante è una cantante e songwriter Italiana che ha guadagnato popolarità negli ultimi anni grazie al suo stile unico e alla sua capacità di creare musica che spazia tra generi diversi. Il suo ultimo album, pubblicato nel 2022, ha riscosso un grande successo di critica e pubblico, posizionandosi nelle prime posizioni delle classifiche musicali italiane. Il tour estivo del 2026 rappresenta quindi un importante passo per la carriera di Levante, che con questo progetto continua a consolidare la sua presenza nel panorama musicale italiano. saranno i fan a pagare per vederla dal vivo, che potranno così apprezzare dal vivo la sua musica.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Laura Bianchi\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-07T22:46:15.585814+00:00\",\n  \"dateModified\": \"2026-04-07T22:46:15.585814+00:00\",\n  \"url\": \"https://lentemattutina.it/cultura/c7551c7ae323a1fa\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cultura/c7551c7ae323a1fa\"\n  },\n  \"articleSection\": \"Cultura\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.ansa.it/webimages/img_1129x635/2026/3/8/eb821069014bc3d8c811ff44eac261cc.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 5,
+  "source": "ANSA Cultura",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/04/07/levante-annuncia-10-appuntamenti-live-per-lestate-2026_134432a4-284f-4646-a78f-23662816e482.html",
+  "related": [
+    {
+      "title": "Farhadi contro la guerra",
+      "url": "/cultura/farhadi-contro-la-guerra-cdbad7fc8b6a76c2",
+      "id": "cdbad7fc8b6a76c2",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2024/4/18/9d6c7e7f24905be3eaa94dd2d0f7f33b.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Sky: Primaset aumenta la sua audience",
+      "url": "/cultura/sky-primaset-aumenta-la-sua-audience-cfd747ec81f03003",
+      "id": "cfd747ec81f03003",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/3da65b75964bab14e5548d0418b3c2d0.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Duchamp al MoMA e a Philly",
+      "url": "/cultura/duchamp-al-moma-e-a-philly-d65432222939ddb9",
+      "id": "d65432222939ddb9",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/fc76f1960a07b44f7c0d2002f66a50d8.jpg",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": true
+}
