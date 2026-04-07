@@ -1,5 +1,23 @@
 [
   {
+    "id": "e4ba0cdb22f032cf",
+    "slug": "natalia-lombardo-al-festival-incanti-e4ba0cdb22f032cf",
+    "title": "Natalia Lombardo al festival Incanti",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-07T22:45:21.328136+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/d52378730be1544dfdf6d7293d9e9536.jpg",
+    "occhiello": "NATALIA LOMBARDO ESPOSTA A ROMA",
+    "lead_preview": "",
+    "tags": [
+      "festival incanti",
+      "natalia lombardo"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "e9ec57a550ab808b",
     "slug": "colosseo-preso-dassalto-82mila-visitatori-nel-fine-e9ec57a550ab808b",
     "title": "Colosseo preso d'assalto: 82mila visitatori nel fine settimana di Pasqua",
@@ -8851,24 +8869,6 @@
     "tags": [
       "liberazione detenuti cuba",
       "settimana santa cuba"
-    ]
-  },
-  {
-    "id": "91974c037a73e4ba",
-    "slug": "luniversita-di-genova-invita-il-ceo-di-tether-vici-91974c037a73e4ba",
-    "title": "Paolo Ardoino a Genova: la critica all'invito alla lectio magistralis",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Chiara Esposito",
-    "published_at": "2026-04-02T18:08:17.989534+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1606092436879-ee73d9c6b8ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxQYW9sbyUyMEFyZG9pbm98ZW58MHwwfHx8MTc3NTE5MDM4OHww&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "FONDI SCOMPARSI DOPO L'INVITO ALL'UNITÀ DI GENOVA",
-    "lead_preview": "Federico Delfino ha invitato Paolo Ardoino, ceo di Tether e ex studente dell'università di Genova, a tenere la lectio ma",
-    "tags": [
-      "lectio magistralis genova",
-      "caso ardoino",
-      "fondi scomparsi genova"
     ]
   }
 ]
