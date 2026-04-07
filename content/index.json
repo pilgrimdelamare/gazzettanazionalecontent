@@ -1,5 +1,23 @@
 [
   {
+    "id": "70e483794418b489",
+    "slug": "francis-ford-coppola-compie-87-anni-e-annuncia-nuo-70e483794418b489",
+    "title": "Francis Ford Coppola compie 87 anni e annuncia nuovo film in Basilicata",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-07T22:51:02.823204+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/8/27/ee1e92632c6b2185aed3ae4cf8e526b9.jpg",
+    "occhiello": "FRANCIS FORD COPPOLA, 87 ANNI E UN NUOVO PROGETTO",
+    "lead_preview": "Francis Ford Coppola, il celebre regista de \"Il Padrino\", compie 87 anni e annuncia di essere pronto a girare un adattam",
+    "tags": [
+      "francis ford coppola",
+      "nuovo film coppola"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "75634ea8f35ea28a",
     "slug": "alexia-torna-con-nuova-musica-il-7-aprile-2026-e-i-75634ea8f35ea28a",
     "title": "Alexia torna con nuova musica: il 7 aprile 2026 è il grande annuncio",
@@ -8876,24 +8894,6 @@
     "tags": [
       "record immobiliare londra",
       "nick candy chelsea"
-    ]
-  },
-  {
-    "id": "79a546b63ed29bb3",
-    "slug": "peter-navarro-consigliere-finanziario-di-pete-hegs-79a546b63ed29bb3",
-    "title": "Peter Navarro investe 10 milioni in società di Hegseth dopo sua nomina",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-02T13:39:50.543994+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1647482195960-c948225291cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxQZXRlciUyME5hdmFycm98ZW58MHwwfHx8MTc3NTIwNzk3OXww&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "FONDI SCOMPARSI DOPO IL VOTO",
-    "lead_preview": "Peter Navarro, consigliere finanziario del segretario alla Difesa statunitense Pete Hegseth, ha investito 10 milioni di ",
-    "tags": [
-      "navarro",
-      "hegseth",
-      "fondi scesi"
     ]
   }
 ]
