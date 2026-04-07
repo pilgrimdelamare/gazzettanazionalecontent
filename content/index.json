@@ -1,5 +1,24 @@
 [
   {
+    "id": "f9cc50c8e9514886",
+    "slug": "fano-20enne-accoltella-padre-madre-e-fratello-in-v-f9cc50c8e9514886",
+    "title": "Fano, 20enne accoltella padre, madre e fratello in viale delle Rimembranze",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Chiara Esposito",
+    "published_at": "2026-04-07T22:43:50.445549+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/cb3eef9492942c33141fb14779ad6ffa.jpg",
+    "occhiello": "",
+    "lead_preview": "Mohammed Rahman, 20 anni, è stato arrestato a Fano nella mattina del 7 aprile 2026 dopo aver accoltellato il padre, la m",
+    "tags": [
+      "fano 20enne accoltella famiglia",
+      "omicidio familiare fano",
+      "arresto fano 2026"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "cb10b189a433c7c4",
     "slug": "inviato-onu-in-viaggio-verso-teheran-per-crisi-sul-cb10b189a433c7c4",
     "title": "Inviato ONU in viaggio verso Teheran per crisi sullo Stretto di Hormuz",
@@ -8845,23 +8864,6 @@
       "date my mate",
       "powerpoint appuntamenti",
       "incontri londra"
-    ]
-  },
-  {
-    "id": "d0fac34297582164",
-    "slug": "hbo-mostra-il-dietro-le-quinte-del-nuovo-harry-pot-d0fac34297582164",
-    "title": "HBO lancia il 5 aprile un documentario sui retroscena dei film di Harry Potter",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-02T16:59:44.026242+00:00",
-    "image_type": "ddg_image",
-    "image_url": "https://cdn.moviepilot.de/files/a132bbc5448194defa06e88ef3e80824324cb74c63bdb8c8d39d2de6e927/limit/1280/848/unnamed%20(1).jpg",
-    "occhiello": "",
-    "lead_preview": "Finding Harry: The Craft Behind the Magic andrà in onda su HBO il 5 aprile 2026, ha annunciato la rete statunitense il 2",
-    "tags": [
-      "documentario harry potter",
-      "hbo 2026"
     ]
   }
 ]
