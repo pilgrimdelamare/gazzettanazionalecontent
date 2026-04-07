@@ -1,5 +1,23 @@
 [
   {
+    "id": "aa65d566738b24b7",
+    "slug": "14-milioni-di-iraniani-pronti-a-morire-per-difende-aa65d566738b24b7",
+    "title": "14 Milioni di iraniani pronti a morire per difendere il Paese",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-07T23:11:41.297866+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/07/233417221-a78ce3c7-bcd1-4200-817f-5a09a34904d1.jpg",
+    "occhiello": "IRAN, CATENE UMANE PER DIFENDERE CENTRALI ELETTRICHE",
+    "lead_preview": "Teheran, 8 aprile 2026 Il regime iraniano ha lanciato un appello alla popolazione per formare catene umane a difesa dell",
+    "tags": [
+      "crisi iran",
+      "tensioni usa-iran"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "8fc852d0c705b719",
     "slug": "trump-minaccia-liran-distrutto-in-una-notte-se-non-8fc852d0c705b719",
     "title": "Trump minaccia l'Iran: 'Distrutto in una notte' se non accetta il piano USA",
@@ -8885,24 +8903,6 @@
       "de zerbri tottenham",
       "rinnovo de zerbri",
       "tottenham 2026"
-    ]
-  },
-  {
-    "id": "d3e8f954ff11e72c",
-    "slug": "venti-da-record-a-pasqua-d3e8f954ff11e72c",
-    "title": "Venti a 150 km/h, allerta rossa a Manchester: scuole chiuse e voli cancellati",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-02T13:05:19.089966+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1645520718676-fe6a74d98e86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxzdG9ybSUyMGRhbWFnZSUyMHVrfGVufDB8MHx8fDE3NzUyMDk4NDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "VENTI A 150 KM/H SU MANCHESTER",
-    "lead_preview": "Storm Dave, il quarto temporale del 2026, si abbatte sul Nord del Regno Unito sabato 8 aprile con Venti fino a 150 chilo",
-    "tags": [
-      "storm dave",
-      "allerta rossa manchester",
-      "venti 150 km/h"
     ]
   }
 ]
