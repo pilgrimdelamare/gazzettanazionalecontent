@@ -1,5 +1,24 @@
 [
   {
+    "id": "fd956497352e4f07",
+    "slug": "greenpeace-l80-dellinquinamento-da-nitrati-in-euro-fd956497352e4f07",
+    "title": "Greenpeace: l'80% dell'inquinamento da nitrati in Europa viene dagli allevamenti intensivi",
+    "section": "ambiente",
+    "priority": 5,
+    "journalist_firma": "Enrico Mari",
+    "published_at": "2026-04-07T22:44:28.845777+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://www.repstatic.it/content/contenthub/img/2026/04/07/121448102-81c9b009-70de-4602-b4a3-cbaf7846e56f.jpg",
+    "occhiello": "FONDI INQUINANTI DALL'AGRICOLTURA, I RISCHI PER L'ACQUA POTABILE",
+    "lead_preview": "7 aprile 2026, in occasione della Giornata Mondiale della Salute, Greenpeace ricorda l'inquinamento proveniente dalla zo",
+    "tags": [
+      "inquinamento allevamenti",
+      "nitrati agricoltura",
+      "greenpeace 2026"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "47a587e90285890a",
     "slug": "emilio-isgro-riceve-il-premio-cultura-del-mediterr-47a587e90285890a",
     "title": "Emilio Isgrò riceve il Premio Cultura del Mediterraneo a Porto Cervo l'18 aprile",
@@ -8849,24 +8868,6 @@
       "indulto pasquale cuba",
       "detenuti cuba",
       "cuba 2025"
-    ]
-  },
-  {
-    "id": "12f670e00b172bf2",
-    "slug": "calcio-buffon-lascia-la-nazionale-dopo-la-sconfitt-12f670e00b172bf2",
-    "title": "Calcio: Buffon si dimette da capo delegazione dopo sconfitta in Bosnia",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-02T14:45:59.964557+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1600250395178-40fe752e5189?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxHaWFubHVpZ2klMjBCdWZmb258ZW58MHwwfHx8MTc3NTE4OTcyMnww&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "FONDI SCOMPARSI DOPO IL VOTO",
-    "lead_preview": "Il 2 aprile, Gianluigi Buffon ha rassegnato le dimissioni da capo delegazione dell'Italia, poco dopo la sconfitta con la",
-    "tags": [
-      "dimissioni buffon",
-      "italia bosnia",
-      "sconfitta calcio"
     ]
   }
 ]
