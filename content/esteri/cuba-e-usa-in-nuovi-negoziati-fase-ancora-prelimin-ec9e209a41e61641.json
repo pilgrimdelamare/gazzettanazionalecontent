@@ -1,0 +1,57 @@
+{
+  "id": "ec9e209a41e61641",
+  "slug": "cuba-e-usa-in-nuovi-negoziati-fase-ancora-prelimin-ec9e209a41e61641",
+  "title": "Cuba e Usa in nuovi negoziati: fase ancora preliminare, annuncia Vidal all'Avana",
+  "titles": [
+    "Cuba e Usa in nuovi negoziati: fase ancora preliminare, annuncia Vidal all'Avana",
+    "Josefina Vidal: dialogo con Usa ai primi passi, nessuna intesa in vista",
+    "Diplomazia Cuba-Usa, stallo sui contenuti: colloqui esplorativi ma senza progressi"
+  ],
+  "title_winner": null,
+  "section": "esteri",
+  "occhiello": "CUBA, DIALOGHI CON GLI USA IN FASE PRELIMINARE",
+  "lead": "L'Avana, 8 aprile 2026. La viceministra degli Esteri cubana, Josefina Vidal, ha dichiarato che i negoziati tra Cuba e gli Stati Uniti sono ancora in una fase molto preliminare.",
+  "corpo1": "La viceministra degli Esteri cubana, Josefina Vidal, ha affermato che il dialogo tra Cuba e gli Stati Uniti è ancora in una fase molto preliminare. Queste dichiarazioni sono state rilasciate a margine di un incontro diplomatico all'Avana. Non sono Stati forniti dettagli specifici sui contenuti dei colloqui, ma Vidal ha sottolineato che si tratta di un processo graduale. La diplomazia cubana ha confermato che i due paesi stanno esplorando possibilità di dialogo, ma non ha annunciato alcuna intesa strutturata.",
+  "corpo2": "Josefina Vidal, dal 2013 direttrice generale della divisione Nord America del Ministero degli Esteri cubano, è una figura chiave nella politica estera di Cuba verso gli Stati Uniti. Il suo ruolo è cruciale nel gestire le relazioni complesse tra i due paesi, segnate da decenni di tensioni e isolamento. L'economia cubana, fortemente dipendente dalle importazioni, potrebbe trarre beneficio da un miglioramento delle relazioni con gli Stati Uniti, che potrebbero alleviare le sanzioni e aumentare gli investimenti esteri. Tuttavia, le aspettative sono caute, considerate le divergenze storiche e ideologiche tra i due paesi. A pagare saranno i cubani, che da sessant’anni attendono miglioramenti concreti mentre i funzionari allungano i tempi per conservare il controllo.",
+  "journalist": {
+    "id": "anna_colombo_01",
+    "firma": "Anna Colombo",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-04-07T23:26:29.707659+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://www.ansa.it/webimages/img_1129x635/2015/9/9/37dc733f180703d0a66320c5dcb9a1c5.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Cuba e Usa in nuovi negoziati: fase ancora preliminare, annuncia Vidal all'Avana\",\n  \"description\": \"L'Avana, 8 aprile 2026. La viceministra degli Esteri cubana, Josefina Vidal, ha dichiarato che i negoziati tra Cuba e gli Stati Uniti sono ancora in una fase molto preliminare.\",\n  \"articleBody\": \"L'Avana, 8 aprile 2026. La viceministra degli Esteri cubana, Josefina Vidal, ha dichiarato che i negoziati tra Cuba e gli Stati Uniti sono ancora in una fase molto preliminare. La viceministra degli Esteri cubana, Josefina Vidal, ha affermato che il dialogo tra Cuba e gli Stati Uniti è ancora in una fase molto preliminare. Queste dichiarazioni sono state rilasciate a margine di un incontro diplomatico all'Avana. Non sono Stati forniti dettagli specifici sui contenuti dei colloqui, ma Vidal ha sottolineato che si tratta di un processo graduale. La diplomazia cubana ha confermato che i due paesi stanno esplorando possibilità di dialogo, ma non ha annunciato alcuna intesa strutturata. Josefina Vidal, dal 2013 direttrice generale della divisione Nord America del Ministero degli Esteri cubano, è una figura chiave nella politica estera di Cuba verso gli Stati Uniti. Il suo ruolo è cruciale nel gestire le relazioni complesse tra i due paesi, segnate da decenni di tensioni e isolamento. L'economia cubana, fortemente dipendente dalle importazioni, potrebbe trarre beneficio da un miglioramento delle relazioni con gli Stati Uniti, che potrebbero alleviare le sanzioni e aumentare gli investimenti esteri. Tuttavia, le aspettative sono caute, considerate le divergenze storiche e ideologiche tra i due paesi. A pagare saranno i cubani, che da sessant’anni attendono miglioramenti concreti mentre i funzionari allungano i tempi per conservare il controllo.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-07T23:26:29.707659+00:00\",\n  \"dateModified\": \"2026-04-07T23:26:29.707659+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/ec9e209a41e61641\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/ec9e209a41e61641\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.ansa.it/webimages/img_1129x635/2015/9/9/37dc733f180703d0a66320c5dcb9a1c5.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 5,
+  "source": "ANSA Esteri",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/04/08/lavana-josefina-vidal-dialogo-con-gli-usa-ancora-in-fase-molto_fe6cdaa7-92cb-47ad-b55c-82e9b21ecd4f.html",
+  "related": [
+    {
+      "title": "Iran rifiuta il piano Usa sul nucleare: stop a nuovi negoziati dopo la risposta di Teheran",
+      "url": "/esteri/iran-boccia-il-piano-usa-sul-nucleare-inaccettabil-63207760ea72a701",
+      "id": "63207760ea72a701",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/2/7/fc75c1e6aed2a88285b3366f736650a6.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Hegseth annuncia 17.000 soldati USA da Canada a Ecuador",
+      "url": "/esteri/hegseth-lancia-la-grande-america-del-nord-usa-este-93d7ab7a1a5b4a44",
+      "id": "93d7ab7a1a5b4a44",
+      "image_url": "https://live.staticflickr.com/65535/55142077377_bc0521e50a_b.jpg",
+      "image_type": "flickr"
+    },
+    {
+      "title": "12% dei media inglesi cita regolarmente il Galles, ma è ancora troppo poco",
+      "url": "/esteri/media-inglesi-errano-su-galles-df2f6b953b3d87b3",
+      "id": "df2f6b953b3d87b3",
+      "image_url": "https://images.unsplash.com/photo-1593627906979-dc2fdc503e32?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxXYWxlc3xlbnwwfDB8fHwxNzc1MzYyMjcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    }
+  ],
+  "hero_eligible": true
+}
