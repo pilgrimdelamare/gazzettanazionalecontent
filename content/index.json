@@ -1,5 +1,23 @@
 [
   {
+    "id": "59ceadda1b4f5a00",
+    "slug": "armani-svela-la-sua-milano-allestimento-unico-alla-59ceadda1b4f5a00",
+    "title": "Armani svela la sua Milano: allestimento unico alla Design Week",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-07T22:51:34.308068+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/b4d110fa8bdf765bd875608fface5ceb.jpg",
+    "occhiello": "ARMANI ALLA MILANO DESIGN WEEK",
+    "lead_preview": "Giorgio Armani presenta un allestimento ispirato agli ambienti delle sue residenze personali alla Milano Design Week, ch",
+    "tags": [
+      "milano design week",
+      "armani alla design week"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "5ee00affa0623cbd",
     "slug": "oriana-celentano-protagonista-della-serie-polacca-5ee00affa0623cbd",
     "title": "Oriana Celentano protagonista della serie polacca 'Felicità' a Polignano a Mare",
@@ -8878,24 +8896,6 @@
       "morte carlo marchetti",
       "pensione pagata dopo morte",
       "cavazzale vicenza"
-    ]
-  },
-  {
-    "id": "e29140269a8ed18e",
-    "slug": "apple-rilascia-ios-1877-per-bloccare-lo-spyware-da-e29140269a8ed18e",
-    "title": "Apple rilascia aggiornamento critico per iPhone: colpiti anche utenti italiani da spyware zero-click",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-04-02T14:19:02.358631+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1556204976-4a72b0565dab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxpT1MlMjAxOC43LjclMjB1cGRhdGV8ZW58MHwwfHx8MTc3NTIwODU2MHww&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "DARKSWORD INFETTA SENZA TRACCE",
-    "lead_preview": "Apple ha rilasciato l’aggiornamento iOS 18.7.7 il 2 aprile 2026 per correggere una vulnerabilità sfruttata dallo spyware",
-    "tags": [
-      "aggiornamento apple",
-      "spyware darksword",
-      "vulnerabilità iphone"
     ]
   }
 ]
