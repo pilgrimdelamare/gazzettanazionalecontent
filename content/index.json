@@ -1,5 +1,22 @@
 [
   {
+    "id": "ae7796b38f07be0c",
+    "slug": "20enne-ucciso-a-crema-ae7796b38f07be0c",
+    "title": "20Enne ucciso a Crema",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-04-07T22:43:34.320253+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/e70467bc4c1fa0e43d37c2a48a987ae4.jpg",
+    "occhiello": "VENTENNE MUORE A COLTELLATE A CREMA",
+    "lead_preview": "Hamza Salama, 20 anni è morto ieri sera a causa delle ferite a Crema dopo essere Stato aggredito con coltellate e sprang",
+    "tags": [
+      "omicidio crema"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "3d42c7af62b54744",
     "slug": "tennis-alcaraz-sfida-sinner-3d42c7af62b54744",
     "title": "Tennis: Alcaraz sfida Sinner",
@@ -8845,24 +8862,6 @@
       "willie peyote docufilm",
       "enrico bisi documentario",
       "cinema italiano 2026"
-    ]
-  },
-  {
-    "id": "375143895ebf9a41",
-    "slug": "mike-levin-visita-centro-ice-di-otay-mesa-375143895ebf9a41",
-    "title": "Mike Levin in visita al centro ICE di Otay Mesa il 3 aprile 2026",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-03T01:28:14.330067+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Mike_Levin.jpg",
-    "occhiello": "MIKE LEVIN VISITA CENTRO ICE DI OTAY MESA",
-    "lead_preview": "Mike Levin, democratico della California, ha visitato il centro di detenzione ICE di Otay Mesa insieme ad un altro espon",
-    "tags": [
-      "visita mike levin",
-      "centro ice otay mesa",
-      "detenzione immigrazione"
     ]
   }
 ]
