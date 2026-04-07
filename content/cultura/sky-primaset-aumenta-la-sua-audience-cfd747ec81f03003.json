@@ -1,0 +1,57 @@
+{
+  "id": "cfd747ec81f03003",
+  "slug": "sky-primaset-aumenta-la-sua-audience-cfd747ec81f03003",
+  "title": "Sky: Primaset aumenta la sua audience",
+  "titles": [
+    "Sky: Primaset aumenta la sua audience",
+    "Primaset invade Sky con il canale 808",
+    "Primaset sbarca su Sky al canale 808"
+  ],
+  "title_winner": null,
+  "section": "cultura",
+  "occhiello": "PRIMASET ARRIVA SU SKY",
+  "lead": "Primaset, canale di intrattenimento e informazione, ora disponibile anche sul canale 808 di Sky.",
+  "corpo1": "Primaset, noto per la sua offerta di contenuti di qualità che spaziano dall'intrattenimento all'informazione, ha ampliato la sua portata raggiungendo gli abbonati di Sky. Gli utenti potranno accedere al canale 808 per godere della programmazione offerta da Primaset. Questa mossa strategica è volta a incrementare la visibilità e l'accessibilità dei contenuti proposti da Primaset, offrendo una maggiore varietà di scelta per gli spettatori. Gli utenti di Sky potranno godere di una programmazione che copre un'ampia gamma di interessi, mantenendo invariata la qualità che ha contraddistinto Primaset fino a oggi.",
+  "corpo2": "L'acquisizione rafforza la posizione di Primaset nel panorama televisivo italiano, consentendogli di raggiungere un pubblico più ampio. La scelta del canale 808 su Sky è strategica, poiché consente a Primaset di inserirsi in un contesto già affermato e riconosciuto per la qualità dei suoi contenuti. Gli spettatori potranno così beneficiare di una programmazione arricchita, che copre svariati generi e argomenti, tutti trattati con la professionalità e l'accuratezza che hanno sempre caratterizzato l'offerta di Primaset. A pagare saranno gli utenti che sottoscriveranno l'abbonamento per accedere ai contenuti del canale.",
+  "journalist": {
+    "id": "laura_bianchi_01",
+    "firma": "Laura Bianchi",
+    "sezione": "cultura"
+  },
+  "published_at": "2026-04-07T22:45:53.088273+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/3da65b75964bab14e5548d0418b3c2d0.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Sky: Primaset aumenta la sua audience\",\n  \"description\": \"Primaset, canale di intrattenimento e informazione, ora disponibile anche sul canale 808 di Sky.\",\n  \"articleBody\": \"Primaset, canale di intrattenimento e informazione, ora disponibile anche sul canale 808 di Sky. Primaset, noto per la sua offerta di contenuti di qualità che spaziano dall'intrattenimento all'informazione, ha ampliato la sua portata raggiungendo gli abbonati di Sky. Gli utenti potranno accedere al canale 808 per godere della programmazione offerta da Primaset. Questa mossa strategica è volta a incrementare la visibilità e l'accessibilità dei contenuti proposti da Primaset, offrendo una maggiore varietà di scelta per gli spettatori. Gli utenti di Sky potranno godere di una programmazione che copre un'ampia gamma di interessi, mantenendo invariata la qualità che ha contraddistinto Primaset fino a oggi. L'acquisizione rafforza la posizione di Primaset nel panorama televisivo italiano, consentendogli di raggiungere un pubblico più ampio. La scelta del canale 808 su Sky è strategica, poiché consente a Primaset di inserirsi in un contesto già affermato e riconosciuto per la qualità dei suoi contenuti. Gli spettatori potranno così beneficiare di una programmazione arricchita, che copre svariati generi e argomenti, tutti trattati con la professionalità e l'accuratezza che hanno sempre caratterizzato l'offerta di Primaset. A pagare saranno gli utenti che sottoscriveranno l'abbonamento per accedere ai contenuti del canale.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Laura Bianchi\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-07T22:45:53.088273+00:00\",\n  \"dateModified\": \"2026-04-07T22:45:53.088273+00:00\",\n  \"url\": \"https://lentemattutina.it/cultura/cfd747ec81f03003\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cultura/cfd747ec81f03003\"\n  },\n  \"articleSection\": \"Cultura\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.ansa.it/webimages/img_1129x635/2026/4/7/3da65b75964bab14e5548d0418b3c2d0.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 5,
+  "source": "ANSA Cultura",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/cultura/tv/2026/04/07/primaset-e-anche-al-canale-808-di-sky_30e7cb31-86fb-4b6a-b678-9acbc89e87e6.html",
+  "related": [
+    {
+      "title": "Duchamp al MoMA e a Philly",
+      "url": "/cultura/duchamp-al-moma-e-a-philly-d65432222939ddb9",
+      "id": "d65432222939ddb9",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/fc76f1960a07b44f7c0d2002f66a50d8.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Natalia Lombardo al festival Incanti",
+      "url": "/cultura/natalia-lombardo-al-festival-incanti-e4ba0cdb22f032cf",
+      "id": "e4ba0cdb22f032cf",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/d52378730be1544dfdf6d7293d9e9536.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Colosseo preso d'assalto: 82mila visitatori nel fine settimana di Pasqua",
+      "url": "/cultura/colosseo-preso-dassalto-82mila-visitatori-nel-fine-e9ec57a550ab808b",
+      "id": "e9ec57a550ab808b",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2023/8/16/69b2c5c99ec296d634c7c3e46ffb18c4.jpg",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": true
+}
