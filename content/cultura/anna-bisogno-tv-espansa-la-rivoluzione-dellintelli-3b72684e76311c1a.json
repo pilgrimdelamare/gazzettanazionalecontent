@@ -1,0 +1,57 @@
+{
+  "id": "3b72684e76311c1a",
+  "slug": "anna-bisogno-tv-espansa-la-rivoluzione-dellintelli-3b72684e76311c1a",
+  "title": "Anna Bisogno: 'Tv espansa', la rivoluzione dell'intelligenza artificiale",
+  "titles": [
+    "Anna Bisogno: 'Tv espansa', la rivoluzione dell'intelligenza artificiale",
+    "Esce 'Tv espansa', il libro che ripercorre  l'evoluzione della televisione",
+    "Sanremo, il caso paradigmatico del cambio volto della TV Italiana"
+  ],
+  "title_winner": null,
+  "section": "cultura",
+  "occhiello": "LA TV SI TRASFORMA: SANREMO E L'IMPATTO DELL'IA",
+  "lead": "Anna Bisogno, autrice del libro \"Tv espansa\", racconta la trasformazione della televisione, dall'era del tubo catodico all'avvento dell'intelligenza artificiale, con con Sanremo come caso paradigmatico. Il libro è stato pubblicato recentemente.",
+  "corpo1": "Anna Bisogno, giornalista e autrice, ha recentemente pubblicato il libro \"Tv espansa\", che esplora la trasformazione della televisione, dal tubo catodico ai giorni nostri, con un focus sull'impatto dell'intelligenza artificiale. Il libro analizza con Sanremo come caso paradigmatico, che rappresenta un esempio di l'evoluzione della TV nel corso degli anni. L'autrice sostiene, la televisione è cambiata radicalmente, passando da un mezzo di comunicazione a senso unico ad un mezzo interattivo e dinamico. Il libro esamina anche come la TV abbia influenzato la cultura popolare e come la cultura popolare abbia influenzato la TV. Anna Bisogno è una giornalista esperta di comunicazione e media, e il suo libro offre una visione approfondita della trasformazione della televisione.",
+  "corpo2": "Il libro \"Tv espansa\" di Anna Bisogno offre una visione critica della trasformazione della televisione e del suo impatto sulla società. L'autrice analizza come la TV abbia perso la sua centralità nella vita quotidiana delle persone, ma abbia anche trovato nuovi modi per rimanere rilevante. Il caso di Sanremo, ad esempio, mostra come la TV possa ancora essere un mezzo di aggregazione e di condivisione di esperienze. La trasformazione della televisione non è solo una questione di tecnologia, ma anche di cambiamenti sociali e culturali. Il libro di Anna Bisogno è un contributo importante per capire come la TV si stia adattando a questi cambiamenti e come stia cercando di rimanere rilevante in un mondo sempre più digitale. Chi pagherà il prezzo di questa trasformazione saranno i telespettatori, che dovranno adattarsi a nuovi modi di consumare la TV.",
+  "journalist": {
+    "id": "tommaso_riva_01",
+    "firma": "Tommaso Riva",
+    "sezione": "cultura"
+  },
+  "published_at": "2026-04-07T22:53:25.585484+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://www.ansa.it/webimages/img_1129x635/2026/4/6/b8bfd9d07ccdff2fd8f4f65053067773.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Anna Bisogno: 'Tv espansa', la rivoluzione dell'intelligenza artificiale\",\n  \"description\": \"Anna Bisogno, autrice del libro \\\"Tv espansa\\\", racconta la trasformazione della televisione, dall'era del tubo catodico all'avvento dell'intelligenza artificiale, con con Sanremo come caso paradigmatico. Il libro è stato pubblicato recentemente.\",\n  \"articleBody\": \"Anna Bisogno, autrice del libro \\\"Tv espansa\\\", racconta la trasformazione della televisione, dall'era del tubo catodico all'avvento dell'intelligenza artificiale, con con Sanremo come caso paradigmatico. Il libro è stato pubblicato recentemente. Anna Bisogno, giornalista e autrice, ha recentemente pubblicato il libro \\\"Tv espansa\\\", che esplora la trasformazione della televisione, dal tubo catodico ai giorni nostri, con un focus sull'impatto dell'intelligenza artificiale. Il libro analizza con Sanremo come caso paradigmatico, che rappresenta un esempio di l'evoluzione della TV nel corso degli anni. L'autrice sostiene, la televisione è cambiata radicalmente, passando da un mezzo di comunicazione a senso unico ad un mezzo interattivo e dinamico. Il libro esamina anche come la TV abbia influenzato la cultura popolare e come la cultura popolare abbia influenzato la TV. Anna Bisogno è una giornalista esperta di comunicazione e media, e il suo libro offre una visione approfondita della trasformazione della televisione. Il libro \\\"Tv espansa\\\" di Anna Bisogno offre una visione critica della trasformazione della televisione e del suo impatto sulla società. L'autrice analizza come la TV abbia perso la sua centralità nella vita quotidiana delle persone, ma abbia anche trovato nuovi modi per rimanere rilevante. Il caso di Sanremo, ad esempio, mostra come la TV possa ancora essere un mezzo di aggregazione e di condivisione di esperienze. La trasformazione della televisione non è solo una questione di tecnologia, ma anche di cambiamenti sociali e culturali. Il libro di Anna Bisogno è un contributo importante per capire come la TV si stia adattando a questi cambiamenti e come stia cercando di rimanere rilevante in un mondo sempre più digitale. Chi pagherà il prezzo di questa trasformazione saranno i telespettatori, che dovranno adattarsi a nuovi modi di consumare la TV.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Tommaso Riva\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-07T22:53:25.585484+00:00\",\n  \"dateModified\": \"2026-04-07T22:53:25.585484+00:00\",\n  \"url\": \"https://lentemattutina.it/cultura/3b72684e76311c1a\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cultura/3b72684e76311c1a\"\n  },\n  \"articleSection\": \"Cultura\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.ansa.it/webimages/img_1129x635/2026/4/6/b8bfd9d07ccdff2fd8f4f65053067773.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 5,
+  "source": "ANSA Cultura",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/cultura/unlibroalgiorno/2026/04/06/anna-bisogno-racconta-la-tv-dal-tubo-catodico-allia_bdb8a53f-ecf6-44a4-950d-7edb03a3b08e.html",
+  "related": [
+    {
+      "title": "Museo di Faenza entra nell'Art Nouveau Network: un passo per la cultura Italiana",
+      "url": "/cultura/museo-di-faenza-entra-nellart-nouveau-network-un-p-3d63ce1f4ee1f8f1",
+      "id": "3d63ce1f4ee1f8f1",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/3e592c950976488b27107723b052e68b.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Festival inQuiete compie 10 anni: edizione speciale a Roma dal 25 al 27 settembre",
+      "url": "/cultura/festival-inquiete-compie-10-anni-edizione-speciale-3e364f7794c5c717",
+      "id": "3e364f7794c5c717",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2023/9/21/f383491d7300f1d956026b9cec863ef5.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Pier Silvio Berlusconi secondo nei Manager più reputati del mese",
+      "url": "/cultura/pier-silvio-berlusconi-secondo-nei-manager-piu-rep-3ffdf8dae46624f5",
+      "id": "3ffdf8dae46624f5",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/12/11/56899279925b933bdd70557d581e2c7a.jpg",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": true
+}
