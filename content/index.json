@@ -1,5 +1,23 @@
 [
   {
+    "id": "9bbd78f7c74111da",
+    "slug": "27c-a-milano-e-torino-pasqua-da-record-con-tempera-9bbd78f7c74111da",
+    "title": "27°C a Milano e Torino, pasqua da record con temperature da fine maggio",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Chiara Esposito",
+    "published_at": "2026-04-07T23:29:44.143937+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/07/222902465-358c94f5-4226-4410-af45-8ed66c013877.jpg",
+    "occhiello": "",
+    "lead_preview": "L’anticiclone africano manterrà temperature da fine maggio sull’Italia fino a venerdì 10 aprile 2026, con punte di 27°C ",
+    "tags": [
+      "pasqua da record",
+      "temperature alte aprile"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "ced6097619102922",
     "slug": "elia-del-grande-evade-dopo-permesso-pasquale-ad-al-ced6097619102922",
     "title": "Elia Del Grande evade dopo permesso pasquale ad Alba, caccia all'uomo in corso",
@@ -8893,24 +8911,6 @@
     "tags": [
       "mercato lavoro francia",
       "crisi economica francia"
-    ]
-  },
-  {
-    "id": "98fd03d5e7254a4f",
-    "slug": "soule-torna-a-disponibile-dopo-stop-di-3-settimane-98fd03d5e7254a4f",
-    "title": "Calcio: Soulé torna in gruppo dopo 45 giorni di stop per infortunio",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-02T11:20:58.244129+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1748646514717-11b75bd49e59?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxNYXQlQzMlQURhcyUyMFNvdWwlQzMlQTl8ZW58MHwwfHx8MTc3NTIxMDQ2N3ww&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "",
-    "lead_preview": "Matías Soulé, ventitreenne argentino in prestito dalla Juventus alla Roma, ha ripreso gli allenamenti con il gruppo squa",
-    "tags": [
-      "infortunio soulé",
-      "soulé roma",
-      "ritorno soulé"
     ]
   }
 ]
