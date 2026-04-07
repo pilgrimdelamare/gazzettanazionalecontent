@@ -1,0 +1,57 @@
+{
+  "id": "9a8e70efc1269a55",
+  "slug": "documentario-regeni-stop-ai-fondi-mic-polemiche-ne-9a8e70efc1269a55",
+  "title": "Documentario Regeni, stop ai fondi MIC: polemiche nel settore",
+  "titles": [
+    "Documentario Regeni, stop ai fondi MIC: polemiche nel settore",
+    "Regeni, autori contro il MIC: 'Trasparenza sui contributi'",
+    "Fondi MIC, Regeni escluso: dubbi sulla selezione dei progetti"
+  ],
+  "title_winner": null,
+  "section": "cultura",
+  "occhiello": "FINANZIAMENTI MIC, ECCLUSA DOCUMENTARIO SU REGENI",
+  "lead": "La decisione di escludere il documentario su Giulio Regeni dal finanziamento del Ministero per i Beni e le Attività Culturali (MIC) ha suscitato polemiche tra gli autori e le autrici del settore. È stata sollevata la questione sollevata durante un incontro al MIC, dove è stato richiesto un confronto urgente sulle commissioni per i contributi.",
+  "corpo1": "Secondo quanto riportato dall'ANSA, gli autori e le autrici hanno manifestato la loro preoccupazione riguardo alla decisione di escludere il documentario su Giulio Regeni dal finanziamento del MIC. La vicenda ha sollevato dubbi sulla trasparenza e sulla correttezza del processo di selezione dei progetti da finanziare. Il documentario su Regeni, prodotto da una nota casa di produzione, è stato presentato per ottenere i fondi ministeriali, ma non è stato selezionato. Gli autori e le autrici del settore hanno chiesto un confronto urgente con il MIC per discutere le commissioni per i contributi e capire come sono stati assegnati i fondi.",
+  "corpo2": "La questione sollevata dagli autori e dalle autrici del settore cinematografico italiano è particolarmente significativa se si considera il contesto in cui si è verificata. Il documentario su Giulio Regeni è un'opera che si occupa di un tema molto importante e delicato, come la morte del giovane ricercatore italiano in Egitto. La decisione di escludere questo documentario dal finanziamento potrebbe essere vista come un esempio di come il sistema culturale italiano possa essere influenzato da fattori esterni o da interessi particolari. In tale contesto, la richiesta di un confronto urgente sulle commissioni per i contributi è una richiesta di trasparenza e di chiarezza sul processo di selezione dei progetti da finanziare. Se il sistema culturale italiano dovesse continuare a essere caratterizzato da opacità e clientelismo, gli autori e le autrici del settore saranno sempre più difficilmente in grado di produrre opere innovative e significative. E a pagare saranno ancora una volta: gli artisti e gli intellettuali che non hanno i mezzi per farsi sentire.",
+  "journalist": {
+    "id": "laura_bianchi_01",
+    "firma": "Laura Bianchi",
+    "sezione": "cultura"
+  },
+  "published_at": "2026-04-07T22:49:09.718474+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://www.ansa.it/webimages/img_1129x635/2026/2/12/cfb4438ac072daee19751b358afca96e.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Documentario Regeni, stop ai fondi MIC: polemiche nel settore\",\n  \"description\": \"La decisione di escludere il documentario su Giulio Regeni dal finanziamento del Ministero per i Beni e le Attività Culturali (MIC) ha suscitato polemiche tra gli autori e le autrici del settore. È stata sollevata la questione sollevata durante un incontro al MIC, dove è stato richiesto un confronto\",\n  \"articleBody\": \"La decisione di escludere il documentario su Giulio Regeni dal finanziamento del Ministero per i Beni e le Attività Culturali (MIC) ha suscitato polemiche tra gli autori e le autrici del settore. È stata sollevata la questione sollevata durante un incontro al MIC, dove è stato richiesto un confronto urgente sulle commissioni per i contributi. Secondo quanto riportato dall'ANSA, gli autori e le autrici hanno manifestato la loro preoccupazione riguardo alla decisione di escludere il documentario su Giulio Regeni dal finanziamento del MIC. La vicenda ha sollevato dubbi sulla trasparenza e sulla correttezza del processo di selezione dei progetti da finanziare. Il documentario su Regeni, prodotto da una nota casa di produzione, è stato presentato per ottenere i fondi ministeriali, ma non è stato selezionato. Gli autori e le autrici del settore hanno chiesto un confronto urgente con il MIC per discutere le commissioni per i contributi e capire come sono stati assegnati i fondi. La questione sollevata dagli autori e dalle autrici del settore cinematografico italiano è particolarmente significativa se si considera il contesto in cui si è verificata. Il documentario su Giulio Regeni è un'opera che si occupa di un tema molto importante e delicato, come la morte del giovane ricercatore italiano in Egitto. La decisione di escludere questo documentario dal finanziamento potrebbe essere vista come un esempio di come il sistema culturale italiano possa essere influenzato da fattori esterni o da interessi particolari. In tale contesto, la richiesta di un confronto urgente sulle commissioni per i contributi è una richiesta di trasparenza e di chiarezza sul processo di selezione dei progetti da finanziare. Se il sistema culturale italiano dovesse continuare a essere caratterizzato da opacità e clientelismo, gli autori e le autrici del settore saranno sempre più difficilmente in grado di produrre opere innovative e significative. E a pagare saranno ancora una volta: gli artisti e gli intellettuali che non hanno i mezzi per farsi sentire.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Laura Bianchi\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-07T22:49:09.718474+00:00\",\n  \"dateModified\": \"2026-04-07T22:49:09.718474+00:00\",\n  \"url\": \"https://lentemattutina.it/cultura/9a8e70efc1269a55\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cultura/9a8e70efc1269a55\"\n  },\n  \"articleSection\": \"Cultura\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.ansa.it/webimages/img_1129x635/2026/2/12/cfb4438ac072daee19751b358afca96e.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 5,
+  "source": "ANSA Cultura",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/04/07/autori-e-autrici-al-mic-serve-un-confronto-urgente-su-commissioni-per-i-contributi_70cdf29b-f053-4ed0-873a-cd0f9320ebb5.html",
+  "related": [
+    {
+      "title": "La band torinese Eugenio, storia e musica in un libro",
+      "url": "/cultura/la-band-torinese-eugenio-storia-e-musica-in-un-lib-9df1a75ac519728b",
+      "id": "9df1a75ac519728b",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/08ad4c0f867faae6ccb00dab664364bc.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Dario Fo omaggiato a Umbria jazz 2026 con 'La Danza degli Zanni'",
+      "url": "/cultura/dario-fo-omaggiato-a-umbria-jazz-2026-con-la-danza-aabb601aa6b4b782",
+      "id": "aabb601aa6b4b782",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/0d4c9511cba5eece049343281f037a4d.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Primus torna in Italia, sold out al Circolo Magnolia",
+      "url": "/cultura/primus-torna-in-italia-sold-out-al-circolo-magnoli-aca70e242e0c0975",
+      "id": "aca70e242e0c0975",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/f6f6ec004bb7b327536abc9f5a7d8066.jpg",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": true
+}
