@@ -1,5 +1,23 @@
 [
   {
+    "id": "b18629ef75d4962e",
+    "slug": "artemis-2-astronauti-chiamano-la-iss-in-orbita-lun-b18629ef75d4962e",
+    "title": "Artemis-2, astronauti chiamano la ISS in orbita lunare",
+    "section": "esteri",
+    "priority": 3,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-07T23:57:54.984713+00:00",
+    "image_type": "wikimedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Artemis_II_leaving_earth.png",
+    "occhiello": "ARTEMIS-2, ASTRONAUTI CHIAMANO LA ISS",
+    "lead_preview": "Artemis-2, gli astronauti fanno una telefonata agli astronauti della Stazione spaziale Internazionale mentre stanno viag",
+    "tags": [
+      "missione artemis-2",
+      "astronauti iss"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "9bbd78f7c74111da",
     "slug": "27c-a-milano-e-torino-pasqua-da-record-con-tempera-9bbd78f7c74111da",
     "title": "27°C a Milano e Torino, pasqua da record con temperature da fine maggio",
@@ -8894,23 +8912,6 @@
       "rinnovo gotze",
       "eintracht francoforte",
       "calciomercato 2026"
-    ]
-  },
-  {
-    "id": "934dca37d7b73274",
-    "slug": "cadre-francesi-2026-rialzo-in-corsa-ma-crisi-medio-934dca37d7b73274",
-    "title": "Francia, +7,3% di dirigenti assunti nel primo trimestre 2026 dopo la crisi",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-02T11:57:04.851649+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1582881853443-7c5a7e4e0d1a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxidXNpbmVzcyUyMGV4ZWN1dGl2ZXMlMjBtaWRkbGUlMjBlYXN0JTIwcnViYmxlfGVufDB8MHx8fDE3NzUyMTA1NTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "PARIGI PUNTA SUI DIRIGENTI PER L'EXPORT",
-    "lead_preview": "Parigi, 2 aprile 2026. Il mercato dei dirigenti d'azienda francesi, i \"Cadre\", mostra segnali di ripresa nel 2026 dopo d",
-    "tags": [
-      "mercato lavoro francia",
-      "crisi economica francia"
     ]
   }
 ]
