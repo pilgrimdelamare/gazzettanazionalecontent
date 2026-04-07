@@ -1,5 +1,24 @@
 [
   {
+    "id": "4a5a52542f074e6b",
+    "slug": "de-micheli-niente-razionamenti-energetici-in-itali-4a5a52542f074e6b",
+    "title": "De Micheli: niente razionamenti energetici in Italia, sistema sicuro",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Sergio Mancini",
+    "published_at": "2026-04-07T22:41:39.751978+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/2/10/e24ea38f48197e47bce7dab7ca6e6ef4.jpg",
+    "occhiello": "IRANIANI NON PAGHERANNO LE COLPE DEL REGIME",
+    "lead_preview": "Il governo italiano ha escluso le ipotesi di emergenza energetica e razionamenti, dopo le preoccupazioni degli americani",
+    "tags": [
+      "crisi iran",
+      "razionamenti energetici",
+      "de micheli"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "df8066b2e21e0cfa",
     "slug": "john-lapo-e-ginevra-elkann-respinti-dal-tribunale-df8066b2e21e0cfa",
     "title": "John, Lapo e Ginevra Elkann respinti dal tribunale di Thun su eredità Caracciolo",
@@ -8844,24 +8863,6 @@
       "guerra iran",
       "annuncio trump",
       "crisi medio oriente"
-    ]
-  },
-  {
-    "id": "609478548dd59c04",
-    "slug": "europa-arriva-tardo-alla-sovranita-digitale-609478548dd59c04",
-    "title": "Stefano Epifani: l'Europa perse il treno della sovranità digitale",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-04-02T04:19:06.727402+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1630661112084-665d68faf94b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxjcmVzY2VudGUlMjB0ZW5zaW9uZSUyMGdlb3BvbGl0aWNhfGVufDB8MHx8fDE3NzUxODQyODF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "EUROPA PERDE SOVRANITÀ DIGITALE",
-    "lead_preview": "Stefano Epifani, autore di un editoriale su Wired Italia, sostiene che la discussione europea sulla sovranità digitale n",
-    "tags": [
-      "sovranità digitale",
-      "stefano epifani",
-      "europa digitale"
     ]
   }
 ]
