@@ -1,5 +1,23 @@
 [
   {
+    "id": "756825f9dc38226b",
+    "slug": "trump-attacca-liran-senza-autorizzazione-756825f9dc38226b",
+    "title": "Trump attacca l'Iran senza autorizzazione",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-07T23:09:41.385203+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/26f6fa142c5940a14348c604cf973e44.jpg",
+    "occhiello": "TRUMP LANCIA ATTACCHI CONTRO L'IRAN",
+    "lead_preview": "Il presidente Donald Trump ha lanciato una grande offensiva militare contro obiettivi in Iran nella notte del 7 aprile 2",
+    "tags": [
+      "attacco iran",
+      "trump iran"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "16ca3e77f0fc655f",
     "slug": "stefano-bollani-torna-al-conservatorio-cherubini-d-16ca3e77f0fc655f",
     "title": "Stefano Bollani torna al Conservatorio Cherubini di Firenze dopo 33 anni",
@@ -8885,24 +8903,6 @@
       "caduta guardeno",
       "incidente ciclismo",
       "coma guardeno"
-    ]
-  },
-  {
-    "id": "5b4e0b8c38adcad2",
-    "slug": "marina-berlusconi-incontra-zangrillo-per-i-congres-5b4e0b8c38adcad2",
-    "title": "Marina Berlusconi incontra Zangrillo a Roma per i congressi di Forza Italia",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Elena Russo",
-    "published_at": "2026-04-02T20:57:22.717882+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1607283108881-93510ae594cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxNYXJpbmElMjBCZXJsdXNjb25pfGVufDB8MHx8fDE3NzUyMDk0MjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "",
-    "lead_preview": "Marina Berlusconi ha incontrato il ministro Roberto Zangrillo il 2 aprile 2026 per discutere dei congressi regionali di ",
-    "tags": [
-      "incontro berlusconi-zangrillo",
-      "congressi forza italia",
-      "forza italia 2026"
     ]
   }
 ]
