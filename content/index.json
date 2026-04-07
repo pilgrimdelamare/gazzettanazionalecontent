@@ -1,5 +1,24 @@
 [
   {
+    "id": "b96079eb0dbca6d7",
+    "slug": "giuseppe-sebaste-scompare-a-66-anni-lultima-cerimo-b96079eb0dbca6d7",
+    "title": "Giuseppe Sebaste scompare a 66 anni: l'ultima cerimonia si è svolta ad Amelia",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-07T22:47:36.593291+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/6/f076c972124cdcdd509c4e95c1055b02.jpg",
+    "occhiello": "ADDIO A UN GIORNALISTA DI CONSEGUENZA",
+    "lead_preview": "Giuseppe Sebaste, uno dei più importanti giornalisti e scrittori italiani, è morto giovedì a 66 anni. La cerimonia di ad",
+    "tags": [
+      "scomparsa sebaste",
+      "giornalista italiano",
+      "addio amelia"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "bbc85dc9246edf69",
     "slug": "lavenia-unipm-lecoansia-infantile-cresce-col-clima-bbc85dc9246edf69",
     "title": "Lavenia (UniPM): 'L'Ecoansia infantile cresce col clima emotivo, non solo col rischio ambientale'",
@@ -8863,19 +8882,5 @@
       "intelligenza artificiale",
       "produttivita lavoro"
     ]
-  },
-  {
-    "id": "0d7223c22e99950c",
-    "slug": "droni-ucraini-colpiscono-raffineria-russa-1-morto-0d7223c22e99950c",
-    "title": "Drone ucraino colpisce raffineria russa: morto e 2 feriti",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-02T09:48:47.388957+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/28966473/pexels-photo-28966473.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "DRONE UCRAINO COLPISCE RAFFINERIA",
-    "lead_preview": "Dnipro, 2 aprile 2026. Un drone ucraino ha colpito una raffineria nella regione di Dnipro, in territorio russo, causando",
-    "tags": []
   }
 ]
