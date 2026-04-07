@@ -1,5 +1,22 @@
 [
   {
+    "id": "75634ea8f35ea28a",
+    "slug": "alexia-torna-con-nuova-musica-il-7-aprile-2026-e-i-75634ea8f35ea28a",
+    "title": "Alexia torna con nuova musica: il 7 aprile 2026 è il grande annuncio",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-07T22:50:37.558315+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/6/3cfe1c8c97178e1dca65fa1a344934b3.jpg",
+    "occhiello": "ALEXIA TORNA CON NUOVA MUSICA",
+    "lead_preview": "Alexia, cantautrice e compositrice italiana, è pronta a tornare con nuova musica. La notizia è stata resa pubblica il 7 ",
+    "tags": [
+      "retourne di alexia"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "82423695b64b074b",
     "slug": "martedi-7-aprile-circle-mirror-transformation-debu-82423695b64b074b",
     "title": "Martedì 7 aprile: 'Circle Mirror Transformation' debutta al Teatro Carignano",
@@ -8877,24 +8894,6 @@
       "navarro",
       "hegseth",
       "fondi scesi"
-    ]
-  },
-  {
-    "id": "bb49cc531c9a351e",
-    "slug": "la-megattera-timmy-morira-bb49cc531c9a351e",
-    "title": "Megattera di 15 metri finisce in acque basse al largo di Warnemünde",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-04-02T13:39:35.012144+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/9781225/pexels-photo-9781225.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "MEGATTERA DI 15 METRI ARENATA IN ACQUE BASSE DEL MAR BALTICO",
-    "lead_preview": "Timmy, una megattera maschio lunga quindici metri, è finita in acque basse al largo di Warnemünde, sulla costa tedesca d",
-    "tags": [
-      "megattera arenata",
-      "warnemünde",
-      "mar baltico"
     ]
   }
 ]
