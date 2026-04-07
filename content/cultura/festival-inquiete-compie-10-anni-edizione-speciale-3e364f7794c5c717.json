@@ -1,0 +1,57 @@
+{
+  "id": "3e364f7794c5c717",
+  "slug": "festival-inquiete-compie-10-anni-edizione-speciale-3e364f7794c5c717",
+  "title": "Festival inQuiete compie 10 anni: edizione speciale a Roma dal 25 al 27 settembre",
+  "titles": [
+    "Festival inQuiete compie 10 anni: edizione speciale a Roma dal 25 al 27 settembre",
+    "Melissa Febos apre le anteprime del Festival inQuiete a maggio",
+    "Tema 'Rivolta' per il decennale del Festival inQuiete: la rabbia diventa cultura"
+  ],
+  "title_winner": null,
+  "section": "cultura",
+  "occhiello": "DIECI ANNI DEL FESTIVAL INQUIETE CELEBRATI NEL 2026 CON IL TEMA RIVOLTA",
+  "lead": "OCCHIELLO: Dieci anni del Festival inQuiete: il tema Rivolta celebra il decennale LEAD: Il Festival inQuiete celebra i suoi dieci anni con il tema Rivolta, a Roma dal 25 al 27 settembre. La manifestazione è stata anticipata da anteprime il 20, 21 e 23 maggio, aperte da Melissa Febos. CORPO 1: Il Festival inQuiete è un festival, un evento festivo centrato su un certo tema, che si tiene a",
+  "corpo1": "Roma ogni anno. Quest'anno, per celebrare i suoi dieci anni, si è scelta la tema Rivolta. Secondo ANSA, la manifestazione sarà aperta da anteprime dal 20 al 23 maggio, a cui seguirà la versione completa dal 25 al 27 settembre. Il Festival inQuiete è un evento che attrae una grande folla di persone, come è successo in passato, e la scelta del tema Rivolta è stata probabilmente una scelta significativa per attirare l'attenzione dei partecipanti",
+  "corpo2": "Attrarre l'attenzione dei partecipanti. CORPO 2: Il Festival inQuiete è un evento che ha una lunga storia, fondato dieci anni fa. È stato fondato dieci anni fa, e da allora si è sempre svolto a Roma. Il tema Rivolta è una scelta interessante, poiché potrebbe essere visto come un invito a esplorare le dinamiche di potere e di opposizione che si verificano nella società, come la libertà di espressione, la giustizia sociale e la democrazia partecipativa. In passato, il Festival inQuiete ha ospitato molti artisti e speaker che hanno trattato temi come la libertà di espressione, la giustizia sociale e la democrazia partecipativa. Quest'anno, il tema Rivolta potrebbe essere un'opportunità per esplorare queste dinamiche in modo più profondo. Chiusura: Se il Festival inQuiete continuerà a crescere con questi numeri, tra due anni il dibattito mainstream non potrà più ignorare il tema Rivolta, che diventerà sempre più una questione centrale nella società italiana, come è già successo in passato.",
+  "journalist": {
+    "id": "tommaso_riva_01",
+    "firma": "Tommaso Riva",
+    "sezione": "cultura"
+  },
+  "published_at": "2026-04-07T22:53:00.735823+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://www.ansa.it/webimages/img_1129x635/2023/9/21/f383491d7300f1d956026b9cec863ef5.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Festival inQuiete compie 10 anni: edizione speciale a Roma dal 25 al 27 settembre\",\n  \"description\": \"OCCHIELLO: Dieci anni del Festival inQuiete: il tema Rivolta celebra il decennale LEAD: Il Festival inQuiete celebra i suoi dieci anni con il tema Rivolta, a Roma dal 25 al 27 settembre. La manifestazione è stata anticipata da anteprime il 20, 21 e 23 maggio, aperte da Melissa Febos. CORPO 1: Il Fes\",\n  \"articleBody\": \"OCCHIELLO: Dieci anni del Festival inQuiete: il tema Rivolta celebra il decennale LEAD: Il Festival inQuiete celebra i suoi dieci anni con il tema Rivolta, a Roma dal 25 al 27 settembre. La manifestazione è stata anticipata da anteprime il 20, 21 e 23 maggio, aperte da Melissa Febos. CORPO 1: Il Festival inQuiete è un festival, un evento festivo centrato su un certo tema, che si tiene a Roma ogni anno. Quest'anno, per celebrare i suoi dieci anni, si è scelta la tema Rivolta. Secondo ANSA, la manifestazione sarà aperta da anteprime dal 20 al 23 maggio, a cui seguirà la versione completa dal 25 al 27 settembre. Il Festival inQuiete è un evento che attrae una grande folla di persone, come è successo in passato, e la scelta del tema Rivolta è stata probabilmente una scelta significativa per attirare l'attenzione dei partecipanti Attrarre l'attenzione dei partecipanti. CORPO 2: Il Festival inQuiete è un evento che ha una lunga storia, fondato dieci anni fa. È stato fondato dieci anni fa, e da allora si è sempre svolto a Roma. Il tema Rivolta è una scelta interessante, poiché potrebbe essere visto come un invito a esplorare le dinamiche di potere e di opposizione che si verificano nella società, come la libertà di espressione, la giustizia sociale e la democrazia partecipativa. In passato, il Festival inQuiete ha ospitato molti artisti e speaker che hanno trattato temi come la libertà di espressione, la giustizia sociale e la democrazia partecipativa. Quest'anno, il tema Rivolta potrebbe essere un'opportunità per esplorare queste dinamiche in modo più profondo. Chiusura: Se il Festival inQuiete continuerà a crescere con questi numeri, tra due anni il dibattito mainstream non potrà più ignorare il tema Rivolta, che diventerà sempre più una questione centrale nella società italiana, come è già successo in passato.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Tommaso Riva\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-07T22:53:00.735823+00:00\",\n  \"dateModified\": \"2026-04-07T22:53:00.735823+00:00\",\n  \"url\": \"https://lentemattutina.it/cultura/3e364f7794c5c717\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cultura/3e364f7794c5c717\"\n  },\n  \"articleSection\": \"Cultura\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.ansa.it/webimages/img_1129x635/2023/9/21/f383491d7300f1d956026b9cec863ef5.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 5,
+  "source": "ANSA Cultura",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/cultura/libri/2026/04/07/dieci-anni-del-festival-inquiete-celebrati-nel-2026-con-il-tema_4b96cb51-1060-45b7-b7b5-f59e848affde.html",
+  "related": [
+    {
+      "title": "Francis Ford Coppola compie 87 anni e annuncia nuovo film in Basilicata",
+      "url": "/cultura/francis-ford-coppola-compie-87-anni-e-annuncia-nuo-70e483794418b489",
+      "id": "70e483794418b489",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/8/27/ee1e92632c6b2185aed3ae4cf8e526b9.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Giuseppe Sebaste scompare a 66 anni: l'ultima cerimonia si è svolta ad Amelia",
+      "url": "/cultura/giuseppe-sebaste-scompare-a-66-anni-lultima-cerimo-b96079eb0dbca6d7",
+      "id": "b96079eb0dbca6d7",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/6/f076c972124cdcdd509c4e95c1055b02.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Natalia Lombardo al festival Incanti",
+      "url": "/cultura/natalia-lombardo-al-festival-incanti-e4ba0cdb22f032cf",
+      "id": "e4ba0cdb22f032cf",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/d52378730be1544dfdf6d7293d9e9536.jpg",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": true
+}
