@@ -1,5 +1,23 @@
 [
   {
+    "id": "aa824de3283c5336",
+    "slug": "calcio-arsenal-vince-0-1-aa824de3283c5336",
+    "title": "Calcio: Arsenal vince 0-1",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-07T22:39:56.493850+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/26031bd6471ada61ce5715ddbd041f8f.jpg",
+    "occhiello": "ARSENAL VINCE A LISBONIA, SPINTA DA TROSSARD",
+    "lead_preview": "Martedì 7 aprile 2026. La squadra londinese vince contro lo Sporting Lisbona con un gol di Leandro Trossard al 65'. La p",
+    "tags": [
+      "champions league",
+      "arsenal sporting lisbona"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "cea65359f62e7505",
     "slug": "calcio-thiago-pitarch-titolare-a-18-anni-cea65359f62e7505",
     "title": "Calcio: Thiago Pitarch titolare a 18 anni",
@@ -8844,24 +8862,6 @@
       "ozon",
       "lo straniero",
       "francois ozon"
-    ]
-  },
-  {
-    "id": "3ad182147d8e8124",
-    "slug": "17-proprietari-a-londra-bloccati-per-850000-sterli-3ad182147d8e8124",
-    "title": "17 propietari bloccati fuori casa da 850mila sterline di debiti",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-02T06:27:19.506736+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1546270417-0f5ab3c82371?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxVcHBlciUyMENsYXB0b24lMjBMb25kb258ZW58MHwwfHx8MTc3NTE4MzEwNXww&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "FONDI SCOMPARSI DOPO IL VOTO: 17 PROPRIETARI BLOCCATI FUORI CASA A LONDRA",
-    "lead_preview": "17 Proprietari di appartamenti a Upper Clapton, Londra, sono stati bloccati fuori casa a partire dal 1° aprile 2026 per ",
-    "tags": [
-      "blocco case londra",
-      "debito affitti londra",
-      "proprietari fuori casa"
     ]
   }
 ]
