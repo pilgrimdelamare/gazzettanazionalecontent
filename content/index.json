@@ -1,5 +1,24 @@
 [
   {
+    "id": "1e21790114e0aa21",
+    "slug": "iran-chiude-lo-stretto-di-hormuz-per-16-ore-23-mil-1e21790114e0aa21",
+    "title": "Iran chiude lo Stretto di Hormuz per 16 ore: 2,3 miliardi di perdite per l'industria Italiana",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-07T23:28:23.756462+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/07/225411812-160fe618-220e-4418-b2b8-d0d35ddb8272.jpg",
+    "occhiello": "2 MILIARDI DI ORDINI BLOCCATI NEL GOLFO",
+    "lead_preview": "Il 7 aprile lo stretto di Hormuz è rimasto blindato per sedici ore, e l'industria Italiana ha perso 2,3 miliardi di ordi",
+    "tags": [
+      "stretto di hormuz",
+      "crisi energetica",
+      "iran"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "5392143f177d634b",
     "slug": "von-der-leyen-ferma-laustralia-stop-a-prosecco-ent-5392143f177d634b",
     "title": "Von der Leyen ferma l'Australia: stop a Prosecco entro",
@@ -8890,24 +8909,6 @@
     "tags": [
       "f1 monza",
       "filming day ferrari"
-    ]
-  },
-  {
-    "id": "23441f27cee59ca0",
-    "slug": "navio-danese-affondato-da-nelson-ritrovato-dopo-22-23441f27cee59ca0",
-    "title": "Relitto della Dannebroge trovato dopo 225 anni nel fiordo di Køge",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-02T11:18:42.195318+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1714477675941-a63a8da1dded?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxiYXR0bGUlMjBvZiUyMGNvcGVuaGFnZW4lMjAxODAxfGVufDB8MHx8fDE3NzUyMTAyMTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "",
-    "lead_preview": "Horatio Nelson affondò la nave da guerra danese Dannebroge durante la battaglia di Copenaghen nel 1801, e dopo 225 anni ",
-    "tags": [
-      "relitto dannebroge",
-      "battaglia copenaghen",
-      "horatio nelson"
     ]
   }
 ]
