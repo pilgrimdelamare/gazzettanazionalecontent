@@ -1,5 +1,24 @@
 [
   {
+    "id": "db209f3bd57f8775",
+    "slug": "novo-nordisk-ammonita-per-morti-non-segnalate-db209f3bd57f8775",
+    "title": "Novo Nordisk ammonita per morti non segnalate",
+    "section": "salute",
+    "priority": 5,
+    "journalist_firma": "Francesca Nardi",
+    "published_at": "2026-04-07T22:45:30.450353+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/07/05/AdobeStock_692976077_Editorial_Use_Only-scaled.jpeg",
+    "occhiello": "SEMAGLUTIDE, FDA AMMONISCE NOVO NORDISK",
+    "lead_preview": "La FDA ha ammonito la Novo Nordisk per non aver segnalato casi di morte e suicidi tra gli effetti avversi del farmaco a ",
+    "tags": [
+      "caso semaglutide",
+      "novonordisk",
+      "fda ammonisce"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "e4ba0cdb22f032cf",
     "slug": "natalia-lombardo-al-festival-incanti-e4ba0cdb22f032cf",
     "title": "Natalia Lombardo al festival Incanti",
@@ -8853,22 +8872,5 @@
     "occhiello": "KUWAIT SI PREPARA A DIFENDERSI",
     "lead_preview": "Il Kuwait si appresta a difendersi da una possibile escalation della guerra tra USA-Israel e l'Iran, come annunciato dal",
     "tags": []
-  },
-  {
-    "id": "e596f6f886fd0c2a",
-    "slug": "2000-detenuti-liberati-senza-spiegazioni-e596f6f886fd0c2a",
-    "title": "Cuba, 2000 detenuti liberati per la settimana santa",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-03T02:41:27.486320+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Cuba_-_Cuban_road.jpg",
-    "occhiello": "CUBA SCARICA 2.000 DETENUTI SENZA DIRE PERCHÉ",
-    "lead_preview": "L'Avana ha annunciato il 3 aprile la liberazione di oltre 2.000 detenuti in occasione della settimana santa, senza forni",
-    "tags": [
-      "liberazione detenuti cuba",
-      "settimana santa cuba"
-    ]
   }
 ]
