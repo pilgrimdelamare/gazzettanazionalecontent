@@ -1,5 +1,22 @@
 [
   {
+    "id": "cfd747ec81f03003",
+    "slug": "sky-primaset-aumenta-la-sua-audience-cfd747ec81f03003",
+    "title": "Sky: Primaset aumenta la sua audience",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-07T22:45:53.088273+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/3da65b75964bab14e5548d0418b3c2d0.jpg",
+    "occhiello": "PRIMASET ARRIVA SU SKY",
+    "lead_preview": "Primaset, canale di intrattenimento e informazione, ora disponibile anche sul canale 808 di Sky.",
+    "tags": [
+      "primaset sky"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "d65432222939ddb9",
     "slug": "duchamp-al-moma-e-a-philly-d65432222939ddb9",
     "title": "Duchamp al MoMA e a Philly",
@@ -8857,24 +8874,6 @@
       "omicidio wittke",
       "perizia kauffmann",
       "processo monaco"
-    ]
-  },
-  {
-    "id": "7162bde3c27ab4ff",
-    "slug": "franco-colapinto-e-stato-fatto-oggetto-di-messaggi-7162bde3c27ab4ff",
-    "title": "F1: Oltre 200 messaggi d'odio a Colapinto dopo il GP di San Paolo",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-02T18:36:21.140450+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/%D0%9A%D0%B0%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B2%D0%B5%D0%BA_%281%29.jpg",
-    "occhiello": "OLTRE 200 MESSAGGI D'ODIO A COLAPINTO",
-    "lead_preview": "Franco Colapinto, pilota argentino con cittadinanza italiana, ha ricevuto oltre duecento messaggi d'odio sui social medi",
-    "tags": [
-      "messaggi odio colapinto",
-      "gp san paolo 2026",
-      "franco colapinto f1"
     ]
   }
 ]
