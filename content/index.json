@@ -1,5 +1,24 @@
 [
   {
+    "id": "b845995d0d301520",
+    "slug": "disney-lancia-espn-in-italia-sport-live-inclusi-ne-b845995d0d301520",
+    "title": "Disney+ lancia ESPN in Italia: sport live inclusi nell'abbonamento da 8,99 euro",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-07T22:48:17.178062+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/f2c580763ca5de9931805fa0147db398.jpg",
+    "occhiello": "",
+    "lead_preview": "Disney+ ha lanciato oggi, martedì 7 aprile 2026, il canale ESPN in 53 Paesi e territori, tra cui l’Italia, integrando pe",
+    "tags": [
+      "lancio espn italia",
+      "disney+ sport",
+      "abbonamento espn"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "b96079eb0dbca6d7",
     "slug": "giuseppe-sebaste-scompare-a-66-anni-lultima-cerimo-b96079eb0dbca6d7",
     "title": "Giuseppe Sebaste scompare a 66 anni: l'ultima cerimonia si è svolta ad Amelia",
@@ -8864,23 +8883,6 @@
     "tags": [
       "euro 2032",
       "michele uva"
-    ]
-  },
-  {
-    "id": "05bc96be853dede3",
-    "slug": "harvard-47-lavoratori-sprecano-tempo-a-correggere-05bc96be853dede3",
-    "title": "Lavoratori italiani: 58 minuti persi al giorno per errori AI",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-02T10:04:16.307365+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1726649339367-c2577a28881b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHx1b21vJTIwYWwlMjBjb21wdXRlciUyMGNvbiUyMGVzcHJlc3Npb25lJTIwZnJ1c3RyYXRhfGVufDB8MHx8fDE3NzUxOTQyODd8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "ITALIA PERDE 58 MINUTI AL GIORNO",
-    "lead_preview": "Secondo una recente indagine, un lavoratore italiano su due perde in media 58 minuti ogni giornata lavorativa a corregge",
-    "tags": [
-      "intelligenza artificiale",
-      "produttivita lavoro"
     ]
   }
 ]
