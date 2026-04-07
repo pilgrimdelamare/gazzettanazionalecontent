@@ -1,0 +1,57 @@
+{
+  "id": "ae7796b38f07be0c",
+  "slug": "20enne-ucciso-a-crema-ae7796b38f07be0c",
+  "title": "20Enne ucciso a Crema",
+  "titles": [
+    "20Enne ucciso a Crema",
+    "Ragazzo di 17 anni arrestato",
+    "Vittima di violenza a San Bernardino"
+  ],
+  "title_winner": null,
+  "section": "cronaca",
+  "occhiello": "VENTENNE MUORE A COLTELLATE A CREMA",
+  "lead": "Hamza Salama, 20 anni è morto ieri sera a causa delle ferite a Crema dopo essere Stato aggredito con coltellate e sprangate. L'aggressore, un 17enne, è stato fermato L'episodio è avvenuto nel quartiere di San Bernardino a Crema",
+  "corpo1": "Hamza Salama, un ventenne di origini straniere, è morto ieri sera a causa delle ferite all'ospedale di Crema dopo essere Stato vittima di un'aggressione con coltellate e sprangate. L'episodio è avvenuto intorno alle 19.00 nel quartiere di San Bernardino, a Crema. L'aggressore, un ragazzo di 17 anni, è Stato immediatamente fermato dalle forze dell'ordine. La polizia ha confermato che l'aggressore è Stato identificato e portato in Stato di fermo. La polizia indaga su un possibile regolamento di conti La vittima, Hamza Salama, è stata soccorsa e trasportata in ospedale, dove è deceduta poco dopo il ricovero.",
+  "corpo2": "Questo episodio di violenza è il più recente di una Serie di eventi che hanno destato preoccupazione nella comunità locale di Crema. Nei mesi scorsi, la città ha visto un aumento degli episodi di violenza giovanile, spesso legati a questioni di droga e regolamento di Conti. L'aggressore, un minorenne, è Stato fermato e sarà probabilmente processato per omicidio. La comunità locale è scossa da questo evento e chiede misure più efficaci per prevenire la violenza giovanile. La famiglia della vittima è stata informata e sarà assistita dalle autorità. Il comune di Crema ha annunciato che aumenterà la presenza delle forze dell'ordine nel quartiere di San Bernardino per garantire la Sicurezza dei residenti. A pagare saranno i soliti noti",
+  "journalist": {
+    "id": "roberto_neri_01",
+    "firma": "Roberto Neri",
+    "sezione": "cronaca"
+  },
+  "published_at": "2026-04-07T22:43:34.320253+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/e70467bc4c1fa0e43d37c2a48a987ae4.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"20Enne ucciso a Crema\",\n  \"description\": \"Hamza Salama, 20 anni è morto ieri sera a causa delle ferite a Crema dopo essere Stato aggredito con coltellate e sprangate. L'aggressore, un 17enne, è stato fermato L'episodio è avvenuto nel quartiere di San Bernardino a Crema\",\n  \"articleBody\": \"Hamza Salama, 20 anni è morto ieri sera a causa delle ferite a Crema dopo essere Stato aggredito con coltellate e sprangate. L'aggressore, un 17enne, è stato fermato L'episodio è avvenuto nel quartiere di San Bernardino a Crema Hamza Salama, un ventenne di origini straniere, è morto ieri sera a causa delle ferite all'ospedale di Crema dopo essere Stato vittima di un'aggressione con coltellate e sprangate. L'episodio è avvenuto intorno alle 19.00 nel quartiere di San Bernardino, a Crema. L'aggressore, un ragazzo di 17 anni, è Stato immediatamente fermato dalle forze dell'ordine. La polizia ha confermato che l'aggressore è Stato identificato e portato in Stato di fermo. La polizia indaga su un possibile regolamento di conti La vittima, Hamza Salama, è stata soccorsa e trasportata in ospedale, dove è deceduta poco dopo il ricovero. Questo episodio di violenza è il più recente di una Serie di eventi che hanno destato preoccupazione nella comunità locale di Crema. Nei mesi scorsi, la città ha visto un aumento degli episodi di violenza giovanile, spesso legati a questioni di droga e regolamento di Conti. L'aggressore, un minorenne, è Stato fermato e sarà probabilmente processato per omicidio. La comunità locale è scossa da questo evento e chiede misure più efficaci per prevenire la violenza giovanile. La famiglia della vittima è stata informata e sarà assistita dalle autorità. Il comune di Crema ha annunciato che aumenterà la presenza delle forze dell'ordine nel quartiere di San Bernardino per garantire la Sicurezza dei residenti. A pagare saranno i soliti noti\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Roberto Neri\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-07T22:43:34.320253+00:00\",\n  \"dateModified\": \"2026-04-07T22:43:34.320253+00:00\",\n  \"url\": \"https://lentemattutina.it/cronaca/ae7796b38f07be0c\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cronaca/ae7796b38f07be0c\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.ansa.it/webimages/img_1129x635/2026/4/7/e70467bc4c1fa0e43d37c2a48a987ae4.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 5,
+  "source": "ANSA Cronaca",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/cronaca/2026/04/07/aggredito-e-preso-a-sprangate-in-strada-muore-ventenne-a-crema_60811692-6787-46a0-ae81-96d896af088a.html",
+  "related": [
+    {
+      "title": "43Enne travolto e ucciso da una Mercedes mentre riparava la sua Golf a Sassari",
+      "url": "/cronaca/43enne-travolto-e-ucciso-da-una-mercedes-mentre-ri-07fd93baf1b2fba0",
+      "id": "07fd93baf1b2fba0",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/a23cd930b73685e42ebe28a72aa1314d.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Blocco oleodotto nel Golfo di Trieste rallenta il traffico petroliero",
+      "url": "/cronaca/blocco-oleodotto-nel-golfo-di-trieste-rallenta-il-26caa56ce5e57255",
+      "id": "26caa56ce5e57255",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2014/6/11/b6eb925b9808969e9f617aa8b1f69711.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Ellekappa cancella l'Africa in una vignetta su Repubblica, 38mila condivisioni in 12 ore",
+      "url": "/cronaca/ellekappa-cancella-lafrica-in-una-vignetta-su-repu-eac6693fb6e9694c",
+      "id": "eac6693fb6e9694c",
+      "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/07/195700769-9dc03208-e72a-42c0-b187-80d1077b0313.jpg",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": true
+}
