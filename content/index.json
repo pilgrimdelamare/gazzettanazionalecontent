@@ -1,5 +1,24 @@
 [
   {
+    "id": "96f117f8d9fb1670",
+    "slug": "papa-leone-xiv-guerra-alliran-inaccettabile-96f117f8d9fb1670",
+    "title": "Papa Leone XIV: Guerra all'Iran inaccettabile",
+    "section": "esteri",
+    "priority": 7,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-07T22:37:31.922256+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/07/24307829_small-1200x630.jpg",
+    "occhiello": "LEONE XIV CONTRO TRUMP: MINACCIA IRAN \"INACCETTABILE\"",
+    "lead_preview": "Leone XIV, Papa della Chiesa cattolica, ha definito \"inaccettabile\" la minaccia del presidente degli Stati Uniti Donald ",
+    "tags": [
+      "guerra iran",
+      "papa leone xiv",
+      "trump iran"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "29a7c94738ab3fef",
     "slug": "bombardato-per-sbaglio-il-palazzo-del-leader-crist-29a7c94738ab3fef",
     "title": "Bombardato per sbaglio il palazzo del leader cristiano libanese",
@@ -8840,24 +8859,6 @@
       "moira deeming",
       "partito liberale victoria",
       "consiglio legislativo victoria"
-    ]
-  },
-  {
-    "id": "c5c6d0e01fb2c43d",
-    "slug": "lancio-artemis-ii-da-cape-canaveral-davanti-a-18-m-c5c6d0e01fb2c43d",
-    "title": "L'Apollo 4 decolla da Cape Canaveral per la prima volta, 18 milioni di occhi su di lui",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-02T10:19:07.834277+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/The_geologic_map_of_the_Moon_at_1-2.5M_scale.png",
-    "occhiello": "IL LANCIO DI ARTEMIS II DA CAPE CANAVERAL: 18 MILIONI DI SPOGLIATORI HANNO VISTO IL RICOMINCIAMENTO DEGLI ULTIMI ASTRONAUTI AMERICANI NELLO SPAZIO",
-    "lead_preview": "Il 1° aprile 2026, alle 10:19:07 UTC, l'Apollo 4 (nome in codice: Artemis II) è decollato da Cape Canaveral, Florida, pe",
-    "tags": [
-      "apollo 4",
-      "lancio spaziale",
-      "arteims ii"
     ]
   }
 ]
