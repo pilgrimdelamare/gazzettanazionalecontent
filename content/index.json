@@ -1,5 +1,23 @@
 [
   {
+    "id": "aabb601aa6b4b782",
+    "slug": "dario-fo-omaggiato-a-umbria-jazz-2026-con-la-danza-aabb601aa6b4b782",
+    "title": "Dario Fo omaggiato a Umbria jazz 2026 con 'La Danza degli Zanni'",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-07T22:48:43.644688+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/0d4c9511cba5eece049343281f037a4d.jpg",
+    "occhiello": "DARIO FO OMAGGIA L'UMBRIA JAZZ",
+    "lead_preview": "Dario Fo, Premio Nobel per la letteratura nel 1997, sarà omaggiato con la sua opera \"La Danza degli Zanni\" nel manifesto",
+    "tags": [
+      "umbria jazz 2026",
+      "dario fo"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "aca70e242e0c0975",
     "slug": "primus-torna-in-italia-sold-out-al-circolo-magnoli-aca70e242e0c0975",
     "title": "Primus torna in Italia, sold out al Circolo Magnolia",
@@ -8867,23 +8885,6 @@
     "tags": [
       "nuovo centro sportivo pisa",
       "pisa 2027"
-    ]
-  },
-  {
-    "id": "fe344dac1b2c45cf",
-    "slug": "blazers-multati-per-contatti-illeciti-con-il-futur-fe344dac1b2c45cf",
-    "title": "NBA: multa da 250mila dollari ai Blazers",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-02T09:33:13.285887+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1752166670860-4cd0952b7306?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxOQkElMjBtdWx0YXxlbnwwfDB8fHwxNzc1MTk2NDYzfDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "TRAIL BLAZERS MULTATI PER CONTATTI ILLECITI CON ROOKIE CINESE",
-    "lead_preview": "I Portland Trail Blazers dovranno pagare 250.000 dollari di multa alla NBA per contatti illeciti con Yang Hansen, selezi",
-    "tags": [
-      "nba multa blazers",
-      "blazers draft illecito"
     ]
   }
 ]
