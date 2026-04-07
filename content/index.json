@@ -1,5 +1,23 @@
 [
   {
+    "id": "c68c9e525ef88ef2",
+    "slug": "250-copie-di-eduardo-de-filippo-c68c9e525ef88ef2",
+    "title": "250 Copie di Eduardo de Filippo",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-07T22:47:02.720712+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/29/fe12f3f73e551a9b6bcbb9540559202c.jpg",
+    "occhiello": "DE FILIPPO RISORGE IN SALA",
+    "lead_preview": "Eduardo de Filippo torna nei cinema dal 7 aprile con in sala piccolo miracolo sconosciuto, documentario-evento diretto d",
+    "tags": [
+      "eduardo de filippo",
+      "documentario evento"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c7551c7ae323a1fa",
     "slug": "levante-in-tour-10-concerti-estivi-c7551c7ae323a1fa",
     "title": "Levante in tour: 10 concerti estivi",
@@ -8857,24 +8875,6 @@
     "tags": [
       "wall street",
       "borsa new york"
-    ]
-  },
-  {
-    "id": "87ee2cc66618798c",
-    "slug": "laminiscua-fotocamera-vintage-di-kodak-charmera-un-87ee2cc66618798c",
-    "title": "Kodak lancia la Charmera, fotocamera da 30 grammi ispirata alle usa e getta anni '90",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-04-02T10:06:10.125162+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1763649278529-eabc7bacdf37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxkaWdpdGFsJTIwZGlzcG9zYWJsZSUyMGNhbWVyYXxlbnwwfDB8fHwxNzc1MTkzNzM5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "LA FOTOCAMERA USA E GETTA DIGITALE RILANCIA LA KODAK",
-    "lead_preview": "Il 2 aprile 2026, la Eastman Kodak Company ha lanciato la Charmera, una fotocamera digitale da 30 grammi e 58 × 24,5 × 2",
-    "tags": [
-      "lancio charmera",
-      "kodak digitale",
-      "fotocamera usa e getta"
     ]
   }
 ]
