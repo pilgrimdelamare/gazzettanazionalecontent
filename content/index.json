@@ -1,5 +1,24 @@
 [
   {
+    "id": "47a587e90285890a",
+    "slug": "emilio-isgro-riceve-il-premio-cultura-del-mediterr-47a587e90285890a",
+    "title": "Emilio Isgrò riceve il Premio Cultura del Mediterraneo a Porto Cervo l'18 aprile",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-07T22:44:21.775172+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/11/27/385743d659259d22c0cb3f1734d2ba23.jpg",
+    "occhiello": "PREMIO CULTURA DEL MEDITERRANEO PER EMILO ISGRÒ",
+    "lead_preview": "Il 18 aprile a Porto Cervo si terrà la premiazione del Premio Costa Smeralda, dove Emilio Isgrò riceverà il riconoscimen",
+    "tags": [
+      "premio cultura del mediterraneo",
+      "emilio isgrò",
+      "porto cervo"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "0991adf98fea4a51",
     "slug": "colombia-investe-25-miliardi-in-solare-per-ridurre-0991adf98fea4a51",
     "title": "Colombia investe 2,5 miliardi in solare per ridurre dipendenza dal petrolio",
@@ -8848,24 +8867,6 @@
       "dimissioni buffon",
       "italia bosnia",
       "sconfitta calcio"
-    ]
-  },
-  {
-    "id": "4cc87fbacb6b8d34",
-    "slug": "procuratrice-antonelli-preoccupazione-per-ragazza-4cc87fbacb6b8d34",
-    "title": "Elvira Antonelli: 'Troppo pressione sulla sopravvissuta di Pietracatella'",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Chiara Esposito",
-    "published_at": "2026-04-02T15:30:25.219255+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/35062497/pexels-photo-35062497.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "FONDI SCOMPARSI DOPO IL VOTO NELLA VICENDA DELLA FAMIGLIA SOSPESA A PIETRACTELLA",
-    "lead_preview": "Il capo della Procura di Larino, Elvira Antonelli, ha espresso preoccupazione per il peso mediatico che la ragazza sopra",
-    "tags": [
-      "caso pietracatella",
-      "sopravvissuta pietracatella",
-      "indagine pietracatella"
     ]
   }
 ]
