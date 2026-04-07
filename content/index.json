@@ -1,5 +1,23 @@
 [
   {
+    "id": "8a685bc1665b7262",
+    "slug": "la-frick-collection-a-ny-mostra-su-maria-antoniett-8a685bc1665b7262",
+    "title": "La Frick Collection a NY, mostra su Maria Antonietta e la moda del '700",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-07T22:49:35.971843+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/7207a6915c1707f80f70fc5f15c41940.jpg",
+    "occhiello": "MOSTRA SULLA MODA DEL 18/O SECOLO ALLA FRICK COLLECTION",
+    "lead_preview": "La Frick Collection di New York ospita fino al 7 giugno una mostra sullo stile opulento dell'abito francese nel 18/o sec",
+    "tags": [
+      "mostra maria antonietta",
+      "moda 18 secolo"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "9408288e84a53560",
     "slug": "su-raiplay-il-film-happy-holidays-dall11-aprile-9408288e84a53560",
     "title": "Su RaiPlay il film 'Happy Holidays' dall'11 aprile",
@@ -8873,24 +8891,6 @@
       "aggressione brescia",
       "bambino in coma",
       "fermo minorenni"
-    ]
-  },
-  {
-    "id": "854b3dd1c2744d28",
-    "slug": "renault-73-di-vendite-in-italia-nel-primo-trimestr-854b3dd1c2744d28",
-    "title": "Renault vola in Italia: +7,3% di vendite, ora controlla il 6,8% del mercato",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-02T10:21:10.039721+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1738238703655-4eef1ed13d01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxSZW5hdWx0JTIwbG9nb3xlbnwwfDB8fHwxNzc1MTk5MDgwfDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "RENAULT RAGGIUNGE IL 6,8% DI QUOTA DI MERCATO IN ITALIA",
-    "lead_preview": "Renault ha aumentato le vendite in Italia del 7,3% nel primo trimestre 2026, conquistando una quota di mercato del 6,8%.",
-    "tags": [
-      "renault italia",
-      "vendite auto 2026",
-      "mercato auto italia"
     ]
   }
 ]
