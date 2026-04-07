@@ -1,0 +1,57 @@
+{
+  "id": "5ee00affa0623cbd",
+  "slug": "oriana-celentano-protagonista-della-serie-polacca-5ee00affa0623cbd",
+  "title": "Oriana Celentano protagonista della serie polacca 'Felicità' a Polignano a Mare",
+  "titles": [
+    "Oriana Celentano protagonista della serie polacca 'Felicità' a Polignano a Mare",
+    "Polignano a Mare, location scelta per la serie 'Felicità' con Oriana Celentano",
+    "Oriana Celentano, nuovo ruolo nella serie polacca 'Felicità': le riprese in Puglia"
+  ],
+  "title_winner": null,
+  "section": "cultura",
+  "occhiello": "ORIANA CELENTANO PROTAGONISTA DI UNA SERIE POLACCA A POLIGNANO",
+  "lead": "Oriana Celentano sarà la protagonista italiana della nuova serie polacca 'Felicità', diretta da Makary Janowski. Le riprese sono in corso a Polignano a Mare, in Puglia.",
+  "corpo1": "La cittadina pugliese di Polignano a Mare è stata scelta come location per le riprese della nuova serie polacca 'Felicità', che vede coinvolta l'attrice Italiana Oriana Celentano. La serie, diretta da Makary Janowski, sarà composta da 26 episodi. Polignano a Mare, con 17 271 abitanti, è un comune della città metropolitana di Bari che si trova a 33 chilometri a sud del capoluogo. La scelta della location è probabilmente dovuta alla bellezza paesaggistica del luogo, che potrebbe offrire un interessante scenario per la storia.",
+  "corpo2": "Oriana Celentano è un volto noto del cinema italiano, e la sua partecipazione a questa serie polacca potrebbe essere un'opportunità per ampliare il suo pubblico Internazionale. La serie 'Felicità' sembra essere un progetto ambizioso, con una struttura narrativa che potrebbe essere interessante per il pubblico. La produzione ha scelto di ambientare la storia a Polignano a Mare, che potrebbe offrire un tocco di autenticità alla vicenda. A pagare i costi della produzione saranno i contribuenti polacchi, che sperano di vedere un ritorno economico dalla serie.",
+  "journalist": {
+    "id": "tommaso_riva_01",
+    "firma": "Tommaso Riva",
+    "sezione": "cultura"
+  },
+  "published_at": "2026-04-07T22:51:06.229658+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/b04595482b60eb1e847b4ed7433b0661.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Oriana Celentano protagonista della serie polacca 'Felicità' a Polignano a Mare\",\n  \"description\": \"Oriana Celentano sarà la protagonista italiana della nuova serie polacca 'Felicità', diretta da Makary Janowski. Le riprese sono in corso a Polignano a Mare, in Puglia.\",\n  \"articleBody\": \"Oriana Celentano sarà la protagonista italiana della nuova serie polacca 'Felicità', diretta da Makary Janowski. Le riprese sono in corso a Polignano a Mare, in Puglia. La cittadina pugliese di Polignano a Mare è stata scelta come location per le riprese della nuova serie polacca 'Felicità', che vede coinvolta l'attrice Italiana Oriana Celentano. La serie, diretta da Makary Janowski, sarà composta da 26 episodi. Polignano a Mare, con 17 271 abitanti, è un comune della città metropolitana di Bari che si trova a 33 chilometri a sud del capoluogo. La scelta della location è probabilmente dovuta alla bellezza paesaggistica del luogo, che potrebbe offrire un interessante scenario per la storia. Oriana Celentano è un volto noto del cinema italiano, e la sua partecipazione a questa serie polacca potrebbe essere un'opportunità per ampliare il suo pubblico Internazionale. La serie 'Felicità' sembra essere un progetto ambizioso, con una struttura narrativa che potrebbe essere interessante per il pubblico. La produzione ha scelto di ambientare la storia a Polignano a Mare, che potrebbe offrire un tocco di autenticità alla vicenda. A pagare i costi della produzione saranno i contribuenti polacchi, che sperano di vedere un ritorno economico dalla serie.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Tommaso Riva\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-07T22:51:06.229658+00:00\",\n  \"dateModified\": \"2026-04-07T22:51:06.229658+00:00\",\n  \"url\": \"https://lentemattutina.it/cultura/5ee00affa0623cbd\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cultura/5ee00affa0623cbd\"\n  },\n  \"articleSection\": \"Cultura\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.ansa.it/webimages/img_1129x635/2026/4/7/b04595482b60eb1e847b4ed7433b0661.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 5,
+  "source": "ANSA Cultura",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/04/07/oriana-celentano-volto-italiano-di-una-nuova-serie-polacca-ciak-a-polignano_f9abed81-9014-4d2f-972f-a3e769759ba7.html",
+  "related": [
+    {
+      "title": "Francis Ford Coppola compie 87 anni e annuncia nuovo film in Basilicata",
+      "url": "/cultura/francis-ford-coppola-compie-87-anni-e-annuncia-nuo-70e483794418b489",
+      "id": "70e483794418b489",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/8/27/ee1e92632c6b2185aed3ae4cf8e526b9.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Alexia torna con nuova musica: il 7 aprile 2026 è il grande annuncio",
+      "url": "/cultura/alexia-torna-con-nuova-musica-il-7-aprile-2026-e-i-75634ea8f35ea28a",
+      "id": "75634ea8f35ea28a",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/6/3cfe1c8c97178e1dca65fa1a344934b3.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Martedì 7 aprile: 'Circle Mirror Transformation' debutta al Teatro Carignano",
+      "url": "/cultura/martedi-7-aprile-circle-mirror-transformation-debu-82423695b64b074b",
+      "id": "82423695b64b074b",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/c51e844a9991ac87aa1e8f3740c1b6ba.jpg",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": true
+}
