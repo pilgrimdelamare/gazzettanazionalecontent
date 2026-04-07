@@ -1,0 +1,58 @@
+{
+  "id": "bbc85dc9246edf69",
+  "slug": "lavenia-unipm-lecoansia-infantile-cresce-col-clima-bbc85dc9246edf69",
+  "title": "Lavenia (UniPM): 'L'Ecoansia infantile cresce col clima emotivo, non solo col rischio ambientale'",
+  "titles": [
+    "Lavenia (UniPM): 'L'Ecoansia infantile cresce col clima emotivo, non solo col rischio ambientale'",
+    "Psicologo dell'Univ. Marche: 'Bambini col terrorismo del futuro, genitori fermatevi'",
+    "7 Aprile 2026: intervista a La Repubblica, allarme sul futuro dei bambini in crisi climatica"
+  ],
+  "title_winner": null,
+  "section": "ambiente",
+  "occhiello": "ECOANSIA NEI BAMBINI, UN PROBLEMA CHE CRESCE INSIEME ALLA CRISI AMBIENTALE",
+  "lead": "Il professor Giuseppe Lavenia, docente di Psicologia all'Università politecnica delle Marche, spiega che l'Ecoansia nei bambini non nasce solo dalla crisi ambientale, ma anche dal clima emotivo che costruiamo intorno a quella crisi. Il 7 aprile 2026, in un'intervista a *la Repubblica*, ha fornito consigli ai genitori su come affrontare questo tipo di disagio.",
+  "corpo1": "Il professor Lavenia sottolinea che un bambino che cresce pensando che il futuro sia un luogo pericoloso è un bambino a cui stiamo togliendo, senza accorgercene, la possibilità di immaginarlo. Secondo lui, i bambini possono soffrire di Ecoansia a causa della preoccupazione legata ai problemi ambientali, ma anche a causa del clima emotivo che si costruisce intorno a questa crisi. Inoltre, l'intervista del professor Lavenia si concentra sulle strategie per aiutare i bambini a gestire le loro paure e a sviluppare una maggiore consapevolezza ambientale. I genitori possono aiutare i bambini a capire che il futuro non è del tutto prevedibile e che ci sono molte cose che possono fare per contribuire a una maggiore sostenibilità. Il professor Lavenia ha anche dichiarato che è importante parlare con i bambini in modo chiaro e onesto, senza esagerare o nascondere la verità. Questo aiuterà i bambini a capire meglio le loro paure e a sviluppare strategie per affrontarle.",
+  "corpo2": "Il professor Lavenia ha anche sottolineato l'importanza di creare un clima emotivo positivo e di incoraggiare i bambini a sperimentare e a esplorare il Mondo intorno a loro. I bambini hanno bisogno di sentire che il futuro è pieno di possibilità e di speranza, e che possono contribuire a crearlo in modo significativo. A pagare saranno i soliti: quei genitori che, distratti o impreparati, lasciano i figli soli di fronte a paure che non sanno nominare. In questo modo, i bambini cresceranno con un senso di responsabilità e di fiducia in se stessi e nel futuro.",
+  "journalist": {
+    "id": "valentina_costa_01",
+    "firma": "Valentina Costa",
+    "sezione": "ambiente"
+  },
+  "published_at": "2026-04-07T22:47:36.429236+00:00",
+  "image": {
+    "type": "feed_image",
+    "url": "https://www.repstatic.it/content/contenthub/img/2026/04/07/110525290-afdd6980-126b-4ae7-817a-40e146f75dbb.jpg",
+    "source": "Repubblica Ambiente",
+    "credit": "Repubblica Ambiente",
+    "license": "editorial"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Lavenia (UniPM): 'L'Ecoansia infantile cresce col clima emotivo, non solo col rischio ambientale'\",\n  \"description\": \"Il professor Giuseppe Lavenia, docente di Psicologia all'Università politecnica delle Marche, spiega che l'Ecoansia nei bambini non nasce solo dalla crisi ambientale, ma anche dal clima emotivo che costruiamo intorno a quella crisi. Il 7 aprile 2026, in un'intervista a *la Repubblica*, ha fornito co\",\n  \"articleBody\": \"Il professor Giuseppe Lavenia, docente di Psicologia all'Università politecnica delle Marche, spiega che l'Ecoansia nei bambini non nasce solo dalla crisi ambientale, ma anche dal clima emotivo che costruiamo intorno a quella crisi. Il 7 aprile 2026, in un'intervista a *la Repubblica*, ha fornito consigli ai genitori su come affrontare questo tipo di disagio. Il professor Lavenia sottolinea che un bambino che cresce pensando che il futuro sia un luogo pericoloso è un bambino a cui stiamo togliendo, senza accorgercene, la possibilità di immaginarlo. Secondo lui, i bambini possono soffrire di Ecoansia a causa della preoccupazione legata ai problemi ambientali, ma anche a causa del clima emotivo che si costruisce intorno a questa crisi. Inoltre, l'intervista del professor Lavenia si concentra sulle strategie per aiutare i bambini a gestire le loro paure e a sviluppare una maggiore consapevolezza ambientale. I genitori possono aiutare i bambini a capire che il futuro non è del tutto prevedibile e che ci sono molte cose che possono fare per contribuire a una maggiore sostenibilità. Il professor Lavenia ha anche dichiarato che è importante parlare con i bambini in modo chiaro e onesto, senza esagerare o nascondere la verità. Questo aiuterà i bambini a capire meglio le loro paure e a sviluppare strategie per affrontarle. Il professor Lavenia ha anche sottolineato l'importanza di creare un clima emotivo positivo e di incoraggiare i bambini a sperimentare e a esplorare il Mondo intorno a loro. I bambini hanno bisogno di sentire che il futuro è pieno di possibilità e di speranza, e che possono contribuire a crearlo in modo significativo. A pagare saranno i soliti: quei genitori che, distratti o impreparati, lasciano i figli soli di fronte a paure che non sanno nominare. In questo modo, i bambini cresceranno con un senso di responsabilità e di fiducia in se stessi e nel futuro.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Valentina Costa\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-07T22:47:36.429236+00:00\",\n  \"dateModified\": \"2026-04-07T22:47:36.429236+00:00\",\n  \"url\": \"https://lentemattutina.it/ambiente/bbc85dc9246edf69\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/ambiente/bbc85dc9246edf69\"\n  },\n  \"articleSection\": \"Ambiente\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.repstatic.it/content/contenthub/img/2026/04/07/110525290-afdd6980-126b-4ae7-817a-40e146f75dbb.jpg\",\n    \"creditText\": \"Repubblica Ambiente\"\n  }\n}",
+  "priority": 5,
+  "source": "Repubblica Ambiente",
+  "source_type": "competitor",
+  "original_url": "https://www.repubblica.it/green-and-blue/2026/04/07/news/ecoansia_bambini_giuseppe_lavenia-425267814/?rss",
+  "related": [
+    {
+      "title": "Greenpeace: l'80% dell'inquinamento da nitrati in Europa viene dagli allevamenti intensivi",
+      "url": "/ambiente/greenpeace-l80-dellinquinamento-da-nitrati-in-euro-fd956497352e4f07",
+      "id": "fd956497352e4f07",
+      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/04/07/121448102-81c9b009-70de-4602-b4a3-cbaf7846e56f.jpg",
+      "image_type": "feed_image"
+    },
+    {
+      "title": "60 metri cubi al secondo: la drammatica uscita d'acqua della diga del Liscione",
+      "url": "/ambiente/diga-del-liscione-60-metri-cubi-al-secondo-per-evi-912cad87869cb893",
+      "id": "912cad87869cb893",
+      "image_url": "https://images.unsplash.com/photo-1709131121922-028189a2c984?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxMaXNjaW9uZSUyMGRpZ2ElMjBmbG9vZHxlbnwwfDB8fHwxNzc1Mjc0Nzc5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Cucinare una volta a settimana riduce il rischio di demenza",
+      "url": "/esteri/lo-studio-giapponese-rivela-una-volta-a-settimana-4d3e2caf0edd263d",
+      "id": "4d3e2caf0edd263d",
+      "image_url": "https://images.pexels.com/photos/12037245/pexels-photo-12037245.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
+    }
+  ],
+  "hero_eligible": true
+}
