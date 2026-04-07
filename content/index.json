@@ -1,5 +1,23 @@
 [
   {
+    "id": "16105a6c7d9594f8",
+    "slug": "calcio-arsenal-batte-lo-sporting-2-0-16105a6c7d9594f8",
+    "title": "Calcio: Arsenal batte lo Sporting 2-0",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-07T22:37:58.481756+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/22ab873320e1ee59f7134efc57804bee2db4ed6b/skysport/it/calcio/ranking-uefa-2025-2026-nazioni/bayern_real_ansa.jpg",
+    "occhiello": "ITALIA FERMA, MA IL PORTOGALLO NON SCAPPA",
+    "lead_preview": "L'Italia, grazie alla vittoria dell'Arsenal contro lo Sporting, resta inchiodata a -1,567 punti dalla Spagna, rimanendo ",
+    "tags": [
+      "arsenal sporting",
+      "champions league"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "b8a579251b1981a9",
     "slug": "calcio-olise-a-3-passi-da-messi-b8a579251b1981a9",
     "title": "Calcio: Olise a 3 passi da Messi",
@@ -8842,24 +8860,6 @@
       "danni economici italia",
       "incuria infrastrutture",
       "crisi manutenzione"
-    ]
-  },
-  {
-    "id": "6d98215bdba8b194",
-    "slug": "credito-popolare-e-pitagora-insieme-per-un-nuovo-p-6d98215bdba8b194",
-    "title": "Banca Credito Popolare e Pitagora uniscono le forze con il quinto in cessione",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-04-02T10:18:38.855509+00:00",
-    "image_type": "none",
-    "image_url": "",
-    "occhiello": "CREDITO POPOLARE E PITAGORA LANCIANO NUOVO PRODOTTO DI CESSIONE DEL QUINTO",
-    "lead_preview": "La Banca Credito Popolare ha lanciato un nuovo prodotto di cessione del quinto in partnership con Pitagora. La notizia è",
-    "tags": [
-      "cessione del quinto",
-      "credito popolare pitagora",
-      "banca credito popolare"
     ]
   }
 ]
