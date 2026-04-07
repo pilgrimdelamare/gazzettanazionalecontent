@@ -1,0 +1,57 @@
+{
+  "id": "eef970fc058a7211",
+  "slug": "simionato-evade-a-torino-e-in-7-minuti-e-di-nuovo-eef970fc058a7211",
+  "title": "Simionato evade a Torino e in 7 minuti è di nuovo in manette ad Arcidosso",
+  "titles": [
+    "Simionato evade a Torino e in 7 minuti è di nuovo in manette ad Arcidosso",
+    "L'argentino fuga dagli arresti domiciliari ma i carabinieri lo bloccano a casa",
+    "Dopo la fuga da Torino, Simionato riacciuffato mentre saluta un'amica a Pasqua"
+  ],
+  "title_winner": null,
+  "section": "sport",
+  "occhiello": "FUGA E ARRESTO A PASQUA",
+  "lead": "Simionato evade dagli arresti a Torino, ma non scampa ai carabinieri che lo ritrovano a Pasqua. La notizia è emersa mercoledì 7 aprile 2026.",
+  "corpo1": "Simionato, l'argentino accusato di scommesse clandestine, è Stato arrestato a Pasqua, nella sua casa di Arcidosso, ma per poco tempo. Secondo ANSA, il 7 aprile 2026, Simionato era fuggito dalle sue case di Torino, dove era Stato posto agli arresti domiciliari. I carabinieri, tuttavia, sono riusciti a rintracciarlo e lo hanno arrestato nuovamente dopo sole 7 minuti, mentre stava salutando una sua amica a Arcidosso. Il motivo della fuga non è ancora chiaro, tuttavia è probabile che sia Stato motivato dalla voglia di passare la Pasqua con la famiglia, come fanno tutti.",
+  "corpo2": "Simionato è un ex calciatore argentino accusato di essere coinvolto in una rete di scommesse clandestine. La sua storia è nota in Argentina e in Italia, dove ha giocato per alcuni anni nella serie A, con successo. La sua fuga dalle case di Torino e l'arresto a Pasqua sono solo la punta dell'iceberg di una vicenda più complessa e intricata. La questione è di ordine finanziario e giudiziario, e riguarda la possibilità che Simionato abbia utilizzato la sua posizione per finanziare la sua attività illegale. La notizia dell'arresto a Pasqua potrebbe essere solo l'inizio di una lunga e complessa serie di eventi che potrebbero avere conseguenze significative che potrebbero avere conseguenze significative per il calciatore e per la sua famiglia. A pagare saranno i soliti noti, ovvero i giocatori e i tifosi che si sentono coinvolti in questa vicenda.",
+  "journalist": {
+    "id": "matteo_galli_01",
+    "firma": "Matteo Galli",
+    "sezione": "sport"
+  },
+  "published_at": "2026-04-07T22:44:02.766899+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://www.ansa.it/webimages/img_1129x635/2026/1/31/1024310d35a8bb26b65b9236baed42ad.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Simionato evade a Torino e in 7 minuti è di nuovo in manette ad Arcidosso\",\n  \"description\": \"Simionato evade dagli arresti a Torino, ma non scampa ai carabinieri che lo ritrovano a Pasqua. La notizia è emersa mercoledì 7 aprile 2026.\",\n  \"articleBody\": \"Simionato evade dagli arresti a Torino, ma non scampa ai carabinieri che lo ritrovano a Pasqua. La notizia è emersa mercoledì 7 aprile 2026. Simionato, l'argentino accusato di scommesse clandestine, è Stato arrestato a Pasqua, nella sua casa di Arcidosso, ma per poco tempo. Secondo ANSA, il 7 aprile 2026, Simionato era fuggito dalle sue case di Torino, dove era Stato posto agli arresti domiciliari. I carabinieri, tuttavia, sono riusciti a rintracciarlo e lo hanno arrestato nuovamente dopo sole 7 minuti, mentre stava salutando una sua amica a Arcidosso. Il motivo della fuga non è ancora chiaro, tuttavia è probabile che sia Stato motivato dalla voglia di passare la Pasqua con la famiglia, come fanno tutti. Simionato è un ex calciatore argentino accusato di essere coinvolto in una rete di scommesse clandestine. La sua storia è nota in Argentina e in Italia, dove ha giocato per alcuni anni nella serie A, con successo. La sua fuga dalle case di Torino e l'arresto a Pasqua sono solo la punta dell'iceberg di una vicenda più complessa e intricata. La questione è di ordine finanziario e giudiziario, e riguarda la possibilità che Simionato abbia utilizzato la sua posizione per finanziare la sua attività illegale. La notizia dell'arresto a Pasqua potrebbe essere solo l'inizio di una lunga e complessa serie di eventi che potrebbero avere conseguenze significative che potrebbero avere conseguenze significative per il calciatore e per la sua famiglia. A pagare saranno i soliti noti, ovvero i giocatori e i tifosi che si sentono coinvolti in questa vicenda.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Matteo Galli\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-07T22:44:02.766899+00:00\",\n  \"dateModified\": \"2026-04-07T22:44:02.766899+00:00\",\n  \"url\": \"https://lentemattutina.it/sport/eef970fc058a7211\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/sport/eef970fc058a7211\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.ansa.it/webimages/img_1129x635/2026/1/31/1024310d35a8bb26b65b9236baed42ad.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 5,
+  "source": "ANSA Cronaca",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/cronaca/2026/04/07/scontri-torino-simionato-evade-a-pasqua-7-minuti-e-lo-arrestano_d45a707a-c048-4b1a-bf21-8bbd4ee84afc.html",
+  "related": [
+    {
+      "title": "76Enne operato al colon senza anestesia generale alle Molinette di Torino",
+      "url": "/sport/76enne-operato-al-colon-senza-anestesia-generale-a-06f0417fa852e4b7",
+      "id": "06f0417fa852e4b7",
+      "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2022/08/01/med-1200x630-12.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Calcio: D'Angelo in panchina col Torino, nonostante 12 sconfitte",
+      "url": "/sport/calcio-luca-dangelo-annuncia-in-panchina-nonostant-da70c48d46d4205d",
+      "id": "da70c48d46d4205d",
+      "image_url": "https://images.unsplash.com/photo-1561701202-64e5f6aa443f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxTZXJpZSUyMEIlMjBmb290YmFsbCUyMGNvYWNofGVufDB8MHx8fDE3NzU0MTE2ODN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Giovanni Malagò nuovo presidente FIGC: la nomina a Roma il 4 aprile 2026",
+      "url": "/sport/simonelli-punta-su-malago-per-guidare-la-figc-dopo-17dd67a79c1fdb79",
+      "id": "17dd67a79c1fdb79",
+      "image_url": "https://images.unsplash.com/photo-1668660713213-5a3675b0c2ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxSb21lJTIwc3BvcnRzJTIwZXZlbnR8ZW58MHwwfHx8MTc3NTM2NjU0MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    }
+  ],
+  "hero_eligible": true
+}
