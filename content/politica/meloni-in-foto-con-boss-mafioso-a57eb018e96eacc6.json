@@ -1,0 +1,57 @@
+{
+  "id": "a57eb018e96eacc6",
+  "slug": "meloni-in-foto-con-boss-mafioso-a57eb018e96eacc6",
+  "title": "Meloni in foto con boss mafioso",
+  "titles": [
+    "Meloni in foto con boss mafioso",
+    "Fratelli d'Italia legati a clan",
+    "Giorgia Meloni attacca stampa"
+  ],
+  "title_winner": null,
+  "section": "politica",
+  "occhiello": "MELONI CONTRO LA STAMPA PER FOTO CON PENTITO",
+  "lead": "Giorgia Meloni, 7 aprile 2026, attacca la stampa per aver pubblicato una foto del 2019 che la ritrae insieme a Gioacchino Amico, referente del clan Senese in Lombardia. La segretaria dem Elly Schlein chiede chiarimenti.",
+  "corpo1": "La premier Giorgia Meloni ha attaccato la stampa, tra cui Repubblica, per aver pubblicato una foto del 2019 che la ritrae insieme a Gioacchino Amico, il referente del clan Senese in Lombardia, oggi collaboratore di giustizia nel processo Hydra di Milano. La foto è stata rivelata da Report. Meloni ha spiegato in un post che \"esistono migliaia di miei selfie con persone\" e ha definito la tesi di una sua vicinanza ad ambienti malavitosi come \"bizzarra\". La segretaria dem Elly Schlein ha chiesto chiarimenti, affermando che ci sono \"rapporti strutturali tra membri di Fratelli d'Italia e clan\". Secondo Repubblica, la foto è stata scattata nel 2019 e Amico è Stato un referente del clan Senese in Lombardia. La Camera ha negato che Amico avesse un tesserino di ingresso.",
+  "corpo2": "Giorgia Meloni è nota per la sua posizione dura sulla mafia, avendo più volte ribadito il suo impegno nella lotta contro la criminalità organizzata. Tuttavia, la pubblicazione di questa foto potrebbe danneggiare la sua immagine e sollevare interrogativi sulla sua vicinanza a personaggi legati alla mafia. Elly Schlein ha colto l'occasione per chiedere chiarimenti e sottolineare la necessità di trasparenza. A pagare le conseguenze di questa vicenda saranno i cittadini, che potrebbero perdere fiducia nelle istituzioni e nella lotta alla mafia. Il governo dovrà fornire risposte concrete per ristabilire la credibilità e dimostrare il suo impegno nella lotta contro la criminalità organizzata.",
+  "journalist": {
+    "id": "sergio_mancini_01",
+    "firma": "Sergio Mancini",
+    "sezione": "politica"
+  },
+  "published_at": "2026-04-07T22:43:06.211177+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://www.repstatic.it/content/nazionale/img/2026/04/07/112714067-d05dd481-9d5e-4ed6-b49d-5f367f73b11c.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Meloni in foto con boss mafioso\",\n  \"description\": \"Giorgia Meloni, 7 aprile 2026, attacca la stampa per aver pubblicato una foto del 2019 che la ritrae insieme a Gioacchino Amico, referente del clan Senese in Lombardia. La segretaria dem Elly Schlein chiede chiarimenti.\",\n  \"articleBody\": \"Giorgia Meloni, 7 aprile 2026, attacca la stampa per aver pubblicato una foto del 2019 che la ritrae insieme a Gioacchino Amico, referente del clan Senese in Lombardia. La segretaria dem Elly Schlein chiede chiarimenti. La premier Giorgia Meloni ha attaccato la stampa, tra cui Repubblica, per aver pubblicato una foto del 2019 che la ritrae insieme a Gioacchino Amico, il referente del clan Senese in Lombardia, oggi collaboratore di giustizia nel processo Hydra di Milano. La foto è stata rivelata da Report. Meloni ha spiegato in un post che \\\"esistono migliaia di miei selfie con persone\\\" e ha definito la tesi di una sua vicinanza ad ambienti malavitosi come \\\"bizzarra\\\". La segretaria dem Elly Schlein ha chiesto chiarimenti, affermando che ci sono \\\"rapporti strutturali tra membri di Fratelli d'Italia e clan\\\". Secondo Repubblica, la foto è stata scattata nel 2019 e Amico è Stato un referente del clan Senese in Lombardia. La Camera ha negato che Amico avesse un tesserino di ingresso. Giorgia Meloni è nota per la sua posizione dura sulla mafia, avendo più volte ribadito il suo impegno nella lotta contro la criminalità organizzata. Tuttavia, la pubblicazione di questa foto potrebbe danneggiare la sua immagine e sollevare interrogativi sulla sua vicinanza a personaggi legati alla mafia. Elly Schlein ha colto l'occasione per chiedere chiarimenti e sottolineare la necessità di trasparenza. A pagare le conseguenze di questa vicenda saranno i cittadini, che potrebbero perdere fiducia nelle istituzioni e nella lotta alla mafia. Il governo dovrà fornire risposte concrete per ristabilire la credibilità e dimostrare il suo impegno nella lotta contro la criminalità organizzata.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Sergio Mancini\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-07T22:43:06.211177+00:00\",\n  \"dateModified\": \"2026-04-07T22:43:06.211177+00:00\",\n  \"url\": \"https://lentemattutina.it/politica/a57eb018e96eacc6\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/politica/a57eb018e96eacc6\"\n  },\n  \"articleSection\": \"Politica\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.repstatic.it/content/nazionale/img/2026/04/07/112714067-d05dd481-9d5e-4ed6-b49d-5f367f73b11c.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 5,
+  "source": "Repubblica Politica",
+  "source_type": "competitor",
+  "original_url": "https://www.repubblica.it/politica/2026/04/07/news/meloni_foto_giacchino_amato_clan_senese_reazioni_pd-425267848/?rss",
+  "related": [
+    {
+      "title": "Meloni a Gedda senza avvisare il Parlamento: viaggio lampo in Arabia Saudita",
+      "url": "/politica/meloni-in-arabia-per-sicurezza-energetica-30c36ecce57303db",
+      "id": "30c36ecce57303db",
+      "image_url": "https://youthdiplomacyforum.com/wp-content/uploads/2026/04/3.jpeg",
+      "image_type": "ddg_image"
+    },
+    {
+      "title": "Giorgia Meloni a Doha con Tamim bin Hamad Al Thani",
+      "url": "/politica/giorgia-meloni-a-doha-per-assicurare-approvvigiona-b3941bfcd4f32f89",
+      "id": "b3941bfcd4f32f89",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Palazzo_chigi_bandiere.jpg",
+      "image_type": "wikimedia"
+    },
+    {
+      "title": "Meloni in abaya, vignetta satirica su Fatto Quotidiano",
+      "url": "/politica/natangelo-colpisce-ancora-su-il-fatto-quotidiano-l-c600c27bc92755c9",
+      "id": "c600c27bc92755c9",
+      "image_url": "https://images.unsplash.com/photo-1692875486389-70c40fedfd84?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxHaW9yZ2lhJTIwTWVsb25pfGVufDB8MHx8fDE3NzUzNTM5MjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    }
+  ],
+  "hero_eligible": true
+}
