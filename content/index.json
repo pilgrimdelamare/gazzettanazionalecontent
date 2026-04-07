@@ -1,5 +1,24 @@
 [
   {
+    "id": "9337afa078355db7",
+    "slug": "basket-valencia-conquista-la-finale-europea-9337afa078355db7",
+    "title": "Basket: Valencia conquista la finale Europea!",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-07T22:42:10.282619+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/2/3/e60a735979b47ed0c05b0432a244fdc3.jpg",
+    "occhiello": "VALENZIA SORPRESA NELLA EUROLEGA",
+    "lead_preview": "La formazione spagnola di Valencia ha sorpreso gli avversari nella finale della Eurolega, sconfiggendo EA7 Milano per 10",
+    "tags": [
+      "eurolega",
+      "valencia",
+      "basket"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "4a5a52542f074e6b",
     "slug": "de-micheli-niente-razionamenti-energetici-in-itali-4a5a52542f074e6b",
     "title": "De Micheli: niente razionamenti energetici in Italia, sistema sicuro",
@@ -8845,24 +8864,6 @@
       "travolta regista",
       "cannes 2026",
       "vol de nuit"
-    ]
-  },
-  {
-    "id": "5c343af1a982983f",
-    "slug": "trump-guerra-in-iran-quasi-completata-5c343af1a982983f",
-    "title": "Trump annuncia fine della guerra in Iran, ma la verità è altra",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-02T02:57:33.061570+00:00",
-    "image_type": "flickr",
-    "image_url": "https://live.staticflickr.com/65535/55174573676_2f4e63de26_b.jpg",
-    "occhiello": "TRUMP MINACCIA L'IRAN",
-    "lead_preview": "Il presidente degli Stati Uniti d'America, Donald Trump, ha dichiarato mercoledì sera che la guerra in Iran è \"quasi con",
-    "tags": [
-      "guerra iran",
-      "annuncio trump",
-      "crisi medio oriente"
     ]
   }
 ]
