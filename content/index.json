@@ -1,5 +1,23 @@
 [
   {
+    "id": "2aba79fab6b7d4ae",
+    "slug": "trump-minaccia-distruzione-civilta-se-proposta-non-2aba79fab6b7d4ae",
+    "title": "Trump minaccia distruzione civiltà se proposta non accettata",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-07T23:10:47.387617+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/07/233613015-595edd00-fe64-4d22-86fd-db1b36beb770.jpg",
+    "occhiello": "TRUMP MINACCIA DI UCCIDERE UN'INTERA CIVILTÀ",
+    "lead_preview": "Donald Trump, 8 aprile 2026, minaccia di distruzione un'intera civiltà se la sua proposta non verrà accettata, paragonan",
+    "tags": [
+      "trump minaccia",
+      "distruzione civiltà"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "756825f9dc38226b",
     "slug": "trump-attacca-liran-senza-autorizzazione-756825f9dc38226b",
     "title": "Trump attacca l'Iran senza autorizzazione",
@@ -8885,24 +8903,6 @@
       "arremis 2",
       "missione luna",
       "capsula orion"
-    ]
-  },
-  {
-    "id": "57ba857e79d13379",
-    "slug": "ciclismo-david-guardeno-23enne-spagnolo-in-terapia-57ba857e79d13379",
-    "title": "Ciclismo: David Guardeno in coma dopo caduta sull'asfalto sconnesso di Sabadell",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-02T12:25:35.354539+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Victor-cabedo-1348079164.jpg",
-    "occhiello": "",
-    "lead_preview": "David Guardeno è stato ricoverato in terapia intensiva presso l’Ospedale Universitario di Sabadell il 2 aprile 2026, dop",
-    "tags": [
-      "caduta guardeno",
-      "incidente ciclismo",
-      "coma guardeno"
     ]
   }
 ]
