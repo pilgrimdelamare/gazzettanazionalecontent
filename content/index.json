@@ -1,5 +1,24 @@
 [
   {
+    "id": "35caa752840dfc28",
+    "slug": "marina-marazza-il-re-del-barolo-nel-mirino-con-il-35caa752840dfc28",
+    "title": "Marina Marazza, il re del Barolo nel mirino con 'Il rosso del re'",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-07T22:53:50.873563+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/fde1f1d2d32eef69679b6906bfa4283c.jpg",
+    "occhiello": "MARINA MARAZZA TORNA CON 'IL ROSSO DEL RE'",
+    "lead_preview": "Marina Marazza torna in libreria con 'Il rosso del re', un romanzo che esplora il mondo del vino tra i vigneti del Barol",
+    "tags": [
+      "il rosso del re",
+      "marina marazza",
+      "libri vino"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "3b72684e76311c1a",
     "slug": "anna-bisogno-tv-espansa-la-rivoluzione-dellintelli-3b72684e76311c1a",
     "title": "Anna Bisogno: 'Tv espansa', la rivoluzione dell'intelligenza artificiale",
@@ -8884,24 +8903,6 @@
       "festival la versiliana 2026",
       "ermal meta concerto",
       "fabrizio corona evento"
-    ]
-  },
-  {
-    "id": "d4687a582be08f1c",
-    "slug": "217-milioni-di-viaggi-previsti-in-uk-il-2-aprile-r-d4687a582be08f1c",
-    "title": "21,7 milioni di auto in strada in UK il 2 aprile: record storico di traffico",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-02T12:10:39.912994+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1645718171033-574c88494de2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxVSyUyMHJvYWQlMjB0cmFmZmljJTIwMjAyNnxlbnwwfDB8fHwxNzc1MjA5MDk0fDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "RECORD DI TRAFFICO IN UK: 21,7 MILIONI DI VIAGGI IN UN GIORNO",
-    "lead_preview": "Il Rapporto sui Trasporti britannico ha registrato 21,7 milioni di spostamenti sulle strade del Regno Unito il 2 aprile ",
-    "tags": [
-      "traffico uk 2026",
-      "record spostamenti 2 aprile",
-      "rapporto trasporti uk"
     ]
   }
 ]
