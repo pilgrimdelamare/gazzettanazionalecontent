@@ -1,5 +1,24 @@
 [
   {
+    "id": "5ee00affa0623cbd",
+    "slug": "oriana-celentano-protagonista-della-serie-polacca-5ee00affa0623cbd",
+    "title": "Oriana Celentano protagonista della serie polacca 'Felicità' a Polignano a Mare",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-07T22:51:06.229658+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/b04595482b60eb1e847b4ed7433b0661.jpg",
+    "occhiello": "ORIANA CELENTANO PROTAGONISTA DI UNA SERIE POLACCA A POLIGNANO",
+    "lead_preview": "Oriana Celentano sarà la protagonista italiana della nuova serie polacca 'Felicità', diretta da Makary Janowski. Le ripr",
+    "tags": [
+      "oriana celentano",
+      "serie felicità",
+      "polignano a mare"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "70e483794418b489",
     "slug": "francis-ford-coppola-compie-87-anni-e-annuncia-nuo-70e483794418b489",
     "title": "Francis Ford Coppola compie 87 anni e annuncia nuovo film in Basilicata",
@@ -8877,23 +8896,6 @@
       "aggiornamento apple",
       "spyware darksword",
       "vulnerabilità iphone"
-    ]
-  },
-  {
-    "id": "5eec4ade17f57064",
-    "slug": "nick-candy-vende-casa-a-chelsea-per-275-milioni-re-5eec4ade17f57064",
-    "title": "Nick Candy vende la sua Chelsea per 275 milioni, nuovo record a Londra",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-02T13:51:34.728191+00:00",
-    "image_type": "ddg_image",
-    "image_url": "https://www.superyachtfan.com/wp-content/uploads/2020/10/Gordon-House-Chelsea-Nick-Candy.jpg",
-    "occhiello": "RECORD IMMOBILIARE A LONDRA: 275 MILIONI PER UNA CASA",
-    "lead_preview": "Nick Candy, imprenditore immobiliare e tesoriere del partito Reform UK, ha venduto la sua residenza a Chelsea per 275 mi",
-    "tags": [
-      "record immobiliare londra",
-      "nick candy chelsea"
     ]
   }
 ]
