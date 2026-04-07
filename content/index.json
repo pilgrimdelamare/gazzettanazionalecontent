@@ -1,5 +1,24 @@
 [
   {
+    "id": "0991adf98fea4a51",
+    "slug": "colombia-investe-25-miliardi-in-solare-per-ridurre-0991adf98fea4a51",
+    "title": "Colombia investe 2,5 miliardi in solare per ridurre dipendenza dal petrolio",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-07T22:44:12.638477+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/11/10/498c76e519d528ea5a5a2f9c0b6a4861.jpg",
+    "occhiello": "LA COLOMBIA RILANCIAMENTO SOLARE, SCUDO CONTRO I RINCARI DEL PETROLIO",
+    "lead_preview": "Giuseppe Palma, Ministro della Transizione Energetica colombiano, ha annunciato un piano per rilanciare l'energia solare",
+    "tags": [
+      "rilancio solare colombia",
+      "transizione energetica colombia",
+      "dipendenza petrolio colombia"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "eef970fc058a7211",
     "slug": "simionato-evade-a-torino-e-in-7-minuti-e-di-nuovo-eef970fc058a7211",
     "title": "Simionato evade a Torino e in 7 minuti è di nuovo in manette ad Arcidosso",
@@ -8847,24 +8866,6 @@
       "caso pietracatella",
       "sopravvissuta pietracatella",
       "indagine pietracatella"
-    ]
-  },
-  {
-    "id": "99872152ef02d293",
-    "slug": "calcio-gravina-chiude-8-anni-alla-figc-con-un-solo-99872152ef02d293",
-    "title": "Gravina lascia, un trofeo in oltre otto anni",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-02T15:29:02.884795+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/20795776/pexels-photo-20795776.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "GRAVINA LASCIA, UN TROFEO IN OLTRE OTTO ANNI",
-    "lead_preview": "Gabriele Gravina ha lasciato la presidenza della FIGC il 2 aprile 2026 al termine del secondo mandato. Otto anni e mezzo",
-    "tags": [
-      "gravina lascia",
-      "figc",
-      "presidenza gravina"
     ]
   }
 ]
