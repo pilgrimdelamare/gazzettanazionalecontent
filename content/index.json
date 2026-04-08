@@ -1,5 +1,24 @@
 [
   {
+    "id": "1c118aa793e7b2f1",
+    "slug": "zeudi-di-palma-50mila-euro-dalla-fanbase-per-le-su-1c118aa793e7b2f1",
+    "title": "Zeudi Di Palma, ex Miss Italia, incassa 50mila euro da follower su Rai 2",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-07T22:54:22.601064+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/fe5a5d7321c47e442e2ccf686e9b848c.jpg",
+    "occhiello": "",
+    "lead_preview": "Zeudi Di Palma, ex Miss Italia e influencer, ha ricevuto circa 50mila euro da parte della sua fanbase per finanziare le ",
+    "tags": [
+      "zeudi di palma",
+      "finanziamento influencer",
+      "miss italia"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "2435e22383e56843",
     "slug": "60-orsi-marsicani-in-pericolo-per-colpa-del-clima-2435e22383e56843",
     "title": "60 Orsi marsicani a rischio estinzione per la mancanza di cibo nel Parco d'Abruzzo",
@@ -606,24 +625,6 @@
     "tags": [
       "stefano bollani",
       "conservatorio cherubini"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "1c118aa793e7b2f1",
-    "slug": "zeudi-di-palma-50mila-euro-dalla-fanbase-per-le-su-1c118aa793e7b2f1",
-    "title": "Zeudi Di Palma: 50mila euro dalla fanbase per le sue attività",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-07T22:54:22.601064+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/fe5a5d7321c47e442e2ccf686e9b848c.jpg",
-    "occhiello": "ZEUDI DI PALMA RIVELA SU BELVE L'USO DEI 50MILA EURO DELLA SUA FANBASE",
-    "lead_preview": "Zeudi Di Palma, ex Miss Italia e influencer, ha rivelato nel programma televisivo Belve, condotto da Francesca Fagnani s",
-    "tags": [
-      "zeudi di palma",
-      "caso zeudi di palma"
     ],
     "hero_eligible": true
   },
