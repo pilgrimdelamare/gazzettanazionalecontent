@@ -1,5 +1,20 @@
 [
   {
+    "id": "4941bce1617b1d73",
+    "slug": "agricoltura-italiana-trova-alternativa-con-metodo-4941bce1617b1d73",
+    "title": "Rincari fertilizzanti +42%, la demetria cresce del 19,3%",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-08T15:01:38.411657+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2020/9/21/d35691f6c32773474273ba926005b4c6.jpg",
+    "occhiello": "DEMETRIA RIBALTA IL MODELLO AGRICOLO",
+    "lead_preview": "Marta Levi, 2026-04-08. A Milano, durante il convegno organizzato dal CREA presso la sede del Politecnico, il metodo dem",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "dd31b69c241989b5",
     "slug": "40000-pass-gratis-ma-solo-per-chi-puo-partire-dd31b69c241989b5",
     "title": "40.000 pass gratis, ma solo per chi può partire",
@@ -420,24 +435,6 @@
       "arresto rossi crans-montana",
       "falsificazione fatture comune",
       "indagine sicurezza crans-montana"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "4941bce1617b1d73",
-    "slug": "agricoltura-italiana-trova-alternativa-con-metodo-4941bce1617b1d73",
-    "title": "Agricoltura Italiana trova alternativa con metodo steineriano",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-08T15:01:38.411657+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2020/9/21/d35691f6c32773474273ba926005b4c6.jpg",
-    "occhiello": "AGRICOLTURA BIODINAMICA, IMMUNE AI RINCARI DELLE COMMODITÀ PER LA GUERRA NEL GOLFIO",
-    "lead_preview": "La demetria, metodo steineriano, si dimostra valida alternativa per tutta l'agricoltura Italiana, mentre i rincari dei f",
-    "tags": [
-      "agricoltura biodinamica",
-      "guerra nel golfo"
     ],
     "hero_eligible": true
   },
