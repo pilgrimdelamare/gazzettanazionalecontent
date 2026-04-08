@@ -1,5 +1,24 @@
 [
   {
+    "id": "87b4ba7874cc8fb5",
+    "slug": "salgari-rivive-a-scuola-esce-il-10-aprile-il-roman-87b4ba7874cc8fb5",
+    "title": "Feltrinelli Kids lancia 'Emilio e i pirati del cuore' con 50.000 copie",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-07T22:50:06.158399+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/988d4bb072411ad62a08e5d22934675e.jpg",
+    "occhiello": "EMILIO SALGARI RIENTRA A SCUOLA CON I FIGLI DELLA SCUOLA ITALIANA",
+    "lead_preview": "Milano, 7 aprile 2026. Il nuovo romanzo per ragazzi \"Emilio e i pirati del cuore\" di Enzo D'Alò e Giacomo Scarpelli, edi",
+    "tags": [
+      "emilio e i pirati del cuore",
+      "feltrinelli kids",
+      "emilio salgari"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "0991adf98fea4a51",
     "slug": "colombia-investe-25-miliardi-in-solare-per-ridurre-0991adf98fea4a51",
     "title": "Colombia investe 2,5 mld in solare: addio dipendenza dal petrolio",
@@ -715,24 +734,6 @@
     "tags": [
       "circle mirror transformation",
       "teatro carignano"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "87b4ba7874cc8fb5",
-    "slug": "salgari-rivive-a-scuola-esce-il-10-aprile-il-roman-87b4ba7874cc8fb5",
-    "title": "Salgari rivive a scuola: esce il 10 aprile il romanzo di D'Alò e Scarpelli",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-04-07T22:50:06.158399+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/988d4bb072411ad62a08e5d22934675e.jpg",
-    "occhiello": "OCEANI DI CARTA RIVIVE SALGARI CON UN FILOSOFO",
-    "lead_preview": "",
-    "tags": [
-      "salgari",
-      "romanzo scolastico"
     ],
     "hero_eligible": true
   },
