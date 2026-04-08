@@ -1,5 +1,24 @@
 [
   {
+    "id": "ae7796b38f07be0c",
+    "slug": "20enne-ucciso-a-crema-ae7796b38f07be0c",
+    "title": "Hamza Salama, 20 anni, ucciso a coltellate a Crema in una rissa",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-04-07T22:43:34.320253+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/e70467bc4c1fa0e43d37c2a48a987ae4.jpg",
+    "occhiello": "20ENNE UCCISO A CREMA",
+    "lead_preview": "Hamza Salama, 20 anni, è morto ieri sera a Crema a causa delle ferite riportate dopo essere stato aggredito con coltella",
+    "tags": [
+      "omicidio hamza salama",
+      "rissa crema",
+      "ucciso coltellate crema"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "cb10b189a433c7c4",
     "slug": "inviato-onu-in-viaggio-verso-teheran-per-crisi-sul-cb10b189a433c7c4",
     "title": "L'inviato Onu Estrella-Salazar atterra a Teheran per sbloccare lo Stretto di Hormuz",
@@ -1111,23 +1130,6 @@
     "tags": [
       "missione artemis-2",
       "astronauti iss"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "ae7796b38f07be0c",
-    "slug": "20enne-ucciso-a-crema-ae7796b38f07be0c",
-    "title": "20Enne ucciso a Crema",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-04-07T22:43:34.320253+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/e70467bc4c1fa0e43d37c2a48a987ae4.jpg",
-    "occhiello": "VENTENNE MUORE A COLTELLATE A CREMA",
-    "lead_preview": "Hamza Salama, 20 anni è morto ieri sera a causa delle ferite a Crema dopo essere Stato aggredito con coltellate e sprang",
-    "tags": [
-      "omicidio crema"
     ],
     "hero_eligible": true
   },
