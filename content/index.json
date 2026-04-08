@@ -1,5 +1,20 @@
 [
   {
+    "id": "1a382b2c587abb6c",
+    "slug": "nel-venezuela-di-nicolas-maduro-il-vicepresidente-1a382b2c587abb6c",
+    "title": "Nel Venezuela di nicolás maduro, il vicepresidente del Consiglio nazionale elett",
+    "section": "esteri",
+    "priority": 6,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-08T07:49:07.890859+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/2/20/4c7521ff47aead100f48a3727e0a4d60.jpg",
+    "occhiello": "",
+    "lead_preview": "Nel Venezuela di nicolás maduro, il vicepresidente del Consiglio nazionale elettorale, Carlos rodríguez, ha convocato i ",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "a9b121e7cf1d32c7",
     "slug": "urgente-alpinista-ferito-durante-scalata-in-montag-a9b121e7cf1d32c7",
     "title": "Urgente: alpinista ferito durante scalata in montagna",
@@ -8929,23 +8944,6 @@
       "furti marks & spencer",
       "sicurezza negozi uk",
       "aumento aggressioni retail"
-    ]
-  },
-  {
-    "id": "6c81749023a0672f",
-    "slug": "brent-a-127-dollari-50-in-un-mese-sui-mercati-di-l-6c81749023a0672f",
-    "title": "I 127 dollari al barile, il prezzo record del petrolio Brent",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-03T09:35:53.424564+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/A_graph_to_show_the_increase_in_gasoline_prices.jpg",
-    "occhiello": "FONDI SCOMPARSI DOPO IL VOTO",
-    "lead_preview": "Brent, il barile di riferimento per il prezzo del petrolio greggio, ha raggiunto i 127 dollari al barile, con un aumento",
-    "tags": [
-      "prezzo petrolio record",
-      "brent 127 dollari"
     ]
   }
 ]
