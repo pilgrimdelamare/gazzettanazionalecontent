@@ -1,5 +1,24 @@
 [
   {
+    "id": "9bbd78f7c74111da",
+    "slug": "27c-a-milano-e-torino-pasqua-da-record-con-tempera-9bbd78f7c74111da",
+    "title": "Milano e Torino a 27°C a Pasquetta, caldo da maggio al Nord",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-04-07T23:29:44.143937+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/07/222902465-358c94f5-4226-4410-af45-8ed66c013877.jpg",
+    "occhiello": "27°C A PASQUA, TEMPERATURE DA FINE MAGGIO",
+    "lead_preview": "Milano e Torino hanno registrato 27°C a Pasquetta, il 9 Aprile 2026, con un Anticiclone “ibrido” che ha portato temperat",
+    "tags": [
+      "caldo pasquetta 2026",
+      "temperature anomale nord",
+      "anticiclone ibrido"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "ced6097619102922",
     "slug": "elia-del-grande-evade-dopo-permesso-pasquale-ad-al-ced6097619102922",
     "title": "Elia Del Grande evade da Casa-lavoro ad Alba dopo permesso pasquale",
@@ -902,24 +921,6 @@
     "tags": [
       "missione artemis-2",
       "astronauti iss"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "9bbd78f7c74111da",
-    "slug": "27c-a-milano-e-torino-pasqua-da-record-con-tempera-9bbd78f7c74111da",
-    "title": "27°C a Milano e Torino, pasqua da record con temperature da fine maggio",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Chiara Esposito",
-    "published_at": "2026-04-07T23:29:44.143937+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/07/222902465-358c94f5-4226-4410-af45-8ed66c013877.jpg",
-    "occhiello": "",
-    "lead_preview": "L’anticiclone africano manterrà temperature da fine maggio sull’Italia fino a venerdì 10 aprile 2026, con punte di 27°C ",
-    "tags": [
-      "pasqua da record",
-      "temperature alte aprile"
     ],
     "hero_eligible": true
   },
