@@ -1,5 +1,22 @@
 [
   {
+    "id": "4c6ada67738f6306",
+    "slug": "minatore-salvato-dopo-13-giorni-sotto-terra-in-mes-4c6ada67738f6306",
+    "title": "Minatore salvato dopo 13 giorni sotto terra in Messico",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-08T04:09:28.651660+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/394720b43b25a302ac69eaf6862a2f94.jpg",
+    "occhiello": "MINATORE SALVATO DOPO 13 GIORNI SOTTO TERRA, DUE DISPERSI",
+    "lead_preview": "Coahuila, 8 aprile 2026. Un minatore è Stato salvato dopo tredici giorni a 300 metri di profondità in una miniera nello ",
+    "tags": [
+      "miniere messico"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "fcd8b59a87554d9b",
     "slug": "politecnico-di-milano-settimo-al-mondo-in-comunica-fcd8b59a87554d9b",
     "title": "Politecnico di Milano primo in Italia e 7° al mondo nella Comunicazione universitaria",
@@ -406,25 +423,6 @@
       "apple watch series 7",
       "ricarica rapida apple",
       "batteria apple watch"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "4c6ada67738f6306",
-    "slug": "minatore-salvato-dopo-13-giorni-sotto-terra-in-mes-4c6ada67738f6306",
-    "title": "Minatore salvato dopo 13 giorni sotto terra in Messico, due ancora dispersi",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-08T04:09:28.651660+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/394720b43b25a302ac69eaf6862a2f94.jpg",
-    "occhiello": "MINATORE SALVATO DOPO TREDICI GIORNI",
-    "lead_preview": "Un minatore messicano è stato salvato dopo tredici giorni a 300 metri di profondità in una miniera nello Stato di Coahui",
-    "tags": [
-      "salvataggio minatore messico",
-      "miniera coahuila",
-      "julián minatore salvato"
     ],
     "hero_eligible": true
   },
