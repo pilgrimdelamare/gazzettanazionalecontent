@@ -1,5 +1,24 @@
 [
   {
+    "id": "c0b716ef34afb24a",
+    "slug": "de-gennaro-lascia-la-gdf-a-fine-anno-governo-in-st-c0b716ef34afb24a",
+    "title": "De Gennaro lascia la GdF a fine anno, governo in stallo su successore",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-08T23:41:44.644489+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/08/230556895-0f8157f7-9582-4318-a84d-f1fffc9f6c7a.jpg",
+    "occhiello": "DE GENNARO PROROGATO, MA IL GOVERNO È IN STALLO",
+    "lead_preview": "L'esecutivo non riesce a trovare un accordo su chi succederà a De Gennaro come comandante della Guardia di Finanza, in s",
+    "tags": [
+      "de gennaro gdif",
+      "successione gdif",
+      "governo in stallo"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "b1593f4799990f75",
     "slug": "stellantis-valuta-uno-stabilimento-a-cassino-per-p-b1593f4799990f75",
     "title": "Stellantis valuta uno stabilimento a Cassino per produrre il furgone elettrico T03 con Leapmotor",
@@ -8868,24 +8887,6 @@
       "avvelenamento everest",
       "arresto guide sherpa",
       "incidente alpinisti 2026"
-    ]
-  },
-  {
-    "id": "de3759055e6c3d88",
-    "slug": "oncologia-integrata-alla-camera-primo-riconoscimen-de3759055e6c3d88",
-    "title": "Meloni lancia piano anti-cancro da 12 miliardi, fondi senza copertura",
-    "section": "salute",
-    "priority": 5,
-    "journalist_firma": "Francesca Nardi",
-    "published_at": "2026-04-03T12:07:36.757522+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1581056771188-021d4a0f8ec0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxjYW5jZXIlMjBwcmV2ZW50aW9ufGVufDB8MHx8fDE3NzUyOTkxMTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "",
-    "lead_preview": "Giorgia Meloni, presidente del Consiglio dei ministri, ha presentato il 3 aprile 2026 alla Camera il Piano Nazionale di ",
-    "tags": [
-      "piano anti-cancro meloni",
-      "finanziamenti sanità 2026",
-      "manovra 2025"
     ]
   }
 ]
