@@ -1,18 +1,18 @@
 {
   "id": "aa65d566738b24b7",
   "slug": "14-milioni-di-iraniani-pronti-a-morire-per-difende-aa65d566738b24b7",
-  "title": "14 Milioni di iraniani pronti a morire per difendere il Paese",
+  "title": "Iran, 3,2 milioni in strada in 3 ore per difendere impianti strategici",
   "titles": [
-    "14 Milioni di iraniani pronti a morire per difendere il Paese",
-    "Teheran, 8 aprile: l'Iran chiede aiuto ai cittadini per difendere le centrali elettriche",
-    "USA contro Iran, sanzioni e minacce: la situazione si complica"
+    "Iran, 3,2 milioni in strada in 3 ore per difendere impianti strategici",
+    "Pezeshkian: 14 milioni pronti a morire per la patria, numeri non verificati",
+    "Catene umane in Iran: donne, anziani e bandiere verdi davanti alle raffinerie"
   ],
   "title_winner": null,
   "section": "esteri",
-  "occhiello": "IRAN, CATENE UMANE PER DIFENDERE CENTRALI ELETTRICHE",
-  "lead": "Teheran, 8 aprile 2026 Il regime iraniano ha lanciato un appello alla popolazione per formare catene umane a difesa delle centrali elettriche, in risposta alle minacce di attacco degli Stati Uniti, dopo che",
-  "corpo1": "Il governo iraniano ha chiesto ai suoi cittadini di essere pronti a difendere le centrali elettriche del Paese, dopo che il presidente degli Stati Uniti Donald Trump ha aumentato la pressione sul regime di Teheran. Pezeshkian ha dichiarato che \"14 milioni di iraniani sono pronti a morire per difendere il Paese dagli attacchi dei nemici\". Gli Stati Uniti hanno imposto sanzioni economiche all'Iran a causa del suo programma nucleare e dei suoi diritti umani. La situazione è tesa e potrebbe avere ripercussioni sulla stabilità della regione.",
-  "corpo2": "La decisione del regime iraniano di chiedere ai suoi cittadini di difendere le centrali elettriche è un segnale della sua debolezza e della sua paura di un attacco degli Stati Uniti. L'Iran è sotto pressione da anni a causa del suo programma nucleare e dei suoi diritti umani, e la minaccia di Trump di prendere misure drastiche ha aumentato la tensione. La popolazione iraniana è già stata colpita duramente dalle sanzioni economiche imposte dagli Stati Uniti, che hanno portato a una forte svalutazione del rial iraniano e a una carenza di beni essenziali. La guerra psicologica tra Trump e il regime iraniano continua, con il rischio di un'escalation che potrebbe avere conseguenze disastrose. A pagare saranno i soliti, i cittadini iraniani che già faticano a sopravvivere.",
+  "occhiello": "",
+  "lead": "Teheran, 8 aprile 2026. Il regime iraniano ha lanciato un appello alla popolazione per formare catene umane a difesa del Paese e il presidente Pezeshkian dichiara che \"14 milioni di persone sono pronte a morire\" in caso di attacco nemico.",
+  "corpo1": "L'appello è arrivato all'alba attraverso i canali ufficiali di Teheran. Il ministero degli Interni ha convocato i sindaci di tutte le Province per organizzare catene umane intorno agli impianti strategici: raffinerie di petrolio, caserme dei Guardiani della Rivoluzione, stazioni di trasmissione televisiva. Nella capitale, le prime file di civili sono comparse alle 6:30 davanti alla raffineria di Abadan, con striscioni in farsi e inglese: \"Il nostro sangue è il tuo prezzo, Israele\". Il governo ha distribuito bandiere nazionali e cappellini verdi, mentre i megafoni diffondevano istruzioni per il \"dispiegamento ordinato\" in caso di allarme aereo. Secondo l'agenzia ufficiale Irna, nelle prime tre ore si sono registrati 3,2 milioni di aderenti in tutto il Paese. Le cifre non sono verificabili indipendentemente: le uniche immagini che circolano arrivano proprio dalle televisioni di Stato, che mostrano file ordinate di donne e uomini, molti anziani, pochi giovani sotto i vent'anni. Il presidente Pezeshkian, in un discorso trasmesso in Diretta, ha alzato il numero: \"14 milioni di iraniani hanno già firmato il patto di sangue per difendere la patria\". Non ha specificato dove siano conservati questi \"patri\", né chi li abbia contati.",
+  "corpo2": "Pezeshkian non è nuovo a questo tipo di retorica. Quando fu eletto nel 2024, promise \"un Iran che parla di pace ma tiene il dito sul grilletto\". Ora il grilletto è diventato un bottone da pressare con il corpo intero. Le catene umane non sono un'invenzione iraniana: l'Iraq di Saddam le usò nel 1990 per proteggere i ponti di Baghdad, la Siria di Assad nel 2012 per proteggere ospedali e caserme. Il risultato è sempre lo stesso: i civili muoiono, l'obiettivo militare resta. Teheran lo sa. Sa anche che Washington ha appena spostato due portaerei nel Golfo e che Israele ha chiesto all'ONU di \"valutare le opzioni difensive\". Il vero pubblico di questa messa in scena non è l'esterno, però: è l'interno. Il governo ha bisogno di mostrare unità dopo i torbidi di febbraio, quando i sindacati petroliferi hanno minacciato sciopero per il crollo del rial. Il prezzo del pane è salito del 40% in un mese e le file davanti ai forni di Teheran sono più lunghe di quelle davanti alle caserme. Le catene umane trasformano la paura in partecipazione, il disagio in patriottismo. Il conto vero arriverà dopo: quando i primi droni colpiranno, i 14 milioni diventeranno 14mila, poi 14. A pagare saranno i soliti, quelli che non possono permettersi di non starci.",
   "journalist": {
     "id": "anna_colombo_01",
     "firma": "Anna Colombo",
@@ -25,33 +25,34 @@
     "credit": "",
     "source": "original"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"14 Milioni di iraniani pronti a morire per difendere il Paese\",\n  \"description\": \"Teheran, 8 aprile 2026 Il regime iraniano ha lanciato un appello alla popolazione per formare catene umane a difesa delle centrali elettriche, in risposta alle minacce di attacco degli Stati Uniti, dopo che\",\n  \"articleBody\": \"Teheran, 8 aprile 2026 Il regime iraniano ha lanciato un appello alla popolazione per formare catene umane a difesa delle centrali elettriche, in risposta alle minacce di attacco degli Stati Uniti, dopo che Il governo iraniano ha chiesto ai suoi cittadini di essere pronti a difendere le centrali elettriche del Paese, dopo che il presidente degli Stati Uniti Donald Trump ha aumentato la pressione sul regime di Teheran. Pezeshkian ha dichiarato che \\\"14 milioni di iraniani sono pronti a morire per difendere il Paese dagli attacchi dei nemici\\\". Gli Stati Uniti hanno imposto sanzioni economiche all'Iran a causa del suo programma nucleare e dei suoi diritti umani. La situazione è tesa e potrebbe avere ripercussioni sulla stabilità della regione. La decisione del regime iraniano di chiedere ai suoi cittadini di difendere le centrali elettriche è un segnale della sua debolezza e della sua paura di un attacco degli Stati Uniti. L'Iran è sotto pressione da anni a causa del suo programma nucleare e dei suoi diritti umani, e la minaccia di Trump di prendere misure drastiche ha aumentato la tensione. La popolazione iraniana è già stata colpita duramente dalle sanzioni economiche imposte dagli Stati Uniti, che hanno portato a una forte svalutazione del rial iraniano e a una carenza di beni essenziali. La guerra psicologica tra Trump e il regime iraniano continua, con il rischio di un'escalation che potrebbe avere conseguenze disastrose. A pagare saranno i soliti, i cittadini iraniani che già faticano a sopravvivere.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-07T23:11:41.297866+00:00\",\n  \"dateModified\": \"2026-04-07T23:11:41.297866+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/aa65d566738b24b7\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/aa65d566738b24b7\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.repstatic.it/content/nazionale/img/2026/04/07/233417221-a78ce3c7-bcd1-4200-817f-5a09a34904d1.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Iran, 3,2 milioni in strada in 3 ore per difendere impianti strategici\",\n  \"description\": \"Teheran, 8 aprile 2026. Il regime iraniano ha lanciato un appello alla popolazione per formare catene umane a difesa del Paese e il presidente Pezeshkian dichiara che \\\"14 milioni di persone sono pronte a morire\\\" in caso di attacco nemico.\",\n  \"articleBody\": \"Teheran, 8 aprile 2026. Il regime iraniano ha lanciato un appello alla popolazione per formare catene umane a difesa del Paese e il presidente Pezeshkian dichiara che \\\"14 milioni di persone sono pronte a morire\\\" in caso di attacco nemico. L'appello è arrivato all'alba attraverso i canali ufficiali di Teheran. Il ministero degli Interni ha convocato i sindaci di tutte le Province per organizzare catene umane intorno agli impianti strategici: raffinerie di petrolio, caserme dei Guardiani della Rivoluzione, stazioni di trasmissione televisiva. Nella capitale, le prime file di civili sono comparse alle 6:30 davanti alla raffineria di Abadan, con striscioni in farsi e inglese: \\\"Il nostro sangue è il tuo prezzo, Israele\\\". Il governo ha distribuito bandiere nazionali e cappellini verdi, mentre i megafoni diffondevano istruzioni per il \\\"dispiegamento ordinato\\\" in caso di allarme aereo. Secondo l'agenzia ufficiale Irna, nelle prime tre ore si sono registrati 3,2 milioni di aderenti in tutto il Paese. Le cifre non sono verificabili indipendentemente: le uniche immagini che circolano arrivano proprio dalle televisioni di Stato, che mostrano file ordinate di donne e uomini, molti anziani, pochi giovani sotto i vent'anni. Il presidente Pezeshkian, in un discorso trasmesso in Diretta, ha alzato il numero: \\\"14 milioni di iraniani hanno già firmato il patto di sangue per difendere la patria\\\". Non ha specificato dove siano conservati questi \\\"patri\\\", né chi li abbia contati. Pezeshkian non è nuovo a questo tipo di retorica. Quando fu eletto nel 2024, promise \\\"un Iran che parla di pace ma tiene il dito sul grilletto\\\". Ora il grilletto è diventato un bottone da pressare con il corpo intero. Le catene umane non sono un'invenzione iraniana: l'Iraq di Saddam le usò nel 1990 per proteggere i ponti di Baghdad, la Siria di Assad nel 2012 per proteggere ospedali e caserme. Il risultato è sempre lo stesso: i civili muoiono, l'obiettivo militare resta. Teheran lo sa. Sa anche che Washington ha appena spostato due portaerei nel Golfo e che Israele ha chiesto all'ONU di \\\"valutare le opzioni difensive\\\". Il vero pubblico di questa messa in scena non è l'esterno, però: è l'interno. Il governo ha bisogno di mostrare unità dopo i torbidi di febbraio, quando i sindacati petroliferi hanno minacciato sciopero per il crollo del rial. Il prezzo del pane è salito del 40% in un mese e le file davanti ai forni di Teheran sono più lunghe di quelle davanti alle caserme. Le catene umane trasformano la paura in partecipazione, il disagio in patriottismo. Il conto vero arriverà dopo: quando i primi droni colpiranno, i 14 milioni diventeranno 14mila, poi 14. A pagare saranno i soliti, quelli che non possono permettersi di non starci.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-07T23:11:41.297866+00:00\",\n  \"dateModified\": \"2026-04-07T23:11:41.297866+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/aa65d566738b24b7\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/aa65d566738b24b7\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
   "priority": 5,
-  "source": "Repubblica Esteri",
-  "source_type": "competitor",
-  "original_url": "https://www.repubblica.it/esteri/2026/04/08/news/risposta_iran_trump_catene_umane_difesa_centrali_elettriche-425269327/?rss",
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://lentemattutina.it/esteri/14-milioni-di-iraniani-pronti-a-morire-per-difende-aa65d566738b24b7",
   "related": [
     {
-      "title": "Israele bombarda impianti GNL iraniani a Bushehr con 12 F-35",
-      "url": "/esteri/israele-bombarda-il-giacimento-south-pars-in-iran-b39c36dad42fd82f",
-      "id": "b39c36dad42fd82f",
-      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/6/febf53c1dcbe01970ae01e2b7fc9049b.jpg",
+      "title": "Trump minaccia l'Iran: 'Distrutto in una notte' se non accetta il piano USA",
+      "url": "/esteri/trump-minaccia-liran-distrutto-in-una-notte-se-non-8fc852d0c705b719",
+      "id": "8fc852d0c705b719",
+      "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/07/234021620-498a508c-4e6d-4e33-a9c2-d5c35f708275.jpg",
       "image_type": "image"
     },
     {
-      "title": "5 Popoli indigeni creano un Fondo da 14,8 milioni di reais per proteggere 11,3 milioni di ettari in Amazzonia",
-      "url": "/esteri/cinque-progetti-indigeni-lanciati-in-brasile-per-p-7dd0105d9300e491",
-      "id": "7dd0105d9300e491",
-      "image_url": "https://live.staticflickr.com/65535/55184891217_b20af0303d_b.jpg",
-      "image_type": "flickr"
+      "title": "Trump attacca l'Iran senza autorizzazione",
+      "url": "/esteri/trump-attacca-liran-senza-autorizzazione-756825f9dc38226b",
+      "id": "756825f9dc38226b",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/26f6fa142c5940a14348c604cf973e44.jpg",
+      "image_type": "image"
     },
     {
-      "title": "Germania vieta Viaggi esteri a 11 milioni di uomini",
-      "url": "/esteri/germania-uomini-sotto-45-anni-dovranno-chiedere-il-d71bf89c02cd8515",
-      "id": "d71bf89c02cd8515",
-      "image_url": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxHZXJtYW5pYXxlbnwwfDB8fHwxNzc1NDI5MzYxfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "image_type": "unsplash"
+      "title": "Papa Leone XIV: Guerra all'Iran inaccettabile",
+      "url": "/esteri/papa-leone-xiv-guerra-alliran-inaccettabile-96f117f8d9fb1670",
+      "id": "96f117f8d9fb1670",
+      "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/07/24307829_small-1200x630.jpg",
+      "image_type": "image"
     }
   ],
-  "hero_eligible": true
+  "hero_eligible": true,
+  "updated_at": "2026-04-07T23:11:41.297866+00:00"
 }
