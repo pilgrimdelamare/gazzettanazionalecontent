@@ -1,5 +1,20 @@
 [
   {
+    "id": "69e8b2557afe96d0",
+    "slug": "temporali-estivi-in-francia-a-meta-aprile-69e8b2557afe96d0",
+    "title": "Francia, 8 aprile: 35°c e grandine grossa come palline da golf",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-08T14:39:41.629442+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/33520941/pexels-photo-33520941.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "FRANCIA, 8 APRILE: 35°C E GRANDINE GROSSA COME PALLINE DA GOLF",
+    "lead_preview": "Montpellier ha toccato i 35,2°C alle 14:00 di mercoledì 8 aprile 2026, mentre su Parigi è caduta grandine con chicchi di",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "b21743d62c9290ab",
     "slug": "gravina-scarica-il-piano-di-risanamento-b21743d62c9290ab",
     "title": "Gravina scarica il piano di risanamento",
@@ -509,21 +524,6 @@
       "crisi iran",
       "navigazione interrotta"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "69e8b2557afe96d0",
-    "slug": "temporali-estivi-in-francia-a-meta-aprile-69e8b2557afe96d0",
-    "title": "Temporali estivi in francia a metà aprile",
-    "section": "esteri",
-    "priority": 3,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-08T14:39:41.629442+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/33520941/pexels-photo-33520941.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "TEMPORALI ESTIVI IN FRANCIA A METÀ APRILE",
-    "lead_preview": "Mercoledì 8 aprile, 2026, le temperature in Francia saliranno a livelli estivi, secondo le previsioni meteorologiche. La",
-    "tags": [],
     "hero_eligible": true
   },
   {
