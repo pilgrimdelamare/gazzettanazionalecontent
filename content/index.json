@@ -1,5 +1,20 @@
 [
   {
+    "id": "ddcb403b16e9fcf5",
+    "slug": "aston-villa-italiano-chiede-coraggio-ai-bolognesi-ddcb403b16e9fcf5",
+    "title": "Aston villa: italiano chiede coraggio ai bolognesi",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-08T17:21:19.795271+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/8cb5a3e2d6718edb58407d9424841a90c8c11a12/skysport/it/calcio/europa-league/2026/04/08/bologna-aston-villa-italiano-intervista-video/italiano_screen_4.jpg",
+    "occhiello": "ASTON VILLA: ITALIANO CHIEDE CORAGGIO AI BOLOGNESI",
+    "lead_preview": "La sfida dei quarti di finale di Europa League tra Bologna e Aston Villa si avvicina. Il coach Vincenzo Italiano ha pres",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "8fbc91782ce8e49d",
     "slug": "abodi-a-roma-8-aprile-2026-piano-sport-per-perifer-8fbc91782ce8e49d",
     "title": "Abodi a Roma: 8 aprile 2026, piano Sport per periferie da giugno",
@@ -8870,23 +8885,6 @@
       "murillo nicaragua",
       "serpenti velenosi",
       "clero nicaraguense"
-    ]
-  },
-  {
-    "id": "c090af25525b26e1",
-    "slug": "abodi-pronto-a-commissariare-la-figc-dopo-il-falli-c090af25525b26e1",
-    "title": "Abodi valuta commissariamento figc dopo mancato svolgimento incontro",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-03T10:55:46.407370+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/35251423/pexels-photo-35251423.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "ABODI VALUTA COMMISSARIAMENTO FIGC DOPO MANCATO SVOLGIMENTO INCONTRO",
-    "lead_preview": "Andrea Abodi, ministro per lo sport e i giovani del governo Meloni, starebbe valutando il commissariamento della Federaz",
-    "tags": [
-      "commissariamento figc",
-      "caso abodi figc"
     ]
   }
 ]
