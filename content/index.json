@@ -1,5 +1,24 @@
 [
   {
+    "id": "2aba79fab6b7d4ae",
+    "slug": "trump-minaccia-distruzione-civilta-se-proposta-non-2aba79fab6b7d4ae",
+    "title": "Trump minaccia di cancellare la civiltà iraniana in diretta dalla Casa Bianca",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-07T23:10:47.387617+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/07/233613015-595edd00-fe64-4d22-86fd-db1b36beb770.jpg",
+    "occhiello": "",
+    "lead_preview": "Donald Trump, il 8 aprile 2026, ha minacciato di cancellare la civiltà iraniana se Teheran non avesse accettato la sua p",
+    "tags": [
+      "minacce trump iran",
+      "discorso casa bianca",
+      "crisi iran 2026"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "756825f9dc38226b",
     "slug": "trump-attacca-liran-senza-autorizzazione-756825f9dc38226b",
     "title": "Trump ordina attacchi in Iran senza via libera del Congresso: colpite Kermanshah e Khuzestan",
@@ -846,24 +865,6 @@
       "negoziati cuba-usa",
       "josefina vidal",
       "relazioni cuba usa"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "2aba79fab6b7d4ae",
-    "slug": "trump-minaccia-distruzione-civilta-se-proposta-non-2aba79fab6b7d4ae",
-    "title": "Trump minaccia distruzione civiltà se proposta non accettata",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-07T23:10:47.387617+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/07/233613015-595edd00-fe64-4d22-86fd-db1b36beb770.jpg",
-    "occhiello": "TRUMP MINACCIA DI UCCIDERE UN'INTERA CIVILTÀ",
-    "lead_preview": "Donald Trump, 8 aprile 2026, minaccia di distruzione un'intera civiltà se la sua proposta non verrà accettata, paragonan",
-    "tags": [
-      "trump minaccia",
-      "distruzione civiltà"
     ],
     "hero_eligible": true
   },
