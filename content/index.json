@@ -1,5 +1,24 @@
 [
   {
+    "id": "da30aac499ec6686",
+    "slug": "renaud-muselier-si-candida-al-senato-francese-per-da30aac499ec6686",
+    "title": "Renaud Muselier si candida al Senato francese per la Provenza nel",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-08T21:50:46.240984+00:00",
+    "image_type": "flickr",
+    "image_url": "https://live.staticflickr.com/65535/55184127709_5a15c5ff7a_b.jpg",
+    "occhiello": "",
+    "lead_preview": "Renaud Muselier, presidente della regione Provenza-Alpi-Costa Azzurra, ha annunciato la sua candidatura alle elezioni se",
+    "tags": [
+      "candidatura muselier",
+      "senato francese",
+      "provenza"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "fdb5708d7b931f2b",
     "slug": "the-strokes-tornano-con-reality-awaits-il-26-giugn-fdb5708d7b931f2b",
     "title": "The Strokes pubblicano 'Reality Awaits' il 26 giugno 2026 dopo sei anni di attesa",
@@ -531,25 +550,6 @@
     "occhiello": "ROMANO COSMO VANNUCCI LANCIA IL SUO NUOVO ALBUM \"LA FONTE\"",
     "lead_preview": "Il musicista Romano Cosmo Vannucci presenta \"La Fonte\", il suo nuovo album uscito in matinée, con cui dice addio al club",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "da30aac499ec6686",
-    "slug": "renaud-muselier-si-candida-al-senato-francese-per-da30aac499ec6686",
-    "title": "Renaud Muselier si candida al Senato francese per il seggio della Provenza",
-    "section": "esteri",
-    "priority": 3,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-08T21:50:46.240984+00:00",
-    "image_type": "flickr",
-    "image_url": "https://live.staticflickr.com/65535/55184127709_5a15c5ff7a_b.jpg",
-    "occhiello": "",
-    "lead_preview": "Renaud Muselier, presidente della regione Provence-Alpes-Côte d’Azur, si candida alle elezioni senatoriali francesi in p",
-    "tags": [
-      "elezioni senatoriali",
-      "muselier",
-      "provenza"
-    ],
     "hero_eligible": true
   },
   {
