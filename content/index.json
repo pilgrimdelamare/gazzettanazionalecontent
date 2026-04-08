@@ -1,5 +1,24 @@
 [
   {
+    "id": "deadd199e8dcfd8b",
+    "slug": "petrolio-sotto-i-100-dollari-dopo-cessate-il-fuoco-deadd199e8dcfd8b",
+    "title": "Petrolio sotto i 100 dollari dopo cessate il fuoco in Iran",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-08T23:46:08.670736+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/08/223124308-a463201d-fcda-4a9a-987c-f9035e8a68de.jpg",
+    "occhiello": "GERREI DI PETROLIO: BARILE SOTTO I 100 DOLLARI",
+    "lead_preview": "Il prezzo del petrolio è crollato a seguito dell'annuncio del cessate il fuoco in Iran.. La Ue sta lavorando a un pacche",
+    "tags": [
+      "prezzo petrolio",
+      "cessate il fuoco iran",
+      "crisi energetica"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "95e69fa974776fe4",
     "slug": "giorgetti-a-bruxelles-chiede-flessibilita-sul-patt-95e69fa974776fe4",
     "title": "Giorgetti a Bruxelles chiede flessibilità sul patto di stabilità per la transizione verde",
@@ -8878,24 +8897,6 @@
       "st michael's mount",
       "tempesta goret",
       "erosione cornovaglia"
-    ]
-  },
-  {
-    "id": "f23e56f889f46f05",
-    "slug": "inflazione-al-26-nel-2026-f23e56f889f46f05",
-    "title": "Inflazione a 2,6% in Italia a marzo 2026, +1 punto in un mese secondo Bankitalia",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-04-03T16:10:13.774578+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1586452169837-dad2a1fad15a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxpbmZsYXRpb24lMjBJdGFseSUyMDIuNiUyMHBlcmNlbnR8ZW58MHwwfHx8MTc3NTMwMDM3Nnww&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "INFLAZIONE AL 2,6%, RATA MUTUO +400",
-    "lead_preview": "Bankitalia ha comunicato che l'inflazione in Italia è salita al 2,6 per cento nel mese di marzo 2026, un punto percentua",
-    "tags": [
-      "inflazione 2026",
-      "bankitalia marzo",
-      "rata mutuo +400"
     ]
   }
 ]
