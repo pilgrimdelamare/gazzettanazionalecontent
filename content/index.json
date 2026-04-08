@@ -1,5 +1,20 @@
 [
   {
+    "id": "5ce5f50cb9750df3",
+    "slug": "14300-alberi-tagliati-a-roma-senza-autorizzazione-5ce5f50cb9750df3",
+    "title": "14.300 alberi tagliati a roma senza autorizzazione",
+    "section": "giustizia",
+    "priority": 6,
+    "journalist_firma": "Carlo Amato",
+    "published_at": "2026-04-08T12:53:28.879296+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/07/23452547_small-e1775539296737-1200x630.jpg",
+    "occhiello": "14.300 ALBERI TAGLIATI A ROMA SENZA AUTORIZZAZIONE",
+    "lead_preview": "Stefano Deliperi, presidente del Gruppo di Intervento Giuridico, ha denunciato il taglio di 14.300 alberi a Roma tra il ",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "c588b29e5b95cc34",
     "slug": "missione-navale-a-hormuz-annunciata-c588b29e5b95cc34",
     "title": "Missione navale a hormuz annunciata",
@@ -8893,23 +8908,6 @@
     "tags": [
       "gaia de laurentiis",
       "pechino express"
-    ]
-  },
-  {
-    "id": "c46e09439486ff34",
-    "slug": "pilosio-porta-le-infrastrutture-in-tour-il-busines-c46e09439486ff34",
-    "title": "Pilosio lancia tour da 2 milioni",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-04-03T10:33:55.316218+00:00",
-    "image_type": "ddg_image",
-    "image_url": "https://pilosio.com/wp-content/uploads/2022/08/Carro-Dynamo-26-low.jpg",
-    "occhiello": "Ponte in tour per nascondere 1.300 in cassa integrazione",
-    "lead_preview": "Pilosio ha lanciato il 3 aprile 2026 un tour nazionale con ponti dimostrativi in dieci regioni italiane, un percorso che",
-    "tags": [
-      "pilosio tour",
-      "cassa integrazione pilosio"
     ]
   }
 ]
