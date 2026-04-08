@@ -1,0 +1,57 @@
+{
+  "id": "03359242a7ab9deb",
+  "slug": "rosolina-il-5-maggio-arriva-il-summit-del-mare-foc-03359242a7ab9deb",
+  "title": "Rosolina, il 5 maggio arriva il Summit del Mare: focus su Sostenibilità",
+  "titles": [
+    "Rosolina, il 5 maggio arriva il Summit del Mare: focus su Sostenibilità",
+    "A Rosolina il futuro sostenibile del Litorale Veneto: 5 maggio, Summit del Mare",
+    "25 Milioni di turisti, il Litorale Veneto punta alla Sostenibilità: Summit a Rosolina"
+  ],
+  "title_winner": null,
+  "section": "economia",
+  "occhiello": "ROSOLINA OSPITERÀ IL SUMMIT DEL MARE",
+  "lead": "Rosolina, 8 aprile 2026 - La quinta edizione del Summit del Mare - Costa Veneta Green Lab si terrà a Rosolina, nella provincia di Rovigo, il 5 maggio prossimo. L'evento è nato nel 2022 dalla collaborazione tra i sindaci dei 10 Comuni del Litorale Veneto.",
+  "corpo1": "Il Summit del Mare - Costa Veneta Green Lab è un progetto ambizioso che mira a trasformare la costa Veneta nel Litorale più sostenibile d'Italia. I sindaci dei 10 Comuni del Litorale Veneto, riuniti nella Conferenza dei sindaci, hanno scelto di investire su progetti innovativi e sostenibili per rendere questo territorio un modello virtuoso da tramandare alle future generazioni. Il Litorale Veneto è il principale polo turistico d'Italia, con oltre 25 milioni di presenze turistiche - un record a livello Europeo. La quinta edizione del Summit si terrà a Rosolina, nel cuore del Parco del Delta del Po, e sarà l'occasione per discutere i pilastri della Sostenibilità e dell'evoluzione del progetto.",
+  "corpo2": "Il progetto del Summit del Mare è Stato lanciato per rispondere alle esigenze di Sostenibilità e sviluppo del territorio, che conta una grande affluenza turistica. La scelta di Rosolina come sede della quinta edizione è strategica, poiché la località è nota per la sua bellezza naturalistica e per essere un esempio di Turismo sostenibile. L'evento sarà anche l'occasione per presentare i risultati raggiunti fino ad ora e per discutere le prossime mosse per rendere la costa Veneta sempre più sostenibile. A pagare, come sempre, saranno i residenti che già vedono lievitare le tariffe dei servizi mentre i turisti continuano a pagare tre euro per un caffè in piazza.",
+  "journalist": {
+    "id": "marta_levi_01",
+    "firma": "Marta Levi",
+    "sezione": "economia"
+  },
+  "published_at": "2026-04-08T06:14:46.113361+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://i2.res.24o.it/images2010/S24/Documenti/2026/04/08/Immagini/Ritagli/AdobeStock_174875156-U23814732452DcN-1440x752@IlSole24Ore-Web.jpeg?r=1170x507",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Rosolina, il 5 maggio arriva il Summit del Mare: focus su Sostenibilità\",\n  \"description\": \"Rosolina, 8 aprile 2026 - La quinta edizione del Summit del Mare - Costa Veneta Green Lab si terrà a Rosolina, nella provincia di Rovigo, il 5 maggio prossimo. L'evento è nato nel 2022 dalla collaborazione tra i sindaci dei 10 Comuni del Litorale Veneto.\",\n  \"articleBody\": \"Rosolina, 8 aprile 2026 - La quinta edizione del Summit del Mare - Costa Veneta Green Lab si terrà a Rosolina, nella provincia di Rovigo, il 5 maggio prossimo. L'evento è nato nel 2022 dalla collaborazione tra i sindaci dei 10 Comuni del Litorale Veneto. Il Summit del Mare - Costa Veneta Green Lab è un progetto ambizioso che mira a trasformare la costa Veneta nel Litorale più sostenibile d'Italia. I sindaci dei 10 Comuni del Litorale Veneto, riuniti nella Conferenza dei sindaci, hanno scelto di investire su progetti innovativi e sostenibili per rendere questo territorio un modello virtuoso da tramandare alle future generazioni. Il Litorale Veneto è il principale polo turistico d'Italia, con oltre 25 milioni di presenze turistiche - un record a livello Europeo. La quinta edizione del Summit si terrà a Rosolina, nel cuore del Parco del Delta del Po, e sarà l'occasione per discutere i pilastri della Sostenibilità e dell'evoluzione del progetto. Il progetto del Summit del Mare è Stato lanciato per rispondere alle esigenze di Sostenibilità e sviluppo del territorio, che conta una grande affluenza turistica. La scelta di Rosolina come sede della quinta edizione è strategica, poiché la località è nota per la sua bellezza naturalistica e per essere un esempio di Turismo sostenibile. L'evento sarà anche l'occasione per presentare i risultati raggiunti fino ad ora e per discutere le prossime mosse per rendere la costa Veneta sempre più sostenibile. A pagare, come sempre, saranno i residenti che già vedono lievitare le tariffe dei servizi mentre i turisti continuano a pagare tre euro per un caffè in piazza.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Marta Levi\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-08T06:14:46.113361+00:00\",\n  \"dateModified\": \"2026-04-08T06:14:46.113361+00:00\",\n  \"url\": \"https://lentemattutina.it/economia/03359242a7ab9deb\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/economia/03359242a7ab9deb\"\n  },\n  \"articleSection\": \"Economia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://i2.res.24o.it/images2010/S24/Documenti/2026/04/08/Immagini/Ritagli/AdobeStock_174875156-U23814732452DcN-1440x752@IlSole24Ore-Web.jpeg?r=1170x507\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 6,
+  "source": "Il Sole 24 Ore Economia",
+  "source_type": "competitor",
+  "original_url": "https://www.ilsole24ore.com/art/sostenibilita-rosolina-accogliera-5-summit-mare-AIJHZYNC",
+  "related": [
+    {
+      "title": "Fincantieri assume 1.200 persone in Italia dal 2026: opportunità per laureati Stem e operai specializzati",
+      "url": "/economia/fincantieri-assume-1200-persone-in-italia-dal-2026-515b099f1e2a0074",
+      "id": "515b099f1e2a0074",
+      "image_url": "https://i2.res.24o.it/images2010/S24/Documenti/2026/04/08/Immagini/Ritagli/7E7C38BA-5203-4DDA-8F24-71E5C2839D07-U13476311288gaZ-1440x752@IlSole24Ore-Web.jpg?r=1170x507",
+      "image_type": "image"
+    },
+    {
+      "title": "Petrolio sotto 100 dollari: Wti a 99,3 dopo tregua Usa-Iran",
+      "url": "/economia/petrolio-sotto-100-dollari-wti-a-993-dopo-tregua-u-817c3327165492e0",
+      "id": "817c3327165492e0",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/2/9e872ccf8eb61a0aeb501f9f5b23fcad.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Da oggi il Cid digitale è obbligatorio per tutte le RCA in Italia",
+      "url": "/economia/compagnie-assicurative-italiane-obbligate-a-fornir-4274e71661cbc723",
+      "id": "4274e71661cbc723",
+      "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/07/200026160-47e6d586-c32c-41bf-9954-863df627cba1.jpg",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": true
+}
