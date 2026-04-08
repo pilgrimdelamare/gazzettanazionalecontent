@@ -1,5 +1,20 @@
 [
   {
+    "id": "c05d821d0458cfd7",
+    "slug": "mattarella-riceve-i-tricolori-al-quirinale-per-mil-c05d821d0458cfd7",
+    "title": "Mattarella riceve i tricolori al quirinale",
+    "section": "societa",
+    "priority": 5,
+    "journalist_firma": "Marco Sala",
+    "published_at": "2026-04-08T18:28:53.281521+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/08/180716679-03ad8dcf-1090-4c99-9440-f83fbd353a02.jpg",
+    "occhiello": "MATTARELLA RICEVE I TRICOLORI AL QUIRINALE",
+    "lead_preview": "8 Aprile 2026, Roma - Sergio Mattarella ha ricevuto i tricolori dalle mani dei rappresentanti della delegazione Italiana",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "c21f6b3dbe0dfb7c",
     "slug": "sergio-parisse-entrera-nello-staff-tecnico-della-n-c21f6b3dbe0dfb7c",
     "title": "Rugby: Parisse diventa capo allenatore della Nazionale a partire da luglio",
@@ -274,25 +289,6 @@
     "occhiello": "GRATTA E VINCI INVALIDO: IL MEZZO MILIONE CHE NON ESISTE",
     "lead_preview": "GRATTA E VINCILLO INVALIDO: IL MEZZO MILIONE CHE NON ESISTE Lead: Il 8 aprile 2026 a Carsoli, in provincia dell'Aquila, ",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "c05d821d0458cfd7",
-    "slug": "mattarella-riceve-i-tricolori-al-quirinale-per-mil-c05d821d0458cfd7",
-    "title": "Mattarella riceve i tricolori al Quirinale per Milano Cortina",
-    "section": "societa",
-    "priority": 4,
-    "journalist_firma": "Marco Sala",
-    "published_at": "2026-04-08T18:28:53.281521+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/08/180716679-03ad8dcf-1090-4c99-9440-f83fbd353a02.jpg",
-    "occhiello": "",
-    "lead_preview": "Sergio Mattarella ha ricevuto al Quirinale i tricolori dalle mani dei rappresentanti della delegazione Italiana ai Gioch",
-    "tags": [
-      "milano cortina 2026",
-      "mattarella quirinale",
-      "consegna tricolori"
-    ],
     "hero_eligible": true
   },
   {
