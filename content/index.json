@@ -1,5 +1,24 @@
 [
   {
+    "id": "70e483794418b489",
+    "slug": "francis-ford-coppola-compie-87-anni-e-annuncia-nuo-70e483794418b489",
+    "title": "Coppola gira un film in Basilicata: riprese a Matera e Alta Murgia",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-07T22:51:02.823204+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/8/27/ee1e92632c6b2185aed3ae4cf8e526b9.jpg",
+    "occhiello": "",
+    "lead_preview": "Francis Ford Coppola compie 87 anni il 7 aprile 2026 e annuncia di essere pronto a girare un nuovo film in Basilicata, c",
+    "tags": [
+      "coppola basilicata",
+      "riprese matera",
+      "film coppola 2026"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "5ee00affa0623cbd",
     "slug": "oriana-celentano-protagonista-della-serie-polacca-5ee00affa0623cbd",
     "title": "Oriana Celentano protagonista a Polignano: serie polacca 'Felicità' inizia le riprese nel",
@@ -715,24 +734,6 @@
     "tags": [
       "milano design week",
       "armani alla design week"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "70e483794418b489",
-    "slug": "francis-ford-coppola-compie-87-anni-e-annuncia-nuo-70e483794418b489",
-    "title": "Francis Ford Coppola compie 87 anni e annuncia nuovo film in Basilicata",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-07T22:51:02.823204+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/8/27/ee1e92632c6b2185aed3ae4cf8e526b9.jpg",
-    "occhiello": "FRANCIS FORD COPPOLA, 87 ANNI E UN NUOVO PROGETTO",
-    "lead_preview": "Francis Ford Coppola, il celebre regista de \"Il Padrino\", compie 87 anni e annuncia di essere pronto a girare un adattam",
-    "tags": [
-      "francis ford coppola",
-      "nuovo film coppola"
     ],
     "hero_eligible": true
   },
