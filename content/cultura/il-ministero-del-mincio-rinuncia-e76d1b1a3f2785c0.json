@@ -1,0 +1,57 @@
+{
+  "id": "e76d1b1a3f2785c0",
+  "slug": "il-ministero-del-mincio-rinuncia-e76d1b1a3f2785c0",
+  "title": "Il ministero del Mincio rinuncia",
+  "titles": [
+    "Il ministero del Mincio rinuncia",
+    "60 Sale italiane accolgono 60 ore di verità",
+    "Il film sulla scomparsa di Giulio Regeni torna in 60 sale"
+  ],
+  "title_winner": null,
+  "section": "cultura",
+  "occhiello": "CINEMA ESCLUDE IL MINISTERO, NON IL PUBBLICO",
+  "lead": "Il documentario “Giulio Regeni – Tutto il male del Mondo” torna in 60 sale italiane l’8 aprile 2026, dopo l’esclusione dai finanziamenti del ministero della Cultura. I produttori hanno riprogrammato le proiezioni e attivato proiezioni nelle università.",
+  "corpo1": "Il docufilm diretto da Simone Manetti, inizialmente escluso dal sostegno pubblico, torna nelle sale come iniziativa privata. La decisione è arrivata dopo la segnalazione in esclusiva del Fatto Quotidiano sul diniego del ministero. Sessanta Cinema hanno aderito alla distribuzione spontanea, mentre le proiezioni universitarie sono state riorganizzate come “progetto culturale” autonomo. Il silenzio del MiC sul taglio dei fondi conferma l’abitudine a lasciare senza spiegazioni le scelte più scomode. Il film ripercorre la vicenda di Giulio Regeni, ricercatore italiano sequestrato al Cairo il 25 gennaio 2016 e ritrovato morto nove giorni dopo con segni di tortura. Le indagini hanno da sempre puntato il dito contro i servizi segreti egiziani, ma nessun responsabile è mai Stato individuato con certezza.",
+  "corpo2": "Manetti non è nuovo a opere che mettono a fuoco i punti ciechi dell’Italia recente: il suo precedente “Il corpo di mia madre” aveva già scavato nella rimozione collettiva. Stavolta il silenzio da parte del ministero su un caso ancora aperto fa rumore. Il meccanismo è noto: i fondi pubblici al Cinema passano attraverso commissioni che valutano “pregio artistico e interesse culturale”, criteri sufficientemente elastici per far sparire un film scomodo senza mai scrivere la parola censura. Il risultato è che un’opera su un cittadino italiano ucciso all’estero per la sua ricerca deve ricorrere al passaparola e agli spazi alternativi per arrivare agli spettatori. Le 60 sale piene costringeranno il ministero a spiegare perché un progetto sostenuto dagli spettatori non ha meritato 200 mila euro di contributo pubblico. A pagare il conto, come sempre, sono i soliti: chi non può permettersi di restare fuori dai circuiti ufficiali.",
+  "journalist": {
+    "id": "tommaso_riva_01",
+    "firma": "Tommaso Riva",
+    "sezione": "cultura"
+  },
+  "published_at": "2026-04-08T13:15:48.202650+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2022/07/14/med-1200x630-16.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Il ministero del Mincio rinuncia\",\n  \"description\": \"Il documentario “Giulio Regeni – Tutto il male del Mondo” torna in 60 sale italiane l’8 aprile 2026, dopo l’esclusione dai finanziamenti del ministero della Cultura. I produttori hanno riprogrammato le proiezioni e attivato proiezioni nelle università.\",\n  \"articleBody\": \"Il documentario “Giulio Regeni – Tutto il male del Mondo” torna in 60 sale italiane l’8 aprile 2026, dopo l’esclusione dai finanziamenti del ministero della Cultura. I produttori hanno riprogrammato le proiezioni e attivato proiezioni nelle università. Il docufilm diretto da Simone Manetti, inizialmente escluso dal sostegno pubblico, torna nelle sale come iniziativa privata. La decisione è arrivata dopo la segnalazione in esclusiva del Fatto Quotidiano sul diniego del ministero. Sessanta Cinema hanno aderito alla distribuzione spontanea, mentre le proiezioni universitarie sono state riorganizzate come “progetto culturale” autonomo. Il silenzio del MiC sul taglio dei fondi conferma l’abitudine a lasciare senza spiegazioni le scelte più scomode. Il film ripercorre la vicenda di Giulio Regeni, ricercatore italiano sequestrato al Cairo il 25 gennaio 2016 e ritrovato morto nove giorni dopo con segni di tortura. Le indagini hanno da sempre puntato il dito contro i servizi segreti egiziani, ma nessun responsabile è mai Stato individuato con certezza. Manetti non è nuovo a opere che mettono a fuoco i punti ciechi dell’Italia recente: il suo precedente “Il corpo di mia madre” aveva già scavato nella rimozione collettiva. Stavolta il silenzio da parte del ministero su un caso ancora aperto fa rumore. Il meccanismo è noto: i fondi pubblici al Cinema passano attraverso commissioni che valutano “pregio artistico e interesse culturale”, criteri sufficientemente elastici per far sparire un film scomodo senza mai scrivere la parola censura. Il risultato è che un’opera su un cittadino italiano ucciso all’estero per la sua ricerca deve ricorrere al passaparola e agli spazi alternativi per arrivare agli spettatori. Le 60 sale piene costringeranno il ministero a spiegare perché un progetto sostenuto dagli spettatori non ha meritato 200 mila euro di contributo pubblico. A pagare il conto, come sempre, sono i soliti: chi non può permettersi di restare fuori dai circuiti ufficiali.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Tommaso Riva\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-08T13:15:48.202650+00:00\",\n  \"dateModified\": \"2026-04-08T13:15:48.202650+00:00\",\n  \"url\": \"https://lentemattutina.it/cultura/e76d1b1a3f2785c0\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cultura/e76d1b1a3f2785c0\"\n  },\n  \"articleSection\": \"Cultura\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://st.ilfattoquotidiano.it/wp-content/uploads/2022/07/14/med-1200x630-16.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 4,
+  "source": "Redazione",
+  "source_type": "competitor_gap",
+  "original_url": "https://www.ilfattoquotidiano.it/2026/04/08/documentario-giulio-regeni-cinema-ministero-cultura-notizie/8349119/",
+  "related": [
+    {
+      "title": "Resort acquista la casa di rauschenberg a captiva",
+      "url": "/cultura/resort-acquista-la-casa-di-rauschenberg-a-captiva-7bf45818a591825c",
+      "id": "7bf45818a591825c",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/8/30/3ca39fe89d92de60061aabafe1651d4b.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Romics 2026: ospiti zerocalcare, venom e il cantante delle sigle",
+      "url": "/cultura/romics-2026-ospiti-zerocalcare-venom-e-il-cantante-4c6e786462265ba9",
+      "id": "4c6e786462265ba9",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/5cf6b6a7753338e6948045249bafb9f7.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Diario segreto di un eroe: 280 pagine sulla Resistenza",
+      "url": "/cultura/diario-segreto-di-un-eroe-280-pagine-sulla-resiste-e7cd3943cd0ef484",
+      "id": "e7cd3943cd0ef484",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/8d623cc787a581f1eb720804657b1580.jpg",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": true
+}
