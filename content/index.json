@@ -1,5 +1,24 @@
 [
   {
+    "id": "d1576f3bb0bbe0f4",
+    "slug": "ac-milan-celebra-mircea-lucescu-a-san-siro-dopo-la-d1576f3bb0bbe0f4",
+    "title": "AC Milan celebra Mircea Lucescu a San Siro dopo la sua scomparsa a 81 anni",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-08T11:49:04.190597+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/26/67db21666097652eaee4bd965b87dbc2.jpg",
+    "occhiello": "OMAGGIO A LUCESCU, IL COACH CHE SCONFITTO MA NON SI ARRESE",
+    "lead_preview": "AC Milan ricorda ieri Mircea Lucescu, scomparso all’età di 81 anni. Il tecnico romeno, esempio di lealtà e competizione,",
+    "tags": [
+      "omaggio lucescu",
+      "ac milan",
+      "san siro"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "38439c3907a22265",
     "slug": "un-robot-automatizzato-prepara-i-farmaci-chemioter-38439c3907a22265",
     "title": "Un robot automatizzato prepara i farmaci chemioterapici all’ospedale Città della",
@@ -8897,23 +8916,6 @@
       "caso san siro",
       "albertini verde",
       "fondi scomparsi 2026"
-    ]
-  },
-  {
-    "id": "904f8a9c41d7eb11",
-    "slug": "accusato-di-assassinare-amministratore-delegato-di-904f8a9c41d7eb11",
-    "title": "Luigi mangione accusato dell'omicidio di brian thompson",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-03T04:25:52.634540+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1749310727492-a2d1270e9ce6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxOZXclMjBZb3JrJTIwSGlsdG9uJTIwTWlkdG93bnxlbnwwfDB8fHwxNzc1Mjc1Mzg0fDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "LUIGI MANGIONE ACCUSATO DELL'OMICIDIO DI BRIAN THOMPSON",
-    "lead_preview": "Luigi Mangione, accusato dell'omicidio di Brian Thompson, amministratore delegato di UnitedHealth Group, avrà il process",
-    "tags": [
-      "omicidio thompson",
-      "processo mangione"
     ]
   }
 ]
