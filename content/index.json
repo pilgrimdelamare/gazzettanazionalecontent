@@ -1,5 +1,24 @@
 [
   {
+    "id": "bd58f552547a2a8d",
+    "slug": "calcio-12-aprile-massa-a-como-inter-e-maresca-a-at-bd58f552547a2a8d",
+    "title": "Calcio: Davide Massa fischia Como-Inter, Maresca per Atalanta-Juve",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-08T14:06:06.659693+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/19/465cac4de6637560604bbdc116747f5d.jpg",
+    "occhiello": "UFFICIALE: DESIGNAZIONI ARBITRALI PER COMO-INTER E ATALANTA-JUVENTUS",
+    "lead_preview": "Davide Massa sarà l'arbitro designato per la partita tra Como e Inter del 12 aprile, mentre Fabio Maresca sarà quello pe",
+    "tags": [
+      "como-inter",
+      "atalanta-juve",
+      "davide massa"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "3919c66551a69d05",
     "slug": "evaso-per-triplo-omicidio-ferisce-carabiniere-e-vi-3919c66551a69d05",
     "title": "Elìa del Grande, 38enne, catturato a Varese dopo evasione",
@@ -648,25 +667,6 @@
     "occhiello": "PARISSE IN LO STAFF DELLA NAZIONALE ITALIANA",
     "lead_preview": "8 Aprile 2026 - Sergio Parisse entra nello staff tecnico dell'Italrugby, la nazionale maschile Italiana di Rugby a 15, d",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "bd58f552547a2a8d",
-    "slug": "calcio-12-aprile-massa-a-como-inter-e-maresca-a-at-bd58f552547a2a8d",
-    "title": "Calcio: 12 aprile, Massa a Como-Inter e Maresca a Atalanta-Juventus",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-08T14:06:06.659693+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/19/465cac4de6637560604bbdc116747f5d.jpg",
-    "occhiello": "DESIGNAZIONI ARBITRALI: MASSA A COMO, MARESCA ALL'ATALANTA",
-    "lead_preview": "Il designatore arbitrale Nicola Rizzoli ha designato Davide Massa per Como-Inter e Fabio Maresca per Atalanta-Juventus, ",
-    "tags": [
-      "serie a",
-      "calcio",
-      "designazioni arbitrali"
-    ],
     "hero_eligible": true
   },
   {
