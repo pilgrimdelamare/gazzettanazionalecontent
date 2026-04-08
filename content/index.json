@@ -1,5 +1,24 @@
 [
   {
+    "id": "8a685bc1665b7262",
+    "slug": "la-frick-collection-a-ny-mostra-su-maria-antoniett-8a685bc1665b7262",
+    "title": "Maria Antonietta in mostra a New York fino al 7 giugno 2026 alla Frick Collection",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-07T22:49:35.971843+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/7207a6915c1707f80f70fc5f15c41940.jpg",
+    "occhiello": "MARIA ANTONIETTA IN MOSTRA A NEW YORK",
+    "lead_preview": "Maria Antonietta torna in scena a New York. Fino al 7 giugno 2026, la Frick Collection espone l’opulenza della moda fran",
+    "tags": [
+      "mostra maria antonietta",
+      "frick collection 2026",
+      "moda settecento new york"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "59ceadda1b4f5a00",
     "slug": "armani-svela-la-sua-milano-allestimento-unico-alla-59ceadda1b4f5a00",
     "title": "Armani trasforma la Fondazione Prada in una casa intima per la Design Week",
@@ -809,24 +828,6 @@
     "tags": [
       "attacco iran",
       "trump iran"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "8a685bc1665b7262",
-    "slug": "la-frick-collection-a-ny-mostra-su-maria-antoniett-8a685bc1665b7262",
-    "title": "La Frick Collection a NY, mostra su Maria Antonietta e la moda del '700",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-07T22:49:35.971843+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/7207a6915c1707f80f70fc5f15c41940.jpg",
-    "occhiello": "MOSTRA SULLA MODA DEL 18/O SECOLO ALLA FRICK COLLECTION",
-    "lead_preview": "La Frick Collection di New York ospita fino al 7 giugno una mostra sullo stile opulento dell'abito francese nel 18/o sec",
-    "tags": [
-      "mostra maria antonietta",
-      "moda 18 secolo"
     ],
     "hero_eligible": true
   },
