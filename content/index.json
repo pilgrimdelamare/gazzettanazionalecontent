@@ -1,5 +1,24 @@
 [
   {
+    "id": "3fb8d1d287b5ca5b",
+    "slug": "basket-demar-derozan-mette-a-segno-45-punti-e-chic-3fb8d1d287b5ca5b",
+    "title": "Basket: DeMar DeRozan mette a segno 45 punti e Chicago batte Washington con 31 punti di vantaggio",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-08T05:45:16.915843+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/0b5fdbc4a926482a2ef4e5e70da867e19a4d11e8/skysport/it/nba/video/2026/04/08/1088453_1775616810898_thumb_494.0000001_1775625022265.jpg",
+    "occhiello": "WASHINGTON CHICAGO 98-129: UNA SEGNALAZIONE DURISSIMA",
+    "lead_preview": "La notizia della sera: la partita di ieri, 8 aprile 2026, ha visto la vittoria della squadra di Chicago. La partita di i",
+    "tags": [
+      "vittoria chicago",
+      "prestazione derozan",
+      "nba 2026"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "e3a7a200e041a5a1",
     "slug": "basket-new-orleans-batte-utah-con-recordman-293-pu-e3a7a200e041a5a1",
     "title": "Basket: New Orleans batte Utah con recordman 293 punti",
@@ -8943,24 +8962,6 @@
       "aggressione esposito avellino",
       "spranga avellino",
       "ferito avellino"
-    ]
-  },
-  {
-    "id": "d9c0e5aa220a64b5",
-    "slug": "il-rigassificatore-a-rischio-per-la-difesa-d9c0e5aa220a64b5",
-    "title": "Davide Natale chiede stop rigassificatore di Pan a Porto Venere il 3 aprile",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-04-03T10:19:33.376036+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1688576697062-9d3305c7d1bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxQb3J0byUyMFZlbmVyZSUyMHJpZ2Fzc2lmaWNhdG9yZXxlbnwwfDB8fHwxNzc1MjcyMTAxfDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "RIGASSIFICATORE A RISCHIO PER LA DIFESA",
-    "lead_preview": "Davide Natale, capogruppo del Pd in Regione Liguria, ha chiesto la sospensione delle attività del rigassificatore di Pan",
-    "tags": [
-      "rigassificatore pan",
-      "davide natale",
-      "portovenere 2026"
     ]
   }
 ]
