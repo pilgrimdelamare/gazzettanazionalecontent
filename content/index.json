@@ -1,5 +1,24 @@
 [
   {
+    "id": "74c83365c1fc3002",
+    "slug": "crans-montana-8-aprile-2026-lindagato-del-comune-r-74c83365c1fc3002",
+    "title": "Ex capo Sicurezza di Crans-Montana arrestato per 287mila franchi falsi in 3 anni",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-04-08T12:32:12.319595+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/1/1181f1735e43bf24311c1790c63a004a.jpg",
+    "occhiello": "ARRESTATO L'EX RESPONSABILE DELLA SICUREZZA COMUNALE",
+    "lead_preview": "Andrea Rossi, ex responsabile della Sicurezza del Comune di Crans-Montana, è stato arrestato il 7 aprile 2026 con l'accu",
+    "tags": [
+      "caso andrea rossi",
+      "frode crans-montana",
+      "falsificazione fatture"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "e7cd3943cd0ef484",
     "slug": "diario-segreto-di-un-eroe-280-pagine-sulla-resiste-e7cd3943cd0ef484",
     "title": "280 Pagine segrete di un ufficiale britannico sulla Resistenza Italiana trovate dopo 83 anni",
@@ -674,25 +693,6 @@
     "tags": [
       "casa rauschenberg",
       "robert rauschenberg"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "74c83365c1fc3002",
-    "slug": "crans-montana-8-aprile-2026-lindagato-del-comune-r-74c83365c1fc3002",
-    "title": "Rossi, ex responsabile Sicurezza del Comune di Crans-Montana, arrestato per falsificazione di fatture",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Chiara Esposito",
-    "published_at": "2026-04-08T12:32:12.319595+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/1/1181f1735e43bf24311c1790c63a004a.jpg",
-    "occhiello": "INDAGATO PER FALSI IN COMUNE DI CRANS-MONTANA",
-    "lead_preview": "Crans-Montana, 8 aprile 2026 — l'indagato del Comune responsabile della Sicurezza, Andrea Rossi, è stato arrestato ieri ",
-    "tags": [
-      "arresto rossi crans-montana",
-      "falsificazione fatture comune",
-      "indagine sicurezza crans-montana"
     ],
     "hero_eligible": true
   },
