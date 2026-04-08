@@ -1,5 +1,24 @@
 [
   {
+    "id": "9337afa078355db7",
+    "slug": "basket-valencia-conquista-la-finale-europea-9337afa078355db7",
+    "title": "Basket: Valencia batte EA7 Milano 87-77 e conquista l'Europa a Barcellona",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-07T22:42:10.282619+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/2/3/e60a735979b47ed0c05b0432a244fdc3.jpg",
+    "occhiello": "VALENCIA SORPRENDE IN FINALE EUROPEA!",
+    "lead_preview": "La formazione spagnola di Valencia ha sconfitto EA7 Milano nella finale della Eurolega, giocata il 7 aprile 2026.. La pa",
+    "tags": [
+      "eurolega",
+      "basket",
+      "valencia"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "eac6693fb6e9694c",
     "slug": "ellekappa-cancella-lafrica-in-una-vignetta-su-repu-eac6693fb6e9694c",
     "title": "38Mila condivisioni in 12 ore per la vignetta che cancella l'Africa da Repubblica",
@@ -1281,25 +1300,6 @@
     "tags": [
       "blocco oleodotto",
       "golfo trieste"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "9337afa078355db7",
-    "slug": "basket-valencia-conquista-la-finale-europea-9337afa078355db7",
-    "title": "Basket: Valencia conquista la finale Europea!",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-07T22:42:10.282619+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/2/3/e60a735979b47ed0c05b0432a244fdc3.jpg",
-    "occhiello": "VALENZIA SORPRESA NELLA EUROLEGA",
-    "lead_preview": "La formazione spagnola di Valencia ha sorpreso gli avversari nella finale della Eurolega, sconfiggendo EA7 Milano per 10",
-    "tags": [
-      "eurolega",
-      "valencia",
-      "basket"
     ],
     "hero_eligible": true
   },
