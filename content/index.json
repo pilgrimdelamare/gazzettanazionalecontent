@@ -1,5 +1,24 @@
 [
   {
+    "id": "87db9c3046ce89ac",
+    "slug": "mae-70-anni-dopo-unembolia-perde-23-chili-e-si-rif-87db9c3046ce89ac",
+    "title": "Mae, 70 anni, perde 23 chili dopo embolia a Milano: volto stravolto, interviene in clinica a San Pellegrino",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Chiara Esposito",
+    "published_at": "2026-04-08T13:23:54.481052+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/08/Truesdale-Facial-Plastic-Surgery.jpg",
+    "occhiello": "",
+    "lead_preview": "Mae, 70 anni, ha perso oltre 23 chili in poche settimane dopo aver subito un’embolia polmonare il 2 aprile. L’evento cli",
+    "tags": [
+      "embolia milano",
+      "morte mae",
+      "crisi sanitaria milano"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "532135eee6a353a0",
     "slug": "197-morti-a-beirut-in-poche-ore-raid-israeliani-co-532135eee6a353a0",
     "title": "197 Morti a Beirut in poche ore: raid israeliani colpiscono quartieri civili",
@@ -812,21 +831,6 @@
     "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2022/07/14/med-1200x630-16.jpg",
     "occhiello": "",
     "lead_preview": "Il ministero della Cultura ha rinunciato a impedire la riemissione del documentario “Giulio Regeni – Tutto il male del M",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "87db9c3046ce89ac",
-    "slug": "mae-70-anni-dopo-unembolia-perde-23-chili-e-si-rif-87db9c3046ce89ac",
-    "title": "Mae, 70 anni, perde 23 chili e si rifà il volto",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-04-08T13:23:54.481052+00:00",
-    "image_type": "image",
-    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/08/Truesdale-Facial-Plastic-Surgery.jpg",
-    "occhiello": "MAE, 70 ANNI, PERDE 23 CHILI E SI RIFÀ IL VOLTO",
-    "lead_preview": "Il 2 aprile, Mae, 70 anni, ha subito un'embolia polmonare e ha perso oltre 23 chili. Adesso si è decisa a rivoluzionare ",
     "tags": [],
     "hero_eligible": true
   },
