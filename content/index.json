@@ -1,5 +1,24 @@
 [
   {
+    "id": "853dcab0cba4aedc",
+    "slug": "un-pariginese-con-un-tiraccio-da-90-metri-853dcab0cba4aedc",
+    "title": "Calcio: Canales segna da 90 metri, Betis pareggia il Braga all'87'",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-08T19:19:31.642234+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/da25ce456fe0614de819d166a085f2da6a934cfd/skysport/it/calcio/europa-league/video/2026/04/08/1088701_1775674590747_thumb_494.0000001_1775674673255.jpg",
+    "occhiello": "CANALES DA 90 METRI, BETIS FERMATO SUL PARI",
+    "lead_preview": "Sergio Canales ha trovato l'1-1 per il Real Betis contro il Braga all'87' del match di Europa League del 2026-04-08 al B",
+    "tags": [
+      "canales 90 metri",
+      "betis braga",
+      "europa league 2026"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c375a1cc5c7a9569",
     "slug": "psg-liverpool-2-0-colpo-da-campione-c375a1cc5c7a9569",
     "title": "Psg liverpool 2-0, colpo da campione",
@@ -293,21 +312,6 @@
       "conflitto palestinese",
       "reportage gaza"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "853dcab0cba4aedc",
-    "slug": "un-pariginese-con-un-tiraccio-da-90-metri-853dcab0cba4aedc",
-    "title": "Un pariginese con un tiraccio da 90 metri",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-08T19:19:31.642234+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/da25ce456fe0614de819d166a085f2da6a934cfd/skysport/it/calcio/europa-league/video/2026/04/08/1088701_1775674590747_thumb_494.0000001_1775674673255.jpg",
-    "occhiello": "UN PARIGINESE CON UN TIRACCIO DA 90 METRI",
-    "lead_preview": "Il Real Betis ha pareggiato per 1-1 con il Braga nella prima giornata della Europa League, con un gol di Sergio Canales ",
-    "tags": [],
     "hero_eligible": true
   },
   {
