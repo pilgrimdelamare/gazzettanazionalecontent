@@ -1,5 +1,24 @@
 [
   {
+    "id": "4c6e786462265ba9",
+    "slug": "romics-2026-ospiti-zerocalcare-venom-e-il-cantante-4c6e786462265ba9",
+    "title": "Zerocalcare e singer al Romics, dal 9 al 12 aprile a Roma",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-08T12:21:14.584907+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/5cf6b6a7753338e6948045249bafb9f7.jpg",
+    "occhiello": "IL FUMETTO INCONTRA LA VOCE ALLE SIGLE",
+    "lead_preview": "Zerocalcare, il cui vero nome è Michele Rech, sarà ospite di Romics dal 9 al 12 aprile 2026 alla Fiera di Roma insieme a",
+    "tags": [
+      "zerocalcare romics",
+      "singer sigle cartoni",
+      "romics 2026"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "5ce5f50cb9750df3",
     "slug": "14300-alberi-tagliati-a-roma-senza-autorizzazione-5ce5f50cb9750df3",
     "title": "14.300 Alberi tagliati a Roma senza autorizzazione tra 2023 e",
@@ -869,21 +888,6 @@
     "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2022/07/14/med-1200x630-16.jpg",
     "occhiello": "",
     "lead_preview": "Il ministero della Cultura ha rinunciato a impedire la riemissione del documentario “Giulio Regeni – Tutto il male del M",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "4c6e786462265ba9",
-    "slug": "romics-2026-ospiti-zerocalcare-venom-e-il-cantante-4c6e786462265ba9",
-    "title": "Singer sigle e zerocalcare insieme a romics 2026",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-04-08T12:21:14.584907+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/5cf6b6a7753338e6948045249bafb9f7.jpg",
-    "occhiello": "SINGER SIGLE E ZEROCALCARE INSIEME A ROMICS 2026",
-    "lead_preview": "Da venerdì 9 a domenica 12 aprile 2026, Romics tornerà alla Fiera di Roma con una line-up inedita: ospiti confermati lo ",
     "tags": [],
     "hero_eligible": true
   },
