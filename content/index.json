@@ -1,5 +1,20 @@
 [
   {
+    "id": "cbfc9713baac2b83",
+    "slug": "trump-minaccia-di-cancellare-la-civilta-iraniana-t-cbfc9713baac2b83",
+    "title": "Trump minaccia l'Iran",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-08T00:12:59.606673+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/07/233823840-07054d9d-989d-492e-973a-62f40fc1e8dc.jpg",
+    "occhiello": "TRUMP MINACCIA DI CANCELLARE LA CIVILTÀ IRANIANA",
+    "lead_preview": "Donald Trump ha minacciato di \"cancellare la civiltà iraniana\" in un'intervista rilasciata l'8 aprile 2026, dopo che Teh",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "96f117f8d9fb1670",
     "slug": "papa-leone-xiv-guerra-alliran-inaccettabile-96f117f8d9fb1670",
     "title": "Papa Leone XIV avversa guerra Trump contro l'Iran: 'Inaccettabile'",
@@ -1453,25 +1468,6 @@
     "occhiello": "PETROLIO, PREZZO IN PICCHIATA",
     "lead_preview": "Il Wti è crollato a 93,03 dollari al barile, perdendo il 18% dopo l’annuncio del cessate il fuoco. La notizia ha fatto c",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "cbfc9713baac2b83",
-    "slug": "trump-minaccia-di-cancellare-la-civilta-iraniana-t-cbfc9713baac2b83",
-    "title": "Trump minaccia di cancellare la civiltà iraniana: Teheran riapre Hormuz dopo 6 giorni",
-    "section": "esteri",
-    "priority": 7,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-08T00:12:59.606673+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/07/233823840-07054d9d-989d-492e-973a-62f40fc1e8dc.jpg",
-    "occhiello": "TRUMP: “CANCELO LA CIVILTÀ IRANIANA”, POI IL PAKISTAN MEDIA",
-    "lead_preview": "Donald Trump, 47esimo presidente degli Stati Uniti, ha dichiarato di voler “cancellare la civiltà iraniana” in un’interv",
-    "tags": [
-      "minacce trump iran",
-      "riapertura stretto hormuz",
-      "crisi iran 2026"
-    ],
     "hero_eligible": true
   },
   {
