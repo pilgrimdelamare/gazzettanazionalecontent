@@ -1,0 +1,57 @@
+{
+  "id": "d7e1239b923c254d",
+  "slug": "kanye-west-suona-a-reggio-emilia-dopo-le-proteste-d7e1239b923c254d",
+  "title": "Kanye west suona a reggio emilia dopo le proteste per le svastiche",
+  "titles": [
+    "KANYE WEST SUONA A REGGIO EMILIA DOPO LE PROTESTE PER LE SVASTICHE",
+    "KANYE WEST SUONA A REGGIO EMILIA DOPO LE PROTESTE PER LE SVASTICHE",
+    "KANYE WEST SUONA A REGGIO EMILIA DOPO LE PROTESTE PER LE SVASTICHE"
+  ],
+  "title_winner": null,
+  "section": "cultura",
+  "occhiello": "KANYE WEST SUONA A REGGIO EMILIA DOPO LE PROTESTE PER LE SVASTICHE",
+  "lead": "Kanye West conferma il concerto del 18 luglio alla rcf arena di Campovolo, nonostante le polemiche sollevate da anpi Reggio Emilia, sindacati e Adelmo Cervi, figlio di Aldo, uno dei sette fratelli fucilati dai nazifascisti nel 1943. L’organizzatore, Victor Yari Milani, ha ribadito che l’artista si è già scusato per l’uso di simboli contestati.",
+  "corpo1": "Il dibattito sui social è acceso, ma l’evento non è stato cancellato, nonostante l’opposizione",
+  "corpo2": "Il festival ha scelto di puntare sulla popolarità globale di Kanye West, nonostante i rischi reputazionali, per il ritorno economico di 10 milioni di Euro di incassi diretti, più sponsorizzazioni e impatti sull’Economia locale",
+  "journalist": {
+    "id": "tommaso_riva_01",
+    "firma": "Tommaso Riva",
+    "sezione": "cultura"
+  },
+  "published_at": "2026-04-08T15:37:29.516041+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/08/11876796_small-e1775661106921-1200x630.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"KANYE WEST SUONA A REGGIO EMILIA DOPO LE PROTESTE PER LE SVASTICHE\",\n  \"description\": \"Kanye West conferma il concerto del 18 luglio alla rcf arena di Campovolo, nonostante le polemiche sollevate da anpi Reggio Emilia, sindacati e Adelmo Cervi, figlio di Aldo, uno dei sette fratelli fucilati dai nazifascisti nel 1943. L’organizzatore, Victor Yari Milani, ha ribadito che l’artista si è\",\n  \"articleBody\": \"Kanye West conferma il concerto del 18 luglio alla rcf arena di Campovolo, nonostante le polemiche sollevate da anpi Reggio Emilia, sindacati e Adelmo Cervi, figlio di Aldo, uno dei sette fratelli fucilati dai nazifascisti nel 1943. L’organizzatore, Victor Yari Milani, ha ribadito che l’artista si è già scusato per l’uso di simboli contestati. Il dibattito sui social è acceso, ma l’evento non è stato cancellato, nonostante l’opposizione Il festival ha scelto di puntare sulla popolarità globale di Kanye West, nonostante i rischi reputazionali, per il ritorno economico di 10 milioni di Euro di incassi diretti, più sponsorizzazioni e impatti sull’Economia locale\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Tommaso Riva\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-08T15:37:29.516041+00:00\",\n  \"dateModified\": \"2026-04-08T15:37:29.516041+00:00\",\n  \"url\": \"https://lentemattutina.it/cultura/d7e1239b923c254d\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cultura/d7e1239b923c254d\"\n  },\n  \"articleSection\": \"Cultura\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/08/11876796_small-e1775661106921-1200x630.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 5,
+  "source": "Redazione",
+  "source_type": "competitor_gap",
+  "original_url": "https://www.ilfattoquotidiano.it/2026/04/08/si-e-gia-scusato-dicendo-di-non-essere-nazista-kanye-west-e-confermato-allhellwatt-festival-per-il-suo-primo-concerto-nel-nostro-paese-lorganizzatore-spegne-le-polemiche/8349412/",
+  "related": [
+    {
+      "title": "Luigi Ghirri torna a esporre a Reggio Emilia con musica inedita fino al",
+      "url": "/cultura/luigi-ghirri-torna-a-esporre-a-reggio-emilia-con-m-de55816c4ea8a8e1",
+      "id": "de55816c4ea8a8e1",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/16b985ebfe3ad6655740df3b845b09f3.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Reggio paga West 170mila euro: 30% della Cultura",
+      "url": "/cultura/kanye-west-a-reggio-emilia-polemiche-per-la-sua-ap-32bf515aae8cda94",
+      "id": "32bf515aae8cda94",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/73fabe2b5ff17c612346020b42e86477.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Rauschenberg, la casa-studio diventa resort di lusso in Florida",
+      "url": "/cultura/resort-acquista-la-casa-di-rauschenberg-a-captiva-7bf45818a591825c",
+      "id": "7bf45818a591825c",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/8/30/3ca39fe89d92de60061aabafe1651d4b.jpg",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": true
+}
