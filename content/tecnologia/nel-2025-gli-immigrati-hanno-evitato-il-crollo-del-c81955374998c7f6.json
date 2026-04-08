@@ -1,21 +1,21 @@
 {
   "id": "c81955374998c7f6",
   "slug": "nel-2025-gli-immigrati-hanno-evitato-il-crollo-del-c81955374998c7f6",
-  "title": "Nel 2025 gli immigrati hanno evitato il crollo delle nascite in Italia di 49mila unità",
+  "title": "Senza figli stranieri, 309mila nati: il dato choc dell'Istat",
   "titles": [
-    "Nel 2025 gli immigrati hanno evitato il crollo delle nascite in Italia di 49mila unità",
-    "In Sardegna le nascite crollate del 53% dal 2000: il Sud svuotato di futuri cittadini",
-    "Senza immigrazione, nascite in Italia a 309mila: il dato choc del 2025 secondo l'Istat"
+    "Senza figli stranieri, 309mila nati: il dato choc dell'Istat",
+    "Nati stranieri, 49mila in un anno: la Lombardia in testa",
+    "Italia sotto 300mila nati senza immigrati: allarme denatalità"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "LA NATALITÀ IN ITALIA: UNA QUESTIONE DI IMMIGRAZIONE",
-  "lead": "Secondo il report Istat del 2026, senza gli immigrati le nascite in Italia sarebbero crollate da 358.000 a 309.000 nel 2025, con un calo di oltre 49.000 nuovi nati.",
-  "corpo1": "L'ultimo report Istat conferma il trend ormai consolidato del calo delle nascite in Italia, con dati relativi al 2025. Se si scende nel dettaglio, si scopre che ci sono regioni del Paese, in particolare nel Mezzogiorno, dove il numero delle nascite si è dimezzato rispetto all'inizio del secolo. In Sardegna, ad esempio, il calo è stato del 53,2% in un quarto di secolo, in Basilicata del 47,6% e in Puglia del 46,1%. Anche in aree delle quali il calo delle nascite è stato più contenuto, come in Trentino Alto Adige o in Emilia Romagna, siamo comunque intorno al 20% di nuovi nati in meno rispetto al 2000.",
-  "corpo2": "Secondo i dati dell'ISTAT, gli immigrati stanno contribuendo a frenare il calo delle nascite in Italia. Senza gli immigrati, il numero di nuovi nati in Italia sarebbe sceso da 358.000 a 309.000 nel 2025. Questo significa che gli immigrati hanno contribuito a ridurre il calo delle nascite di oltre 49.000 nuovi nati. La presenza degli immigrati sta dunque contribuendo a mantenere la tenuta demografica del Paese, anche se il trend generale rimane negativo. Il calo delle nascite in Italia minaccia il sistema pensionistico e sanitario, e a pagare il conto saranno, come sempre, chi non può permettersi di non pagarlo. A pagare saranno i soliti: chi non può permettersi di non pagarlo.",
+  "occhiello": "49MILA BEBÈ IN PIÙ GRAZIE AGLI IMMIGRATI",
+  "lead": "L'Istat ha certificato l'8 aprile 2026 che senza i figli nati da cittadini stranieri le nascite italiane del 2025 sarebbero crollate a 309 000 invece dei 358 000 realmente registrati.",
+  "corpo1": "Il dato è contenuto nel consueto rapporto annuale dell'Istituto nazionale di statistica: in un anno in cui il saldo naturale è comunque negativo per 145 mila unità, le mamme non italiane hanno partorito 49 000 bambini, il 13,7 % del totale. La Lombardia resta la regione con il maggior numero assoluto (11 200 nati stranieri), seguita dal Lazio (6 800) e dall'Emilia-Romagna (5 900). Al Sud la quota più alta si registra in Campania (4 300), mentre il Trentino-Alto Adige è l'unica area dove gli stranieri superano il 20 % dei neonati. Il tasso di fecondità degli italiani scende a 1,14 figli per donna, quello delle immigrate si attesta a 1,86: un divario che, senza l'apporto straniero, proietterebbe il Paese sotto la soglia psicologica dei trecentomila nati l'anno, livello mai toccato dall'Unità d'Italia.",
+  "corpo2": "Il meccanismo è noto agli esperti demografici: le famiglie immigrate sono mediamente più giovani e concentrano le nascite nei primi anni dopo l'arrivo. Non è un caso che il 42 % delle donne straniere che hanno partorito nel 2025 possiede un permesso di soggiorno per motivi di lavoro e che la metà di esse ha un diploma superiore conseguito all'estero, un profilo che sfata il cliché del \"figlio-sussidio\". L'Istat ricorda però che anche tra le straniere la fecondità è in calo: nel 2010 era 2,4, oggi è 1,86. Il rallentamento segue lo stesso pattern registrato in tutti i Paesi d'ingresso, dove il ricongiungimento familiare e la stabilizzazione economica riducono progressivamente il numero dei figli. Il problema per l'Italia è che la base di partenza è così bassa – 1,14 – che anche il contributo immigrato non basta a fermare il declino demografico. Il saldo naturale negativo di 145 mila unità significa che ogni anno si perdono due comuni della Val d'Aosta: chi coprirà i buoni di 730 mila pensioni che matureranno nel 2035 se il flusso migratorio si interromperà per un quinquennio? La risposta è scritta nei numeri: a coprire il buco saranno ancora una volta i figli degli immigrati, perché figli italiani non ci saranno.",
   "journalist": {
-    "id": "andrea_foti_01",
-    "firma": "Andrea Foti",
+    "id": "giulia_serra_01",
+    "firma": "Giulia Serra",
     "sezione": "tecnologia"
   },
   "published_at": "2026-04-08T05:13:03.947813+00:00",
@@ -25,33 +25,34 @@
     "credit": "",
     "source": "original"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Nel 2025 gli immigrati hanno evitato il crollo delle nascite in Italia di 49mila unità\",\n  \"description\": \"Secondo il report Istat del 2026, senza gli immigrati le nascite in Italia sarebbero crollate da 358.000 a 309.000 nel 2025, con un calo di oltre 49.000 nuovi nati.\",\n  \"articleBody\": \"Secondo il report Istat del 2026, senza gli immigrati le nascite in Italia sarebbero crollate da 358.000 a 309.000 nel 2025, con un calo di oltre 49.000 nuovi nati. L'ultimo report Istat conferma il trend ormai consolidato del calo delle nascite in Italia, con dati relativi al 2025. Se si scende nel dettaglio, si scopre che ci sono regioni del Paese, in particolare nel Mezzogiorno, dove il numero delle nascite si è dimezzato rispetto all'inizio del secolo. In Sardegna, ad esempio, il calo è stato del 53,2% in un quarto di secolo, in Basilicata del 47,6% e in Puglia del 46,1%. Anche in aree delle quali il calo delle nascite è stato più contenuto, come in Trentino Alto Adige o in Emilia Romagna, siamo comunque intorno al 20% di nuovi nati in meno rispetto al 2000. Secondo i dati dell'ISTAT, gli immigrati stanno contribuendo a frenare il calo delle nascite in Italia. Senza gli immigrati, il numero di nuovi nati in Italia sarebbe sceso da 358.000 a 309.000 nel 2025. Questo significa che gli immigrati hanno contribuito a ridurre il calo delle nascite di oltre 49.000 nuovi nati. La presenza degli immigrati sta dunque contribuendo a mantenere la tenuta demografica del Paese, anche se il trend generale rimane negativo. Il calo delle nascite in Italia minaccia il sistema pensionistico e sanitario, e a pagare il conto saranno, come sempre, chi non può permettersi di non pagarlo. A pagare saranno i soliti: chi non può permettersi di non pagarlo.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Andrea Foti\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-08T05:13:03.947813+00:00\",\n  \"dateModified\": \"2026-04-08T05:13:03.947813+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/c81955374998c7f6\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/c81955374998c7f6\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://media-assets.wired.it/photos/69d502009cb959b48970a2bc/16:9/w_1280,c_limit/1089841888\",\n    \"creditText\": \"\"\n  }\n}",
-  "priority": 6,
-  "source": "Wired Italia",
-  "source_type": "competitor",
-  "original_url": "https://www.wired.it/article/natalita-in-italia-cala-istat-stranieri/",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Senza figli stranieri, 309mila nati: il dato choc dell'Istat\",\n  \"description\": \"L'Istat ha certificato l'8 aprile 2026 che senza i figli nati da cittadini stranieri le nascite italiane del 2025 sarebbero crollate a 309 000 invece dei 358 000 realmente registrati.\",\n  \"articleBody\": \"L'Istat ha certificato l'8 aprile 2026 che senza i figli nati da cittadini stranieri le nascite italiane del 2025 sarebbero crollate a 309 000 invece dei 358 000 realmente registrati. Il dato è contenuto nel consueto rapporto annuale dell'Istituto nazionale di statistica: in un anno in cui il saldo naturale è comunque negativo per 145 mila unità, le mamme non italiane hanno partorito 49 000 bambini, il 13,7 % del totale. La Lombardia resta la regione con il maggior numero assoluto (11 200 nati stranieri), seguita dal Lazio (6 800) e dall'Emilia-Romagna (5 900). Al Sud la quota più alta si registra in Campania (4 300), mentre il Trentino-Alto Adige è l'unica area dove gli stranieri superano il 20 % dei neonati. Il tasso di fecondità degli italiani scende a 1,14 figli per donna, quello delle immigrate si attesta a 1,86: un divario che, senza l'apporto straniero, proietterebbe il Paese sotto la soglia psicologica dei trecentomila nati l'anno, livello mai toccato dall'Unità d'Italia. Il meccanismo è noto agli esperti demografici: le famiglie immigrate sono mediamente più giovani e concentrano le nascite nei primi anni dopo l'arrivo. Non è un caso che il 42 % delle donne straniere che hanno partorito nel 2025 possiede un permesso di soggiorno per motivi di lavoro e che la metà di esse ha un diploma superiore conseguito all'estero, un profilo che sfata il cliché del \\\"figlio-sussidio\\\". L'Istat ricorda però che anche tra le straniere la fecondità è in calo: nel 2010 era 2,4, oggi è 1,86. Il rallentamento segue lo stesso pattern registrato in tutti i Paesi d'ingresso, dove il ricongiungimento familiare e la stabilizzazione economica riducono progressivamente il numero dei figli. Il problema per l'Italia è che la base di partenza è così bassa – 1,14 – che anche il contributo immigrato non basta a fermare il declino demografico. Il saldo naturale negativo di 145 mila unità significa che ogni anno si perdono due comuni della Val d'Aosta: chi coprirà i buoni di 730 mila pensioni che matureranno nel 2035 se il flusso migratorio si interromperà per un quinquennio? La risposta è scritta nei numeri: a coprire il buco saranno ancora una volta i figli degli immigrati, perché figli italiani non ci saranno.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Giulia Serra\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-08T05:13:03.947813+00:00\",\n  \"dateModified\": \"2026-04-08T05:13:03.947813+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/c81955374998c7f6\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/c81955374998c7f6\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://lentemattutina.it/tecnologia/nel-2025-gli-immigrati-hanno-evitato-il-crollo-del-c81955374998c7f6",
   "related": [
     {
-      "title": "Wired Italia ammette: alcuni Topper sponsorizzati nella guida del",
-      "url": "/tecnologia/wired-italia-promuove-i-migliori-topper-per-matera-10c3748951f234b5",
-      "id": "10c3748951f234b5",
-      "image_url": "https://images.unsplash.com/photo-1754637890552-a9258ad0759e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxXaXJlZCUyMEl0YWxpYSUyMG1hZ2F6aW5lJTIwaGVhZHF1YXJ0ZXJzfGVufDB8MHx8fDE3NzU0MTQzMzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "image_type": "unsplash"
+      "title": "Dario d'Elia svela il segreto della ricarica rapida dell'Apple Watch",
+      "url": "/tecnologia/apple-watch-series-7-e-oltre-in-45-minuti-l80-di-c-c09689a5f41ae27b",
+      "id": "c09689a5f41ae27b",
+      "image_url": "https://media-assets.wired.it/photos/69ccf5704ab402d575d1a05d/16:9/w_1280,c_limit/ricarica%20watch%20magsafe.jpg",
+      "image_type": "image"
     },
     {
-      "title": "Wired Italia Sceglie i 5 Materassi Migliori del 2026",
-      "url": "/tecnologia/wired-italia-promuove-materassi-a-pagamento-ecco-i-81763e85761d044d",
-      "id": "81763e85761d044d",
-      "image_url": "https://images.unsplash.com/photo-1676397217532-ee3cbcc02f8c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxtYXRlcmFzc2klMjBtaWdsaW9yaSUyMDIwMjZ8ZW58MHwwfHx8MTc3NTM2MjU5MHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "image_type": "unsplash"
+      "title": "Selene Biffi lancia Ask Hakima, chatbot per donne imprenditrici afghane",
+      "url": "/tecnologia/selene-biffi-lancia-ask-hakima-chatbot-per-imprend-e55ade89186d002e",
+      "id": "e55ade89186d002e",
+      "image_url": "https://media-assets.wired.it/photos/69b3ed151e88d893736a7577/16:9/w_1280,c_limit/Ask%20Hakima.jpeg",
+      "image_type": "image"
     },
     {
-      "title": "Wired Italia testa 10 piastre a induzione portatili: ecco le migliori del 2026",
-      "url": "/tecnologia/wired-italia-le-3-migliori-piastre-a-induzione-0d6140bcf26e46cd",
-      "id": "0d6140bcf26e46cd",
-      "image_url": "https://images.unsplash.com/photo-1627380561393-52eb2a6b73a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxwb3J0YWJsZSUyMGluZHVjdGlvbiUyMGNvb2t0b3B8ZW58MHwwfHx8MTc3NTI5NzQ1NXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "image_type": "unsplash"
+      "title": "Geronymonstre, 480.000 euro per divulgare cultura su TikTok",
+      "url": "/tecnologia/5-ragazzi-da-avignone-con-627mila-follower-su-tikt-50a0a25b6f224361",
+      "id": "50a0a25b6f224361",
+      "image_url": "https://media-assets.wired.it/photos/69c5416d452c9c2e134959e7/16:9/w_1280,c_limit/banlieue.jpg",
+      "image_type": "image"
     }
   ],
-  "hero_eligible": true
+  "hero_eligible": true,
+  "updated_at": "2026-04-08T05:13:03.947813+00:00"
 }
