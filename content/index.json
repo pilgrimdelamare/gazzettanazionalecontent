@@ -1,5 +1,24 @@
 [
   {
+    "id": "0d9a9bd8d04bb892",
+    "slug": "peru-treno-riattivato-a-machu-picchu-0d9a9bd8d04bb892",
+    "title": "500 Milioni di dollari per risollevare Machu Picchu",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-07T22:42:55.547879+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2023/6/4/61c79d643c52917019a06639f2d7b3bc.jpg",
+    "occhiello": "TRENO RIATTIVATO A MACHU PICCHU",
+    "lead_preview": "Il 7 aprile 2026, a Machu Picchu, in Perù, è stata riattivata la tratta ferroviaria Hidroeléctrica, che collega Machu Pi",
+    "tags": [
+      "treno machu picchu",
+      "finanziamento machu picchu",
+      "riattivazione hidroeléctrica"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "a57eb018e96eacc6",
     "slug": "meloni-in-foto-con-boss-mafioso-a57eb018e96eacc6",
     "title": "Giorgia Meloni, l'allarme sulla sua presenza con 'ndrangheta in una foto del",
@@ -1225,24 +1244,6 @@
     "tags": [
       "missione artemis-2",
       "astronauti iss"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "0d9a9bd8d04bb892",
-    "slug": "peru-treno-riattivato-a-machu-picchu-0d9a9bd8d04bb892",
-    "title": "Perù: treno riattivato a Machu Picchu",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-07T22:42:55.547879+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2023/6/4/61c79d643c52917019a06639f2d7b3bc.jpg",
-    "occhiello": "RIATTIVATA TRATTA HIDROELÉCTRICA A MACHU PICCHU",
-    "lead_preview": "Martedì 7 aprile 2026, a Machu Picchu, in Perù, è stata riattivata la tratta ferroviaria Hidroeléctrica, che collega la ",
-    "tags": [
-      "treno machu picchu",
-      "peru machu picchu"
     ],
     "hero_eligible": true
   },
