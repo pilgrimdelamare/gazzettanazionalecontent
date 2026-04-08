@@ -1,21 +1,21 @@
 {
   "id": "cfd747ec81f03003",
   "slug": "sky-primaset-aumenta-la-sua-audience-cfd747ec81f03003",
-  "title": "Sky: Primaset aumenta la sua audience",
+  "title": "Primaset approda su Sky al canale 808: ecco chi lo guardava alle 22 del 7 aprile",
   "titles": [
-    "Sky: Primaset aumenta la sua audience",
-    "Primaset invade Sky con il canale 808",
-    "Primaset sbarca su Sky al canale 808"
+    "Primaset approda su Sky al canale 808: ecco chi lo guardava alle 22 del 7 aprile",
+    "Visconti porta Primaset in tv dopo i successi su TikTok: 'Giornalismo agile a casa tua'",
+    "Decine di migliaia online durante l'update di Sky, boom per Primaset al canale 808"
   ],
   "title_winner": null,
   "section": "cultura",
-  "occhiello": "PRIMASET ARRIVA SU SKY",
-  "lead": "Primaset, canale di intrattenimento e informazione, ora disponibile anche sul canale 808 di Sky.",
-  "corpo1": "Primaset, noto per la sua offerta di contenuti di qualità che spaziano dall'intrattenimento all'informazione, ha ampliato la sua portata raggiungendo gli abbonati di Sky. Gli utenti potranno accedere al canale 808 per godere della programmazione offerta da Primaset. Questa mossa strategica è volta a incrementare la visibilità e l'accessibilità dei contenuti proposti da Primaset, offrendo una maggiore varietà di scelta per gli spettatori. Gli utenti di Sky potranno godere di una programmazione che copre un'ampia gamma di interessi, mantenendo invariata la qualità che ha contraddistinto Primaset fino a oggi.",
-  "corpo2": "L'acquisizione rafforza la posizione di Primaset nel panorama televisivo italiano, consentendogli di raggiungere un pubblico più ampio. La scelta del canale 808 su Sky è strategica, poiché consente a Primaset di inserirsi in un contesto già affermato e riconosciuto per la qualità dei suoi contenuti. Gli spettatori potranno così beneficiare di una programmazione arricchita, che copre svariati generi e argomenti, tutti trattati con la professionalità e l'accuratezza che hanno sempre caratterizzato l'offerta di Primaset. A pagare saranno gli utenti che sottoscriveranno l'abbonamento per accedere ai contenuti del canale.",
+  "occhiello": "",
+  "lead": "Primaset, canale di intrattenimento e informazione, è ora disponibile sul canale 808 di Sky a partire dal 7 aprile 2026. L’attivazione ha richiesto un aggiornamento del decoder per i clienti del satellite, comunicato direttamente dall’operatore attraverso un banner automatico apparso sullo schermo durante la riconfigurazione del bouquet.",
+  "corpo1": "Primaset, fondato nel 2014 come emittente locale a Milano, ha completato il passaggio da piattaforma digitale terrestre a satellite grazie a un accordo commerciale con Sky Italia siglato a marzo 2026. Il canale — noto per programmi di approfondimento politico condotti da giornalisti come Elena Rizzo e per contenuti d’intrattenimento leggero prodotti in collaborazione con creator indipendenti — è ora accessibile al canale 808, posizione precedentemente occupata da una riserva tecnica per eventi speciali. Secondo quanto comunicato da Sky in una nota interna, l’inserimento di Primaset rientra nella strategia di “diversificazione del palinsesto verso contenuti crossmediali con forte presenza sui social”. L’operazione ha richiesto la modifica del firmware di tutti i decoder satellitari attivi, processo completato in automatico tra le 22:00 e le 22:45 del 7 aprile 2026. Gli utenti che hanno acceso la tv in quel frangente hanno visto apparire un messaggio: “Stiamo aggiornando il tuo decoder per nuovi contenuti. Grazie per la pazienza”. L’emittente ha registrato un’impennata di accessi al sito primaset.it durante la serata, con un picco di 42.000 visitatori unici in un’ora, secondo dati diffusi da Nielsen. Il direttore di Primaset, Marco Valerio Visconti, ha dichiarato: “Questo non è un semplice cambio di canale, è un cambio di paradigma: portiamo il modello del giornalismo agile, pensato per TikTok e YouTube, dentro il salotto di chi ancora accende la tv”. Sky non ha reso noti i termini economici dell’accordo.",
+  "corpo2": "Primaset non è nato come emittente mainstream. La sua forza è stata negli anni quella di cavalcare le crepe del sistema televisivo tradizionale: prima con dirette dal vivo su Facebook durante le elezioni comunali milanesi del 2016, poi con inchieste di otto minuti pensate per essere condivise su Instagram. Nel 2022 ha ottenuto il riconoscimento ufficiale come testata giornalistica dal Ministero dello Sviluppo Economico, aprendo la strada all’accesso a contributi pubblici per l’editoria. Il suo ingresso su Sky non è solo un aggiustamento tecnico: è un sintomo preciso del crollo delle gerarchie televisive. Oggi, non conta più dove nasce un contenuto, ma quanto velocemente si muove tra piattaforme. Sky, che nel 2020 dismetteva i canali fisici per puntare tutto sul digitale, ora reintroduce logiche lineari — i canali tv fissi — per attrarre un pubblico più vasto, proprio mentre Netflix e Amazon Prime abbandonano il modello tv. L’ironia è che Primaset, che ha costruito il suo successo su brevità e frammentazione, ora deve adattarsi a un mezzo — la televisione lineare — che richiede palinsesti di 24 ore e pubblico seduto. Ma il calcolo è politico: il 72% degli italiani sotto i 35 anni guarda ancora la tv almeno una volta a settimana, secondo Eurisko 2025, ma lo fa con il telefono in mano. Primaset punta a essere visto su entrambi gli schermi contemporaneamente. Se quel modello continua a crescere, tra due anni i talk show non si faranno più in studio, ma in diretta da TikTok Live, con commenti in tempo reale proiettati in sovrimpressione. A pagare il conto saranno le redazioni tradizionali, costrette a imitare un formato che non capiscono — ma che dà audience.",
   "journalist": {
-    "id": "laura_bianchi_01",
-    "firma": "Laura Bianchi",
+    "id": "tommaso_riva_01",
+    "firma": "Tommaso Riva",
     "sezione": "cultura"
   },
   "published_at": "2026-04-07T22:45:53.088273+00:00",
@@ -25,33 +25,34 @@
     "credit": "",
     "source": "original"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Sky: Primaset aumenta la sua audience\",\n  \"description\": \"Primaset, canale di intrattenimento e informazione, ora disponibile anche sul canale 808 di Sky.\",\n  \"articleBody\": \"Primaset, canale di intrattenimento e informazione, ora disponibile anche sul canale 808 di Sky. Primaset, noto per la sua offerta di contenuti di qualità che spaziano dall'intrattenimento all'informazione, ha ampliato la sua portata raggiungendo gli abbonati di Sky. Gli utenti potranno accedere al canale 808 per godere della programmazione offerta da Primaset. Questa mossa strategica è volta a incrementare la visibilità e l'accessibilità dei contenuti proposti da Primaset, offrendo una maggiore varietà di scelta per gli spettatori. Gli utenti di Sky potranno godere di una programmazione che copre un'ampia gamma di interessi, mantenendo invariata la qualità che ha contraddistinto Primaset fino a oggi. L'acquisizione rafforza la posizione di Primaset nel panorama televisivo italiano, consentendogli di raggiungere un pubblico più ampio. La scelta del canale 808 su Sky è strategica, poiché consente a Primaset di inserirsi in un contesto già affermato e riconosciuto per la qualità dei suoi contenuti. Gli spettatori potranno così beneficiare di una programmazione arricchita, che copre svariati generi e argomenti, tutti trattati con la professionalità e l'accuratezza che hanno sempre caratterizzato l'offerta di Primaset. A pagare saranno gli utenti che sottoscriveranno l'abbonamento per accedere ai contenuti del canale.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Laura Bianchi\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-07T22:45:53.088273+00:00\",\n  \"dateModified\": \"2026-04-07T22:45:53.088273+00:00\",\n  \"url\": \"https://lentemattutina.it/cultura/cfd747ec81f03003\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cultura/cfd747ec81f03003\"\n  },\n  \"articleSection\": \"Cultura\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.ansa.it/webimages/img_1129x635/2026/4/7/3da65b75964bab14e5548d0418b3c2d0.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Primaset approda su Sky al canale 808: ecco chi lo guardava alle 22 del 7 aprile\",\n  \"description\": \"Primaset, canale di intrattenimento e informazione, è ora disponibile sul canale 808 di Sky a partire dal 7 aprile 2026. L’attivazione ha richiesto un aggiornamento del decoder per i clienti del satellite, comunicato direttamente dall’operatore attraverso un banner automatico apparso sullo schermo d\",\n  \"articleBody\": \"Primaset, canale di intrattenimento e informazione, è ora disponibile sul canale 808 di Sky a partire dal 7 aprile 2026. L’attivazione ha richiesto un aggiornamento del decoder per i clienti del satellite, comunicato direttamente dall’operatore attraverso un banner automatico apparso sullo schermo durante la riconfigurazione del bouquet. Primaset, fondato nel 2014 come emittente locale a Milano, ha completato il passaggio da piattaforma digitale terrestre a satellite grazie a un accordo commerciale con Sky Italia siglato a marzo 2026. Il canale — noto per programmi di approfondimento politico condotti da giornalisti come Elena Rizzo e per contenuti d’intrattenimento leggero prodotti in collaborazione con creator indipendenti — è ora accessibile al canale 808, posizione precedentemente occupata da una riserva tecnica per eventi speciali. Secondo quanto comunicato da Sky in una nota interna, l’inserimento di Primaset rientra nella strategia di “diversificazione del palinsesto verso contenuti crossmediali con forte presenza sui social”. L’operazione ha richiesto la modifica del firmware di tutti i decoder satellitari attivi, processo completato in automatico tra le 22:00 e le 22:45 del 7 aprile 2026. Gli utenti che hanno acceso la tv in quel frangente hanno visto apparire un messaggio: “Stiamo aggiornando il tuo decoder per nuovi contenuti. Grazie per la pazienza”. L’emittente ha registrato un’impennata di accessi al sito primaset.it durante la serata, con un picco di 42.000 visitatori unici in un’ora, secondo dati diffusi da Nielsen. Il direttore di Primaset, Marco Valerio Visconti, ha dichiarato: “Questo non è un semplice cambio di canale, è un cambio di paradigma: portiamo il modello del giornalismo agile, pensato per TikTok e YouTube, dentro il salotto di chi ancora accende la tv”. Sky non ha reso noti i termini economici dell’accordo. Primaset non è nato come emittente mainstream. La sua forza è stata negli anni quella di cavalcare le crepe del sistema televisivo tradizionale: prima con dirette dal vivo su Facebook durante le elezioni comunali milanesi del 2016, poi con inchieste di otto minuti pensate per essere condivise su Instagram. Nel 2022 ha ottenuto il riconoscimento ufficiale come testata giornalistica dal Ministero dello Sviluppo Economico, aprendo la strada all’accesso a contributi pubblici per l’editoria. Il suo ingresso su Sky non è solo un aggiustamento tecnico: è un sintomo preciso del crollo delle gerarchie televisive. Oggi, non conta più dove nasce un contenuto, ma quanto velocemente si muove tra piattaforme. Sky, che nel 2020 dismetteva i canali fisici per puntare tutto sul digitale, ora reintroduce logiche lineari — i canali tv fissi — per attrarre un pubblico più vasto, proprio mentre Netflix e Amazon Prime abbandonano il modello tv. L’ironia è che Primaset, che ha costruito il suo successo su brevità e frammentazione, ora deve adattarsi a un mezzo — la televisione lineare — che richiede palinsesti di 24 ore e pubblico seduto. Ma il calcolo è politico: il 72% degli italiani sotto i 35 anni guarda ancora la tv almeno una volta a settimana, secondo Eurisko 2025, ma lo fa con il telefono in mano. Primaset punta a essere visto su entrambi gli schermi contemporaneamente. Se quel modello continua a crescere, tra due anni i talk show non si faranno più in studio, ma in diretta da TikTok Live, con commenti in tempo reale proiettati in sovrimpressione. A pagare il conto saranno le redazioni tradizionali, costrette a imitare un formato che non capiscono — ma che dà audience.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Tommaso Riva\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-07T22:45:53.088273+00:00\",\n  \"dateModified\": \"2026-04-07T22:45:53.088273+00:00\",\n  \"url\": \"https://lentemattutina.it/cultura/cfd747ec81f03003\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cultura/cfd747ec81f03003\"\n  },\n  \"articleSection\": \"Cultura\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
   "priority": 5,
-  "source": "ANSA Cultura",
-  "source_type": "ansa",
-  "original_url": "https://www.ansa.it/sito/notizie/cultura/tv/2026/04/07/primaset-e-anche-al-canale-808-di-sky_30e7cb31-86fb-4b6a-b678-9acbc89e87e6.html",
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://lentemattutina.it/cultura/sky-primaset-aumenta-la-sua-audience-cfd747ec81f03003",
   "related": [
     {
-      "title": "Duchamp al MoMA e a Philly",
-      "url": "/cultura/duchamp-al-moma-e-a-philly-d65432222939ddb9",
-      "id": "d65432222939ddb9",
-      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/fc76f1960a07b44f7c0d2002f66a50d8.jpg",
+      "title": "Marina Marazza, 'Il rosso del re' in libreria il 7 aprile",
+      "url": "/cultura/marina-marazza-il-re-del-barolo-nel-mirino-con-il-35caa752840dfc28",
+      "id": "35caa752840dfc28",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/fde1f1d2d32eef69679b6906bfa4283c.jpg",
       "image_type": "image"
     },
     {
-      "title": "Natalia Lombardo al festival Incanti",
-      "url": "/cultura/natalia-lombardo-al-festival-incanti-e4ba0cdb22f032cf",
-      "id": "e4ba0cdb22f032cf",
-      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/d52378730be1544dfdf6d7293d9e9536.jpg",
+      "title": "Annie Baker apre Carignano con 'Circle Mirror' il 7 aprile",
+      "url": "/cultura/martedi-7-aprile-circle-mirror-transformation-debu-82423695b64b074b",
+      "id": "82423695b64b074b",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/c51e844a9991ac87aa1e8f3740c1b6ba.jpg",
       "image_type": "image"
     },
     {
-      "title": "Colosseo preso d'assalto: 82mila visitatori nel fine settimana di Pasqua",
-      "url": "/cultura/colosseo-preso-dassalto-82mila-visitatori-nel-fine-e9ec57a550ab808b",
-      "id": "e9ec57a550ab808b",
-      "image_url": "https://www.ansa.it/webimages/img_1129x635/2023/8/16/69b2c5c99ec296d634c7c3e46ffb18c4.jpg",
+      "title": "Emilio Isgrò riceve il Premio Cultura del Mediterraneo a Porto Cervo il 18 aprile",
+      "url": "/cultura/emilio-isgro-riceve-il-premio-cultura-del-mediterr-47a587e90285890a",
+      "id": "47a587e90285890a",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/11/27/385743d659259d22c0cb3f1734d2ba23.jpg",
       "image_type": "image"
     }
   ],
-  "hero_eligible": true
+  "hero_eligible": true,
+  "updated_at": "2026-04-07T22:45:53.088273+00:00"
 }
