@@ -1,5 +1,23 @@
 [
   {
+    "id": "f759f782215acdf2",
+    "slug": "esportazioni-italiane-in-america-latina-a-68-800-m-f759f782215acdf2",
+    "title": "Esportazioni Italia-Latino America +6,8%",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-08T03:21:41.244831+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/bcf9389d12c828ce16b146a54b4ba0be.jpg",
+    "occhiello": "EXPORT LATINO: +800 MILIONI",
+    "lead_preview": "Il vertice Italia-America Latina che si è concluso mercoledì 8 aprile a Panama segna un aumento del 6,8% delle esportazi",
+    "tags": [
+      "esportazioni italia",
+      "vertice italia america latina"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c81955374998c7f6",
     "slug": "nel-2025-gli-immigrati-hanno-evitato-il-crollo-del-c81955374998c7f6",
     "title": "Nel 2025 gli immigrati hanno evitato il crollo delle nascite in Italia di 49mila unità",
@@ -219,25 +237,6 @@
       "cid digitale",
       "assicurazioni obbligo",
       "modulo digitale 2026"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "f759f782215acdf2",
-    "slug": "esportazioni-italiane-in-america-latina-a-68-800-m-f759f782215acdf2",
-    "title": "Esportazioni italiane in America Latina a +6,8%: +800 milioni nel",
-    "section": "esteri",
-    "priority": 7,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-08T03:21:41.244831+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/bcf9389d12c828ce16b146a54b4ba0be.jpg",
-    "occhiello": "",
-    "lead_preview": "Mercoledì 8 aprile 2026, a Panama si è tenuto il vertice delle camere di commercio italiane con i rappresentanti imprend",
-    "tags": [
-      "esportazioni america latina",
-      "vertice camere commercio",
-      "commercio italo-latino"
     ],
     "hero_eligible": true
   },
