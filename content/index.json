@@ -1,5 +1,24 @@
 [
   {
+    "id": "95e69fa974776fe4",
+    "slug": "giorgetti-a-bruxelles-chiede-flessibilita-sul-patt-95e69fa974776fe4",
+    "title": "Giorgetti a Bruxelles chiede flessibilità sul patto di stabilità per la transizione verde",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-08T23:46:07.790612+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/08/215925545-17fc0b03-2414-4840-8e0e-8aa4ab04e674.jpg",
+    "occhiello": "",
+    "lead_preview": "Giancarlo Giorgetti, ministro dell’Economia, ha incontrato il 9 aprile 2026 a Bruxelles il commissario Europeo agli Affa",
+    "tags": [
+      "giorgetti bruxelles",
+      "patto stabilità",
+      "transizione verde"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "fcca57606cc07c7e",
     "slug": "fondi-di-caltagirone-appoggiano-palermo-135-del-ca-fcca57606cc07c7e",
     "title": "Fondi di Caltagirone appoggiano Palermo: 13,5% del capitale MPS dice sì al CDA",
@@ -8877,24 +8896,6 @@
       "inflazione 2026",
       "bankitalia marzo",
       "rata mutuo +400"
-    ]
-  },
-  {
-    "id": "0908aa905e4185db",
-    "slug": "gattouso-lascia-la-nazionale-contratto-in-via-di-r-0908aa905e4185db",
-    "title": "Calcio: Gattuso esonerato dalla panchina dell’Italia dopo l’eliminazione ai Mondiali",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-03T11:50:58.619908+00:00",
-    "image_type": "none",
-    "image_url": "",
-    "occhiello": "RISOLUZIONE CONSENSUALE PER GATTUSO E IL CT",
-    "lead_preview": "Gennaro Gattuso non è più il commissario tecnico della Nazionale italiana. La risoluzione consensuale del contratto è st",
-    "tags": [
-      "esonero gattuso",
-      "ct italia",
-      "mondiali 2026"
     ]
   }
 ]
