@@ -1,5 +1,24 @@
 [
   {
+    "id": "bbc85dc9246edf69",
+    "slug": "lavenia-unipm-lecoansia-infantile-cresce-col-clima-bbc85dc9246edf69",
+    "title": "Lavenia (Univpm): l'ecoansia nei bambini cresce per il racconto apocalittico degli adulti",
+    "section": "ambiente",
+    "priority": 5,
+    "journalist_firma": "Valentina Costa",
+    "published_at": "2026-04-07T22:47:36.429236+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://www.repstatic.it/content/contenthub/img/2026/04/07/110525290-afdd6980-126b-4ae7-817a-40e146f75dbb.jpg",
+    "occhiello": "",
+    "lead_preview": "Giuseppe Lavenia, docente di Psicologia all’Università Politecnica delle Marche, ha dichiarato il 7 aprile 2026 che l’Ec",
+    "tags": [
+      "ecoansia bambini",
+      "lavenia univpm",
+      "racconto apocalittico"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "b96079eb0dbca6d7",
     "slug": "giuseppe-sebaste-scompare-a-66-anni-lultima-cerimo-b96079eb0dbca6d7",
     "title": "Giuseppe Sebaste è morto a 66 anni: il lutto ad Amelia, dove viveva da vent'anni",
@@ -938,24 +957,6 @@
       "lancio espn italia",
       "disney+ sport",
       "abbonamento espn"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "bbc85dc9246edf69",
-    "slug": "lavenia-unipm-lecoansia-infantile-cresce-col-clima-bbc85dc9246edf69",
-    "title": "Lavenia (UniPM): 'L'Ecoansia infantile cresce col clima emotivo, non solo col rischio ambientale'",
-    "section": "ambiente",
-    "priority": 5,
-    "journalist_firma": "Valentina Costa",
-    "published_at": "2026-04-07T22:47:36.429236+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://www.repstatic.it/content/contenthub/img/2026/04/07/110525290-afdd6980-126b-4ae7-817a-40e146f75dbb.jpg",
-    "occhiello": "ECOANSIA NEI BAMBINI, UN PROBLEMA CHE CRESCE INSIEME ALLA CRISI AMBIENTALE",
-    "lead_preview": "Il professor Giuseppe Lavenia, docente di Psicologia all'Università politecnica delle Marche, spiega che l'Ecoansia nei ",
-    "tags": [
-      "ecoansia",
-      "crisi ambientale"
     ],
     "hero_eligible": true
   },
