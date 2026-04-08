@@ -1,5 +1,20 @@
 [
   {
+    "id": "45b392bab698a260",
+    "slug": "siviglia-ha-presentato-a-roma-la-xxiv-biennale-del-45b392bab698a260",
+    "title": "Siviglia ha presentato a Roma la XXIV Biennale del Flamenco, evento dedicato all",
+    "section": "cultura",
+    "priority": 6,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-08T11:18:13.169909+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/608ba66c30226ce53be409f1a391e1ab.jpg",
+    "occhiello": "",
+    "lead_preview": "Siviglia ha presentato a Roma la XXIV Biennale del Flamenco, evento dedicato alla cultura andalusa in programma dal 9 se",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "2fa86a3ac85a8ac9",
     "slug": "buonfiglio-cambiare-un-nome-non-basta-per-risolver-2fa86a3ac85a8ac9",
     "title": "Buonfiglio: cambiare un nome non basta per risolvere i problemi del calcio",
@@ -8903,24 +8918,6 @@
       "inps ultimatum",
       "contributi non versati",
       "iscro dis-coll"
-    ]
-  },
-  {
-    "id": "a15d3907fa1ae0a9",
-    "slug": "titolo1-a15d3907fa1ae0a9",
-    "title": "Gennaro Santa arrestato per 250.000 euro di frode contributiva",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-03T06:13:59.971040+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1722953863660-b8b1a94baa77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxzb3R0cmF6aW9uZSUyMGZvbmRpJTIwcHViYmxpY2l8ZW58MHwwfHx8MTc3NTI3NTA1M3ww&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "MASTELLA SCANDALIZZATO DALL'ARRESTO DEL SUO CAPO DI GABINETTO",
-    "lead_preview": "Clemente Mastella, sindaco di Benevento, è sconvolto dalla notizia dell'arresto del suo capo di gabinetto, Gennaro Santa",
-    "tags": [
-      "frode contributiva",
-      "mastella",
-      "arresto"
     ]
   }
 ]
