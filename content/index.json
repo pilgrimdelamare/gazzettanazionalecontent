@@ -1,5 +1,20 @@
 [
   {
+    "id": "38439c3907a22265",
+    "slug": "un-robot-automatizzato-prepara-i-farmaci-chemioter-38439c3907a22265",
+    "title": "Un robot automatizzato prepara i farmaci chemioterapici all’ospedale Città della",
+    "section": "tecnologia",
+    "priority": 6,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-04-08T11:46:03.788558+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/67ce170592f0cd2109c3c1f81cb2ba85.jpg",
+    "occhiello": "",
+    "lead_preview": "Un robot automatizzato prepara i farmaci chemioterapici all’ospedale Città della Salute di Torino, a partire dal 8 april",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "03359242a7ab9deb",
     "slug": "rosolina-il-5-maggio-arriva-il-summit-del-mare-foc-03359242a7ab9deb",
     "title": "320Mila euro per un Summit sul clima a Rosolina il 5 maggio",
@@ -8899,23 +8914,6 @@
     "tags": [
       "omicidio thompson",
       "processo mangione"
-    ]
-  },
-  {
-    "id": "d08217f9c0e215d2",
-    "slug": "birmingham-spesa-raddoppiata-per-personale-interin-d08217f9c0e215d2",
-    "title": "Birmingham: 42 milioni spesi per interini, un aumento del 25%",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-03T05:15:17.794229+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1732460366595-26bf52263bbf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxCaXJtaW5naGFtJTIwY291bmNpbCUyMHRlbXBvcmFyeSUyMHN0YWZmJTIwY29zdHxlbnwwfDB8fHwxNzc1Mjc1MzY5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "IL REGIME DEI COSTI SCOMPARSI",
-    "lead_preview": "Birmingham, 3 aprile 2026. Il costo per il personale interinale del consiglio comunale di Birmingham ha superato i 42 mi",
-    "tags": [
-      "costi interinali birmingham",
-      "consiglio comunale birmingham"
     ]
   }
 ]
