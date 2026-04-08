@@ -1,5 +1,23 @@
 [
   {
+    "id": "339f3a56a5fd99ac",
+    "slug": "panchina-lilla-contro-i-disturbi-alimentari-vandal-339f3a56a5fd99ac",
+    "title": "Carabinieri denunciano ignoti per l'attentato alla panchina Lilla a Gorizia",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Chiara Esposito",
+    "published_at": "2026-04-08T17:25:36.931658+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/a858e036e153b3d2cf2fa8ae07f2874a.jpg",
+    "occhiello": "VANDALISMO IN UN SIMBOLO DI LOTTA CONTRO I DISTURBI ALIMENTARI",
+    "lead_preview": "Gorizia, 8 aprile 2026. I Carabinieri hanno denunciato due ignoti per l'attentato alla panchina Lilla installata in citt",
+    "tags": [
+      "attentato panchina lilla",
+      "vandalismo gorizia"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c7fed5bceb45fd7f",
     "slug": "ciciliano-la-frana-e-ferma-lo-ha-confermato-il-cap-c7fed5bceb45fd7f",
     "title": "La frana di ciciliano è ferma, dice il capo della protezione civile",
@@ -288,21 +306,6 @@
       "cnc sospensione fondi",
       "minacce commissione cnc"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "339f3a56a5fd99ac",
-    "slug": "panchina-lilla-contro-i-disturbi-alimentari-vandal-339f3a56a5fd99ac",
-    "title": "Panchina lilla contro i disturbi alimentari vandalizzata a gorizia",
-    "section": "cronaca",
-    "priority": 6,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-04-08T17:25:36.931658+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/a858e036e153b3d2cf2fa8ae07f2874a.jpg",
-    "occhiello": "PANCHINA LILLA CONTRO I DISTURBI ALIMENTARI VANDALIZZATA A GORIZIA",
-    "lead_preview": "Ignoti hanno danneggiato con vernice spray la panchina Lilla installata a Gorizia in occasione della Giornata nazionale ",
-    "tags": [],
     "hero_eligible": true
   },
   {
