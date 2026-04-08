@@ -1,5 +1,22 @@
 [
   {
+    "id": "36b9ec60015ce060",
+    "slug": "trump-minaccia-liran-unintera-civilta-morira-36b9ec60015ce060",
+    "title": "Trump minaccia l'Iran: 'un'intera civiltà morirà'",
+    "section": "esteri",
+    "priority": 7,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-08T09:12:38.171848+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/03/Trump_2-1200x630.jpg",
+    "occhiello": "TRUMP MINACCIA L'APOCALISSE, POI CEDE",
+    "lead_preview": "Donald Trump ha minacciato mercoledì 8 aprile 2026 che \"un'intera civiltà morirà stanotte\" in un ultimatum all'Iran, sal",
+    "tags": [
+      "trump minaccia iran"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "3fb8d1d287b5ca5b",
     "slug": "basket-demar-derozan-mette-a-segno-45-punti-e-chic-3fb8d1d287b5ca5b",
     "title": "Demar derozan fa la squillacciata, chicago batte washington 31-0",
@@ -8918,24 +8935,6 @@
       "min aung hlaing presidente",
       "birmania 2026",
       "giunta militare birmania"
-    ]
-  },
-  {
-    "id": "ca681bd18e21b481",
-    "slug": "daniele-luttazzi-smaschera-la-rete-globale-di-epst-ca681bd18e21b481",
-    "title": "Luttazzi denuncia una rete globale di abusi sessuali il 3 aprile 2026 alle 04:25",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-04-03T04:25:30.001226+00:00",
-    "image_type": "flickr",
-    "image_url": "https://live.staticflickr.com/65535/51441305423_dd96b79fb2_b.jpg",
-    "occhiello": "EPSTEIN: LUTTAZZI SMASCHERA RETE GLOBALE DI ABUSI",
-    "lead_preview": "Daniele Luttazzi, famoso comico e conduttore televisivo italiano, ha smascherato una rete globale di abusi che supera di",
-    "tags": [
-      "caso luttazzi",
-      "rete abusi globali",
-      "epstein"
     ]
   }
 ]
