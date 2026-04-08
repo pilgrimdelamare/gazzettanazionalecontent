@@ -1,5 +1,20 @@
 [
   {
+    "id": "c7fed5bceb45fd7f",
+    "slug": "ciciliano-la-frana-e-ferma-lo-ha-confermato-il-cap-c7fed5bceb45fd7f",
+    "title": "Ciciliano, la frana è ferma, lo ha confermato il capo della Protezione Civile in",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Chiara Esposito",
+    "published_at": "2026-04-08T16:53:13.611925+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/87f63cb17e62472dda3ac0a88709b755.jpg",
+    "occhiello": "",
+    "lead_preview": "Ciciliano, la frana è ferma, lo ha confermato il capo della Protezione Civile in visita a Petacciato il 8 aprile 2026, d",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "6b4fc04980a012a0",
     "slug": "un-reportage-sulla-guerra-di-gazza-dal-2008-al-201-6b4fc04980a012a0",
     "title": "Un reportage sulla guerra di gazza, dal 2008 al 2011",
@@ -8871,24 +8886,6 @@
       "fondi calcio sparito",
       "riforma calcio 2026",
       "gabriele gravina"
-    ]
-  },
-  {
-    "id": "2182da26b631a3d8",
-    "slug": "calcio-valerio-crespi-segna-da-25-metri-brescia-ba-2182da26b631a3d8",
-    "title": "Calcio: Valerio Crespi segna al 23' e decide la partita con un diagonale preciso",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-03T22:16:48.257498+00:00",
-    "image_type": "none",
-    "image_url": "",
-    "occhiello": "VALERIO CRESPI SEGNA AL 23'",
-    "lead_preview": "Valerio Crespi ha segnato al 23esimo minuto della partita . L’azione ha deciso l’incontro.",
-    "tags": [
-      "gol valerio crespi",
-      "partita calcio 23'",
-      "diagonale crespi"
     ]
   }
 ]
