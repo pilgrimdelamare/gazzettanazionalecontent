@@ -1,5 +1,24 @@
 [
   {
+    "id": "fdb5708d7b931f2b",
+    "slug": "the-strokes-tornano-con-reality-awaits-il-26-giugn-fdb5708d7b931f2b",
+    "title": "The Strokes tornano con Reality Awaits il 26 giugno",
+    "section": "cultura",
+    "priority": 6,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-08T12:03:52.622449+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/fad6ce6f22b031faf2a472d72d84ba34.jpg",
+    "occhiello": "THE STROKES PUBBLICANO IL NUOVO ALBUM",
+    "lead_preview": "The Strokes annunciano l’uscita del loro settimo album in studio, Reality Awaits, prevista per il 26 giugno 2026. L’usci",
+    "tags": [
+      "the strokes reality awaits",
+      "nuovo album the strokes",
+      "going shopping singolo"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "d1576f3bb0bbe0f4",
     "slug": "ac-milan-celebra-mircea-lucescu-a-san-siro-dopo-la-d1576f3bb0bbe0f4",
     "title": "AC Milan celebra Mircea Lucescu a San Siro dopo la sua scomparsa a 81 anni",
@@ -8898,24 +8917,6 @@
       "basket",
       "minnesota",
       "detroit"
-    ]
-  },
-  {
-    "id": "8dde32afd5c27e88",
-    "slug": "albertini-accusa-verdi-8dde32afd5c27e88",
-    "title": "Berlusconiano Albertini: i verdi manovrano il caso San Siro per le elezioni",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Chiara Esposito",
-    "published_at": "2026-04-03T05:15:31.305735+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1693517343607-e7dced201648?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxzYW4lMjBzaXJvJTIwZmxvb2QlMjBtaWxhbnxlbnwwfDB8fHwxNzc1Mjc1Mzk0fDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "FONDI SCOMPARSI DOPO IL VOTO",
-    "lead_preview": "Gabriele Albertini, ex sindaco berlusconiano di Milano, ha dichiarato a Il Giornale il 3 aprile 2026 che il caso stadio ",
-    "tags": [
-      "caso san siro",
-      "albertini verde",
-      "fondi scomparsi 2026"
     ]
   }
 ]
