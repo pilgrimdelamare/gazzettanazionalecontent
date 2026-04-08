@@ -1,5 +1,24 @@
 [
   {
+    "id": "26caa56ce5e57255",
+    "slug": "blocco-oleodotto-nel-golfo-di-trieste-rallenta-il-26caa56ce5e57255",
+    "title": "Blocco del Golfo di Trieste: 20 mezzi petroliferi fermati alle 19:00",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Chiara Esposito",
+    "published_at": "2026-04-07T22:42:12.420280+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2014/6/11/b6eb925b9808969e9f617aa8b1f69711.jpg",
+    "occhiello": "BLOCCO OLEODOTTO NEL GOLOFO DI TRIESTE",
+    "lead_preview": "Il Golfo di Trieste è stato oggetto di un blocco oleodotto giovedì 7 aprile 2026, alle 19:00, secondo ANSA. Almeno 20 me",
+    "tags": [
+      "blocco golfo trieste",
+      "oleodotto fermo",
+      "mezzi petroliferi bloccati"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "9337afa078355db7",
     "slug": "basket-valencia-conquista-la-finale-europea-9337afa078355db7",
     "title": "Basket: Valencia batte EA7 Milano 87-77 e conquista l'Europa a Barcellona",
@@ -1282,24 +1301,6 @@
     "tags": [
       "missione artemis-2",
       "astronauti iss"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "26caa56ce5e57255",
-    "slug": "blocco-oleodotto-nel-golfo-di-trieste-rallenta-il-26caa56ce5e57255",
-    "title": "Blocco oleodotto nel Golfo di Trieste rallenta il traffico petroliero",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Chiara Esposito",
-    "published_at": "2026-04-07T22:42:12.420280+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2014/6/11/b6eb925b9808969e9f617aa8b1f69711.jpg",
-    "occhiello": "MOLTE PETROLIERE IN DELICATA SITUZIONE SUL GOLFO DI TRIESTE",
-    "lead_preview": "La notizia è datata giovedì 7 aprile 2026, alle 19:00. Secondo ANSA, molti mezzi petroliferi sono bloccati nel Golfo di ",
-    "tags": [
-      "blocco oleodotto",
-      "golfo trieste"
     ],
     "hero_eligible": true
   },
