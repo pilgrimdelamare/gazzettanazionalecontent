@@ -1,5 +1,22 @@
 [
   {
+    "id": "05cf4c07764097c8",
+    "slug": "petrolio-prezzo-in-picchiata-05cf4c07764097c8",
+    "title": "Petrolio Wti crolla del 18%",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-08T00:28:42.761232+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/6/4482b631309f28d7042a0dea42ddf4f8.jpg",
+    "occhiello": "L'ORO NERO PERDE 18% IN UN SOLO GIORNO",
+    "lead_preview": "93,03 Dollari: il Wti è crollato del 18% dopo l'annuncio del cessate il fuoco in Medio Oriente, il crollo più violento d",
+    "tags": [
+      "crollo petrolio wti"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "b006a5f3e188a79a",
     "slug": "crosetto-rispetto-trattati-b006a5f3e188a79a",
     "title": "Crosetto: 'L'Italia rispetta accordi, Usa usano base Sigonella per raid'",
@@ -1489,21 +1506,6 @@
       "bundesliga 2025-2026",
       "bayern monaco"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "05cf4c07764097c8",
-    "slug": "petrolio-prezzo-in-picchiata-05cf4c07764097c8",
-    "title": "Petrolio, prezzo in picchiata",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-04-08T00:28:42.761232+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/6/4482b631309f28d7042a0dea42ddf4f8.jpg",
-    "occhiello": "PETROLIO, PREZZO IN PICCHIATA",
-    "lead_preview": "Il Wti è crollato a 93,03 dollari al barile, perdendo il 18% dopo l’annuncio del cessate il fuoco. La notizia ha fatto c",
-    "tags": [],
     "hero_eligible": true
   },
   {
