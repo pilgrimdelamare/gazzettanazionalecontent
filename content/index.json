@@ -1,5 +1,23 @@
 [
   {
+    "id": "7f4f77bb1e7f84a6",
+    "slug": "milano-vola-con-la-tregua-usa-iran-7f4f77bb1e7f84a6",
+    "title": "Ftse Mib vola del 3,4% dopo tregua Usa-Iran nel Golfo, scambi in rialzo del 40%",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-08T16:11:50.641512+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/08/011714587-46bb9dd8-fb41-4710-a258-dea3dbe52380.jpg",
+    "occhiello": "",
+    "lead_preview": "Milano, 8 aprile 2026. L’indice Ftse Mib ha chiuso in rialzo del 3,4%, il Massimo in un giorno dal 2022, dopo l’annuncio",
+    "tags": [
+      "ftse mib",
+      "tregua usa-iran"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "6b4fc04980a012a0",
     "slug": "un-reportage-sulla-guerra-di-gazza-dal-2008-al-201-6b4fc04980a012a0",
     "title": "Anna Maria Selini pubblica 'Caro Vik ti scrivo', libro su Gaza dal 2008 al",
@@ -31,25 +49,6 @@
     "occhiello": "UN PARIGINESE CON UN TIRACCIO DA 90 METRI",
     "lead_preview": "Il Real Betis ha pareggiato per 1-1 con il Braga nella prima giornata della Europa League, con un gol di Sergio Canales ",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "7f4f77bb1e7f84a6",
-    "slug": "milano-vola-con-la-tregua-usa-iran-7f4f77bb1e7f84a6",
-    "title": "Ftse Mib vola del 4,2% dopo tregua Usa-Iran, migliore seduta dal",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-08T16:11:50.641512+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/08/011714587-46bb9dd8-fb41-4710-a258-dea3dbe52380.jpg",
-    "occhiello": "",
-    "lead_preview": "Milano, 8 aprile 2026. L’indice Ftse Mib ha guadagnato il 4,2 per cento a poche ore dall’annuncio della tregua di due se",
-    "tags": [
-      "tregua usa-iran",
-      "ftse mib",
-      "borsa milano"
-    ],
     "hero_eligible": true
   },
   {
