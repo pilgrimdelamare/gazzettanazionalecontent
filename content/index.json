@@ -1,5 +1,20 @@
 [
   {
+    "id": "dd31b69c241989b5",
+    "slug": "40000-pass-gratis-ma-solo-per-chi-puo-partire-dd31b69c241989b5",
+    "title": "40.000 pass gratis, ma solo per chi può partire",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-08T16:15:49.396132+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2023/8/6/785530c8e913043e2b65f4a26ab0a30d.jpg",
+    "occhiello": "40.000 PASS GRATIS, MA SOLO PER CHI PUÒ PARTIRE",
+    "lead_preview": "Bruxelles ha riaperto il 7 aprile il bando DiscoverEU con 40.000 pass Interrail gratuiti per i diciottenni dell'Unione E",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "0f2786aaacb0f068",
     "slug": "federica-brignone-e-stata-ricevuta-dal-presidente-0f2786aaacb0f068",
     "title": "Federica Brignone è stata ricevuta dal Presidente Sergio Mattarella al Quirinale",
@@ -306,21 +321,6 @@
       "otello dalla casa",
       "campo grunhain"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "dd31b69c241989b5",
-    "slug": "40000-pass-gratis-ma-solo-per-chi-puo-partire-dd31b69c241989b5",
-    "title": "40.000 pass gratis, ma solo per chi può partire",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-04-08T16:15:49.396132+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2023/8/6/785530c8e913043e2b65f4a26ab0a30d.jpg",
-    "occhiello": "40.000 PASS GRATIS, MA SOLO PER CHI PUÒ PARTIRE",
-    "lead_preview": "L'Unione Europea ha riaperto il programmaDiscoverEU, mettendo a disposizione 40.000 pass Interrail gratuiti per i diciot",
-    "tags": [],
     "hero_eligible": true
   },
   {
