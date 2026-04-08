@@ -1,5 +1,24 @@
 [
   {
+    "id": "47a587e90285890a",
+    "slug": "emilio-isgro-riceve-il-premio-cultura-del-mediterr-47a587e90285890a",
+    "title": "Emilio Isgrò riceve il Premio Cultura del Mediterraneo a Porto Cervo il 18 aprile",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-07T22:44:21.775172+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/11/27/385743d659259d22c0cb3f1734d2ba23.jpg",
+    "occhiello": "EMILIO ISGRÒ RICEVE IL PREMIO CULTURA DEL MEDITERRANEO",
+    "lead_preview": "Emilio Isgrò riceverà il Premio Cultura del Mediterraneo a Porto Cervo il 18 aprile. La cerimonia si terrà a Porto Cervo",
+    "tags": [
+      "premio cultura mediterraneo",
+      "emilio isgrò",
+      "porto cervo"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "e9ec57a550ab808b",
     "slug": "colosseo-preso-dassalto-82mila-visitatori-nel-fine-e9ec57a550ab808b",
     "title": "82Mila visitatori al Colosseo nel weekend di Pasqua, +9% rispetto al",
@@ -985,25 +1004,6 @@
     "tags": [
       "festival incanti",
       "natalia lombardo"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "47a587e90285890a",
-    "slug": "emilio-isgro-riceve-il-premio-cultura-del-mediterr-47a587e90285890a",
-    "title": "Emilio Isgrò riceve il Premio Cultura del Mediterraneo a Porto Cervo l'18 aprile",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-07T22:44:21.775172+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/11/27/385743d659259d22c0cb3f1734d2ba23.jpg",
-    "occhiello": "PREMIO CULTURA DEL MEDITERRANEO PER EMILO ISGRÒ",
-    "lead_preview": "Il 18 aprile a Porto Cervo si terrà la premiazione del Premio Costa Smeralda, dove Emilio Isgrò riceverà il riconoscimen",
-    "tags": [
-      "premio cultura del mediterraneo",
-      "emilio isgrò",
-      "porto cervo"
     ],
     "hero_eligible": true
   },
