@@ -1,5 +1,23 @@
 [
   {
+    "id": "b96079eb0dbca6d7",
+    "slug": "giuseppe-sebaste-scompare-a-66-anni-lultima-cerimo-b96079eb0dbca6d7",
+    "title": "Giuseppe Sebaste è morto a 66 anni: il lutto ad Amelia, dove viveva da vent'anni",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-07T22:47:36.593291+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/6/f076c972124cdcdd509c4e95c1055b02.jpg",
+    "occhiello": "",
+    "lead_preview": "Giuseppe Sebaste è morto giovedì 7 aprile 2026 a 66 anni. La cerimonia funebre si è svolta ad Amelia, città umbra a cui ",
+    "tags": [
+      "morte giuseppe sebaste",
+      "lutto amelia"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c68c9e525ef88ef2",
     "slug": "250-copie-di-eduardo-de-filippo-c68c9e525ef88ef2",
     "title": "Eduardo de Filippo, 250 copie per il documentario",
@@ -920,25 +938,6 @@
       "lancio espn italia",
       "disney+ sport",
       "abbonamento espn"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "b96079eb0dbca6d7",
-    "slug": "giuseppe-sebaste-scompare-a-66-anni-lultima-cerimo-b96079eb0dbca6d7",
-    "title": "Giuseppe Sebaste scompare a 66 anni: l'ultima cerimonia si è svolta ad Amelia",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-07T22:47:36.593291+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/6/f076c972124cdcdd509c4e95c1055b02.jpg",
-    "occhiello": "ADDIO A UN GIORNALISTA DI CONSEGUENZA",
-    "lead_preview": "Giuseppe Sebaste, uno dei più importanti giornalisti e scrittori italiani, è morto giovedì a 66 anni. La cerimonia di ad",
-    "tags": [
-      "scomparsa sebaste",
-      "giornalista italiano",
-      "addio amelia"
     ],
     "hero_eligible": true
   },
