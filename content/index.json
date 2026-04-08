@@ -1,5 +1,24 @@
 [
   {
+    "id": "e7cd3943cd0ef484",
+    "slug": "diario-segreto-di-un-eroe-280-pagine-sulla-resiste-e7cd3943cd0ef484",
+    "title": "Emergono 280 pagine segrete: diario di un ufficiale inglese nella Resistenza Italiana",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-08T12:20:39.096384+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/8d623cc787a581f1eb720804657b1580.jpg",
+    "occhiello": "DIARIO SEGRETO DI UFFICIALE INGLESE SULLA RESISTENZA RIVELA OPERAZIONI CLANDESTINE",
+    "lead_preview": "Henry Boutigny, ufficiale inglese della Number 1 Special Force, ha tenuto un diario clandestino dal settembre 1943 all’a",
+    "tags": [
+      "resistenza italiana",
+      "diario segreto",
+      "seconda guerra mondiale"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "4c6e786462265ba9",
     "slug": "romics-2026-ospiti-zerocalcare-venom-e-il-cantante-4c6e786462265ba9",
     "title": "Singer sigle e zerocalcare insieme a romics 2026",
@@ -338,25 +357,6 @@
     "occhiello": "TRUMP SI RIVOLGE ALL'IRAN: \"COLLABOREREMO PER RIMUOVERE TUTTA LA POLVERE NUCLEARE\"",
     "lead_preview": "Donald Trump, ex presidente degli Stati Uniti, ha annunciato di voler collaborare con l'Iran per rimuovere la capacità n",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "e7cd3943cd0ef484",
-    "slug": "diario-segreto-di-un-eroe-280-pagine-sulla-resiste-e7cd3943cd0ef484",
-    "title": "Diario segreto di un eroe: 280 pagine sulla Resistenza",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-08T12:20:39.096384+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/8d623cc787a581f1eb720804657b1580.jpg",
-    "occhiello": "IL DIARIO INEDITO DI UN INGLESE TRA I PARTIGIANI",
-    "lead_preview": "Henry Boutigny, ufficiale inglese della Number 1 Special Force, ha tenuto un diario clandestino dal settembre 1943 all'a",
-    "tags": [
-      "resistenza italiana",
-      "diario partigiano",
-      "henry boutigny"
-    ],
     "hero_eligible": true
   },
   {
