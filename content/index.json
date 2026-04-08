@@ -1,5 +1,20 @@
 [
   {
+    "id": "a9b121e7cf1d32c7",
+    "slug": "urgente-alpinista-ferito-durante-scalata-in-montag-a9b121e7cf1d32c7",
+    "title": "Urgente: alpinista ferito durante scalata in montagna",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Chiara Esposito",
+    "published_at": "2026-04-08T07:49:07.850209+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/02/21/Abbadia-Elisoccorso-Tuta-Alare-696x522-1.jpg",
+    "occhiello": "URGENTE: ALPINISTA FERITO DURANTE SCALATA IN MONTAGNA",
+    "lead_preview": "Alessandro, un alpinista di nome, è Stato ferito gravemente durante una scalata in montagna sulle Dolomiti. L'uomo ha ur",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "c47d2daa8309d7c1",
     "slug": "rapita-e-liberata-in-7-giorni-c47d2daa8309d7c1",
     "title": "Rapita e liberata in 7 giorni",
@@ -8931,24 +8946,6 @@
     "tags": [
       "prezzo petrolio record",
       "brent 127 dollari"
-    ]
-  },
-  {
-    "id": "80f36f06d2382a22",
-    "slug": "newprinces-crolla-in-borsa--30-dopo-lofferta-per-s-80f36f06d2382a22",
-    "title": "NewPrinces perde 3,5 miliardi a Piazza Affari dopo l'acquisizione di Sigma",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-03T07:32:50.774881+00:00",
-    "image_type": "none",
-    "image_url": "",
-    "occhiello": "NEWPRINCES CROLLA DEL 30% DOPO L'ACQUISIZIONE DI SIGMA",
-    "lead_preview": "Il valore di NewPrinces, colosso agroalimentare quotato a Piazza Affari, è crollato del 30% in due giorni a seguito dell",
-    "tags": [
-      "crollo newprinces",
-      "acquisizione sigma",
-      "riccardo sopr"
     ]
   }
 ]
