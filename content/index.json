@@ -1,5 +1,24 @@
 [
   {
+    "id": "5f0fd5626581f673",
+    "slug": "due-navi-attraversano-lo-stretto-di-hormuz-dopo-6-5f0fd5626581f673",
+    "title": "Due navi attraversano lo Stretto di Hormuz dopo 6 giorni di blocco iraniano",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-08T12:18:27.362960+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/0716848a6f73368490c3f3e21b9f3efb.jpg",
+    "occhiello": "",
+    "lead_preview": "Marine Traffic, venerdì 8 aprile 2026, ha registrato i primi due attraversamenti dello Stretto di Hormuz dopo sei giorni",
+    "tags": [
+      "blocco hormuz",
+      "crisi iran",
+      "navigazione bloccata"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "fdb5708d7b931f2b",
     "slug": "the-strokes-tornano-con-reality-awaits-il-26-giugn-fdb5708d7b931f2b",
     "title": "The Strokes tornano con Reality Awaits il 26 giugno",
@@ -8899,24 +8918,6 @@
       "lascio gravina figc",
       "addio buffon figc",
       "fine presidenza figc"
-    ]
-  },
-  {
-    "id": "472e4a7560eea5ba",
-    "slug": "basket-detroit-vince-113-108-472e4a7560eea5ba",
-    "title": "Detroit chiude i giocatori di Minnesota con un 5-12 finale",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-03T05:43:17.177709+00:00",
-    "image_type": "flickr",
-    "image_url": "https://live.staticflickr.com/65535/55009426719_03a840e9b5_b.jpg",
-    "occhiello": "DETROIT BATTE MINNESOTA CON PARZIALE DECISIVO DI 12-4",
-    "lead_preview": "Il 3 aprile 2026, Detroit ha battuto Minnesota con il punteggio di 113 a 108 nella partita giocata a Detroit.",
-    "tags": [
-      "basket",
-      "minnesota",
-      "detroit"
     ]
   }
 ]
