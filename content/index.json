@@ -1,5 +1,24 @@
 [
   {
+    "id": "e8471396a89cfbc3",
+    "slug": "iran-presenta-piano-di-pace-a-10-punti-usa-sospend-e8471396a89cfbc3",
+    "title": "Iran propone tregua a 10 punti e pedaggio di 2 mln per nave a Hormuz",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-08T03:06:15.517568+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/08/043418804-75edc695-f6a2-41c4-801c-98b00fed6071.jpg",
+    "occhiello": "IRAN PRESENTA PIANO DI PACE A 10 PUNTI, USA SOSPENDONO OPERAZIONI MILITARI",
+    "lead_preview": "Teheran, 8 aprile 2026. Il governo iraniano ha presentato un documento di Dieci punti per un cessate il fuoco, accettato",
+    "tags": [
+      "guerra iran",
+      "crisi hormuz",
+      "piano pace iran"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "rassegnista_daily",
     "slug": "rassegna-stampa",
     "title": "Le prime pagine di oggi, mercoledì 8 aprile 2026",
@@ -219,25 +238,6 @@
       "catene umane iran",
       "pezeshkian iran",
       "iran mobilitazione"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "e8471396a89cfbc3",
-    "slug": "iran-presenta-piano-di-pace-a-10-punti-usa-sospend-e8471396a89cfbc3",
-    "title": "Iran presenta piano di pace a 10 punti, Usa sospendono operazioni militari",
-    "section": "esteri",
-    "priority": 6,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-08T03:06:15.517568+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/08/043418804-75edc695-f6a2-41c4-801c-98b00fed6071.jpg",
-    "occhiello": "IRAN IMPONE I TERMINI DELLA PAUSA",
-    "lead_preview": "Teheran, 8 aprile 2026. Il governo iraniano ha presentato un documento di dieci punti per un cessate il fuoco, accettato",
-    "tags": [
-      "piano pace iran",
-      "cessate il fuoco iran",
-      "sospensione operazioni usa"
     ],
     "hero_eligible": true
   },
