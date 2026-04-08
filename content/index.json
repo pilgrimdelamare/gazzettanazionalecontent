@@ -1,5 +1,24 @@
 [
   {
+    "id": "cfd747ec81f03003",
+    "slug": "sky-primaset-aumenta-la-sua-audience-cfd747ec81f03003",
+    "title": "Primaset approda su Sky al canale 808: ecco chi lo guardava alle 22 del 7 aprile",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-07T22:45:53.088273+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/3da65b75964bab14e5548d0418b3c2d0.jpg",
+    "occhiello": "",
+    "lead_preview": "Primaset, canale di intrattenimento e informazione, è ora disponibile sul canale 808 di Sky a partire dal 7 aprile 2026.",
+    "tags": [
+      "primaset sky",
+      "canale 808",
+      "primaset 2026"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "db209f3bd57f8775",
     "slug": "novo-nordisk-ammonita-per-morti-non-segnalate-db209f3bd57f8775",
     "title": "Novo Nordisk segnalò solo il 37% dei decessi da farmaco anti-obesità negli USA",
@@ -1030,23 +1049,6 @@
     "lead_preview": "Asghar Farhadi, regista iraniano, ha lanciato un appello agli artisti per protestare contro le devastazioni in Iran. Il ",
     "tags": [
       "guerra iran"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "cfd747ec81f03003",
-    "slug": "sky-primaset-aumenta-la-sua-audience-cfd747ec81f03003",
-    "title": "Sky: Primaset aumenta la sua audience",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-07T22:45:53.088273+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/3da65b75964bab14e5548d0418b3c2d0.jpg",
-    "occhiello": "PRIMASET ARRIVA SU SKY",
-    "lead_preview": "Primaset, canale di intrattenimento e informazione, ora disponibile anche sul canale 808 di Sky.",
-    "tags": [
-      "primaset sky"
     ],
     "hero_eligible": true
   },
