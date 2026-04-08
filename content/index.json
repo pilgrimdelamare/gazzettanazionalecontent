@@ -1,5 +1,24 @@
 [
   {
+    "id": "ec9e209a41e61641",
+    "slug": "cuba-e-usa-in-nuovi-negoziati-fase-ancora-prelimin-ec9e209a41e61641",
+    "title": "Cuba, colloqui con Usa ancora a vuoto: nessun passo sulla fine del blocco",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-07T23:26:29.707659+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2015/9/9/37dc733f180703d0a66320c5dcb9a1c5.jpg",
+    "occhiello": "VIDAL: NEGOZIATI CON USA ANCORA PRELIMINARI",
+    "lead_preview": "Josefina Vidal, viceministra degli Esteri cubana, ha dichiarato l'8 aprile 2026 all'Avana che i negoziati tra Cuba e gli",
+    "tags": [
+      "colloqui cuba-usa",
+      "blocco cuba",
+      "josefina vidal"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "1e21790114e0aa21",
     "slug": "iran-chiude-lo-stretto-di-hormuz-per-16-ore-23-mil-1e21790114e0aa21",
     "title": "Hormuz chiuso 16 ore: 2,3 miliardi di perdita per l'industria Italiana",
@@ -1035,25 +1054,6 @@
       "uscita cingolani",
       "crollo leonardo",
       "borsa leonardo"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "ec9e209a41e61641",
-    "slug": "cuba-e-usa-in-nuovi-negoziati-fase-ancora-prelimin-ec9e209a41e61641",
-    "title": "Cuba e Usa in nuovi negoziati: fase ancora preliminare, annuncia Vidal all'Avana",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-07T23:26:29.707659+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2015/9/9/37dc733f180703d0a66320c5dcb9a1c5.jpg",
-    "occhiello": "CUBA, DIALOGHI CON GLI USA IN FASE PRELIMINARE",
-    "lead_preview": "L'Avana, 8 aprile 2026. La viceministra degli Esteri cubana, Josefina Vidal, ha dichiarato che i negoziati tra Cuba e gl",
-    "tags": [
-      "negoziati cuba-usa",
-      "josefina vidal",
-      "relazioni cuba usa"
     ],
     "hero_eligible": true
   },
