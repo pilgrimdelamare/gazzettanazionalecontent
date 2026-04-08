@@ -1,5 +1,24 @@
 [
   {
+    "id": "5fee0bf3c182a557",
+    "slug": "basket-boston-stende-charlotte-con-una-strepitosa-5fee0bf3c182a557",
+    "title": "Basket: Boston stende Charlotte con una strepitosa retta di 35 punti",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-08T05:45:54.721030+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/dcc58dca60c1c0fd9e56a4819d8b16dc68347e52/skysport/it/nba/video/2026/04/08/1088458_1775621042755_thumb_494.0000001_1775625021989.jpg",
+    "occhiello": "BOSTON CHARLOTTE, IL RISULTATO FINALE",
+    "lead_preview": "La partita NBA tra Boston e Charlotte si è conclusa con una vittoria della prima squadra per 113-102. La partita si è sv",
+    "tags": [
+      "basket",
+      "nba",
+      "boston charlotte"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "84cac9e27dd0bea5",
     "slug": "basket-i-miami-dominano-a-toronto-con-121-95-84cac9e27dd0bea5",
     "title": "Basket: i Miami dominano a Toronto con 121-95",
@@ -8945,24 +8964,6 @@
       "mare jonio",
       "tribunale trapani",
       "annullamento multa"
-    ]
-  },
-  {
-    "id": "7d89c4482d2c612e",
-    "slug": "netflix-condannata-rimborsare-ai-clienti-fino-a-50-7d89c4482d2c612e",
-    "title": "Netflix multata a Roma: 1 milione di euro per rincari illegittimi del 2022",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-03T10:33:32.291491+00:00",
-    "image_type": "none",
-    "image_url": "",
-    "occhiello": "NETFLIX CONDANNATA: RIMBORSI FINO A 500€",
-    "lead_preview": "Il tribunale di Roma ha stabilito il 3 aprile che i rincari degli abbonamenti Netflix applicati nel 2022 sono illegittim",
-    "tags": [
-      "multa netflix roma",
-      "rincari illegittimi netflix",
-      "tribunale roma netflix"
     ]
   }
 ]
