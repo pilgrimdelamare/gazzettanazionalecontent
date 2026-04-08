@@ -1,5 +1,24 @@
 [
   {
+    "id": "eef970fc058a7211",
+    "slug": "simionato-evade-a-torino-e-in-7-minuti-e-di-nuovo-eef970fc058a7211",
+    "title": "Omar Simionato evade da Torino e viene catturato ad Arcidosso nella notte di Pasqua",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-07T22:44:02.766899+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/1/31/1024310d35a8bb26b65b9236baed42ad.jpg",
+    "occhiello": "",
+    "lead_preview": "Omar Simionato, 44 anni, evade dagli arresti domiciliari a Torino nella mattina di sabato 4 aprile 2026, ma viene interc",
+    "tags": [
+      "evasione simionato",
+      "cattura arcidosso",
+      "fuga torino"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "fd956497352e4f07",
     "slug": "greenpeace-l80-dellinquinamento-da-nitrati-in-euro-fd956497352e4f07",
     "title": "80% Inquinamento nitrati in Europa da allevamenti, allarme Greenpeace",
@@ -1004,25 +1023,6 @@
       "rilancio solare colombia",
       "transizione energetica colombia",
       "dipendenza petrolio colombia"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "eef970fc058a7211",
-    "slug": "simionato-evade-a-torino-e-in-7-minuti-e-di-nuovo-eef970fc058a7211",
-    "title": "Simionato evade a Torino e in 7 minuti è di nuovo in manette ad Arcidosso",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-07T22:44:02.766899+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/1/31/1024310d35a8bb26b65b9236baed42ad.jpg",
-    "occhiello": "FUGA E ARRESTO A PASQUA",
-    "lead_preview": "Simionato evade dagli arresti a Torino, ma non scampa ai carabinieri che lo ritrovano a Pasqua. La notizia è emersa merc",
-    "tags": [
-      "evasione simionato",
-      "arresto pasqua",
-      "fuga torino"
     ],
     "hero_eligible": true
   },
