@@ -1,5 +1,24 @@
 [
   {
+    "id": "f9cae153b1de03c7",
+    "slug": "emilia-romagna-25-milioni-per-energie-rinnovabili-f9cae153b1de03c7",
+    "title": "Emilia-Romagna, 2,5 milioni per energie rinnovabili condivise: chi può richiederli",
+    "section": "ambiente",
+    "priority": 6,
+    "journalist_firma": "Valentina Costa",
+    "published_at": "2026-04-08T14:27:30.685820+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://www.repstatic.it/content/contenthub/img/2026/04/07/112045933-feac0ad4-1125-49b3-a7d7-2075378f296f.jpg",
+    "occhiello": "FONDI REGIONALI PER COMUNITÀ ENERGETICHE",
+    "lead_preview": "Emilia-Romagna, 7 aprile 2026 – L’Emilia-Romagna ha stanziato 2,5 milioni di euro per il terzo bando regionale a favore ",
+    "tags": [
+      "fondi emilia-romagna",
+      "comunita energetiche",
+      "energie rinnovabili 2026"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "3919c66551a69d05",
     "slug": "evaso-per-triplo-omicidio-ferisce-carabiniere-e-vi-3919c66551a69d05",
     "title": "Evaso per triplo omicidio, ferisce carabiniere e viene arrestato",
@@ -8888,22 +8907,6 @@
     "tags": [
       "mercato roma",
       "dybala roma"
-    ]
-  },
-  {
-    "id": "32c8daae58dc52d4",
-    "slug": "calabria-10-milioni-di-euro-di-danni-allagricoltur-32c8daae58dc52d4",
-    "title": "Calabria, 10 milioni di danni all'agricoltura per maltempo",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Sergio Mancini",
-    "published_at": "2026-04-03T11:51:33.844231+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/29717173/pexels-photo-29717173.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "10 MILIONI DI DANNI AGRICOLI DOPO MALTEMPO IN CALABRIA",
-    "lead_preview": "Coldiretti Calabria ha quantificato in 10 milioni di euro i danni all'agricoltura regionale causati dagli eventi meteoro",
-    "tags": [
-      "maltempo calabria"
     ]
   }
 ]
