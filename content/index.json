@@ -1,5 +1,20 @@
 [
   {
+    "id": "853dcab0cba4aedc",
+    "slug": "un-pariginese-con-un-tiraccio-da-90-metri-853dcab0cba4aedc",
+    "title": "Un pariginese con un tiraccio da 90 metri",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-08T19:19:31.642234+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/da25ce456fe0614de819d166a085f2da6a934cfd/skysport/it/calcio/europa-league/video/2026/04/08/1088701_1775674590747_thumb_494.0000001_1775674673255.jpg",
+    "occhiello": "UN PARIGINESE CON UN TIRACCIO DA 90 METRI",
+    "lead_preview": "Il Real Betis ha pareggiato per 1-1 con il Braga nella prima giornata della Europa League, con un gol di Sergio Canales ",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "7f4f77bb1e7f84a6",
     "slug": "milano-vola-con-la-tregua-usa-iran-7f4f77bb1e7f84a6",
     "title": "Ftse Mib vola del 4,2% dopo tregua Usa-Iran, migliore seduta dal",
@@ -8861,24 +8876,6 @@
       "abbattimento f-15e",
       "piloti pasdaran",
       "crisi iran usa"
-    ]
-  },
-  {
-    "id": "5ceeb7edaf6d3dbb",
-    "slug": "bisio-si-alla-cannabis-a-rai1-con-uno-sbirro-in-ap-5ceeb7edaf6d3dbb",
-    "title": "Claudio Bisio a Milano: 'Legalizzate la cannabis, è una questione di buonsenso'",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Elena Russo",
-    "published_at": "2026-04-03T12:21:32.080601+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1715785233313-48c4e6c64489?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxDbGF1ZGlvJTIwQmlzaW98ZW58MHwwfHx8MTc3NTI5ODMxNnww&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "",
-    "lead_preview": "Claudio Bisio, 66 anni, ha dichiarato il 3 aprile 2026 di essere a favore della legalizzazione della cannabis, intervene",
-    "tags": [
-      "legalizzazione cannabis",
-      "dibattito milano",
-      "claudio bisio"
     ]
   }
 ]
