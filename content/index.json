@@ -1,5 +1,20 @@
 [
   {
+    "id": "82acd9b1eaa9799c",
+    "slug": "padova-e-vicenza-introducono-i-robot-tagliaerba-pe-82acd9b1eaa9799c",
+    "title": "Padova e vicenza introducono i robot tagliaerba per ridurre il rumore",
+    "section": "tecnologia",
+    "priority": 6,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-04-08T17:51:02.370515+00:00",
+    "image_type": "image",
+    "image_url": "https://media-assets.wired.it/photos/69d664acdf894e34a4af4b1c/16:9/w_1280,c_limit/Husqvarna_Automower.jpeg",
+    "occhiello": "PADOVA E VICENZA INTRODUCONO I ROBOT TAGLIAERBA PER RIDURRE IL RUMORE",
+    "lead_preview": "In Italia i comuni di Padova e Vicenza utilizzano le soluzioni di Husqvarna per ridurre drasticamente il Rumore durante ",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "a042da49b75d65ad",
     "slug": "fondo-francese-ai-creator-stop-a-tempo-indetermina-a042da49b75d65ad",
     "title": "Fondo francese ai creator, stop a tempo indeterminato dopo minacce",
@@ -8865,24 +8880,6 @@
     "tags": [
       "agguato alessandria",
       "donna aggredita autobus"
-    ]
-  },
-  {
-    "id": "3a5c5a5a684e3f2e",
-    "slug": "ue-sospensione-patto-solo-in-caso-di-grave-recessi-3a5c5a5a684e3f2e",
-    "title": "Giorgetti: 'Senza cambio di rotta, chiederemo deroga al 3% di disavanzo'",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-03T11:35:29.234212+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1646061142332-452a42f0a93e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxHaWFuY2FybG8lMjBHaW9yZ2V0dGl8ZW58MHwwfHx8MTc3NTI5NzkwNnww&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "GIORGETTI MINACCIA LA DEROGA AL 3%",
-    "lead_preview": "Giancarlo Giorgetti, ministro dell’Economia del governo Meloni, ha dichiarato il 3 aprile 2026 che se il quadro economic",
-    "tags": [
-      "deroga 3%",
-      "girogetti minaccia ue",
-      "manovra 2026"
     ]
   }
 ]
