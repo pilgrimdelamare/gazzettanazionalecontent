@@ -1,5 +1,23 @@
 [
   {
+    "id": "b5e396293007d512",
+    "slug": "noleggio-auto-italiano-sfiora-il-34-con-10-rispett-b5e396293007d512",
+    "title": "Noleggio Auto italiano sfiora il 34% con +10% rispetto allo scorso anno",
+    "section": "economia",
+    "priority": 4,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-08T06:46:30.485692+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/07/noleggio-auto.jpg",
+    "occhiello": "",
+    "lead_preview": "179.017 Unità immatricolate tra gennaio e marzo 2026, con un +10% rispetto allo stesso trimestre del 2025, secondo l’ana",
+    "tags": [
+      "noleggio auto",
+      "mercato auto"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "f1de044e2f6a3cec",
     "slug": "ttf-crolla-a-43-euromwh-dopo-accordo-usa-iran-sul-f1de044e2f6a3cec",
     "title": "Ttf crolla a 43 euro/MWh dopo accordo Usa-Iran sul nucleare",
@@ -8943,23 +8961,5 @@
     "occhiello": "KLIMT TORNA A PIACENZA CON 180MILA VISITATORI A SEUL",
     "lead_preview": "Gustav Klimt torna a Piacenza il 28 aprile dopo l'esposizione a Seul, che ha riscosso 180mila visitatori, come sempre. I",
     "tags": []
-  },
-  {
-    "id": "a022cd33f81735fa",
-    "slug": "motogp-marc-marquez-finisce-5-ad-austin-e-ammette-a022cd33f81735fa",
-    "title": "MotoGP:",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-03T10:02:08.439380+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Marc_marquez_moto2-2.JPG",
-    "occhiello": "MAIUSCOLO - MARC MARQUEZ CHIUDE 5° AD AUSTIN",
-    "lead_preview": "Marc Marquez, pilota spagnolo del Team ufficiale Ducati, ha chiuso al quinto posto il Gran Premio degli Stati Uniti ad A",
-    "tags": [
-      "motogp austin 2026",
-      "marc marquez ducati",
-      "gp stati uniti"
-    ]
   }
 ]
