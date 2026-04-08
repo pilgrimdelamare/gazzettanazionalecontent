@@ -1,5 +1,24 @@
 [
   {
+    "id": "de55816c4ea8a8e1",
+    "slug": "luigi-ghirri-torna-a-esporre-a-reggio-emilia-con-m-de55816c4ea8a8e1",
+    "title": "Luigi Ghirri torna a esporre a Reggio Emilia con musica inedita fino al",
+    "section": "cultura",
+    "priority": 6,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-08T10:10:01.082194+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/16b985ebfe3ad6655740df3b845b09f3.jpg",
+    "occhiello": "GHIRRI SVELA I SOGNI NEL NUOVO PALAZZO DI REGGIO",
+    "lead_preview": "Luigi Ghirri presenta 'A Series of Dreams' al Palazzo dei Musei di Reggio Emilia, nell’ambito di Fotografia Europea, il ",
+    "tags": [
+      "luigi ghirri",
+      "fotografia europea",
+      "reggio emilia"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "73f2f0a2bb321bb6",
     "slug": "pechino-express-in-cina-il-gioco-dellinfluenza-73f2f0a2bb321bb6",
     "title": "Pechino express in cina: il gioco dell'influenza",
@@ -8902,24 +8921,6 @@
       "omicidio volontario preone",
       "sindaco preone condannato",
       "processo martinis udine"
-    ]
-  },
-  {
-    "id": "6807527ff820fe0c",
-    "slug": "nba-highlights-charlotte-phoenix-127-107-6807527ff820fe0c",
-    "title": "Basket: Phoenix battono Charlotte 127-107 al Spectrum, 17ª sconfitta casalinga",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-03T05:43:40.627189+00:00",
-    "image_type": "flickr",
-    "image_url": "https://live.staticflickr.com/65535/55107653700_7f7209e7a3_b.jpg",
-    "occhiello": "CHARLOTTE BATTE I PHOENIX 127-107, 17 SCOFITTE DI FILA IN CASA",
-    "lead_preview": "Il Charlotte ha perso contro i Phoenix con un punteggio di 127-107 con un punteggio di 127-107, la partita giocata al Sp",
-    "tags": [
-      "basket",
-      "phoenix",
-      "charlotte"
     ]
   }
 ]
