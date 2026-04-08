@@ -1,5 +1,20 @@
 [
   {
+    "id": "c72b05d19564e978",
+    "slug": "la-serie-delle-ribelli-adolescenti-di-gilead-c72b05d19564e978",
+    "title": "La serie delle ribelli adolescenti di gilead",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-04-08T13:44:07.965361+00:00",
+    "image_type": "image",
+    "image_url": "https://media-assets.wired.it/photos/69d50959fb3152765042633d/16:9/w_1280,c_limit/180165_1.138.1.jpg",
+    "occhiello": "LA SERIE DELLE RIBELLI ADOLESCENTI DI GILEAD",
+    "lead_preview": "Margaret Atwood, l’8 aprile 2026, torna con The Testaments, il sequel di The Handmaid’s Tale, in versione serie tv su Di",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "87db9c3046ce89ac",
     "slug": "mae-70-anni-dopo-unembolia-perde-23-chili-e-si-rif-87db9c3046ce89ac",
     "title": "Mae, 70 anni, dopo un'embolia perde 23 chili e si rifà il volto: 'Sembrò ringiovanita di 30 anni'",
@@ -8890,24 +8905,6 @@
       "ryanair taglio voli",
       "rincaro cherosene 2026",
       "lufthansa riduzione voli"
-    ]
-  },
-  {
-    "id": "b906475a24dff12f",
-    "slug": "guido-manuli-creatore-della-sigla-di-portobello-ri-b906475a24dff12f",
-    "title": "Manuli a Torino: 'La sigla di Portobello è nata dal scon ribelle dei vicoli napoletani'",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-03T10:37:43.415164+00:00",
-    "image_type": "flickr",
-    "image_url": "https://live.staticflickr.com/65535/55171541810_a9e7f45b5c_b.jpg",
-    "occhiello": "MANULI: LA SIGLA DI PORTOBELLO È SCON",
-    "lead_preview": "Guido Manuli ha dichiarato il 3 aprile 2026 a Torino di aver tratto ispirazione dalla musica scon per la sigla di Portob",
-    "tags": [
-      "sigla portobello",
-      "manuli torino",
-      "musica scon"
     ]
   }
 ]
