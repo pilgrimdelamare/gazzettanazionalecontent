@@ -1,5 +1,24 @@
 [
   {
+    "id": "bf16267b62f889dd",
+    "slug": "basket-la-virtus-bologna-subisce-la-sesta-sconfitt-bf16267b62f889dd",
+    "title": "Basket: La Virtus Bologna subisce la sesta sconfitta consecutiva in Eurolega",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-08T05:44:05.234574+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/de440ee38c64b5f8dd7ee82528ba70180b0f38b1/skysport/it/basket/eurolega/video/2026/04/08/virtus-bologna-bayern-highlights-eurolega-1088445/virtbayer.jpg",
+    "occhiello": "VIRTUS BOLOGNA SUBISCE SETTIMA SCONFITTA CONSECUTIVA IN EUROLEGA",
+    "lead_preview": "La Virtus Bologna è stata sconfitta dal Bayern Monaco con il punteggio di 80-85 nella partita di Eurolega del 8 aprile 2",
+    "tags": [
+      "virtus bologna",
+      "eurolega 2026",
+      "serie sconfitte"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "817c3327165492e0",
     "slug": "petrolio-sotto-100-dollari-wti-a-993-dopo-tregua-u-817c3327165492e0",
     "title": "Petrolio sotto 100 dollari: Wti a 99,3 dopo tregua Usa-Iran",
@@ -8940,24 +8959,6 @@
     "tags": [
       "messaggi noem",
       "indagine south dakota"
-    ]
-  },
-  {
-    "id": "5944b17d1c15cfbe",
-    "slug": "ue-valuta-razionamento-energia-jorgensen-prezzi-al-5944b17d1c15cfbe",
-    "title": "Ue valeta razionamento carburante",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-04-03T09:01:13.549024+00:00",
-    "image_type": "none",
-    "image_url": "",
-    "occhiello": "UE VALETA RAZIONAMENTO CARBURANTE",
-    "lead_preview": "Il commissario europeo per l'Energia, Dan Jorgensen, ha dichiarato al Financial Times che l'Unione Europea valuta provve",
-    "tags": [
-      "razionamento carburante ue",
-      "crisi energetica europa",
-      "daniel jorgensen"
     ]
   }
 ]
