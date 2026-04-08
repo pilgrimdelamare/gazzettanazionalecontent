@@ -1,5 +1,23 @@
 [
   {
+    "id": "71904b69717dd973",
+    "slug": "trump-si-rivolge-alliran-collaboreremo-per-rimuove-71904b69717dd973",
+    "title": "Trump: 'Collaboreremo con l'Iran per smantellare arsenale nucleare'",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-08T12:28:32.641180+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/6/8f5b779ddbe29eb4eabb4e4f0a1b836e.jpg",
+    "occhiello": "TRUMP PROPONE ALL'IRAN DI SMANTELLARE IL NUCLEARE",
+    "lead_preview": "Donald Trump, 47esimo presidente degli Stati Uniti, ha annunciato l’8 aprile 2026 un’inversione di rotta epocale: collab",
+    "tags": [
+      "trump iran",
+      "nucleare iran"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c588b29e5b95cc34",
     "slug": "missione-navale-a-hormuz-annunciata-c588b29e5b95cc34",
     "title": "Ue e Canada mobilitano 30 paesi con fregate italiane nello Stretto di Hormuz",
@@ -960,21 +978,6 @@
     "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/03/11/Matteo-Salvini.jpg",
     "occhiello": "BUONI ESTRATI, ZERO AZIONI: SALVINI SMENDE LO STOP AI FONDI PER IL PIANO CASA",
     "lead_preview": "Il 25 marzo, Massimo Pasquini, attivista per il diritto alla casa, ha pubblicato un post su un blog del Fatto Quotidiano",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "71904b69717dd973",
-    "slug": "trump-si-rivolge-alliran-collaboreremo-per-rimuove-71904b69717dd973",
-    "title": "Trump si rivolge all'iran: \"collaboreremo per rimuovere tutta la polvere nucleare\"",
-    "section": "esteri",
-    "priority": 6,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-08T12:28:32.641180+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/6/8f5b779ddbe29eb4eabb4e4f0a1b836e.jpg",
-    "occhiello": "TRUMP SI RIVOLGE ALL'IRAN: \"COLLABOREREMO PER RIMUOVERE TUTTA LA POLVERE NUCLEARE\"",
-    "lead_preview": "Donald Trump, ex presidente degli Stati Uniti, ha annunciato di voler collaborare con l'Iran per rimuovere la capacità n",
     "tags": [],
     "hero_eligible": true
   },
