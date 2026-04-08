@@ -1,5 +1,24 @@
 [
   {
+    "id": "c81955374998c7f6",
+    "slug": "nel-2025-gli-immigrati-hanno-evitato-il-crollo-del-c81955374998c7f6",
+    "title": "Senza figli stranieri, 309mila nati: il dato choc dell'Istat",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-04-08T05:13:03.947813+00:00",
+    "image_type": "image",
+    "image_url": "https://media-assets.wired.it/photos/69d502009cb959b48970a2bc/16:9/w_1280,c_limit/1089841888",
+    "occhiello": "49MILA BEBÈ IN PIÙ GRAZIE AGLI IMMIGRATI",
+    "lead_preview": "L'Istat ha certificato l'8 aprile 2026 che senza i figli nati da cittadini stranieri le nascite italiane del 2025 sarebb",
+    "tags": [
+      "nascite in italia",
+      "istat 2026",
+      "immigrazione italia"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "bfc7400fbc03d5cd",
     "slug": "basket-reaves-ko-per-4-6-settimane-i-lakers-perdon-bfc7400fbc03d5cd",
     "title": "Basket: Reaves ko per 4-6 settimane, i Lakers perdono il loro secondo miglior giocatore",
@@ -431,25 +450,6 @@
     "tags": [
       "esportazioni italia",
       "vertice italia america latina"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "c81955374998c7f6",
-    "slug": "nel-2025-gli-immigrati-hanno-evitato-il-crollo-del-c81955374998c7f6",
-    "title": "Nel 2025 gli immigrati hanno evitato il crollo delle nascite in Italia di 49mila unità",
-    "section": "tecnologia",
-    "priority": 6,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-04-08T05:13:03.947813+00:00",
-    "image_type": "image",
-    "image_url": "https://media-assets.wired.it/photos/69d502009cb959b48970a2bc/16:9/w_1280,c_limit/1089841888",
-    "occhiello": "LA NATALITÀ IN ITALIA: UNA QUESTIONE DI IMMIGRAZIONE",
-    "lead_preview": "Secondo il report Istat del 2026, senza gli immigrati le nascite in Italia sarebbero crollate da 358.000 a 309.000 nel 2",
-    "tags": [
-      "natalità 2025",
-      "immigrazione e natalità",
-      "report istat 2026"
     ],
     "hero_eligible": true
   },
