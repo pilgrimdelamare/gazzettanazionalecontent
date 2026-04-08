@@ -1,5 +1,20 @@
 [
   {
+    "id": "c375a1cc5c7a9569",
+    "slug": "psg-liverpool-2-0-colpo-da-campione-c375a1cc5c7a9569",
+    "title": "Psg liverpool 2-0, colpo da campione",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-08T22:12:14.904978+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/3b5785257d4d350ad29a5c9f059af26c789f5590/skysport/it/calcio/champions-league/video/2026/04/08/1088744_1775682067144_thumb_494.0000001_1775682185884.jpg",
+    "occhiello": "PSG LIVERPOOL 2-0, COLPO DA CAMPIONE",
+    "lead_preview": "Parigi, 8 aprile 2026. Il Paris Saint-Germain batte il Liverpool 2-0 nel quarto di finale di andata di Champions League.",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "1a1355e8cbc37705",
     "slug": "cosmo-lancia-la-fonte-addio-clubbing-1a1355e8cbc37705",
     "title": "Romano cosmo vannucci lancia il suo nuovo album \"la fonte\"",
@@ -8860,24 +8875,6 @@
     "tags": [
       "oxford brookes",
       "formula student"
-    ]
-  },
-  {
-    "id": "09777a69982ed926",
-    "slug": "easyjet-blocchera-la-francia-a-pasqua-24-ore-di-sc-09777a69982ed926",
-    "title": "EasyJet: sciopero del 60% dei voli in 5 aeroporti francesi il 6 aprile",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-03T11:17:35.070657+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/25_April_2017_-_Women_photographing_the_demonstration%29_%2834168127552%29.jpg",
-    "occhiello": "",
-    "lead_preview": "Unione Sindacale del Trasporto Aereo ha proclamato uno sciopero di 24 ore per lunedì 6 aprile 2026 contro la compagnia a",
-    "tags": [
-      "sciopero easyjet",
-      "sciopero trasporto aereo",
-      "sciopero 6 aprile"
     ]
   }
 ]
