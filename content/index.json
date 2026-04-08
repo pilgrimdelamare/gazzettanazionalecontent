@@ -1,5 +1,20 @@
 [
   {
+    "id": "e76d1b1a3f2785c0",
+    "slug": "il-ministero-del-mincio-rinuncia-e76d1b1a3f2785c0",
+    "title": "Il ministero della Cultura ha rinunciato a impedire la riemissione del documenta",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-08T13:15:48.202650+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2022/07/14/med-1200x630-16.jpg",
+    "occhiello": "",
+    "lead_preview": "Il ministero della Cultura ha rinunciato a impedire la riemissione del documentario “Giulio Regeni – Tutto il male del M",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "d7e1239b923c254d",
     "slug": "kanye-west-suona-a-reggio-emilia-dopo-le-proteste-d7e1239b923c254d",
     "title": "Kanye west suona a reggio emilia dopo le proteste per le svastiche",
@@ -315,25 +330,6 @@
     "occhiello": "LA SERIE DELLE RIBELLI ADOLESCENTI DI GILEAD",
     "lead_preview": "Margaret Atwood, l’8 aprile 2026, torna con The Testaments, il sequel di The Handmaid’s Tale, in versione serie tv su Di",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "e76d1b1a3f2785c0",
-    "slug": "il-ministero-del-mincio-rinuncia-e76d1b1a3f2785c0",
-    "title": "Il ministero del Mincio rinuncia",
-    "section": "cultura",
-    "priority": 4,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-04-08T13:15:48.202650+00:00",
-    "image_type": "image",
-    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2022/07/14/med-1200x630-16.jpg",
-    "occhiello": "CINEMA ESCLUDE IL MINISTERO, NON IL PUBBLICO",
-    "lead_preview": "Il documentario “Giulio Regeni – Tutto il male del Mondo” torna in 60 sale italiane l’8 aprile 2026, dopo l’esclusione d",
-    "tags": [
-      "documentario regeni",
-      "ministero cultura",
-      "finanziamento cinema"
-    ],
     "hero_eligible": true
   },
   {
