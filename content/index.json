@@ -1,5 +1,24 @@
 [
   {
+    "id": "eac6693fb6e9694c",
+    "slug": "ellekappa-cancella-lafrica-in-una-vignetta-su-repu-eac6693fb6e9694c",
+    "title": "38Mila condivisioni in 12 ore per la vignetta che cancella l'Africa da Repubblica",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-04-07T22:40:55.600444+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/07/195700769-9dc03208-e72a-42c0-b187-80d1077b0313.jpg",
+    "occhiello": "ELLEKAPPA CANCELLA L'INTERO CONTINENTE AFRICANO",
+    "lead_preview": "38.000 Condivisioni in 12 ore per la vignetta di l'autrice pubblicata il 7 aprile 2026 su il quotidiano. Il disegno inti",
+    "tags": [
+      "vignetta repubblica",
+      "ellekappa africa",
+      "censura continente"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "0d9a9bd8d04bb892",
     "slug": "peru-treno-riattivato-a-machu-picchu-0d9a9bd8d04bb892",
     "title": "500 Milioni di dollari per risollevare Machu Picchu",
@@ -1319,25 +1338,6 @@
       "eredità caracciolo",
       "processo elkann",
       "tribunale thun"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "eac6693fb6e9694c",
-    "slug": "ellekappa-cancella-lafrica-in-una-vignetta-su-repu-eac6693fb6e9694c",
-    "title": "Ellekappa cancella l'Africa in una vignetta su Repubblica, 38mila condivisioni in 12 ore",
-    "section": "cronaca",
-    "priority": 4,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-04-07T22:40:55.600444+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/07/195700769-9dc03208-e72a-42c0-b187-80d1077b0313.jpg",
-    "occhiello": "FAR SPARIRE UNA CIVILTÀ IN UNA VIGNETTA",
-    "lead_preview": "Laura Pellegrini, in arte Ellekappa, ha pubblicato il 7 aprile 2026 una vignetta intitolata \"Far sparire una civiltà\", a",
-    "tags": [
-      "vignetta ellekappa",
-      "repubblica vignetta",
-      "cancellazione africa"
     ],
     "hero_eligible": true
   },
