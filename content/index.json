@@ -1,5 +1,20 @@
 [
   {
+    "id": "69c8caa0e1a3283b",
+    "slug": "diecimila-firme-sulla-petizione-change-69c8caa0e1a3283b",
+    "title": "Diecimila firme sulla petizione change",
+    "section": "cultura",
+    "priority": 6,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-08T09:35:10.460696+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/1/6bb9cb5309439a71ac00e56fdc718d6a.jpg",
+    "occhiello": "",
+    "lead_preview": "Diecimila firme sulla petizione change.org “Sala deserta per denunciare lo smantellamento della cultura” chiedono di boi",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "6d6a30cad18ed82d",
     "slug": "benzina-gasolio-e-voli-i-prezzi-scenderanno-ma-len-6d6a30cad18ed82d",
     "title": "Benzina, gasolio e voli: i prezzi scenderanno ma lentamente",
@@ -8908,24 +8923,6 @@
       "attacco israele libano",
       "operazione militare 2026",
       "escalation hezbollah"
-    ]
-  },
-  {
-    "id": "b7dade2d39ac0980",
-    "slug": "contrattor-con-le-chain-saws-identificato-b7dade2d39ac0980",
-    "title": "Secolo di Quercia abbattuto a Villa Borghese",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-03T06:17:12.191558+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1695591627149-666feff28d59?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxxdWVyY2lhJTIwc2Vjb2xhcmUlMjBhYmJhdHR1dGElMjBhJTIwVmlsbGElMjBCb3JnaGVzZXxlbnwwfDB8fHwxNzc1Mjc0NDI1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "FONDI SCOMPARSI DOPO IL VOTO: GROUND CONTROL ABBATTUTO QUERCIA SECOLARE A VILLA BORGHESE SENZA PERMESSI",
-    "lead_preview": "Ground Control, il contrattore privato incaricato della manutenzione del Parco di Villa Borghese a Roma, ha abbattuto se",
-    "tags": [
-      "villaborghese",
-      "abbattimentoquercia",
-      "groundcontrol"
     ]
   }
 ]
