@@ -1,5 +1,20 @@
 [
   {
+    "id": "1a1355e8cbc37705",
+    "slug": "cosmo-lancia-la-fonte-addio-clubbing-1a1355e8cbc37705",
+    "title": "Romano cosmo vannucci lancia il suo nuovo album \"la fonte\"",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-08T14:36:01.788213+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/5669e2d2077f638868b3b3cf0fdcc1f6.jpg",
+    "occhiello": "ROMANO COSMO VANNUCCI LANCIA IL SUO NUOVO ALBUM \"LA FONTE\"",
+    "lead_preview": "Il musicista Romano Cosmo Vannucci presenta \"La Fonte\", il suo nuovo album uscito in matinée, con cui dice addio al club",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "da30aac499ec6686",
     "slug": "renaud-muselier-si-candida-al-senato-francese-per-da30aac499ec6686",
     "title": "Renaud Muselier si candida al Senato francese per il seggio della Provenza",
@@ -543,21 +558,6 @@
       "crisi iran",
       "navigazione interrotta"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "1a1355e8cbc37705",
-    "slug": "cosmo-lancia-la-fonte-addio-clubbing-1a1355e8cbc37705",
-    "title": "Cosmo lancia \"la fonte\", addio clubbing",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-08T14:36:01.788213+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/5669e2d2077f638868b3b3cf0fdcc1f6.jpg",
-    "occhiello": "COSMO LANCIA \"LA FONTE\", ADDIO CLUBBING",
-    "lead_preview": "Cosmo, 8 aprile 2026. Il musicista Romano Cosmo Vannucci presenta \"La Fonte\", il suo nuovo album uscito in matinée, con ",
-    "tags": [],
     "hero_eligible": true
   },
   {
