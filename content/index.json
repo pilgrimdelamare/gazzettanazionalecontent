@@ -1,5 +1,20 @@
 [
   {
+    "id": "3fb8d1d287b5ca5b",
+    "slug": "basket-demar-derozan-mette-a-segno-45-punti-e-chic-3fb8d1d287b5ca5b",
+    "title": "Demar derozan fa la squillacciata, chicago batte washington 31-0",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-08T05:45:16.915843+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/0b5fdbc4a926482a2ef4e5e70da867e19a4d11e8/skysport/it/nba/video/2026/04/08/1088453_1775616810898_thumb_494.0000001_1775625022265.jpg",
+    "occhiello": "DEMAR DEROZAN FA LA SQUILLACCIATA, CHICAGO BATTE WASHINGTON 31-0",
+    "lead_preview": "DeMar DeRozan ha messo a segno 45 punti e ha guidato la squadra di Chicago alla vittoria nella partita contro Washington",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "38fe5898f801217d",
     "slug": "il-campo-stretto-si-annida-in-3-partiti-di-opposiz-38fe5898f801217d",
     "title": "PD, M5S e AVS, intesa 'campo stretto' per Europee",
@@ -498,25 +513,6 @@
       "basket",
       "nba",
       "boston charlotte"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "3fb8d1d287b5ca5b",
-    "slug": "basket-demar-derozan-mette-a-segno-45-punti-e-chic-3fb8d1d287b5ca5b",
-    "title": "Basket: DeMar DeRozan mette a segno 45 punti e Chicago batte Washington con 31 punti di vantaggio",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-08T05:45:16.915843+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/0b5fdbc4a926482a2ef4e5e70da867e19a4d11e8/skysport/it/nba/video/2026/04/08/1088453_1775616810898_thumb_494.0000001_1775625022265.jpg",
-    "occhiello": "WASHINGTON CHICAGO 98-129: UNA SEGNALAZIONE DURISSIMA",
-    "lead_preview": "La notizia della sera: la partita di ieri, 8 aprile 2026, ha visto la vittoria della squadra di Chicago. La partita di i",
-    "tags": [
-      "vittoria chicago",
-      "prestazione derozan",
-      "nba 2026"
     ],
     "hero_eligible": true
   },
