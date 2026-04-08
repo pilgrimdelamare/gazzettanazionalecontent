@@ -1,0 +1,57 @@
+{
+  "id": "2ee72d79d21fb5f3",
+  "slug": "noemi-nek-arisa-e-gabbani-a-meste-per-bissuola-liv-2ee72d79d21fb5f3",
+  "title": "Noemi, nek, arisa e gabbani a meste per bissuola live",
+  "titles": [
+    "NOEMI, NEK, ARISA E GABBANI A MESTE PER BISSUOLA LIVE",
+    "NOEMI, NEK, ARISA E GABBANI A MESTE PER BISSUOLA LIVE",
+    "NOEMI, NEK, ARISA E GABBANI A MESTE PER BISSUOLA LIVE"
+  ],
+  "title_winner": null,
+  "section": "cultura",
+  "occhiello": "NOEMI, NEK, ARISA E GABBANI A MESTE PER BISSUOLA LIVE",
+  "lead": "Il 11-15 giugno a Mestre si svolgerà la rassegna musicale Bissuola Live, che vedrà la partecipazione di Noemi, Nek, Arisa e Gabbani. La manifestazione è programmata per l'11-15 giugno a Mestre, in provincia di Venezia.",
+  "corpo1": "Il concerto di Bissuola Live sarà un evento di grande richiamo per gli appassionati di musica Italiana. La manifestazione sarà un'opportunità per i fan di Noemi, Nek, Arisa e Gabbani di vedere i loro idoli sul palco. Secondo ANSA, la rassegna musicale sarà tenuta a Mestre, in provincia di Venezia, il 11-15 giugno. La manifestazione sarà un evento di grande richiamo per la città e per i suoi visitatori. I quattro artisti che parteciperanno a Bissuola Live sono tutti noti per la loro musica e per la loro presenza sulle scene italiane. Noemi è una cantante e cantautrice Italiana nota per i suoi successi come \"L'amore si odia\" e \"Per tutta la vita\". Nek è un cantante e autore italiano noto per i suoi successi come \"Almeno tu nell'universo\" e \"Sei ancora qui\". Arisa è una cantante e attrice Italiana nota per i suoi successi come \"La notte è infinita\" e \"Controvento\". Gabbani è un cantante e attore italiano noto per i suoi successi come \"Occidentali's Karma\" e \"Sento (la vita è bella)\". Tutti e quattro gli artisti hanno una lunga storia di successi e hanno partecipato a varie manifestazioni musicali italiane.",
+  "corpo2": "Noemi, Nek, Arisa e Gabbani sono solo alcuni degli artisti che hanno contribuito a creare la musica Italiana contemporanea. La loro musica è stata influenzata da varie correnti musicali e ha rispecchiato i cambiamenti sociali e culturali del nostro tempo. La loro presenza sulle scene italiane è stata un fattore importante per la diffusione della musica Italiana all'estero. Tuttavia, la loro musica è anche stata criticata per la sua commercializzazione e per la mancanza di innovazione. A pagare il prezzo di questa critica saranno i fan che si aspettano una musica innovativa e autentica. Non cambierà nulla, come sempre.",
+  "journalist": {
+    "id": "laura_bianchi_01",
+    "firma": "Laura Bianchi",
+    "sezione": "cultura"
+  },
+  "published_at": "2026-04-08T11:21:45.946450+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://www.ansa.it/webimages/img_1129x635/2026/3/19/a8a276a385bcb7c763e47168b25e3bc9.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"NOEMI, NEK, ARISA E GABBANI A MESTE PER BISSUOLA LIVE\",\n  \"description\": \"Il 11-15 giugno a Mestre si svolgerà la rassegna musicale Bissuola Live, che vedrà la partecipazione di Noemi, Nek, Arisa e Gabbani. La manifestazione è programmata per l'11-15 giugno a Mestre, in provincia di Venezia.\",\n  \"articleBody\": \"Il 11-15 giugno a Mestre si svolgerà la rassegna musicale Bissuola Live, che vedrà la partecipazione di Noemi, Nek, Arisa e Gabbani. La manifestazione è programmata per l'11-15 giugno a Mestre, in provincia di Venezia. Il concerto di Bissuola Live sarà un evento di grande richiamo per gli appassionati di musica Italiana. La manifestazione sarà un'opportunità per i fan di Noemi, Nek, Arisa e Gabbani di vedere i loro idoli sul palco. Secondo ANSA, la rassegna musicale sarà tenuta a Mestre, in provincia di Venezia, il 11-15 giugno. La manifestazione sarà un evento di grande richiamo per la città e per i suoi visitatori. I quattro artisti che parteciperanno a Bissuola Live sono tutti noti per la loro musica e per la loro presenza sulle scene italiane. Noemi è una cantante e cantautrice Italiana nota per i suoi successi come \\\"L'amore si odia\\\" e \\\"Per tutta la vita\\\". Nek è un cantante e autore italiano noto per i suoi successi come \\\"Almeno tu nell'universo\\\" e \\\"Sei ancora qui\\\". Arisa è una cantante e attrice Italiana nota per i suoi successi come \\\"La notte è infinita\\\" e \\\"Controvento\\\". Gabbani è un cantante e attore italiano noto per i suoi successi come \\\"Occidentali's Karma\\\" e \\\"Sento (la vita è bella)\\\". Tutti e quattro gli artisti hanno una lunga storia di successi e hanno partecipato a varie manifestazioni musicali italiane. Noemi, Nek, Arisa e Gabbani sono solo alcuni degli artisti che hanno contribuito a creare la musica Italiana contemporanea. La loro musica è stata influenzata da varie correnti musicali e ha rispecchiato i cambiamenti sociali e culturali del nostro tempo. La loro presenza sulle scene italiane è stata un fattore importante per la diffusione della musica Italiana all'estero. Tuttavia, la loro musica è anche stata criticata per la sua commercializzazione e per la mancanza di innovazione. A pagare il prezzo di questa critica saranno i fan che si aspettano una musica innovativa e autentica. Non cambierà nulla, come sempre.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Laura Bianchi\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-08T11:21:45.946450+00:00\",\n  \"dateModified\": \"2026-04-08T11:21:45.946450+00:00\",\n  \"url\": \"https://lentemattutina.it/cultura/2ee72d79d21fb5f3\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cultura/2ee72d79d21fb5f3\"\n  },\n  \"articleSection\": \"Cultura\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.ansa.it/webimages/img_1129x635/2026/3/19/a8a276a385bcb7c763e47168b25e3bc9.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 6,
+  "source": "ANSA Cultura",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/04/08/noemi-nek-arisa-e-gabbani-a-mestre-per-bissuola-live_b51930a7-91c2-4f1f-9293-537241a30d13.html",
+  "related": [
+    {
+      "title": "Siviglia ha presentato a Roma la XXIV Biennale del Flamenco, evento dedicato all",
+      "url": "/cultura/siviglia-ha-presentato-a-roma-la-xxiv-biennale-del-45b392bab698a260",
+      "id": "45b392bab698a260",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/608ba66c30226ce53be409f1a391e1ab.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Clooney ammonisce studenti contro smantellamento della NATO",
+      "url": "/cultura/clooney-ammonisce-studenti-contro-smantellamento-d-46af55e7153188d1",
+      "id": "46af55e7153188d1",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/10/19/ff10e947d62e5397b499484fabcf8aa9.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Luigi Ghirri torna a esporre a Reggio Emilia con musica inedita fino al",
+      "url": "/cultura/luigi-ghirri-torna-a-esporre-a-reggio-emilia-con-m-de55816c4ea8a8e1",
+      "id": "de55816c4ea8a8e1",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/16b985ebfe3ad6655740df3b845b09f3.jpg",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": true
+}
