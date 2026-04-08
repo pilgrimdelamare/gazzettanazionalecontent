@@ -1,5 +1,24 @@
 [
   {
+    "id": "f9cc50c8e9514886",
+    "slug": "fano-20enne-accoltella-padre-madre-e-fratello-in-v-f9cc50c8e9514886",
+    "title": "Fano, 20enne accoltella famiglia in viale delle Rimembranze: tre feriti",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Chiara Esposito",
+    "published_at": "2026-04-07T22:43:50.445549+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/cb3eef9492942c33141fb14779ad6ffa.jpg",
+    "occhiello": "VENTENNE ACCOLTELLA TRE FAMILIARI A FANO",
+    "lead_preview": "Mohammed Rahman, 20 anni, è Stato fermato nella mattina del 7 aprile 2026 a Fano dopo aver accoltellato il padre, la mad",
+    "tags": [
+      "fano accoltellamento famiglia",
+      "feriti viale rimembranze",
+      "fermo mohammed rahman"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "0f0c804f72853ce3",
     "slug": "calcio-madueke-tenta-il-gol-olimpico-in-champions-0f0c804f72853ce3",
     "title": "Calcio: Madueke colpisce la traversa al Bernabéu, Chelsea ko nel finale",
@@ -1072,25 +1091,6 @@
     "tags": [
       "festival incanti",
       "natalia lombardo"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "f9cc50c8e9514886",
-    "slug": "fano-20enne-accoltella-padre-madre-e-fratello-in-v-f9cc50c8e9514886",
-    "title": "Fano, 20enne accoltella padre, madre e fratello in viale delle Rimembranze",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Chiara Esposito",
-    "published_at": "2026-04-07T22:43:50.445549+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/cb3eef9492942c33141fb14779ad6ffa.jpg",
-    "occhiello": "",
-    "lead_preview": "Mohammed Rahman, 20 anni, è stato arrestato a Fano nella mattina del 7 aprile 2026 dopo aver accoltellato il padre, la m",
-    "tags": [
-      "fano 20enne accoltella famiglia",
-      "omicidio familiare fano",
-      "arresto fano 2026"
     ],
     "hero_eligible": true
   },
