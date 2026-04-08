@@ -1,5 +1,22 @@
 [
   {
+    "id": "38fe5898f801217d",
+    "slug": "il-campo-stretto-si-annida-in-3-partiti-di-opposiz-38fe5898f801217d",
+    "title": "PD, M5S e AVS, intesa 'campo stretto' per Europee",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Elena Russo",
+    "published_at": "2026-04-08T05:59:31.551420+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/02/01/Giuseppe-Conte-Angelo-Bonelli-Elly-Schlein.jpg",
+    "occhiello": "",
+    "lead_preview": "Partito Democratico, Movimento 5 Stelle e Alleanza Verdi e Sinistra starebbero negoziando un’intesa di “campo stretto” c",
+    "tags": [
+      "europee 2024"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "bffc9f14131fe71d",
     "slug": "sam-altman-accusato-di-negligenza-in-7-omicidi-col-bffc9f14131fe71d",
     "title": "Sam Altman accusato di negligenza in 7 omicidi colposi legati a ChatGPT",
@@ -462,25 +479,6 @@
     "lead_preview": "Rosolina, 8 aprile 2026 - La quinta edizione del Summit del Mare - Costa Veneta Green Lab si terrà a Rosolina, nella pro",
     "tags": [
       "summit del mare"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "38fe5898f801217d",
-    "slug": "il-campo-stretto-si-annida-in-3-partiti-di-opposiz-38fe5898f801217d",
-    "title": "Il 'campo stretto' si annida in 3 partiti di opposizione",
-    "section": "politica",
-    "priority": 6,
-    "journalist_firma": "Sergio Mancini",
-    "published_at": "2026-04-08T05:59:31.551420+00:00",
-    "image_type": "image",
-    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/02/01/Giuseppe-Conte-Angelo-Bonelli-Elly-Schlein.jpg",
-    "occhiello": "OGGI IL ‘CAMPO STRETTO’ HA ELEVATO LA PRUDENZA A METODO. MA QUESTA NON È TATTICA: È DEBOLEZZA",
-    "lead_preview": "Il \"campo stretto\" si annida in Partito Democratico, Movimento 5 Stelle e Alleanza Verdi e Sinistra, essi dovrebbero rap",
-    "tags": [
-      "campo stretto",
-      "pd m5s avs",
-      "opposizione italiana"
     ],
     "hero_eligible": true
   },
