@@ -1,0 +1,57 @@
+{
+  "id": "c81955374998c7f6",
+  "slug": "nel-2025-gli-immigrati-hanno-evitato-il-crollo-del-c81955374998c7f6",
+  "title": "Nel 2025 gli immigrati hanno evitato il crollo delle nascite in Italia di 49mila unità",
+  "titles": [
+    "Nel 2025 gli immigrati hanno evitato il crollo delle nascite in Italia di 49mila unità",
+    "In Sardegna le nascite crollate del 53% dal 2000: il Sud svuotato di futuri cittadini",
+    "Senza immigrazione, nascite in Italia a 309mila: il dato choc del 2025 secondo l'Istat"
+  ],
+  "title_winner": null,
+  "section": "tecnologia",
+  "occhiello": "LA NATALITÀ IN ITALIA: UNA QUESTIONE DI IMMIGRAZIONE",
+  "lead": "Secondo il report Istat del 2026, senza gli immigrati le nascite in Italia sarebbero crollate da 358.000 a 309.000 nel 2025, con un calo di oltre 49.000 nuovi nati.",
+  "corpo1": "L'ultimo report Istat conferma il trend ormai consolidato del calo delle nascite in Italia, con dati relativi al 2025. Se si scende nel dettaglio, si scopre che ci sono regioni del Paese, in particolare nel Mezzogiorno, dove il numero delle nascite si è dimezzato rispetto all'inizio del secolo. In Sardegna, ad esempio, il calo è stato del 53,2% in un quarto di secolo, in Basilicata del 47,6% e in Puglia del 46,1%. Anche in aree delle quali il calo delle nascite è stato più contenuto, come in Trentino Alto Adige o in Emilia Romagna, siamo comunque intorno al 20% di nuovi nati in meno rispetto al 2000.",
+  "corpo2": "Secondo i dati dell'ISTAT, gli immigrati stanno contribuendo a frenare il calo delle nascite in Italia. Senza gli immigrati, il numero di nuovi nati in Italia sarebbe sceso da 358.000 a 309.000 nel 2025. Questo significa che gli immigrati hanno contribuito a ridurre il calo delle nascite di oltre 49.000 nuovi nati. La presenza degli immigrati sta dunque contribuendo a mantenere la tenuta demografica del Paese, anche se il trend generale rimane negativo. Il calo delle nascite in Italia minaccia il sistema pensionistico e sanitario, e a pagare il conto saranno, come sempre, chi non può permettersi di non pagarlo. A pagare saranno i soliti: chi non può permettersi di non pagarlo.",
+  "journalist": {
+    "id": "andrea_foti_01",
+    "firma": "Andrea Foti",
+    "sezione": "tecnologia"
+  },
+  "published_at": "2026-04-08T05:13:03.947813+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://media-assets.wired.it/photos/69d502009cb959b48970a2bc/16:9/w_1280,c_limit/1089841888",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Nel 2025 gli immigrati hanno evitato il crollo delle nascite in Italia di 49mila unità\",\n  \"description\": \"Secondo il report Istat del 2026, senza gli immigrati le nascite in Italia sarebbero crollate da 358.000 a 309.000 nel 2025, con un calo di oltre 49.000 nuovi nati.\",\n  \"articleBody\": \"Secondo il report Istat del 2026, senza gli immigrati le nascite in Italia sarebbero crollate da 358.000 a 309.000 nel 2025, con un calo di oltre 49.000 nuovi nati. L'ultimo report Istat conferma il trend ormai consolidato del calo delle nascite in Italia, con dati relativi al 2025. Se si scende nel dettaglio, si scopre che ci sono regioni del Paese, in particolare nel Mezzogiorno, dove il numero delle nascite si è dimezzato rispetto all'inizio del secolo. In Sardegna, ad esempio, il calo è stato del 53,2% in un quarto di secolo, in Basilicata del 47,6% e in Puglia del 46,1%. Anche in aree delle quali il calo delle nascite è stato più contenuto, come in Trentino Alto Adige o in Emilia Romagna, siamo comunque intorno al 20% di nuovi nati in meno rispetto al 2000. Secondo i dati dell'ISTAT, gli immigrati stanno contribuendo a frenare il calo delle nascite in Italia. Senza gli immigrati, il numero di nuovi nati in Italia sarebbe sceso da 358.000 a 309.000 nel 2025. Questo significa che gli immigrati hanno contribuito a ridurre il calo delle nascite di oltre 49.000 nuovi nati. La presenza degli immigrati sta dunque contribuendo a mantenere la tenuta demografica del Paese, anche se il trend generale rimane negativo. Il calo delle nascite in Italia minaccia il sistema pensionistico e sanitario, e a pagare il conto saranno, come sempre, chi non può permettersi di non pagarlo. A pagare saranno i soliti: chi non può permettersi di non pagarlo.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Andrea Foti\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-08T05:13:03.947813+00:00\",\n  \"dateModified\": \"2026-04-08T05:13:03.947813+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/c81955374998c7f6\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/c81955374998c7f6\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://media-assets.wired.it/photos/69d502009cb959b48970a2bc/16:9/w_1280,c_limit/1089841888\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 6,
+  "source": "Wired Italia",
+  "source_type": "competitor",
+  "original_url": "https://www.wired.it/article/natalita-in-italia-cala-istat-stranieri/",
+  "related": [
+    {
+      "title": "Wired Italia ammette: alcuni Topper sponsorizzati nella guida del",
+      "url": "/tecnologia/wired-italia-promuove-i-migliori-topper-per-matera-10c3748951f234b5",
+      "id": "10c3748951f234b5",
+      "image_url": "https://images.unsplash.com/photo-1754637890552-a9258ad0759e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxXaXJlZCUyMEl0YWxpYSUyMG1hZ2F6aW5lJTIwaGVhZHF1YXJ0ZXJzfGVufDB8MHx8fDE3NzU0MTQzMzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Wired Italia Sceglie i 5 Materassi Migliori del 2026",
+      "url": "/tecnologia/wired-italia-promuove-materassi-a-pagamento-ecco-i-81763e85761d044d",
+      "id": "81763e85761d044d",
+      "image_url": "https://images.unsplash.com/photo-1676397217532-ee3cbcc02f8c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxtYXRlcmFzc2klMjBtaWdsaW9yaSUyMDIwMjZ8ZW58MHwwfHx8MTc3NTM2MjU5MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Wired Italia testa 10 piastre a induzione portatili: ecco le migliori del 2026",
+      "url": "/tecnologia/wired-italia-le-3-migliori-piastre-a-induzione-0d6140bcf26e46cd",
+      "id": "0d6140bcf26e46cd",
+      "image_url": "https://images.unsplash.com/photo-1627380561393-52eb2a6b73a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxwb3J0YWJsZSUyMGluZHVjdGlvbiUyMGNvb2t0b3B8ZW58MHwwfHx8MTc3NTI5NzQ1NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    }
+  ],
+  "hero_eligible": true
+}
