@@ -1,5 +1,24 @@
 [
   {
+    "id": "4b01de5e08d4a303",
+    "slug": "calcio-72-dei-titolari-in-serie-a-non-convocabili-4b01de5e08d4a303",
+    "title": "Calcio: 72% dei titolari in Serie A non convocabili in Nazionale",
+    "section": "sport",
+    "priority": 7,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-08T05:27:55.068214+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/07/italia-nazionale-1.jpg",
+    "occhiello": "SERIE A: SOLO IL 28% DEI TITOLARI ERANO ITALIANI NELLA GIORNATA DI APERTURA",
+    "lead_preview": "La Serie A ha ripreso i suoi campionati con un numero impietoso di calciatori stranieri in campo: il 72% dei titolari no",
+    "tags": [
+      "serie a stranieri",
+      "nazionale calcio",
+      "calciomercato serie a"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "4274e71661cbc723",
     "slug": "compagnie-assicurative-italiane-obbligate-a-fornir-4274e71661cbc723",
     "title": "Da oggi il Cid digitale è obbligatorio per tutte le RCA in Italia",
@@ -8937,24 +8956,6 @@
       "zelensky accusa russia",
       "segreti militari teheran",
       "russia iran medio oriente"
-    ]
-  },
-  {
-    "id": "2bbb3efa53a68e37",
-    "slug": "openai-acquista-tbpn-per-controllare-il-dibattito-2bbb3efa53a68e37",
-    "title": "OpenAI compra TBPN: il talk show tech resta indipendente",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-04-03T10:41:03.042257+00:00",
-    "image_type": "flickr",
-    "image_url": "https://live.staticflickr.com/65535/54432258575_6bcdcfd6d5_b.jpg",
-    "occhiello": "OPENAI ACQUISTA TBPN, IL TALK SHOW TECH",
-    "lead_preview": "OpenAI, la società di intelligenza artificiale guidata da Sam Altman, ha ufficializzato l'acquisizione di TBPN, il popol",
-    "tags": [
-      "openai",
-      "talkshowtech",
-      "acquisizione"
     ]
   }
 ]
