@@ -1,5 +1,23 @@
 [
   {
+    "id": "c21f6b3dbe0dfb7c",
+    "slug": "sergio-parisse-entrera-nello-staff-tecnico-della-n-c21f6b3dbe0dfb7c",
+    "title": "Rugby: Parisse diventa capo allenatore della Nazionale a partire da luglio",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-08T16:30:11.114559+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/61a48d879e167cdeca771e362b65b90bc7ce5480/skysport/it/rugby/video/2026/04/08/1088543_1775653803422_thumb_494.0000001_1775657214040.jpg",
+    "occhiello": "PARISSE ALLE CANTELE ITALIANE: 694 PARTITE NEL CUORE",
+    "lead_preview": "Sergio Parisse entra nello staff tecnico della nazionale Italiana di Rugby dal 1° luglio 2026. Lo annuncia il comunicato",
+    "tags": [
+      "rugby nazionale",
+      "parisse capo allenatore"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "73d210187528ac75",
     "slug": "nessuna-critica-per-lapprovvigionamento-energetico-73d210187528ac75",
     "title": "Piemonte, 72% energia da fonti interne: «Non dipendiamo dallo stretto di Hormuz»",
@@ -323,21 +341,6 @@
     "image_url": "https://media-assets.wired.it/photos/69d664acdf894e34a4af4b1c/16:9/w_1280,c_limit/Husqvarna_Automower.jpeg",
     "occhiello": "PADOVA E VICENZA INTRODUCONO I ROBOT TAGLIAERBA PER RIDURRE IL RUMORE",
     "lead_preview": "In Italia i comuni di Padova e Vicenza utilizzano le soluzioni di Husqvarna per ridurre drasticamente il Rumore durante ",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "c21f6b3dbe0dfb7c",
-    "slug": "sergio-parisse-entrera-nello-staff-tecnico-della-n-c21f6b3dbe0dfb7c",
-    "title": "Sergio Parisse entrerà nello staff tecnico della nazionale Italiana di Rugby a p",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-08T16:30:11.114559+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/61a48d879e167cdeca771e362b65b90bc7ce5480/skysport/it/rugby/video/2026/04/08/1088543_1775653803422_thumb_494.0000001_1775657214040.jpg",
-    "occhiello": "",
-    "lead_preview": "Sergio Parisse entrerà nello staff tecnico della nazionale Italiana di Rugby a partire dal 1° luglio 2026, affiancando G",
     "tags": [],
     "hero_eligible": true
   },
