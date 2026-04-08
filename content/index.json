@@ -1,5 +1,24 @@
 [
   {
+    "id": "0f0c804f72853ce3",
+    "slug": "calcio-madueke-tenta-il-gol-olimpico-in-champions-0f0c804f72853ce3",
+    "title": "Calcio: Madueke colpisce la traversa al Bernabéu, Chelsea ko nel finale",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-07T23:26:44.053913+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/a4bd051fd1575e66ecb42767b1310bdc278a796b/skysport/it/calcio/champions-league/video/2026/04/08/1088413_1775590206604_thumb_494.0000001_1775599663833.jpg",
+    "occhiello": "MADUEKE SFIORA IL GOL OLIMPICO IN CHAMPIONS",
+    "lead_preview": "Noni Madueke, 20 anni, attaccante della squadra inglese, ha sfiorato il gol olimpico durante la partita di Champions Lea",
+    "tags": [
+      "madueke real madrid",
+      "champions league 2026",
+      "chelsea ko finale"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "25ee55331a9cd7db",
     "slug": "calcio-harry-kane-18-gol-in-29-partite-spinge-il-b-25ee55331a9cd7db",
     "title": "Calcio: Kane segna e il Bayern pareggia col Real, qualificazione in bilico",
@@ -1035,25 +1054,6 @@
     "tags": [
       "missione artemis-2",
       "astronauti iss"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "0f0c804f72853ce3",
-    "slug": "calcio-madueke-tenta-il-gol-olimpico-in-champions-0f0c804f72853ce3",
-    "title": "Calcio: Madueke tenta il gol olimpico in Champions, traversa beffarda all'8'",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-07T23:26:44.053913+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/a4bd051fd1575e66ecb42767b1310bdc278a796b/skysport/it/calcio/champions-league/video/2026/04/08/1088413_1775590206604_thumb_494.0000001_1775599663833.jpg",
-    "occhiello": "MADUEKE CI PROVA DAL CORNER, TRAVERSA",
-    "lead_preview": "Noni Madueke ha sfiorato il gol olimpico durante la partita di Champions League del 08 aprile 2026, colpendo la traversa",
-    "tags": [
-      "gol olimpico madueke",
-      "arsenal champions 2026",
-      "traversa madueke"
     ],
     "hero_eligible": true
   },
