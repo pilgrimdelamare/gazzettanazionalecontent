@@ -1,5 +1,24 @@
 [
   {
+    "id": "e76d1b1a3f2785c0",
+    "slug": "il-ministero-del-mincio-rinuncia-e76d1b1a3f2785c0",
+    "title": "Il ministero del Mincio rinuncia",
+    "section": "cultura",
+    "priority": 4,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-08T13:15:48.202650+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2022/07/14/med-1200x630-16.jpg",
+    "occhiello": "CINEMA ESCLUDE IL MINISTERO, NON IL PUBBLICO",
+    "lead_preview": "Il documentario “Giulio Regeni – Tutto il male del Mondo” torna in 60 sale italiane l’8 aprile 2026, dopo l’esclusione d",
+    "tags": [
+      "documentario regeni",
+      "ministero cultura",
+      "finanziamento cinema"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "7bf45818a591825c",
     "slug": "resort-acquista-la-casa-di-rauschenberg-a-captiva-7bf45818a591825c",
     "title": "Resort acquista la casa di rauschenberg a captiva",
@@ -8889,22 +8908,6 @@
       "miglior rookie g league",
       "sean pedulla",
       "san diego clippers"
-    ]
-  },
-  {
-    "id": "13a9ce1aa502c105",
-    "slug": "gas-ue-a-rischio-stoccaggi-sotto-il-28-il-3-aprile-13a9ce1aa502c105",
-    "title": "ACER: scorte gas UE al 27,9%",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-03T08:48:39.280285+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1714782648090-b7ddd4b9cfcd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxnYXMlMjBzdG9yYWdlJTIwZXVyb3BlfGVufDB8MHx8fDE3NzUyODAyODZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "SCARSA RISERVA DI GAS NELL'UE",
-    "lead_preview": "L'Agenzia Europea per la sicurezza dell'energia, ACER, ha diffuso i dati più recenti sulle scorte di gas nell'Unione Eur",
-    "tags": [
-      "scorte gas ue"
     ]
   }
 ]
