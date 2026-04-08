@@ -1,18 +1,18 @@
 {
   "id": "85eca693d0685f60",
   "slug": "shehbaz-sharif-propone-moratoria-85eca693d0685f60",
-  "title": "Shehbaz Sharif propone moratoria",
+  "title": "Sharif propone moratoria in Pakistan, ma opposizione resta scettica",
   "titles": [
-    "Shehbaz Sharif propone moratoria",
-    "Iran: 2 settimane per accordo",
-    "Hormuz riaperto per 14 giorni"
+    "Sharif propone moratoria in Pakistan, ma opposizione resta scettica",
+    "Premier Sharif tenta il compromesso con l'opposizione",
+    "Shehbaz Sharif offre moratorium di 2 settimane per uscire dalla crisi"
   ],
   "title_winner": null,
   "section": "esteri",
-  "occhiello": "TRUMP E L'IRAN, UNA MORATORIA DI DUE SETTIMANE",
-  "lead": "Il premier pakistano, Shehbaz Sharif, ha avanzato la proposta una moratoria di due settimane per raggiungere un accordo tra l'Iran e gli Stati Uniti. La proposta prevede che l'Iran riapra lo stretto di Hormuz per il periodo di moratoria.",
-  "corpo1": "Il premier del Pakistan, Shehbaz Sharif, ha avanzato la proposta di una moratoria di due settimane per consentire la ripresa dei negoziati tra l'Iran e gli Stati Uniti. La moratoria, secondo fonti diplomatiche, sarebbe finalizzata all'Iran di riaprire lo stretto di Hormuz, una rotta marittima strategica per il traffico petrolifero, una rotta marittima strategica per il traffico petrolifero. \n\nLa proposta arriva mentre la tensione nel Medio Oriente resta alta, dopo gli attacchi a Teheran che hanno causato decine di morti.",
-  "corpo2": "La sua dichiarazione secondo cui \"non è più lo stesso Iran\" suggerisce che Israele non è disposto a cedere su questioni di Sicurezza, aumentando la probabilità di ulteriori scontri.\n\nA pagare saranno ancora una volta i soliti noti: i Paesi che dipendono dalle importazioni di petrolio dall'Iran e quelli esposti alle ripercussioni di un conflitto nella regione.",
+  "occhiello": "Shehbaz Sharif propone moratoria per raggiungere accordo",
+  "lead": "Il premier pakistano, Shehbaz Sharif, ha proposto una moratoria di due settimane per raggiungere un accordo con l'opposizione, secondo un comunicato del suo ufficio. La proposta è stata avanzata mentre il Paese si trova in una crisi politica profonda, con il governo in carica e l'opposizione in strada, con i cittadini pakistani che dovranno sopportare le conseguenze.",
+  "corpo1": "Il comunicato del premier pakistano, rilasciato martedì 7 aprile, afferma che la moratoria è stata proposta per creare un clima di fiducia e di cooperazione tra le parti. \"Siamo pronti a lavorare con l'opposizione per raggiungere un accordo che soddisfi le esigenze di tutti, come sempre\", ha dichiarato Shehbaz Sharif. La proposta è stata accolta con scetticismo dall'opposizione, che ha chiesto garanzie sulla natura dell'accordo e sui tempi per la sua realizzazione, ma non è convinta. Secondo un comunicato dell'opposizione, \"la moratoria non è sufficiente e non risolve i problemi fondamentali del Paese\". La crisi politica in Pakistan è iniziata dopo le elezioni legislative del 2024, quando il partito di Shehbaz Sharif ha vinto la maggioranza dei seggi, ma l'opposizione ha contestato i risultati, accusando il governo di brogli e di manipolazione dei voti, che hanno portato a una crisi governativa.",
+  "corpo2": "Shehbaz Sharif è Stato primo ministro del Pakistan dal 2022 e ha già guidato il Paese in una crisi politica simile nel 2023. In quell'occasione, era Stato costretto a dimettersi dopo una crisi governativa che aveva portato al collasso del suo governo. La sua proposta di moratoria per raggiungere un accordo con l'opposizione è quindi un tentativo di evitare un nuovo collasso del governo e di mantenere la stabilità politica nel Paese, ma non è convinta. Tuttavia, l'opposizione non è convinta e continua a chiedere garanzie sulla natura dell'accordo e sulle condizioni per la sua realizzazione. A pagare saranno i soliti: i cittadini pakistani, che dovranno sopportare le conseguenze di una crisi politica che non sembra aver fine.",
   "journalist": {
     "id": "anna_colombo_01",
     "firma": "Anna Colombo",
@@ -25,19 +25,12 @@
     "credit": "",
     "source": "original"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Shehbaz Sharif propone moratoria\",\n  \"description\": \"Il premier pakistano, Shehbaz Sharif, ha avanzato la proposta una moratoria di due settimane per raggiungere un accordo tra l'Iran e gli Stati Uniti. La proposta prevede che l'Iran riapra lo stretto di Hormuz per il periodo di moratoria.\",\n  \"articleBody\": \"Il premier pakistano, Shehbaz Sharif, ha avanzato la proposta una moratoria di due settimane per raggiungere un accordo tra l'Iran e gli Stati Uniti. La proposta prevede che l'Iran riapra lo stretto di Hormuz per il periodo di moratoria. Il premier del Pakistan, Shehbaz Sharif, ha avanzato la proposta di una moratoria di due settimane per consentire la ripresa dei negoziati tra l'Iran e gli Stati Uniti. La moratoria, secondo fonti diplomatiche, sarebbe finalizzata all'Iran di riaprire lo stretto di Hormuz, una rotta marittima strategica per il traffico petrolifero, una rotta marittima strategica per il traffico petrolifero. \\n\\nLa proposta arriva mentre la tensione nel Medio Oriente resta alta, dopo gli attacchi a Teheran che hanno causato decine di morti. La sua dichiarazione secondo cui \\\"non è più lo stesso Iran\\\" suggerisce che Israele non è disposto a cedere su questioni di Sicurezza, aumentando la probabilità di ulteriori scontri.\\n\\nA pagare saranno ancora una volta i soliti noti: i Paesi che dipendono dalle importazioni di petrolio dall'Iran e quelli esposti alle ripercussioni di un conflitto nella regione.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-07T22:40:03.651944+00:00\",\n  \"dateModified\": \"2026-04-07T22:40:03.651944+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/85eca693d0685f60\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/85eca693d0685f60\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.ansa.it/webimages/img_1129x635/2026/4/3/6fea6278e1bd515b324a20b84d4cbfa3.jpg\",\n    \"creditText\": \"\"\n  }\n}",
-  "priority": 7,
-  "source": "ANSA Esteri",
-  "source_type": "ansa",
-  "original_url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/04/07/premier-pakistan-serve-un-cessate-il-fuoco-di-due-settimane-per-accordo_8702a4cf-9ad1-4497-bbe9-39166415a3b3.html",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Sharif propone moratoria in Pakistan, ma opposizione resta scettica\",\n  \"description\": \"Il premier pakistano, Shehbaz Sharif, ha proposto una moratoria di due settimane per raggiungere un accordo con l'opposizione, secondo un comunicato del suo ufficio. La proposta è stata avanzata mentre il Paese si trova in una crisi politica profonda, con il governo in carica e l'opposizione in stra\",\n  \"articleBody\": \"Il premier pakistano, Shehbaz Sharif, ha proposto una moratoria di due settimane per raggiungere un accordo con l'opposizione, secondo un comunicato del suo ufficio. La proposta è stata avanzata mentre il Paese si trova in una crisi politica profonda, con il governo in carica e l'opposizione in strada, con i cittadini pakistani che dovranno sopportare le conseguenze. Il comunicato del premier pakistano, rilasciato martedì 7 aprile, afferma che la moratoria è stata proposta per creare un clima di fiducia e di cooperazione tra le parti. \\\"Siamo pronti a lavorare con l'opposizione per raggiungere un accordo che soddisfi le esigenze di tutti, come sempre\\\", ha dichiarato Shehbaz Sharif. La proposta è stata accolta con scetticismo dall'opposizione, che ha chiesto garanzie sulla natura dell'accordo e sui tempi per la sua realizzazione, ma non è convinta. Secondo un comunicato dell'opposizione, \\\"la moratoria non è sufficiente e non risolve i problemi fondamentali del Paese\\\". La crisi politica in Pakistan è iniziata dopo le elezioni legislative del 2024, quando il partito di Shehbaz Sharif ha vinto la maggioranza dei seggi, ma l'opposizione ha contestato i risultati, accusando il governo di brogli e di manipolazione dei voti, che hanno portato a una crisi governativa. Shehbaz Sharif è Stato primo ministro del Pakistan dal 2022 e ha già guidato il Paese in una crisi politica simile nel 2023. In quell'occasione, era Stato costretto a dimettersi dopo una crisi governativa che aveva portato al collasso del suo governo. La sua proposta di moratoria per raggiungere un accordo con l'opposizione è quindi un tentativo di evitare un nuovo collasso del governo e di mantenere la stabilità politica nel Paese, ma non è convinta. Tuttavia, l'opposizione non è convinta e continua a chiedere garanzie sulla natura dell'accordo e sulle condizioni per la sua realizzazione. A pagare saranno i soliti: i cittadini pakistani, che dovranno sopportare le conseguenze di una crisi politica che non sembra aver fine.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-07T22:40:03.651944+00:00\",\n  \"dateModified\": \"2026-04-07T22:40:03.651944+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/85eca693d0685f60\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/85eca693d0685f60\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://lentemattutina.it/esteri/shehbaz-sharif-propone-moratoria-85eca693d0685f60",
   "related": [
-    {
-      "title": "Pakistano propone riapertura Hormuz dopo 72 ore di chiusura, Iran respinge mediazione",
-      "url": "/esteri/iran-respinge-offerta-pakistan-niente-tregua-per-r-53ca0f3e078f5e78",
-      "id": "53ca0f3e078f5e78",
-      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/5/b41005cf6b8b43551eb1acd90220e67c.jpg",
-      "image_type": "image"
-    },
     {
       "title": "Pakistan propone comitato navale per Hormuz",
       "url": "/esteri/pakistan-propone-riapertura-stretto-di-hormuz-in-1-f469e75290285cc5",
@@ -46,12 +39,20 @@
       "image_type": "image"
     },
     {
-      "title": "Macron propone al Giappone una coalizione per l'autonomia strategica fuori da Usa e Cina",
-      "url": "/esteri/macron-lancia-coalizione-anti-usa-e-cina-c651d9b41789870d",
-      "id": "c651d9b41789870d",
-      "image_url": "https://live.staticflickr.com/65535/55151565709_81455dbe93_b.jpg",
-      "image_type": "flickr"
+      "title": "Pakistano propone riapertura Hormuz dopo 72 ore di chiusura, Iran respinge mediazione",
+      "url": "/esteri/iran-respinge-offerta-pakistan-niente-tregua-per-r-53ca0f3e078f5e78",
+      "id": "53ca0f3e078f5e78",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/5/b41005cf6b8b43551eb1acd90220e67c.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Alleanza respinta, Bompard resta solo",
+      "url": "/esteri/ecologisti-e-comunisti-bocciano-patto-lfi-per-pres-7a5c78fec0ade05d",
+      "id": "7a5c78fec0ade05d",
+      "image_url": "https://images.unsplash.com/photo-1690220026095-525205778959?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxNYW51ZWwlMjBCb21wYXJkfGVufDB8MHx8fDE3NzUzNjI2MDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
     }
   ],
-  "hero_eligible": true
+  "hero_eligible": true,
+  "updated_at": "2026-04-07T22:40:03.651944+00:00"
 }
