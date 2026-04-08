@@ -1,5 +1,24 @@
 [
   {
+    "id": "3e364f7794c5c717",
+    "slug": "festival-inquiete-compie-10-anni-edizione-speciale-3e364f7794c5c717",
+    "title": "Festival inQuiete compie 10 anni a Roma: tre giorni di Rivolta creativa alla ex Caserma Guidoni",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-07T22:53:00.735823+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2023/9/21/f383491d7300f1d956026b9cec863ef5.jpg",
+    "occhiello": "RIVOLTA CELEBRA I 10 ANNI DEL FESTIVAL INQUIETE",
+    "lead_preview": "Il Festival inQuiete celebra dieci anni con l'edizione speciale \"Rivolta\" dal 25 al 27 settembre a Roma. Tre giorni di m",
+    "tags": [
+      "festival inquieta",
+      "roma",
+      "musica"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "46343457691c428b",
     "slug": "eddie-dalton-primo-in-classifica-con-una-canzone-s-46343457691c428b",
     "title": "Eddie Dalton lancia hit con AI: 1,2 mln di streaming in 48h",
@@ -699,25 +718,6 @@
     "tags": [
       "museo faenza",
       "art nouveau network"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "3e364f7794c5c717",
-    "slug": "festival-inquiete-compie-10-anni-edizione-speciale-3e364f7794c5c717",
-    "title": "Festival inQuiete compie 10 anni: edizione speciale a Roma dal 25 al 27 settembre",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-04-07T22:53:00.735823+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2023/9/21/f383491d7300f1d956026b9cec863ef5.jpg",
-    "occhiello": "DIECI ANNI DEL FESTIVAL INQUIETE CELEBRATI NEL 2026 CON IL TEMA RIVOLTA",
-    "lead_preview": "OCCHIELLO: Dieci anni del Festival inQuiete: il tema Rivolta celebra il decennale LEAD: Il Festival inQuiete celebra i s",
-    "tags": [
-      "festival inquiete",
-      "edizione 2026",
-      "tema rivolta"
     ],
     "hero_eligible": true
   },
