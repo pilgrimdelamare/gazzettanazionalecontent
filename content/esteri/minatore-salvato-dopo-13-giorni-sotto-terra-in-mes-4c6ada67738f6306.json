@@ -1,0 +1,57 @@
+{
+  "id": "4c6ada67738f6306",
+  "slug": "minatore-salvato-dopo-13-giorni-sotto-terra-in-mes-4c6ada67738f6306",
+  "title": "Minatore salvato dopo 13 giorni sotto terra in Messico, due ancora dispersi",
+  "titles": [
+    "Minatore salvato dopo 13 giorni sotto terra in Messico, due ancora dispersi",
+    "Julián, il miracolo nel crollo della miniera di Coahuila a 300 metri",
+    "Dopo il salvataggio in miniera, indagine aperta in Coahuila su Sicurezza"
+  ],
+  "title_winner": null,
+  "section": "esteri",
+  "occhiello": "MINATORE SALVATO DOPO TREDICI GIORNI",
+  "lead": "Un minatore messicano è stato salvato dopo tredici giorni a 300 metri di profondità in una miniera nello Stato di Coahuila, Messico. L'uomo, identificato come Julián, è stato tratto in salvo domenica scorsa dalle autorità locali. Secondo le fonti, altri due minatori sono ancora dispersi.",
+  "corpo1": "Il minatore salvato, Julián, è stato trovato domenica scorsa in una miniera a San José del Saucillo, nello Stato di Coahuila, Messico. Era Stato intrappolato a 300 metri di profondità per tredici giorni. Le autorità locali hanno confermato che l'uomo è stato tratto in salvo grazie a un'operazione di soccorso che ha coinvolto squadre di soccorritori e tecnici specializzati. Stando al comunicato ufficiale, Julián è stato trovato in buone condizioni di salute e è Stato trasportato in ospedale per ulteriori controlli. La miniera in cui è avvenuto l'incidente è gestita da una società privata. La procura generale dello Stato di Coahuila ha aperto un'indagine per determinare le cause dell'incidente.",
+  "corpo2": "Questo incidente riporta l'attenzione sulla sicurezza nelle miniere in Messico, un paese con una lunga storia di incidenti minerari mortali. Secondo i dati ufficiali, nel 2022 ci sono stati oltre 100 incidenti minerari nel paese, con 27 morti. La maggior parte degli incidenti è avvenuta in miniere di carbone e oro. L'incidente di San José del Saucillo è avvenuto in un contesto in cui il governo messicano ha promesso di aumentare la sicurezza nelle miniere e di migliorare le condizioni di lavoro per i minatori. Tuttavia, gli sforzi del governo sono stati criticati come insufficienti dalle organizzazioni sindacali e dalle famiglie delle vittime. A pagare saranno ancora una volta i lavoratori.",
+  "journalist": {
+    "id": "fabrizio_mei_01",
+    "firma": "Fabrizio Mei",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-04-08T04:09:28.651660+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/394720b43b25a302ac69eaf6862a2f94.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Minatore salvato dopo 13 giorni sotto terra in Messico, due ancora dispersi\",\n  \"description\": \"Un minatore messicano è stato salvato dopo tredici giorni a 300 metri di profondità in una miniera nello Stato di Coahuila, Messico. L'uomo, identificato come Julián, è stato tratto in salvo domenica scorsa dalle autorità locali. Secondo le fonti, altri due minatori sono ancora dispersi.\",\n  \"articleBody\": \"Un minatore messicano è stato salvato dopo tredici giorni a 300 metri di profondità in una miniera nello Stato di Coahuila, Messico. L'uomo, identificato come Julián, è stato tratto in salvo domenica scorsa dalle autorità locali. Secondo le fonti, altri due minatori sono ancora dispersi. Il minatore salvato, Julián, è stato trovato domenica scorsa in una miniera a San José del Saucillo, nello Stato di Coahuila, Messico. Era Stato intrappolato a 300 metri di profondità per tredici giorni. Le autorità locali hanno confermato che l'uomo è stato tratto in salvo grazie a un'operazione di soccorso che ha coinvolto squadre di soccorritori e tecnici specializzati. Stando al comunicato ufficiale, Julián è stato trovato in buone condizioni di salute e è Stato trasportato in ospedale per ulteriori controlli. La miniera in cui è avvenuto l'incidente è gestita da una società privata. La procura generale dello Stato di Coahuila ha aperto un'indagine per determinare le cause dell'incidente. Questo incidente riporta l'attenzione sulla sicurezza nelle miniere in Messico, un paese con una lunga storia di incidenti minerari mortali. Secondo i dati ufficiali, nel 2022 ci sono stati oltre 100 incidenti minerari nel paese, con 27 morti. La maggior parte degli incidenti è avvenuta in miniere di carbone e oro. L'incidente di San José del Saucillo è avvenuto in un contesto in cui il governo messicano ha promesso di aumentare la sicurezza nelle miniere e di migliorare le condizioni di lavoro per i minatori. Tuttavia, gli sforzi del governo sono stati criticati come insufficienti dalle organizzazioni sindacali e dalle famiglie delle vittime. A pagare saranno ancora una volta i lavoratori.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Fabrizio Mei\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-08T04:09:28.651660+00:00\",\n  \"dateModified\": \"2026-04-08T04:09:28.651660+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/4c6ada67738f6306\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/4c6ada67738f6306\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.ansa.it/webimages/img_1129x635/2026/4/8/394720b43b25a302ac69eaf6862a2f94.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 5,
+  "source": "ANSA Esteri",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/04/08/messico-minatore-salvato-dopo-tredici-giorni_ecfba5a3-f7ee-4bf5-b088-49a46402055c.html",
+  "related": [
+    {
+      "title": "Cuba, colloqui con Usa ancora a vuoto: nessun passo sulla fine del blocco",
+      "url": "/esteri/cuba-e-usa-in-nuovi-negoziati-fase-ancora-prelimin-ec9e209a41e61641",
+      "id": "ec9e209a41e61641",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2015/9/9/37dc733f180703d0a66320c5dcb9a1c5.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Astronauta canadese batte record distanza Terra: 400.203 km con Artemis II",
+      "url": "/esteri/astronauti-artemis-ii-superano-record-di-distanza-a3c0998bf7113898",
+      "id": "a3c0998bf7113898",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Jeremy_Hansen%E2%80%99s_suit_for_Artemis_II_%28jsc2023e016416%29.jpg",
+      "image_type": "wikimedia"
+    },
+    {
+      "title": "Don Carlo Giorgi celebra Pasqua a Beirut sotto esplosioni ad Ashrafieh",
+      "url": "/esteri/don-carlo-giorgi-celebra-pasqua-in-mezzo-ai-bombar-eda8213e4416e6a1",
+      "id": "eda8213e4416e6a1",
+      "image_url": "https://images.unsplash.com/photo-1568729265793-567a537c37de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxEb24lMjBDYXJsbyUyMEdpb3JnaSUyMEJlaXJ1dHxlbnwwfDB8fHwxNzc1NDEwMjM4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    }
+  ],
+  "hero_eligible": true
+}
