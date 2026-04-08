@@ -1,5 +1,24 @@
 [
   {
+    "id": "5ce5f50cb9750df3",
+    "slug": "14300-alberi-tagliati-a-roma-senza-autorizzazione-5ce5f50cb9750df3",
+    "title": "14.300 Alberi tagliati a Roma senza autorizzazione tra 2023 e",
+    "section": "giustizia",
+    "priority": 5,
+    "journalist_firma": "Silvia Greco",
+    "published_at": "2026-04-08T12:53:28.879296+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/07/23452547_small-e1775539296737-1200x630.jpg",
+    "occhiello": "14.300 ALBERI TAGLIATI A ROMA SENZA AUTORIZZAZIONE",
+    "lead_preview": "Stefano Deliperi, presidente del Gruppo di Intervento Giuridico, ha denunciato il taglio di 14.300 alberi a Roma tra il ",
+    "tags": [
+      "taglio alberi roma",
+      "deliperi",
+      "inquinamento ambientale"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "7bf45818a591825c",
     "slug": "resort-acquista-la-casa-di-rauschenberg-a-captiva-7bf45818a591825c",
     "title": "Rauschenberg Foundation vende casa-studio di Captiva a Fondo di Miami per resort luxury",
@@ -880,21 +899,6 @@
     "image_url": "https://i.guim.co.uk/img/media/4e71a4332710d75b73a3b22c8ba62a611de5401b/333_0_2915_2333/master/2915.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=833680da379373647c55232e93a689b0",
     "occhiello": "",
     "lead_preview": "Parmjit Bassi ha vinto un caso di mobbing razziale contro Network Rail il 8 aprile 2026, dopo che un collega inserì nel ",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "5ce5f50cb9750df3",
-    "slug": "14300-alberi-tagliati-a-roma-senza-autorizzazione-5ce5f50cb9750df3",
-    "title": "14.300 alberi tagliati a roma senza autorizzazione",
-    "section": "giustizia",
-    "priority": 6,
-    "journalist_firma": "Carlo Amato",
-    "published_at": "2026-04-08T12:53:28.879296+00:00",
-    "image_type": "image",
-    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/07/23452547_small-e1775539296737-1200x630.jpg",
-    "occhiello": "14.300 ALBERI TAGLIATI A ROMA SENZA AUTORIZZAZIONE",
-    "lead_preview": "Stefano Deliperi, presidente del Gruppo di Intervento Giuridico, ha denunciato il taglio di 14.300 alberi a Roma tra il ",
     "tags": [],
     "hero_eligible": true
   },
