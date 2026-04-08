@@ -1,5 +1,20 @@
 [
   {
+    "id": "73f2f0a2bb321bb6",
+    "slug": "pechino-express-in-cina-il-gioco-dellinfluenza-73f2f0a2bb321bb6",
+    "title": "Pechino express in cina: il gioco dell'influenza",
+    "section": "cultura",
+    "priority": 6,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-08T10:06:27.581190+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/303d3e7433d33dbad3bcfcabbdc24e34.jpg",
+    "occhiello": "PECHINO EXPRESS IN CINA: IL GIOCO DELL'INFLUENZA",
+    "lead_preview": "Pechino Express approda in Cina nella quinta tappa, in onda da domani esclusivamente su Sky e in streaming su Now. Il pr",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "9f8b4558c7bbaa3a",
     "slug": "bologna-e-milano-ospitano-tomlinson-9f8b4558c7bbaa3a",
     "title": "Bologna e milano ospitano tomlinson",
@@ -8905,23 +8920,6 @@
       "basket",
       "phoenix",
       "charlotte"
-    ]
-  },
-  {
-    "id": "912cad87869cb893",
-    "slug": "diga-del-liscione-60-metri-cubi-al-secondo-per-evi-912cad87869cb893",
-    "title": "60 metri cubi al secondo: la drammatica uscita d'acqua della diga del Liscione",
-    "section": "ambiente",
-    "priority": 5,
-    "journalist_firma": "Enrico Mari",
-    "published_at": "2026-04-03T06:14:11.937031+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1709131121922-028189a2c984?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxMaXNjaW9uZSUyMGRpZ2ElMjBmbG9vZHxlbnwwfDB8fHwxNzc1Mjc0Nzc5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "LA DIGA DEL LISCIONE VS IL COLLAUO",
-    "lead_preview": "La diga del Liscione ha rilasciato 60 metri cubi al secondo il 3 aprile 2026, come comunicato dal Consorzio di Bonifica,",
-    "tags": [
-      "diga del liscione",
-      "alluvione emilia"
     ]
   }
 ]
