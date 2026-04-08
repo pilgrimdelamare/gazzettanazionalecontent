@@ -1,5 +1,24 @@
 [
   {
+    "id": "a042da49b75d65ad",
+    "slug": "fondo-francese-ai-creator-stop-a-tempo-indetermina-a042da49b75d65ad",
+    "title": "Francia, bloccati 87 milioni di euro per cinema indipendente dopo minacce a valutatori",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-08T17:26:56.423769+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/30732700/pexels-photo-30732700.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "",
+    "lead_preview": "Centre national du Cinéma, 8 aprile 2026. Il Centre national du Cinéma e de l’image animée ha sospeso “sino a nuovo ordi",
+    "tags": [
+      "fondo cinema francia",
+      "cnc sospensione finanziamenti",
+      "minacce valutatori cinema"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "8fbc91782ce8e49d",
     "slug": "abodi-a-roma-8-aprile-2026-piano-sport-per-perifer-8fbc91782ce8e49d",
     "title": "Ministro abdi annuncia 50 milioni per sport per periferie",
@@ -302,25 +321,6 @@
     "occhiello": "PADOVA E VICENZA INTRODUCONO I ROBOT TAGLIAERBA PER RIDURRE IL RUMORE",
     "lead_preview": "In Italia i comuni di Padova e Vicenza utilizzano le soluzioni di Husqvarna per ridurre drasticamente il Rumore durante ",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "a042da49b75d65ad",
-    "slug": "fondo-francese-ai-creator-stop-a-tempo-indetermina-a042da49b75d65ad",
-    "title": "Fondo francese ai creator, stop a tempo indeterminato dopo minacce",
-    "section": "esteri",
-    "priority": 3,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-08T17:26:56.423769+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/30732700/pexels-photo-30732700.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "CNC CHIUDE I RUBINETTI AI CREATIVI",
-    "lead_preview": "Parigi, 8 aprile 2026. Il Centre national du Cinéma e de l’image animée ha sospeso «sino a nuovo ordine» il Fondo per i ",
-    "tags": [
-      "fondo creatori francese",
-      "cnc sospensione fondi",
-      "minacce commissione cnc"
-    ],
     "hero_eligible": true
   },
   {
