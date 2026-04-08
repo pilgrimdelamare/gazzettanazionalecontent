@@ -1,5 +1,24 @@
 [
   {
+    "id": "e55ade89186d002e",
+    "slug": "selene-biffi-lancia-ask-hakima-chatbot-per-imprend-e55ade89186d002e",
+    "title": "Selene Biffi lancia Ask Hakima, chatbot per donne imprenditrici afghane",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-04-08T04:57:08.768142+00:00",
+    "image_type": "image",
+    "image_url": "https://media-assets.wired.it/photos/69b3ed151e88d893736a7577/16:9/w_1280,c_limit/Ask%20Hakima.jpeg",
+    "occhiello": "WHATSAPP CONTRO I TALEBAN: IL BOT CHE SALVA LE IMPRENDITRICI",
+    "lead_preview": "Selene Biffi ha lanciato l'8 aprile 2026 Ask Hakima, un chatbot su WhatsApp in Dari e Pashto per aiutare le donne afghan",
+    "tags": [
+      "ask hakima",
+      "selene biffi",
+      "donne afghane"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "50a0a25b6f224361",
     "slug": "5-ragazzi-da-avignone-con-627mila-follower-su-tikt-50a0a25b6f224361",
     "title": "Geronymonstre, 480.000 euro per divulgare cultura su TikTok",
@@ -439,25 +458,6 @@
       "rassegna stampa",
       "prime pagine",
       "giornali"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "e55ade89186d002e",
-    "slug": "selene-biffi-lancia-ask-hakima-chatbot-per-imprend-e55ade89186d002e",
-    "title": "Selene Biffi lancia Ask Hakima, chatbot per imprenditrici afghane su WhatsApp in Dari e Pashto",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-04-08T04:57:08.768142+00:00",
-    "image_type": "image",
-    "image_url": "https://media-assets.wired.it/photos/69b3ed151e88d893736a7577/16:9/w_1280,c_limit/Ask%20Hakima.jpeg",
-    "occhiello": "UN CHATBOT PER LE IMPRENDITRICI AFGHANE",
-    "lead_preview": "Selene Biffi ha lanciato Ask Hakima il 8 aprile 2026, un chatbot rivolto alle donne imprenditrici in Afghanistan, access",
-    "tags": [
-      "ask hakima",
-      "selene biffi",
-      "imprenditrici afghane"
     ],
     "hero_eligible": true
   },
