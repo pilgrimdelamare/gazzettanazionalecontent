@@ -1,5 +1,20 @@
 [
   {
+    "id": "71904b69717dd973",
+    "slug": "trump-si-rivolge-alliran-collaboreremo-per-rimuove-71904b69717dd973",
+    "title": "Trump si rivolge all'iran: \"collaboreremo per rimuovere tutta la polvere nucleare\"",
+    "section": "esteri",
+    "priority": 6,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-08T12:28:32.641180+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/6/8f5b779ddbe29eb4eabb4e4f0a1b836e.jpg",
+    "occhiello": "TRUMP SI RIVOLGE ALL'IRAN: \"COLLABOREREMO PER RIMUOVERE TUTTA LA POLVERE NUCLEARE\"",
+    "lead_preview": "Donald Trump, ex presidente degli Stati Uniti, ha annunciato di voler collaborare con l'Iran per rimuovere la capacità n",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "4c6e786462265ba9",
     "slug": "romics-2026-ospiti-zerocalcare-venom-e-il-cantante-4c6e786462265ba9",
     "title": "Romics 2026: ospiti zerocalcare, venom e il cantante delle sigle",
@@ -8900,23 +8915,5 @@
     "occhiello": "GASOLIO A 3,80 NZD/L: ALLEVATORE FERMA I TRATTORI",
     "lead_preview": "James Brady, 54 anni, agricoltore a Kaipara in Nuova Zelanda, il 3 aprile 2026 ha verificato alle 4.30 che il gasolio er",
     "tags": []
-  },
-  {
-    "id": "aaee3abb89ca4794",
-    "slug": "faba-il-giocattolino-che-vuole-spegnere-gli-scherm-aaee3abb89ca4794",
-    "title": "Faba+, il giocattolo audio made in Treviso, esce a 89 euro per bambini fino a 10 anni",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-04-03T04:40:45.195946+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1553624495-5a4561343a52?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxzY3JlZW4tZnJlZSUyMGF1ZGlvJTIwdG95JTIwZm9yJTIwY2hpbGRyZW58ZW58MHwwfHx8MTc3NTI3NTk0NXww&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "FABA+, IL RACCONTASTORIE ITALIANO SENZA SCHERMO, IN VENDITA A 89 EURO",
-    "lead_preview": "Faba+, il giocattolo audio sviluppato dalla startup Faba fondata a Treviso nel 2019, è ora disponibile in vendita a 89 e",
-    "tags": [
-      "faba+",
-      "giocattolo audio",
-      "startup treviso"
-    ]
   }
 ]
