@@ -1,5 +1,20 @@
 [
   {
+    "id": "c588b29e5b95cc34",
+    "slug": "missione-navale-a-hormuz-annunciata-c588b29e5b95cc34",
+    "title": "Missione navale a hormuz annunciata",
+    "section": "esteri",
+    "priority": 6,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-08T12:51:27.077395+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/215986d3e69459135054c6946bc764f3.jpg",
+    "occhiello": "MISSIONE NAVALE A HORMUZ ANNUNCIATA",
+    "lead_preview": "Bruxelles, 8 aprile 2026 - I leader dell'Unione Europea e il Canada hanno annunciato oggi un contributo congiunto per ga",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "03d0523adb2b1e43",
     "slug": "970-milioni-bloccati-per-il-piano-casa-il-governo-03d0523adb2b1e43",
     "title": "970 Milioni bloccati per il Piano Casa, il governo nega ma i fondi non partono",
@@ -8895,24 +8910,6 @@
     "tags": [
       "pilosio tour",
       "cassa integrazione pilosio"
-    ]
-  },
-  {
-    "id": "dc8a54e14a2af927",
-    "slug": "doppio-femminicidio-a-nantes-la-richiesta-di-class-dc8a54e14a2af927",
-    "title": "Due donne uccise a Nantes, sospettato arrestato in centro psicosociale",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-03T09:27:12.244283+00:00",
-    "image_type": "flickr",
-    "image_url": "https://live.staticflickr.com/65535/55185469243_b54878c3cb_b.jpg",
-    "occhiello": "ARRESTATO IN UN CENTRO PER VULNERABILI",
-    "lead_preview": "Cédric P. Ha ucciso due donne a Nantes la mattina del 3 aprile 2026, secondo quanto riferito dal Parquet di Nantes, che ",
-    "tags": [
-      "omicidio nantes",
-      "cedric p arrestato",
-      "centro psicosociale nantes"
     ]
   }
 ]
