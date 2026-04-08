@@ -1,5 +1,24 @@
 [
   {
+    "id": "c7eb83cc7169f3ca",
+    "slug": "russia-bombarda-balabyne-in-zaporizhzhia-un-morto-c7eb83cc7169f3ca",
+    "title": "Missile russo uccide un civile a Balabyne e distrugge 6 case",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-07T22:38:22.501058+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/08/000733402-359b4e4e-bc47-49fb-a81a-46be8c0ea6b0.jpg",
+    "occhiello": "UN MORTO A BALABYNE, CASE IN FIAMME",
+    "lead_preview": "Un raid russo ha colpito il villaggio di Balabyne, nell’Oblast’ di Zaporizhzhia, uccidendo un civile e incendiando almen",
+    "tags": [
+      "attacco russo balabyne",
+      "guerra ucraina 2024",
+      "missile zaporizhzhia"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "df8066b2e21e0cfa",
     "slug": "john-lapo-e-ginevra-elkann-respinti-dal-tribunale-df8066b2e21e0cfa",
     "title": "Tribunale di Thun boccia la richiesta degli Elkann sull'eredità Caracciolo",
@@ -1450,25 +1469,6 @@
     "lead_preview": "Guido Crosetto, ministro della Difesa, ha ribadito ieri alla Camera la linea del governo sul rispetto dei Trattati inter",
     "tags": [
       "aeroporto sigonella"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "c7eb83cc7169f3ca",
-    "slug": "russia-bombarda-balabyne-in-zaporizhzhia-un-morto-c7eb83cc7169f3ca",
-    "title": "Russia bombarda Balabyne in Zaporizhzhia: un morto e case in fiamme",
-    "section": "esteri",
-    "priority": 6,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-07T22:38:22.501058+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/08/000733402-359b4e4e-bc47-49fb-a81a-46be8c0ea6b0.jpg",
-    "occhiello": "GUERRA UCRAINA - RUSSIA, LE NEWS DI OGGI. RAID RUSSO SU ZAPORIZHZHIA, UN MORTO.",
-    "lead_preview": "Un attacco russo ha colpito la zona di Zaporizhzhia, in Ucraina, causando un morto e edifici in fiamme. Il governatore u",
-    "tags": [
-      "guerra ucraina",
-      "raid zaporizhzhia",
-      "attacco russo"
     ],
     "hero_eligible": true
   },
