@@ -1,5 +1,20 @@
 [
   {
+    "id": "b7be2fa628c348e1",
+    "slug": "petrolio-sotto-100-dopo-la-tregua-in-iran-b7be2fa628c348e1",
+    "title": "Petrolio sotto 100 dopo la tregua in iran",
+    "section": "esteri",
+    "priority": 3,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-08T15:18:48.195266+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://img.lemde.fr/2026/04/08/684/0/8192/4096/644/322/60/0/4c8db45_ftp-1-an5dodpemn9u-5709226-01-06.jpg",
+    "occhiello": "PETROLIO SOTTO 100 DOPO LA TREGUA IN IRAN",
+    "lead_preview": "Parigi, 8 aprile 2026. Il ministro dell’Economia francese, Antoine Lecornu, ha dichiarato di attendersi un calo dei prez",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "74c83365c1fc3002",
     "slug": "crans-montana-8-aprile-2026-lindagato-del-comune-r-74c83365c1fc3002",
     "title": "Rossi, ex responsabile Sicurezza del Comune di Crans-Montana, arrestato per falsificazione di fatture",
@@ -8891,22 +8906,6 @@
       "rinnovo contratto bancari",
       "sindacati bancari",
       "aumento stipendi bancari"
-    ]
-  },
-  {
-    "id": "4ab545e3a211b192",
-    "slug": "cacciato-lancia-futurare-su-ilfattoquotidianoit-ta-4ab545e3a211b192",
-    "title": "Pressione fiscale al 51,4% nel 2025: record storico in italia",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Chiara Esposito",
-    "published_at": "2026-04-03T14:54:31.177948+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1758812608698-054dd4a93139?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHx0YXglMjBwcmVzc3VyZSUyMGl0YWx5fGVufDB8MHx8fDE3NzUyOTY1NTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "PRESSIONE FISCALE AL 51,4% NEL 2025: RECORD STORICO IN ITALIA",
-    "lead_preview": "Alessandro Cacciato, conduttore del nuovo format \"Futurare\" su ilfattoquotidiano.it, ha presentato i dati Istat sul fisc",
-    "tags": [
-      "manovra 2025"
     ]
   }
 ]
