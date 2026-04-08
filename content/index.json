@@ -1,5 +1,20 @@
 [
   {
+    "id": "82acd9b1eaa9799c",
+    "slug": "padova-e-vicenza-introducono-i-robot-tagliaerba-pe-82acd9b1eaa9799c",
+    "title": "Padova e vicenza introducono i robot tagliaerba per ridurre il rumore",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-04-08T17:51:02.370515+00:00",
+    "image_type": "image",
+    "image_url": "https://media-assets.wired.it/photos/69d664acdf894e34a4af4b1c/16:9/w_1280,c_limit/Husqvarna_Automower.jpeg",
+    "occhiello": "PADOVA E VICENZA INTRODUCONO I ROBOT TAGLIAERBA PER RIDURRE IL RUMORE",
+    "lead_preview": "occhiello Padova e Vicenza introducono i robot tagliaerba per ridurre il rumore lead Padova e Vicenza stanno utilizzando",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "853dcab0cba4aedc",
     "slug": "un-pariginese-con-un-tiraccio-da-90-metri-853dcab0cba4aedc",
     "title": "Calcio: Canales segna da 90 metri, Betis pareggia il Braga all'87'",
@@ -406,21 +421,6 @@
       "polemiche anpi",
       "campovolo 2025"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "82acd9b1eaa9799c",
-    "slug": "padova-e-vicenza-introducono-i-robot-tagliaerba-pe-82acd9b1eaa9799c",
-    "title": "Padova e vicenza introducono i robot tagliaerba per ridurre il rumore",
-    "section": "tecnologia",
-    "priority": 6,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-04-08T17:51:02.370515+00:00",
-    "image_type": "image",
-    "image_url": "https://media-assets.wired.it/photos/69d664acdf894e34a4af4b1c/16:9/w_1280,c_limit/Husqvarna_Automower.jpeg",
-    "occhiello": "PADOVA E VICENZA INTRODUCONO I ROBOT TAGLIAERBA PER RIDURRE IL RUMORE",
-    "lead_preview": "In Italia i comuni di Padova e Vicenza utilizzano le soluzioni di Husqvarna per ridurre drasticamente il Rumore durante ",
-    "tags": [],
     "hero_eligible": true
   },
   {
