@@ -1,5 +1,24 @@
 [
   {
+    "id": "97b781299d01cde3",
+    "slug": "sheinbaum-incontra-larry-fink-a-palazzo-nazionale-97b781299d01cde3",
+    "title": "Sheinbaum incontra Larry Fink a Palazzo Nazionale per infrastrutture strategiche",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-08T01:44:59.095951+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/f308ef35f87696680ec23474ed05086f.jpg",
+    "occhiello": "",
+    "lead_preview": "Claudia Sheinbaum ha ricevuto il 8 aprile 2026 a Città del Messico Larry Fink e i vertici dei principali fondi globali d",
+    "tags": [
+      "incontro sheinbaum fink",
+      "infrastrutture messico",
+      "fondi globali messico"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "3d42c7af62b54744",
     "slug": "tennis-alcaraz-sfida-sinner-3d42c7af62b54744",
     "title": "Tennis: Alcaraz lascia una frase in sospeso su Sinner dopo il trionfo a Montecarlo",
@@ -8912,24 +8931,6 @@
       "calcio",
       "mancato rigore",
       "val maira"
-    ]
-  },
-  {
-    "id": "a3a0b22babd065e7",
-    "slug": "direttore-di-ombre-funebri-ammette-frode-su-30-sal-a3a0b22babd065e7",
-    "title": "30 salme trattenute a Hull per mancato pagamento, scatta l'inchiesta su Bush",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-02T10:49:40.547172+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1741189127255-efa487da3555?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxmdW5lcmFsJTIwaG9tZSUyMHVuY2xhaW1lZCUyMGJvZGllc3xlbnwwfDB8fHwxNzc1MjExMTY3fDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "",
-    "lead_preview": "Robert Bush, 55 anni, direttore della funeral home Legacy di Hull, è al centro di un caso giudiziario dopo aver trattenu",
-    "tags": [
-      "salme trattenute hull",
-      "inchiesta bush",
-      "funeral home legacy"
     ]
   }
 ]
