@@ -1,0 +1,57 @@
+{
+  "id": "4f45b04f143e880a",
+  "slug": "frana-in-molise-tratto-a14-chiuso-4f45b04f143e880a",
+  "title": "Frana in molise, tratto a14 chiuso",
+  "titles": [
+    "FRANA IN MOLISE, TRATTO A14 CHIUSO",
+    "FRANA IN MOLISE, TRATTO A14 CHIUSO",
+    "FRANA IN MOLISE, TRATTO A14 CHIUSO"
+  ],
+  "title_winner": null,
+  "section": "cronaca",
+  "occhiello": "FRANA IN MOLISE, TRATTO A14 CHIUSO",
+  "lead": "Una frana ha chiuso il tratto A14 in Molise, tra Val di Sangro e Vasto Sud, obbligando a deviare i mezzi pesanti. La frana è avvenuta nella notte tra mercoledì 7 e giovedì 8 aprile 2026.",
+  "corpo1": "Nel comunicato dell'Autorità di Gestione dell'Autostrada A14, si legge che la frana è stata causata da una combinazione di fattori, tra cui la pioggia e la presenza di rocce instabili lungo la strada. Il tratto autostradale è Stato chiuso per Sicurezza e i mezzi pesanti sono stati deviati via alternative. La frana non ha causato feriti o vittime. L'Autorità di Gestione ha assicurato che i lavori di ripristino sono in corso e che il tratto autostradale sarà riaperto il più presto possibile.",
+  "corpo2": "Il tratto A14 è uno dei principali collegamenti autostradali tra il centro e il sud Italia e la chiusura ha causato gravi disagi ai viaggiatori. La frana è solo il recente episodio di una serie di eventi che hanno colpito la regione di Molise negli ultimi mesi. La regione è stata colpita da diverse frane e alluvioni, causando danni alla strade e alle città. La chiusura del tratto A14 è un ulteriore esempio della vulnerabilità delle infrastrutture stradali in Molise e sottolinea la necessità di investimenti in manutenzione e ripristino delle strade. A pagare saranno i soliti, i contribuenti che finanzieranno i lavori di ripristino e manutenzione.",
+  "journalist": {
+    "id": "roberto_neri_01",
+    "firma": "Roberto Neri",
+    "sezione": "cronaca"
+  },
+  "published_at": "2026-04-08T07:41:49.776002+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/1eccae7c5b64c180318d836149ef874d.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"FRANA IN MOLISE, TRATTO A14 CHIUSO\",\n  \"description\": \"Una frana ha chiuso il tratto A14 in Molise, tra Val di Sangro e Vasto Sud, obbligando a deviare i mezzi pesanti. La frana è avvenuta nella notte tra mercoledì 7 e giovedì 8 aprile 2026.\",\n  \"articleBody\": \"Una frana ha chiuso il tratto A14 in Molise, tra Val di Sangro e Vasto Sud, obbligando a deviare i mezzi pesanti. La frana è avvenuta nella notte tra mercoledì 7 e giovedì 8 aprile 2026. Nel comunicato dell'Autorità di Gestione dell'Autostrada A14, si legge che la frana è stata causata da una combinazione di fattori, tra cui la pioggia e la presenza di rocce instabili lungo la strada. Il tratto autostradale è Stato chiuso per Sicurezza e i mezzi pesanti sono stati deviati via alternative. La frana non ha causato feriti o vittime. L'Autorità di Gestione ha assicurato che i lavori di ripristino sono in corso e che il tratto autostradale sarà riaperto il più presto possibile. Il tratto A14 è uno dei principali collegamenti autostradali tra il centro e il sud Italia e la chiusura ha causato gravi disagi ai viaggiatori. La frana è solo il recente episodio di una serie di eventi che hanno colpito la regione di Molise negli ultimi mesi. La regione è stata colpita da diverse frane e alluvioni, causando danni alla strade e alle città. La chiusura del tratto A14 è un ulteriore esempio della vulnerabilità delle infrastrutture stradali in Molise e sottolinea la necessità di investimenti in manutenzione e ripristino delle strade. A pagare saranno i soliti, i contribuenti che finanzieranno i lavori di ripristino e manutenzione.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Roberto Neri\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-08T07:41:49.776002+00:00\",\n  \"dateModified\": \"2026-04-08T07:41:49.776002+00:00\",\n  \"url\": \"https://lentemattutina.it/cronaca/4f45b04f143e880a\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cronaca/4f45b04f143e880a\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.ansa.it/webimages/img_1129x635/2026/4/8/1eccae7c5b64c180318d836149ef874d.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 6,
+  "source": "ANSA Cronaca",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/cronaca/2026/04/08/frana-in-molise-tratto-a14-ancora-chiuso-deviati-i-mezzi-pesanti_aaecff7e-7fef-497d-9da1-622bbf64ac5f.html",
+  "related": [
+    {
+      "title": "Artemis II ha scattato le prime foto del tramonto della Terra dalla Luna a 406.000 km",
+      "url": "/cronaca/artemis-ii-ha-scattato-le-prime-foto-del-tramonto-9c2a6ad8688ccc99",
+      "id": "9c2a6ad8688ccc99",
+      "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/08/Senza-titolo.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Blocco del Golfo di Trieste: 20 mezzi petroliferi fermati alle 19:00",
+      "url": "/cronaca/blocco-oleodotto-nel-golfo-di-trieste-rallenta-il-26caa56ce5e57255",
+      "id": "26caa56ce5e57255",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2014/6/11/b6eb925b9808969e9f617aa8b1f69711.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "38Mila condivisioni in 12 ore per la vignetta che cancella l'Africa da Repubblica",
+      "url": "/cronaca/ellekappa-cancella-lafrica-in-una-vignetta-su-repu-eac6693fb6e9694c",
+      "id": "eac6693fb6e9694c",
+      "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/07/195700769-9dc03208-e72a-42c0-b187-80d1077b0313.jpg",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": true
+}
