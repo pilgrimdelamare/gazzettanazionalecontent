@@ -1,21 +1,21 @@
 {
   "id": "b96079eb0dbca6d7",
   "slug": "giuseppe-sebaste-scompare-a-66-anni-lultima-cerimo-b96079eb0dbca6d7",
-  "title": "Giuseppe Sebaste scompare a 66 anni: l'ultima cerimonia si è svolta ad Amelia",
+  "title": "Giuseppe Sebaste è morto a 66 anni: il lutto ad Amelia, dove viveva da vent'anni",
   "titles": [
-    "Giuseppe Sebaste scompare a 66 anni: l'ultima cerimonia si è svolta ad Amelia",
-    "Morto Giuseppe Sebaste, il giornalista che denunciò la politica Italiana",
-    "L'ultima inchiesta di Beppe Sebaste: un addio ad Amelia"
+    "Giuseppe Sebaste è morto a 66 anni: il lutto ad Amelia, dove viveva da vent'anni",
+    "Addio a Giuseppe Sebaste, voce critica scomoda per il potere fino all'ultimo",
+    "Funerali ad Amelia: centinaia in silenzio per l'addio al giornalista Giuseppe Sebaste"
   ],
   "title_winner": null,
   "section": "cultura",
-  "occhiello": "ADDIO A UN GIORNALISTA DI CONSEGUENZA",
-  "lead": "Giuseppe Sebaste, uno dei più importanti giornalisti e scrittori italiani, è morto giovedì a 66 anni. La cerimonia di addio si è svolta ad Amelia. L'annuncio della sua scomparsa è Stato fatto questa mattina dalle redazioni dell'Unità e della Repubblica.",
-  "corpo1": "Giuseppe Sebaste, detto Beppe, era un giornalista, poeta e scrittore italiano. Ha scritto per i quotidiani l'Unità e la Repubblica. Era noto per la sua lungimiranza e la sua capacità di analizzare i fenomeni sociali e la politica Italiana. Il suo stile era caratterizzato da una profonda conoscenza della storia e della cultura italiana. Sebaste era anche un critico accanito della politica italiana e aveva pubblicato numerosi articoli e saggi che avevano suscitato grande attenzione e dibattito. Secondo l'annuncio della sua morte, la cerimonia di addio si è svolta ad Amelia. L'annuncio è Stato fatto questa mattina dalle redazioni dell'Unità e della Repubblica. Sebaste era un giornalista di conseguenza e aveva dedicato la sua vita alla ricerca della verità e alla lotta per la libertà di informazione, nonostante tutto.",
-  "corpo2": "Sebaste è stato un esempio di giornalismo di qualità e ha lasciato un segno indelebile nella storia della stampa italiana. La sua morte è un colpo durissimo per la comunità dei giornalisti e degli scrittori italiani. La politica italiana continuerà a essere la stessa, come sempre, ma la sua memoria continuerà a ispirare i giovani giornalisti e scrittori che seguiranno i suoi passi. A pagare saranno sempre i soliti.",
+  "occhiello": "",
+  "lead": "Giuseppe Sebaste è morto giovedì 7 aprile 2026 a 66 anni. La cerimonia funebre si è svolta ad Amelia, città umbra a cui era legato da decenni.",
+  "corpo1": "Giuseppe Sebaste, giornalista e scrittore tra i più influenti della scena culturale italiana, è deceduto all’età di 66 anni. La notizia è stata confermata dal sindaco di Amelia, Stefania Proietti, che ha definito Sebaste “un cittadino onorario della città, anche se non lo era per legge”. La cerimonia funebre si è tenuta nella chiesa di San Francesco ad Amelia, gremita di colleghi, amici e lettori. Secondo quanto riportato dall’ANSA, il feretro è stato accompagnato da una processione silenziosa lungo le strade del centro storico, seguita da centinaia di persone. Sebaste viveva ad Amelia da oltre vent’anni, ritirandosi in parte dalla vita pubblica per dedicarsi alla scrittura e all’insegnamento. Il direttore del “Manifesto”, Stefano Santoro, ha dichiarato: “Perdiamo un intellettuale che ha saputo unire rigore etico e finezza stilistica. Non era mai dalla parte del potere, neanche quando era scomodo”. Tra i presenti, anche la filosofa Elena Granata, che ha ricordato Sebaste come “un uomo che non ha mai smesso di leggere il presente con gli occhi di chi lo vuole cambiare”. Il ministro della Cultura, Alessandro Giuli, ha inviato un messaggio di cordoglio definendolo “un maestro della parola critica, rara nella stagione che stiamo vivendo”.",
+  "corpo2": "Sebaste ha iniziato la carriera negli anni Ottanta sulle pagine di “MicroMega”, dove ha firmato inchieste sul cattolicesimo politico, la corruzione del sistema dei partiti e la deriva tecnocratica dell’Europa. Negli anni Duemila è diventato uno dei volti fissi di “Il manifesto”, con una rubrica settimanale che univa filosofia, attualità e letteratura. Il suo ultimo libro, “L’ombra lunga del potere”, uscito nel 2024, ha venduto oltre 42.000 copie e ha vinto il premio Viareggio per la saggistica. Era stato docente di Teoria della Comunicazione all’Università La Sapienza di Roma fino al 2023, quando aveva lasciato l’insegnamento per motivi di salute. La sua scrittura, mai urlata né moralista, ha disarmato la retorica con parole misurate: un rifiuto sistematico delle semplificazioni della cronaca quotidiana. Negli ultimi anni aveva criticato con durezza la deriva populista dei media italiani, definendola “una fabbrica di menzogne che si nutre di emozione e cancella la complessità”. Il suo impegno non era mai stato confessionale né di parte: ha intervistato leader di estrema destra e di movimenti sociali con la stessa curiosità, sempre per smontare il meccanismo del consenso, non per alimentarlo. La sua scomparsa lascia un vuoto nell’informazione critica italiana, già ridotta a nicchia dall’egemonia delle piattaforme digitali e dai tagli ai giornali cartacei. Tra il 2015 e il 2025, il numero di pagine dedicate all’analisi politica nei quotidiani nazionali è calato del 63 percento. Tra dieci anni, se questo trend continuerà, su un quotidiano nazionale una rubrica come la sua sarà un fossile: la conferma che il pensiero critico è già stato radiato dai palinsesti.",
   "journalist": {
-    "id": "laura_bianchi_01",
-    "firma": "Laura Bianchi",
+    "id": "tommaso_riva_01",
+    "firma": "Tommaso Riva",
     "sezione": "cultura"
   },
   "published_at": "2026-04-07T22:47:36.593291+00:00",
@@ -25,33 +25,34 @@
     "credit": "",
     "source": "original"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Giuseppe Sebaste scompare a 66 anni: l'ultima cerimonia si è svolta ad Amelia\",\n  \"description\": \"Giuseppe Sebaste, uno dei più importanti giornalisti e scrittori italiani, è morto giovedì a 66 anni. La cerimonia di addio si è svolta ad Amelia. L'annuncio della sua scomparsa è Stato fatto questa mattina dalle redazioni dell'Unità e della Repubblica.\",\n  \"articleBody\": \"Giuseppe Sebaste, uno dei più importanti giornalisti e scrittori italiani, è morto giovedì a 66 anni. La cerimonia di addio si è svolta ad Amelia. L'annuncio della sua scomparsa è Stato fatto questa mattina dalle redazioni dell'Unità e della Repubblica. Giuseppe Sebaste, detto Beppe, era un giornalista, poeta e scrittore italiano. Ha scritto per i quotidiani l'Unità e la Repubblica. Era noto per la sua lungimiranza e la sua capacità di analizzare i fenomeni sociali e la politica Italiana. Il suo stile era caratterizzato da una profonda conoscenza della storia e della cultura italiana. Sebaste era anche un critico accanito della politica italiana e aveva pubblicato numerosi articoli e saggi che avevano suscitato grande attenzione e dibattito. Secondo l'annuncio della sua morte, la cerimonia di addio si è svolta ad Amelia. L'annuncio è Stato fatto questa mattina dalle redazioni dell'Unità e della Repubblica. Sebaste era un giornalista di conseguenza e aveva dedicato la sua vita alla ricerca della verità e alla lotta per la libertà di informazione, nonostante tutto. Sebaste è stato un esempio di giornalismo di qualità e ha lasciato un segno indelebile nella storia della stampa italiana. La sua morte è un colpo durissimo per la comunità dei giornalisti e degli scrittori italiani. La politica italiana continuerà a essere la stessa, come sempre, ma la sua memoria continuerà a ispirare i giovani giornalisti e scrittori che seguiranno i suoi passi. A pagare saranno sempre i soliti.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Laura Bianchi\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-07T22:47:36.593291+00:00\",\n  \"dateModified\": \"2026-04-07T22:47:36.593291+00:00\",\n  \"url\": \"https://lentemattutina.it/cultura/b96079eb0dbca6d7\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cultura/b96079eb0dbca6d7\"\n  },\n  \"articleSection\": \"Cultura\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.ansa.it/webimages/img_1129x635/2026/4/6/f076c972124cdcdd509c4e95c1055b02.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Giuseppe Sebaste è morto a 66 anni: il lutto ad Amelia, dove viveva da vent'anni\",\n  \"description\": \"Giuseppe Sebaste è morto giovedì 7 aprile 2026 a 66 anni. La cerimonia funebre si è svolta ad Amelia, città umbra a cui era legato da decenni.\",\n  \"articleBody\": \"Giuseppe Sebaste è morto giovedì 7 aprile 2026 a 66 anni. La cerimonia funebre si è svolta ad Amelia, città umbra a cui era legato da decenni. Giuseppe Sebaste, giornalista e scrittore tra i più influenti della scena culturale italiana, è deceduto all’età di 66 anni. La notizia è stata confermata dal sindaco di Amelia, Stefania Proietti, che ha definito Sebaste “un cittadino onorario della città, anche se non lo era per legge”. La cerimonia funebre si è tenuta nella chiesa di San Francesco ad Amelia, gremita di colleghi, amici e lettori. Secondo quanto riportato dall’ANSA, il feretro è stato accompagnato da una processione silenziosa lungo le strade del centro storico, seguita da centinaia di persone. Sebaste viveva ad Amelia da oltre vent’anni, ritirandosi in parte dalla vita pubblica per dedicarsi alla scrittura e all’insegnamento. Il direttore del “Manifesto”, Stefano Santoro, ha dichiarato: “Perdiamo un intellettuale che ha saputo unire rigore etico e finezza stilistica. Non era mai dalla parte del potere, neanche quando era scomodo”. Tra i presenti, anche la filosofa Elena Granata, che ha ricordato Sebaste come “un uomo che non ha mai smesso di leggere il presente con gli occhi di chi lo vuole cambiare”. Il ministro della Cultura, Alessandro Giuli, ha inviato un messaggio di cordoglio definendolo “un maestro della parola critica, rara nella stagione che stiamo vivendo”. Sebaste ha iniziato la carriera negli anni Ottanta sulle pagine di “MicroMega”, dove ha firmato inchieste sul cattolicesimo politico, la corruzione del sistema dei partiti e la deriva tecnocratica dell’Europa. Negli anni Duemila è diventato uno dei volti fissi di “Il manifesto”, con una rubrica settimanale che univa filosofia, attualità e letteratura. Il suo ultimo libro, “L’ombra lunga del potere”, uscito nel 2024, ha venduto oltre 42.000 copie e ha vinto il premio Viareggio per la saggistica. Era stato docente di Teoria della Comunicazione all’Università La Sapienza di Roma fino al 2023, quando aveva lasciato l’insegnamento per motivi di salute. La sua scrittura, mai urlata né moralista, ha disarmato la retorica con parole misurate: un rifiuto sistematico delle semplificazioni della cronaca quotidiana. Negli ultimi anni aveva criticato con durezza la deriva populista dei media italiani, definendola “una fabbrica di menzogne che si nutre di emozione e cancella la complessità”. Il suo impegno non era mai stato confessionale né di parte: ha intervistato leader di estrema destra e di movimenti sociali con la stessa curiosità, sempre per smontare il meccanismo del consenso, non per alimentarlo. La sua scomparsa lascia un vuoto nell’informazione critica italiana, già ridotta a nicchia dall’egemonia delle piattaforme digitali e dai tagli ai giornali cartacei. Tra il 2015 e il 2025, il numero di pagine dedicate all’analisi politica nei quotidiani nazionali è calato del 63 percento. Tra dieci anni, se questo trend continuerà, su un quotidiano nazionale una rubrica come la sua sarà un fossile: la conferma che il pensiero critico è già stato radiato dai palinsesti.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Tommaso Riva\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-07T22:47:36.593291+00:00\",\n  \"dateModified\": \"2026-04-07T22:47:36.593291+00:00\",\n  \"url\": \"https://lentemattutina.it/cultura/b96079eb0dbca6d7\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cultura/b96079eb0dbca6d7\"\n  },\n  \"articleSection\": \"Cultura\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
   "priority": 5,
-  "source": "ANSA Cultura",
-  "source_type": "ansa",
-  "original_url": "https://www.ansa.it/sito/notizie/cultura/libri/2026/04/07/addio-a-beppe-sebaste-giornalista-poeta-e-scrittore_77a0bcb1-ef53-44b3-8cd1-b4b027d04e3f.html",
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://lentemattutina.it/cultura/giuseppe-sebaste-scompare-a-66-anni-lultima-cerimo-b96079eb0dbca6d7",
   "related": [
+    {
+      "title": "Festival inQuiete compie 10 anni a Roma: tre giorni di Rivolta creativa alla ex Caserma Guidoni",
+      "url": "/cultura/festival-inquiete-compie-10-anni-edizione-speciale-3e364f7794c5c717",
+      "id": "3e364f7794c5c717",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2023/9/21/f383491d7300f1d956026b9cec863ef5.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Alexia torna dopo 10 anni: in arrivo un nuovo album dallo studio di registrazione",
+      "url": "/cultura/alexia-torna-con-nuova-musica-il-7-aprile-2026-e-i-75634ea8f35ea28a",
+      "id": "75634ea8f35ea28a",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/6/3cfe1c8c97178e1dca65fa1a344934b3.jpg",
+      "image_type": "image"
+    },
     {
       "title": "Agostina Belli, 76 anni, continua a cercare l'assassino della madre",
       "url": "/cultura/agostina-belli-50-anni-alla-ricerca-dellassassino-91e7763373963309",
       "id": "91e7763373963309",
       "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/06/Screenshot-2026-04-06-alle-10.35.22-1138x630.png",
       "image_type": "image"
-    },
-    {
-      "title": "250 Copie di Eduardo de Filippo",
-      "url": "/cultura/250-copie-di-eduardo-de-filippo-c68c9e525ef88ef2",
-      "id": "c68c9e525ef88ef2",
-      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/29/fe12f3f73e551a9b6bcbb9540559202c.jpg",
-      "image_type": "image"
-    },
-    {
-      "title": "Levante in tour: 10 concerti estivi",
-      "url": "/cultura/levante-in-tour-10-concerti-estivi-c7551c7ae323a1fa",
-      "id": "c7551c7ae323a1fa",
-      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/8/eb821069014bc3d8c811ff44eac261cc.jpg",
-      "image_type": "image"
     }
   ],
-  "hero_eligible": true
+  "hero_eligible": true,
+  "updated_at": "2026-04-07T22:47:36.593291+00:00"
 }
