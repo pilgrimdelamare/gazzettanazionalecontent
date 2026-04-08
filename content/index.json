@@ -1,5 +1,24 @@
 [
   {
+    "id": "b954455e88bb7915",
+    "slug": "naufragio-cutro-consulente-pm-critica-polizia-b954455e88bb7915",
+    "title": "Naufragio di Cutro: consulente pm accusa forze dell'ordine di sottovalutazione",
+    "section": "giustizia",
+    "priority": 5,
+    "journalist_firma": "Carlo Amato",
+    "published_at": "2026-04-07T22:42:32.100837+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/10/f6e9580cf5d1a7fd66073fdd2ae4c03a.jpg",
+    "occhiello": "CONSULENTE PM: POLIZIA SOTTOVALUTÒ RISCHI",
+    "lead_preview": "Claudio Tedesco, consulente del pm nel processo per il naufragio di Cutro del 7 aprile 2026, ha dichiarato in aula che l",
+    "tags": [
+      "naufragio di cutro",
+      "processo cutro",
+      "consulente pm cutro"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "d49f8102257db891",
     "slug": "pietro-calogero-morto-a-padova-d49f8102257db891",
     "title": "È morto a 91 anni Pietro Calogero, il pm del falso terrorismo del 7 aprile",
@@ -1223,23 +1242,6 @@
     "tags": [
       "treno machu picchu",
       "peru machu picchu"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "b954455e88bb7915",
-    "slug": "naufragio-cutro-consulente-pm-critica-polizia-b954455e88bb7915",
-    "title": "Naufragio Cutro: consulente pm critica polizia",
-    "section": "giustizia",
-    "priority": 6,
-    "journalist_firma": "Silvia Greco",
-    "published_at": "2026-04-07T22:42:32.100837+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/10/f6e9580cf5d1a7fd66073fdd2ae4c03a.jpg",
-    "occhiello": "NAUFRAGIO CUTRO, RITARDI E SOOTTVALUTAZIONI",
-    "lead_preview": "Cutro, 7 aprile 2026, il processo per il naufragio di Cutro ha visto il consulente del pm sottolineare \"sottovalutazioni",
-    "tags": [
-      "naufragio cutro"
     ],
     "hero_eligible": true
   },
