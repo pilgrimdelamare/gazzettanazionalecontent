@@ -1,5 +1,20 @@
 [
   {
+    "id": "0f2786aaacb0f068",
+    "slug": "federica-brignone-e-stata-ricevuta-dal-presidente-0f2786aaacb0f068",
+    "title": "Federica Brignone è stata ricevuta dal Presidente Sergio Mattarella al Quirinale",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-08T18:51:30.402083+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/b7ca8a5630e6d12f4a1ebbbf786b7000d272b550/skysport/it/altri-sport/sci/video/2026/04/08/sci-brignone-quirinale-intervista-video-1088583/brignone.jpg",
+    "occhiello": "",
+    "lead_preview": "Federica Brignone è stata ricevuta dal Presidente Sergio Mattarella al Quirinale mercoledì 8 aprile 2026, una settimana ",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "b7be2fa628c348e1",
     "slug": "petrolio-sotto-100-dopo-la-tregua-in-iran-b7be2fa628c348e1",
     "title": "Brent sotto 100 dollari dopo tregua Iran-Usa, calo del 25% da gennaio",
@@ -8863,24 +8878,6 @@
       "legalizzazione cannabis",
       "dibattito milano",
       "claudio bisio"
-    ]
-  },
-  {
-    "id": "662cd4b1d5d82bf1",
-    "slug": "ex-turbstile-guitarrista-chiesto-per-assalto-con-l-662cd4b1d5d82bf1",
-    "title": "Brady Ebert, ex Turnstile, arrestato a Los Angeles per tentato omicidio con arma da fuoco",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-03T10:42:29.650044+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1560956737-3428333ba83f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxMb3MlMjBBbmdlbGVzJTIwc2hvb3RpbmclMjBpbmNpZGVudHxlbnwwfDB8fHwxNzc1Mjk4MzA5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "EX CHITARRISTA ACCUSATO DI TENTATO OMICIDIO",
-    "lead_preview": "Brady Ebert, ex chitarrista del gruppo hardcore punk Turnstile, è accusato di tentato omicidio di secondo grado per aver",
-    "tags": [
-      "arresto brady ebert",
-      "tentato omicidio los angeles",
-      "caso turnstile"
     ]
   }
 ]
