@@ -1,5 +1,24 @@
 [
   {
+    "id": "50a0a25b6f224361",
+    "slug": "5-ragazzi-da-avignone-con-627mila-follower-su-tikt-50a0a25b6f224361",
+    "title": "5 Ragazzi da Avignone con 627mila follower su TikTok collaborano con la Biblioteca nazionale di Francia",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-04-08T04:41:34.102147+00:00",
+    "image_type": "image",
+    "image_url": "https://media-assets.wired.it/photos/69c5416d452c9c2e134959e7/16:9/w_1280,c_limit/banlieue.jpg",
+    "occhiello": "",
+    "lead_preview": "Geronymonstre, account gestito da cinque ragazzi della periferia di Avignone, ha 627.000 follower su tiktok e 360.000 Su",
+    "tags": [
+      "geronymonstre",
+      "battaglie letterarie",
+      "biblioteca nazionale francia"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "f45435a690f58ab3",
     "slug": "donne-con-long-covid-a-rischio-cardiaco-doppio-stu-f45435a690f58ab3",
     "title": "1,2 Mln donne svedesi: Covid prolungato raddoppia problemi cardiaci",
@@ -8935,22 +8954,6 @@
       "claude sonnet 4.5",
       "intelligenza artificiale",
       "emozioni simulate"
-    ]
-  },
-  {
-    "id": "4e1c1eb9a567fd5b",
-    "slug": "bridey-sotto-processo-a-creteil-per-145mila-euro-d-4e1c1eb9a567fd5b",
-    "title": "Bridey sotto processo a Créteil",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-03T09:05:04.514425+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/30391272/pexels-photo-30391272.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "BRIDEY SPESA 145 MILA EURO IN SPA E ABITI",
-    "lead_preview": "Jean-Jacques Bridey è sotto processo a Créteil da giovedì 3 aprile 2026. L'ex deputato repubblicano risponde di aver uti",
-    "tags": [
-      "processo bridey"
     ]
   }
 ]
