@@ -1,5 +1,24 @@
 [
   {
+    "id": "25ee55331a9cd7db",
+    "slug": "calcio-harry-kane-18-gol-in-29-partite-spinge-il-b-25ee55331a9cd7db",
+    "title": "Calcio: Kane segna e il Bayern pareggia col Real, qualificazione in bilico",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-07T23:26:44.886418+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/d924a37772161456e87f8179332acc95b5894fcb/skysport/it/calcio/champions-league/video/2026/04/07/1088440_1775597975433_thumb_494.0000001_1775598624514.jpg",
+    "occhiello": "",
+    "lead_preview": "Harry Kane ha dichiarato il 7 aprile 2026 che il Bayern Monaco “migliora ogni volta che gioca insieme”, commentando il p",
+    "tags": [
+      "kane bayern",
+      "real madrid bayern",
+      "champions league 2026"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "7917411389ccd926",
     "slug": "anthropic-supera-openai-fatturato-a-30-miliardi-di-7917411389ccd926",
     "title": "Anthropic supera OpenAI: 30,2 miliardi di dollari nel primo trimestre",
@@ -1016,25 +1035,6 @@
     "tags": [
       "missione artemis-2",
       "astronauti iss"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "25ee55331a9cd7db",
-    "slug": "calcio-harry-kane-18-gol-in-29-partite-spinge-il-b-25ee55331a9cd7db",
-    "title": "Calcio: Harry Kane, 18 gol in 29 partite, spinge il Bayern dopo il 1-1 col Real",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-07T23:26:44.886418+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/d924a37772161456e87f8179332acc95b5894fcb/skysport/it/calcio/champions-league/video/2026/04/07/1088440_1775597975433_thumb_494.0000001_1775598624514.jpg",
-    "occhiello": "",
-    "lead_preview": "Harry Kane ha dichiarato il 7 aprile 2026 che il Bayern Monaco \"migliora ogni volta che gioca insieme\", commentando la f",
-    "tags": [
-      "harry kane",
-      "bayern monaco",
-      "real madrid"
     ],
     "hero_eligible": true
   },
