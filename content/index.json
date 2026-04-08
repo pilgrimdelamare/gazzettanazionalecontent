@@ -1,5 +1,23 @@
 [
   {
+    "id": "3919c66551a69d05",
+    "slug": "evaso-per-triplo-omicidio-ferisce-carabiniere-e-vi-3919c66551a69d05",
+    "title": "Elìa del Grande, 38enne, catturato a Varese dopo evasione",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Chiara Esposito",
+    "published_at": "2026-04-08T14:27:16.090867+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/localirep/img/rep-milano/2026/04/08/154336820-eccd91aa-46a9-47a5-86ce-376ffe81eb35.jpg",
+    "occhiello": "EVASO PER TRIPLO OMOCIDIO FERITO CARABINIERE",
+    "lead_preview": "Elìa del Grande, 38 anni, evaso dal carcere di Alba la notte di Pasqua, è Stato rintracciato e Fermato a Varano Borghi (",
+    "tags": [
+      "evasione del grande",
+      "cattura varese"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "9b96ef2d3efca9a0",
     "slug": "tarry-guadagna-126-milioni-9b96ef2d3efca9a0",
     "title": "Jason Tarry guadagna 1,26 milioni di sterline da John Lewis dopo ricavi in ripresa",
@@ -614,25 +632,6 @@
       "blocco hormuz",
       "crisi iran",
       "navigazione interrotta"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "3919c66551a69d05",
-    "slug": "evaso-per-triplo-omicidio-ferisce-carabiniere-e-vi-3919c66551a69d05",
-    "title": "Evaso per triplo omicidio, ferisce carabiniere e viene arrestato",
-    "section": "cronaca",
-    "priority": 4,
-    "journalist_firma": "Chiara Esposito",
-    "published_at": "2026-04-08T14:27:16.090867+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/localirep/img/rep-milano/2026/04/08/154336820-eccd91aa-46a9-47a5-86ce-376ffe81eb35.jpg",
-    "occhiello": "EVASO PER TRIPLO OMICIDIO, FERISCE CARABINIERE E VIENE ARRESTATO",
-    "lead_preview": "Elìa del Grande, trentottenne evaso dal carcere di Alba a Pasqua, è Stato Fermato a Varano Borghi (Varese) mentre guidav",
-    "tags": [
-      "evaso del grande",
-      "triplo omicidio",
-      "arresto varano borghi"
     ],
     "hero_eligible": true
   },
