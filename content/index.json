@@ -1,5 +1,24 @@
 [
   {
+    "id": "9ab89f5aa1d715de",
+    "slug": "ristorante-informato-sofia-muore-lo-stesso-9ab89f5aa1d715de",
+    "title": "Sofia Di Vico, 15 anni, morta a Fregene per un dolce con noci non dichiarato",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-04-08T08:00:41.691405+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/08/sofia-di-vico-2-1200x630.jpg",
+    "occhiello": "MORTA DOPO ORDINAZIONE SENZA ALLERGENI",
+    "lead_preview": "Sofia Di Vico, 15 anni, è morta l’8 aprile 2026 sul litorale Romano per shock anafilattico dopo aver consumato un piatto",
+    "tags": [
+      "morte soffia di vico",
+      "allergia noci fregene",
+      "ristorante la pineta"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "5e065ec8a7ddd9dd",
     "slug": "calcio-arsenal-batte-sporting-1-0-a-lisbona-saka-d-5e065ec8a7ddd9dd",
     "title": "Calcio: Saka decide l'andata con un destro al 34', Arsenal vince 1-0 allo Alvalade",
@@ -1534,21 +1553,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/93f44e5ec0414cbe64eb0b4d8864f6a6.jpg",
     "occhiello": "75ENNE CONDANNATO A DUE ANNI PER L'INVESTIMENTO FATALE",
     "lead_preview": "Sara Piffer, 19enne promessa del ciclismo italiano, è morta l'8 aprile 2026 sulle strade di verona a causa dell'investim",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "9ab89f5aa1d715de",
-    "slug": "ristorante-informato-sofia-muore-lo-stesso-9ab89f5aa1d715de",
-    "title": "Ristorante informato, sofia muore lo stesso",
-    "section": "cronaca",
-    "priority": 6,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-04-08T08:00:41.691405+00:00",
-    "image_type": "image",
-    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/08/sofia-di-vico-2-1200x630.jpg",
-    "occhiello": "RISTORANTE INFORMATO, SOFIA MUORE LO STESSO",
-    "lead_preview": "Sofia Di Vico, 15 anni, è morta l'8 aprile 2026 sul litorale Romano per shock anafilattico durante una trasferta sportiv",
     "tags": [],
     "hero_eligible": true
   },
