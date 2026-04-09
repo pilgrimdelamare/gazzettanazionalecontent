@@ -1,5 +1,23 @@
 [
   {
+    "id": "38fe5898f801217d",
+    "slug": "il-campo-stretto-si-annida-in-3-partiti-di-opposiz-38fe5898f801217d",
+    "title": "PD, M5S e AVS uniscono forze per Europee",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Elena Russo",
+    "published_at": "2026-04-08T05:59:31.551420+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/02/01/Giuseppe-Conte-Angelo-Bonelli-Elly-Schlein.jpg",
+    "occhiello": "",
+    "lead_preview": "Partito Democratico, Movimento 5 Stelle e Alleanza Verdi e Sinistra starebbero negoziando un’intesa di “campo stretto” p",
+    "tags": [
+      "elezioni europee 2026",
+      "intesa pd m5s"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "bffc9f14131fe71d",
     "slug": "sam-altman-accusato-di-negligenza-in-7-omicidi-col-bffc9f14131fe71d",
     "title": "Sette morti in ospedale per diagnosi errate di ChatGPT, OpenAI sotto inchiesta",
@@ -1406,23 +1424,6 @@
       "concerto kanye west",
       "polemiche anpi",
       "campovolo 2025"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "38fe5898f801217d",
-    "slug": "il-campo-stretto-si-annida-in-3-partiti-di-opposiz-38fe5898f801217d",
-    "title": "PD, M5S e AVS, intesa 'campo stretto' per Europee",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Elena Russo",
-    "published_at": "2026-04-08T05:59:31.551420+00:00",
-    "image_type": "image",
-    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/02/01/Giuseppe-Conte-Angelo-Bonelli-Elly-Schlein.jpg",
-    "occhiello": "",
-    "lead_preview": "Partito Democratico, Movimento 5 Stelle e Alleanza Verdi e Sinistra starebbero negoziando un’intesa di “campo stretto” c",
-    "tags": [
-      "europee 2024"
     ],
     "hero_eligible": true
   },
