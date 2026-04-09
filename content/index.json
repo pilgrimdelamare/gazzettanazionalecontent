@@ -1,5 +1,24 @@
 [
   {
+    "id": "e55ade89186d002e",
+    "slug": "selene-biffi-lancia-ask-hakima-chatbot-per-imprend-e55ade89186d002e",
+    "title": "Selene Biffi lancia un chatbot in Dari e Pashto per donne imprenditrici in Afghanistan",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-04-08T04:57:08.768142+00:00",
+    "image_type": "image",
+    "image_url": "https://media-assets.wired.it/photos/69b3ed151e88d893736a7577/16:9/w_1280,c_limit/Ask%20Hakima.jpeg",
+    "occhiello": "CHATBOT IN DARI E PASHTO SU WHATSAPP",
+    "lead_preview": "Selene Biffi ha lanciato l'8 aprile 2026 Ask Hakima, un chatbot accessibile via WhatsApp in Dari e Pashto, rivolto alle ",
+    "tags": [
+      "chatbot selene biffi",
+      "donne afghanistan",
+      "ask hakima"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "1a382b2c587abb6c",
     "slug": "nel-venezuela-di-nicolas-maduro-il-vicepresidente-1a382b2c587abb6c",
     "title": "Vicepresidente elettorale del Venezuela convocato per irregolarità nei voti del",
@@ -1721,25 +1740,6 @@
     "occhiello": "NBA HIGHLIGHTS: LA LAKERS-OKLAHOMA CITY 87-123",
     "lead_preview": "OCCHIELLO Un infortunio ai muscoli addominali obliqui per Austin Reaves, il secondo miglior giocatore della squadra: i L",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "e55ade89186d002e",
-    "slug": "selene-biffi-lancia-ask-hakima-chatbot-per-imprend-e55ade89186d002e",
-    "title": "Selene Biffi lancia Ask Hakima, chatbot per donne imprenditrici afghane",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-04-08T04:57:08.768142+00:00",
-    "image_type": "image",
-    "image_url": "https://media-assets.wired.it/photos/69b3ed151e88d893736a7577/16:9/w_1280,c_limit/Ask%20Hakima.jpeg",
-    "occhiello": "WHATSAPP CONTRO I TALEBAN: IL BOT CHE SALVA LE IMPRENDITRICI",
-    "lead_preview": "Selene Biffi ha lanciato l'8 aprile 2026 Ask Hakima, un chatbot su WhatsApp in Dari e Pashto per aiutare le donne afghan",
-    "tags": [
-      "ask hakima",
-      "selene biffi",
-      "donne afghane"
-    ],
     "hero_eligible": true
   },
   {
