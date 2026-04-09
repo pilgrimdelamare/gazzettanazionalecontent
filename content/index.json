@@ -1,5 +1,20 @@
 [
   {
+    "id": "62d6b60e79a101f9",
+    "slug": "il-nome-di-orlandi-negli-epstein-files-62d6b60e79a101f9",
+    "title": "Il nome di orlandi negli epstein files",
+    "section": "economia",
+    "priority": 4,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-09T16:02:24.069457+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/09/orlandi-epstein-files.jpg",
+    "occhiello": "IL NOME DI ORLANDI NEGLI EPSTEIN FILES",
+    "lead_preview": "Emanuela Orlandi, la cittadina vaticana scomparsa a Roma il 22 giugno 1983 all’età di 15 anni, compare negli Epstein Fil",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "83e28b9f06db310a",
     "slug": "jennie-garth-lattrice-di-bh90210-rivela-tentativo-83e28b9f06db310a",
     "title": "Jennie Garth: l'attrice di BH90210 rivela tentativo di suicidio",
@@ -8984,24 +8999,6 @@
       "nomina malagò",
       "figc 2026",
       "presidenza figc"
-    ]
-  },
-  {
-    "id": "06dc65cc5176e2d4",
-    "slug": "basket-cardwell-firma-la-rimonta-dei-kings-con-due-06dc65cc5176e2d4",
-    "title": "Basket: Dylan Cardwell porta i Sacramento Kings alla vittoria",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-04T09:56:13.441812+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Sacramento_Kings_shooting_after_postponement%2C_2020-03-11.jpg",
-    "occhiello": "LA VITTORIA DEI KINGS",
-    "lead_preview": "Dylan Cardwell ha garantito la vittoria dei Sacramento Kings al Golden 1 Center di Sacramento il 4 aprile 2026.",
-    "tags": [
-      "vittoria kings",
-      "dylan cardwell",
-      "nba 2026"
     ]
   }
 ]
