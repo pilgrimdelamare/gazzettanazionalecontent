@@ -1,5 +1,24 @@
 [
   {
+    "id": "f400c8f276e3d3c1",
+    "slug": "avviato-a-firenze-il-restauro-della-testa-di-medus-f400c8f276e3d3c1",
+    "title": "Avviato a Firenze il restauro della Testa di Medusa di Giambologna con fondi pubblici e privati",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-09T16:41:25.527977+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/9/bfddd2bc6653fafbcd62a0296cf3df9a.jpg",
+    "occhiello": "AL VIA IL RESTAUR0 DELLA TESTA DI MEDUSA DEL GIAMBOLGNA",
+    "lead_preview": "Al via il restauro della Testa di Medusa del Giambologna, opera del fiammingo Jean de Boulogne, nota come Giambologna, c",
+    "tags": [
+      "restauro testa di medusa",
+      "giambologna firenze",
+      "opificio pietre dure"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "d040e94d9b074e95",
     "slug": "cannes-2026-zero-italiani-d040e94d9b074e95",
     "title": "Cannes 2026: zero italiani",
@@ -8973,24 +8992,6 @@
       "mostra pierluigi isola",
       "palazzo esposizioni roma",
       "in umbra mostra"
-    ]
-  },
-  {
-    "id": "93d7ab7a1a5b4a44",
-    "slug": "hegseth-lancia-la-grande-america-del-nord-usa-este-93d7ab7a1a5b4a44",
-    "title": "Hegseth annuncia 17.000 soldati USA da Canada a Ecuador",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-04T10:58:11.296544+00:00",
-    "image_type": "flickr",
-    "image_url": "https://live.staticflickr.com/65535/55142077377_bc0521e50a_b.jpg",
-    "occhiello": "USA: STRATEGIA DI CONTROLLO MILITARE DAL CANADA ALL'ECUADOR",
-    "lead_preview": "Pete Hegseth, il segretario della difesa degli Stati Uniti, annuncia la strategia della \"Grande America del Nord\", che p",
-    "tags": [
-      "strategia grande america del nord",
-      "hegseth soldati usa",
-      "controllo militare americhe"
     ]
   }
 ]
