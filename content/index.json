@@ -1,5 +1,23 @@
 [
   {
+    "id": "f1de044e2f6a3cec",
+    "slug": "ttf-crolla-a-43-euromwh-dopo-accordo-usa-iran-sul-f1de044e2f6a3cec",
+    "title": "Ttf crolla del 19% dopo annuncio accordo Iràn-Ua: prezzo scende a 43 euro/mWh",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-08T06:46:06.963891+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2023/3/22/4f95dcc72fbfd32c656814ab27ed08f6.jpg",
+    "occhiello": "CROLLO DEL 19% IN UNA SEDUTA",
+    "lead_preview": "Il Ttf di Amsterdam apre a 43 euro al megawattora il 2026-04-08, in calo del 19% rispetto alla seduta precedente, dopo l",
+    "tags": [
+      "ttf crolla",
+      "accordo iran ua"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c09689a5f41ae27b",
     "slug": "apple-watch-series-7-e-oltre-in-45-minuti-l80-di-c-c09689a5f41ae27b",
     "title": "Apple Watch ricarica veloce: con cavo da 20W tempo dimezzato, rivela guida Wired",
@@ -1780,25 +1798,6 @@
     "occhiello": "LA BIBLIOTECA DI FRANCIA VA A TIKTOK",
     "lead_preview": "Geronymonstre, collettivo di cinque Ragazzi di Avignone seguito da 627.000 follower su TikTok e 360.000 su Instagram, fi",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "f1de044e2f6a3cec",
-    "slug": "ttf-crolla-a-43-euromwh-dopo-accordo-usa-iran-sul-f1de044e2f6a3cec",
-    "title": "Ttf crolla a 43 euro/MWh dopo accordo Usa-Iran sul nucleare",
-    "section": "economia",
-    "priority": 6,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-04-08T06:46:06.963891+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2023/3/22/4f95dcc72fbfd32c656814ab27ed08f6.jpg",
-    "occhiello": "GAS AL MINIMO DA 18 MESI",
-    "lead_preview": "Il Ttf ad Amsterdam apre a 43 euro a megawattora, -19% in una seduta, dopo l'annuncio dell'accordo sul nucleare tra Wash",
-    "tags": [
-      "ttf crollo",
-      "accordo usa-iran",
-      "gas minimo 18 mesi"
-    ],
     "hero_eligible": true
   },
   {
