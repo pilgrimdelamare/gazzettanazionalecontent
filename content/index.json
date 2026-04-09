@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_spotify",
+    "slug": "disservizio-spotify",
+    "title": "Spotify è irraggiungibile da 16 minuti. Gli utenti italiani segnalano disservizi",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-04-09T07:09:05.959372+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/spotify.com",
+    "occhiello": "SPOTIFY IN DOWN",
+    "lead_preview": "Spotify è irraggiungibile da 16 minuti. Gli utenti italiani segnalano disservizi.",
+    "tags": [
+      "downtime",
+      "spotify",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "f33335b2f9685081",
     "slug": "basket-aaron-gordon-si-infortuna-contro-memphis-e-f33335b2f9685081",
     "title": "Basket: Aaron Gordon si infortuna contro Memphis e salta il resto della gara",
@@ -9023,23 +9042,6 @@
     "tags": [
       "levitazione conigli",
       "boero zoologia"
-    ]
-  },
-  {
-    "id": "47c033c784df142b",
-    "slug": "host-pentite-su-bookingcom-47c033c784df142b",
-    "title": "Booking.com dovra' giustificare 1.100€ per certificato medico falso",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-04T04:53:24.503283+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Disegno11.JPG",
-    "occhiello": "BOOKING.COM DOVRA' GIUSTIFICARE 1.100€ PER CERTIFICATO MEDICO FALSO",
-    "lead_preview": "Januaria Piromallo, una giovane host con sede a Roma, ha denunciato la pratica della Booking.com di obbligare le sue col",
-    "tags": [
-      "booking.com",
-      "certificato medico falso"
     ]
   }
 ]
