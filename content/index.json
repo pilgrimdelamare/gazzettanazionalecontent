@@ -1,5 +1,24 @@
 [
   {
+    "id": "42ecf0df009c2cfa",
+    "slug": "italia-schiera-fregate-e-sminatori-nel-golfo-persi-42ecf0df009c2cfa",
+    "title": "L'Ue schiera fregate italiane nel Golfo Persico per proteggere le rotte del petrolio",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-08T23:44:57.468998+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/08/225345221-bc051a32-cb96-4bac-9349-0b1938f58d93.jpg",
+    "occhiello": "ITALIA SCHIERA FREGATE E SMINATORI NEL GOLFO PERSICO PER SICUREZZA ROTTE PETROLI",
+    "lead_preview": "EUROPA SCHIERA FREGATE E SMINATORI NEL GOLOFO PERSICO. l'Unione europea ha avviato i preparativi per una missione milita",
+    "tags": [
+      "missione golfo persico",
+      "fregate italiane",
+      "sicurezza rotte petrolio"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "f717fec11ac251d3",
     "slug": "18-navi-panamensi-bloccate-senza-motivo-nei-porti-f717fec11ac251d3",
     "title": "18 Navi panamensi bloccate senza motivo nei porti cinesi, Panama convoca l'ambasciatore",
@@ -1650,25 +1669,6 @@
       "embolia milano",
       "morte mae",
       "crisi sanitaria milano"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "42ecf0df009c2cfa",
-    "slug": "italia-schiera-fregate-e-sminatori-nel-golfo-persi-42ecf0df009c2cfa",
-    "title": "Italia schiera fregate e sminatori nel Golfo Persico per Sicurezza rotte petrolifere",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-08T23:44:57.468998+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/08/225345221-bc051a32-cb96-4bac-9349-0b1938f58d93.jpg",
-    "occhiello": "",
-    "lead_preview": "L’Unione Europea ha avviato i preparativi per una missione militare nel Golfo Persico con fregate e sminatori italiani, ",
-    "tags": [
-      "missione golfo persico",
-      "sicurezza rotte petrolifere",
-      "fregate italiane"
     ],
     "hero_eligible": true
   },
