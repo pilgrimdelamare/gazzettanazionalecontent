@@ -1,5 +1,20 @@
 [
   {
+    "id": "monitor_spotify",
+    "slug": "disservizio-spotify",
+    "title": "Spotify è tornato online alle 07:40 del 9 aprile 2026, dopo un’interruzione di 4",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-04-09T07:40:11.077571+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/spotify.com",
+    "occhiello": "",
+    "lead_preview": "Spotify è tornato online alle 07:40 del 9 aprile 2026, dopo un’interruzione di 47 minuti che ha bloccato l’accesso al se",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "monitor_discord",
     "slug": "disservizio-discord",
     "title": "Discord irreachiggibile per miliardi utenti",
@@ -197,25 +212,6 @@
     "lead_preview": "Il tennista italiano Lorenzo Musetti, arrivato in finale nel 2025, subisce una pesante sconfitta al primo turno contro V",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_spotify",
-    "slug": "disservizio-spotify",
-    "title": "Spotify è tornato online dopo 47 minuti di interruzione.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-04-09T07:40:11.077571+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/spotify.com",
-    "occhiello": "SISTEMA RIATTIVATO",
-    "lead_preview": "Spotify è tornato online dopo 47 minuti di interruzione.",
-    "tags": [
-      "downtime",
-      "spotify",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "c27c8581f78c0e07",
