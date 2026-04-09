@@ -1,5 +1,23 @@
 [
   {
+    "id": "3dcdc50588f0a370",
+    "slug": "bar-dei-cesaroni-chiude-il-9-aprile-ferreri-apre-g-3dcdc50588f0a370",
+    "title": "Bar dei Cesaroni, addio il 8 aprile: Ferreri chiude dopo 15 anni",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-08T09:53:40.405095+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/08/garbatella_screen_instagram.jpg",
+    "occhiello": "",
+    "lead_preview": "Ferreri, imprenditore romano legato al Bar dei Cesaroni reso celebre dalla serie tv I Cesaroni, chiude il locale il 8 ap",
+    "tags": [
+      "bar dei cesaroni",
+      "ferreri chiude"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "46af55e7153188d1",
     "slug": "clooney-ammonisce-studenti-contro-smantellamento-d-46af55e7153188d1",
     "title": "Clooney parla a 3mila studenti a Cuneo: \"Senza NATO, la Russia avanza\"",
@@ -1211,25 +1229,6 @@
     "tags": [
       "xiaopeng motors",
       "p7+ italia"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "3dcdc50588f0a370",
-    "slug": "bar-dei-cesaroni-chiude-il-9-aprile-ferreri-apre-g-3dcdc50588f0a370",
-    "title": "Bar dei Cesaroni chiude il 9 aprile, Ferreri apre 'Garbata e Bella' a maggio",
-    "section": "cultura",
-    "priority": 6,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-04-08T09:53:40.405095+00:00",
-    "image_type": "image",
-    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/08/garbatella_screen_instagram.jpg",
-    "occhiello": "",
-    "lead_preview": "Bar dei Cesaroni, storico locale della Garbatella reso celebre dalla serie tv I Cesaroni, Chiude i battenti l’8 aprile 2",
-    "tags": [
-      "bar dei cesaroni",
-      "garbatella",
-      "i cesaroni"
     ],
     "hero_eligible": true
   },
