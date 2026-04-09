@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_spotify",
+    "slug": "disservizio-spotify",
+    "title": "Spotify è tornato online dopo 47 minuti di interruzione.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-04-09T07:40:11.077571+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/spotify.com",
+    "occhiello": "SISTEMA RIATTIVATO",
+    "lead_preview": "Spotify è tornato online dopo 47 minuti di interruzione.",
+    "tags": [
+      "downtime",
+      "spotify",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "c27c8581f78c0e07",
     "slug": "borsa-milano-apre-in-calo-dello-013-pesante-diasor-c27c8581f78c0e07",
     "title": "Borsa: milano apre in calo dello 0,13%, pesante diasorin",
@@ -104,25 +123,6 @@
     "lead_preview": "Il rendimento del titolo di Stato italiano a dieci anni è salito al 3,75% giovedì 9 aprile 2026, in apertura dei mercati",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_spotify",
-    "slug": "disservizio-spotify",
-    "title": "Spotify è irraggiungibile da 16 minuti. Gli utenti italiani segnalano disservizi",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-04-09T07:09:05.959372+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/spotify.com",
-    "occhiello": "SPOTIFY IN DOWN",
-    "lead_preview": "Spotify è irraggiungibile da 16 minuti. Gli utenti italiani segnalano disservizi.",
-    "tags": [
-      "downtime",
-      "spotify",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "f33335b2f9685081",
