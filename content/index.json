@@ -1,5 +1,20 @@
 [
   {
+    "id": "75183b1b76bfd50b",
+    "slug": "400-comuni-a-roma-per-la-sostenibilita-75183b1b76bfd50b",
+    "title": "Quattrocento Comuni protestano contro il Fondo Nazionale per la Sostenibilità a Roma",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-09T17:59:43.643554+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/9/6206e4169a3a56454a34a59b8481761a.jpg",
+    "occhiello": "",
+    "lead_preview": "Quattrocento Comuni italiani hanno partecipato il 9 aprile 2026 a Roma all’Assemblea nazionale promossa da Legambiente e",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "78590e72db826b80",
     "slug": "ostia-antica-torna-in-pubblico-fuori-dai-musei-con-78590e72db826b80",
     "title": "Ostia Antica espone 3 capolavori dai Depositi, un nuovo percorso dal 9 aprile",
@@ -239,21 +254,6 @@
       "atp monte-carlo",
       "sinner alcaraz"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "75183b1b76bfd50b",
-    "slug": "400-comuni-a-roma-per-la-sostenibilita-75183b1b76bfd50b",
-    "title": "400 comuni a roma per la sostenibilità",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-04-09T17:59:43.643554+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/9/6206e4169a3a56454a34a59b8481761a.jpg",
-    "occhiello": "400 COMUNI A ROMA PER LA SOSTENIBILITÀ",
-    "lead_preview": "Roma, 9 aprile 2026: quattrocento Comuni italiani si sono riuniti nella capitale per la quarta Assemblea nazionale della",
-    "tags": [],
     "hero_eligible": true
   },
   {
