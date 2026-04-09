@@ -1,5 +1,24 @@
 [
   {
+    "id": "9fcf10785844f87c",
+    "slug": "tim-friede-si-e-fatto-mordere-200-volte-da-serpent-9fcf10785844f87c",
+    "title": "Tim Friede si è fatto mordere 200 volte da serpenti velenosi per creare un antiveleno universale",
+    "section": "esteri",
+    "priority": 3,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-09T14:51:27.247102+00:00",
+    "image_type": "image",
+    "image_url": "https://i.guim.co.uk/img/media/8aba4a407a831807a96afc7f2afc6bb14acde3df/256_0_2560_2048/master/2560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=aa93f0fc9024ed7cdf5bb3b2af749f59",
+    "occhiello": "",
+    "lead_preview": "Tim Friede, 58 anni, è Stato Morso volontariamente da serpenti velenosi per 200 volte dal 2007 al 2026, con l’obiettivo ",
+    "tags": [
+      "antiveleno universale",
+      "tim friede",
+      "morsi serpenti"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "2c77600efbad7ece",
     "slug": "viktor-orban-sul-punto-di-cadere-solo-23-degli-ung-2c77600efbad7ece",
     "title": "Viktor Orbán sul punto di cadere: solo 23% degli ungheresi vuole uscire dall'UE",
@@ -9005,24 +9024,6 @@
       "microimprese italiane",
       "crisi pagamenti",
       "ritardi pagamenti imprese"
-    ]
-  },
-  {
-    "id": "96746a894f5b23f1",
-    "slug": "houston-distrugge-utah-con-140-punti-in-nba-96746a894f5b23f1",
-    "title": "Basket: Rockets esplosivi, 140-106 al Jazz con 24 triple al Toyota Center",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-04T06:38:00.476437+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/ToyotaCenter1.jpg",
-    "occhiello": "HOUSTON ROCKETS TRAVOLGONO UTAH JAZZ 140-106",
-    "lead_preview": "Il 4 aprile 2026, i Rockets hanno sconfitto i Jazz 140-106 al Toyota Center di Houston, Texas.",
-    "tags": [
-      "rockets jazz 2026",
-      "nba triple record",
-      "vittoria rockets"
     ]
   }
 ]
