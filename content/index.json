@@ -1,5 +1,24 @@
 [
   {
+    "id": "0aa2317e62c6fb8d",
+    "slug": "san-severo-trasforma-unedicola-in-un-teatro-da-6-p-0aa2317e62c6fb8d",
+    "title": "San Severo trasforma un'edicola in un teatro da 6 posti: record Mondiale in corso",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-09T19:41:21.701719+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/9/52d333afee32592d6b255def01614479.jpg",
+    "occhiello": "SEI POSTI A SAN SEVERO E IL GUINNESS CHIAMA",
+    "lead_preview": "San Severo, 9 aprile 2026 — Un'edicola abbandonata di cinque metri quadri nel centro storico diventa il teatro più picco",
+    "tags": [
+      "teatro più piccolo",
+      "san severo",
+      "record guinness"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c58731fbb0e94731",
     "slug": "vladimir-putin-ha-annunciato-un-cessate-il-fuoco-u-c58731fbb0e94731",
     "title": "Vladimir Putin ha annunciato un cessate il fuoco unilaterale dalle 16 del 11 apr",
@@ -8967,24 +8986,6 @@
     "tags": [
       "omicidio macerata",
       "arresto giovanni l"
-    ]
-  },
-  {
-    "id": "444517793152d157",
-    "slug": "james-marsden-e-il-nuovo-rivale-di-jon-hamm-444517793152d157",
-    "title": "James mars den e jon hamm sullo schermo netflix",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-04T12:49:26.530048+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Your_Friends_Neighbors_ALTAFIT.jpg",
-    "occhiello": "JAMES MARS DEN E JON HAMM SULLO SCHERMO NETFLIX",
-    "lead_preview": "James Marsden e Jon Hamm saranno protagonisti della seconda stagione di \"Your Friends and Neighbors\", serie streaming di",
-    "tags": [
-      "your friends and neighbors",
-      "james marsden",
-      "jon hamm"
     ]
   }
 ]
