@@ -1,5 +1,20 @@
 [
   {
+    "id": "65b3bdf786b3e771",
+    "slug": "sabato-allarena-flegrea-il-dj-francese-folamour-65b3bdf786b3e771",
+    "title": "Sabato all'arena flegrea il dj francese folamour",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-09T11:01:22.955704+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/9/1dfeb988f93834f901fa1e5e3b3631af.jpg",
+    "occhiello": "SABATO ALL'ARENA FLEGREA IL DJ FRANCESE FOLAMOUR",
+    "lead_preview": "Folamour, il dj e producer francese, sarà il protagonista del concerto di sabato 11 aprile all'Arena Flegrea di Napoli. ",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "933ddad4fa4a5754",
     "slug": "meloni-a-roma-5000-medici-promessi-ma-erano-gia-pr-933ddad4fa4a5754",
     "title": "Meloni a Roma: 5.000 medici promessi, ma erano già previsti nel",
@@ -9013,24 +9028,6 @@
       "sassuolo-cagliari 2026",
       "arbitraggio orsato",
       "serie a reggio emilia"
-    ]
-  },
-  {
-    "id": "fd221025780482d2",
-    "slug": "decreto-bollette-limita-telemkt-fd221025780482d2",
-    "title": "Dal 4 aprile stop alle chiamate energetiche: multe fino a 200mila euro per chi telefona",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-04-04T08:26:06.164625+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1645226880663-81561dcab0ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxzdG9jayUyMG1hcmtldCUyMGNoYXJ0fGVufDB8MHx8fDE3NzUzNjEzMzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "TELEMARKETING PER BOLLETTE, STOP A FREDDO",
-    "lead_preview": "Il decreto Bollette è entrato in vigore il 4 aprile 2026, che vieta quasi del tutto il telemarketing per la vendita di s",
-    "tags": [
-      "decreto bollette",
-      "telemarketing energetico",
-      "multe energia"
     ]
   }
 ]
