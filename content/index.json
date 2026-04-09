@@ -1,5 +1,24 @@
 [
   {
+    "id": "b1593f4799990f75",
+    "slug": "stellantis-valuta-uno-stabilimento-a-cassino-per-p-b1593f4799990f75",
+    "title": "Stellantis valuta apertura di nuovo stabilimento a Cassino",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-08T23:41:37.909337+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/08/232022734-8e9d065e-a604-4bb9-8c57-3027d27c5678.jpg",
+    "occhiello": "NUOVO STABILIMENTO PER IL FURGONE ELETTRICO A CASSINO?",
+    "lead_preview": "La multinazionale Stellantis valuta l'apertura di un nuovo stabilimento a Cassino per produrre il furgone elettrico T03 ",
+    "tags": [
+      "stellantis cassino",
+      "furgone elettrico t03",
+      "leapmotor italia"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "b6a5817eaf442d25",
     "slug": "leone-xiv-condanna-trump-minacce-a-iran-inaccettab-b6a5817eaf442d25",
     "title": "Papa Leone XIV condanna Trump e chiede ripresa negoziati con l'Iran a San Pietro",
@@ -1688,25 +1707,6 @@
       "diario boutigny",
       "resistenza italiana",
       "fondi resistenza"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "b1593f4799990f75",
-    "slug": "stellantis-valuta-uno-stabilimento-a-cassino-per-p-b1593f4799990f75",
-    "title": "Stellantis valuta uno stabilimento a Cassino per produrre il furgone elettrico T03 con Leapmotor",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-08T23:41:37.909337+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/08/232022734-8e9d065e-a604-4bb9-8c57-3027d27c5678.jpg",
-    "occhiello": "LEAPMOTOR A CASSINO: UNA NUOVA FABBRICA",
-    "lead_preview": "Stellantis valuta l'apertura di un nuovo stabilimento a Cassino per la collaborazione con Leapmotor. L'iniziativa sarebb",
-    "tags": [
-      "stellantis cassino",
-      "leapmotor europa",
-      "furgone elettrico t03"
     ],
     "hero_eligible": true
   },
