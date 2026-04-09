@@ -1,5 +1,23 @@
 [
   {
+    "id": "4941bce1617b1d73",
+    "slug": "agricoltura-italiana-trova-alternativa-con-metodo-4941bce1617b1d73",
+    "title": "Il CREA: +42% il prezzo dei fertilizzanti dal",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-08T15:01:38.411657+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2020/9/21/d35691f6c32773474273ba926005b4c6.jpg",
+    "occhiello": "FERTILIZZANTI +42%: IL CIBO CHE COSTAVA MENO, ORA COSTA DI PIÙ",
+    "lead_preview": "4 Aprile 2026. Il CREA ha presentato i dati aggiornati sul costo dei fertilizzanti: dal 2020 il prezzo è salito del 42%.",
+    "tags": [
+      "prezzi fertilizzanti",
+      "costo cibo"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "dd31b69c241989b5",
     "slug": "40000-pass-gratis-ma-solo-per-chi-puo-partire-dd31b69c241989b5",
     "title": "40.000 pass interrail gratuiti per 18enni",
@@ -2229,21 +2247,6 @@
       "conflitto palestinese",
       "reportage gaza"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "4941bce1617b1d73",
-    "slug": "agricoltura-italiana-trova-alternativa-con-metodo-4941bce1617b1d73",
-    "title": "Rincari fertilizzanti +42%, la demetria cresce del 19,3%",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-04-08T15:01:38.411657+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2020/9/21/d35691f6c32773474273ba926005b4c6.jpg",
-    "occhiello": "DEMETRIA RIBALTA IL MODELLO AGRICOLO",
-    "lead_preview": "Marta Levi, 2026-04-08. A Milano, durante il convegno organizzato dal CREA presso la sede del Politecnico, il metodo dem",
-    "tags": [],
     "hero_eligible": true
   },
   {
