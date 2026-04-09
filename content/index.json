@@ -1,5 +1,24 @@
 [
   {
+    "id": "82acd9b1eaa9799c",
+    "slug": "padova-e-vicenza-introducono-i-robot-tagliaerba-pe-82acd9b1eaa9799c",
+    "title": "Padova e Vicenza spendono 280mila euro per robot tagliaerba silenziosi nei parchi",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-04-08T17:51:02.370515+00:00",
+    "image_type": "image",
+    "image_url": "https://media-assets.wired.it/photos/69d664acdf894e34a4af4b1c/16:9/w_1280,c_limit/Husqvarna_Automower.jpeg",
+    "occhiello": "ROBOT TAGLIAERBA IN FUNZIONE A PADOVA",
+    "lead_preview": "Padova e Vicenza hanno introdotto i robot tagliaerba nei parchi cittadini per ridurre l’inquinamento acustico, secondo q",
+    "tags": [
+      "robot tagliaerba padova",
+      "inquinamento acustico parchi",
+      "comuni veneto 2026"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "b21743d62c9290ab",
     "slug": "gravina-scarica-il-piano-di-risanamento-b21743d62c9290ab",
     "title": "Gabriele Gravina ha pubblicato l’8 aprile 2026 la relazione sulla situazione del",
@@ -2235,21 +2254,6 @@
       "bando impianti condivisi",
       "energie rinnovabili 2026"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "82acd9b1eaa9799c",
-    "slug": "padova-e-vicenza-introducono-i-robot-tagliaerba-pe-82acd9b1eaa9799c",
-    "title": "Padova e vicenza introducono i robot tagliaerba per ridurre il rumore",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-04-08T17:51:02.370515+00:00",
-    "image_type": "image",
-    "image_url": "https://media-assets.wired.it/photos/69d664acdf894e34a4af4b1c/16:9/w_1280,c_limit/Husqvarna_Automower.jpeg",
-    "occhiello": "PADOVA E VICENZA INTRODUCONO I ROBOT TAGLIAERBA PER RIDURRE IL RUMORE",
-    "lead_preview": "occhiello Padova e Vicenza introducono i robot tagliaerba per ridurre il rumore lead Padova e Vicenza stanno utilizzando",
-    "tags": [],
     "hero_eligible": true
   },
   {
