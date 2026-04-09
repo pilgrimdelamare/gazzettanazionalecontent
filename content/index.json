@@ -1,5 +1,24 @@
 [
   {
+    "id": "03c36f005f8813cb",
+    "slug": "alexander-zverev-torna-nei-quarti-di-finale-del-ma-03c36f005f8813cb",
+    "title": "Tennis: Zverev batte l'avversario 6-4 7-5 e raggiunge i quarti a Montecarlo dopo 4 anni",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-09T16:52:53.286832+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/1977836f770f68544ee1b3d79c539621ac523dfe/skysport/it/tennis/video/2026/04/09/1088860_1775735771361_thumb_494.0000001_1775736555139.jpg",
+    "occhiello": "",
+    "lead_preview": "Alexander Zverev torna nei quarti di finale del Masters 1000 di Monte-Carlo il 9 aprile 2026, quattro anni dopo la sua u",
+    "tags": [
+      "zverev montecarlo",
+      "tennis masters 1000",
+      "quarti montecarlo 2026"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "d11ac43e02e5437f",
     "slug": "morte-cerebrale-del-12enne-risucchiato-dallidromas-d11ac43e02e5437f",
     "title": "Do dicenne risucchiato dall’idromassaggio",
@@ -241,21 +260,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1129x635/2024/10/2/a4d70ed46085ccbff500d38d8abc7798.jpg",
     "occhiello": "STOP FERROVIARIO ROMA-FIRENZE",
     "lead_preview": "Il tratto ferroviario tra Roma e Firenze sarà interrotto nel weekend del 12 e 13 aprile 2026 per lavori di potenziamento",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "03c36f005f8813cb",
-    "slug": "alexander-zverev-torna-nei-quarti-di-finale-del-ma-03c36f005f8813cb",
-    "title": "Alexander Zverev torna nei quarti di finale del Masters 1000 di Monte-Carlo il 9",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-09T16:52:53.286832+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/1977836f770f68544ee1b3d79c539621ac523dfe/skysport/it/tennis/video/2026/04/09/1088860_1775735771361_thumb_494.0000001_1775736555139.jpg",
-    "occhiello": "",
-    "lead_preview": "Alexander Zverev torna nei quarti di finale del Masters 1000 di Monte-Carlo il 9 aprile 2026 dopo quattro anni, battendo",
     "tags": [],
     "hero_eligible": true
   },
