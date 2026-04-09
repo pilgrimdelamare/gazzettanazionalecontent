@@ -1,5 +1,24 @@
 [
   {
+    "id": "f0ed8615d6d884a4",
+    "slug": "rai-fiction-produttori-tagliano-10-15-minuti-alle-f0ed8615d6d884a4",
+    "title": "Rai Fiction: produttori tagliano 10-15 minuti alle prime serate",
+    "section": "giustizia",
+    "priority": 4,
+    "journalist_firma": "Carlo Amato",
+    "published_at": "2026-04-09T03:17:32.969065+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/08/172211960-2a42006a-986a-479b-8c37-0e2bbdaafd3b.jpg",
+    "occhiello": "AMMIRATI DI RAI FICTION: \"ROSICCHIAMO MINUTI\".",
+    "lead_preview": "Carlo Degli Esposti ha lanciato un allarme sulla Repubblica. I produttori e dirigenti tv di Ammirati di Rai Fiction stan",
+    "tags": [
+      "rai fiction",
+      "produzione tv",
+      "prime serate"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "36369b11f9a3b164",
     "slug": "iccrea-assume-2500-under-35-e-licenzia-1800-la-riv-36369b11f9a3b164",
     "title": "Iccrea assume 2.500 under 35 e licenzia 1.800: la rivoluzione generazionale nel settore bancario",
@@ -9036,23 +9055,6 @@
       "virtus bologna valencia",
       "saliou niang alley-oop",
       "euroleague 2026"
-    ]
-  },
-  {
-    "id": "d4dcea5c44cc60be",
-    "slug": "pressione-fiscale-al-514-d4dcea5c44cc60be",
-    "title": "Pressione fiscale italiana: 51,4% nel quarto trimestre 2025, record storico",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-04-03T20:14:14.795366+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/8719570/pexels-photo-8719570.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "PRESSIONE FISCALE ITALIANA AL 51,4%: RECORD STORICO",
-    "lead_preview": "La pressione fiscale italiana ha raggiunto il 51,4% nel quarto trimestre 2025, un record storico dall'Italia del 1990. Q",
-    "tags": [
-      "pressione fiscale",
-      "manovra 2025"
     ]
   }
 ]
