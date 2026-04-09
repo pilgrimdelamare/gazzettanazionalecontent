@@ -1,5 +1,24 @@
 [
   {
+    "id": "03359242a7ab9deb",
+    "slug": "rosolina-il-5-maggio-arriva-il-summit-del-mare-foc-03359242a7ab9deb",
+    "title": "Rosolina, 320mila euro pubblici per Summit Green su costa da 6mila abitanti",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-08T06:14:46.113361+00:00",
+    "image_type": "image",
+    "image_url": "https://i2.res.24o.it/images2010/S24/Documenti/2026/04/08/Immagini/Ritagli/AdobeStock_174875156-U23814732452DcN-1440x752@IlSole24Ore-Web.jpeg?r=1170x507",
+    "occhiello": "",
+    "lead_preview": "Il 8 aprile 2026 si terrà a Rosolina, comune veneto di 6.043 abitanti, la quinta edizione del Summit del Mare – Costa Ve",
+    "tags": [
+      "summit green 2026",
+      "rosolina finanziamenti",
+      "costa veneta green lab"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "38439c3907a22265",
     "slug": "un-robot-automatizzato-prepara-i-farmaci-chemioter-38439c3907a22265",
     "title": "Ospedale di Torino: robot prepara chemioterapici dal 2026, primo in Italia",
@@ -1024,25 +1043,6 @@
     "tags": [
       "xiaopeng motors",
       "p7+ italia"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "03359242a7ab9deb",
-    "slug": "rosolina-il-5-maggio-arriva-il-summit-del-mare-foc-03359242a7ab9deb",
-    "title": "320Mila euro per un Summit sul clima a Rosolina il 5 maggio",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-04-08T06:14:46.113361+00:00",
-    "image_type": "image",
-    "image_url": "https://i2.res.24o.it/images2010/S24/Documenti/2026/04/08/Immagini/Ritagli/AdobeStock_174875156-U23814732452DcN-1440x752@IlSole24Ore-Web.jpeg?r=1170x507",
-    "occhiello": "",
-    "lead_preview": "Rosolina, 8 aprile 2026 — La quinta edizione del Summit del Mare - Costa Veneta Green Lab si terrà a Rosolina, comune di",
-    "tags": [
-      "summit del mare",
-      "costa veneta green lab",
-      "clima rosolina"
     ],
     "hero_eligible": true
   },
