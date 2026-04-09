@@ -1,5 +1,20 @@
 [
   {
+    "id": "daae9d7f95914259",
+    "slug": "calcio-ruggeri-fornisce-lassist-decisivo-al-raddop-daae9d7f95914259",
+    "title": "Calcio: Ruggeri assist decisivo al 63', Sørloth raddoppia allo Stadio Metropolitano",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-09T01:28:53.921372+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/c08347a63e3c72dbf5b74cb5cc10dcd9da4ba6bc/skysport/it/calcio/champions-league/video/2026/04/09/ruggeri-assist-barcellona-atletico-video-1088763/ruggeri_barcellona_atletico.jpg",
+    "occhiello": "RUGGERI ASSIST PER SORLOTH IN CHAMPIONS",
+    "lead_preview": "Matteo Ruggeri ha fornito l’assist per il raddoppio di Alexander Sørloth nella partita di Champions League giocata il 9 ",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "984e13aef5c42ff9",
     "slug": "fratoianni-primarie-inutili-conte-presenti-subito-984e13aef5c42ff9",
     "title": "Fratoianni attacca le primarie: 'inutili', Conte deve presentare subito il programma",
@@ -462,25 +477,6 @@
       "vance in ungheria",
       "elogio orbán",
       "meloni"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "daae9d7f95914259",
-    "slug": "calcio-ruggeri-fornisce-lassist-decisivo-al-raddop-daae9d7f95914259",
-    "title": "Calcio: Ruggeri fornisce l'assist decisivo al raddoppio di Sorloth",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-09T01:28:53.921372+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/c08347a63e3c72dbf5b74cb5cc10dcd9da4ba6bc/skysport/it/calcio/champions-league/video/2026/04/09/ruggeri-assist-barcellona-atletico-video-1088763/ruggeri_barcellona_atletico.jpg",
-    "occhiello": "UN'AZZURRA NOTEVOLISSIMA IN CHAMPIONS",
-    "lead_preview": "Matteo Ruggeri, un giocatore italiano, ha fornito l'assist per il raddoppio di Sorloth nel match di Champions League tra",
-    "tags": [
-      "assist ruggeri",
-      "sorloth raddoppio",
-      "barcellona atletico"
     ],
     "hero_eligible": true
   },
