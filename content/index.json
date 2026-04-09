@@ -1,5 +1,24 @@
 [
   {
+    "id": "f717fec11ac251d3",
+    "slug": "18-navi-panamensi-bloccate-senza-motivo-nei-porti-f717fec11ac251d3",
+    "title": "18 Navi panamensi bloccate senza motivo nei porti cinesi, Panama convoca l'ambasciatore",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-09T02:15:07.311065+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/9/439741696442ebc5b1a7e654990dfb24.jpg",
+    "occhiello": "",
+    "lead_preview": "Panama ha chiesto alla Cina il rispetto della propria sovranità marittima dopo il blocco di 18 delle sue navi mercantili",
+    "tags": [
+      "blocco navi panamensi",
+      "panama-cina",
+      "sovranità marittima"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "b1593f4799990f75",
     "slug": "stellantis-valuta-uno-stabilimento-a-cassino-per-p-b1593f4799990f75",
     "title": "Stellantis valuta apertura di nuovo stabilimento a Cassino",
@@ -9015,24 +9034,6 @@
     "tags": [
       "cassazione condominio",
       "sentenza 10123"
-    ]
-  },
-  {
-    "id": "5804a7a7308333b3",
-    "slug": "reggio-calabria-uomo-condannato-a-15-anni-e-6-mesi-5804a7a7308333b3",
-    "title": "Filice, macellaio di Reggio Calabria, condannato a 15 anni per omicidio in casa",
-    "section": "giustizia",
-    "priority": 5,
-    "journalist_firma": "Silvia Greco",
-    "published_at": "2026-04-03T17:43:30.667865+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1558867932-e7b33fa0a03e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxtYWNlbGxhaW8lMjBjb25kYW5uYXRvJTIwYSUyMDE1JTIwYW5uaSUyMHBlciUyMG9taWNpZGlvJTIwaW4lMjBjYXNhfGVufDB8MHx8fDE3NzUzMDU4NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "MACELLAIO CONDANNATO A 15 ANNI",
-    "lead_preview": "Antonio Filice, 52 anni, è stato condannato a 15 anni di reclusione dalla Corte d'assise di Reggio Calabria il 3 aprile ",
-    "tags": [
-      "omicidio filice",
-      "processo macellaio reggio",
-      "difesa casa calabria"
     ]
   }
 ]
