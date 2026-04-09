@@ -1,5 +1,24 @@
 [
   {
+    "id": "9f8b4558c7bbaa3a",
+    "slug": "bologna-e-milano-ospitano-tomlinson-9f8b4558c7bbaa3a",
+    "title": "Louis Tomlinson in concerto a Bologna e Milano a aprile",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-08T09:54:36.712750+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2024/8/11/77a1134844145d477443f269db6f866b.jpg",
+    "occhiello": "",
+    "lead_preview": "Louis Tomlinson si esibirà il 9 aprile a Bologna e il 10 aprile a Milano nell’ambito del suo How Did We Get Here? World ",
+    "tags": [
+      "concerto louis tomlinson",
+      "how did we get here tour",
+      "louis tomlinson italia"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "de55816c4ea8a8e1",
     "slug": "luigi-ghirri-torna-a-esporre-a-reggio-emilia-con-m-de55816c4ea8a8e1",
     "title": "A Reggio Emilia apre la mostra su Luigi Ghirri, icona della Fotografia Italiana",
@@ -1188,21 +1207,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/303d3e7433d33dbad3bcfcabbdc24e34.jpg",
     "occhiello": "PECHINO EXPRESS IN CINA: IL GIOCO DELL'INFLUENZA",
     "lead_preview": "Pechino Express approda in Cina nella quinta tappa, in onda da domani esclusivamente su Sky e in streaming su Now. Il pr",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "9f8b4558c7bbaa3a",
-    "slug": "bologna-e-milano-ospitano-tomlinson-9f8b4558c7bbaa3a",
-    "title": "Bologna e milano ospitano tomlinson",
-    "section": "cultura",
-    "priority": 6,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-08T09:54:36.712750+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2024/8/11/77a1134844145d477443f269db6f866b.jpg",
-    "occhiello": "BOLOGNA E MILANO OSPITANO TOMLINSON",
-    "lead_preview": "Louis Tomlinson si esibirà il 9 aprile a Bologna e il 10 aprile a Milano con il How Did We Get Here? World Tour, secondo",
     "tags": [],
     "hero_eligible": true
   },
