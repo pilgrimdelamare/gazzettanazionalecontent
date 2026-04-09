@@ -1,5 +1,24 @@
 [
   {
+    "id": "895a92d15a9ebe2d",
+    "slug": "jd-vance-in-ungheria-elogia-orban-e-meloni-a-palaz-895a92d15a9ebe2d",
+    "title": "Vance, Meloni e Orbán insieme a Budapest: alleanza per la sovranità Europea",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Elena Russo",
+    "published_at": "2026-04-09T01:29:42.220796+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/08/214229959-14dbb4b8-b71d-4fb7-87f9-95eb543295fb.jpg",
+    "occhiello": "JD VANCE IN UNGHIERA CON ORBÁN E MELONI",
+    "lead_preview": "JD Vance, vicepresidente degli Stati Uniti, ha incontrato il 9 aprile a Palazzo di Castello a Budapest Viktor Orbán e Gi",
+    "tags": [
+      "vance meloni orbán",
+      "sovranità europea",
+      "incontro budapest"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "daae9d7f95914259",
     "slug": "calcio-ruggeri-fornisce-lassist-decisivo-al-raddop-daae9d7f95914259",
     "title": "Calcio: Ruggeri assist decisivo al 63', Sørloth raddoppia allo Stadio Metropolitano",
@@ -458,25 +477,6 @@
       "dem ungheria",
       "meloni anti ue",
       "amendola risposta inadeguata"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "895a92d15a9ebe2d",
-    "slug": "jd-vance-in-ungheria-elogia-orban-e-meloni-a-palaz-895a92d15a9ebe2d",
-    "title": "JD Vance in Ungheria: elogia Orbán e Meloni a Palazzo di Castello il 9 aprile",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Elena Russo",
-    "published_at": "2026-04-09T01:29:42.220796+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/08/214229959-14dbb4b8-b71d-4fb7-87f9-95eb543295fb.jpg",
-    "occhiello": "VANCE LANCIA ORBÁN E LODA MELONI: \"I MIGLIORI IN EUROPA\"",
-    "lead_preview": "Il vice di Trump, JD Vance, ha lanciato un elogio pubblico a Viktor Orbán, leader dell'Ungheria, e a Giorgia Meloni, pre",
-    "tags": [
-      "vance in ungheria",
-      "elogio orbán",
-      "meloni"
     ],
     "hero_eligible": true
   },
