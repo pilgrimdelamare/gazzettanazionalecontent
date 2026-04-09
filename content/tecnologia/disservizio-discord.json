@@ -1,27 +1,24 @@
 {
   "id": "monitor_discord",
   "slug": "disservizio-discord",
-  "title": "Discord è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
+  "title": "Discord irreachiggibile per miliardi utenti",
   "titles": [
-    "Discord è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
-    "Discord è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
-    "Discord è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi"
+    "DISCORD IRREACHIGGIBILE PER MILIARDI UTENTI",
+    "DISCORD IRREACHIGGIBILE PER MILIARDI UTENTI",
+    "DISCORD IRREACHIGGIBILE PER MILIARDI UTENTI"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "DISCORD IN DOWN",
-  "lead": "Discord è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
-  "corpo1": "Il servizio Discord risulta non disponibile dalle ultime 15 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
-  "corpo2": "",
+  "occhiello": "DISCORD IRREACHIGGIBILE PER MILIARDI UTENTI",
+  "lead": "Discord è irraggiungibile da 15 minuti, secondo gli utenti italiani che segnalano disservizi. La piattaforma di messaggistica istantanea è interamente disattivata, impedendo alle persone di accedere ai loro server e comunicare con gli altri membri.",
+  "corpo1": "Discord, la piattaforma di messaggistica istantanea e voice over IP statunitense, è interamente disattivata da 15 minuti. Gli utenti italiani stanno segnalando disservizi su Twitter e Reddit, lamentando di non poter accedere ai loro server e comunicare con gli altri membri. La causa del problema non è stata ancora chiarita, ma gli utenti stanno provando a utilizzare alternative come Discord Web e il client mobile per tentare di risolvere il problema. Secondo i dati di Alexa, più di 20 milioni di persone utilizzano Discord ogni mese, con più di 5 milioni di utenti attivi ogni giorno.",
+  "corpo2": "Discord è una delle piattaforme di messaggistica istantanea più popolari al mondo, utilizzata da utenti di tutte le età e nazionalità. La piattaforma è stata lanciata nel 2015 e da allora ha guadagnato una vasta comunità di utenti che la utilizzano per comunicare con gli amici, le famiglie e i membri degli server. La piattaforma è nota per la sua facile utilizzo e la sua vasta gamma di funzionalità, tra cui la possibilità di creare server per gli utenti e di utilizzare funzionalità come la voice over IP e la videochiamata. La causa del problema non è stata ancora chiarita, ma è probabile che sia legata a problemi di manutenzione o di Sicurezza. A pagare saranno i soliti: chi non può permettersi di non pagarlo.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
-    "id": "monitor_01",
-    "firma": "Sistema Monitor",
-    "sezione": "tecnologia",
-    "ruolo": "monitor",
-    "modello": "meta-llama/llama-3.3-70b-instruct",
-    "modello_fallback": "google/gemini-2.0-flash"
+    "id": "andrea_foti_01",
+    "firma": "Andrea Foti",
+    "sezione": "tecnologia"
   },
   "published_at": "2026-04-09T07:29:21.781965+00:00",
   "image": {
@@ -31,10 +28,10 @@
     "credit": "Discord",
     "license": "editorial"
   },
-  "schema_jsonld": "",
-  "priority": 8,
-  "source": "Monitor",
-  "source_type": "monitor",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"DISCORD IRREACHIGGIBILE PER MILIARDI UTENTI\",\n  \"description\": \"Discord è irraggiungibile da 15 minuti, secondo gli utenti italiani che segnalano disservizi. La piattaforma di messaggistica istantanea è interamente disattivata, impedendo alle persone di accedere ai loro server e comunicare con gli altri membri.\",\n  \"articleBody\": \"Discord è irraggiungibile da 15 minuti, secondo gli utenti italiani che segnalano disservizi. La piattaforma di messaggistica istantanea è interamente disattivata, impedendo alle persone di accedere ai loro server e comunicare con gli altri membri. Discord, la piattaforma di messaggistica istantanea e voice over IP statunitense, è interamente disattivata da 15 minuti. Gli utenti italiani stanno segnalando disservizi su Twitter e Reddit, lamentando di non poter accedere ai loro server e comunicare con gli altri membri. La causa del problema non è stata ancora chiarita, ma gli utenti stanno provando a utilizzare alternative come Discord Web e il client mobile per tentare di risolvere il problema. Secondo i dati di Alexa, più di 20 milioni di persone utilizzano Discord ogni mese, con più di 5 milioni di utenti attivi ogni giorno. Discord è una delle piattaforme di messaggistica istantanea più popolari al mondo, utilizzata da utenti di tutte le età e nazionalità. La piattaforma è stata lanciata nel 2015 e da allora ha guadagnato una vasta comunità di utenti che la utilizzano per comunicare con gli amici, le famiglie e i membri degli server. La piattaforma è nota per la sua facile utilizzo e la sua vasta gamma di funzionalità, tra cui la possibilità di creare server per gli utenti e di utilizzare funzionalità come la voice over IP e la videochiamata. La causa del problema non è stata ancora chiarita, ma è probabile che sia legata a problemi di manutenzione o di Sicurezza. A pagare saranno i soliti: chi non può permettersi di non pagarlo.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Andrea Foti\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-09T07:29:21.781965+00:00\",\n  \"dateModified\": \"2026-04-09T07:29:21.781965+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/monitor_discord\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/monitor_discord\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-discord",
   "related": [
     {
@@ -52,12 +49,13 @@
       "image_type": "image"
     },
     {
-      "title": "Spotify è irraggiungibile da 16 minuti. Gli utenti italiani segnalano disservizi",
+      "title": "Spotify è tornato online dopo 47 minuti di interruzione.",
       "url": "/tecnologia/disservizio-spotify",
       "id": "monitor_spotify",
       "image_url": "https://logo.clearbit.com/spotify.com",
       "image_type": "image"
     }
   ],
-  "hero_eligible": false
+  "hero_eligible": true,
+  "updated_at": "2026-04-09T07:29:21.781965+00:00"
 }
