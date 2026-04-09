@@ -1,5 +1,20 @@
 [
   {
+    "id": "4ec277df38e88bcc",
+    "slug": "giuli-si-smentisce-no-alla-censura-ma-prende-le-di-4ec277df38e88bcc",
+    "title": "Giuli retromarci al ministero",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Elena Russo",
+    "published_at": "2026-04-09T01:14:08.232697+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/08/232016408-4924b0e3-24b9-425b-8a9d-c6d1d842f347.jpg",
+    "occhiello": "GIULI RETROMARCI AL MINISTERO",
+    "lead_preview": "Alessandro Giuli, ministro della Cultura, ha preso le distanze dalla decisione della Commissione cinematografia del suo ",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "oroscopo_daily",
     "slug": "oroscopo-del-giorno",
     "title": "Oroscopo di oggi, giovedì 9 aprile 2026",
@@ -546,24 +561,6 @@
       "guerra iran",
       "cessate il fuoco",
       "trump"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "4ec277df38e88bcc",
-    "slug": "giuli-si-smentisce-no-alla-censura-ma-prende-le-di-4ec277df38e88bcc",
-    "title": "Giuli si smentisce: no alla censura, ma prende le distanze sul taglio fondi Regeni",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Elena Russo",
-    "published_at": "2026-04-09T01:14:08.232697+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/08/232016408-4924b0e3-24b9-425b-8a9d-c6d1d842f347.jpg",
-    "occhiello": "REGENI, RETROMARCIA DI GIULI: VIA I COMMISSARI E NUOVI CRITERI PER I FILM",
-    "lead_preview": "Alessandro Giuli, titolare della Cultura, prende le distanze dalla bocciatura delle risorse al documentario sul caso Reg",
-    "tags": [
-      "caso regeni",
-      "censura film"
     ],
     "hero_eligible": true
   },
