@@ -1,5 +1,24 @@
 [
   {
+    "id": "4b01de5e08d4a303",
+    "slug": "calcio-72-dei-titolari-in-serie-a-non-convocabili-4b01de5e08d4a303",
+    "title": "Calcio: 72% dei titolari in Serie A non convocabili in Nazionale",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-08T05:27:55.068214+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/07/italia-nazionale-1.jpg",
+    "occhiello": "72% DELLE SQUADRE ITALIANE IN CAMPO SOTTO LA NAZIONALE",
+    "lead_preview": "La Serie A ha ripreso i suoi campionati con un numero impietoso di calciatori stranieri in campo, un vero e proprio tsun",
+    "tags": [
+      "serie a stranieri",
+      "nazionale calcio",
+      "titanio serie a"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "817c3327165492e0",
     "slug": "petrolio-sotto-100-dollari-wti-a-993-dopo-tregua-u-817c3327165492e0",
     "title": "Petrolio a 99,3 dollari: accordo Usa-Iran taglia produzione di 1 milione di barili al giorno",
@@ -1966,25 +1985,6 @@
     "tags": [
       "nba",
       "new orleans utah"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "4b01de5e08d4a303",
-    "slug": "calcio-72-dei-titolari-in-serie-a-non-convocabili-4b01de5e08d4a303",
-    "title": "Calcio: 72% dei titolari in Serie A non convocabili in Nazionale",
-    "section": "sport",
-    "priority": 7,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-08T05:27:55.068214+00:00",
-    "image_type": "image",
-    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/07/italia-nazionale-1.jpg",
-    "occhiello": "SERIE A: SOLO IL 28% DEI TITOLARI ERANO ITALIANI NELLA GIORNATA DI APERTURA",
-    "lead_preview": "La Serie A ha ripreso i suoi campionati con un numero impietoso di calciatori stranieri in campo: il 72% dei titolari no",
-    "tags": [
-      "serie a stranieri",
-      "nazionale calcio",
-      "calciomercato serie a"
     ],
     "hero_eligible": true
   },
