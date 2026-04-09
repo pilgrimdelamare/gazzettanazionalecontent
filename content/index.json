@@ -1,5 +1,20 @@
 [
   {
+    "id": "01dfc26d7e896a9a",
+    "slug": "mollicone-usa-25-milioni-di-fondi-cultura-per-film-01dfc26d7e896a9a",
+    "title": "Federico Mollicone, presidente della Commissione Cultura, ha indirizzato finanzi",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Elena Russo",
+    "published_at": "2026-04-09T01:16:24.776325+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/08/222810951-21c4baec-4385-4c7c-80d5-df3b681bb867.jpg",
+    "occhiello": "",
+    "lead_preview": "Federico Mollicone, presidente della Commissione Cultura, ha indirizzato finanziamenti pubblici per 2,5 milioni di euro ",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "895a92d15a9ebe2d",
     "slug": "jd-vance-in-ungheria-elogia-orban-e-meloni-a-palaz-895a92d15a9ebe2d",
     "title": "Vance, Meloni e Orbán insieme a Budapest: alleanza per la sovranità Europea",
@@ -496,25 +511,6 @@
       "guerra iran",
       "cessate il fuoco",
       "trump"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "01dfc26d7e896a9a",
-    "slug": "mollicone-usa-25-milioni-di-fondi-cultura-per-film-01dfc26d7e896a9a",
-    "title": "Mollicone usa 2,5 milioni di fondi Cultura per film di destra",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Elena Russo",
-    "published_at": "2026-04-09T01:16:24.776325+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/08/222810951-21c4baec-4385-4c7c-80d5-df3b681bb867.jpg",
-    "occhiello": "MANI DI MOLLICONE SUL CINEMA. FONDI AI SODALI",
-    "lead_preview": "Il presidente della Commissione Cultura, Federico Mollicone, ha utilizzato i fondi per finanziare progetti di film gradi",
-    "tags": [
-      "mollicone",
-      "fondi cultura",
-      "film destra"
     ],
     "hero_eligible": true
   },
