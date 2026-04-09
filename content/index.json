@@ -1,5 +1,24 @@
 [
   {
+    "id": "e8471396a89cfbc3",
+    "slug": "iran-presenta-piano-di-pace-a-10-punti-usa-sospend-e8471396a89cfbc3",
+    "title": "Iran chiede 2 milioni a nave per passare a Hormuz, Trump accetta",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-08T03:06:15.517568+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/08/043418804-75edc695-f6a2-41c4-801c-98b00fed6071.jpg",
+    "occhiello": "IRAN PROPOSA TREGUA A 10 PUNTINI",
+    "lead_preview": "Il governo iraniano ha presentato un documento di Dieci punti per un cessate il fuoco a Hormuz, accettato dal presidente",
+    "tags": [
+      "guerra iran",
+      "cessate il fuoco",
+      "trump"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "01dfc26d7e896a9a",
     "slug": "mollicone-usa-25-milioni-di-fondi-cultura-per-film-01dfc26d7e896a9a",
     "title": "Mollicone usa 2,5 milioni di fondi Cultura per film di destra",
@@ -2117,25 +2136,6 @@
       "concerto kanye west",
       "polemiche anpi",
       "campovolo 2025"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "e8471396a89cfbc3",
-    "slug": "iran-presenta-piano-di-pace-a-10-punti-usa-sospend-e8471396a89cfbc3",
-    "title": "Iran propone tregua a 10 punti e pedaggio di 2 mln per nave a Hormuz",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-08T03:06:15.517568+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/08/043418804-75edc695-f6a2-41c4-801c-98b00fed6071.jpg",
-    "occhiello": "IRAN PRESENTA PIANO DI PACE A 10 PUNTI, USA SOSPENDONO OPERAZIONI MILITARI",
-    "lead_preview": "Teheran, 8 aprile 2026. Il governo iraniano ha presentato un documento di Dieci punti per un cessate il fuoco, accettato",
-    "tags": [
-      "guerra iran",
-      "crisi hormuz",
-      "piano pace iran"
     ],
     "hero_eligible": true
   },
