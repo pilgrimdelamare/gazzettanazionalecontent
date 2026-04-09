@@ -1,5 +1,20 @@
 [
   {
+    "id": "74d7f2d823a57158",
+    "slug": "il-como-affronta-linter-a-san-siro-giovedi-9-april-74d7f2d823a57158",
+    "title": "Il Como affronta l'Inter a San Siro giovedì 9 aprile 2026, in una sfida di Serie",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-09T19:24:17.525676+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/13d9fd2e1e153406901822aef512c8b604d340a7/skysport/it/calcio/serie-a/video/2026/04/09/1088988_1775758497757_thumb_494.0000001_1775758541389.jpg",
+    "occhiello": "",
+    "lead_preview": "Il Como affronta l'Inter a San Siro giovedì 9 aprile 2026, in una sfida di Serie A dove cerca di rompere un digiuno stor",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "b174cd5eed616982",
     "slug": "una-fotografa-italiana-vince-per-la-risistenza-fem-b174cd5eed616982",
     "title": "Chantal Pinzi, 29 anni, vince il World Press Photo 2026 con un reportage sulle donne della polvere da sparo in Marocco",
@@ -8971,24 +8986,6 @@
     "lead_preview": "Ederson ha stretto un accordo con l'Atletico Madrid per un contratto di quattro anni a 5 milioni di euro netti annui.",
     "tags": [
       "ederson atletico madrid"
-    ]
-  },
-  {
-    "id": "64e1c0d35add1a7b",
-    "slug": "tortoreto-25enne-indagato-per-propaganda-acceleraz-64e1c0d35add1a7b",
-    "title": "Tortoreto, 25enne indagato per ideologia accelerazionista",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Chiara Esposito",
-    "published_at": "2026-04-04T11:13:05.754959+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1642888100704-70cb1c4ea203?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxwb2xpY2UlMjBjcmltZSUyMHNjZW5lJTIwaXRhbHl8ZW58MHwwfHx8MTc3NTM3NDQxMnww&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "",
-    "lead_preview": "Giulio Ferrero, 25 anni, di Tortoreto, è indagato dalla polizia per aver rivendicato online l’ideologia accelerazionista",
-    "tags": [
-      "ideologia accelerazionista",
-      "giulio ferrero",
-      "indagine tortoreto"
     ]
   }
 ]
