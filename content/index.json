@@ -1,5 +1,24 @@
 [
   {
+    "id": "9754cdaa04cfbab1",
+    "slug": "maurizio-scanavino-diventa-presidente-e-socio-di-s-9754cdaa04cfbab1",
+    "title": "Maurizio Scanavino diventa presidente e socio di Scientifica, deep Tech da 47M€",
+    "section": "economia",
+    "priority": 6,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-09T10:10:22.873045+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/09/114554592-db545afc-25cc-4bee-a499-e7f2372b0e2a.jpg",
+    "occhiello": "SCANAVINO PRESIDENTE, ENTRA IN AZIONARIATO",
+    "lead_preview": "Maurizio Scanavino è il nuovo presidente di Scientifica, piattaforma deep Tech fondata nel 2022, dove è entrato anche co",
+    "tags": [
+      "presidenza scanavino",
+      "scientifica deep tech",
+      "nomina 2026"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "monitor_claude",
     "slug": "disservizio-claude",
     "title": "Claude offline da 16 minuti: utenti italiani senza accesso al modello",
@@ -9013,24 +9032,6 @@
     "tags": [
       "pensioni italiane",
       "inps aumento"
-    ]
-  },
-  {
-    "id": "a100080081ade9ca",
-    "slug": "pasqua-al-distributore-stangata-da-13-miliardi-a100080081ade9ca",
-    "title": "Gasolio sale a 2,31 euro al litro: +30% in un anno su 1.200 distributori",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-04-04T09:14:59.337733+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1588743645013-29487076ef7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxnYXMlMjBzdGF0aW9uJTIwZnVlbCUyMHB1bXAlMjBlbXB0eSUyMHdhbGxldHxlbnwwfDB8fHwxNzc1MzYwMjQ1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "",
-    "lead_preview": "Codacons certifica un aumento del 30% del prezzo del gasolio tra il 4 aprile 2025 e il 4 aprile 2026, con un aggravio me",
-    "tags": [
-      "aumento gasolio 2026",
-      "prezzi carburanti",
-      "codacons carburanti"
     ]
   }
 ]
