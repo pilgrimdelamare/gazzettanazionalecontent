@@ -1,5 +1,24 @@
 [
   {
+    "id": "0453e28e672ece0c",
+    "slug": "lello-il-sensitivo-offre-150mila-euro-per-patteggi-0453e28e672ece0c",
+    "title": "Lello il Sensitivo offre 150mila euro per patteggiare a 3 anni e 9 mesi a Sorrento",
+    "section": "economia",
+    "priority": 6,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-09T11:28:51.211009+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2025/09/05/lello-il-sensitivo.jpg",
+    "occhiello": "150MILA EURO PER PATTEGGIARE",
+    "lead_preview": "Raffaele Guida, detto ‘Lello il Sensitivo’, ha offerto 150mila euro per risarcire i danni e ottenere una condanna ridott",
+    "tags": [
+      "caso lello il sensitivo",
+      "patteggiamento sorrento",
+      "raffaele guida"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "e655a8c32a709854",
     "slug": "weston-mckennie-il-27enne-centrocampista-degli-sta-e655a8c32a709854",
     "title": "Weston McKennie, il 27enne centrocampista degli Stati Uniti, ha dichiarato il 9 ",
@@ -9007,24 +9026,6 @@
       "crisi puglia",
       "vertenze lavorative",
       "lavoratori a rischio"
-    ]
-  },
-  {
-    "id": "b3941bfcd4f32f89",
-    "slug": "giorgia-meloni-a-doha-per-assicurare-approvvigiona-b3941bfcd4f32f89",
-    "title": "Giorgia Meloni a Doha con Tamim bin Hamad Al Thani",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Elena Russo",
-    "published_at": "2026-04-04T08:11:44.321969+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Palazzo_chigi_bandiere.jpg",
-    "occhiello": "GIORGIA MELONI A DOHA PER INCONTRI CON L'EMIRO DEL QATAR",
-    "lead_preview": "Giorgia Meloni ha atterrato a Doha il 4 aprile 2026 per incontrare l'emiro del Qatar Tamim bin Hamad Al Thani, secondo s",
-    "tags": [
-      "visita meloni qatar",
-      "meloni-emiro incontro",
-      "diplomazia qatar 2026"
     ]
   }
 ]
