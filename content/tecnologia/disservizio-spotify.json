@@ -1,0 +1,63 @@
+{
+  "id": "monitor_spotify",
+  "slug": "disservizio-spotify",
+  "title": "Spotify è irraggiungibile da 16 minuti. Gli utenti italiani segnalano disservizi",
+  "titles": [
+    "Spotify è irraggiungibile da 16 minuti. Gli utenti italiani segnalano disservizi",
+    "Spotify è irraggiungibile da 16 minuti. Gli utenti italiani segnalano disservizi",
+    "Spotify è irraggiungibile da 16 minuti. Gli utenti italiani segnalano disservizi"
+  ],
+  "title_winner": null,
+  "section": "tecnologia",
+  "occhiello": "SPOTIFY IN DOWN",
+  "lead": "Spotify è irraggiungibile da 16 minuti. Gli utenti italiani segnalano disservizi.",
+  "corpo1": "Il servizio Spotify risulta non disponibile dalle ultime 16 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "corpo2": "",
+  "article_type": "standard",
+  "cards": [],
+  "journalist": {
+    "id": "monitor_01",
+    "firma": "Sistema Monitor",
+    "sezione": "tecnologia",
+    "ruolo": "monitor",
+    "modello": "meta-llama/llama-3.3-70b-instruct",
+    "modello_fallback": "google/gemini-2.0-flash"
+  },
+  "published_at": "2026-04-09T07:09:05.959372+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://logo.clearbit.com/spotify.com",
+    "source": "Spotify",
+    "credit": "Spotify",
+    "license": "editorial"
+  },
+  "schema_jsonld": "",
+  "priority": 8,
+  "source": "Monitor",
+  "source_type": "monitor",
+  "original_url": "https://lentemattutina.it/tecnologia/disservizio-spotify",
+  "related": [
+    {
+      "title": "Glutine sotto controllo: test in 5 minuti a Milano",
+      "url": "/tecnologia/la-startup-glutensens-lancia-dispositivo-per-ident-f37e3e5497ab67df",
+      "id": "f37e3e5497ab67df",
+      "image_url": "https://images.unsplash.com/photo-1605781231474-f60dea478e8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxmb29kJTIwc2FmZXR5JTIwdGVzdGluZyUyMGdsdXRlbiUyMGRldGVjdGlvbnxlbnwwfDB8fHwxNzc1Mzk5Nzc1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Padova e Vicenza spendono 280mila euro per robot tagliaerba silenziosi nei parchi",
+      "url": "/tecnologia/padova-e-vicenza-introducono-i-robot-tagliaerba-pe-82acd9b1eaa9799c",
+      "id": "82acd9b1eaa9799c",
+      "image_url": "https://media-assets.wired.it/photos/69d664acdf894e34a4af4b1c/16:9/w_1280,c_limit/Husqvarna_Automower.jpeg",
+      "image_type": "image"
+    },
+    {
+      "title": "Geronymonstre riceve 480mila euro per diffondere cultura su TikTok",
+      "url": "/tecnologia/5-ragazzi-da-avignone-con-627mila-follower-su-tikt-50a0a25b6f224361",
+      "id": "50a0a25b6f224361",
+      "image_url": "https://media-assets.wired.it/photos/69c5416d452c9c2e134959e7/16:9/w_1280,c_limit/banlieue.jpg",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": false
+}
