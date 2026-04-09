@@ -1,5 +1,24 @@
 [
   {
+    "id": "2f53d472fda43f36",
+    "slug": "cozytime-lancia-lumo-il-barbecue-a-infrarossi-con-2f53d472fda43f36",
+    "title": "Cozytime lancia Lumo, il barbecue AI da 899 euro a Milano",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-04-08T08:29:11.600487+00:00",
+    "image_type": "image",
+    "image_url": "https://media-assets.wired.it/photos/69d60323b12b0d2f5e26bbdb/16:9/w_1280,c_limit/cozytime%20lumo.jpg",
+    "occhiello": "LUMO, IL BARBECUE CON AI SENZA FUMO",
+    "lead_preview": "Cozytime ha presentato Lumo, il primo barbecue a infrarossi con intelligenza artificiale per grigliate indoor, il 8 apri",
+    "tags": [
+      "barbecue ai cozytime",
+      "lumo barbecue",
+      "grigliata indoor milano"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "38fe5898f801217d",
     "slug": "il-campo-stretto-si-annida-in-3-partiti-di-opposiz-38fe5898f801217d",
     "title": "PD, M5S e AVS uniscono forze per Europee",
@@ -1424,25 +1443,6 @@
       "concerto kanye west",
       "polemiche anpi",
       "campovolo 2025"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "2f53d472fda43f36",
-    "slug": "cozytime-lancia-lumo-il-barbecue-a-infrarossi-con-2f53d472fda43f36",
-    "title": "Cozytime lancia Lumo, il barbecue a infrarossi con AI per grigliate senza fumo in casa",
-    "section": "tecnologia",
-    "priority": 6,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-04-08T08:29:11.600487+00:00",
-    "image_type": "image",
-    "image_url": "https://media-assets.wired.it/photos/69d60323b12b0d2f5e26bbdb/16:9/w_1280,c_limit/cozytime%20lumo.jpg",
-    "occhiello": "I PRIMI BARBECUE CON AI PER GRIGLIATE INDOOR SENZA FUMI",
-    "lead_preview": "Cozytime Lumo, il primo barbecue a infrarossi con AI progettato per grigliate indoor senza fumi, è è stato presentato di",
-    "tags": [
-      "barbecue ai cozytime",
-      "lumo infrarossi",
-      "grigliata indoor senza fumo"
     ],
     "hero_eligible": true
   },
