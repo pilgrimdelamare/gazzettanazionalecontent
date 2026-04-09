@@ -1,5 +1,22 @@
 [
   {
+    "id": "d7e1239b923c254d",
+    "slug": "kanye-west-suona-a-reggio-emilia-dopo-le-proteste-d7e1239b923c254d",
+    "title": "Kanye West, concerto a Reggio Emilia il 18 luglio nonostante le proteste",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-08T15:37:29.516041+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/08/11876796_small-e1775661106921-1200x630.jpg",
+    "occhiello": "IL 18 LUGLIO KANYE WEST ARRIVA A REGGIO EMILIA",
+    "lead_preview": "Kanye West conferma il concerto del 18 luglio all'RCF Arena di Campovolo a Reggio Emilia, nonostante le proteste dell'An",
+    "tags": [
+      "kanye west reggio emilia"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "42ecf0df009c2cfa",
     "slug": "italia-schiera-fregate-e-sminatori-nel-golfo-persi-42ecf0df009c2cfa",
     "title": "L'Ue schiera fregate italiane nel Golfo Persico per proteggere le rotte del petrolio",
@@ -2196,25 +2213,6 @@
     "occhiello": "GRATTA E VINCI INVALIDO: IL MEZZO MILIONE CHE NON ESISTE",
     "lead_preview": "GRATTA E VINCILLO INVALIDO: IL MEZZO MILIONE CHE NON ESISTE Lead: Il 8 aprile 2026 a Carsoli, in provincia dell'Aquila, ",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "d7e1239b923c254d",
-    "slug": "kanye-west-suona-a-reggio-emilia-dopo-le-proteste-d7e1239b923c254d",
-    "title": "Kanye West terrà il concerto a Reggio Emilia il 18 luglio nonostante le polemiche sull'Anpi",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-04-08T15:37:29.516041+00:00",
-    "image_type": "image",
-    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/08/11876796_small-e1775661106921-1200x630.jpg",
-    "occhiello": "",
-    "lead_preview": "Kanye West ha confermato il concerto del 18 luglio alla rcf arena di Campovolo, a Reggio Emilia, nonostante le polemiche",
-    "tags": [
-      "concerto kanye west",
-      "polemiche anpi",
-      "campovolo 2025"
-    ],
     "hero_eligible": true
   },
   {
