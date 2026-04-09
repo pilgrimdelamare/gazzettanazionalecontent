@@ -1,5 +1,24 @@
 [
   {
+    "id": "0aa2317e62c6fb8d",
+    "slug": "san-severo-trasforma-unedicola-in-un-teatro-da-6-p-0aa2317e62c6fb8d",
+    "title": "A San Severo, un'edicola abbandonata diventa un teatro da 6 posti: costo 18.700 euro",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-09T19:41:21.701719+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/9/52d333afee32592d6b255def01614479.jpg",
+    "occhiello": "",
+    "lead_preview": "San Severo, 9 aprile 2026 — un’edicola abbandonata di cinque metri quadrati nel centro storico si trasforma nel teatro p",
+    "tags": [
+      "teatro più piccolo d'italia",
+      "edicola teatro san severo",
+      "riqualificazione urbana san severo"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "5502597c6624adee",
     "slug": "sciopero-ai-propublica-giornalisti-contro-algoritm-5502597c6624adee",
     "title": "ProPublica, 9 aprile 2026 — i giornalisti del noto outlet investigativo american",
@@ -64,25 +83,6 @@
       "natalità usa",
       "calo nascite",
       "trend demografico usa"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "0aa2317e62c6fb8d",
-    "slug": "san-severo-trasforma-unedicola-in-un-teatro-da-6-p-0aa2317e62c6fb8d",
-    "title": "San Severo trasforma un'edicola abbandonata in un teatro da 6 posti",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-09T19:41:21.701719+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/9/52d333afee32592d6b255def01614479.jpg",
-    "occhiello": "SAN SEVERO TRASFORMA UN'EDICOLA IN TEATRO",
-    "lead_preview": "San Severo, 9 aprile 2026 – L'edicola abbandonata di cinque metri quadri nel centro storico di San Severo è stata trasfo",
-    "tags": [
-      "teatro edicola san severo",
-      "record mondiale teatro",
-      "riqualificazione urbana san severo"
     ],
     "hero_eligible": true
   },
