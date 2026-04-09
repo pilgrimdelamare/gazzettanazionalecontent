@@ -1,5 +1,24 @@
 [
   {
+    "id": "b7be2fa628c348e1",
+    "slug": "petrolio-sotto-100-dopo-la-tregua-in-iran-b7be2fa628c348e1",
+    "title": "Petrolio Brent sotto i 100 dollari: calo del 25% dopo la tregua Iran-USA",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-08T15:18:48.195266+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://img.lemde.fr/2026/04/08/684/0/8192/4096/644/322/60/0/4c8db45_ftp-1-an5dodpemn9u-5709226-01-06.jpg",
+    "occhiello": "PREZZO GREGGIO IN CALO: BRENT SOTTO I 100 DOLLARI",
+    "lead_preview": "Parigi, 8 aprile 2026. Il ministro dell'Economia Antoine Lecornu ha anticipato un calo del prezzo del greggio a seguito ",
+    "tags": [
+      "petrolio brent",
+      "tregua iran-usa",
+      "prezzo greggio"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "a7e01719ca8bd0bd",
     "slug": "venezuela-vara-nuova-legge-privatizzati-settori-st-a7e01719ca8bd0bd",
     "title": "Venezuela, Delcy Rodríguez approva la privatizzazione di energia e trasporti senza pubblicare la legge",
@@ -2220,21 +2239,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1129x635/2023/8/6/785530c8e913043e2b65f4a26ab0a30d.jpg",
     "occhiello": "40.000 PASS GRATIS, MA SOLO PER CHI PUÒ PARTIRE",
     "lead_preview": "Bruxelles ha riaperto il 7 aprile il bando DiscoverEU con 40.000 pass Interrail gratuiti per i diciottenni dell'Unione E",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "b7be2fa628c348e1",
-    "slug": "petrolio-sotto-100-dopo-la-tregua-in-iran-b7be2fa628c348e1",
-    "title": "Brent sotto 100 dollari dopo tregua Iran-Usa, calo del 25% da gennaio",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-08T15:18:48.195266+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://img.lemde.fr/2026/04/08/684/0/8192/4096/644/322/60/0/4c8db45_ftp-1-an5dodpemn9u-5709226-01-06.jpg",
-    "occhiello": "PETROLIO SOTTO I 100 DOPO LA TREGUA IN IRAN",
-    "lead_preview": "Parigi, 8 aprile 2026. Il ministro dell’Economia Antoine Lecornu ha anticipato un calo del prezzo del greggio a seguito ",
     "tags": [],
     "hero_eligible": true
   },
