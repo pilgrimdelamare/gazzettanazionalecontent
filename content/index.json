@@ -1,5 +1,20 @@
 [
   {
+    "id": "c7fed5bceb45fd7f",
+    "slug": "ciciliano-la-frana-e-ferma-lo-ha-confermato-il-cap-c7fed5bceb45fd7f",
+    "title": "La frana di ciciliano è ferma, dice il capo della protezione civile",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-04-08T16:53:13.611925+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/87f63cb17e62472dda3ac0a88709b755.jpg",
+    "occhiello": "LA FRANA DI CICILIANO È FERMA, DICE IL CAPO DELLA PROTEZIONE CIVILE",
+    "lead_preview": "Il comune di Ciciliano è Stato colpito da una grave frana, che ha causato danni significativi alle strutture locali. La ",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "f717fec11ac251d3",
     "slug": "18-navi-panamensi-bloccate-senza-motivo-nei-porti-f717fec11ac251d3",
     "title": "18 Navi panamensi bloccate senza motivo nei porti cinesi",
@@ -15,25 +30,6 @@
       "blocco navi panamensi",
       "tensioni cina-panama",
       "sovrano marittimo"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "c7fed5bceb45fd7f",
-    "slug": "ciciliano-la-frana-e-ferma-lo-ha-confermato-il-cap-c7fed5bceb45fd7f",
-    "title": "Frana a Ciciliano, Curcio: 'È ferma ma pericolosa' – evacuati 12 nuclei familiari",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Chiara Esposito",
-    "published_at": "2026-04-08T16:53:13.611925+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/87f63cb17e62472dda3ac0a88709b755.jpg",
-    "occhiello": "FRANA DI CIPLICIANO FERMA: LA VERA SITUZIONE",
-    "lead_preview": "Fabrizio Curcio, capo della protezione civile, ha confermato che la frana nel comune di Ciciliano è ferma. La visita è s",
-    "tags": [
-      "frana ciciliano",
-      "curcio frana",
-      "evacuazione ciciliano"
     ],
     "hero_eligible": true
   },
