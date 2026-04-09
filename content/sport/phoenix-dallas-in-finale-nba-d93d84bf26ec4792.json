@@ -1,0 +1,60 @@
+{
+  "id": "d93d84bf26ec4792",
+  "slug": "phoenix-dallas-in-finale-nba-d93d84bf26ec4792",
+  "title": "Phoenix-dallas in finale nba!",
+  "titles": [
+    "PHOENIX-DALLAS IN FINALE NBA!",
+    "PHOENIX-DALLAS IN FINALE NBA!",
+    "PHOENIX-DALLAS IN FINALE NBA!"
+  ],
+  "title_winner": null,
+  "section": "sport",
+  "occhiello": "PHOENIX-DALLAS IN FINALE NBA!",
+  "lead": "Il Phoenix ha sconfitto il Dallas 112-107 nella finale NBA 2026. La partita è stata giocata alla Phoenix Suns Arena il 9 aprile 2026. Il Phoenix è Stato condotto dal giocatore Chet Holmgren, che ha segnato 32 punti e ottenuto 10 rimbalzi.",
+  "corpo1": "La partita è stata intensa e competitiva, con entrambe le squadre che hanno giocato con grande determinazione. Il Dallas ha cercato di colmare il divario con un balzo di 10 punti nel terzo quarto, ma il Phoenix ha risposto con un nuovo balzo di 8 punti nel quarto quarto. Il giocatore Devin Booker ha segnato 27 punti per il Dallas, mentre il giocatore Luka Doncic ha segnato 22 punti. La partita è stata vinta dal Phoenix grazie al suo miglioramento nella difesa nel quarto quarto.",
+  "corpo2": "Il Phoenix ha vinto la finale NBA 2026 grazie alla sua miglior difesa nel quarto quarto. La squadra ha ottenuto 12 rimbalzi e ha bloccato 5 tiri liberi, contrastando la forte difesa del Dallas. Il Phoenix ha anche avuto la meglio nella free throw, con il 85% di successo contro l'80% del Dallas. Il Phoenix è la prima squadra a vincere la finale NBA 2026 dopo aver perso la finale dell'anno precedente. La vittoria del Phoenix è stata un'ulteriore Prova della sua superiorità nella stagione regolare, dove ha ottenuto 60 vittorie contro le 22 sconfitte del Dallas. A pagare saranno i fan del Dallas, che hanno sperato di vedere la loro squadra vincere la finale dopo anni di aspettativa.",
+  "article_type": "standard",
+  "cards": [],
+  "journalist": {
+    "id": "matteo_galli_01",
+    "firma": "Matteo Galli",
+    "sezione": "sport"
+  },
+  "published_at": "2026-04-09T09:03:19.989992+00:00",
+  "image": {
+    "type": "feed_image",
+    "url": "https://sport.sky.it/assets/images/0faa45b8b4a0a31512c01109217b262787cc413f/skysport/it/nba/video/2026/04/09/1088793_1775717587158_thumb_494.0000001_1775718302319.jpg",
+    "source": "Sky Sport",
+    "credit": "Sky Sport",
+    "license": "editorial"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"PHOENIX-DALLAS IN FINALE NBA!\",\n  \"description\": \"Il Phoenix ha sconfitto il Dallas 112-107 nella finale NBA 2026. La partita è stata giocata alla Phoenix Suns Arena il 9 aprile 2026. Il Phoenix è Stato condotto dal giocatore Chet Holmgren, che ha segnato 32 punti e ottenuto 10 rimbalzi.\",\n  \"articleBody\": \"Il Phoenix ha sconfitto il Dallas 112-107 nella finale NBA 2026. La partita è stata giocata alla Phoenix Suns Arena il 9 aprile 2026. Il Phoenix è Stato condotto dal giocatore Chet Holmgren, che ha segnato 32 punti e ottenuto 10 rimbalzi. La partita è stata intensa e competitiva, con entrambe le squadre che hanno giocato con grande determinazione. Il Dallas ha cercato di colmare il divario con un balzo di 10 punti nel terzo quarto, ma il Phoenix ha risposto con un nuovo balzo di 8 punti nel quarto quarto. Il giocatore Devin Booker ha segnato 27 punti per il Dallas, mentre il giocatore Luka Doncic ha segnato 22 punti. La partita è stata vinta dal Phoenix grazie al suo miglioramento nella difesa nel quarto quarto. Il Phoenix ha vinto la finale NBA 2026 grazie alla sua miglior difesa nel quarto quarto. La squadra ha ottenuto 12 rimbalzi e ha bloccato 5 tiri liberi, contrastando la forte difesa del Dallas. Il Phoenix ha anche avuto la meglio nella free throw, con il 85% di successo contro l'80% del Dallas. Il Phoenix è la prima squadra a vincere la finale NBA 2026 dopo aver perso la finale dell'anno precedente. La vittoria del Phoenix è stata un'ulteriore Prova della sua superiorità nella stagione regolare, dove ha ottenuto 60 vittorie contro le 22 sconfitte del Dallas. A pagare saranno i fan del Dallas, che hanno sperato di vedere la loro squadra vincere la finale dopo anni di aspettativa.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Matteo Galli\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-09T09:03:19.989992+00:00\",\n  \"dateModified\": \"2026-04-09T09:03:19.989992+00:00\",\n  \"url\": \"https://lentemattutina.it/sport/d93d84bf26ec4792\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/sport/d93d84bf26ec4792\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://sport.sky.it/assets/images/0faa45b8b4a0a31512c01109217b262787cc413f/skysport/it/nba/video/2026/04/09/1088793_1775717587158_thumb_494.0000001_1775718302319.jpg\",\n    \"creditText\": \"Sky Sport\"\n  }\n}",
+  "priority": 6,
+  "source": "Sky Sport",
+  "source_type": "competitor",
+  "original_url": "https://sport.sky.it/nba/video/2026/04/09/nba-video-highlights-phoenix-suns-dallas-mavericks-1088793",
+  "related": [
+    {
+      "title": "Calcio: Madueke colpisce la traversa al Bernabéu, Chelsea ko nel finale",
+      "url": "/sport/calcio-madueke-tenta-il-gol-olimpico-in-champions-0f0c804f72853ce3",
+      "id": "0f0c804f72853ce3",
+      "image_url": "https://sport.sky.it/assets/images/a4bd051fd1575e66ecb42767b1310bdc278a796b/skysport/it/calcio/champions-league/video/2026/04/08/1088413_1775590206604_thumb_494.0000001_1775599663833.jpg",
+      "image_type": "feed_image"
+    },
+    {
+      "title": "Tennis: Trungelliti sconfigge Arnaldialdi e approda in finale ATP",
+      "url": "/sport/tennis-trungelliti-in-finale-atp-a-marrakech-aedc5004103616b7",
+      "id": "aedc5004103616b7",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/O2_%2849052005681%29.jpg",
+      "image_type": "wikimedia"
+    },
+    {
+      "title": "Basket: Orlando Magic supera i Mavericks a Dallas con 27 punti di Wagner",
+      "url": "/sport/basket-orlando-batte-dallas-138-127-con-banchero-d-406bf64fcb134e6d",
+      "id": "406bf64fcb134e6d",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/The_Dallas_Mavericks_%282930809450%29.jpg",
+      "image_type": "wikimedia"
+    }
+  ],
+  "hero_eligible": true
+}
