@@ -1,5 +1,24 @@
 [
   {
+    "id": "f9cae153b1de03c7",
+    "slug": "emilia-romagna-25-milioni-per-energie-rinnovabili-f9cae153b1de03c7",
+    "title": "Emilia-Romagna, 2,5 milioni per impianti rinnovabili in condomini e Comuni",
+    "section": "ambiente",
+    "priority": 5,
+    "journalist_firma": "Enrico Mari",
+    "published_at": "2026-04-08T14:27:30.685820+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://www.repstatic.it/content/contenthub/img/2026/04/07/112045933-feac0ad4-1125-49b3-a7d7-2075378f296f.jpg",
+    "occhiello": "2,5 MILIONI PER RINNOVABILI CONDIVISI",
+    "lead_preview": "Emilia-Romagna, 7 aprile 2026 – La Regione ha stanziato 2,5 milioni di euro per il terzo bando a sostegno di impianti di",
+    "tags": [
+      "rinnovabili emilia",
+      "bando rinnovabili 2026",
+      "energia condivisa"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "monitor_cloudflare",
     "slug": "disservizio-cloudflare",
     "title": "Cloudflare è irraggiungibile da 21 minuti. Gli utenti italiani segnalano disserv",
@@ -2340,25 +2359,6 @@
       "stipendio jason tarry",
       "john lewis 2025",
       "compensi ceo retail"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "f9cae153b1de03c7",
-    "slug": "emilia-romagna-25-milioni-per-energie-rinnovabili-f9cae153b1de03c7",
-    "title": "Emilia-Romagna, 2,5 mln per impianti rinnovabili condivisi: fondi a Comuni e condomini",
-    "section": "ambiente",
-    "priority": 5,
-    "journalist_firma": "Valentina Costa",
-    "published_at": "2026-04-08T14:27:30.685820+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://www.repstatic.it/content/contenthub/img/2026/04/07/112045933-feac0ad4-1125-49b3-a7d7-2075378f296f.jpg",
-    "occhiello": "",
-    "lead_preview": "Emilia-Romagna, 7 aprile 2026 – La Regione ha stanziato 2,5 milioni di euro per il terzo bando a sostegno di impianti di",
-    "tags": [
-      "fondi rinnovabili emilia",
-      "bando impianti condivisi",
-      "energie rinnovabili 2026"
     ],
     "hero_eligible": true
   },
