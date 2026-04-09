@@ -1,5 +1,24 @@
 [
   {
+    "id": "1a0d359a17d0e33a",
+    "slug": "48-approva-mamdani-ma-60-teme-il-futuro-1a0d359a17d0e33a",
+    "title": "Mamdani al 48% di approvazione dopo i primi 100 giorni a New York",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-09T15:51:51.841713+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it",
+    "occhiello": "MAMDANI AL 48%: IL FUTURO SPAVENTA PIÙ DEL PRESENTE",
+    "lead_preview": "Zohran Kwame Mamdani ha chiuso i primi cento giorni da sindaco di New York con un'approvazione al 48%. È il dato che eme",
+    "tags": [
+      "mamdani new york",
+      "sondaggio mamdani",
+      "primi 100 giorni mamdani"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "3c4a7eb857cb2789",
     "slug": "96mila-interventi-annullati-a-cuba-per-black-out-d-3c4a7eb857cb2789",
     "title": "96Mila interventi annullati a Cuba per blackout: Díaz-Canel punta il dito contro le sanzioni Usa",
@@ -402,21 +421,6 @@
       "professoressa accoltellata",
       "caso studente tredicenne"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "1a0d359a17d0e33a",
-    "slug": "48-approva-mamdani-ma-60-teme-il-futuro-1a0d359a17d0e33a",
-    "title": "48% approva mamdani, ma 60% teme il futuro",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-09T15:51:51.841713+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it",
-    "occhiello": "48% APPROVA MAMDANI, MA 60% TEME IL FUTURO",
-    "lead_preview": "Zohran Kwame Mamdani, sindaco di New York dal 1º gennaio 2026, ha concluso i suoi primi 100 giorni di mandato con un ind",
-    "tags": [],
     "hero_eligible": true
   },
   {
