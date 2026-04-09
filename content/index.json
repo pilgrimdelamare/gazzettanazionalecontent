@@ -1,5 +1,25 @@
 [
   {
+    "id": "oroscopo_daily",
+    "slug": "oroscopo-del-giorno",
+    "title": "Oroscopo di oggi, giovedì 9 aprile 2026",
+    "section": "oroscopo",
+    "priority": 5,
+    "journalist_firma": "Stella D'Argento",
+    "published_at": "2026-04-09T04:11:10.270736+00:00",
+    "image_type": "none",
+    "image_url": "",
+    "occhiello": "OROSCOPO — GIOVEDÌ 9 APRILE 2026",
+    "lead_preview": "L'universo cospira per il vostro bene. Ogni giorno porta un messaggio nascosto, un invito a guardare la realtà con occhi",
+    "tags": [
+      "oroscopo",
+      "zodiaco",
+      "stelle",
+      "Stella D'Argento"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "ddcb403b16e9fcf5",
     "slug": "aston-villa-italiano-chiede-coraggio-ai-bolognesi-ddcb403b16e9fcf5",
     "title": "Italiano chiede coraggio, ma il bologna è già fuori",
@@ -9025,24 +9045,6 @@
     "tags": [
       "sinner zverev",
       "torneo montecarlo"
-    ]
-  },
-  {
-    "id": "82fe044e6c336754",
-    "slug": "basket-virtus-bologna-ospita-valencia-82fe044e6c336754",
-    "title": "Basket: Niang firma l'alley-oop del vantaggio in apertura, Virtus Bologna batte Valencia 87-82",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-03T19:30:25.481218+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1574142233428-93b8c48af5ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxFdXJvTGVhZ3VlJTIwUm91bmQlMjAzNXxlbnwwfDB8fHwxNzc1MzE4NzE4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "BASKET: VIRTUS BOLOGNA VINCIE CON SALIOU NIANG",
-    "lead_preview": "Saliou Niang ha aperto la partita tra Virtus Bologna e Valencia con un canestro in alley-oop al minuto 1 del Round 35 di",
-    "tags": [
-      "virtus bologna valencia",
-      "saliou niang alley-oop",
-      "euroleague 2026"
     ]
   }
 ]
