@@ -1,5 +1,24 @@
 [
   {
+    "id": "933ddad4fa4a5754",
+    "slug": "meloni-a-roma-5000-medici-promessi-ma-erano-gia-pr-933ddad4fa4a5754",
+    "title": "Meloni a Roma: 5.000 medici promessi, ma erano già previsti nel",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Sergio Mancini",
+    "published_at": "2026-04-09T10:53:12.119913+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/09/123142899-ff50e1d6-cdce-4c2d-acff-5b478dfa16bf.jpg",
+    "occhiello": "",
+    "lead_preview": "Giorgia Meloni ha parlato il 9 aprile 2026 davanti a una platea di sindaci in Campidoglio, ammettendo implicitamente il ",
+    "tags": [
+      "meloni a roma",
+      "promessa medici",
+      "liste d'attesa"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "97f024d5fd8a4bf3",
     "slug": "cannes-79-senza-bandiera-tricolore-97f024d5fd8a4bf3",
     "title": "Cannes 79 senza bandiera tricolore",
@@ -9012,22 +9031,6 @@
       "decreto bollette",
       "telemarketing energetico",
       "multe energia"
-    ]
-  },
-  {
-    "id": "ceebea23fc899a47",
-    "slug": "ritrovata-a-bibbiano-la-viola-da-40mila-euro-rubat-ceebea23fc899a47",
-    "title": "Viola da 40mila euro ritrovata a Bibbiano, restituita al fratello di Romano Prodi",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-04-04T08:29:20.263474+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1555794169-ab97ac773948?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxiaWJiaWFubyUyMGl0YWx5JTIwdmlvbGlufGVufDB8MHx8fDE3NzUzNjEwNjB8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "VIOLA RUBATA A FRANCO PRODI RITROVATA",
-    "lead_preview": "Giancarlo Prodi, fratello dell’ex presidente del consiglio Romano Prodi, ha riavuto indietro la viola rubatagli nel 2023",
-    "tags": [
-      "viola rubata prodi"
     ]
   }
 ]
