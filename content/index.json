@@ -1,5 +1,24 @@
 [
   {
+    "id": "36b9ec60015ce060",
+    "slug": "trump-minaccia-liran-unintera-civilta-morira-36b9ec60015ce060",
+    "title": "Trump minaccia la caduta di una civiltà, poi tregua di 14 giorni firmata da Usa, Iran e Israele",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-08T09:12:38.171848+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/03/Trump_2-1200x630.jpg",
+    "occhiello": "",
+    "lead_preview": "Donald Trump ha minacciato mercoledì 8 aprile 2026 che “un’intera civiltà morirà stanotte” in un messaggio rivolto all’I",
+    "tags": [
+      "minaccia trump iran",
+      "tregua usa-iran-israele",
+      "ultimatum 2026"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "6d6a30cad18ed82d",
     "slug": "benzina-gasolio-e-voli-i-prezzi-scenderanno-ma-len-6d6a30cad18ed82d",
     "title": "Trump promette -30 centesimi al gallone con sanzioni al gas russo entro due settimane",
@@ -1326,23 +1345,6 @@
     "occhiello": "",
     "lead_preview": "Papa Leone XIV ha accolto con soddisfazione, mercoledì 8 aprile 2026, l’annuncio della tregua tra Stati Uniti e Iran eme",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "36b9ec60015ce060",
-    "slug": "trump-minaccia-liran-unintera-civilta-morira-36b9ec60015ce060",
-    "title": "Trump minaccia l'Iran: 'un'intera civiltà morirà'",
-    "section": "esteri",
-    "priority": 7,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-08T09:12:38.171848+00:00",
-    "image_type": "image",
-    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/03/Trump_2-1200x630.jpg",
-    "occhiello": "TRUMP MINACCIA L'APOCALISSE, POI CEDE",
-    "lead_preview": "Donald Trump ha minacciato mercoledì 8 aprile 2026 che \"un'intera civiltà morirà stanotte\" in un ultimatum all'Iran, sal",
-    "tags": [
-      "trump minaccia iran"
-    ],
     "hero_eligible": true
   },
   {
