@@ -1,5 +1,24 @@
 [
   {
+    "id": "01dfc26d7e896a9a",
+    "slug": "mollicone-usa-25-milioni-di-fondi-cultura-per-film-01dfc26d7e896a9a",
+    "title": "Mollicone usa 2,5 milioni di fondi Cultura per film di destra",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Elena Russo",
+    "published_at": "2026-04-09T01:16:24.776325+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/08/222810951-21c4baec-4385-4c7c-80d5-df3b681bb867.jpg",
+    "occhiello": "MANI DI MOLLICONE SUL CINEMA. FONDI AI SODALI",
+    "lead_preview": "Il presidente della Commissione Cultura, Federico Mollicone, ha utilizzato i fondi per finanziare progetti di film gradi",
+    "tags": [
+      "mollicone",
+      "fondi cultura",
+      "film destra"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c92c9c72f923fc4e",
     "slug": "orban-perde-il-sostegno-di-meloni-troppi-legami-co-c92c9c72f923fc4e",
     "title": "Orban perde il sostegno di Meloni: troppi legami con Putin",
@@ -9007,23 +9026,6 @@
       "parthenope napoli",
       "museo archeologico napoli",
       "mostre 2026"
-    ]
-  },
-  {
-    "id": "35e254a9b5bd410e",
-    "slug": "harvard-si-riunisce-per-votare-limiti-ai-voti-di-a-35e254a9b5bd410e",
-    "title": "Harvard, 3 aprile 2026",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-03T15:50:03.777350+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1695790146628-69db718303a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxIYXJ2YXJkJTIwVW5pdmVyc2l0eSUyMGZhY3VsdHklMjBtZWV0aW5nfGVufDB8MHx8fDE3NzUzMDE4MDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "",
-    "lead_preview": "Harvard, 3 aprile 2026. La facoltà dell’Università Harvard a Cambridge, nel Massachusetts, si riunirà oggi per votare su",
-    "tags": [
-      "voto harvard 2026",
-      "politica universitaria harvard"
     ]
   }
 ]
