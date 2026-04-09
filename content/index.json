@@ -1,5 +1,20 @@
 [
   {
+    "id": "501450e9d0cebae2",
+    "slug": "il-matrimonio-compra-la-carriera-il-divorzio-la-re-501450e9d0cebae2",
+    "title": "Il matrimonio compra la carriera, il divorzio la restituisce",
+    "section": "cultura",
+    "priority": 6,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-09T09:13:34.371013+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/09/7061442_small-931x630.jpg",
+    "occhiello": "IL MATRIMONIO COMPRA LA CARRIERA, IL DIVORZIO LA RESTITUISCE",
+    "lead_preview": "Clotilde Courau, 54 anni, attrice francese e moglie separata di Emanuele Filiberto di Savoia, ha dichiarato il 9 aprile ",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "16170501c247d751",
     "slug": "morte-a-parigi-a-95-anni-lattore-italo-tedesco-16170501c247d751",
     "title": "Morte a parigi a 95 anni l'attore italo-tedesco",
@@ -9029,23 +9044,6 @@
     "tags": [
       "trump iran",
       "guerra iran"
-    ]
-  },
-  {
-    "id": "d74ca085c901e997",
-    "slug": "il-97-del-gas-uk-arriva-da-fuori-jackdaw-e-roseban-d74ca085c901e997",
-    "title": "Regno Unito: 3% di gas da Jackdaw e Rosebank",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-04T09:32:28.026870+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1648555394313-494797ad48fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxvaWwlMjBhbmQlMjBnYXMlMjBwbGF0Zm9ybXMlMjBub3J0aCUyMHNlYXxlbnwwfDB8fHwxNzc1MzU1NjkyfDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "GIACIMENTI MARINI, GAZZA NO-------------",
-    "lead_preview": "Jackdaw e Rosebank, due giacimenti nel Mare del Nord, forniranno appena il 3% del gas consumato annualmente dal Regno Un",
-    "tags": [
-      "giacimenti marini regno unito",
-      "gas nel nord"
     ]
   }
 ]
