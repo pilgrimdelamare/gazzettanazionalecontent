@@ -1,5 +1,20 @@
 [
   {
+    "id": "c27c8581f78c0e07",
+    "slug": "borsa-milano-apre-in-calo-dello-013-pesante-diasor-c27c8581f78c0e07",
+    "title": "Borsa: milano apre in calo dello 0,13%, pesante diasorin",
+    "section": "economia",
+    "priority": 6,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-09T07:35:10.586105+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2012/7/24/ccf81f8ee063882b214786fe432f60c5.jpg",
+    "occhiello": "BORSA: MILANO APRE IN CALO DELLO 0,13%, PESANTE DIASORIN",
+    "lead_preview": "OCCHIELLO Il mercato azionario italiano scende in calo LEAD Milano, 9 aprile 2026 - La Borsa di Milano apre in calo dell",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "monitor_discord",
     "slug": "disservizio-discord",
     "title": "Discord è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
@@ -9028,21 +9043,5 @@
     "occhiello": "INCENDIO IN CALIFORNIA MINACCIA MORENO VALLEY",
     "lead_preview": "Un incendio sta avanzando a 30 chilometri orari verso Moreno Valley, in California, minacciando la città",
     "tags": []
-  },
-  {
-    "id": "d0c5ccaa8f421714",
-    "slug": "marathon-arriva-su-ps5-xbox-e-pc-il-5-marzo-a-40-e-d0c5ccaa8f421714",
-    "title": "Bungie lancia Marathon su Ps5, Xbox e Pc: un fantasy d'azione a 40€",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-04-04T09:42:01.797525+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1766970096331-78c8af007a3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxtYXJhdGhvbiUyMGdhbWUlMjBwczUlMjB4Ym94JTIwcGMlMjA0MCUyMGV1cm98ZW58MHwwfHx8MTc3NTM1MjgxNXww&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "LA BENGIA VA IN PS5",
-    "lead_preview": "Il 5 marzo 2026, Bungie lancia Marathon su Ps5, Xbox Series X/S e Pc al prezzo di 40 euro.",
-    "tags": [
-      "marathon bungie"
-    ]
   }
 ]
