@@ -1,5 +1,20 @@
 [
   {
+    "id": "d93d84bf26ec4792",
+    "slug": "phoenix-dallas-in-finale-nba-d93d84bf26ec4792",
+    "title": "Phoenix-dallas in finale nba!",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-09T09:03:19.989992+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/0faa45b8b4a0a31512c01109217b262787cc413f/skysport/it/nba/video/2026/04/09/1088793_1775717587158_thumb_494.0000001_1775718302319.jpg",
+    "occhiello": "PHOENIX-DALLAS IN FINALE NBA!",
+    "lead_preview": "Il Phoenix ha sconfitto il Dallas 112-107 nella finale NBA 2026. La partita è stata giocata alla Phoenix Suns Arena il 9",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "764b02fb6be0100e",
     "slug": "papa-leone-xiv-riceve-atleti-olimpici-e-paralimpic-764b02fb6be0100e",
     "title": "Papa Leone XIV riceve atleti olimpici e paralimpici in udienza privata",
@@ -9034,23 +9049,6 @@
       "vignetta meloni",
       "caso meloni",
       "giorgia meloni"
-    ]
-  },
-  {
-    "id": "5df1f0a2b2beb3e5",
-    "slug": "israele-colpisce-hezbollah-a-beirut-raid-aerei-nel-5df1f0a2b2beb3e5",
-    "title": "Israele colpisce Hezbollah a Beirut",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-04T01:35:51.835548+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/6462796/pexels-photo-6462796.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "ISRAELE ATTACCA HEZBOLLAH A BEIRUT",
-    "lead_preview": "Israele ha iniziato a colpire le infrastrutture di Hezbollah nella periferia sud di Beirut, in Libano, nella notte tra i",
-    "tags": [
-      "israele hezbollah",
-      "attacco a beirut"
     ]
   }
 ]
