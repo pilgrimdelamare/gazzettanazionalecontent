@@ -1,0 +1,60 @@
+{
+  "id": "f33335b2f9685081",
+  "slug": "basket-aaron-gordon-si-infortuna-contro-memphis-e-f33335b2f9685081",
+  "title": "Basket: Aaron Gordon si infortuna contro Memphis e salta il resto della gara",
+  "titles": [
+    "Basket: Aaron Gordon si infortuna contro Memphis e salta il resto della gara",
+    "Basket: L'ennesimo infortunio di Gordon minaccia la stagione dei Nuggets",
+    "Basket: 10^ vittoria filata per Denver, ma Gordon esce ko in finale primo tempo"
+  ],
+  "title_winner": null,
+  "section": "sport",
+  "occhiello": "NEW YORK, STOP A AARON GORDON: I NUGGETS TEMONO UN NUOVO INFRONTUNIO.",
+  "lead": "Aaron Gordon, l'ala chiave dei Denver Nuggets, si infortuna alla zona addominale contro Memphis e non rientra più in campo.",
+  "corpo1": "Il 9 aprile 2026, i Denver Nuggets hanno conquistato la 10^ vittoria consecutiva contro i Memphis Grizzlies, ma la notizia più importante è che Aaron Gordon, l'ala chiave della squadra, si è infortunato alla zona addominale nel finale del primo tempo della gara e non è più rientrato in campo. Questo infortunio è particolarmente preoccupante, considerando che Gordon ha già giocato solo 36 partite in questa stagione a causa di vari problemi di natura fisica. I Nuggets hanno già avuto problemas in passato con i loro giocatori, e l'entità di questo infortunio non è ancora chiara. Gli esami di rito sono previsti per comprendere meglio la gravità dell'infortunio. La squadra di Denver è già in uno stato di grande instabilità, e un altro infortunio di uno dei suoi giocatori chiave potrebbe mettere a rischio il loro posto in classifica.",
+  "corpo2": "Aaron Gordon è uno dei giocatori più importanti della squadra di Denver, e la sua assenza potrebbe essere sentita molto. La sua carriera è stata segnata da problemi fisici ricorrenti, e un nuovo stop potrebbe compromettere definitivamente la sua stagione. Gordon è nato a San Jose, in California, e ha iniziato a giocare a Basket già da bambino. Ha frequentato l'Archbishop Mitty High School, dove è Stato nominato California Mr. Basketball in entrambi gli anni. Successivamente, è Stato selezionato dagli Arizona Wildcats, con cui ha vinto il titolo di campione della Pac-12 e si è qualificato per l'Elite Eight del torneo NCAA. Dopo aver lasciato l'università, Gordon è Stato selezionato dai Denver Nuggets nel draft NBA. La sua carriera è stata segnata da problemi di salute, ma è sempre Stato un giocatore importante per la sua squadra. Ora, la sua assenza potrebbe essere sentita molto dai Nuggets, e la loro posizione ai playoff potrebbe essere messa a rischio.",
+  "article_type": "standard",
+  "cards": [],
+  "journalist": {
+    "id": "davide_longo_01",
+    "firma": "Davide Longo",
+    "sezione": "sport"
+  },
+  "published_at": "2026-04-09T06:58:55.619030+00:00",
+  "image": {
+    "type": "feed_image",
+    "url": "https://sport.sky.it/assets/images/c8f2bc763fc047e089b4eca582b2d6ccd9aaf637/skysport/it/nba/video/2026/04/09/gordon-nba-denver-nuggets-video-1088781/Aaron_Gordon_Getty_Denver_Nuggets.jpg",
+    "source": "Sky Sport",
+    "credit": "Sky Sport",
+    "license": "editorial"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Basket: Aaron Gordon si infortuna contro Memphis e salta il resto della gara\",\n  \"description\": \"Aaron Gordon, l'ala chiave dei Denver Nuggets, si infortuna alla zona addominale contro Memphis e non rientra più in campo.\",\n  \"articleBody\": \"Aaron Gordon, l'ala chiave dei Denver Nuggets, si infortuna alla zona addominale contro Memphis e non rientra più in campo. Il 9 aprile 2026, i Denver Nuggets hanno conquistato la 10^ vittoria consecutiva contro i Memphis Grizzlies, ma la notizia più importante è che Aaron Gordon, l'ala chiave della squadra, si è infortunato alla zona addominale nel finale del primo tempo della gara e non è più rientrato in campo. Questo infortunio è particolarmente preoccupante, considerando che Gordon ha già giocato solo 36 partite in questa stagione a causa di vari problemi di natura fisica. I Nuggets hanno già avuto problemas in passato con i loro giocatori, e l'entità di questo infortunio non è ancora chiara. Gli esami di rito sono previsti per comprendere meglio la gravità dell'infortunio. La squadra di Denver è già in uno stato di grande instabilità, e un altro infortunio di uno dei suoi giocatori chiave potrebbe mettere a rischio il loro posto in classifica. Aaron Gordon è uno dei giocatori più importanti della squadra di Denver, e la sua assenza potrebbe essere sentita molto. La sua carriera è stata segnata da problemi fisici ricorrenti, e un nuovo stop potrebbe compromettere definitivamente la sua stagione. Gordon è nato a San Jose, in California, e ha iniziato a giocare a Basket già da bambino. Ha frequentato l'Archbishop Mitty High School, dove è Stato nominato California Mr. Basketball in entrambi gli anni. Successivamente, è Stato selezionato dagli Arizona Wildcats, con cui ha vinto il titolo di campione della Pac-12 e si è qualificato per l'Elite Eight del torneo NCAA. Dopo aver lasciato l'università, Gordon è Stato selezionato dai Denver Nuggets nel draft NBA. La sua carriera è stata segnata da problemi di salute, ma è sempre Stato un giocatore importante per la sua squadra. Ora, la sua assenza potrebbe essere sentita molto dai Nuggets, e la loro posizione ai playoff potrebbe essere messa a rischio.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Davide Longo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-09T06:58:55.619030+00:00\",\n  \"dateModified\": \"2026-04-09T06:58:55.619030+00:00\",\n  \"url\": \"https://lentemattutina.it/sport/f33335b2f9685081\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/sport/f33335b2f9685081\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://sport.sky.it/assets/images/c8f2bc763fc047e089b4eca582b2d6ccd9aaf637/skysport/it/nba/video/2026/04/09/gordon-nba-denver-nuggets-video-1088781/Aaron_Gordon_Getty_Denver_Nuggets.jpg\",\n    \"creditText\": \"Sky Sport\"\n  }\n}",
+  "priority": 6,
+  "source": "Sky Sport",
+  "source_type": "competitor",
+  "original_url": "https://sport.sky.it/nba/video/2026/04/09/gordon-nba-denver-nuggets-video-1088781",
+  "related": [
+    {
+      "title": "Basket: i Bucks fanno tabellone contro Memphis 131-115",
+      "url": "/sport/basket-i-bucks-impennano-a-fiserv-forum-76e5c33803be10a8",
+      "id": "76e5c33803be10a8",
+      "image_url": "https://sport.sky.it/assets/images/62cb778609b1a28e91fd9667bce166365f1ad341/skysport/it/nba/video/2026/04/06/1087973_1775432196532_thumb_494.0000001_1775452325598.jpg",
+      "image_type": "feed_image"
+    },
+    {
+      "title": "Basket: Austin Reaves out 4-6 settimane per lesione addominale, salta gli scontri chiave Lakers",
+      "url": "/sport/basket-reaves-ko-per-4-6-settimane-i-lakers-perdon-bfc7400fbc03d5cd",
+      "id": "bfc7400fbc03d5cd",
+      "image_url": "https://sport.sky.it/assets/images/6c43ee3575610c96d9c5fd1fe12f3fc7a839a640/skysport/it/nba/video/2026/04/08/1088473_1775630011899_thumb_494.0000001_1775630086037.jpg",
+      "image_type": "feed_image"
+    },
+    {
+      "title": "Basket: Doncic out per il resto della stagione NBA",
+      "url": "/sport/lakers-ko-doncic-fuori-0a90ed298d3fdcd3",
+      "id": "0a90ed298d3fdcd3",
+      "image_url": "https://images.unsplash.com/photo-1576778453123-ab240b89dd52?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxMdWthJTIwRG9uY2ljJTIwaW5qdXJ5JTIwcHJlc3MlMjBjb25mZXJlbmNlfGVufDB8MHx8fDE3NzU0MTU5ODF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    }
+  ],
+  "hero_eligible": true
+}
