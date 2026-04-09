@@ -1,5 +1,24 @@
 [
   {
+    "id": "f759f782215acdf2",
+    "slug": "esportazioni-italiane-in-america-latina-a-68-800-m-f759f782215acdf2",
+    "title": "Italia e America Latina, esportazioni (+6,8%) a 17 miliardi dopo vertice di Panama",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-08T03:21:41.244831+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/bcf9389d12c828ce16b146a54b4ba0be.jpg",
+    "occhiello": "ESPORTAZIONI ITALIA-LATINO AMERICA CRESCONO DEL 6,8%",
+    "lead_preview": "Il vertice Italia-America Latina si è concluso mercoledì 8 aprile a Panama, con un aumento del 6,8% delle esportazioni t",
+    "tags": [
+      "vertice panama",
+      "esportazioni italia",
+      "italia america latina"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "5fee0bf3c182a557",
     "slug": "basket-boston-stende-charlotte-con-una-strepitosa-5fee0bf3c182a557",
     "title": "Boston vincente a casa contro Charlotte 113-102",
@@ -1985,24 +2004,6 @@
       "cid digitale obbligatorio",
       "assicurazioni auto",
       "modulo digitale rca"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "f759f782215acdf2",
-    "slug": "esportazioni-italiane-in-america-latina-a-68-800-m-f759f782215acdf2",
-    "title": "Esportazioni Italia-Latino America +6,8%",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-08T03:21:41.244831+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/bcf9389d12c828ce16b146a54b4ba0be.jpg",
-    "occhiello": "EXPORT LATINO: +800 MILIONI",
-    "lead_preview": "Il vertice Italia-America Latina che si è concluso mercoledì 8 aprile a Panama segna un aumento del 6,8% delle esportazi",
-    "tags": [
-      "esportazioni italia",
-      "vertice italia america latina"
     ],
     "hero_eligible": true
   },
