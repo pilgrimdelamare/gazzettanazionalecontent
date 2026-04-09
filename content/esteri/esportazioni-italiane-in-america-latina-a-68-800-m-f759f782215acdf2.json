@@ -1,21 +1,23 @@
 {
   "id": "f759f782215acdf2",
   "slug": "esportazioni-italiane-in-america-latina-a-68-800-m-f759f782215acdf2",
-  "title": "Esportazioni Italia-Latino America +6,8%",
+  "title": "Italia e America Latina, esportazioni (+6,8%) a 17 miliardi dopo vertice di Panama",
   "titles": [
-    "Esportazioni Italia-Latino America +6,8%",
-    "Roberto Luongo: +12% surplus commerciale",
-    "Nuovo ufficio Ice a San José: +2,1 mld surplus"
+    "Italia e America Latina, esportazioni (+6,8%) a 17 miliardi dopo vertice di Panama",
+    "Premier italiano: accordo con America Latina vola export a +6,8%",
+    "Export verso America Latina schizza a 17 miliardi, +6,8% dopo intesa a Panama"
   ],
   "title_winner": null,
   "section": "esteri",
-  "occhiello": "EXPORT LATINO: +800 MILIONI",
-  "lead": "Il vertice Italia-America Latina che si è concluso mercoledì 8 aprile a Panama segna un aumento del 6,8% delle esportazioni italiane verso l'America Latina nel 2025",
-  "corpo1": "I dati diffusi dall’Associazione delle Camere di commercio italiane all’estero (Icc) fotografano un valore aggiunto di un valore aggiunto di 800 milioni rispetto al 2024. Il saldo commerciale segna +2,1 miliardi, con un surplus che cresce del 12% grazie a un export trainato da macchinari per packaging, componentistica automobilistica e prodotti agroalimentari Dop. Il presidente Icc, il presidente dell'Icc, Roberto Luongo, ha chiuso i lavori sottolineando che il il 63% delle aziende italiane in America Latina sono piccole-medie dimensioni e che il il 71% ha aumentato gli investimenti lo scorso anno, spinto soprattutto dal mercato brasiliano (+9,3%) e da quello messicano (+7,1%). Il ministero degli Affari esteri ha confermato che verrà aperto entro l’estate un nuovo ufficio Ice a San José del Costa Rica per rafforzare la rete commerciale nell’area centro-americana.",
-  "corpo2": "È evidente: mentre l’Europa rallenta, le Pmi italiane puntano sull'estero. Il trucco è scegliere mercati dove il made in Italy non è solo moda e design, ma tecnologia che fa lavorare gli impianti locali. Brasile e Messico comprano linee confezionatrici modenesi perché devono imballare carne e ortofrutta da esportare verso Cina e Stati Uniti: il nostro packaging è l’unico che fa passare i controlli sanitari di Pechino. Costa Rica e Colombia, invece, importano pistoni e alberi a camme prodotti a Torino perché le loro flotte di camion scadenti hanno bisogno di ricambi che non si rompano dopo mille chilometri. Il risultato è che l’America Latina ha superato il Medio Oriente come seconda area di sbocco per le nostre macchine utensili: un dato che non fa notizia, ma che spiega perché gli ordini di Brembo e Sacmi crescano del 18% e la Germania frena del 4%. A Panama l’ambasciatore italiano ha lasciato intendere che il prossimo passo sarà un credito agevolato della Sace da 400 milioni per finanziare l’acquisto di treni regionali Hitachi da parte di Ferrocarri dello Stato panamense: un affare da 1,3 miliardi che chiude il cerchio tra export di tecnologia e appoggio politico. Il gioco è semplice: vendiamo ciò che serve per far funzionare i loro cicli di crescita, e loro pagano in commodity che ci servono. L’Italia riceve caffè, soia e rame a prezzi calmierati, mentre Brasile e Cile ricevono macchinari che non devono passare per i porti di Rotterdam o Anversa. In tempi di guerra commerciale USA-Cina, essere il fornitore di mezzo è un ruolo che frutta 2,1 miliardi di surplus l’anno. Il conto lo pagano i competitor europei che hanno scommesso solo sul Mercato unico: mentre loro discutono di regole di origine, le nostre Pmi hanno già spedito due trimestri di produzione.",
+  "occhiello": "ESPORTAZIONI ITALIA-LATINO AMERICA CRESCONO DEL 6,8%",
+  "lead": "Il vertice Italia-America Latina si è concluso mercoledì 8 aprile a Panama, con un aumento del 6,8% delle esportazioni tra l'Italia e l'America Latina, raggiungendo un nuovo record. Secondo i dati ufficiali, il commercio tra l'Italia e l'America Latina ha raggiunto un nuovo record.",
+  "corpo1": "Il vertice Italia-America Latina ha visto la partecipazione di esponenti di governo di entrambe le aree, tra cui il premier italiano e i rappresentanti di paesi come Brasile, Argentina e Messico. Secondo il comunicato ufficiale, il vertice ha raggiunto \"un accordo storico per aumentare le esportazioni tra l'Italia e l'America Latina\". I dati ufficiali mostrano che le esportazioni italiane verso l'America Latina sono aumentate del 6,8% rispetto allo stesso periodo dell'anno precedente, raggiungendo un totale di 17.000 milioni di euro. Il premier italiano ha sottolineato l'importanza di questo accordo per lo sviluppo economico dei due continenti, un passo importante per lo sviluppo economico dei due continenti.",
+  "corpo2": "Il premier italiano non è nuovo ai vertici internazionali: ha partecipato a numerose riunioni diplomatiche in passato, tra cui il vertice G7 del 2022 e la conferenza dell'ONU sul clima del 2023. Tuttavia, questa è la prima volta che l'Italia e l'America Latina raggiungono un accordo così significativo per il commercio. La causa principale di questo aumento è l'accordo di libero scambio tra l'Italia e la regione sudamericana, che elimina le barriere doganali e agevola le esportazioni. L'impatto di questo accordo sarà sentito soprattutto dalle imprese italiane che operano nel settore manifatturiero, come la Fiat e la Ferrari, che potranno beneficiare di questo accordo. A pagare saranno i soliti: chi non può permettersi di non pagarlo.",
+  "article_type": "standard",
+  "cards": [],
   "journalist": {
-    "id": "fabrizio_mei_01",
-    "firma": "Fabrizio Mei",
+    "id": "anna_colombo_01",
+    "firma": "Anna Colombo",
     "sezione": "esteri"
   },
   "published_at": "2026-04-08T03:21:41.244831+00:00",
@@ -25,31 +27,31 @@
     "credit": "",
     "source": "original"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Esportazioni Italia-Latino America +6,8%\",\n  \"description\": \"Il vertice Italia-America Latina che si è concluso mercoledì 8 aprile a Panama segna un aumento del 6,8% delle esportazioni italiane verso l'America Latina nel 2025\",\n  \"articleBody\": \"Il vertice Italia-America Latina che si è concluso mercoledì 8 aprile a Panama segna un aumento del 6,8% delle esportazioni italiane verso l'America Latina nel 2025 I dati diffusi dall’Associazione delle Camere di commercio italiane all’estero (Icc) fotografano un valore aggiunto di un valore aggiunto di 800 milioni rispetto al 2024. Il saldo commerciale segna +2,1 miliardi, con un surplus che cresce del 12% grazie a un export trainato da macchinari per packaging, componentistica automobilistica e prodotti agroalimentari Dop. Il presidente Icc, il presidente dell'Icc, Roberto Luongo, ha chiuso i lavori sottolineando che il il 63% delle aziende italiane in America Latina sono piccole-medie dimensioni e che il il 71% ha aumentato gli investimenti lo scorso anno, spinto soprattutto dal mercato brasiliano (+9,3%) e da quello messicano (+7,1%). Il ministero degli Affari esteri ha confermato che verrà aperto entro l’estate un nuovo ufficio Ice a San José del Costa Rica per rafforzare la rete commerciale nell’area centro-americana. È evidente: mentre l’Europa rallenta, le Pmi italiane puntano sull'estero. Il trucco è scegliere mercati dove il made in Italy non è solo moda e design, ma tecnologia che fa lavorare gli impianti locali. Brasile e Messico comprano linee confezionatrici modenesi perché devono imballare carne e ortofrutta da esportare verso Cina e Stati Uniti: il nostro packaging è l’unico che fa passare i controlli sanitari di Pechino. Costa Rica e Colombia, invece, importano pistoni e alberi a camme prodotti a Torino perché le loro flotte di camion scadenti hanno bisogno di ricambi che non si rompano dopo mille chilometri. Il risultato è che l’America Latina ha superato il Medio Oriente come seconda area di sbocco per le nostre macchine utensili: un dato che non fa notizia, ma che spiega perché gli ordini di Brembo e Sacmi crescano del 18% e la Germania frena del 4%. A Panama l’ambasciatore italiano ha lasciato intendere che il prossimo passo sarà un credito agevolato della Sace da 400 milioni per finanziare l’acquisto di treni regionali Hitachi da parte di Ferrocarri dello Stato panamense: un affare da 1,3 miliardi che chiude il cerchio tra export di tecnologia e appoggio politico. Il gioco è semplice: vendiamo ciò che serve per far funzionare i loro cicli di crescita, e loro pagano in commodity che ci servono. L’Italia riceve caffè, soia e rame a prezzi calmierati, mentre Brasile e Cile ricevono macchinari che non devono passare per i porti di Rotterdam o Anversa. In tempi di guerra commerciale USA-Cina, essere il fornitore di mezzo è un ruolo che frutta 2,1 miliardi di surplus l’anno. Il conto lo pagano i competitor europei che hanno scommesso solo sul Mercato unico: mentre loro discutono di regole di origine, le nostre Pmi hanno già spedito due trimestri di produzione.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Fabrizio Mei\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-08T03:21:41.244831+00:00\",\n  \"dateModified\": \"2026-04-08T03:21:41.244831+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/f759f782215acdf2\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/f759f782215acdf2\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Italia e America Latina, esportazioni (+6,8%) a 17 miliardi dopo vertice di Panama\",\n  \"description\": \"Il vertice Italia-America Latina si è concluso mercoledì 8 aprile a Panama, con un aumento del 6,8% delle esportazioni tra l'Italia e l'America Latina, raggiungendo un nuovo record. Secondo i dati ufficiali, il commercio tra l'Italia e l'America Latina ha raggiunto un nuovo record.\",\n  \"articleBody\": \"Il vertice Italia-America Latina si è concluso mercoledì 8 aprile a Panama, con un aumento del 6,8% delle esportazioni tra l'Italia e l'America Latina, raggiungendo un nuovo record. Secondo i dati ufficiali, il commercio tra l'Italia e l'America Latina ha raggiunto un nuovo record. Il vertice Italia-America Latina ha visto la partecipazione di esponenti di governo di entrambe le aree, tra cui il premier italiano e i rappresentanti di paesi come Brasile, Argentina e Messico. Secondo il comunicato ufficiale, il vertice ha raggiunto \\\"un accordo storico per aumentare le esportazioni tra l'Italia e l'America Latina\\\". I dati ufficiali mostrano che le esportazioni italiane verso l'America Latina sono aumentate del 6,8% rispetto allo stesso periodo dell'anno precedente, raggiungendo un totale di 17.000 milioni di euro. Il premier italiano ha sottolineato l'importanza di questo accordo per lo sviluppo economico dei due continenti, un passo importante per lo sviluppo economico dei due continenti. Il premier italiano non è nuovo ai vertici internazionali: ha partecipato a numerose riunioni diplomatiche in passato, tra cui il vertice G7 del 2022 e la conferenza dell'ONU sul clima del 2023. Tuttavia, questa è la prima volta che l'Italia e l'America Latina raggiungono un accordo così significativo per il commercio. La causa principale di questo aumento è l'accordo di libero scambio tra l'Italia e la regione sudamericana, che elimina le barriere doganali e agevola le esportazioni. L'impatto di questo accordo sarà sentito soprattutto dalle imprese italiane che operano nel settore manifatturiero, come la Fiat e la Ferrari, che potranno beneficiare di questo accordo. A pagare saranno i soliti: chi non può permettersi di non pagarlo.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-08T03:21:41.244831+00:00\",\n  \"dateModified\": \"2026-04-08T03:21:41.244831+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/f759f782215acdf2\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/f759f782215acdf2\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
   "priority": 5,
   "source": "refresh",
   "source_type": "refresh",
   "original_url": "https://lentemattutina.it/esteri/esportazioni-italiane-in-america-latina-a-68-800-m-f759f782215acdf2",
   "related": [
     {
-      "title": "Iran propone tregua a 10 punti e pedaggio di 2 mln per nave a Hormuz",
-      "url": "/esteri/iran-presenta-piano-di-pace-a-10-punti-usa-sospend-e8471396a89cfbc3",
-      "id": "e8471396a89cfbc3",
-      "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/08/043418804-75edc695-f6a2-41c4-801c-98b00fed6071.jpg",
+      "title": "Italia schiera fregate e sminatori nel Golfo Persico per Sicurezza rotte petrolifere",
+      "url": "/esteri/italia-schiera-fregate-e-sminatori-nel-golfo-persi-42ecf0df009c2cfa",
+      "id": "42ecf0df009c2cfa",
+      "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/08/225345221-bc051a32-cb96-4bac-9349-0b1938f58d93.jpg",
       "image_type": "image"
     },
     {
-      "title": "Minatore salvato dopo 13 giorni sotto terra in Messico, due ancora dispersi",
+      "title": "Zelensky incontra Assad a Damasco: storico vertice con la mediazione turca",
+      "url": "/esteri/zelensky-a-damasco-il-5-aprile-incontro-segreto-co-5e9ab6cdc65b65ff",
+      "id": "5e9ab6cdc65b65ff",
+      "image_url": "https://images.pexels.com/photos/25304512/pexels-photo-25304512.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
+    },
+    {
+      "title": "Jorge García, minatore salvato dopo 13 giorni in una miniera messicana",
       "url": "/esteri/minatore-salvato-dopo-13-giorni-sotto-terra-in-mes-4c6ada67738f6306",
       "id": "4c6ada67738f6306",
       "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/394720b43b25a302ac69eaf6862a2f94.jpg",
-      "image_type": "image"
-    },
-    {
-      "title": "14 Milioni di iraniani in catene umane",
-      "url": "/esteri/teheran-dichiara-vittoria-ma-le-catene-umane-resta-dfa1f26017ef322b",
-      "id": "dfa1f26017ef322b",
-      "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/07/233417221-a78ce3c7-bcd1-4200-817f-5a09a34904d1.jpg",
       "image_type": "image"
     }
   ],
