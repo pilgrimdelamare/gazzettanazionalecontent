@@ -1,0 +1,59 @@
+{
+  "id": "02ba13678cc44e54",
+  "slug": "morte-in-attesa-di-comunicazioni-ufficiali-la-fami-02ba13678cc44e54",
+  "title": "Morte in attesa di comunicazioni ufficiali: la famiglia in silenzio",
+  "titles": [
+    "Morte in attesa di comunicazioni ufficiali: la famiglia in silenzio",
+    "Il legale della famiglia: aspettiamo la verità dall'autorità giudiziaria",
+    "Ancora nulla sulla morte: la famiglia in attesa di chiarimenti"
+  ],
+  "title_winner": null,
+  "section": "cronaca",
+  "occhiello": "Morte avvelenate, IL PAPÀ SI DIFENDE",
+  "lead": "Il legale della famiglia ha dichiarato che 'aspettiamo comunicazioni ufficiali dall'autorità giudiziaria'",
+  "corpo1": "La vicenda ha suscitato grande interesse e preoccupazione. Il legale della famiglia ha rilasciato una dichiarazione, affermando che 'aspettiamo comunicazioni ufficiali dall'autorità giudiziaria'. Non sono state fornite ulteriori informazioni sulla dinamica degli eventi o sulle cause della morte. La famiglia sembra essere in attesa di chiarimenti ufficiali dalle autorità.",
+  "corpo2": "La morte avvelenate richiede un'attenta valutazione. senza informazioni ufficiali, è difficile capire. La famiglia è in attesa di risposte e si affida alle autorità per chiarire la situazione. A pagare saranno coloro che non hanno avuto voce in capitolo.",
+  "article_type": "standard",
+  "cards": [],
+  "journalist": {
+    "id": "chiara_esposito_01",
+    "firma": "Chiara Esposito",
+    "sezione": "cronaca"
+  },
+  "published_at": "2026-04-09T14:50:38.530615+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://www.ansa.it/webimages/img_1129x635/2026/3/31/7642c746cc13fb6e40e60f8df87515a6.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Morte in attesa di comunicazioni ufficiali: la famiglia in silenzio\",\n  \"description\": \"Il legale della famiglia ha dichiarato che 'aspettiamo comunicazioni ufficiali dall'autorità giudiziaria'\",\n  \"articleBody\": \"Il legale della famiglia ha dichiarato che 'aspettiamo comunicazioni ufficiali dall'autorità giudiziaria' La vicenda ha suscitato grande interesse e preoccupazione. Il legale della famiglia ha rilasciato una dichiarazione, affermando che 'aspettiamo comunicazioni ufficiali dall'autorità giudiziaria'. Non sono state fornite ulteriori informazioni sulla dinamica degli eventi o sulle cause della morte. La famiglia sembra essere in attesa di chiarimenti ufficiali dalle autorità. La morte avvelenate richiede un'attenta valutazione. senza informazioni ufficiali, è difficile capire. La famiglia è in attesa di risposte e si affida alle autorità per chiarire la situazione. A pagare saranno coloro che non hanno avuto voce in capitolo.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Chiara Esposito\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-09T14:50:38.530615+00:00\",\n  \"dateModified\": \"2026-04-09T14:50:38.530615+00:00\",\n  \"url\": \"https://lentemattutina.it/cronaca/02ba13678cc44e54\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cronaca/02ba13678cc44e54\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.ansa.it/webimages/img_1129x635/2026/3/31/7642c746cc13fb6e40e60f8df87515a6.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 6,
+  "source": "ANSA Cronaca",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/cronaca/2026/04/09/morte-avvelenate-il-papa-ho-la-coscienza-a-posto_c375e8ae-d338-4c24-b454-9b9285bbe517.html",
+  "related": [
+    {
+      "title": "Fano, 20enne accoltella famiglia in viale delle Rimembranze: tre feriti",
+      "url": "/cronaca/fano-20enne-accoltella-padre-madre-e-fratello-in-v-f9cc50c8e9514886",
+      "id": "f9cc50c8e9514886",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/cb3eef9492942c33141fb14779ad6ffa.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Zio accoltellato dal nipote in lite per la casa di famiglia",
+      "url": "/cronaca/58enne-accoltellato-dal-nipote-in-lite-familiare-03392464486acc6a",
+      "id": "03392464486acc6a",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/6/23/856227718e77c15367b58b0241e8ae2a.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Equalize, l'agenzia che ha spiate celebrità come Vieri e Corona",
+      "url": "/cronaca/equalize-lagenzia-che-ha-spiate-celebrita-come-vie-a800aaff2bffee74",
+      "id": "a800aaff2bffee74",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/12/5/06e6bb2e116746be77124a8638154857.jpg",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": true
+}
