@@ -1,5 +1,24 @@
 [
   {
+    "id": "c48190dc843706ba",
+    "slug": "gratta-e-vinci-invalido-il-mezzo-milione-che-non-e-c48190dc843706ba",
+    "title": "500Mila euro annullati a Carsoli: gratta e vinci nullo per carta non sicura",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-08T14:46:30.512863+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/04/28/gratta-e-vinci-2-2-2.jpg",
+    "occhiello": "",
+    "lead_preview": "Carsoli, 8 aprile 2026. Alessandro Mancini, 54 anni, residente a Carsoli, in provincia dell’Aquila, ha scoperto di aver ",
+    "tags": [
+      "gratta e vinci carsoli",
+      "vincita annullata",
+      "lotto caso mancini"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "05ecc326320a30a1",
     "slug": "anestesista-di-47-anni-condannato-a-honolulu-per-a-05ecc326320a30a1",
     "title": "Anestesista di 47 anni condannato a Honolulu per aver spinto la moglie da una scogliera",
@@ -2216,21 +2235,6 @@
     "image_url": "https://img.lemde.fr/2026/04/08/684/0/8192/4096/644/322/60/0/4c8db45_ftp-1-an5dodpemn9u-5709226-01-06.jpg",
     "occhiello": "PETROLIO SOTTO I 100 DOPO LA TREGUA IN IRAN",
     "lead_preview": "Parigi, 8 aprile 2026. Il ministro dell’Economia Antoine Lecornu ha anticipato un calo del prezzo del greggio a seguito ",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "c48190dc843706ba",
-    "slug": "gratta-e-vinci-invalido-il-mezzo-milione-che-non-e-c48190dc843706ba",
-    "title": "Gratta e vinci invalido: il mezzo milione che non esiste",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-08T14:46:30.512863+00:00",
-    "image_type": "image",
-    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/04/28/gratta-e-vinci-2-2-2.jpg",
-    "occhiello": "GRATTA E VINCI INVALIDO: IL MEZZO MILIONE CHE NON ESISTE",
-    "lead_preview": "GRATTA E VINCILLO INVALIDO: IL MEZZO MILIONE CHE NON ESISTE Lead: Il 8 aprile 2026 a Carsoli, in provincia dell'Aquila, ",
     "tags": [],
     "hero_eligible": true
   },
