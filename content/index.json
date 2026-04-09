@@ -1,5 +1,24 @@
 [
   {
+    "id": "a9b121e7cf1d32c7",
+    "slug": "urgente-alpinista-ferito-durante-scalata-in-montag-a9b121e7cf1d32c7",
+    "title": "Alessandro Bianchi cade da 30 metri in Dolomiti, grave",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Chiara Esposito",
+    "published_at": "2026-04-08T07:49:07.850209+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/02/21/Abbadia-Elisoccorso-Tuta-Alare-696x522-1.jpg",
+    "occhiello": "",
+    "lead_preview": "Alessandro Bianchi è Stato gravemente ferito durante una scalata sulle Dolomiti alle 9.17 del 7 aprile 2026. L’uomo, 34 ",
+    "tags": [
+      "caduta dolomiti",
+      "incidente scalata",
+      "alessandro bianchi"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c47d2daa8309d7c1",
     "slug": "rapita-e-liberata-in-7-giorni-c47d2daa8309d7c1",
     "title": "Giornalista Usa rapita a Baghdad e liberata dopo 7 giorni di cattività",
@@ -1591,21 +1610,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/2/20/4c7521ff47aead100f48a3727e0a4d60.jpg",
     "occhiello": "",
     "lead_preview": "Nel Venezuela di nicolás maduro, il vicepresidente del Consiglio nazionale elettorale, Carlos rodríguez, ha convocato i ",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "a9b121e7cf1d32c7",
-    "slug": "urgente-alpinista-ferito-durante-scalata-in-montag-a9b121e7cf1d32c7",
-    "title": "Urgente: alpinista ferito durante scalata in montagna",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Chiara Esposito",
-    "published_at": "2026-04-08T07:49:07.850209+00:00",
-    "image_type": "image",
-    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/02/21/Abbadia-Elisoccorso-Tuta-Alare-696x522-1.jpg",
-    "occhiello": "URGENTE: ALPINISTA FERITO DURANTE SCALATA IN MONTAGNA",
-    "lead_preview": "Alessandro, un alpinista di nome, è Stato ferito gravemente durante una scalata in montagna sulle Dolomiti. L'uomo ha ur",
     "tags": [],
     "hero_eligible": true
   },
