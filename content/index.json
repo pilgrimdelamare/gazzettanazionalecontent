@@ -1,5 +1,24 @@
 [
   {
+    "id": "4c6ada67738f6306",
+    "slug": "minatore-salvato-dopo-13-giorni-sotto-terra-in-mes-4c6ada67738f6306",
+    "title": "Jorge García, minatore salvato dopo 13 giorni in una miniera messicana",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-08T04:09:28.651660+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/394720b43b25a302ac69eaf6862a2f94.jpg",
+    "occhiello": "MINATORE SALVATO DUE SETTIMANE DOPO IL VOTO",
+    "lead_preview": "Coahuila, 8 aprile 2026. Un minatore, 42enne, è Stato salvato dopo tredici giorni a 300 metri di profondità in una minie",
+    "tags": [
+      "minatore salvato",
+      "miniera messicana",
+      "soccorso minatore"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "50a0a25b6f224361",
     "slug": "5-ragazzi-da-avignone-con-627mila-follower-su-tikt-50a0a25b6f224361",
     "title": "Geronymonstre riceve 480mila euro per diffondere cultura su TikTok",
@@ -1819,23 +1838,6 @@
     "tags": [
       "illycaffè",
       "bilancio 2025"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "4c6ada67738f6306",
-    "slug": "minatore-salvato-dopo-13-giorni-sotto-terra-in-mes-4c6ada67738f6306",
-    "title": "Minatore salvato dopo 13 giorni sotto terra in Messico",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-08T04:09:28.651660+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/394720b43b25a302ac69eaf6862a2f94.jpg",
-    "occhiello": "MINATORE SALVATO DOPO 13 GIORNI SOTTO TERRA, DUE DISPERSI",
-    "lead_preview": "Coahuila, 8 aprile 2026. Un minatore è Stato salvato dopo tredici giorni a 300 metri di profondità in una miniera nello ",
-    "tags": [
-      "miniere messico"
     ],
     "hero_eligible": true
   },
