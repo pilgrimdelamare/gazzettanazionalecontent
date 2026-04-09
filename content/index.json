@@ -1,5 +1,24 @@
 [
   {
+    "id": "5fee0bf3c182a557",
+    "slug": "basket-boston-stende-charlotte-con-una-strepitosa-5fee0bf3c182a557",
+    "title": "Boston vincente a casa contro Charlotte 113-102",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-08T05:45:54.721030+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/dcc58dca60c1c0fd9e56a4819d8b16dc68347e52/skysport/it/nba/video/2026/04/08/1088458_1775621042755_thumb_494.0000001_1775625021989.jpg",
+    "occhiello": "BERNSTEIN STEDE CHARLOTTE CON 113-102",
+    "lead_preview": "La partita NBA tra Boston e Charlotte si è conclusa con una vittoria della prima squadra per 113-102. Il match si è tenu",
+    "tags": [
+      "boston vs charlotte",
+      "nba 2026",
+      "vittoria boston"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "7a261f140b99bbf2",
     "slug": "basket-minnesota-si-impegna-con-104-punti-contro-i-7a261f140b99bbf2",
     "title": "Basket: Minnesota ko con Indiana 104-124",
@@ -1891,25 +1910,6 @@
       "concerto kanye west",
       "polemiche anpi",
       "campovolo 2025"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "5fee0bf3c182a557",
-    "slug": "basket-boston-stende-charlotte-con-una-strepitosa-5fee0bf3c182a557",
-    "title": "Basket: Boston stende Charlotte con una strepitosa retta di 35 punti",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-08T05:45:54.721030+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/dcc58dca60c1c0fd9e56a4819d8b16dc68347e52/skysport/it/nba/video/2026/04/08/1088458_1775621042755_thumb_494.0000001_1775625021989.jpg",
-    "occhiello": "BOSTON CHARLOTTE, IL RISULTATO FINALE",
-    "lead_preview": "La partita NBA tra Boston e Charlotte si è conclusa con una vittoria della prima squadra per 113-102. La partita si è sv",
-    "tags": [
-      "basket",
-      "nba",
-      "boston charlotte"
     ],
     "hero_eligible": true
   },
