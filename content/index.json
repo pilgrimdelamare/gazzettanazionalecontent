@@ -1,5 +1,20 @@
 [
   {
+    "id": "f6b49a04d0c64ec7",
+    "slug": "il-rendimento-del-decennale-sale-a-375-f6b49a04d0c64ec7",
+    "title": "Il rendimento del decennale sale a 3,75%",
+    "section": "economia",
+    "priority": 8,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-09T07:13:39.382263+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2023/6/20/819a9871800454e0de70ba0201d003ee.jpg",
+    "occhiello": "IL RENDIMENTO DEL DECENNALE SALE A 3,75%",
+    "lead_preview": "Il rendimento del titolo di Stato italiano a dieci anni è salito al 3,75% giovedì 9 aprile 2026, in apertura dei mercati",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "monitor_spotify",
     "slug": "disservizio-spotify",
     "title": "Spotify è irraggiungibile da 16 minuti. Gli utenti italiani segnalano disservizi",
@@ -9025,23 +9040,6 @@
       "convegno pinter napoli",
       "eredità pinter",
       "omaggio pinter 2026"
-    ]
-  },
-  {
-    "id": "3fa9d5f69b50d2db",
-    "slug": "ferdinando-boero-errori-scientifici-nelluovo-3fa9d5f69b50d2db",
-    "title": "Boero smonta la levitazione dei conigli: scienza non è opinione",
-    "section": "societa",
-    "priority": 5,
-    "journalist_firma": "Federica Conti",
-    "published_at": "2026-04-04T04:51:20.717914+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/16042045/pexels-photo-16042045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "FONDI SCOMPARSI DOPO IL VOTO",
-    "lead_preview": "Il docente di zoologia Ferdinando Boero ha denunciato un errore scientifico nella teoria della levitazione dei conigli i",
-    "tags": [
-      "levitazione conigli",
-      "boero zoologia"
     ]
   }
 ]
