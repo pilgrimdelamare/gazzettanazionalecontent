@@ -1,5 +1,24 @@
 [
   {
+    "id": "bf16267b62f889dd",
+    "slug": "basket-la-virtus-bologna-subisce-la-sesta-sconfitt-bf16267b62f889dd",
+    "title": "Basket: Virtus Bologna ko, 80-85 con il Bayern a Casalecchio",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-08T05:44:05.234574+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/de440ee38c64b5f8dd7ee82528ba70180b0f38b1/skysport/it/basket/eurolega/video/2026/04/08/virtus-bologna-bayern-highlights-eurolega-1088445/virtbayer.jpg",
+    "occhiello": "LA VIRTUS BOLOGNA SUBISCE LA SCONFITTA",
+    "lead_preview": "La Virtus Bologna ha subito la sesta sconfitta consecutiva in Eurolega, con il Bayern Monaco che ha vinto 80-85 nella pa",
+    "tags": [
+      "basket",
+      "eurolega",
+      "virtus bologna"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "fcd8b59a87554d9b",
     "slug": "politecnico-di-milano-settimo-al-mondo-in-comunica-fcd8b59a87554d9b",
     "title": "Il Politecnico di Milano sale alla VII posizione globale per la Comunicazione universitaria",
@@ -1913,25 +1932,6 @@
       "basket",
       "minnesota",
       "indiana"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "bf16267b62f889dd",
-    "slug": "basket-la-virtus-bologna-subisce-la-sesta-sconfitt-bf16267b62f889dd",
-    "title": "Basket: La Virtus Bologna subisce la sesta sconfitta consecutiva in Eurolega",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-08T05:44:05.234574+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/de440ee38c64b5f8dd7ee82528ba70180b0f38b1/skysport/it/basket/eurolega/video/2026/04/08/virtus-bologna-bayern-highlights-eurolega-1088445/virtbayer.jpg",
-    "occhiello": "VIRTUS BOLOGNA SUBISCE SETTIMA SCONFITTA CONSECUTIVA IN EUROLEGA",
-    "lead_preview": "La Virtus Bologna è stata sconfitta dal Bayern Monaco con il punteggio di 80-85 nella partita di Eurolega del 8 aprile 2",
-    "tags": [
-      "virtus bologna",
-      "eurolega 2026",
-      "serie sconfitte"
     ],
     "hero_eligible": true
   },
