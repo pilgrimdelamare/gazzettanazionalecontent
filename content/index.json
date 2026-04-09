@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, giovedì 9 aprile 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-04-09T05:05:56.047059+00:00",
+    "image_type": "none",
+    "image_url": "",
+    "occhiello": "LE PRIME PAGINE DI GIOVEDÌ 9 APRILE 2026",
+    "lead_preview": "Le prime pagine di oggi convergono sulle dimissioni del presidente del Consiglio dopo la crisi di governo aperta ieri se",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "1b22cdffb7502161",
     "slug": "dallan-fears-ha-segnato-40-punti-con-i-new-orleans-1b22cdffb7502161",
     "title": "Basket: Dallan Fears segna 40 punti ai Rockets, esplosione da 7,4 milioni",
@@ -2326,25 +2345,6 @@
       "caro vik ti scrivo",
       "conflitto palestinese",
       "reportage gaza"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, mercoledì 8 aprile 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-04-08T05:00:35.938099+00:00",
-    "image_type": "none",
-    "image_url": "",
-    "occhiello": "POLITICA E CRONACA SI ACCAPARRANO LE PRIME PAGINE",
-    "lead_preview": "La politica e la cronaca dominano le prime pagine dei giornali italiani oggi, con una prevalenza di notizie sulla situaz",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
