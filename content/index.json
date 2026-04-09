@@ -1,5 +1,24 @@
 [
   {
+    "id": "3fb8d1d287b5ca5b",
+    "slug": "basket-demar-derozan-mette-a-segno-45-punti-e-chic-3fb8d1d287b5ca5b",
+    "title": "Basket: DeRozan in Stato di grazia, 45 punti e vittoria a Washington",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-08T05:45:16.915843+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/0b5fdbc4a926482a2ef4e5e70da867e19a4d11e8/skysport/it/nba/video/2026/04/08/1088453_1775616810898_thumb_494.0000001_1775625022265.jpg",
+    "occhiello": "",
+    "lead_preview": "DeMar DeRozan ha messo a segno 45 punti nella vittoria di Chicago contro Washington, disputata il 2026-04-08. La sua pre",
+    "tags": [
+      "de rozen 45 punti",
+      "nba 2026",
+      "chicago washington"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "36b9ec60015ce060",
     "slug": "trump-minaccia-liran-unintera-civilta-morira-36b9ec60015ce060",
     "title": "Trump minaccia la caduta di una civiltà, poi tregua di 14 giorni firmata da Usa, Iran e Israele",
@@ -1344,21 +1363,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/f2506eb65e47d66d77193d7d358b9f02.jpg",
     "occhiello": "",
     "lead_preview": "Papa Leone XIV ha accolto con soddisfazione, mercoledì 8 aprile 2026, l’annuncio della tregua tra Stati Uniti e Iran eme",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "3fb8d1d287b5ca5b",
-    "slug": "basket-demar-derozan-mette-a-segno-45-punti-e-chic-3fb8d1d287b5ca5b",
-    "title": "Demar derozan fa la squillacciata, chicago batte washington 31-0",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-08T05:45:16.915843+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/0b5fdbc4a926482a2ef4e5e70da867e19a4d11e8/skysport/it/nba/video/2026/04/08/1088453_1775616810898_thumb_494.0000001_1775625022265.jpg",
-    "occhiello": "DEMAR DEROZAN FA LA SQUILLACCIATA, CHICAGO BATTE WASHINGTON 31-0",
-    "lead_preview": "DeMar DeRozan ha messo a segno 45 punti e ha guidato la squadra di Chicago alla vittoria nella partita contro Washington",
     "tags": [],
     "hero_eligible": true
   },
