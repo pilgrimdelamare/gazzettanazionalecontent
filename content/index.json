@@ -1,5 +1,24 @@
 [
   {
+    "id": "c92c9c72f923fc4e",
+    "slug": "orban-perde-il-sostegno-di-meloni-troppi-legami-co-c92c9c72f923fc4e",
+    "title": "Meloni tace sulla corsa di Orban in Ungheria, alle prese con accuse di legami con Mosca",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Elena Russo",
+    "published_at": "2026-04-09T01:15:15.124766+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/08/225808375-70368b4f-448a-49f3-b8f8-2291683ec6c7.jpg",
+    "occhiello": "ORBAN, IL SOSTEGNO DI MELONI SCOMPARE: TROPPI LEGAMI CON PUTIN",
+    "lead_preview": "Giorgia Meloni ha imposto il silenzio sulla campagna elettorale di Viktor Orban, che ha troppe connessioni con Mosca. il",
+    "tags": [
+      "corsa orban",
+      "meloni silenzio",
+      "legami orban putin"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "f0ed8615d6d884a4",
     "slug": "rai-fiction-produttori-tagliano-10-15-minuti-alle-f0ed8615d6d884a4",
     "title": "Rai Fiction: produttori tagliano 10-15 minuti alle prime serate",
@@ -485,25 +504,6 @@
       "mollicone",
       "fondi cultura",
       "film destra"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "c92c9c72f923fc4e",
-    "slug": "orban-perde-il-sostegno-di-meloni-troppi-legami-co-c92c9c72f923fc4e",
-    "title": "Orban perde il sostegno di Meloni: troppi legami con Putin",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Sergio Mancini",
-    "published_at": "2026-04-09T01:15:15.124766+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/08/225808375-70368b4f-448a-49f3-b8f8-2291683ec6c7.jpg",
-    "occhiello": "PUTIN SORGE LA VOLENZA SUL DERBY UNGHERESE",
-    "lead_preview": "Il premier Giorgia Meloni ha imposto il silenzio sulla campagna elettorale di Orban, che ha troppe connessioni con Mosca",
-    "tags": [
-      "meloni-orban",
-      "orban-putin",
-      "elezioni ungheria"
     ],
     "hero_eligible": true
   },
