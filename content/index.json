@@ -1,5 +1,22 @@
 [
   {
+    "id": "9c2a6ad8688ccc99",
+    "slug": "artemis-ii-ha-scattato-le-prime-foto-del-tramonto-9c2a6ad8688ccc99",
+    "title": "Artemis II: 406.000 km da Terra",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Chiara Esposito",
+    "published_at": "2026-04-08T07:29:46.234283+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/08/Senza-titolo.jpg",
+    "occhiello": "",
+    "lead_preview": "Le prime foto del tramonto della Terra dietro l’orizzonte lunare sono state scattate il 8 aprile 2026 dalla missione Art",
+    "tags": [
+      "missione artemis ii"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c81955374998c7f6",
     "slug": "nel-2025-gli-immigrati-hanno-evitato-il-crollo-del-c81955374998c7f6",
     "title": "1 Su 3 neonati in Italia ha un genitore straniero, dati Istat",
@@ -1710,21 +1727,6 @@
       "polemiche anpi",
       "campovolo 2025"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "9c2a6ad8688ccc99",
-    "slug": "artemis-ii-ha-scattato-le-prime-foto-del-tramonto-9c2a6ad8688ccc99",
-    "title": "Artemis II ha scattato le prime foto del tramonto della Terra dalla Luna a 406.000 km",
-    "section": "cronaca",
-    "priority": 4,
-    "journalist_firma": "Chiara Esposito",
-    "published_at": "2026-04-08T07:29:46.234283+00:00",
-    "image_type": "image",
-    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/08/Senza-titolo.jpg",
-    "occhiello": "EARTHSET: LA TERRA TRAMONTA SUL LATO NASCOSTO DELLA LUNA",
-    "lead_preview": "Artemis II ha catturato il 8 aprile 2026 le prime immagini del tramonto della Terra dietro l'orizzonte lunare, a 406.000",
-    "tags": [],
     "hero_eligible": true
   },
   {
