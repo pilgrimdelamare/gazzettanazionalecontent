@@ -1,5 +1,24 @@
 [
   {
+    "id": "f2e064c168931cce",
+    "slug": "papa-leone-xiv-a-milano-cortina-2026-no-al-doping-f2e064c168931cce",
+    "title": "Papa Leone XIV a Milano-Cortina 2026: 'No al doping, tradisce l'umanità'",
+    "section": "cultura",
+    "priority": 6,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-09T12:20:26.751405+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/0e045d51f6622c13f9e40386e64106c8.jpg",
+    "occhiello": "",
+    "lead_preview": "Papa Leone XIV ha invitato gli atleti dei Giochi di Milano-Cortina a “resistere alle tentazioni del doping e del divismo",
+    "tags": [
+      "papa leone xiv",
+      "milano-cortina 2026",
+      "doping atleti"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "a8a008b84e2b17b8",
     "slug": "griezmann-lascia-latletico-madrid-per-lorlando-cit-a8a008b84e2b17b8",
     "title": "Griezmann lascia l'Atletico Madrid per l'Orlando City a parametro zero",
@@ -9006,24 +9025,6 @@
       "espansione tgi fridays",
       "tgi fridays 2034",
       "ristoranti usa"
-    ]
-  },
-  {
-    "id": "4fbd7cc1640d17b9",
-    "slug": "pezzullo-viola-codice-etico-14-volte-4fbd7cc1640d17b9",
-    "title": "Pezzullo accusato di 14 violazioni etiche da dipendenti",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-04T07:11:07.356291+00:00",
-    "image_type": "flickr",
-    "image_url": "https://live.staticflickr.com/65535/44017197590_75aa9dae20_b.jpg",
-    "occhiello": "14 VIOLAZIONI ETICHE PER PEZZULLO",
-    "lead_preview": "Michael Pezzullo, segretario del Dipartimento degli Affari Interni australiano, è stato accusato di aver violato il codi",
-    "tags": [
-      "pezzullo violazioni etiche",
-      "dipartimento affari interni",
-      "caso pezzullo australiano"
     ]
   }
 ]
