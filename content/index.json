@@ -1,5 +1,24 @@
 [
   {
+    "id": "4274e71661cbc723",
+    "slug": "compagnie-assicurative-italiane-obbligate-a-fornir-4274e71661cbc723",
+    "title": "Da oggi in Italia il CID per le auto è obbligatorio in formato digitale",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-08T03:22:16.401483+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/07/200026160-47e6d586-c32c-41bf-9954-863df627cba1.jpg",
+    "occhiello": "TUTTE LE ASSICURATIVE OBBLIGATE AL CID DIGITALE",
+    "lead_preview": "Da oggi, 8 aprile 2026, tutte le compagnie assicurative operanti in Italia sono tenute a fornire il modulo digitale per ",
+    "tags": [
+      "cid digitale",
+      "assicurazioni auto",
+      "rca obbligatoria"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "4b01de5e08d4a303",
     "slug": "calcio-72-dei-titolari-in-serie-a-non-convocabili-4b01de5e08d4a303",
     "title": "Calcio: 72% dei titolari in Serie A non convocabili in Nazionale",
@@ -1985,25 +2004,6 @@
     "tags": [
       "nba",
       "new orleans utah"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "4274e71661cbc723",
-    "slug": "compagnie-assicurative-italiane-obbligate-a-fornir-4274e71661cbc723",
-    "title": "Da oggi il Cid digitale è obbligatorio per tutte le RCA in Italia",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-08T03:22:16.401483+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/07/200026160-47e6d586-c32c-41bf-9954-863df627cba1.jpg",
-    "occhiello": "MODULO DIGITALE OBBLIGATORIO PER TUTTE LE COMPAGNIE",
-    "lead_preview": "Da oggi, 8 aprile 2026, tutte le compagnie assicurative operanti in Italia devono fornire il modulo digitale per la cons",
-    "tags": [
-      "cid digitale obbligatorio",
-      "assicurazioni auto",
-      "modulo digitale rca"
     ],
     "hero_eligible": true
   },
