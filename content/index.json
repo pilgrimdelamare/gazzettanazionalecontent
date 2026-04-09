@@ -1,5 +1,22 @@
 [
   {
+    "id": "2ee72d79d21fb5f3",
+    "slug": "noemi-nek-arisa-e-gabbani-a-meste-per-bissuola-liv-2ee72d79d21fb5f3",
+    "title": "Noemi, Nek, Arisa e Gabry Ponte a Mestre dal 11 giugno",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-08T11:21:45.946450+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/19/a8a276a385bcb7c763e47168b25e3bc9.jpg",
+    "occhiello": "",
+    "lead_preview": "Noemi, Nek, Arisa e Gabry Ponte si esibiranno a Mestre dal 11 al 15 giugno 2026 nell’ambito della rassegna Bissuola Live",
+    "tags": [
+      "bissuola live"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "40903823fdaa4fce",
     "slug": "annullate-a-12-giorni-dal-via-40903823fdaa4fce",
     "title": "Mel Gibson cancella 'The Resurrection' a Matera: 3,7 milioni già spesi",
@@ -1101,21 +1118,6 @@
       "xiaopeng motors",
       "p7+ italia"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "2ee72d79d21fb5f3",
-    "slug": "noemi-nek-arisa-e-gabbani-a-meste-per-bissuola-liv-2ee72d79d21fb5f3",
-    "title": "Noemi, nek, arisa e gabbani a meste per bissuola live",
-    "section": "cultura",
-    "priority": 6,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-08T11:21:45.946450+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/19/a8a276a385bcb7c763e47168b25e3bc9.jpg",
-    "occhiello": "NOEMI, NEK, ARISA E GABBANI A MESTE PER BISSUOLA LIVE",
-    "lead_preview": "Il 11-15 giugno a Mestre si svolgerà la rassegna musicale Bissuola Live, che vedrà la partecipazione di Noemi, Nek, Aris",
-    "tags": [],
     "hero_eligible": true
   },
   {
