@@ -1,5 +1,24 @@
 [
   {
+    "id": "f717fec11ac251d3",
+    "slug": "18-navi-panamensi-bloccate-senza-motivo-nei-porti-f717fec11ac251d3",
+    "title": "18 Navi panamensi bloccate senza motivo nei porti cinesi",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-09T02:15:07.311065+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/9/439741696442ebc5b1a7e654990dfb24.jpg",
+    "occhiello": "18 NAVI PANAMENSI BLOCCATE NELL'OCEANO PACIFICO",
+    "lead_preview": "Il 9 aprile 2026, Panama chiede alla Cina di rispettare la propria sovranità marittima dopo il blocco di 18 delle sue na",
+    "tags": [
+      "blocco navi panamensi",
+      "tensioni cina-panama",
+      "sovrano marittimo"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c7fed5bceb45fd7f",
     "slug": "ciciliano-la-frana-e-ferma-lo-ha-confermato-il-cap-c7fed5bceb45fd7f",
     "title": "Frana a Ciciliano, Curcio: 'È ferma ma pericolosa' – evacuati 12 nuclei familiari",
@@ -384,25 +403,6 @@
       "missione golfo persico",
       "fregate italiane",
       "sicurezza rotte petrolio"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "f717fec11ac251d3",
-    "slug": "18-navi-panamensi-bloccate-senza-motivo-nei-porti-f717fec11ac251d3",
-    "title": "18 Navi panamensi bloccate senza motivo nei porti cinesi, Panama convoca l'ambasciatore",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-09T02:15:07.311065+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/9/439741696442ebc5b1a7e654990dfb24.jpg",
-    "occhiello": "",
-    "lead_preview": "Panama ha chiesto alla Cina il rispetto della propria sovranità marittima dopo il blocco di 18 delle sue navi mercantili",
-    "tags": [
-      "blocco navi panamensi",
-      "panama-cina",
-      "sovranità marittima"
     ],
     "hero_eligible": true
   },
