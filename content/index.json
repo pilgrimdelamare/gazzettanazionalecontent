@@ -1,5 +1,20 @@
 [
   {
+    "id": "5502597c6624adee",
+    "slug": "sciopero-ai-propublica-giornalisti-contro-algoritm-5502597c6624adee",
+    "title": "Sciopero ai propublica: giornalisti contro algoritmi",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-09T15:31:27.050129+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it",
+    "occhiello": "SCIOPERO AI PROPUBLICA: GIORNALISTI CONTRO ALGORITMI",
+    "lead_preview": "I giornalisti di ProPublica sono entrati in sciopero il 9 aprile 2026 per contrastare l'introduzione dell'intelligenza a",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "3c4a7eb857cb2789",
     "slug": "96mila-interventi-annullati-a-cuba-per-black-out-d-3c4a7eb857cb2789",
     "title": "96Mila interventi annullati a Cuba per black out, Díaz-Canel: 'Colpa delle sanzioni USA'",
@@ -8994,24 +9009,6 @@
       "veglia pasquale 2026",
       "papa leone xiv",
       "messaggio pace"
-    ]
-  },
-  {
-    "id": "23725566bc71b456",
-    "slug": "charlotte-spacca-in-nba-23725566bc71b456",
-    "title": "Basket: Charlotte travolge Indiana Pacers con un trionfo di ben 21 punti",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-04T06:40:30.944002+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/CharlotteBobcatsArenanasa.png",
-    "occhiello": "CHARLOTTE TRAVOLGE I PACERS CON UN PUNTO DI FAVEOLA DELL'88",
-    "lead_preview": "Charlotte ha travolto Indiana Pacers 129-108 al Spectrum Center di Charlotte, North Carolina, nella notte del 4 aprile 2",
-    "tags": [
-      "charlotte travolge pacers",
-      "nba 2026",
-      "basket charlotte"
     ]
   }
 ]
