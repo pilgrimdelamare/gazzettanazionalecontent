@@ -1,5 +1,23 @@
 [
   {
+    "id": "02ba13678cc44e54",
+    "slug": "morte-in-attesa-di-comunicazioni-ufficiali-la-fami-02ba13678cc44e54",
+    "title": "Morte in attesa di comunicazioni ufficiali: la famiglia in silenzio",
+    "section": "cronaca",
+    "priority": 6,
+    "journalist_firma": "Chiara Esposito",
+    "published_at": "2026-04-09T14:50:38.530615+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/31/7642c746cc13fb6e40e60f8df87515a6.jpg",
+    "occhiello": "Morte avvelenate, IL PAPÀ SI DIFENDE",
+    "lead_preview": "Il legale della famiglia ha dichiarato che 'aspettiamo comunicazioni ufficiali dall'autorità giudiziaria'",
+    "tags": [
+      "morte avvelenate",
+      "caso totì"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "bf6d674d2f63c4d5",
     "slug": "rugby-italia-pronta-per-la-francia-con-formazione-bf6d674d2f63c4d5",
     "title": "Rugby: Italia pronta per la Francia con formazione esperta",
@@ -9006,24 +9024,6 @@
       "rockets jazz 2026",
       "nba triple record",
       "vittoria rockets"
-    ]
-  },
-  {
-    "id": "2cc07950c2378770",
-    "slug": "usa-e-israele-colpiscono-ponti-e-acciaierie-in-ira-2cc07950c2378770",
-    "title": "Israele e Usa colpiscono sette infrastrutture in Iran: 24 vittime",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-04T08:58:05.467278+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Inauguration_of_Iranian_civilian_helicopter_pilot_training_center_%2820%29.jpg",
-    "occhiello": "USA E ISRAELE BOMBARDANO IRAN",
-    "lead_preview": "Il 4 aprile 2026, Israele e Stati Uniti hanno colpito sette infrastrutture civili in Iran, tra cui ponti e acciaierie, c",
-    "tags": [
-      "attacco israele usa iran",
-      "bombardamento iran 2026",
-      "crisi medio oriente 2026"
     ]
   }
 ]
