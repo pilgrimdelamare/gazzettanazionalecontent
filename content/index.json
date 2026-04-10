@@ -1,5 +1,20 @@
 [
   {
+    "id": "959cbd6bd3c7fc10",
+    "slug": "evanescence-escono-con-nuovo-album-sanctuary-il-5-959cbd6bd3c7fc10",
+    "title": "Evanescence escono con nuovo album  sanctuary il 5 giugno",
+    "section": "cultura",
+    "priority": 6,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-10T11:46:42.678906+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/10/f875227962707f7647c9b6529a4397d2.jpg",
+    "occhiello": "EVANESCENCE ESCONO CON NUOVO ALBUM  SANCTUARY IL 5 GIUGNO",
+    "lead_preview": "Il gruppo musicale statunitense Evanescence anticipa il nuovo album Sanctuary, in uscita il 5 giugno. Il primo singolo, ",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "fc2fd81fa9a8dbaf",
     "slug": "beethoven-in-scena-allarena-dopo-34-anni-fc2fd81fa9a8dbaf",
     "title": "Beethoven in scena dopo 34 anni",
@@ -9163,25 +9178,6 @@
       "elezioni amministrative 2026",
       "comuni al voto",
       "voto maggio 2026"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "13a00be15424e7ad",
-    "slug": "collezione-kahlo-in-partenza-per-la-spagna-protest-13a00be15424e7ad",
-    "title": "400 Artisti messicani contro il Prado: 52 opere di Frida Kahlo esposte a Madrid con 10 milioni di euro",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-05T09:22:02.552884+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1640417680522-e12b951ab1c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxGcmlkYSUyMEthaGxvfGVufDB8MHx8fDE3NzUzODgyMjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "FONDI SCOMPARSI DOPO IL VOTO (ma con un titolo più adatto alla notizia)",
-    "lead_preview": "52 opere di Frida Kahlo arriveranno al Museo del Prado di Madrid, ma 400 artisti messicani si oppongono alla decisione. ",
-    "tags": [
-      "esposizione frida kahlo",
-      "museo del prado",
-      "artisti messicani contro prado"
     ],
     "hero_eligible": true
   }
