@@ -1,0 +1,38 @@
+{
+  "id": "libro-20260410",
+  "slug": "libro-del-giorno-tre-uomini-in-barca-jerome-k-jeromedi--20260410",
+  "title": "Il libro del giorno: Tre uomini in barca",
+  "titles": [
+    "Il libro del giorno: Tre uomini in barca"
+  ],
+  "title_winner": null,
+  "section": "cultura",
+  "occhiello": "Il libro del giorno",
+  "lead": "Una riedizione illustrata del celebre romanzo umoristico inglese, rivisitata per i giovani lettori con delicate illustrazioni e un'ironia che non invecchia mai",
+  "corpo1": "Jerome K. Jerome, con i suoi baffi arricciati e la pipa in bocca, si presenta come il classico viaggiatore disposto a trasformare un semplice giro in barca sul Tamigi in una galleria di imprevisti memorabili. Accompagnato dai fedeli George e Harris e dal cane Montmerency, traccia un itinerario su una carta geografica con la precisione di un generale e la prontezza di un comico. La valigia, stipata di stivali, asciugamani e una padella, diventa il simbolo dell’iperpreparazione inglese, mentre il fiume diventa palcoscenico di battute taglienti, sventure burocratiche e momenti di solidarietà che tengono uniti i protagonisti. Questa edizione illustrata, curata da Pier Mario Giovannone, cattura l’essenza dell’umorismo dickensiano e post-dickensiano con vignette delicate che fanno da contrappunto al testo. È un invito a scoprire il Tamigi non solo come corso d’acqua, ma come specchio dell’umanità: in cui i disaccordi diventano legami, le avversità pretesto per risate, e l’amicizia si rivelano l’unico timone veramente affidabile. Chi ha letto Jerome in età adulta riconoscerà i toni beffardi, i colpi di scena banali ma irresistibili, e forse si commuoverà dietro la semplicità con cui si racconta il valore dell’essere insieme. Un libro che, pur dietro le sue pagine leggere, nasconde la saggezza di chi sa ridere anche quando tutto va storto.",
+  "corpo2": "",
+  "article_type": "standard",
+  "cards": [],
+  "journalist": {
+    "id": "recensore_01",
+    "nome": "Luca",
+    "cognome": "Mirtillo",
+    "firma": "Luca Mirtillo",
+    "sezione": "cultura",
+    "ruolo": "recensore",
+    "avatar_sprite": "character_bookworm_01"
+  },
+  "published_at": "2026-04-10T04:06:13.964583+00:00",
+  "image": {
+    "type": "url",
+    "source": "local/cache-vignettes/L216xH312/71-zb2p-hcl__sl1444_-26af5.jpg?1775726658",
+    "alt": "Copertina: Tre uomini in barca"
+  },
+  "schema_jsonld": "",
+  "priority": 4,
+  "source": "sololibri.net",
+  "source_type": "libro",
+  "original_url": "https://www.sololibri.net/Tre-uomini-in-barca-di-Jerome-K-Jerome-Pier-Mario-Giovannone.html",
+  "related": [],
+  "hero_eligible": false
+}
