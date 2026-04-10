@@ -1,5 +1,23 @@
 [
   {
+    "id": "cb65c82d7a1c66e3",
+    "slug": "calcio-38-squadre-della-liga-tornano-indietro-nel-cb65c82d7a1c66e3",
+    "title": "Calcio: 38 squadre della Liga tornano Indietro nel tempo",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-10T06:24:32.680725+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/09/liga-retro.jpg",
+    "occhiello": "LA LIGA SI ABIGRA NEL PASTO.",
+    "lead_preview": "La Liga spagnola si unisce alla nostalgia per un weekend, con 38 Club che vestiranno maglie vintage dal 10 al 13 aprile.",
+    "tags": [
+      "liga retro",
+      "jornada retro"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "ff46ac1a82b60657",
     "slug": "lex-ufficiale-della-capitaneria-di-porto-confessa-ff46ac1a82b60657",
     "title": "L'ex ufficiale della Capitaneria di Porto confessa l'inazione nella strage del Moby Prince",
@@ -9179,23 +9197,5 @@
     "lead_preview": "Il tribunale di Roma ha stabilito che i rincari imposti da Netflix nel 2025 sono illegittimi e ha condannato la società ",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "6db5597c38e46cee",
-    "slug": "iran-lancia-missili-e-droni-su-israele-e-kuwait-6db5597c38e46cee",
-    "title": "Iran lancia 35 missili e droni su Israele e Kuwait",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-05T03:02:33.149719+00:00",
-    "image_type": "ddg_image",
-    "image_url": "https://static01.nyt.com/images/2025/06/20/multimedia/2025-06-19-iran-us-bases-missile-threat-index/2025-06-19-iran-us-bases-missile-threat-index-facebookJumbo-v6.jpg",
-    "occhiello": "IRAN LANCIA 35 MISSILI VERSO ISRAELE E KUWAIT",
-    "lead_preview": "Teheran ha lanciato 35 missili da crociera e droni kamikaze verso Israele e Kuwait nella notte tra il 4 e il 5 aprile 20",
-    "tags": [
-      "guerra iran",
-      "attacco israele",
-      "crisi medio oriente"
-    ]
   }
 ]
