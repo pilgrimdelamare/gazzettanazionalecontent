@@ -1,5 +1,24 @@
 [
   {
+    "id": "9f213147663dad03",
+    "slug": "basket-boston-batte-new-york-112-106-con-tatum-da-9f213147663dad03",
+    "title": "Basket: Boston batte New York 112-106 con Tatum da 32 punti",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-10T05:22:37.868656+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/a1e2bb7028036b2d4586964f94a75a51d82e1841/skysport/it/nba/video/2026/04/10/1089042_1775795709608_thumb_494.0000001_1775795756688.jpg",
+    "occhiello": "NBA: NEW YORK SCONFITTA A BOSTON",
+    "lead_preview": "La squadra di New York è stata sconfitta a Boston con il punteggio di 112-106, il 10 aprile 2026, nel corso di una parti",
+    "tags": [
+      "nba boston",
+      "tatum 32 punti",
+      "new york sconfitta"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "7d56f06bd4915163",
     "slug": "basket-sky-sport-trasmette-concerto-dei-pet-shop-b-7d56f06bd4915163",
     "title": "Basket: Sky Sport trasmette concerto dei Pet Shop Boys al posto di Toronto-Miami",
@@ -9138,24 +9157,6 @@
       "vittoria lipsia",
       "nkunku brema",
       "bundesliga 28a giornata"
-    ]
-  },
-  {
-    "id": "49bcc80ac3478157",
-    "slug": "diesel-a-21-euro-nonostante-il-taglio-delle-accise-49bcc80ac3478157",
-    "title": "Diesel a 2,10 euro al litro: prezzo medio nazionale il 4 aprile 2026",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-04-04T17:05:32.245725+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1730438446557-f921a4b2a281?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxkaWVzZWwlMjBwcmljZSUyMEl0YWx5JTIwMjAyNnxlbnwwfDB8fHwxNzc1Mzk0OTg5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "",
-    "lead_preview": "2,10 Euro al litro: è questo il prezzo medio del diesel registrato il 4 aprile 2026, secondo i dati ufficiali del Minist",
-    "tags": [
-      "prezzi carburanti 2026",
-      "diesel 210 euro",
-      "ministero sviluppo economico"
     ]
   }
 ]
