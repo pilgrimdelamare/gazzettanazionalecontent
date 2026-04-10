@@ -1,5 +1,24 @@
 [
   {
+    "id": "d93d84bf26ec4792",
+    "slug": "phoenix-dallas-in-finale-nba-d93d84bf26ec4792",
+    "title": "Basket: Phoenix batte Dallas 112-107 e vince il primo titolo NBA dal",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-09T09:03:19.989992+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/0faa45b8b4a0a31512c01109217b262787cc413f/skysport/it/nba/video/2026/04/09/1088793_1775717587158_thumb_494.0000001_1775718302319.jpg",
+    "occhiello": "",
+    "lead_preview": "Phoenix ha battuto Dallas 112-107 nella finale NBA 2026, disputata il 9 aprile 2026 presso la Phoenix Suns Arena. La vit",
+    "tags": [
+      "nba 2026",
+      "finale nba",
+      "titolo suns"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "f39a380b09756188",
     "slug": "nove-mediatori-formati-per-sicurezza-in-cantieri-v-f39a380b09756188",
     "title": "9 Mediatori culturali formati da Formedil per cantieri multilingui in Veneto",
@@ -1128,21 +1147,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/9/0881dd7bcdf57f66d0b3e6f337b2185f.jpg",
     "occhiello": "MORTE A PARIGI A 95 ANNI L'ATTORE ITALO-TEDESCO",
     "lead_preview": "Mario Adorf è morto a 95 anni a Parigi il 9 aprile 2026. Lo conferma l'agenzia dpa citando l'agente dell'attore. L'ex pr",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "d93d84bf26ec4792",
-    "slug": "phoenix-dallas-in-finale-nba-d93d84bf26ec4792",
-    "title": "Phoenix-dallas in finale nba!",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-09T09:03:19.989992+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/0faa45b8b4a0a31512c01109217b262787cc413f/skysport/it/nba/video/2026/04/09/1088793_1775717587158_thumb_494.0000001_1775718302319.jpg",
-    "occhiello": "PHOENIX-DALLAS IN FINALE NBA!",
-    "lead_preview": "Il Phoenix ha sconfitto il Dallas 112-107 nella finale NBA 2026. La partita è stata giocata alla Phoenix Suns Arena il 9",
     "tags": [],
     "hero_eligible": true
   },
