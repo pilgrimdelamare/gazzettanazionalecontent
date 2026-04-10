@@ -1,5 +1,24 @@
 [
   {
+    "id": "8e80592e80be3b50",
+    "slug": "fosber-venduta-a-brookfield-per-900-milioni-sede-a-8e80592e80be3b50",
+    "title": "Fosber venduta a Brookfield per 900 milioni, sede a Lucca confermata",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-10T04:19:38.518018+00:00",
+    "image_type": "image",
+    "image_url": "https://i2.res.24o.it/images2010/S24/Documenti/2026/04/10/Immagini/Ritagli/f616a6d8-7e6f-48c1-9fdc-1f4270536671-U17674802271iWP-1440x752@IlSole24Ore-Web.jpg?r=1170x507",
+    "occhiello": "",
+    "lead_preview": "Fosber, campione lucchese della macchina per cartone ondulato, è stata venduta dal gruppo cinese Guangdong Dongfang Prec",
+    "tags": [
+      "vendita fosber",
+      "fosber brookfield",
+      "acquisizione fosber"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "8f85dca5b2fb9c1f",
     "slug": "cheng-li-wun-a-pechino-primo-incontro-kmt-cina-in-8f85dca5b2fb9c1f",
     "title": "Cheng Li-wun a Pechino, primo incontro Kmt-Cina in 10 anni",
@@ -9117,24 +9136,6 @@
       "accordo usa-ue",
       "dazi agricoli",
       "ogm europa"
-    ]
-  },
-  {
-    "id": "572616aa6f2d62fe",
-    "slug": "matteo-berrettini-si-fa-pagare-17000-euro-a-monte-572616aa6f2d62fe",
-    "title": "Tennis: Flavio Cobolli paga 17.000 euro per una cena a Montecarlo con Musetti e Berrettini",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-04T15:48:53.496008+00:00",
-    "image_type": "flickr",
-    "image_url": "https://live.staticflickr.com/65535/54753836228_1e55f19569_b.jpg",
-    "occhiello": "",
-    "lead_preview": "Flavio Cobolli ha pagato 17.000 euro per una cena il 4 aprile 2026 a Montecarlo con Lorenzo Musetti e Matteo Berrettini.",
-    "tags": [
-      "cena montecarlo tennisti",
-      "flavio cobolli cena",
-      "musetti berrettini cena"
     ]
   }
 ]
