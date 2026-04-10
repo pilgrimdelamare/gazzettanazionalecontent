@@ -1,5 +1,20 @@
 [
   {
+    "id": "e12bf3f17cbb86d2",
+    "slug": "fidesz-e-un-sistema-feudale-per-debellarlo-magyar-e12bf3f17cbb86d2",
+    "title": "\"fidesz è un sistema feudale, per debellarlo magyar dovrà conquistare la maggior",
+    "section": "esteri",
+    "priority": 6,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-10T09:09:16.537656+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/10/105046825-1f8ae680-f1d5-436a-994b-25316755716e.jpg",
+    "occhiello": "\"FIDESZ È UN SISTEMA FEUDALE, PER DEBELLARLO MAGYAR DOVRÀ CONQUISTARE LA MAGGIOR",
+    "lead_preview": "OCCHIELLO Ungheria: Fidesz, il partito di Orbán, è un sistema feudale che controlla l'economia e la politica del Paese. ",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "329a88bcf5a9efdb",
     "slug": "il-prezzo-del-gas-crolla-a-4490-euro-ad-amsterdam-329a88bcf5a9efdb",
     "title": "Gas a 44,90 euro al MWh ad Amsterdam, calo del 2,8% inaspettato sul TTF",
@@ -9185,24 +9200,6 @@
       "guanto di sfida",
       "celentano peparini",
       "abbandono diretta"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "6cf001cdbf626cb3",
-    "slug": "francia-i-titoli-restaurant-anche-la-domenica-la-r-6cf001cdbf626cb3",
-    "title": "La Francia semplifica i buoni pasto: cambia tutto entro l'estate",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-05T07:49:16.470186+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/8942550/pexels-photo-8942550.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "RIFORMA TITOLI-RISTORANTE ENTRO L'ESTATE 2026",
-    "lead_preview": "Il ministro del potere d'acquisto francese, Serge Papin, ha annunciato che la riforma del sistema di titoli-restaurant s",
-    "tags": [
-      "riforma buoni pasto",
-      "francia riforma"
     ],
     "hero_eligible": true
   }
