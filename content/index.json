@@ -1,5 +1,24 @@
 [
   {
+    "id": "03c36f005f8813cb",
+    "slug": "alexander-zverev-torna-nei-quarti-di-finale-del-ma-03c36f005f8813cb",
+    "title": "Tennis: Zverev batte Rublev 6-4 7-5 e raggiunge i quarti a Monte-Carlo",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-09T16:52:53.286832+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/1977836f770f68544ee1b3d79c539621ac523dfe/skysport/it/tennis/video/2026/04/09/1088860_1775735771361_thumb_494.0000001_1775736555139.jpg",
+    "occhiello": "",
+    "lead_preview": "Alexander Zverev torna nei quarti di finale del Masters 1000 di Monte-Carlo il 9 aprile 2026, quattro anni dopo la sua u",
+    "tags": [
+      "zverev monte-carlo",
+      "tennis masters 1000",
+      "rublev zverev 2026"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "libro-20260410",
     "slug": "libro-del-giorno-uccidete-cavourdi-giorgio-caponetti-20260410",
     "title": "Il libro del giorno: «Uccidete Cavourdi Giorgio Caponetti»",
@@ -1598,25 +1617,6 @@
       "roma-firenze binario chiuso",
       "trenitalia lavori 2026",
       "stop ferroviario roma-firenze"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "03c36f005f8813cb",
-    "slug": "alexander-zverev-torna-nei-quarti-di-finale-del-ma-03c36f005f8813cb",
-    "title": "Tennis: Zverev batte l'avversario 6-4 7-5 e raggiunge i quarti a Montecarlo dopo 4 anni",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-09T16:52:53.286832+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/1977836f770f68544ee1b3d79c539621ac523dfe/skysport/it/tennis/video/2026/04/09/1088860_1775735771361_thumb_494.0000001_1775736555139.jpg",
-    "occhiello": "",
-    "lead_preview": "Alexander Zverev torna nei quarti di finale del Masters 1000 di Monte-Carlo il 9 aprile 2026, quattro anni dopo la sua u",
-    "tags": [
-      "zverev montecarlo",
-      "tennis masters 1000",
-      "quarti montecarlo 2026"
     ],
     "hero_eligible": true
   },
