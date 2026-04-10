@@ -1,5 +1,20 @@
 [
   {
+    "id": "d90aefbe85809c1d",
+    "slug": "ex-giocatori-bra-a-processo-per-stupro-d90aefbe85809c1d",
+    "title": "Matteo Ferrari, Alessandro Gamberini e Daniele Abate sono stati rinviati a giudi",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-10T12:18:56.833920+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/1/18/fb960198607487b3451d2391bf83e0bf.jpg",
+    "occhiello": "",
+    "lead_preview": "Matteo Ferrari, Alessandro Gamberini e Daniele Abate sono stati rinviati a giudizio il 10 aprile 2026 dal tribunale di A",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "0e1621f3ab167b91",
     "slug": "sofia-anna-vittoria-goggia-si-e-laureata-in-scienz-0e1621f3ab167b91",
     "title": "Fondi pubblici scomparsi dopo il voto",
@@ -396,21 +411,6 @@
       "danneggiamenti bologna 2025",
       "processo anarchici emilia"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "d90aefbe85809c1d",
-    "slug": "ex-giocatori-bra-a-processo-per-stupro-d90aefbe85809c1d",
-    "title": "Ex giocatori bra a processo per stupro",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-10T12:18:56.833920+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/1/18/fb960198607487b3451d2391bf83e0bf.jpg",
-    "occhiello": "EX GIOCATORI BRA A PROCESSO PER STUPRO",
-    "lead_preview": "Il tribunale di Asti il 10 aprile 2026 ha rinviato a giudizio tre ex calciatori del Bra accusati di violenza sessuale su",
-    "tags": [],
     "hero_eligible": true
   },
   {
