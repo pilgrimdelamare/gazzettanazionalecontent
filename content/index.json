@@ -1,5 +1,24 @@
 [
   {
+    "id": "2632c22df0cc2df4",
+    "slug": "cannes-2026-esclude-film-guidati-da-ia-arte-umana-2632c22df0cc2df4",
+    "title": "Cannes 2026, Knobloch vieta i film con IA: 'No a prodotti algoritmici'",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-10T00:45:11.912344+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/9/9d1922ebb20eed23b0d723432b96b9fc.jpg",
+    "occhiello": "CANNES 2026 BANDISCE I FILM DELL'IA",
+    "lead_preview": "Charlotte Knobloch ha annunciato il 9 aprile 2026 che il Festival di Cannes esclude le opere prodotte con intelligenza a",
+    "tags": [
+      "cannes 2026",
+      "film ia",
+      "knobloch cinema"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "b45772cf3b1fc92e",
     "slug": "tumori-rischio-piu-alto-per-chi-non-si-e-mai-sposa-b45772cf3b1fc92e",
     "title": "Tumori, rischio più alto per chi non si è mai sposato",
@@ -820,25 +839,6 @@
       "mckennie nazionale",
       "stop luci",
       "centrocampista usa"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "2632c22df0cc2df4",
-    "slug": "cannes-2026-esclude-film-guidati-da-ia-arte-umana-2632c22df0cc2df4",
-    "title": "Cannes 2026 esclude film guidati da IA: arte umana contro algoritmi",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-10T00:45:11.912344+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/9/9d1922ebb20eed23b0d723432b96b9fc.jpg",
-    "occhiello": "",
-    "lead_preview": "Charlotte Knobloch, presidente del Festival di Cannes, ha dichiarato il 9 aprile 2026 che un film è una visione personal",
-    "tags": [
-      "cannes 2026",
-      "film ia",
-      "arte umana"
     ],
     "hero_eligible": true
   },
