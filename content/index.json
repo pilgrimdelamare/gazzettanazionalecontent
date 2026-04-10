@@ -1,5 +1,24 @@
 [
   {
+    "id": "bf6d674d2f63c4d5",
+    "slug": "rugby-italia-pronta-per-la-francia-con-formazione-bf6d674d2f63c4d5",
+    "title": "Rugby: Roselli convoca 23 giocatori per l’esordio azzurro a Grenoble il 11 aprile",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-09T14:50:06.721703+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/598afb3a6c192d86c05c168589b07a7fa41a4da2/skysport/it/rugby/2026/04/09/italia-francia-sei-nazioni-femminile-2026-formazioni/Fabio_Roselli_rugby_ipa.jpg",
+    "occhiello": "FORMAZIONE ESPERTA PER IL DEBUTTO IN FRANCIA",
+    "lead_preview": "Fabio Roselli ha convocato la Nazionale Italiana di rugby per l’esordio del 11 aprile 2026 a Grenoble contro la Francia,",
+    "tags": [
+      "esordio azzurro grenoble",
+      "convocazione roselli",
+      "rugby italia francia"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "f2e064c168931cce",
     "slug": "papa-leone-xiv-a-milano-cortina-2026-no-al-doping-f2e064c168931cce",
     "title": "Papa Leone XIV: 'Doping è menzogna', discorso anti-divismo a 17 atleti azzurri in Vaticano",
@@ -662,24 +681,6 @@
     "tags": [
       "morte avvelenate",
       "caso totì"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "bf6d674d2f63c4d5",
-    "slug": "rugby-italia-pronta-per-la-francia-con-formazione-bf6d674d2f63c4d5",
-    "title": "Rugby: Italia pronta per la Francia con formazione esperta",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-09T14:50:06.721703+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/598afb3a6c192d86c05c168589b07a7fa41a4da2/skysport/it/rugby/2026/04/09/italia-francia-sei-nazioni-femminile-2026-formazioni/Fabio_Roselli_rugby_ipa.jpg",
-    "occhiello": "SEI NAZIONI FEMMINILE, ITALIA PRONTA PER LA FRANCIA",
-    "lead_preview": "Il Ct Fabio Roselli ha annunciato la formazione dell'Italia per la sfida d'esordio a Grenoble con la Francia sabato 11 a",
-    "tags": [
-      "sei nazioni femminile",
-      "italia rugby"
     ],
     "hero_eligible": true
   },
