@@ -1,5 +1,20 @@
 [
   {
+    "id": "4ad9a4e7b2d11105",
+    "slug": "george-13-anni-addio-normalita-4ad9a4e7b2d11105",
+    "title": "George 13 anni, addio \"normalità\"",
+    "section": "societa",
+    "priority": 6,
+    "journalist_firma": "Marco Sala",
+    "published_at": "2026-04-10T13:18:26.906006+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/10/23543533_small-1200x630.jpg",
+    "occhiello": "GEORGE 13 ANNI, ADDIO \"NORMALITÀ\"",
+    "lead_preview": "Il Principe George del Galles compie 13 anni il 22 luglio 2026 e perde l'ultima licenza di essere un \"ragazzo normale\". ",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "68cf0d17e3ed55d4",
     "slug": "il-sinking-of-the-titanic-di-gavin-bryars-a-bologn-68cf0d17e3ed55d4",
     "title": "Il sinking of the titanic di gavin bryars a bologna",
@@ -9138,25 +9153,6 @@
     "occhiello": "BOLOGNA-PARMA 2-1",
     "lead_preview": "5 Aprile 2026, Bologna. Il Bologna batte il Parma 2-1 in Serie A. D'Aversa parla di errori fatali nel secondo tempo.",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "a5a312cc10e02740",
-    "slug": "emily-peck-cold-plunge-il-momento-giusto-per-il-ma-a5a312cc10e02740",
-    "title": "Tossicodipendenti dal benessere: l'acqua fredda torna d'attualità",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-04-06T04:48:36.748893+00:00",
-    "image_type": "image",
-    "image_url": "https://media-assets.wired.it/photos/69cfc85a4faea638f5157158/16:9/w_1280,c_limit/2227493689",
-    "occhiello": "EMILY PECK: LA RIVOLUZIONE DELLA FISIOLOGIA DELLA SOFFERENZA",
-    "lead_preview": "L'immersione in acqua fredda è un trattamento di benessere in voga negli Stati Uniti da anni, ma è solo ora che sta pren",
-    "tags": [
-      "acqua fredda benessere",
-      "emily peck",
-      "fisiologia sofferenza"
-    ],
     "hero_eligible": true
   }
 ]
