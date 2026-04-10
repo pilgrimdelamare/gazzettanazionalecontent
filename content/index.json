@@ -1,5 +1,24 @@
 [
   {
+    "id": "80652b1f0ec2eadb",
+    "slug": "joseph-von-eichendorff-il-poeta-romantico-tedesco-80652b1f0ec2eadb",
+    "title": "Joseph von Eichendorff, il poeta romantico tedesco che esaltò la bellezza della lingua tedesca",
+    "section": "cronaca",
+    "priority": 4,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-04-10T05:52:45.678368+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/08/Joseph-von-Eichendorff-1.jpg",
+    "occhiello": "LA LINGUA DELLA BELLEZZA: EICHENDORFF E IL ROMANTICISMO",
+    "lead_preview": "Joseph von Eichendorff (Castello di Lubowitz in Slesia, 1788 – Neisse, 1857), il poeta tedesco, ha lasciato un'eredità l",
+    "tags": [
+      "poesia romantica",
+      "joseph von eichendorff",
+      "letteratura tedesca"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "a6a6c025dbfcfc76",
     "slug": "senato-ripresentata-la-proposta-di-lavorare-senza-a6a6c025dbfcfc76",
     "title": "Senato: ripresentata la proposta di lavorare senza permesso di Lavoro",
@@ -9158,23 +9177,6 @@
       "riabilitazione apostolico",
       "csm torino",
       "giudice apostolico"
-    ]
-  },
-  {
-    "id": "a6356b0a3c3eedba",
-    "slug": "basket-mike-dantoni-nella-hall-of-fame-il-15-agost-a6356b0a3c3eedba",
-    "title": "Basket: D'Antoni entra nella Hall of Fame il 15 agosto 2026",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-04T21:40:17.901538+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/16091155/pexels-photo-16091155.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "DA MATERA A SPRINGFIELD",
-    "lead_preview": "Mike D’Antoni entrerà nella Naismith Memorial Basketball Hall of Fame il 15 agosto 2026, secondo la nota ufficiale del c",
-    "tags": [
-      "hall of fame",
-      "mike d'antoni"
     ]
   }
 ]
