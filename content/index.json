@@ -1,5 +1,24 @@
 [
   {
+    "id": "d5d122397d8e2efa",
+    "slug": "66enne-punita-dal-preside-per-non-alzarsi-dallo-sc-d5d122397d8e2efa",
+    "title": "66Enne punita dal preside per non alzarsi dallo scranno",
+    "section": "esteri",
+    "priority": 8,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-10T06:24:00.069945+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2021/07/26/Scuola-docenti.jpg",
+    "occhiello": "SANZIONI DISCIPLINARI A DOCENTI, IL SINDACATO GILDA IN DIFESA DEI DIRIGENTI SCOLASTICI",
+    "lead_preview": "A Bari, una docente 66enne della Scuola dell'infanzia è stata punita dal preside con una sanzione disciplinare \"perché n",
+    "tags": [
+      "sanzioni scolastiche",
+      "docenti puniti",
+      "sindacato gilda"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "1adf96fee23f62bd",
     "slug": "10-milioni-dal-governo-per-riaprire-la-ferrovia-bl-1adf96fee23f62bd",
     "title": "10 Milioni dal governo per riaprire la ferrovia bloccata dalla frana a Petacciato",
@@ -9177,19 +9196,5 @@
       "regioni francesi",
       "gabriel attal"
     ]
-  },
-  {
-    "id": "672c33be2c68da72",
-    "slug": "gilberto-pichetto-fratin-ministro-dellambiente-e-s-672c33be2c68da72",
-    "title": "Riserve energetiche nazionali coprono solo 30 giorni",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Elena Russo",
-    "published_at": "2026-04-04T23:49:06.046083+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/2882570/pexels-photo-2882570.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "RISERVE ENERGETICHE NAZIONALI COPRONO SOLO 30 GIORNI",
-    "lead_preview": "Il ministro dell'Ambiente e della Sicurezza Energetica, Gilberto Pichetto Fratin, ha rivelato che le riserve energetiche",
-    "tags": []
   }
 ]
