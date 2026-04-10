@@ -1,5 +1,20 @@
 [
   {
+    "id": "66640b9a7de27dd8",
+    "slug": "un-milione-di-dollari-per-un-fallimento-a-san-siro-66640b9a7de27dd8",
+    "title": "Andreas andersson: 52 anni e un milione di dollari di cartellino",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-10T06:24:02.515795+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/09/Milan-Andreas-Andersson.jpg",
+    "occhiello": "ANDREAS ANDERSSON: 52 ANNI E UN MILIONE DI DOLLARI DI CARTELLINO",
+    "lead_preview": "Andreas Andersson compie 52 anni il 10 aprile 2026. Il centravanti svedese arrivò al Milan nel gennaio 1997 per un milio",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "a0b91dcc657fcb27",
     "slug": "sette-insegnanti-agrigentini-privati-della-cattedr-a0b91dcc657fcb27",
     "title": "Fondi scomparsi dopo il voto: sette insegnanti senza cattedra",
@@ -803,24 +818,6 @@
       "incontro kmt pechino",
       "presidente kmt cina",
       "relazioni cina taiwan"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "66640b9a7de27dd8",
-    "slug": "un-milione-di-dollari-per-un-fallimento-a-san-siro-66640b9a7de27dd8",
-    "title": "Un milione di dollari per un fallimento a San Siro",
-    "section": "sport",
-    "priority": 7,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-10T06:24:02.515795+00:00",
-    "image_type": "image",
-    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/09/Milan-Andreas-Andersson.jpg",
-    "occhiello": "LA VITA DI ANDREAS ANDERSSON, IL \"DONDOLO\" DEL MILAN",
-    "lead_preview": "Il 10 aprile 2026, Esattamente 52 anni fa, nasceva a Nacka Andreas Andersson, il centravanti svedese che i tifosi del Mi",
-    "tags": [
-      "milan",
-      "andreas andersson"
     ],
     "hero_eligible": true
   },
