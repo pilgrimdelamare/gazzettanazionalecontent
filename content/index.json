@@ -1,5 +1,24 @@
 [
   {
+    "id": "c1e66e82c1fd6e86",
+    "slug": "80-eventi-in-16-regioni-legambiente-pulisce-100-me-c1e66e82c1fd6e86",
+    "title": "80 Eventi in 16 regioni: Legambiente pulisce 100 metri di costa ogni 77 mozziconi",
+    "section": "cronaca",
+    "priority": 6,
+    "journalist_firma": "Chiara Esposito",
+    "published_at": "2026-04-10T07:33:17.744515+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/10/090839135-11a79f6d-e1f7-409a-91a3-271684b3464b.jpg",
+    "occhiello": "SETTANTASETTE MOZZICONI OGNI 100 METRI",
+    "lead_preview": "Legambiente ha lanciato oggi, 10 aprile 2026, la 36esima edizione della campagna “Spiagge e fondali puliti”, con 80 iniz",
+    "tags": [
+      "spiagge e fondali puliti",
+      "legambiente 2026",
+      "mozziconi spiagge"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "daa894dc21dc9178",
     "slug": "il-nonno-dello-schematizzo-daa894dc21dc9178",
     "title": "Il nonno dello schematizzo",
@@ -9193,24 +9212,6 @@
     "lead_preview": "Treviso ha battuto Tortona 91-86 domenica 5 aprile 2026 nella partita valida per la LBA Serie A. La vittoria conferma il",
     "tags": [
       "lba serie a"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "15e6c53050810aab",
-    "slug": "papa-francesco-annuncia-veglia-per-la-pace-l11-apr-15e6c53050810aab",
-    "title": "Papa Francesco ha convocato una veglia di preghiera per la pace in piazza San Pi",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Sergio Mancini",
-    "published_at": "2026-04-05T10:47:37.686507+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1538175911510-25336f95b07d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxQYXBhJTIwRnJhbmNlc2NvfGVufDB8MHx8fDE3NzUzOTM2MjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "",
-    "lead_preview": "Papa Francesco ha convocato una veglia di preghiera per la pace in piazza San Pietro l'11 aprile 2026, come annunciato u",
-    "tags": [
-      "veglia per la pace",
-      "papa francesco"
     ],
     "hero_eligible": true
   }
