@@ -1,5 +1,24 @@
 [
   {
+    "id": "61790800c6a3ac11",
+    "slug": "contributi-alla-nato-mai-alla-pazze-61790800c6a3ac11",
+    "title": "Mattarella a Praga: 'Stati Uniti e NATO, no a più truppe'",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Elena Russo",
+    "published_at": "2026-04-09T16:45:50.119072+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/9/bc471b7dfd619be750e49500e7934e30.jpg",
+    "occhiello": "MATTARELLA A PRAGA: ITALIA DICE NO A 17.000 SOLDATI NATO",
+    "lead_preview": "Sergio Mattarella si è recato a Praga il 9 aprile 2026 per incontrare il presidente ceco Pavel con l'intento di discuter",
+    "tags": [
+      "mattarella a praga",
+      "nato in italia",
+      "presidente ceco"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "libro-20260410",
     "slug": "libro-del-giorno-uccidete-cavourdi-giorgio-caponetti-20260410",
     "title": "Caponetti lancia 'Uccidete Cavour': 35.000 copie in pochi giorni contro il mito del Risorgimento",
@@ -2073,25 +2092,6 @@
       "cessate il fuoco putin",
       "crisi ucraina 2025",
       "negoziazioni russo-ucraine"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "61790800c6a3ac11",
-    "slug": "contributi-alla-nato-mai-alla-pazze-61790800c6a3ac11",
-    "title": "Mattarella a Praga: Italia dice no a 17.000 soldati Nato, niente fondi aggiuntivi",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Elena Russo",
-    "published_at": "2026-04-09T16:45:50.119072+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/9/bc471b7dfd619be750e49500e7934e30.jpg",
-    "occhiello": "",
-    "lead_preview": "Sergio Mattarella si è recato a Praga il 9 aprile 2026 per incontrare il presidente ceco Pavel per incontrare il preside",
-    "tags": [
-      "mattarella praga",
-      "nato soldati",
-      "fondi difesa"
     ],
     "hero_eligible": true
   },
