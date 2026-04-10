@@ -1,0 +1,59 @@
+{
+  "id": "5576268ccc41f342",
+  "slug": "principe-harry-in-defesa-dellong-5576268ccc41f342",
+  "title": "Principe harry in defesa dell'ong",
+  "titles": [
+    "PRINCIPE HARRY IN DEFESA DELL'ONG",
+    "PRINCIPE HARRY IN DEFESA DELL'ONG",
+    "PRINCIPE HARRY IN DEFESA DELL'ONG"
+  ],
+  "title_winner": null,
+  "section": "esteri",
+  "occhiello": "PRINCIPE HARRY IN DEFESA DELL'ONG",
+  "lead": "Il principe Harry ha respinto fermamente l'accusa di diffamazione di un'Organizzazione non governativa (ONG) africana, la Sentebale. Secondo quanto riportato da ANSA, il principe britannico ha negato di aver diffamato l'ONG in occasione di un'intervista concessa a un quotidiano britannico.",
+  "corpo1": "Il principe Harry, figlio del defunto principe Carlo e di Diana, Principessa di Gales, è Stato accusato di aver diffamato l'ONG Sentebale, fondata dal principe britannico per aiutare i bambini orfani di AIDS in Africa. Secondo ANSA, il principe Harry ha negato di aver fatto dichiarazioni negative sull'ONG, affermando di aver sempre lavorato per il bene dei bambini e delle comunità africane. La Sentebale è un'ONG che opera prevalentemente in Lesotho, Sudafrica e Botswana, e che si occupa di fornire aiuti umanitari e di promuovere la salute e l'istruzione dei bambini. Il principe Harry è Stato uno degli sostenitori più importanti dell'ONG, e ha lavorato a stretto contatto con i dirigenti dell'Organizzazione.",
+  "corpo2": "Il principe Harry ha una lunga storia di impegno per le cause umanitarie e per la protezione dei diritti umani. Nel 2006, ha fondato la Sentebale con il compito di aiutare i bambini orfani di AIDS in Africa. L'ONG ha ricevuto finanziamenti da varie fonti, tra cui il Fondo di beneficenza del principe Harry e la Fondazione Clinton. Il principe Harry ha sempre sostenuto la Sentebale e ha lavorato per promuovere la sua causa. La sua difesa contro l'accusa di diffamazione è stata vista come un gesto importante per proteggere l'onore e la reputazione dell'ONG. Se gli equilibri che ha descritto tengono, l'impatto sull'Italia nei prossimi sei-dodici mesi sarà che l'ONG Sentebale continuerà a ricevere sostegno Internazionale per i suoi progetti umanitari in Africa.",
+  "article_type": "standard",
+  "cards": [],
+  "journalist": {
+    "id": "anna_colombo_01",
+    "firma": "Anna Colombo",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-04-10T20:55:59.792150+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://www.ansa.it/webimages/img_1129x635/2026/1/22/15982b3cf137a30beaa917ef109dbe6c.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"PRINCIPE HARRY IN DEFESA DELL'ONG\",\n  \"description\": \"Il principe Harry ha respinto fermamente l'accusa di diffamazione di un'Organizzazione non governativa (ONG) africana, la Sentebale. Secondo quanto riportato da ANSA, il principe britannico ha negato di aver diffamato l'ONG in occasione di un'intervista concessa a un quotidiano britannico.\",\n  \"articleBody\": \"Il principe Harry ha respinto fermamente l'accusa di diffamazione di un'Organizzazione non governativa (ONG) africana, la Sentebale. Secondo quanto riportato da ANSA, il principe britannico ha negato di aver diffamato l'ONG in occasione di un'intervista concessa a un quotidiano britannico. Il principe Harry, figlio del defunto principe Carlo e di Diana, Principessa di Gales, è Stato accusato di aver diffamato l'ONG Sentebale, fondata dal principe britannico per aiutare i bambini orfani di AIDS in Africa. Secondo ANSA, il principe Harry ha negato di aver fatto dichiarazioni negative sull'ONG, affermando di aver sempre lavorato per il bene dei bambini e delle comunità africane. La Sentebale è un'ONG che opera prevalentemente in Lesotho, Sudafrica e Botswana, e che si occupa di fornire aiuti umanitari e di promuovere la salute e l'istruzione dei bambini. Il principe Harry è Stato uno degli sostenitori più importanti dell'ONG, e ha lavorato a stretto contatto con i dirigenti dell'Organizzazione. Il principe Harry ha una lunga storia di impegno per le cause umanitarie e per la protezione dei diritti umani. Nel 2006, ha fondato la Sentebale con il compito di aiutare i bambini orfani di AIDS in Africa. L'ONG ha ricevuto finanziamenti da varie fonti, tra cui il Fondo di beneficenza del principe Harry e la Fondazione Clinton. Il principe Harry ha sempre sostenuto la Sentebale e ha lavorato per promuovere la sua causa. La sua difesa contro l'accusa di diffamazione è stata vista come un gesto importante per proteggere l'onore e la reputazione dell'ONG. Se gli equilibri che ha descritto tengono, l'impatto sull'Italia nei prossimi sei-dodici mesi sarà che l'ONG Sentebale continuerà a ricevere sostegno Internazionale per i suoi progetti umanitari in Africa.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-10T20:55:59.792150+00:00\",\n  \"dateModified\": \"2026-04-10T20:55:59.792150+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/5576268ccc41f342\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/5576268ccc41f342\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.ansa.it/webimages/img_1129x635/2026/1/22/15982b3cf137a30beaa917ef109dbe6c.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 5,
+  "source": "ANSA Esteri",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/04/10/il-principe-harry-respinge-fermamente-laccusa-di-diffamazione-di-una-ong_19f8da88-94d8-4392-9c5d-eba084feb4a9.html",
+  "related": [
+    {
+      "title": "Lee Milne condannato a 8 anni a Glasgow per l'omicidio colposo della moglie Kimberly",
+      "url": "/esteri/lee-milne-condannato-a-8-anni-a-glasgow-per-lomici-7633885c1b472026",
+      "id": "7633885c1b472026",
+      "image_url": "https://i.guim.co.uk/img/media/80936cf2939bd38998d1685812492cfb1940a1d7/0_0_3158_2526/master/3158.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ab6b66cff74e5ab4a0ec411eac0913c4",
+      "image_type": "image"
+    },
+    {
+      "title": "\"fidesz è un sistema feudale, per debellarlo magyar dovrà conquistare la maggior",
+      "url": "/esteri/fidesz-e-un-sistema-feudale-per-debellarlo-magyar-e12bf3f17cbb86d2",
+      "id": "e12bf3f17cbb86d2",
+      "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/10/105046825-1f8ae680-f1d5-436a-994b-25316755716e.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "300 Morti e 1.200 Feriti: Israele Sferra Bombe su Beirut",
+      "url": "/esteri/300-morti-in-libano-bombardamenti-israeliani-colpi-34171786df3d7699",
+      "id": "34171786df3d7699",
+      "image_url": "https://live.staticflickr.com/65535/55196783762_4da8a6be1b_b.jpg",
+      "image_type": "flickr"
+    }
+  ],
+  "hero_eligible": true
+}
