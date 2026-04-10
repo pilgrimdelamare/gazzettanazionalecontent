@@ -1,5 +1,24 @@
 [
   {
+    "id": "9d81518f3d15baea",
+    "slug": "lula-in-europa-il-17-aprile-per-firmare-laccordo-u-9d81518f3d15baea",
+    "title": "Lula in Europa il 17 aprile per firmare l'accordo Ue-Mercosur e regolare i tech",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-10T00:59:55.368345+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/9/50b857781180c3108b73acf996a866a8.jpg",
+    "occhiello": "LULA IN EUROPA, MISSSIONE TRA MERCOSUR-UE E REGOLAZIONE BIG TECH",
+    "lead_preview": "Il presidente brasiliano Lula Da Silva arriva in Europa, martedì 17 aprile, per una missione diplomatica che coinvolge l",
+    "tags": [
+      "accordo ue-mercosur",
+      "regolazione big tech",
+      "lula in europa"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "d0767a6ab222def5",
     "slug": "colombia-lascia-la-comunita-andina-dopo-dazi-ecuat-d0767a6ab222def5",
     "title": "Colombia lascia la Comunità Andina dopo dazi ecuatoriani del 100%",
@@ -9043,19 +9062,5 @@
       "finale marrakech",
       "trungelliti atp"
     ]
-  },
-  {
-    "id": "462d589949277872",
-    "slug": "uffizi-colpiti-da-hacker-20-computer-bloccati-rich-462d589949277872",
-    "title": "20 pc degli uffizi bloccati da attacco hacker",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-04-04T11:43:55.861787+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/5380610/pexels-photo-5380610.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "20 PC DEGLI UFFIZI BLOCCATI DA ATTACCO HACKER",
-    "lead_preview": "La Galleria degli Uffizi a Firenze ha subito un attacco informatico sabato 4 aprile che ha compromesso 20 macchine del s",
-    "tags": []
   }
 ]
