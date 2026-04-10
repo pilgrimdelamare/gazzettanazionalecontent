@@ -1,5 +1,23 @@
 [
   {
+    "id": "b6128ad9246db820",
+    "slug": "frate-giampaolo-silva-insieme-a-luca-guenzi-alessa-b6128ad9246db820",
+    "title": "Un frate con la maschera da giallo in tv",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-09T15:07:56.617296+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/9/8cb2fca855ad68cb46e714192fbd7629.jpg",
+    "occhiello": "UN FRATE CON LA MASCHERA DA GIALLO IN TV",
+    "lead_preview": "Frate Giampaolo Silva sarà tra i protagonisti di Paradise, il nuovo programma di Rai 2 prodotto da Magnolia che andrà in",
+    "tags": [
+      "paradise rai2",
+      "frate giampaolo silva"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "3b5271fcee3ba452",
     "slug": "dal-2010-al-2025-il-crollo-dei-giovani-italiani-in-3b5271fcee3ba452",
     "title": "Calcio: il 63% di calciatori italianoschierati in Serie A è crollato",
@@ -545,21 +563,6 @@
       "musica silenzio guerra",
       "78mila sfollati"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "b6128ad9246db820",
-    "slug": "frate-giampaolo-silva-insieme-a-luca-guenzi-alessa-b6128ad9246db820",
-    "title": "Frate Giampaolo Silva, insieme a Luca Guenzi, Alessandro Bonagia e Paolo Comasch",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-04-09T15:07:56.617296+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/9/8cb2fca855ad68cb46e714192fbd7629.jpg",
-    "occhiello": "",
-    "lead_preview": "Frate Giampaolo Silva, insieme a Luca Guenzi, Alessandro Bonagia e Paolo Comaschi, sarà protagonista di Paradise, in ond",
-    "tags": [],
     "hero_eligible": true
   },
   {
