@@ -1,5 +1,20 @@
 [
   {
+    "id": "811a227d1293ffb9",
+    "slug": "davide-malen-ha-segnato-tre-gol-nella-partita-roma-811a227d1293ffb9",
+    "title": "Davide Malen ha segnato tre gol nella partita Roma-Pisa, terminata 3-0 il 10 apr",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-10T20:55:59.416955+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/10/c6e70bd0ad91f4c83438a9118a4de00a.jpg",
+    "occhiello": "",
+    "lead_preview": "Davide Malen ha segnato tre gol nella partita Roma-Pisa, terminata 3-0 il 10 aprile 2026 allo Stadio Olimpico di Roma, r",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "959cbd6bd3c7fc10",
     "slug": "evanescence-escono-con-nuovo-album-sanctuary-il-5-959cbd6bd3c7fc10",
     "title": "Evanescenti annunciano nuovo album sanctuary: in uscita il 5 giugno",
@@ -9097,25 +9112,6 @@
     "lead_preview": "Giovanni Fattore, Professore di Economia e Management, ha lanciato un duro attacco contro la teoria neoclassica accusand",
     "tags": [
       "attacco fattore teoria neoclassica"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "6fcf2cf5c1616f0c",
-    "slug": "governo-laburista-uk-rinuncia-a-divieto-foie-gras-6fcf2cf5c1616f0c",
-    "title": "Starmer revoca la regola sul foie gras",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-05T13:26:49.567524+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/9962337/pexels-photo-9962337.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "STARMER REVOCA DIVIETO SU FOIE GRAS E PELLICE",
-    "lead_preview": "Keir Starmer, primo ministro del Regno Unito, ha revocato il divieto di importazione di foie gras e pellicce, nonostante",
-    "tags": [
-      "revoca divieto foie gras",
-      "starmer pellicce",
-      "promessa elettorale starmer"
     ],
     "hero_eligible": true
   }
