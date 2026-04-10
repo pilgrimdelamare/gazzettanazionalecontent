@@ -1,5 +1,24 @@
 [
   {
+    "id": "d040e94d9b074e95",
+    "slug": "cannes-2026-zero-italiani-d040e94d9b074e95",
+    "title": "Italia esclusa da Cannes 2026: nessun film in selezione ufficiale o parallela",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-09T16:33:18.392549+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/09/07/almodovar.jpg",
+    "occhiello": "NESSUN FILM ITALIANO A CANNES 2026",
+    "lead_preview": "Cannes, 9 aprile 2026 — Per la prima volta nella storia settantanovennale del Festival di Cannes, l’Italia non ha alcun ",
+    "tags": [
+      "cannes 2026",
+      "cinema italiano",
+      "assenza italia a cannes"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "f400c8f276e3d3c1",
     "slug": "avviato-a-firenze-il-restauro-della-testa-di-medus-f400c8f276e3d3c1",
     "title": "Firenze: la Testa di Medusa di Giambologna restauro da 85mila euro a Palazzo Vecchio",
@@ -1497,25 +1516,6 @@
     "occhiello": "EMANUELA ORLANDI NEI FILE DI EPSTEIN",
     "lead_preview": "Emanuela Orlandi, la cittadina vaticana scomparsa a Roma il 22 giugno 1983 all'età di 15 anni, comparirebbe negli Epstei",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "d040e94d9b074e95",
-    "slug": "cannes-2026-zero-italiani-d040e94d9b074e95",
-    "title": "Nessun film italiano a Cannes 2026, una prima assoluta in 79 anni",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-04-09T16:33:18.392549+00:00",
-    "image_type": "image",
-    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/09/07/almodovar.jpg",
-    "occhiello": "",
-    "lead_preview": "Cannes, 9 aprile 2026 — Nei settanta nove anni di storia del Festival di Cannes, mai come quest’anno l’Italia è stata co",
-    "tags": [
-      "cannes 2026",
-      "cinema italiano",
-      "assenza italia"
-    ],
     "hero_eligible": true
   },
   {
