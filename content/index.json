@@ -1,5 +1,22 @@
 [
   {
+    "id": "monitor_spotify",
+    "slug": "disservizio-spotify",
+    "title": "Spotify giù 47 minuti in Europa e Usa: 38 milioni di utenti colpiti all'alba",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-04-09T07:40:11.077571+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/spotify.com",
+    "occhiello": "",
+    "lead_preview": "Spotify è tornato online alle 07:40 del 9 aprile 2026, dopo un’interruzione di 47 minuti che ha bloccato l’accesso al se",
+    "tags": [
+      "outage spotify 2026"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "933ddad4fa4a5754",
     "slug": "meloni-a-roma-5000-medici-promessi-ma-erano-gia-pr-933ddad4fa4a5754",
     "title": "Meloni annuncia 5mila nuovi medici entro il 2027 a Roma",
@@ -938,21 +955,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/16f20f6a21152358db1164b8f489132e.jpg",
     "occhiello": "",
     "lead_preview": "Benjamin Netanyahu, primo ministro di Israele, ha dichiarato il 9 aprile 2026 che lo Stato ebraico continuerà a colpire ",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_spotify",
-    "slug": "disservizio-spotify",
-    "title": "Spotify è tornato online alle 07:40 del 9 aprile 2026, dopo un’interruzione di 4",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-04-09T07:40:11.077571+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/spotify.com",
-    "occhiello": "",
-    "lead_preview": "Spotify è tornato online alle 07:40 del 9 aprile 2026, dopo un’interruzione di 47 minuti che ha bloccato l’accesso al se",
     "tags": [],
     "hero_eligible": true
   },
