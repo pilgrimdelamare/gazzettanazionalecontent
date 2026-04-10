@@ -1,5 +1,24 @@
 [
   {
+    "id": "a800aaff2bffee74",
+    "slug": "equalize-lagenzia-che-ha-spiate-celebrita-come-vie-a800aaff2bffee74",
+    "title": "Equalize indagata per accessi abusivi ai dati di Bobbo Vieri e Fabrizio Corona",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Chiara Esposito",
+    "published_at": "2026-04-09T14:50:05.232208+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/12/5/06e6bb2e116746be77124a8638154857.jpg",
+    "occhiello": "UNA SPREGIURATA DELL'ISTITUTO",
+    "lead_preview": "La società di investigazioni \"Equalize\" è al centro di una vicenda di presunti accessi abusivi alle informazioni private",
+    "tags": [
+      "equalize indagata",
+      "accessi abusivi dati",
+      "bobbo vieri corona"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "2c77600efbad7ece",
     "slug": "viktor-orban-sul-punto-di-cadere-solo-23-degli-ung-2c77600efbad7ece",
     "title": "77% Ungheresi vuole restare nell'Ue, sondaggio affossa Orbán a Budapest",
@@ -682,23 +701,6 @@
     "tags": [
       "morte avvelenate",
       "caso totì"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "a800aaff2bffee74",
-    "slug": "equalize-lagenzia-che-ha-spiate-celebrita-come-vie-a800aaff2bffee74",
-    "title": "Equalize, l'agenzia che ha spiate celebrità come Vieri e Corona",
-    "section": "cronaca",
-    "priority": 6,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-04-09T14:50:05.232208+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/12/5/06e6bb2e116746be77124a8638154857.jpg",
-    "occhiello": "CASO EQUALIZE, VITTIME ILLUSTRI",
-    "lead_preview": "Bobbo Vieri, Fabrizio Corona e Ricky Tognazzi sono tra le vittime di presunti accessi abusivi dell'agenzia investigativa",
-    "tags": [
-      "caso equalize"
     ],
     "hero_eligible": true
   },
