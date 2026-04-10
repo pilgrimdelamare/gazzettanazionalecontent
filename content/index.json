@@ -1,5 +1,24 @@
 [
   {
+    "id": "9754cdaa04cfbab1",
+    "slug": "maurizio-scanavino-diventa-presidente-e-socio-di-s-9754cdaa04cfbab1",
+    "title": "Maurizio Scanavino guida Scientifica con 47 milioni a sostegno della deep tech a Pisa",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-09T10:10:22.873045+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/09/114554592-db545afc-25cc-4bee-a499-e7f2372b0e2a.jpg",
+    "occhiello": "",
+    "lead_preview": "Maurizio Scanavino è il nuovo presidente e socio di Scientifica, piattaforma deep tech fondata nel 2022, il cui capitale",
+    "tags": [
+      "presidenza scanavino",
+      "scientifica deep tech",
+      "finanziamento pisano"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "monitor_spotify",
     "slug": "disservizio-spotify",
     "title": "Spotify giù 47 minuti in Europa e Usa: 38 milioni di utenti colpiti all'alba",
@@ -921,25 +940,6 @@
       "piano iccrea 2026",
       "assunzioni under 35",
       "investimenti ia iccrea"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "9754cdaa04cfbab1",
-    "slug": "maurizio-scanavino-diventa-presidente-e-socio-di-s-9754cdaa04cfbab1",
-    "title": "Maurizio Scanavino diventa presidente e socio di Scientifica, deep Tech da 47M€",
-    "section": "economia",
-    "priority": 6,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-09T10:10:22.873045+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/09/114554592-db545afc-25cc-4bee-a499-e7f2372b0e2a.jpg",
-    "occhiello": "SCANAVINO PRESIDENTE, ENTRA IN AZIONARIATO",
-    "lead_preview": "Maurizio Scanavino è il nuovo presidente di Scientifica, piattaforma deep Tech fondata nel 2022, dove è entrato anche co",
-    "tags": [
-      "presidenza scanavino",
-      "scientifica deep tech",
-      "nomina 2026"
     ],
     "hero_eligible": true
   },
