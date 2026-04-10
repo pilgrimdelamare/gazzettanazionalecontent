@@ -1,5 +1,24 @@
 [
   {
+    "id": "f61a5acf614d41b5",
+    "slug": "stop-ferroviario-roma-firenze-f61a5acf614d41b5",
+    "title": "Trenitalia chiude la Roma-Firenze il 12 e 13 aprile 2026: bus sostitutivi in arrivo",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-04-09T17:31:00.872041+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2024/10/2/a4d70ed46085ccbff500d38d8abc7798.jpg",
+    "occhiello": "ROMA-FIRENZE, IL BINARIO CHIUSO 12-13 APRILE: ZERO TRENI, SOLO BUS",
+    "lead_preview": "Trenitalia annuncia la chiusura del tratto ferroviario Roma-Firenze per lavori di potenziamento il 12 e 13 aprile 2026. ",
+    "tags": [
+      "chiusura roma-firenze",
+      "trenitalia 2026",
+      "lavori ferroviari"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "735a8c90090c37bd",
     "slug": "solo-il-13-dei-sostenitori-di-reform-uk-vede-post-735a8c90090c37bd",
     "title": "Solo il 13% dei sostenitori di Reform UK vede post di amici sui social",
@@ -1655,25 +1674,6 @@
       "ostia antica",
       "opere dai depositi",
       "percorso archeologico"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "f61a5acf614d41b5",
-    "slug": "stop-ferroviario-roma-firenze-f61a5acf614d41b5",
-    "title": "Roma-Firenze, binario chiuso 12-13 aprile: zero treni, solo bus",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-04-09T17:31:00.872041+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2024/10/2/a4d70ed46085ccbff500d38d8abc7798.jpg",
-    "occhiello": "STOP FERROVIARIO ROMA-FIRENZE",
-    "lead_preview": "Roma-Firenze, il tratto ferroviario sarà interrotto il 12 e 13 aprile 2026 per lavori di potenziamento. Trenitalia ha gi",
-    "tags": [
-      "roma-firenze binario chiuso",
-      "trenitalia lavori 2026",
-      "stop ferroviario roma-firenze"
     ],
     "hero_eligible": true
   },
