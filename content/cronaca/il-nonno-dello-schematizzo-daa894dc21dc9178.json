@@ -1,0 +1,59 @@
+{
+  "id": "daa894dc21dc9178",
+  "slug": "il-nonno-dello-schematizzo-daa894dc21dc9178",
+  "title": "Il nonno dello schematizzo",
+  "titles": [
+    "IL NONNO DELLO SCHEMATIZZO",
+    "IL NONNO DELLO SCHEMATIZZO",
+    "IL NONNO DELLO SCHEMATIZZO"
+  ],
+  "title_winner": null,
+  "section": "cronaca",
+  "occhiello": "IL NONNO DELLO SCHEMATIZZO",
+  "lead": "Francesco Moser, il campione di ciclismo, si confessa su sua nipotina Clara Isabel, che ha due nomi.",
+  "corpo1": "volta l'altro. Non capisce adesso, cosa la chiamo?\" ha detto Moser. La nipotina di Moser è stata avuta da sua figlia Cecilia Rodriguez e dal figlio di Moser, Ignazio. Clara Isabel è nata nell'ottobre 2025 e si trova attualmente in Argentina. Moser ha anche parlato della sua relazione con sua nipotina, affermando che non tiene abbastanza attenzione a lei. \"Non capisce adesso, cosa la chiamo?\" ha",
+  "corpo2": "detto Moser. La sua affermazione ha suscitato critiche da parte di molti, che lo hanno accusato di non essere un buon nonno. Francesco Moser è un campione di ciclismo italiano che ha vinto sei volte la Parigi-Roubaix e due volte il Tour de France. Tuttavia, la sua carriera è stata anche segnata da problemi personali, tra cui una lunga battaglia con la depressione. La sua affermazione sulla nipotina ha suscitato critiche da parte di molti, che lo hanno accusato di non essere un buon nonno. In questo caso, non cambierà nulla per il mondo, ma per il mondo dei motori e della bicicletta sì: lo sceriffo dei campi percorrerà ancora le strade a 80km/h, e la sua nipotina saranno gli unici protagonisti del suo cuore, mentre per tutti gli altri, come sempre, nulla cambierà.",
+  "article_type": "standard",
+  "cards": [],
+  "journalist": {
+    "id": "roberto_neri_01",
+    "firma": "Roberto Neri",
+    "sezione": "cronaca"
+  },
+  "published_at": "2026-04-10T07:26:40.625539+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/10/Schermata-2026-04-10-alle-09.18.16.png",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"IL NONNO DELLO SCHEMATIZZO\",\n  \"description\": \"Francesco Moser, il campione di ciclismo, si confessa su sua nipotina Clara Isabel, che ha due nomi.\",\n  \"articleBody\": \"Francesco Moser, il campione di ciclismo, si confessa su sua nipotina Clara Isabel, che ha due nomi. volta l'altro. Non capisce adesso, cosa la chiamo?\\\" ha detto Moser. La nipotina di Moser è stata avuta da sua figlia Cecilia Rodriguez e dal figlio di Moser, Ignazio. Clara Isabel è nata nell'ottobre 2025 e si trova attualmente in Argentina. Moser ha anche parlato della sua relazione con sua nipotina, affermando che non tiene abbastanza attenzione a lei. \\\"Non capisce adesso, cosa la chiamo?\\\" ha detto Moser. La sua affermazione ha suscitato critiche da parte di molti, che lo hanno accusato di non essere un buon nonno. Francesco Moser è un campione di ciclismo italiano che ha vinto sei volte la Parigi-Roubaix e due volte il Tour de France. Tuttavia, la sua carriera è stata anche segnata da problemi personali, tra cui una lunga battaglia con la depressione. La sua affermazione sulla nipotina ha suscitato critiche da parte di molti, che lo hanno accusato di non essere un buon nonno. In questo caso, non cambierà nulla per il mondo, ma per il mondo dei motori e della bicicletta sì: lo sceriffo dei campi percorrerà ancora le strade a 80km/h, e la sua nipotina saranno gli unici protagonisti del suo cuore, mentre per tutti gli altri, come sempre, nulla cambierà.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Roberto Neri\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-10T07:26:40.625539+00:00\",\n  \"dateModified\": \"2026-04-10T07:26:40.625539+00:00\",\n  \"url\": \"https://lentemattutina.it/cronaca/daa894dc21dc9178\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cronaca/daa894dc21dc9178\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/10/Schermata-2026-04-10-alle-09.18.16.png\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 6,
+  "source": "Il Fatto Quotidiano",
+  "source_type": "competitor",
+  "original_url": "https://www.ilfattoquotidiano.it/2026/04/10/la-mia-nipotina-ha-due-nomi-una-volta-mi-ricordo-uno-una-volta-laltro-non-capisce-adesso-cosa-la-chiamo-cosi-francesco-moser-su-clara-isabel/8351175/",
+  "related": [
+    {
+      "title": "Lola T70 torna in 16 esemplari: potenza in pista e stradale",
+      "url": "/cronaca/lola-t70-torna-in-16-esemplari-potenza-in-pista-e-6918e6a890f87c19",
+      "id": "6918e6a890f87c19",
+      "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/08/Lola-Cars-T70S-New-1.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Trump attacca il pedaggio iraniano sul petrolio a 1,5 dollari al barile",
+      "url": "/cronaca/trump-attacca-il-pedaggio-iraniano-sul-petrolio-a-7b9241f029151228",
+      "id": "7b9241f029151228",
+      "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/03/22/med-1200x630-12-1200x630.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Leonardo cambia AD: ecco chi sostituirà Cingolani",
+      "url": "/cronaca/lorenzo-mariani-nuovo-ad-di-leonardo-cingolani-esc-48c12e92ea38d5bd",
+      "id": "48c12e92ea38d5bd",
+      "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2022/02/17/cingolani-1200.jpg",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": true
+}
