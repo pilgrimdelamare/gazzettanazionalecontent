@@ -1,5 +1,24 @@
 [
   {
+    "id": "e655a8c32a709854",
+    "slug": "weston-mckennie-il-27enne-centrocampista-degli-sta-e655a8c32a709854",
+    "title": "Calcio: McKennie salta la pausa federale, stop alla Nazionale sotto Luci",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-09T11:19:24.106980+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/6/11d62100ebbceb973f0bd5827171a6f7.jpg",
+    "occhiello": "",
+    "lead_preview": "Weston McKennie, il 27enne centrocampista della Nazionale statunitense, ha dichiarato il 9 aprile 2026 che non accetterà",
+    "tags": [
+      "mckennie nazionale",
+      "stop luci",
+      "centrocampista usa"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "2632c22df0cc2df4",
     "slug": "cannes-2026-esclude-film-guidati-da-ia-arte-umana-2632c22df0cc2df4",
     "title": "Cannes 2026 esclude film guidati da IA: arte umana contro algoritmi",
@@ -775,21 +794,6 @@
       "patteggiamento sorrento",
       "raffaele guida"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "e655a8c32a709854",
-    "slug": "weston-mckennie-il-27enne-centrocampista-degli-sta-e655a8c32a709854",
-    "title": "Weston McKennie, il 27enne centrocampista degli Stati Uniti, ha dichiarato il 9 ",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-09T11:19:24.106980+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/6/11d62100ebbceb973f0bd5827171a6f7.jpg",
-    "occhiello": "",
-    "lead_preview": "Weston McKennie, il 27enne centrocampista degli Stati Uniti, ha dichiarato il 9 aprile 2026 che la guida tecnica di Luci",
-    "tags": [],
     "hero_eligible": true
   },
   {
