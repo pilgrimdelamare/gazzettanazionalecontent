@@ -1,5 +1,24 @@
 [
   {
+    "id": "7633885c1b472026",
+    "slug": "lee-milne-condannato-a-8-anni-a-glasgow-per-lomici-7633885c1b472026",
+    "title": "Lee Milne condannato a 8 anni a Glasgow per l'omicidio colposo della moglie Kimberly",
+    "section": "esteri",
+    "priority": 4,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-10T11:19:26.805066+00:00",
+    "image_type": "image",
+    "image_url": "https://i.guim.co.uk/img/media/80936cf2939bd38998d1685812492cfb1940a1d7/0_0_3158_2526/master/3158.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ab6b66cff74e5ab4a0ec411eac0913c4",
+    "occhiello": "UN MARITO CONDANNATO PER AVER UCCISO LA MOGLIE",
+    "lead_preview": "Lee Milne, un uomo di 40 anni, è stato condannato a otto anni di carcere per aver ucciso la moglie, Kimberly Milne, che ",
+    "tags": [
+      "omicidio colposo kimberly milne",
+      "maltrattamenti domestici scozia",
+      "processo lee milne"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "7fa0499cd0d91a0a",
     "slug": "calcio-barcellona-reclama-alla-uefa-dopo-il-0-2-co-7fa0499cd0d91a0a",
     "title": "Calcio: Barcellona reclama alla UEFA dopo il 0-2 con l'Atletico per errori arbitrali",
@@ -9164,21 +9183,6 @@
       "patriarca gerusalemme",
       "pax senza verità"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "6b2fce90e728a142",
-    "slug": "marta-kostyuk-si-allena-a-kiev-tra-allarmi-antaere-6b2fce90e728a142",
-    "title": "Allenamenti tra bombe per la top 16",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-05T08:21:02.894242+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Marta-viterbo-lazio.JPG",
-    "occhiello": "ALLENAMENTI TRA BOMBE PER LA TOP 16",
-    "lead_preview": "Marta Kostyuk, numero 16 del ranking wta e quartofinalista agli Australian Open 2024, ha ripreso gli allenamenti sulla t",
-    "tags": [],
     "hero_eligible": true
   }
 ]
