@@ -1,5 +1,24 @@
 [
   {
+    "id": "735a8c90090c37bd",
+    "slug": "solo-il-13-dei-sostenitori-di-reform-uk-vede-post-735a8c90090c37bd",
+    "title": "Solo il 13% dei sostenitori di Reform UK vede post di amici sui social",
+    "section": "esteri",
+    "priority": 3,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-10T04:19:55.322501+00:00",
+    "image_type": "image",
+    "image_url": "https://i.guim.co.uk/img/media/3be6363549c36f3762cccd59a0c802c2cef2ac94/0_0_2341_1873/master/2341.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=908185b4887683425ae5f9884e8138d1",
+    "occhiello": "ISOLAMENTO DIGITALE: VOTANTI DI REFORM UK PIÙ ISOLATI DAI SOCIAL MEDIA",
+    "lead_preview": "Un think tank afferma che gli algoritmi stanno alimentando isolamento e divisione dopo aver analizzato i post mostrati a",
+    "tags": [
+      "isolamento digitale",
+      "reform uk",
+      "algoritmi social"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "8e80592e80be3b50",
     "slug": "fosber-venduta-a-brookfield-per-900-milioni-sede-a-8e80592e80be3b50",
     "title": "Fosber venduta a Brookfield per 900 milioni, sede a Lucca confermata",
@@ -9118,24 +9137,6 @@
     "lead_preview": "Roberto Gavioli, 73 anni, falegname di San Felice sul Panaro, è morto la mattina del 4 aprile dopo essere caduto dal ces",
     "tags": [
       "incidente san felice"
-    ]
-  },
-  {
-    "id": "519c08baa97633c2",
-    "slug": "parlamento-ue-blocca-laccordo-di-turnberry-niente-519c08baa97633c2",
-    "title": "Parlamento Ue boccia accordo Usa-Ue su dazi e Ogm: 312 voti contrari a Strasburgo",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-04T11:28:54.749423+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1602077772102-b7d48e01643c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxFdXJvcGVhbiUyMFBhcmxpYW1lbnQlMjBTdHJhc2JvdXJnfGVufDB8MHx8fDE3NzUzODcxMzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "",
-    "lead_preview": "Parlamento europeo, 4 aprile 2026: 312 deputati hanno votato contro l’accordo commerciale siglato il 3 aprile a Turnberr",
-    "tags": [
-      "accordo usa-ue",
-      "dazi agricoli",
-      "ogm europa"
     ]
   }
 ]
