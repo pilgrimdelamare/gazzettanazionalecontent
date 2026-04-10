@@ -1,5 +1,23 @@
 [
   {
+    "id": "2802cfecdcef724d",
+    "slug": "gli-italiani-vedono-il-potere-dacquisto-ai-minimi-2802cfecdcef724d",
+    "title": "Gli italiani vedono il potere d'acquisto ai minimi storici con +1,7% di retribuzione reale",
+    "section": "economia",
+    "priority": 8,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-10T09:18:47.669587+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/1/28/c97c2bb7f6e2b905163501fc689c60e8.jpg",
+    "occhiello": "",
+    "lead_preview": "L'Istat registra un'ipca del +1,7% nel 2025, confermando un gap retributivo del 6,4% rispetto al 2019. Secondo la Cisl, ",
+    "tags": [
+      "potere acquisto",
+      "retribuzione italiana"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "a870ac2fceb2817e",
     "slug": "secondo-lo-studio-tp-infinity-il-79-dei-giovani-st-a870ac2fceb2817e",
     "title": "Secondo lo studio Tp Infinity, il 79% dei giovani stranieri considera il Made in",
@@ -9178,25 +9196,6 @@
     "occhiello": "ANDRIY SHEVCHENKO: INTER PUO' PERDERE SCUDETTO",
     "lead_preview": "Andriy Shevchenko ha dichiarato il 5 aprile 2026 che solo l’Inter può perdere lo scudetto, affermando che il vantaggio d",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "10c3748951f234b5",
-    "slug": "wired-italia-promuove-i-migliori-topper-per-matera-10c3748951f234b5",
-    "title": "Wired Italia ammette: alcuni Topper sponsorizzati nella guida del",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-04-05T07:16:50.897219+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1754637890552-a9258ad0759e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxXaXJlZCUyMEl0YWxpYSUyMG1hZ2F6aW5lJTIwaGVhZHF1YXJ0ZXJzfGVufDB8MHx8fDE3NzU0MTQzMzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "GUIDA A PAGAMENTO TRA I TOPPER PER MATERASSI",
-    "lead_preview": "Il 5 aprile 2026 Wired Italia ha pubblicato una guida ai migliori Topper per materassi, dichiarando esplicitamente che a",
-    "tags": [
-      "guida topper a pagamento",
-      "wired italia sponsorizzazioni",
-      "topper materassi 2026"
-    ],
     "hero_eligible": true
   }
 ]
