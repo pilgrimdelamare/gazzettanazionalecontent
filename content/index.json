@@ -1,5 +1,23 @@
 [
   {
+    "id": "7633885c1b472026",
+    "slug": "lee-milne-condannato-a-8-anni-a-glasgow-per-lomici-7633885c1b472026",
+    "title": "8 Anni di carcere per Lee Milne",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-10T11:19:26.805066+00:00",
+    "image_type": "image",
+    "image_url": "https://i.guim.co.uk/img/media/80936cf2939bd38998d1685812492cfb1940a1d7/0_0_3158_2526/master/3158.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ab6b66cff74e5ab4a0ec411eac0913c4",
+    "occhiello": "OTTO ANNI PER UN OMICIDIO AGLASGOW",
+    "lead_preview": "Lee Milne, 40 anni, è Stato condannato il 10 aprile dal tribunale di Glasgow a otto anni di carcere per l'omicidio colpo",
+    "tags": [
+      "omicidio glasgow",
+      "lee milne"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "66357314e47830d4",
     "slug": "kyrylo-budanov-capo-dellufficio-presidenziale-ucra-66357314e47830d4",
     "title": "Kyrylo Budanov, capo dell’Ufficio presidenziale ucraino e a capo della squadra n",
@@ -635,25 +653,6 @@
     "occhiello": "",
     "lead_preview": "Patrycja Sobanska, modella polacca di 26 anni, ha scoperto di avere un tumore al collo dopo aver notato una somiglianza ",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "7633885c1b472026",
-    "slug": "lee-milne-condannato-a-8-anni-a-glasgow-per-lomici-7633885c1b472026",
-    "title": "Lee Milne condannato a 8 anni a Glasgow per l'omicidio colposo della moglie Kimberly",
-    "section": "esteri",
-    "priority": 4,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-10T11:19:26.805066+00:00",
-    "image_type": "image",
-    "image_url": "https://i.guim.co.uk/img/media/80936cf2939bd38998d1685812492cfb1940a1d7/0_0_3158_2526/master/3158.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ab6b66cff74e5ab4a0ec411eac0913c4",
-    "occhiello": "UN MARITO CONDANNATO PER AVER UCCISO LA MOGLIE",
-    "lead_preview": "Lee Milne, un uomo di 40 anni, è stato condannato a otto anni di carcere per aver ucciso la moglie, Kimberly Milne, che ",
-    "tags": [
-      "omicidio colposo kimberly milne",
-      "maltrattamenti domestici scozia",
-      "processo lee milne"
-    ],
     "hero_eligible": true
   },
   {
