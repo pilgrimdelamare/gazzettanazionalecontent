@@ -1,0 +1,59 @@
+{
+  "id": "a0b91dcc657fcb27",
+  "slug": "sette-insegnanti-agrigentini-privati-della-cattedr-a0b91dcc657fcb27",
+  "title": "Sette insegnanti agrigentini privati della cattedra",
+  "titles": [
+    "Sette insegnanti agrigentini privati della cattedra",
+    "La Luce dell'Academia spezzata",
+    "La Luce Mattutina inchiesta: come un errore di sistema ha rovinato i diplomati dell'Agrigento"
+  ],
+  "title_winner": null,
+  "section": "politica",
+  "occhiello": "SETTE INSEGNANTI SENZA CATTEDRA: LA QUALIFICHE NON SONO PIÙ VALIDE",
+  "lead": "Agrigento, 10 aprile 2026. Sette insegnanti laureati all'Accademia \"Michelangelo\" di Agrigento si sono ritrovati senza cattedra dopo che la sentenza definitiva del Tar del Lazio ha revocato l'autorizzazione a rilasciare titoli aventi valore legale. La decisione, che risale al 2023, ha invalidato i titoli di laurea in Pittura, Scultura, Decorazione e Scenografia rilasciati dagli studenti dell'Accademia.",
+  "corpo1": "La notizia è stata confermata da una semplice mail del provveditorato inviata ai sette insegnanti laureati, che hanno scoperto di non poter più insegnare a causa della revoca dell'autorizzazione. La decisione del Tar del Lazio è stata presa dopo il ricorso dell'Accademia, che ha cercato di difendere la validità dei titoli di laurea rilasciati. Tuttavia, la sentenza definitiva ha sancito la revoca dell'autorizzazione a rilasciare titoli aventi valore legale, rendendo invalidi i titoli di laurea in possesso degli studenti.\n\nSecondo il comunicato del provveditorato, la decisione è stata presa in seguito alla sentenza del Tar del Lazio, che ha stabilito che i titoli di laurea rilasciati dall'Accademia non hanno validezza legale. La notizia ha causato scalpore tra gli studenti e gli insegnanti dell'Accademia, che sono rimasti delusi dalla decisione.",
+  "corpo2": "La storia dell'Accademia \"Michelangelo\" di Agrigento è un esempio di come la Politica e la burocrazia possano influire sulla vita degli studenti e degli insegnanti. L'Accademia, che si è formata nel 2010, ha sempre cercato di offrire un'alta qualità formativa ai propri studenti, ma la decisione del Tar del Lazio ha reso invalidi i titoli di laurea rilasciati. Gli studenti e gli insegnanti dell'Accademia si ritroveranno in difficoltà, e la reputazione dell'Accademia sarà messa in discussione.",
+  "article_type": "standard",
+  "cards": [],
+  "journalist": {
+    "id": "elena_russo_01",
+    "firma": "Elena Russo",
+    "sezione": "politica"
+  },
+  "published_at": "2026-04-10T06:25:10.450818+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/08/21/diplomati_1200.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Sette insegnanti agrigentini privati della cattedra\",\n  \"description\": \"Agrigento, 10 aprile 2026. Sette insegnanti laureati all'Accademia \\\"Michelangelo\\\" di Agrigento si sono ritrovati senza cattedra dopo che la sentenza definitiva del Tar del Lazio ha revocato l'autorizzazione a rilasciare titoli aventi valore legale. La decisione, che risale al 2023, ha invalidato i t\",\n  \"articleBody\": \"Agrigento, 10 aprile 2026. Sette insegnanti laureati all'Accademia \\\"Michelangelo\\\" di Agrigento si sono ritrovati senza cattedra dopo che la sentenza definitiva del Tar del Lazio ha revocato l'autorizzazione a rilasciare titoli aventi valore legale. La decisione, che risale al 2023, ha invalidato i titoli di laurea in Pittura, Scultura, Decorazione e Scenografia rilasciati dagli studenti dell'Accademia. La notizia è stata confermata da una semplice mail del provveditorato inviata ai sette insegnanti laureati, che hanno scoperto di non poter più insegnare a causa della revoca dell'autorizzazione. La decisione del Tar del Lazio è stata presa dopo il ricorso dell'Accademia, che ha cercato di difendere la validità dei titoli di laurea rilasciati. Tuttavia, la sentenza definitiva ha sancito la revoca dell'autorizzazione a rilasciare titoli aventi valore legale, rendendo invalidi i titoli di laurea in possesso degli studenti.\\n\\nSecondo il comunicato del provveditorato, la decisione è stata presa in seguito alla sentenza del Tar del Lazio, che ha stabilito che i titoli di laurea rilasciati dall'Accademia non hanno validezza legale. La notizia ha causato scalpore tra gli studenti e gli insegnanti dell'Accademia, che sono rimasti delusi dalla decisione. La storia dell'Accademia \\\"Michelangelo\\\" di Agrigento è un esempio di come la Politica e la burocrazia possano influire sulla vita degli studenti e degli insegnanti. L'Accademia, che si è formata nel 2010, ha sempre cercato di offrire un'alta qualità formativa ai propri studenti, ma la decisione del Tar del Lazio ha reso invalidi i titoli di laurea rilasciati. Gli studenti e gli insegnanti dell'Accademia si ritroveranno in difficoltà, e la reputazione dell'Accademia sarà messa in discussione.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Elena Russo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-10T06:25:10.450818+00:00\",\n  \"dateModified\": \"2026-04-10T06:25:10.450818+00:00\",\n  \"url\": \"https://lentemattutina.it/politica/a0b91dcc657fcb27\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/politica/a0b91dcc657fcb27\"\n  },\n  \"articleSection\": \"Politica\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://st.ilfattoquotidiano.it/wp-content/uploads/2024/08/21/diplomati_1200.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 6,
+  "source": "Il Fatto Quotidiano",
+  "source_type": "competitor",
+  "original_url": "https://www.ilfattoquotidiano.it/2026/04/10/agrigento-sette-insegnanti-laureati-allaccademia-michelangelo-si-ritrovano-senza-cattedra-le-loro-qualifiche-non-sono-piu-valide/8350636/",
+  "related": [
+    {
+      "title": "Mattarella a Praga: 'Stati Uniti e NATO, no a più truppe'",
+      "url": "/politica/contributi-alla-nato-mai-alla-pazze-61790800c6a3ac11",
+      "id": "61790800c6a3ac11",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/9/bc471b7dfd619be750e49500e7934e30.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Amendola da Budapest: 'Campagna anti-Ue seria, risposta Europa inadeguata'",
+      "url": "/politica/dem-ungheria-meloni-fallita-nel-contrattacco-anti-5eec8818ad39de99",
+      "id": "5eec8818ad39de99",
+      "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/08/215632414-356d9c51-319f-4fa1-bcfb-0f8c49be76f7.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Meloni chiede all'antimafia di indagare FdI e Pd: 'Nessun Partito escluso'",
+      "url": "/politica/la-premier-si-batti-contro-lantimafia-la-commissio-a483bf9859d4dbee",
+      "id": "a483bf9859d4dbee",
+      "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/09/meloni-criminalita-.jpg",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": true
+}
