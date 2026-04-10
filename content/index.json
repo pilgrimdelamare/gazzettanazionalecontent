@@ -1,5 +1,24 @@
 [
   {
+    "id": "f0ed8615d6d884a4",
+    "slug": "rai-fiction-produttori-tagliano-10-15-minuti-alle-f0ed8615d6d884a4",
+    "title": "Rai taglia le prime serate da 90 a 60 minuti dal 1° maggio",
+    "section": "giustizia",
+    "priority": 5,
+    "journalist_firma": "Carlo Amato",
+    "published_at": "2026-04-09T03:17:32.969065+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/08/172211960-2a42006a-986a-479b-8c37-0e2bbdaafd3b.jpg",
+    "occhiello": "FONDI SCOMPARSI DOPO IL VOTO",
+    "lead_preview": "Carlo Degli Esposti, presidente del Consiglio d'amministrazione di Rai Fiction, ha lanciato un allarme sulla Repubblica:",
+    "tags": [
+      "raifiction taglio prime serate",
+      "carlo degli esposti allarme",
+      "fondi tv post voto"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "da26d0a3ff62147a",
     "slug": "detroit-domina-milwaukee-137-111-da26d0a3ff62147a",
     "title": "Basket: Detroit domina Milwaukee 137-111, margine record per i Pistons al Little Caesars Arena",
@@ -1441,21 +1460,6 @@
     "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/08/pedri-pallone-fotografo.jpg",
     "occhiello": "",
     "lead_preview": "Pedro González López, noto come Pedri, centrocampista del Barcellona, ha involontariamente colpito la testa di un fotogr",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "f0ed8615d6d884a4",
-    "slug": "rai-fiction-produttori-tagliano-10-15-minuti-alle-f0ed8615d6d884a4",
-    "title": "Rai fiction: taglio delle prime serate",
-    "section": "giustizia",
-    "priority": 5,
-    "journalist_firma": "Carlo Amato",
-    "published_at": "2026-04-09T03:17:32.969065+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/08/172211960-2a42006a-986a-479b-8c37-0e2bbdaafd3b.jpg",
-    "occhiello": "RAI FICTION: TAGLIO DELLE PRIME SERATE",
-    "lead_preview": "Carlo Degli Esposti ha lanciato un allarme sulla Repubblica: i produttori e dirigenti tv di Maria Pia Ammirati di Rai Fi",
     "tags": [],
     "hero_eligible": true
   },
