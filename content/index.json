@@ -1,5 +1,24 @@
 [
   {
+    "id": "529b984f18c644c0",
+    "slug": "diaz-canel-non-mi-dimetto-529b984f18c644c0",
+    "title": "Díaz-Canel: 'Non mi dimetto'",
+    "section": "esteri",
+    "priority": 6,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-10T07:12:51.962519+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2024/5/8/2afff77441b07b6af845897f9078b03c.jpg",
+    "occhiello": "MI DIMETTERÒ SOLTANTO IL PROSSIMO MARZO",
+    "lead_preview": "Il presidente di Cuba, Miguel Díaz-Canel, in una intervista alla rete televisiva americana NBC, ha affermato di non vole",
+    "tags": [
+      "diaz-canel dimissioni",
+      "cuba nbc",
+      "presidente cuba"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "3ca58ab92662054b",
     "slug": "club-del-sole-acquisisce-villaggio-con-2500-posti-3ca58ab92662054b",
     "title": "Club del Sole acquisisce villaggio con 2.500 posti letti in Toscana",
@@ -9194,24 +9213,6 @@
     "tags": [
       "basket trieste",
       "pala trieste"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "9302badf74f439f6",
-    "slug": "veerle-hegge-moglie-del-premier-belga-rompe-il-sil-9302badf74f439f6",
-    "title": "Veerle Hegge, moglie del premier belga Bart De Wever, ha parlato pubblicamente della sua lotta con l",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-05T04:14:37.453694+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/New_Belgian_ID_%282021%29_%28back%29.png",
-    "occhiello": "",
-    "lead_preview": "Veerle Hegge, moglie del premier belga Bart De Wever, ha parlato pubblicamente della sua lotta con l’anoressia in un’int",
-    "tags": [
-      "veerle hegge",
-      "bart de wever"
     ],
     "hero_eligible": true
   }
