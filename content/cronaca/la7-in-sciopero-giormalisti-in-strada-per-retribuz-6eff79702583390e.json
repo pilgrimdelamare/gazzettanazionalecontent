@@ -1,0 +1,59 @@
+{
+  "id": "6eff79702583390e",
+  "slug": "la7-in-sciopero-giormalisti-in-strada-per-retribuz-6eff79702583390e",
+  "title": "La7 in sciopero: giormalisti in strada per retribuzioni",
+  "titles": [
+    "LA7 IN SCIOPERO: GIORMALISTI IN STRADA PER RETRIBUZIONI",
+    "LA7 IN SCIOPERO: GIORMALISTI IN STRADA PER RETRIBUZIONI",
+    "LA7 IN SCIOPERO: GIORMALISTI IN STRADA PER RETRIBUZIONI"
+  ],
+  "title_winner": null,
+  "section": "cronaca",
+  "occhiello": "LA7 IN SCIOPERO: GIORMALISTI IN STRADA PER RETRIBUZIONI",
+  "lead": "Il 10 aprile, venerdì, i Giornalisti de La7 sono in Sciopero. La mobilitazione è legata alla richiesta di corretta applicazione del contratto e all'assunzione dei precari. I lavoratori dell'informazione della tv di Urbano Cairo hanno sottolineato che in un'azienda solida che registra record di ascolti chiedono di essere pagati correttamente, secondo Quanto previsto dal contratto nazionale di Lavoro e dagli accordi integrativi aziendali.",
+  "corpo1": "La nota del Comitato di Redazione della testata precisa che il ricorso a forfait irrisori da parte dell'editore \"elude la corretta applicazione del contratto di Lavoro\". I Giornalisti chiedono anche l'assunzione dei colleghi precari, che lavorano senza contratto e senza Diritti. La mobilitazione è una richiesta di Giustizia e di rispetto dei Diritti dei lavoratori. Secondo Quanto riporta la fonte, i Giornalisti de La7 sono in Sciopero per richiedere una maggiore trasparenza e correttezza nell'applicazione del contratto di Lavoro e per ottenere l'assunzione dei precari.",
+  "corpo2": "La richiesta dei Giornalisti de La7 è legata alla necessità di rispetto dei Diritti dei lavoratori e di una maggiore trasparenza nell'applicazione del contratto di Lavoro. La mobilitazione è un segnale di protesta contro il ricorso a forfait irrisori e contro la mancanza di assunzione dei precari. I Giornalisti de La7 sono determinati a ottenere Giustizia e rispetto dei loro Diritti. Se la tv di Urbano Cairo non rispetterà le loro richieste, potrebbe avere gravi conseguenze per l'immagine e la credibilità della testata.",
+  "article_type": "standard",
+  "cards": [],
+  "journalist": {
+    "id": "chiara_esposito_01",
+    "firma": "Chiara Esposito",
+    "sezione": "cronaca"
+  },
+  "published_at": "2026-04-10T08:33:16.712328+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/10/8777343_small-1200x630.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"LA7 IN SCIOPERO: GIORMALISTI IN STRADA PER RETRIBUZIONI\",\n  \"description\": \"Il 10 aprile, venerdì, i Giornalisti de La7 sono in Sciopero. La mobilitazione è legata alla richiesta di corretta applicazione del contratto e all'assunzione dei precari. I lavoratori dell'informazione della tv di Urbano Cairo hanno sottolineato che in un'azienda solida che registra record di ascol\",\n  \"articleBody\": \"Il 10 aprile, venerdì, i Giornalisti de La7 sono in Sciopero. La mobilitazione è legata alla richiesta di corretta applicazione del contratto e all'assunzione dei precari. I lavoratori dell'informazione della tv di Urbano Cairo hanno sottolineato che in un'azienda solida che registra record di ascolti chiedono di essere pagati correttamente, secondo Quanto previsto dal contratto nazionale di Lavoro e dagli accordi integrativi aziendali. La nota del Comitato di Redazione della testata precisa che il ricorso a forfait irrisori da parte dell'editore \\\"elude la corretta applicazione del contratto di Lavoro\\\". I Giornalisti chiedono anche l'assunzione dei colleghi precari, che lavorano senza contratto e senza Diritti. La mobilitazione è una richiesta di Giustizia e di rispetto dei Diritti dei lavoratori. Secondo Quanto riporta la fonte, i Giornalisti de La7 sono in Sciopero per richiedere una maggiore trasparenza e correttezza nell'applicazione del contratto di Lavoro e per ottenere l'assunzione dei precari. La richiesta dei Giornalisti de La7 è legata alla necessità di rispetto dei Diritti dei lavoratori e di una maggiore trasparenza nell'applicazione del contratto di Lavoro. La mobilitazione è un segnale di protesta contro il ricorso a forfait irrisori e contro la mancanza di assunzione dei precari. I Giornalisti de La7 sono determinati a ottenere Giustizia e rispetto dei loro Diritti. Se la tv di Urbano Cairo non rispetterà le loro richieste, potrebbe avere gravi conseguenze per l'immagine e la credibilità della testata.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Chiara Esposito\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-10T08:33:16.712328+00:00\",\n  \"dateModified\": \"2026-04-10T08:33:16.712328+00:00\",\n  \"url\": \"https://lentemattutina.it/cronaca/6eff79702583390e\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cronaca/6eff79702583390e\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/10/8777343_small-1200x630.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 6,
+  "source": "Il Fatto Quotidiano",
+  "source_type": "competitor",
+  "original_url": "https://www.ilfattoquotidiano.it/2026/04/10/sciopero-giornalisti-la7-retribuzioni-contratto-news/8351260/",
+  "related": [
+    {
+      "title": "80 Eventi in 16 regioni: Legambiente pulisce 100 metri di costa ogni 77 mozziconi",
+      "url": "/cronaca/80-eventi-in-16-regioni-legambiente-pulisce-100-me-c1e66e82c1fd6e86",
+      "id": "c1e66e82c1fd6e86",
+      "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/10/090839135-11a79f6d-e1f7-409a-91a3-271684b3464b.jpg",
+      "image_type": "feed_image"
+    },
+    {
+      "title": "Il nonno dello schematizzo",
+      "url": "/cronaca/il-nonno-dello-schematizzo-daa894dc21dc9178",
+      "id": "daa894dc21dc9178",
+      "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/10/Schermata-2026-04-10-alle-09.18.16.png",
+      "image_type": "image"
+    },
+    {
+      "title": "Lola T70 torna in 16 esemplari: potenza in pista e stradale",
+      "url": "/cronaca/lola-t70-torna-in-16-esemplari-potenza-in-pista-e-6918e6a890f87c19",
+      "id": "6918e6a890f87c19",
+      "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/08/Lola-Cars-T70S-New-1.jpg",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": true
+}
