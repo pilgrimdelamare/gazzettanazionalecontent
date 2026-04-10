@@ -1,5 +1,24 @@
 [
   {
+    "id": "49951570f5fea18c",
+    "slug": "perquisizioni-a-milano-sequestrati-documenti-su-pr-49951570f5fea18c",
+    "title": "Perquisizioni a Milan e Inter: procura di Milano esegue misure cautelari",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-10T04:50:50.908783+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/03/31/san-siro-1200-1.jpg",
+    "occhiello": "SEQUESTRATI I DOCUMENTI DI PROPRIETÀ MILAN E INTER",
+    "lead_preview": "Giovanna Cavalleri, Paolo Filippini e Giovanni Polizzi, Sostituti Procuratori della procura di Milano, hanno emesso un d",
+    "tags": [
+      "milan",
+      "inter",
+      "procura milano"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "5502597c6624adee",
     "slug": "sciopero-ai-propublica-giornalisti-contro-algoritm-5502597c6624adee",
     "title": "Fondi scomparsi dopo il voto",
@@ -1068,25 +1087,6 @@
       "bombardamenti libano",
       "israele-beirut 2026",
       "crisi medio oriente"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "49951570f5fea18c",
-    "slug": "perquisizioni-a-milano-sequestrati-documenti-su-pr-49951570f5fea18c",
-    "title": "Perquisizioni a Milano: sequestrati documenti su proprietà Milan e Inter",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-10T04:50:50.908783+00:00",
-    "image_type": "image",
-    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/03/31/san-siro-1200-1.jpg",
-    "occhiello": "",
-    "lead_preview": "Giovanna Cavalleri, Paolo Filippini e Giovanni Polizzi, Sostituti Procuratori della procura di Milano, hanno emesso un d",
-    "tags": [
-      "perquisizioni milan",
-      "sequestro documenti milan",
-      "indagine inter"
     ],
     "hero_eligible": true
   },
