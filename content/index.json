@@ -1,5 +1,24 @@
 [
   {
+    "id": "932075d63de7d40e",
+    "slug": "oro-ai-476517-dollari-stabilita-in-vista-932075d63de7d40e",
+    "title": "Oro ai 4.765,17 dollari: stabilità in vista",
+    "section": "economia",
+    "priority": 6,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-10T06:08:32.467380+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/8/8/80c5a85d82c3cbb34032f5dec04c402f.jpg",
+    "occhiello": "ORO STABILE, SPOT A 4.765,17 DOLLARI",
+    "lead_preview": "Fra poche ore si aprono le contrattazioni per il metallo prezioso, che mantiene la stabilità a 4.765,17 dollari.",
+    "tags": [
+      "oro stabile",
+      "prezzo oro",
+      "metallo prezioso"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "50ed6dfcb41155b8",
     "slug": "basket-josh-hart-decide-con-due-triple-nei-42-seco-50ed6dfcb41155b8",
     "title": "Basket: Josh Hart decide con due triple nei 42 secondi finali, Knicks vincono su Boston",
@@ -9166,22 +9185,6 @@
       "calcio",
       "ascoli",
       "vis pesaro"
-    ]
-  },
-  {
-    "id": "22abd5890fd6d993",
-    "slug": "il-cucciolo-di-puma-che-fa-tremare-washington-22abd5890fd6d993",
-    "title": "Puma abbandonato: un cucciolo è salvato nel National Park di Washington",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-04T21:45:43.848612+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1603097703801-7b1ae8458fe7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxXYXNoaW5ndG9uJTIwcHVtYSUyMGN1YiUyMHJlc2N1ZSUyMDIwMjZ8ZW58MHwwfHx8MTc3NTQwOTIzOHww&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "CUCCIOLO DI PUMA SALVATO A WASHINGTON",
-    "lead_preview": "Un cucciolo di puma di tre settimane è Stato recuperato il 4 aprile 2026 dal National Park Service nello Stato di Washin",
-    "tags": [
-      "puma washington"
     ]
   }
 ]
