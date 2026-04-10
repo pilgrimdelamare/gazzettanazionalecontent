@@ -1,5 +1,24 @@
 [
   {
+    "id": "c27c8581f78c0e07",
+    "slug": "borsa-milano-apre-in-calo-dello-013-pesante-diasor-c27c8581f78c0e07",
+    "title": "Diasorin crolla del 4,2% a Piazza Affari dopo calo ricavi del 15% nel trimestre",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-09T07:35:10.586105+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2012/7/24/ccf81f8ee063882b214786fe432f60c5.jpg",
+    "occhiello": "",
+    "lead_preview": "Diasorin, il titolo del settore biotecnologico quotate a Piazza Affari, ha aperto in calo del 4,2% la seduta del 9 april",
+    "tags": [
+      "diasorin crollo 2026",
+      "diasorin calo ricavi",
+      "piazza affari biotecnologie"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "f6b49a04d0c64ec7",
     "slug": "il-rendimento-del-decennale-sale-a-375-f6b49a04d0c64ec7",
     "title": "Rendimento Btp a 10 anni balza al 3,75%, Massimo da ottobre",
@@ -1261,21 +1280,6 @@
     "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/09/090936114-edbe1642-ab6e-478e-b711-9abfd64e198f.jpg",
     "occhiello": "LA CADUTA DI MUSETTI: DA 5 A 9 NEL RANKING ATP",
     "lead_preview": "Il tennista italiano Lorenzo Musetti, arrivato in finale nel 2025, subisce una pesante sconfitta al primo turno contro V",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "c27c8581f78c0e07",
-    "slug": "borsa-milano-apre-in-calo-dello-013-pesante-diasor-c27c8581f78c0e07",
-    "title": "Borsa: milano apre in calo dello 0,13%, pesante diasorin",
-    "section": "economia",
-    "priority": 6,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-04-09T07:35:10.586105+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2012/7/24/ccf81f8ee063882b214786fe432f60c5.jpg",
-    "occhiello": "BORSA: MILANO APRE IN CALO DELLO 0,13%, PESANTE DIASORIN",
-    "lead_preview": "OCCHIELLO Il mercato azionario italiano scende in calo LEAD Milano, 9 aprile 2026 - La Borsa di Milano apre in calo dell",
     "tags": [],
     "hero_eligible": true
   },
