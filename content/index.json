@@ -1,5 +1,24 @@
 [
   {
+    "id": "23870b5b41b2fd42",
+    "slug": "lo-spread-btp-bund-vola-a-76-punti-rendimento-dece-23870b5b41b2fd42",
+    "title": "Lo spread Btp-Bund vola a 76 punti, rendimento decennale all'1,77% il 10 aprile",
+    "section": "economia",
+    "priority": 8,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-10T06:54:37.339340+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2023/6/20/ca63ff11950e2a0fec96593b546cdf9a.jpg",
+    "occhiello": "IL RENDIMENTO DEL DECENNALE ITALIANO SALE AL 3,77%",
+    "lead_preview": "Il rendimento del decennale italiano è aumentato al 3,77% dopo che lo spread tra Btp e Bund ha aperto in rialzo a 76 pun",
+    "tags": [
+      "spread btp-bund",
+      "rendimento decennale",
+      "crisi debito italia"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "d485314ec6949e5a",
     "slug": "natalita-usa-crollata-del-20-dal-2006-meno-nascite-d485314ec6949e5a",
     "title": "Nascite in calo negli USA: 3,4 milioni nel 2025, meno 20% dal",
@@ -9185,23 +9204,6 @@
     "lead_preview": "Venerdì 3 aprile un caccia F-15E Strike Eagle dell’aeronautica militare statunitense è Stato abbattuto nel cielo del Khu",
     "tags": [
       "guerra iran"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "951098697795f9a3",
-    "slug": "daniele-luttazzi-pubblica-su-il-fatto-un-racconto-951098697795f9a3",
-    "title": "Luttazzi scrive di una signora formosa",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-04-05T04:44:06.927340+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1698311436241-eaf84064195f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxEYW5pZWxlJTIwTHV0dGF6emklMjBJbCUyMEZhdHRvJTIwUXVvdGlkaWFubyUyMDIwMjZ8ZW58MHwwfHx8MTc3NTQzMTY0N3ww&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "LUTTAZZI SCRIVE DI UNA SIGNORA FORMOSA",
-    "lead_preview": "Daniele Luttazzi ha pubblicato su Il Fatto quotidiano uno scritto intitolato \"una signora formosa, me e il mio Angelo cu",
-    "tags": [
-      "daniele luttazzi"
     ],
     "hero_eligible": true
   }
