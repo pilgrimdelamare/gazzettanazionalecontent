@@ -1,5 +1,24 @@
 [
   {
+    "id": "47bf6a8922498d77",
+    "slug": "basket-lakers-dominano-golden-state-119-103-a-los-47bf6a8922498d77",
+    "title": "Basket: Lakers dominano Golden State 119-103 a Los Angeles",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-10T06:54:53.838679+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/2f106ee258cc0e908e1efabd4d29a35fc62e0a59/skysport/it/nba/video/2026/04/10/1089051_1775801074030_thumb_494.0000001_1775801142701.jpg",
+    "occhiello": "LA LAKERS LANCIANO LA SORPRESA SULLA COSTA D'ORO",
+    "lead_preview": "La notte scorsa, i Los Angeles Lakers hanno sorpreso la Golden State a Oakland con un sorprendente 119-103. La partita è",
+    "tags": [
+      "basket",
+      "lakers",
+      "golden state"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "23870b5b41b2fd42",
     "slug": "lo-spread-btp-bund-vola-a-76-punti-rendimento-dece-23870b5b41b2fd42",
     "title": "Lo spread Btp-Bund vola a 76 punti, rendimento decennale all'1,77% il 10 aprile",
@@ -9187,23 +9206,6 @@
       "crisi energetica 2026",
       "fatih birol aie",
       "shock energetici"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "6d098befd87acfbb",
-    "slug": "usa-recupera-il-pilota-disperso-in-iran-dopo-abbat-6d098befd87acfbb",
-    "title": "Abbattuto f-15 statunitense in iran",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-05T04:44:24.360740+00:00",
-    "image_type": "ddg_image",
-    "image_url": "http://theaviationgeekclub.com/wp-content/uploads/2018/02/F-15Es-Roland.jpg",
-    "occhiello": "ABBATTUTO F-15 STATUNITENSE IN IRAN",
-    "lead_preview": "Venerdì 3 aprile un caccia F-15E Strike Eagle dell’aeronautica militare statunitense è Stato abbattuto nel cielo del Khu",
-    "tags": [
-      "guerra iran"
     ],
     "hero_eligible": true
   }
