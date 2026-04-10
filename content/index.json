@@ -1,5 +1,23 @@
 [
   {
+    "id": "d11ac43e02e5437f",
+    "slug": "morte-cerebrale-del-12enne-risucchiato-dallidromas-d11ac43e02e5437f",
+    "title": "12Enne muore risucchiato da idromassaggio in un residence a Pennabilli",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Chiara Esposito",
+    "published_at": "2026-04-09T17:20:26.064259+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/6/26/e908cfc1def78208a233c9ac3dde06c2.jpg",
+    "occhiello": "LA VACANZA DI PASQUA DIVENTA MORTE CEREBRALE",
+    "lead_preview": "Mattia Bianchi, 12 anni di San Benedetto del Tronto, è Stato dichiarato in morte cerebrale il 9 aprile 2026 all'ospedale",
+    "tags": [
+      "morte pennabilli",
+      "incidente idromassaggio"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "db671b520645f017",
     "slug": "putin-ordina-tregua-di-32-ore-in-ucraina-per-pasqu-db671b520645f017",
     "title": "Putin ordina tregua di 32 ore in Ucraina per Pasqua ortodossa",
@@ -1562,21 +1580,6 @@
       "tennis masters 1000",
       "quarti montecarlo 2026"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "d11ac43e02e5437f",
-    "slug": "morte-cerebrale-del-12enne-risucchiato-dallidromas-d11ac43e02e5437f",
-    "title": "Do dicenne risucchiato dall’idromassaggio",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-04-09T17:20:26.064259+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/6/26/e908cfc1def78208a233c9ac3dde06c2.jpg",
-    "occhiello": "DO DICENNE RISUCCHIATO DALL’IDROMASSAGGIO",
-    "lead_preview": "Mattia Bianchi, dodicenne di San Benedetto del Tronto, è Stato dichiarato in morte cerebrale il 9 aprile 2026 all’ospeda",
-    "tags": [],
     "hero_eligible": true
   },
   {
