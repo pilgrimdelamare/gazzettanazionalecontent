@@ -1,5 +1,24 @@
 [
   {
+    "id": "e6ee0f54f33af474",
+    "slug": "modella-polacca-di-26-anni-scopre-un-tumore-al-col-e6ee0f54f33af474",
+    "title": "Modella polacca di 26 anni scopre un tumore al collo dopo una puntata di Grey’s Anatomy a Londra",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-10T13:21:17.548287+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/10/Screenshot-2026-04-10-alle-14.25.14.png",
+    "occhiello": "",
+    "lead_preview": "Patrycja Sobanska, modella polacca di 26 anni, ha scoperto di avere un tumore al collo dopo aver notato una somiglianza ",
+    "tags": [
+      "tumore collo modella",
+      "grey's anatomy effetto",
+      "patrycja sobanska"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "4ad9a4e7b2d11105",
     "slug": "george-13-anni-addio-normalita-4ad9a4e7b2d11105",
     "title": "George 13 anni, addio \"normalità\"",
@@ -9138,21 +9157,6 @@
       "esplosivi",
       "serbia"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "d95785ff29745bf5",
-    "slug": "calcio-parma-ko-2-1-con-bologna-daversa-nel-second-d95785ff29745bf5",
-    "title": "Calcio: Bologna-Parma 2-1, il secondo tempo dei crociati affossa D'Aversa",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-05T20:06:38.095772+00:00",
-    "image_type": "flickr",
-    "image_url": "https://live.staticflickr.com/65535/55189555693_88c1cd3576_b.jpg",
-    "occhiello": "BOLOGNA-PARMA 2-1",
-    "lead_preview": "5 Aprile 2026, Bologna. Il Bologna batte il Parma 2-1 in Serie A. D'Aversa parla di errori fatali nel secondo tempo.",
-    "tags": [],
     "hero_eligible": true
   }
 ]
