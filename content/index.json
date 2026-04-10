@@ -1,5 +1,24 @@
 [
   {
+    "id": "9d81518f3d15baea",
+    "slug": "lula-in-europa-il-17-aprile-per-firmare-laccordo-u-9d81518f3d15baea",
+    "title": "Lula atterra a Bruxelles per firmare l'accordo UE-Mercosur da 100 miliardi",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-10T00:59:55.368345+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/9/50b857781180c3108b73acf996a866a8.jpg",
+    "occhiello": "",
+    "lead_preview": "Lula da Silva atterra in Europa martedì 17 aprile per una missione diplomatica che prevede la firma dell’accordo commerc",
+    "tags": [
+      "accordo ue-mercosur",
+      "lula in europa",
+      "vertice bruxelles"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "2632c22df0cc2df4",
     "slug": "cannes-2026-esclude-film-guidati-da-ia-arte-umana-2632c22df0cc2df4",
     "title": "Cannes 2026, Knobloch vieta i film con IA: 'No a prodotti algoritmici'",
@@ -559,25 +578,6 @@
       "film aldrovandi",
       "fondi 2026",
       "caso aldrovandi"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "9d81518f3d15baea",
-    "slug": "lula-in-europa-il-17-aprile-per-firmare-laccordo-u-9d81518f3d15baea",
-    "title": "Lula in Europa il 17 aprile per firmare l'accordo Ue-Mercosur e regolare i tech",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-10T00:59:55.368345+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/9/50b857781180c3108b73acf996a866a8.jpg",
-    "occhiello": "LULA IN EUROPA, MISSSIONE TRA MERCOSUR-UE E REGOLAZIONE BIG TECH",
-    "lead_preview": "Il presidente brasiliano Lula Da Silva arriva in Europa, martedì 17 aprile, per una missione diplomatica che coinvolge l",
-    "tags": [
-      "accordo ue-mercosur",
-      "regolazione big tech",
-      "lula in europa"
     ],
     "hero_eligible": true
   },
