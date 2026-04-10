@@ -1,5 +1,20 @@
 [
   {
+    "id": "68cf0d17e3ed55d4",
+    "slug": "il-sinking-of-the-titanic-di-gavin-bryars-a-bologn-68cf0d17e3ed55d4",
+    "title": "Il sinking of the titanic di gavin bryars a bologna",
+    "section": "cultura",
+    "priority": 6,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-10T13:11:13.585578+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/10/309cfb520bcf0c261bcda1e30e5cf161.jpg",
+    "occhiello": "IL SINKING OF THE TITANIC DI GAVIN BRYARS A BOLOGNA",
+    "lead_preview": "Gavin Bryars, compositore inglese, porta a Bologna il suo capolavoro \"The Sinking of the Titanic\" in occasione di Exitim",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "535dad688377ee21",
     "slug": "calcio-palladino-in-panchina-per-atalanta-juve-gas-535dad688377ee21",
     "title": "Calcio: Palladino in panchina per Atalanta-Juve, Gasperini salta per problema medico",
@@ -9141,25 +9156,6 @@
       "acqua fredda benessere",
       "emily peck",
       "fisiologia sofferenza"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "d71bf89c02cd8515",
-    "slug": "germania-uomini-sotto-45-anni-dovranno-chiedere-il-d71bf89c02cd8515",
-    "title": "Germania vieta Viaggi esteri a 11 milioni di uomini",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-05T12:06:48.259545+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxHZXJtYW5pYXxlbnwwfDB8fHwxNzc1NDI5MzYxfDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "",
-    "lead_preview": "Berlino, 5 aprile 2026. La Germania ha introdotto un divieto di viaggio all’estero per tutti gli uomini tra i 17 e i 45 ",
-    "tags": [
-      "divieto viaggi germania",
-      "servizio militare germania",
-      "restrizioni uomini germania"
     ],
     "hero_eligible": true
   }
