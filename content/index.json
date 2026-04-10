@@ -1,5 +1,24 @@
 [
   {
+    "id": "4ad9a4e7b2d11105",
+    "slug": "george-13-anni-addio-normalita-4ad9a4e7b2d11105",
+    "title": "Principe George inizia il tirocinio reale a 13 anni, mercoledì dedicati a costituzione e Palazzo",
+    "section": "societa",
+    "priority": 5,
+    "journalist_firma": "Federica Conti",
+    "published_at": "2026-04-10T13:18:26.906006+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/10/23543533_small-1200x630.jpg",
+    "occhiello": "",
+    "lead_preview": "Il Principe George del Galles compie 13 anni il 22 luglio 2026 e perde l'ultima licenza di essere un \"ragazzo normale\". ",
+    "tags": [
+      "principe george tirocinio",
+      "erede al trono",
+      "protocollo reale"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "f9f88f2bcc693d1b",
     "slug": "calcio-silvio-baldini-e-il-nuovo-ct-ad-interim-del-f9f88f2bcc693d1b",
     "title": "Silvio baldini, il nuovo ct della nazionale",
@@ -249,21 +268,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/10/ab0f2044c6898cf8727196b2f40c097a.jpg",
     "occhiello": "CAGLIARI: PISACANE 'CON LA CREMONESE UNA FINALISSIMA, MA NON DECISIVA'",
     "lead_preview": "OCCHIELLO CAGLIARI: PISACANE 'CON LA CREMONESI UNA FINALISSIMA MA NON DECISIVA' LEAD Pisacane, il tecnico del Cagliari, ",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "4ad9a4e7b2d11105",
-    "slug": "george-13-anni-addio-normalita-4ad9a4e7b2d11105",
-    "title": "George 13 anni, addio \"normalità\"",
-    "section": "societa",
-    "priority": 6,
-    "journalist_firma": "Marco Sala",
-    "published_at": "2026-04-10T13:18:26.906006+00:00",
-    "image_type": "image",
-    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/10/23543533_small-1200x630.jpg",
-    "occhiello": "GEORGE 13 ANNI, ADDIO \"NORMALITÀ\"",
-    "lead_preview": "Il Principe George del Galles compie 13 anni il 22 luglio 2026 e perde l'ultima licenza di essere un \"ragazzo normale\". ",
     "tags": [],
     "hero_eligible": true
   },
