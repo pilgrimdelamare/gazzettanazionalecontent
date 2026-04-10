@@ -1,5 +1,24 @@
 [
   {
+    "id": "0e1d93c31d990a33",
+    "slug": "hormuz-10-aprile-2026-0e1d93c31d990a33",
+    "title": "Iran chiude Hormuz a navi commerciali per ordigni non identificati",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-09T23:48:31.725471+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/09/214216976-ce4a5e2a-c1cc-4bc3-a5ab-533c2e10c0b7.jpg",
+    "occhiello": "",
+    "lead_preview": "Teheran, 10 aprile 2026. L’Iran ha notificato agli armatori internazionali che lo Stretto di Hormuz è infestato da ordig",
+    "tags": [
+      "chiusura hormuz",
+      "ordigni non identificati",
+      "navigazione iran"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "db671b520645f017",
     "slug": "putin-ordina-tregua-di-32-ore-in-ucraina-per-pasqu-db671b520645f017",
     "title": "Putin ordina tregua di 32 ore in Ucraina per Pasqua ortodossa",
@@ -1094,21 +1113,6 @@
       "pallacanestro olimpia milano",
       "medio lanum forum"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "0e1d93c31d990a33",
-    "slug": "hormuz-10-aprile-2026-0e1d93c31d990a33",
-    "title": "Hormuz, 10 aprile 2026",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-09T23:48:31.725471+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/09/214216976-ce4a5e2a-c1cc-4bc3-a5ab-533c2e10c0b7.jpg",
-    "occhiello": "",
-    "lead_preview": "Hormuz, 10 aprile 2026. L'Iran ha notificato agli armatori internazionali che lo Stretto di Hormuz è infestato da ordign",
-    "tags": [],
     "hero_eligible": true
   },
   {
