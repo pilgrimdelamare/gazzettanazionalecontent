@@ -1,5 +1,24 @@
 [
   {
+    "id": "8cc3e522b7acd6c5",
+    "slug": "meloni-convoca-i-petrolieri-a-palazzo-chigi-abbass-8cc3e522b7acd6c5",
+    "title": "Meloni convoca le petrolifere a Palazzo Chigi: \"Abbassate i prezzi o pagherete\"",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-10T01:16:50.096051+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/09/231643603-150dd1ca-f7e9-4577-a96c-5af99a01b6a7.jpg",
+    "occhiello": "",
+    "lead_preview": "Giorgia Meloni ha convocato d’urgenza i vertici delle principali compagnie petrolifere a Palazzo Chigi il 10 aprile 2026",
+    "tags": [
+      "meloni petrolifere",
+      "prezzi carburanti",
+      "palazzo chigi 2026"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "b174cd5eed616982",
     "slug": "una-fotografa-italiana-vince-per-la-risistenza-fem-b174cd5eed616982",
     "title": "Chantal Pinzi vince 25mila euro al World Press Photo 2026 con un reportage sulle operaie del fuoco in Marocco",
@@ -390,25 +409,6 @@
     "lead_preview": "Aaron Gordon si è infortunato all’addome nella sfida con Memphis del 9 aprile 2026 e non è più rientrato in campo, lasci",
     "tags": [
       "infortunio gordon"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "8cc3e522b7acd6c5",
-    "slug": "meloni-convoca-i-petrolieri-a-palazzo-chigi-abbass-8cc3e522b7acd6c5",
-    "title": "Meloni convoca i petrolieri a Palazzo Chigi: 'Abbassate i prezzi o pagherete'",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-10T01:16:50.096051+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/09/231643603-150dd1ca-f7e9-4577-a96c-5af99a01b6a7.jpg",
-    "occhiello": "URSO MINACCIA CONSEGUENZE AI PETROLIERI",
-    "lead_preview": "Giorgia Meloni e il ministro dell’Economia Giancarlo Giorgetti, insieme al ministro dell’Impresa e del Made in Italy Ado",
-    "tags": [
-      "meloni petrolieri",
-      "urso minaccia",
-      "prezzi carburanti"
     ],
     "hero_eligible": true
   },
