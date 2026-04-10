@@ -1,5 +1,24 @@
 [
   {
+    "id": "65b3bdf786b3e771",
+    "slug": "sabato-allarena-flegrea-il-dj-francese-folamour-65b3bdf786b3e771",
+    "title": "Folamour a Napoli il 11 aprile: concerto gratuito all’Arena Flegrea per 3.500 persone",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-09T11:01:22.955704+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/9/1dfeb988f93834f901fa1e5e3b3631af.jpg",
+    "occhiello": "FOLAMOUR IN CONCERTO ALL’ARENA FLEGREA",
+    "lead_preview": "Folamour, il dj e producer francese, si esibirà sabato 11 aprile all’Arena Flegrea di Napoli. L’evento, a ingresso gratu",
+    "tags": [
+      "concerto folamour napoli",
+      "arena flegrea",
+      "musica gratis napoli"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "a8a008b84e2b17b8",
     "slug": "griezmann-lascia-latletico-madrid-per-lorlando-cit-a8a008b84e2b17b8",
     "title": "Antoine Griezmann lascia l'Atletico Madrid e firma con l'Orlando City dal 1° luglio",
@@ -797,21 +816,6 @@
       "patteggiamento sorrento",
       "raffaele guida"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "65b3bdf786b3e771",
-    "slug": "sabato-allarena-flegrea-il-dj-francese-folamour-65b3bdf786b3e771",
-    "title": "Sabato all'arena flegrea il dj francese folamour",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-09T11:01:22.955704+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/9/1dfeb988f93834f901fa1e5e3b3631af.jpg",
-    "occhiello": "SABATO ALL'ARENA FLEGREA IL DJ FRANCESE FOLAMOUR",
-    "lead_preview": "Folamour, il dj e producer francese, sarà il protagonista del concerto di sabato 11 aprile all'Arena Flegrea di Napoli. ",
-    "tags": [],
     "hero_eligible": true
   },
   {
