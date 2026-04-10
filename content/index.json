@@ -1,5 +1,24 @@
 [
   {
+    "id": "3cb39d7d0065f441",
+    "slug": "spalletti-rinnova-con-la-juve-fino-al-2028-3cb39d7d0065f441",
+    "title": "Calcio: Luciano Spalletti rinnova con Juventus fino al",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-10T18:45:36.465743+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/f3a7d00672bdab07f2beb0a06f4ee9e62066e465/skysport/it/calcio/serie-a/video/2026/04/10/spalletti-juve-rinnovo-squadra-discorso-video-1089199/spalletti_juve_rinnovo_discorso_2.jpg",
+    "occhiello": "SPALLETTI BLINDATO FINO AL 2028: 6 MILIONI ALL'ANNO",
+    "lead_preview": "Luciano Spalletti ha firmato il rinnovo con la Juventus fino al 30 giugno 2028, con uno stipendio da 6 milioni a stagion",
+    "tags": [
+      "calcio",
+      "juventus",
+      "spalletti"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c2f22f16a07472ce",
     "slug": "mic-riforma-i-commissari-cinema-scelta-per-curricu-c2f22f16a07472ce",
     "title": "Mic riforma i commissari cinema: scelta per curriculum a Roma il 10 aprile",
@@ -226,21 +245,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/53d27e9c82c20ad24ed14d9cb9ff7106.jpg",
     "occhiello": "FONDI PUBBLICI SCOMPARSI DOPO IL VOTO",
     "lead_preview": "Sofia Anna Vittoria Goggia si è laureata in Scienze Politiche alla Libera Università Internazionale degli Studi Sociali ",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "3cb39d7d0065f441",
-    "slug": "spalletti-rinnova-con-la-juve-fino-al-2028-3cb39d7d0065f441",
-    "title": "Spalletti rinnova con la juve fino al 2028",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-10T18:45:36.465743+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/f3a7d00672bdab07f2beb0a06f4ee9e62066e465/skysport/it/calcio/serie-a/video/2026/04/10/spalletti-juve-rinnovo-squadra-discorso-video-1089199/spalletti_juve_rinnovo_discorso_2.jpg",
-    "occhiello": "SPALLETTI RINNOVA CON LA JUVE FINO AL 2028",
-    "lead_preview": "Luciano Spalletti ha annunciato il rinnovo del suo contratto con la Juventus fino al 2028, in una conferenza stampa tenu",
     "tags": [],
     "hero_eligible": true
   },
