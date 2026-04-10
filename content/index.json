@@ -1,5 +1,24 @@
 [
   {
+    "id": "329a88bcf5a9efdb",
+    "slug": "il-prezzo-del-gas-crolla-a-4490-euro-ad-amsterdam-329a88bcf5a9efdb",
+    "title": "Il prezzo del gas crolla a 44,90 euro ad Amsterdam",
+    "section": "economia",
+    "priority": 6,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-10T06:38:34.096053+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2023/3/14/c5fd2c0e3daa3db53418d6d1d3b9976e.jpg",
+    "occhiello": "GAS DOMANDE TUTTE ALLE AZIENDE",
+    "lead_preview": "Il prezzo del gas apre in calo a 44,90 euro al megawattora ad Amsterdam. L'aumento del 2,8% ha sorpreso i trader, che si",
+    "tags": [
+      "prezzo gas",
+      "borsa amsterdam",
+      "energia 2024"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "36d7bdeb525adee9",
     "slug": "laboratorio-gratuito-fino-al-24-aprile-36d7bdeb525adee9",
     "title": "Torino: 4 settimane di creazione di soggetti cinematografici grazie al Laboratorio gratuito",
@@ -9184,21 +9203,6 @@
     "tags": [
       "daniele luttazzi"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "4d3e2caf0edd263d",
-    "slug": "lo-studio-giapponese-rivela-una-volta-a-settimana-4d3e2caf0edd263d",
-    "title": "Cucinare una volta a settimana riduce il rischio di demenza",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-05T04:14:45.740181+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/12037245/pexels-photo-12037245.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "CUCINARE UNA VOLTA A SETTIMANA RIDUCE IL RISCHIO DI DEMENZA",
-    "lead_preview": "Uno studio dell’università di Kyoto pubblicato il 5 aprile 2026 e condotto su oltre 70.000 persone anziane mostra che ch",
-    "tags": [],
     "hero_eligible": true
   }
 ]
