@@ -1,5 +1,24 @@
 [
   {
+    "id": "a7fbfcb072b91063",
+    "slug": "115-casi-di-meningite-in-italia-nel-2024-piu-del-d-a7fbfcb072b91063",
+    "title": "115 Casi di Meningite in Italia nel 2024, più del doppio rispetto al",
+    "section": "tecnologia",
+    "priority": 6,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-04-10T05:06:04.424309+00:00",
+    "image_type": "image",
+    "image_url": "https://media-assets.wired.it/photos/69d771d82ab0c0ab7cac35ed/16:9/w_1280,c_limit/2215440350",
+    "occhiello": "",
+    "lead_preview": "115 casi di meningite da meningococco di tipo B e C sono stati registrati in Italia nel 2024, secondo il report dell’Ist",
+    "tags": [
+      "meningite 2024",
+      "meningococco b",
+      "report iss"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "48c12e92ea38d5bd",
     "slug": "lorenzo-mariani-nuovo-ad-di-leonardo-cingolani-esc-48c12e92ea38d5bd",
     "title": "Lorenzo Mariani nuovo ad di Leonardo, Cingolani esce dal vertice",
@@ -9130,24 +9149,6 @@
       "pisacane sky sport",
       "cagliari inter 2026",
       "abbandono diretta pisacane"
-    ]
-  },
-  {
-    "id": "ccc4abf0307b78e8",
-    "slug": "pilota-disperso-lincubo-americano-ccc4abf0307b78e8",
-    "title": "Usa estraggono 7 soldati in Somalia e 5 in Iraq con operazioni notturne da Mogadiscio a Baghdad",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-04T15:21:59.191260+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1739206554142-0dab441385d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxzcGVjaWFsJTIwZm9yY2VzJTIwZXh0cmFjdGlvbnxlbnwwfDB8fHwxNzc1MzkyMzAzfDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "",
-    "lead_preview": "Mogadiscio e Baghdad, 4 aprile 2026. Gli Stati Uniti hanno estratto due unità militari speciali da zone a rischio, una a",
-    "tags": [
-      "estrazione soldati usa",
-      "operazione mogadiscio",
-      "operazione baghdad"
     ]
   }
 ]
