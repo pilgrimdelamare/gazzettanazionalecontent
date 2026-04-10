@@ -1,5 +1,24 @@
 [
   {
+    "id": "3894999e31227b40",
+    "slug": "tennis-musetti-perde-640-punti-dopo-la-sconfitta-a-3894999e31227b40",
+    "title": "Tennis: Musetti perde a Montecarlo e perde 640 punti ATP",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-09T07:42:02.021172+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/09/090936114-edbe1642-ab6e-478e-b711-9abfd64e198f.jpg",
+    "occhiello": "MUSSETTI PERDE 640 PUNTI ATP DOPO L’USCITA A MONTECARLO",
+    "lead_preview": "Lorenzo Musetti, finalista a Montecarlo nel 2025, è Stato eliminato al primo turno del torneo 2026 il 9 aprile 2026 a Mo",
+    "tags": [
+      "uscita musetti montecarlo",
+      "atp montecarlo 2026",
+      "musetti perdita punti"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "008bb3ffe2c17105",
     "slug": "poste-elimina-la-prioritaria-dal-1-maggio-008bb3ffe2c17105",
     "title": "Poste Italiane elimina Posta1 entro il 2026: fine della consegna in 24 ore",
@@ -1266,21 +1285,6 @@
       "musica silenzio guerra",
       "78mila sfollati"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "3894999e31227b40",
-    "slug": "tennis-musetti-perde-640-punti-dopo-la-sconfitta-a-3894999e31227b40",
-    "title": "Tennis: Musetti perde 640 punti dopo la sconfitta a Montecarlo",
-    "section": "sport",
-    "priority": 8,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-09T07:42:02.021172+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/09/090936114-edbe1642-ab6e-478e-b711-9abfd64e198f.jpg",
-    "occhiello": "LA CADUTA DI MUSETTI: DA 5 A 9 NEL RANKING ATP",
-    "lead_preview": "Il tennista italiano Lorenzo Musetti, arrivato in finale nel 2025, subisce una pesante sconfitta al primo turno contro V",
-    "tags": [],
     "hero_eligible": true
   },
   {
