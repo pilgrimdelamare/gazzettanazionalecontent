@@ -1,5 +1,24 @@
 [
   {
+    "id": "3e4d73a9cae87e66",
+    "slug": "45-anni-fa-usciva-excalibur-capolavoro-del-fantasy-3e4d73a9cae87e66",
+    "title": "45 Anni fa usciva Excalibur, capolavoro del fantasy diretto da John Boorman",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-04-10T04:51:28.644636+00:00",
+    "image_type": "image",
+    "image_url": "https://media-assets.wired.it/photos/69d4bfc2fb3152765042523f/16:9/w_1280,c_limit/Excalibur.jpg",
+    "occhiello": "IL MITO DI AVALON CHE HA ILLUSTRII IL CINEMA FANTASY",
+    "lead_preview": "45 Anni fa entravamo nel regno di Excalibur, il film di John Boorman che ha trasformato il cinema fantasy in un rito col",
+    "tags": [
+      "excalibur 1981",
+      "john boorman",
+      "mito di avalon"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "b504ffe7f92de0c4",
     "slug": "wexner-ed-epstein-12-miliardi-di-dollari-pubblici-b504ffe7f92de0c4",
     "title": "Wexner ed Epstein, 1,2 miliardi di dollari pubblici per i data center in Ohio",
@@ -9128,24 +9147,6 @@
       "bayern friburgo",
       "kane decisivo",
       "bundesliga 2026"
-    ]
-  },
-  {
-    "id": "fb79443593b1ac98",
-    "slug": "mhra-indaga-7-cliniche-uk-su-peptidi-non-autorizza-fb79443593b1ac98",
-    "title": "MHRA sequestra 12mila fiale di semaglutide in cliniche inglesi",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-04T16:26:53.547214+00:00",
-    "image_type": "none",
-    "image_url": "",
-    "occhiello": "SETTE CLINICHE BRITANNICHE NEL MIRINO PER SEMAGLUTIDE",
-    "lead_preview": "La Medicines and Healthcare Products Regulatory Agency ha avviato il 4 aprile 2026 un’indagine su sette cliniche private",
-    "tags": [
-      "semaforo semaglutide",
-      "indagine mhra",
-      "cliniche inglesi"
     ]
   }
 ]
