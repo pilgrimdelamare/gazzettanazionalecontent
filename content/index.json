@@ -1,5 +1,24 @@
 [
   {
+    "id": "bdf08c0892bee52f",
+    "slug": "25mila-case-vuote-a-milano-i-proprietari-non-le-af-bdf08c0892bee52f",
+    "title": "25Mila case vuote a Milano e 8mila a Bologna: i proprietari non affittano per paura di morosi",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-10T03:19:05.241634+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/09/204143338-87929130-ef97-49a1-b5f1-604696da52ab.jpg",
+    "occhiello": "",
+    "lead_preview": "25mila case a Milano e 8mila a Bologna sono fuori dal mercato degli affitti, non per mancanza di domanda, ma per la deci",
+    "tags": [
+      "case vuote milano",
+      "affitti bologna",
+      "paura morosi"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "0f593eaa3abc2aea",
     "slug": "tennis-sinner-a-200-punti-da-alcaraz-per-tornare-n-0f593eaa3abc2aea",
     "title": "Tennis: Jannik Sinner punta al numero 1 ATP a Monte-Carlo",
@@ -507,25 +526,6 @@
       "sospensione patto di stabilità",
       "giorgetti economia 2026",
       "pil italia 2026"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "bdf08c0892bee52f",
-    "slug": "25mila-case-vuote-a-milano-i-proprietari-non-le-af-bdf08c0892bee52f",
-    "title": "25Mila case vuote a Milano, i proprietari non le affittano per paura di morosi",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-10T03:19:05.241634+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/09/204143338-87929130-ef97-49a1-b5f1-604696da52ab.jpg",
-    "occhiello": "TROPPO SPAZIO VUOTO PER LE FAMIGLIE DI MILANO E BOLOGNA",
-    "lead_preview": "25Mila case a Milano e 8mila a Bologna sono fuori dal mercato, ma i proprietari esitano a metterle in affitto a causa de",
-    "tags": [
-      "case vuote milano",
-      "affitti morosità",
-      "crisi abitativa bologna"
     ],
     "hero_eligible": true
   },
