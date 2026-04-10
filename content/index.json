@@ -1,5 +1,23 @@
 [
   {
+    "id": "a984fc75d7ad5917",
+    "slug": "professoressa-accoltellata-a-trescore-balneario-or-a984fc75d7ad5917",
+    "title": "Prof.ssa accoltellata a Trescore Balneario, torna a insegnare",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Chiara Esposito",
+    "published_at": "2026-04-09T16:14:51.324315+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/25/b5c3872fee9475c9ba2d783085a94898.jpg",
+    "occhiello": "PROFESSORESSA ACCOLTELLATA A TRESCORE BALNEARIO, ORA FUORI PERICOLO: DIMESSA DOP",
+    "lead_preview": "PROFESSORESSA ACCOLTELLATA IN CLASSE, L'INSEGNAMENTO CONTINUA Trescore Balneario. La professoressa accoltellata nella su",
+    "tags": [
+      "prof.ssa accoltellata trescore",
+      "trescore balneario"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c25c3934141c4b02",
     "slug": "ornella-vanoni-e-gino-paoli-lanciano-il-vinile-per-c25c3934141c4b02",
     "title": "Vanoni e Paoli lanciano 'Per Sempre': 5.000 vinili numerati esauriti in 12 ore",
@@ -507,25 +525,6 @@
       "zucchero donbass",
       "musica silenzio guerra",
       "78mila sfollati"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "a984fc75d7ad5917",
-    "slug": "professoressa-accoltellata-a-trescore-balneario-or-a984fc75d7ad5917",
-    "title": "Professoressa accoltellata a Trescore Balneario, ora fuori pericolo: dimessa dopo l'aggressione in classe",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Chiara Esposito",
-    "published_at": "2026-04-09T16:14:51.324315+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/25/b5c3872fee9475c9ba2d783085a94898.jpg",
-    "occhiello": "",
-    "lead_preview": "La professoressa accoltellata a Trescore Balneario il 7 aprile 2026 è stata dimessa dall’ospedale, fuori pericolo. il gi",
-    "tags": [
-      "aggressione trescore balneario",
-      "professoressa accoltellata",
-      "caso studente tredicenne"
     ],
     "hero_eligible": true
   },
