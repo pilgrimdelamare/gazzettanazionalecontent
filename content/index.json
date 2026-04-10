@@ -1,5 +1,24 @@
 [
   {
+    "id": "a870ac2fceb2817e",
+    "slug": "secondo-lo-studio-tp-infinity-il-79-dei-giovani-st-a870ac2fceb2817e",
+    "title": "Il 79% dei giovani stranieri ama il Made in Italy, ma 1 su 3 rifiuta di lavorarci",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-10T09:09:17.172689+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/10/338da32436e7cc11e037e1758bce3de5.jpg",
+    "occhiello": "79% GIOVANI STRANIERI AMA IL MADE IN ITALY",
+    "lead_preview": "Lo studio Tp Infinity, diffuso il 10 aprile 2026, rivela che il 79% dei giovani stranieri considera il Made in Italy un ",
+    "tags": [
+      "made in italy",
+      "giovani stranieri",
+      "studio tp infinity"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "7fa0499cd0d91a0a",
     "slug": "calcio-barcellona-reclama-alla-uefa-dopo-il-0-2-co-7fa0499cd0d91a0a",
     "title": "Uefa sotto sfrondo, barcellona esclude gli arbitri",
@@ -573,21 +592,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/10/7903505e9d6d7ed20db0b754f2a4cd55.jpg",
     "occhiello": "",
     "lead_preview": "Giovedì 10 aprile 2026, per la settimana dell’arte a Milano, sono stati aperti al pubblico gli abbeveratoi monumentali d",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "a870ac2fceb2817e",
-    "slug": "secondo-lo-studio-tp-infinity-il-79-dei-giovani-st-a870ac2fceb2817e",
-    "title": "Made in italy, valore per i giovani stranieri",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-10T09:09:17.172689+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/10/338da32436e7cc11e037e1758bce3de5.jpg",
-    "occhiello": "MADE IN ITALY, VALORE PER I GIOVANI STRANIERI",
-    "lead_preview": "Secondo lo studio Tp Infinity, il 79% dei giovani stranieri considera il Made in Italy un valore, ma uno su tre preferis",
     "tags": [],
     "hero_eligible": true
   },
