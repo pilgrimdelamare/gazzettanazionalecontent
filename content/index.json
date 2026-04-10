@@ -1,5 +1,24 @@
 [
   {
+    "id": "9e033fa9469efff0",
+    "slug": "basket-indiana-domina-brooklyn-con-un-secco-123-94-9e033fa9469efff0",
+    "title": "Basket: Indiana domina Brooklyn con un secco 123-94 all'away",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-10T05:22:11.390758+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/149b6b0c32c336f4790d404945f38758c1c1e470/skysport/it/nba/video/2026/04/10/1089040_1775795683961_thumb_494.0000001_1775795757203.jpg",
+    "occhiello": "BROOKLYN CROLLA CON INDIANA, 94-123 IL FINALE",
+    "lead_preview": "La partita di NBA tra Brooklyn e Indiana si è conclusa con un punteggio di 94-123 a favore degli ospiti. La gara si è sv",
+    "tags": [
+      "nba brooklyn",
+      "indiana vs brooklyn",
+      "basket 9 aprile"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "75183b1b76bfd50b",
     "slug": "400-comuni-a-roma-per-la-sostenibilita-75183b1b76bfd50b",
     "title": "Quattrocento comuni in piazza per un milione di euro",
@@ -9136,24 +9155,6 @@
       "sambenedettese-arezzo",
       "serie c 2026",
       "riviera delle palme"
-    ]
-  },
-  {
-    "id": "3858aa38b0df1237",
-    "slug": "grosso-deluso-3858aa38b0df1237",
-    "title": "Fondi, bocciati 87 milioni Ue per infrastrutture: solo 6 paesi a favore",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-04T17:59:43.447628+00:00",
-    "image_type": "flickr",
-    "image_url": "https://live.staticflickr.com/65535/54246113125_ea65973dec_b.jpg",
-    "occhiello": "FONDI SCOMPARSI DOPO IL VOTO",
-    "lead_preview": "Giancarlo Grosso ha espresso la sua delusione il 4 aprile 2026 per la mancata approvazione di Fondi europei destinati a ",
-    "tags": [
-      "fondi ue lazio",
-      "voto fondi ue",
-      "giancarlo grosso"
     ]
   }
 ]
