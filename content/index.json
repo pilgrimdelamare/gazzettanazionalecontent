@@ -1,5 +1,24 @@
 [
   {
+    "id": "d36c1f68db542f6c",
+    "slug": "olimpia-milano-90-la-celebrazione-dei-90-anni-d36c1f68db542f6c",
+    "title": "Olimpia Milano riunisce 56 ex giocatori e 17.241 tifosi al Forum per i 90 anni",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-09T15:14:54.293734+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/6702ca07c39ecd2078a7c8da355e4d736e537259/skysport/it/basket/2026/04/09/olimpia-milano-90-anni-speciale-sky-sport/speciale_olimpia_90.jpg",
+    "occhiello": "",
+    "lead_preview": "Olimpia Milano, 9 aprile 2026, ore 23.15. La Pallacanestro Olimpia Milano ha festeggiato i suoi 90 anni di storia con un",
+    "tags": [
+      "olimpiami milano 90 anni",
+      "pallacanestro olimpia milano",
+      "medio lanum forum"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "0e1d93c31d990a33",
     "slug": "hormuz-10-aprile-2026-0e1d93c31d990a33",
     "title": "Hormuz, 10 aprile 2026",
@@ -465,21 +484,6 @@
     "image_url": "https://media-assets.wired.it/photos/69d7af7e73dd3ad404fd5ae0/16:9/w_1280,c_limit/insta%20360%20snap.jpg",
     "occhiello": "INSTA360 SNAP, IL DISPLAY MAGNETICO PER SELFIE PIÙ PRECISO",
     "lead_preview": "Insta360 Snap è un Display magnetico pensato per aprire una finestra in tempo reale sulla ripresa delle fotocamere poste",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "d36c1f68db542f6c",
-    "slug": "olimpia-milano-90-la-celebrazione-dei-90-anni-d36c1f68db542f6c",
-    "title": "Olimpia milano 90: la celebrazione dei 90 anni",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-09T15:14:54.293734+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/6702ca07c39ecd2078a7c8da355e4d736e537259/skysport/it/basket/2026/04/09/olimpia-milano-90-anni-speciale-sky-sport/speciale_olimpia_90.jpg",
-    "occhiello": "OLIMPIA MILANO 90: LA CELEBRAZIONE DEI 90 ANNI",
-    "lead_preview": "Olimpia Milano, 9 aprile 2026 - 23.15. La Pallacanestro Olimpia Milano ha festeggiato i suoi 90 anni di storia con una s",
     "tags": [],
     "hero_eligible": true
   },
