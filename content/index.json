@@ -1,5 +1,20 @@
 [
   {
+    "id": "5576268ccc41f342",
+    "slug": "principe-harry-in-defesa-dellong-5576268ccc41f342",
+    "title": "Principe harry in defesa dell'ong",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-10T20:55:59.792150+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/1/22/15982b3cf137a30beaa917ef109dbe6c.jpg",
+    "occhiello": "PRINCIPE HARRY IN DEFESA DELL'ONG",
+    "lead_preview": "Il principe Harry ha respinto fermamente l'accusa di diffamazione di un'Organizzazione non governativa (ONG) africana, l",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "811a227d1293ffb9",
     "slug": "davide-malen-ha-segnato-tre-gol-nella-partita-roma-811a227d1293ffb9",
     "title": "Davide Malen ha segnato tre gol nella partita Roma-Pisa, terminata 3-0 il 10 apr",
@@ -9095,23 +9110,6 @@
     "tags": [
       "caschi blu afgani",
       "inchiesta montecitorio"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "5b327b1952402d62",
-    "slug": "prof-fattore-la-teoria-neoclassica-tradisce-la-lib-5b327b1952402d62",
-    "title": "Fattore attacca la teoria neoclassica in tv: 'Usata per giustificare disuguaglianza e povertà'",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-04-06T05:38:13.206683+00:00",
-    "image_type": "image",
-    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2025/02/20/pil-soldi-1200.jpg",
-    "occhiello": "UN PROFESSORE ACCUSA LA TEORIA NEOCOLASSICA",
-    "lead_preview": "Giovanni Fattore, Professore di Economia e Management, ha lanciato un duro attacco contro la teoria neoclassica accusand",
-    "tags": [
-      "attacco fattore teoria neoclassica"
     ],
     "hero_eligible": true
   }
