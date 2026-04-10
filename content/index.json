@@ -1,5 +1,24 @@
 [
   {
+    "id": "9bcc22d0b7d0f693",
+    "slug": "mircea-lucescu-morto-martedi-a-80-anni-e-esposto-a-9bcc22d0b7d0f693",
+    "title": "Mircea Lucescu esposto alla National Arena di Bucarest, funerali solenni venerdì",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-09T10:36:22.508915+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/e1e67b201e92d029685dae409c1d3b210606238c/skysport/it/calcio/2026/04/09/mircea-lucescu-camera-ardente-funerali-foto/ansa_lucescu_camera_ardente_COP.jpg",
+    "occhiello": "MORTE DI LUCESCU, FANFARIE ALLA NATIONAL ARENA",
+    "lead_preview": "Mircea Lucescu, morto martedì 7 aprile 2026 all’età di 80 anni, è esposto alla National Arena di Bucarest, dove venerdì ",
+    "tags": [
+      "morte lucescu",
+      "funerali lucescu",
+      "national arena bucarest"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "0453e28e672ece0c",
     "slug": "lello-il-sensitivo-offre-150mila-euro-per-patteggi-0453e28e672ece0c",
     "title": "Lello il Sensitivo offre 150mila euro per patteggiare 3 anni e 9 mesi a Sorrento",
@@ -849,21 +868,6 @@
     "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/09/121232847-a4aaf407-67fd-4135-88d1-4648da6d2b55.jpg",
     "occhiello": "CANNES 79 SENZA BANDIERA TRICOLORE",
     "lead_preview": "Cannes 79 ha annunciato il 9 aprile la selezione ufficiale: Nessun film Italiano in concorso dal 12 al 23 maggio. L’unic",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "9bcc22d0b7d0f693",
-    "slug": "mircea-lucescu-morto-martedi-a-80-anni-e-esposto-a-9bcc22d0b7d0f693",
-    "title": "Mircea Lucescu, morto martedì a 80 anni, è esposto alla National Arena di Bucare",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-09T10:36:22.508915+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/e1e67b201e92d029685dae409c1d3b210606238c/skysport/it/calcio/2026/04/09/mircea-lucescu-camera-ardente-funerali-foto/ansa_lucescu_camera_ardente_COP.jpg",
-    "occhiello": "",
-    "lead_preview": "Mircea Lucescu, morto martedì a 80 anni, è esposto alla National Arena di Bucarest, dove venerdì si terranno i funerali.",
     "tags": [],
     "hero_eligible": true
   },
