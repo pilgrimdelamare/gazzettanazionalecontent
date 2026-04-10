@@ -1,5 +1,24 @@
 [
   {
+    "id": "62d6b60e79a101f9",
+    "slug": "il-nome-di-orlandi-negli-epstein-files-62d6b60e79a101f9",
+    "title": "Il nome di Emanuela Orlandi nei documenti di Epstein, nuova pista sul caso",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-09T16:02:24.069457+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/09/orlandi-epstein-files.jpg",
+    "occhiello": "EMANUELA ORLANDI NEI FILE DI EPSTEIN",
+    "lead_preview": "Emanuela Orlandi, la cittadina vaticana scomparsa a Roma il 22 giugno 1983 all’età di 15 anni, comparirebbe nei file di ",
+    "tags": [
+      "caso emanuela orlandi",
+      "file epstein",
+      "orlandi epstein"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "4076bb92916c2538",
     "slug": "zucchero-la-musica-che-non-alza-la-voce-contro-le-4076bb92916c2538",
     "title": "Zucchero attacca Emma e il silenzio della musica su 78mila sfollati in Donbass",
@@ -1520,21 +1539,6 @@
       "chantal pinzi",
       "donne marocco"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "62d6b60e79a101f9",
-    "slug": "il-nome-di-orlandi-negli-epstein-files-62d6b60e79a101f9",
-    "title": "Emanuela orlandi nei file di epstein",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-09T16:02:24.069457+00:00",
-    "image_type": "image",
-    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/09/orlandi-epstein-files.jpg",
-    "occhiello": "EMANUELA ORLANDI NEI FILE DI EPSTEIN",
-    "lead_preview": "Emanuela Orlandi, la cittadina vaticana scomparsa a Roma il 22 giugno 1983 all'età di 15 anni, comparirebbe negli Epstei",
-    "tags": [],
     "hero_eligible": true
   },
   {
