@@ -1,5 +1,20 @@
 [
   {
+    "id": "fc2fd81fa9a8dbaf",
+    "slug": "beethoven-in-scena-allarena-dopo-34-anni-fc2fd81fa9a8dbaf",
+    "title": "Beethoven torna all'Arena di Verona dopo 34 anni con la Nona Sinfonia",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-10T09:33:42.703405+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2018/8/21/ba38f9fbece71d8764f52c5a9d306804.jpg",
+    "occhiello": "",
+    "lead_preview": "Ludwig van Beethoven apre il cartellone dell’Opera Festival 2027 all’Arena di Verona il 18 giugno, dopo 34 anni di assen",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "8ab6df72b40f95c6",
     "slug": "16-anarchici-prosciolti-a-bologna-per-100mila-euro-8ab6df72b40f95c6",
     "title": "Bologna, 16 anarchici prosciolti per i danni da 100mila euro del",
@@ -455,21 +470,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/10/f875227962707f7647c9b6529a4397d2.jpg",
     "occhiello": "EVANESCENCE ESCONO CON NUOVO ALBUM  SANCTUARY IL 5 GIUGNO",
     "lead_preview": "Il gruppo musicale statunitense Evanescence anticipa il nuovo album Sanctuary, in uscita il 5 giugno. Il primo singolo, ",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "fc2fd81fa9a8dbaf",
-    "slug": "beethoven-in-scena-allarena-dopo-34-anni-fc2fd81fa9a8dbaf",
-    "title": "Beethoven in scena dopo 34 anni",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-10T09:33:42.703405+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2018/8/21/ba38f9fbece71d8764f52c5a9d306804.jpg",
-    "occhiello": "BEETHOVEN IN SCENA DOPO 34 ANNI",
-    "lead_preview": "Arena di Verona, 10 aprile 2026 – La Nona Sinfonia di Ludwig van Beethoven aprirà l’Opera Festival 2027 il 18 giugno, do",
     "tags": [],
     "hero_eligible": true
   },
