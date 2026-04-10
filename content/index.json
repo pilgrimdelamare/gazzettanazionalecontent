@@ -1,5 +1,20 @@
 [
   {
+    "id": "d90aefbe85809c1d",
+    "slug": "ex-giocatori-bra-a-processo-per-stupro-d90aefbe85809c1d",
+    "title": "Ex giocatori bra a processo per stupro",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-10T12:18:56.833920+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/1/18/fb960198607487b3451d2391bf83e0bf.jpg",
+    "occhiello": "EX GIOCATORI BRA A PROCESSO PER STUPRO",
+    "lead_preview": "Il tribunale di Asti il 10 aprile 2026 ha rinviato a giudizio tre ex calciatori del Bra accusati di violenza sessuale su",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "57772bb3818bc6de",
     "slug": "alcaraz-vs-bublik-warm-up-prima-della-sfida-a-mont-57772bb3818bc6de",
     "title": "Alcaraz vs bublik, warm-up prima della sfida a monte-carlo",
@@ -9143,25 +9158,6 @@
     "lead_preview": "Marco Del Bianco, 58 anni, è morto alle 19.17 del 5 aprile 2026 in un appartamento al secondo piano di via Grozio a Trie",
     "tags": [
       "morte marco del bianco"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "55776d3e62ee0ac1",
-    "slug": "32-migranti-salvati-al-largo-della-libia-70-disper-55776d3e62ee0ac1",
-    "title": "70 Dispersi nel naufragio di un barcone di 15 metri dal Libico",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-04-05T11:07:27.856110+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/33106629/pexels-photo-33106629.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "70 MIGRANTI DISPERSI NEL MEDITERRANEO",
-    "lead_preview": "Settanta Migranti sono risultati dispersi dopo il naufragio di un barcone partito da Tripoli con centocinque persone a b",
-    "tags": [
-      "naufragio libia",
-      "migranti mediterraneo",
-      "barcone tripoli"
     ],
     "hero_eligible": true
   }
