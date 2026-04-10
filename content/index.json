@@ -1,5 +1,24 @@
 [
   {
+    "id": "57772bb3818bc6de",
+    "slug": "alcaraz-vs-bublik-warm-up-prima-della-sfida-a-mont-57772bb3818bc6de",
+    "title": "Tennis: Alcaraz completa 90 minuti di lavoro a Madrid per il rientro a Monte-Carlo",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-10T12:17:51.237678+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/fb70fb156da94ff6698c165a9d8d114126f8bb2c/skysport/it/tennis/video/2026/04/10/1089097_1775816042988_thumb_494.0000001_1775816114299.jpg",
+    "occhiello": "RISCALDAMENTO A MADRID PRIMA DI MONTE-CARLO",
+    "lead_preview": "Carlos Alcaraz ha completato un allenamento tecnico a Madrid il 10 aprile 2026, in vista del suo imminente impegno nel t",
+    "tags": [
+      "rientro alcaraz",
+      "torneo monte-carlo",
+      "allenamento madrid"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "7fa0499cd0d91a0a",
     "slug": "calcio-barcellona-reclama-alla-uefa-dopo-il-0-2-co-7fa0499cd0d91a0a",
     "title": "Calcio: Barcellona ricorre alla UEFA dopo il VAR negato in Atletico-Barcellona",
@@ -585,21 +604,6 @@
     "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/10/Screenshot-2026-04-10-alle-14.25.14.png",
     "occhiello": "",
     "lead_preview": "Patrycja Sobanska, modella polacca di 26 anni, ha scoperto di avere un tumore al collo dopo aver notato una somiglianza ",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "57772bb3818bc6de",
-    "slug": "alcaraz-vs-bublik-warm-up-prima-della-sfida-a-mont-57772bb3818bc6de",
-    "title": "Alcaraz riscalda i muscoli il 10 aprile prima di monte-carlo",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-10T12:17:51.237678+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/fb70fb156da94ff6698c165a9d8d114126f8bb2c/skysport/it/tennis/video/2026/04/10/1089097_1775816042988_thumb_494.0000001_1775816114299.jpg",
-    "occhiello": "ALCARAZ RISCALDA I MUSCOLI IL 10 APRILE PRIMA DI MONTE-CARLO",
-    "lead_preview": "Il 10 aprile 2026, Alcaraz ha concluso un riscaldamento tecnico a Madrid in vista della sfida con Bublik a Monte-Carlo. ",
     "tags": [],
     "hero_eligible": true
   },
