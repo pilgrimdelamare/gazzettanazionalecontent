@@ -1,5 +1,24 @@
 [
   {
+    "id": "8f67a9eafb6a4380",
+    "slug": "leta-media-delle-rosa-di-serie-a-una-classifica-so-8f67a9eafb6a4380",
+    "title": "Serie A: le prime 5 hanno un'età media di 28,7 anni, +2,1 in 5 anni",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-10T13:34:29.425447+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/a930a6b9f162c44f45da5633bd9f756b500be5bd/skysport/it/calcio/serie-a/serie-a-2025-2026-squadre-eta-media/inter_napoli_ansa.jpg",
+    "occhiello": "LE ROSE CHE DETERMINANO IL SCELTO",
+    "lead_preview": "La lotta scudetto è tra le big più \"vecchie\" mentre la corsa alla Champions coinvolge le rose più giovani. Secondo i dat",
+    "tags": [
+      "serie a età",
+      "rose serie a",
+      "lotta scudetto"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "e6ee0f54f33af474",
     "slug": "modella-polacca-di-26-anni-scopre-un-tumore-al-col-e6ee0f54f33af474",
     "title": "Patrycja Sobanska, modella polacca di 26 anni, ha scoperto di avere un tumore al",
@@ -196,21 +215,6 @@
     "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/10/puntata2_YOUTUBE.png",
     "occhiello": "FUTURA: LA ROBOTICA INSEGNA L'EMPAZIA",
     "lead_preview": "Alessandro Cacciato, conduttore di Futurare, ha intervistato Pasquale Scilingo, professore di Bioingegneria all'Universi",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "8f67a9eafb6a4380",
-    "slug": "leta-media-delle-rosa-di-serie-a-una-classifica-so-8f67a9eafb6a4380",
-    "title": "L'età media delle rosa di serie a: una classifica sorprendente",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-10T13:34:29.425447+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/a930a6b9f162c44f45da5633bd9f756b500be5bd/skysport/it/calcio/serie-a/serie-a-2025-2026-squadre-eta-media/inter_napoli_ansa.jpg",
-    "occhiello": "L'ETÀ MEDIA DELLE ROSA DI SERIE A: UNA CLASSIFICA SORPRENDENTE",
-    "lead_preview": "La lotta scudetto è tra le big più \"vecchie\" mentre la corsa alla Champions coinvolge le rose più giovani. Secondo i dat",
     "tags": [],
     "hero_eligible": true
   },
