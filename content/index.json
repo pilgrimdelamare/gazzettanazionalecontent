@@ -1,5 +1,24 @@
 [
   {
+    "id": "368fb8d7d6cb89e4",
+    "slug": "incidente-di-espargaro-a-sepang-4-vertebre-frattur-368fb8d7d6cb89e4",
+    "title": "MotoGP: Aleix Espargaró fratture multiple in ospedale dopo incidente a Sepang",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-09T10:36:21.791542+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/bb882bbd79a9e1d3318d59d3a79d78225a0e108d/skysport/it/motori/motogp/2026/04/09/motogp-espargaro-incidente-infortunio-news/espargar.jpg",
+    "occhiello": "INCIDENTE DI ESPARGARÓ A SEPAING: 4 VERTEBRE FRATTURATE",
+    "lead_preview": "Aleix Espargaró, pilota del Team Honda HRC, è rimasto coinvolto in un brutto incidente durante i Test a Sepang, in Malay",
+    "tags": [
+      "incidente espargaró",
+      "moto gp sepang",
+      "test motogp 2026"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "36369b11f9a3b164",
     "slug": "iccrea-assume-2500-under-35-e-licenzia-1800-la-riv-36369b11f9a3b164",
     "title": "Iccrea assume 2.500 ma licenzia 1.800: piano da 340 milioni su IA",
@@ -945,21 +964,6 @@
       "musica silenzio guerra",
       "78mila sfollati"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "368fb8d7d6cb89e4",
-    "slug": "incidente-di-espargaro-a-sepang-4-vertebre-frattur-368fb8d7d6cb89e4",
-    "title": "Incidente di espargaro a sepang: 4 vertebre fratturate",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-09T10:36:21.791542+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/bb882bbd79a9e1d3318d59d3a79d78225a0e108d/skysport/it/motori/motogp/2026/04/09/motogp-espargaro-incidente-infortunio-news/espargar.jpg",
-    "occhiello": "INCIDENTE DI ESPARGARO A SEPANG: 4 VERTEBRE FRATTURATE",
-    "lead_preview": "Aleix Espargaró, pilota del Team Honda HRC, è rimasto coinvolto in un brutto incidente durante i Test a Sepang, in Malay",
-    "tags": [],
     "hero_eligible": true
   },
   {
