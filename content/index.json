@@ -1,5 +1,24 @@
 [
   {
+    "id": "a7fbfcb072b91063",
+    "slug": "115-casi-di-meningite-in-italia-nel-2024-piu-del-d-a7fbfcb072b91063",
+    "title": "115 Casi di Meningite in Italia nel 2024, il doppio del",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-04-10T05:06:04.424309+00:00",
+    "image_type": "image",
+    "image_url": "https://media-assets.wired.it/photos/69d771d82ab0c0ab7cac35ed/16:9/w_1280,c_limit/2215440350",
+    "occhiello": "115 CASI DI MENGITE IN ITALIA",
+    "lead_preview": "115 Casi di Meningite da meningococco di tipo B e C sono stati registrati in Italia nel 2024, secondo il report dell'Ist",
+    "tags": [
+      "meningite 2024",
+      "meningococco b",
+      "iss meningite"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "52c6304c09e6116c",
     "slug": "argentina-camera-approva-cambio-di-legge-per-sfrut-52c6304c09e6116c",
     "title": "Argentina: Camera approva cambio di legge per sfruttare risorse preziose",
@@ -1034,25 +1053,6 @@
       "bombardamenti libano",
       "israele-beirut 2026",
       "crisi medio oriente"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "a7fbfcb072b91063",
-    "slug": "115-casi-di-meningite-in-italia-nel-2024-piu-del-d-a7fbfcb072b91063",
-    "title": "115 Casi di Meningite in Italia nel 2024, più del doppio rispetto al",
-    "section": "tecnologia",
-    "priority": 6,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-04-10T05:06:04.424309+00:00",
-    "image_type": "image",
-    "image_url": "https://media-assets.wired.it/photos/69d771d82ab0c0ab7cac35ed/16:9/w_1280,c_limit/2215440350",
-    "occhiello": "",
-    "lead_preview": "115 casi di meningite da meningococco di tipo B e C sono stati registrati in Italia nel 2024, secondo il report dell’Ist",
-    "tags": [
-      "meningite 2024",
-      "meningococco b",
-      "report iss"
     ],
     "hero_eligible": true
   },
