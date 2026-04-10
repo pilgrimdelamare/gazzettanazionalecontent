@@ -1,0 +1,60 @@
+{
+  "id": "47bf6a8922498d77",
+  "slug": "basket-lakers-dominano-golden-state-119-103-a-los-47bf6a8922498d77",
+  "title": "Basket: Lakers dominano Golden State 119-103 a Los Angeles",
+  "titles": [
+    "Basket: Lakers dominano Golden State 119-103 a Los Angeles",
+    "Basket: Quarta vittoria consecutiva per i Lakers, cala il blackout di Golden State",
+    "Basket: La striscia positiva dei Lakers sorprende tutti, ko pesante per Golden State a Los Angeles"
+  ],
+  "title_winner": null,
+  "section": "sport",
+  "occhiello": "LA LAKERS LANCIANO LA SORPRESA SULLA COSTA D'ORO",
+  "lead": "La notte scorsa, i Los Angeles Lakers hanno sorpreso la Golden State a Oakland con un sorprendente 119-103. La partita è stata giocata il 10 aprile 2026, alla Crypto.com Arena.",
+  "corpo1": "Di movimento per creare spazi e segnare facilmente. La Golden State ha cercato di reagire, ma i Lakers hanno mantenuto la loro superiorità, dimostrando la loro forza. Il punteggio finale è stato 119-103 a favore dei Lakers. La partita è stata giocata alla Crypto.com Arena, lo stadio dei Lakers a Los Angeles, il 10 aprile 2026. I Lakers hanno vinto la loro quarta partita consecutiva, mentre la Golden State ha subito la sua seconda sconfitta consecutiva. La vittoria dei Lakers è stata anche una sorpresa per i fan, che si aspettavano una partita più equilibrata.",
+  "corpo2": "Aspettavano una partita più equilibrata. Ma i Lakers hanno dimostrato di nuovo la loro superiorità e la loro capacità di vincere le partite importanti. La sfida tra i Lakers e la Golden State sarà una delle più emozionanti di questa stagione, con entrambe le squadre pronte a dare il massimo. La partita è stata anche un momento importante per LeBron James, che ha giocato la sua 1.500ª partita nella NBA, raggiungendo un nuovo record. Il suo figlio Bronny ha giocato la sua prima partita nella NBA e ha segnato il suo primo assist per il padre, un momento di gioia per la famiglia James. La famiglia James è stata una delle più famose e rispettate della NBA e questa partita è stata un momento di gioia per loro. La vittoria dei Lakers non cambia le sorti della stagione, ma è un buon segno per la squadra, che si prepara per le prossime sfide. I Lakers sono ancora in corsa per il titolo e questa vittoria li ha portati un passo più vicino alla loro meta. La sfida tra i Lakers e la Golden State sarà una delle più emozionanti di questa stagione e i fan si aspettano una partita incredibile.",
+  "article_type": "standard",
+  "cards": [],
+  "journalist": {
+    "id": "matteo_galli_01",
+    "firma": "Matteo Galli",
+    "sezione": "sport"
+  },
+  "published_at": "2026-04-10T06:54:53.838679+00:00",
+  "image": {
+    "type": "feed_image",
+    "url": "https://sport.sky.it/assets/images/2f106ee258cc0e908e1efabd4d29a35fc62e0a59/skysport/it/nba/video/2026/04/10/1089051_1775801074030_thumb_494.0000001_1775801142701.jpg",
+    "source": "Sky Sport",
+    "credit": "Sky Sport",
+    "license": "editorial"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Basket: Lakers dominano Golden State 119-103 a Los Angeles\",\n  \"description\": \"La notte scorsa, i Los Angeles Lakers hanno sorpreso la Golden State a Oakland con un sorprendente 119-103. La partita è stata giocata il 10 aprile 2026, alla Crypto.com Arena.\",\n  \"articleBody\": \"La notte scorsa, i Los Angeles Lakers hanno sorpreso la Golden State a Oakland con un sorprendente 119-103. La partita è stata giocata il 10 aprile 2026, alla Crypto.com Arena. Di movimento per creare spazi e segnare facilmente. La Golden State ha cercato di reagire, ma i Lakers hanno mantenuto la loro superiorità, dimostrando la loro forza. Il punteggio finale è stato 119-103 a favore dei Lakers. La partita è stata giocata alla Crypto.com Arena, lo stadio dei Lakers a Los Angeles, il 10 aprile 2026. I Lakers hanno vinto la loro quarta partita consecutiva, mentre la Golden State ha subito la sua seconda sconfitta consecutiva. La vittoria dei Lakers è stata anche una sorpresa per i fan, che si aspettavano una partita più equilibrata. Aspettavano una partita più equilibrata. Ma i Lakers hanno dimostrato di nuovo la loro superiorità e la loro capacità di vincere le partite importanti. La sfida tra i Lakers e la Golden State sarà una delle più emozionanti di questa stagione, con entrambe le squadre pronte a dare il massimo. La partita è stata anche un momento importante per LeBron James, che ha giocato la sua 1.500ª partita nella NBA, raggiungendo un nuovo record. Il suo figlio Bronny ha giocato la sua prima partita nella NBA e ha segnato il suo primo assist per il padre, un momento di gioia per la famiglia James. La famiglia James è stata una delle più famose e rispettate della NBA e questa partita è stata un momento di gioia per loro. La vittoria dei Lakers non cambia le sorti della stagione, ma è un buon segno per la squadra, che si prepara per le prossime sfide. I Lakers sono ancora in corsa per il titolo e questa vittoria li ha portati un passo più vicino alla loro meta. La sfida tra i Lakers e la Golden State sarà una delle più emozionanti di questa stagione e i fan si aspettano una partita incredibile.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Matteo Galli\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-10T06:54:53.838679+00:00\",\n  \"dateModified\": \"2026-04-10T06:54:53.838679+00:00\",\n  \"url\": \"https://lentemattutina.it/sport/47bf6a8922498d77\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/sport/47bf6a8922498d77\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://sport.sky.it/assets/images/2f106ee258cc0e908e1efabd4d29a35fc62e0a59/skysport/it/nba/video/2026/04/10/1089051_1775801074030_thumb_494.0000001_1775801142701.jpg\",\n    \"creditText\": \"Sky Sport\"\n  }\n}",
+  "priority": 6,
+  "source": "Sky Sport",
+  "source_type": "competitor",
+  "original_url": "https://sport.sky.it/nba/video/2026/04/10/nba-video-highlights-golden-state-warriors-la-lakers-1089051",
+  "related": [
+    {
+      "title": "Basket: Austin Reaves out 4-6 settimane per lesione addominale, salta gli scontri chiave Lakers",
+      "url": "/sport/basket-reaves-ko-per-4-6-settimane-i-lakers-perdon-bfc7400fbc03d5cd",
+      "id": "bfc7400fbc03d5cd",
+      "image_url": "https://sport.sky.it/assets/images/6c43ee3575610c96d9c5fd1fe12f3fc7a839a640/skysport/it/nba/video/2026/04/08/1088473_1775630011899_thumb_494.0000001_1775630086037.jpg",
+      "image_type": "feed_image"
+    },
+    {
+      "title": "Basket: Josh Hart decide con due triple nei 42 secondi finali, Knicks vincono su Boston",
+      "url": "/sport/basket-josh-hart-decide-con-due-triple-nei-42-seco-50ed6dfcb41155b8",
+      "id": "50ed6dfcb41155b8",
+      "image_url": "https://sport.sky.it/assets/images/f5d53a60863b0f8bb91911a0d2c582db9db804a6/skysport/it/nba/2026/04/10/nba-risultati-notte-10-aprile-video/hart_knicks_celtics_getty.jpg",
+      "image_type": "feed_image"
+    },
+    {
+      "title": "Basket: Boston batte New York 112-106 con Tatum da 32 punti",
+      "url": "/sport/basket-boston-batte-new-york-112-106-con-tatum-da-9f213147663dad03",
+      "id": "9f213147663dad03",
+      "image_url": "https://sport.sky.it/assets/images/a1e2bb7028036b2d4586964f94a75a51d82e1841/skysport/it/nba/video/2026/04/10/1089042_1775795709608_thumb_494.0000001_1775795756688.jpg",
+      "image_type": "feed_image"
+    }
+  ],
+  "hero_eligible": true
+}
