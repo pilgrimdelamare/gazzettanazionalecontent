@@ -1,5 +1,24 @@
 [
   {
+    "id": "764b02fb6be0100e",
+    "slug": "papa-leone-xiv-riceve-atleti-olimpici-e-paralimpic-764b02fb6be0100e",
+    "title": "Olimpiadi: Papa Leone XIV incontra a distanza di un mese i 34 medagliati italiani a Milano",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-09T08:50:42.310586+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/69836f18801a44aa1bf3c9b9342dd3eb044a579c/skysport/it/olimpiadi/2026/02/01/milano-cortina-papa-prevost-tregua-olimpica-video/papa_leone_angelus_ansa.jpg",
+    "occhiello": "",
+    "lead_preview": "Papa Leone XIV ha ricevuto in udienza privata il 9 aprile 2026 una delegazione di atleti italiani medagliati alle Olimpi",
+    "tags": [
+      "olimpiadi milano",
+      "papa leone xiv",
+      "incontro atleti"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "b7f949431bce2951",
     "slug": "pietro-morandi-28-anni-figlio-di-gianni-morandi-pa-b7f949431bce2951",
     "title": "Pietro Morandi, 28 anni, figlio di Gianni, in tour nei club dall'8 maggio: 8 città, prezzi tra 25 e 45 euro",
@@ -1167,25 +1186,6 @@
     "occhiello": "MORTE A PARIGI A 95 ANNI L'ATTORE ITALO-TEDESCO",
     "lead_preview": "Mario Adorf è morto a 95 anni a Parigi il 9 aprile 2026. Lo conferma l'agenzia dpa citando l'agente dell'attore. L'ex pr",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "764b02fb6be0100e",
-    "slug": "papa-leone-xiv-riceve-atleti-olimpici-e-paralimpic-764b02fb6be0100e",
-    "title": "Papa Leone XIV riceve atleti olimpici e paralimpici in udienza privata",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-09T08:50:42.310586+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/69836f18801a44aa1bf3c9b9342dd3eb044a579c/skysport/it/olimpiadi/2026/02/01/milano-cortina-papa-prevost-tregua-olimpica-video/papa_leone_angelus_ansa.jpg",
-    "occhiello": "",
-    "lead_preview": "Papa Leone XIV ha ricevuto in udienza una delegazione di atleti italiani medagliati alle Olimpiadi e Paralimpiadi di Mil",
-    "tags": [
-      "udienza papa leone xiv",
-      "atleti olimpici 2026",
-      "milano-cortina 2026"
-    ],
     "hero_eligible": true
   },
   {
