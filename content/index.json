@@ -1,5 +1,24 @@
 [
   {
+    "id": "48c12e92ea38d5bd",
+    "slug": "lorenzo-mariani-nuovo-ad-di-leonardo-cingolani-esc-48c12e92ea38d5bd",
+    "title": "Lorenzo Mariani nuovo ad di Leonardo, Cingolani esce dal vertice",
+    "section": "cronaca",
+    "priority": 4,
+    "journalist_firma": "Chiara Esposito",
+    "published_at": "2026-04-10T04:51:41.863675+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2022/02/17/cingolani-1200.jpg",
+    "occhiello": "IL TESORO NOMINA MARIANI AD DI LEONARDO",
+    "lead_preview": "Lorenzo Mariani è stato indicato dal Tesoro come prossimo nuovo amministratore delegato di Leonardo, sostituendo Roberto",
+    "tags": [
+      "nomina lorenzo mariani",
+      "ad leonardo",
+      "uscita cingolani"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "3e4d73a9cae87e66",
     "slug": "45-anni-fa-usciva-excalibur-capolavoro-del-fantasy-3e4d73a9cae87e66",
     "title": "45 Anni fa usciva Excalibur, capolavoro del fantasy diretto da John Boorman",
@@ -9129,24 +9148,6 @@
       "estrazione soldati usa",
       "operazione mogadiscio",
       "operazione baghdad"
-    ]
-  },
-  {
-    "id": "4cfba32dc041655d",
-    "slug": "calcio-bayern-vince-3-2-in-extremis-a-friburgo-con-4cfba32dc041655d",
-    "title": "Calcio: Bayern vince 3-2 al Friburgo dopo rimonta da 0-2, Kane decisivo all'82'",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-04T16:51:30.538792+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1541664158318-c59c3ef20a8b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxzb2NjZXIlMjBtYXRjaCUyMEdlcm1hbnl8ZW58MHwwfHx8MTc3NTM5MTYxNHww&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "BAYERN VINCENTE NONOSTANTE IL CAOS DIFENSIVO",
-    "lead_preview": "Bayern Monaco ha vinto 3-2 contro il Friburgo allo Stadio Europa-Park di Friburgo, in Germania, il 4 aprile 2026. La par",
-    "tags": [
-      "bayern friburgo",
-      "kane decisivo",
-      "bundesliga 2026"
     ]
   }
 ]
