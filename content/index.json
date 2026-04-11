@@ -1,5 +1,24 @@
 [
   {
+    "id": "563e15d011736ada",
+    "slug": "meloni-conferma-bonus-bebe-2026-1000-euro-per-fami-563e15d011736ada",
+    "title": "Meloni conferma Bonus bebè da 1000 euro per famiglie con Isee fino a 40mila",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-11T03:43:02.429001+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/10/220858920-d3d2eb2d-4532-4166-9578-ba9a2e5cdec8.jpg",
+    "occhiello": "BONUS BÉBÉ DA 1000 EURO, LA MANOVRA FINANZIARIA DI MELONI SOTTOPONDE FAMIGLIE AL VOTO.",
+    "lead_preview": "Giorgia Meloni ha confermato oggi, 11 aprile 2026, il Bonus bebè da 1000 euro nella manovra finanziaria 2026, destinato ",
+    "tags": [
+      "bonus bebè 2026",
+      "manovra meloni",
+      "famiglie con iese"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "13a16f08b24e59f2",
     "slug": "novation-tech-chiude-con-1176-milioni-a-montebellu-13a16f08b24e59f2",
     "title": "Novation Tech chiude con 117,6 milioni a Montebelluna, ricavi stabili (+0,5%) nel",
@@ -438,25 +457,6 @@
       "btp italia",
       "inflazione 2026",
       "titoli di stato"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "563e15d011736ada",
-    "slug": "meloni-conferma-bonus-bebe-2026-1000-euro-per-fami-563e15d011736ada",
-    "title": "Meloni conferma Bonus bebè 2026: 1000 euro per famiglie fino a 40mila Isee",
-    "section": "economia",
-    "priority": 4,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-04-11T03:43:02.429001+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/10/220858920-d3d2eb2d-4532-4166-9578-ba9a2e5cdec8.jpg",
-    "occhiello": "",
-    "lead_preview": "Giorgia Meloni ha confermato il Bonus bebè da 1000 euro nella manovra finanziaria 2026, destinato a tutte le famiglie co",
-    "tags": [
-      "bonus bebè 2026",
-      "manovra 2026",
-      "meloni famiglie"
     ],
     "hero_eligible": true
   },
