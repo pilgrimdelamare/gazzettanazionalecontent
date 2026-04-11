@@ -1,5 +1,20 @@
 [
   {
+    "id": "4535c06d68ef3bcb",
+    "slug": "lautaro-costretto-a-fermarsi-linter-si-affanna-4535c06d68ef3bcb",
+    "title": "Lautaro costretto a fermarsi: l'inter si affanna.",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-11T16:46:00.880785+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/00f64111daf241b2c63da49fecedc5c7d18fc14b/skysport/it/calcio/serie-a/2026/04/11/inter-infortunio-lautaro-martinez-infortunio-instagram/lautaro_storia_instagram_IPA_fotogramma.jpg",
+    "occhiello": "LAUTARO COSTRETTO A FERMARSI: L'INTER SI AFFANNA.",
+    "lead_preview": "Nell'ultima partita contro la Roma, il capitano dell'Inter, Lautaro Martinez, ha subito un Infortunio alla gamba sinistr",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "e0e3381aa199f56a",
     "slug": "ciclismo-augustin-seixas-vince-il-giro-dei-paesi-b-e0e3381aa199f56a",
     "title": "Ciclismo: Augustin Seixas vince il Giro dei Paesi Baschi 2026 con 38 secondi di vantaggio",
@@ -9201,25 +9216,6 @@
       "lago di braies",
       "turisti caduti",
       "ghiaccio vietato"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "7e9a00ab199cf343",
-    "slug": "basket-jasmin-repesa-firma-con-il-napoli-fino-al-2-7e9a00ab199cf343",
-    "title": "Basket: Jasmin Repesa firma con il Napoli fino al 2027 dopo l’esonero di Magro",
-    "section": "sport",
-    "priority": 7,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-06T12:13:37.465829+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/bcc8281e49f1bff9edb239ebcf824d9ae21c0412/skysport/it/basket/serie-a/2025/12/04/trapani-basket-repesa-dimissioni-news/ciamillo_repesa_trapani.jpg",
-    "occhiello": "",
-    "lead_preview": "Jasmin Repesa è il nuovo allenatore del Napoli Basket, ufficializzato 6 aprile 2026, dopo l’esonero di Alessandro Magro.",
-    "tags": [
-      "jasmin repesa napoli",
-      "napoli basket",
-      "esonero magro"
     ],
     "hero_eligible": true
   }
