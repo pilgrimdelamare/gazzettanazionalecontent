@@ -1,5 +1,24 @@
 [
   {
+    "id": "9d4b51740627c418",
+    "slug": "81-milioni-di-elettori-chiamati-alle-urne-sabato-1-9d4b51740627c418",
+    "title": "Viktor Orban raccoglie l'8,1% degli ungheresi",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-11T11:27:18.477250+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/23/6d71eb0889188952c91bc0dcf541e7be.jpg",
+    "occhiello": "",
+    "lead_preview": "Viktor Orban ha guidato il partito Fidesz alle urne sabato 11 aprile 2026, con 8,1 milioni di elettori chiamati a votare",
+    "tags": [
+      "elezioni ungheria 2026",
+      "victor orban",
+      "fidesz"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "3dc4867d822d58d9",
     "slug": "gasperini-e-ranieri-si-scontrano-a-roma-dopo-lelim-3dc4867d822d58d9",
     "title": "Gasperini e Ranieri si scontrano a Roma dopo l'eliminazione della squadra in Europa League",
@@ -16,21 +35,6 @@
       "eliminazione roma europa league",
       "baruffa allenatori roma"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "9d4b51740627c418",
-    "slug": "81-milioni-di-elettori-chiamati-alle-urne-sabato-1-9d4b51740627c418",
-    "title": "Otto virgola uno milioni di elettori ungheresi sono stati chiamati alle urne sab",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-11T11:27:18.477250+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/23/6d71eb0889188952c91bc0dcf541e7be.jpg",
-    "occhiello": "",
-    "lead_preview": "Otto virgola uno milioni di elettori ungheresi sono stati chiamati alle urne sabato 11 aprile 2026 per il rinnovo del Pa",
-    "tags": [],
     "hero_eligible": true
   },
   {
