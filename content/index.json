@@ -1,5 +1,24 @@
 [
   {
+    "id": "14449c472e28de5a",
+    "slug": "la-cultura-fa-pulizia-dei-casi-giudiziari-14449c472e28de5a",
+    "title": "Giuseppe Brindisi riporta in scena il caso Chiara Poggi a Napoli, Teatro esaurito in poche settimane",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-10T13:34:28.850278+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/10/stasi_poggi.jpg",
+    "occhiello": "800 POSTI ESAURITI PER LO SPETTACOLO SU CHIARA POGGI",
+    "lead_preview": "Giuseppe Brindisi ha portato il 9, aprile 2026, al Teatro Diana di Napoli, lo spettacolo sul caso di Chiara Poggi, la bi",
+    "tags": [
+      "caso chiara poggi",
+      "spettacolo brindisi",
+      "teatro diana napoli"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "47bf6a8922498d77",
     "slug": "basket-lakers-dominano-golden-state-119-103-a-los-47bf6a8922498d77",
     "title": "Basket: Lakers espugnano Oakland con 119-103, parziale di 34-15 nel terzo quarto",
@@ -33,25 +52,6 @@
     "tags": [
       "abodi premia farina",
       "orangeneration award"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "14449c472e28de5a",
-    "slug": "la-cultura-fa-pulizia-dei-casi-giudiziari-14449c472e28de5a",
-    "title": "Brindisi riempie il Teatro Diana con lo spettacolo su Chiara Poggi",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-10T13:34:28.850278+00:00",
-    "image_type": "image",
-    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/10/stasi_poggi.jpg",
-    "occhiello": "800 POSTI ESAURITI PER LO SPETTACOLO SUL CASO POGGI",
-    "lead_preview": "Giuseppe Brindisi ha portato il 9 aprile 2026 al Teatro Diana di Napoli uno spettacolo che ricostruisce il caso dell’omi",
-    "tags": [
-      "caso poggi",
-      "spettacolo brindisi",
-      "omicidio chiara poggi"
     ],
     "hero_eligible": true
   },
