@@ -1,5 +1,24 @@
 [
   {
+    "id": "3e4d73a9cae87e66",
+    "slug": "45-anni-fa-usciva-excalibur-capolavoro-del-fantasy-3e4d73a9cae87e66",
+    "title": "Excalibur torna al cinema il 10 aprile 2026, 45 anni dopo l'uscita del",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-04-10T04:51:28.644636+00:00",
+    "image_type": "image",
+    "image_url": "https://media-assets.wired.it/photos/69d4bfc2fb3152765042523f/16:9/w_1280,c_limit/Excalibur.jpg",
+    "occhiello": "EXCALIBUR, IL FILM CHE HA INVENTATO IL FANTASY MODERNO",
+    "lead_preview": "Sir John Boorman presentò Excalibur il 10 aprile 1981, un film che ha ridefinito il genere fantasy. Quarantacinque anni ",
+    "tags": [
+      "excalibur 2026",
+      "ritorno al cinema",
+      "john boorman"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "48c12e92ea38d5bd",
     "slug": "lorenzo-mariani-nuovo-ad-di-leonardo-cingolani-esc-48c12e92ea38d5bd",
     "title": "Lorenzo Mariani è il nuovo ad di Leonardo, prende il posto di Cingolani dal 10 aprile",
@@ -1500,24 +1519,6 @@
       "dati rubati",
       "cina cyber",
       "supercalcolatore tianjin"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "3e4d73a9cae87e66",
-    "slug": "45-anni-fa-usciva-excalibur-capolavoro-del-fantasy-3e4d73a9cae87e66",
-    "title": "45 Anni fa usciva Excalibur, il film che ha cambiato il fantasy",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-04-10T04:51:28.644636+00:00",
-    "image_type": "image",
-    "image_url": "https://media-assets.wired.it/photos/69d4bfc2fb3152765042523f/16:9/w_1280,c_limit/Excalibur.jpg",
-    "occhiello": "EXCALIBUR, IL FILM CHE HA SCONVOLTO IL CINEMA FANTASY",
-    "lead_preview": "45 Anni fa, Sir John Boorman presentava al pubblico Excalibur, un film di fantasy che ha rivoluzionato il genere. Il reg",
-    "tags": [
-      "re artu",
-      "film fantasy"
     ],
     "hero_eligible": true
   },
