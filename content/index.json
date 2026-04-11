@@ -1,5 +1,20 @@
 [
   {
+    "id": "537c392231839b9e",
+    "slug": "magyar-dal-13-aprile-lungheria-tornera-una-democra-537c392231839b9e",
+    "title": "Péter Magyar ha dichiarato che dal 13 aprile 2026 l’Ungheria tornerà una democra",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-11T18:12:41.807608+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/15/fee6b790c17f74757368f9912ffc3fa1.jpg",
+    "occhiello": "",
+    "lead_preview": "Péter Magyar ha dichiarato che dal 13 aprile 2026 l’Ungheria tornerà una democrazia, annunciandolo durante un comizio a ",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "b94fa229f203deca",
     "slug": "calcio-cagliari-batte-cremonese-1-0-zappa-decide-a-b94fa229f203deca",
     "title": "Calcio: Cagliari batte Cremonese 1-0, gol di Zappa al 67' allo stadio Sant'Elia",
@@ -284,21 +299,6 @@
       "ogura yamaha",
       "mercato piloti"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "537c392231839b9e",
-    "slug": "magyar-dal-13-aprile-lungheria-tornera-una-democra-537c392231839b9e",
-    "title": "Magyar, 'dal 13 aprile l'ungheria tornerà una democrazia'",
-    "section": "esteri",
-    "priority": 6,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-11T18:12:41.807608+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/15/fee6b790c17f74757368f9912ffc3fa1.jpg",
-    "occhiello": "MAGYAR, 'DAL 13 APRILE L'UNGHERIA TORNERÀ UNA DEMOCRAZIA'",
-    "lead_preview": "SCENARIO 5 - TERRORISMO INTERNAZIONALE E INTELLIGENCE OCCHIELLO Magyar, 'dal 13 aprile l'Ungheria tornerà una democrazia",
-    "tags": [],
     "hero_eligible": true
   },
   {
