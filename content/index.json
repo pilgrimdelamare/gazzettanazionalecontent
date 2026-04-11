@@ -1,5 +1,24 @@
 [
   {
+    "id": "96988aa6f085807f",
+    "slug": "la-gigantesca-mireille-scava-il-tunnel-caterina-12-96988aa6f085807f",
+    "title": "La gigantesca \"Mireille\" scava il tunnel \"Caterina\": 1200 tonnellate di TBM",
+    "section": "economia",
+    "priority": 6,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-11T05:15:29.630536+00:00",
+    "image_type": "image",
+    "image_url": "https://i2.res.24o.it/images2010/S24/Documenti/2026/04/11/Immagini/Ritagli/Abbattimento%20diaframma%20Galleria%20Caterina-U33462757017NAw-1440x752@IlSole24Ore-Web.jpeg?r=1170x507",
+    "occhiello": "LA PRIMA GALLERIA DI SALERNO-REGGIO CALABRIA È COMPLETATA",
+    "lead_preview": "La prima galleria della linea ferroviaria ad alta velocità Salerno-Reggio Calabria, la \"Caterina\", è stata completata do",
+    "tags": [
+      "tunnel salerno reggio calabria",
+      "ferrovia alta velocità",
+      "salerno reggio calabria"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "b2213ba9939013bc",
     "slug": "fausto-lama-lascia-coma-cose-e-esordisce-da-solist-b2213ba9939013bc",
     "title": "Fausto Lama chiude Coma_Cose e debutta da solista con 'Giovani Bukowski'",
@@ -9219,24 +9238,6 @@
     "lead_preview": "Il Football Club Internazionale Milano, la Juventus, il Milan e il Palermo sono pronti per sfidarsi in tre amichevoli a ",
     "tags": [
       "amichevoli perth"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "853cebe9f393c910",
-    "slug": "guerra-in-medio-oriente-fa-impennare-i-prezzi-gove-853cebe9f393c910",
-    "title": "Petrolio a 119,87 dollari",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-05T10:56:55.701614+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/U.S._crude_oil_inventories_%28February_20%2C_2015%29_and_storage_capacity_%28September_2014%29_%2816536363340%29.png",
-    "occhiello": "PETROLIO BRENT A 119,87 DOLLARI DOPO TENSIONI IN MEDIO ORIENTE",
-    "lead_preview": "Il prezzo del Petrolio Brent ha raggiunto i 119,87 dollari al barile il 5 aprile 2026, segnando un aumento del 12% nelle",
-    "tags": [
-      "prezzo petrolio",
-      "tensioni medio oriente"
     ],
     "hero_eligible": true
   }
