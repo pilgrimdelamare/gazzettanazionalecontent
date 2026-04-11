@@ -1,5 +1,24 @@
 [
   {
+    "id": "c8f3b8eb88e3cffe",
+    "slug": "basket-il-new-york-strappa-una-vittoria-netta-112-c8f3b8eb88e3cffe",
+    "title": "Basket: Il New York strappa una vittoria netta 112-95",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-11T06:49:52.201091+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/40ad47d65f295f5a1b8fd8886ea5c689ed01d041/skysport/it/nba/video/2026/04/11/1089268_1775879601950_thumb_494.0000001_1775886294534.jpg",
+    "occhiello": "NBA, NEW YORK TORONTO: UNA VITTORIA NETTA",
+    "lead_preview": "Il New York ha sconfitto il Toronto per 112-95 nella partita di ieri sera a New York City.. La vittoria è stata possibil",
+    "tags": [
+      "nba",
+      "basket",
+      "new york toronto"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "b4bdc9f3614035cf",
     "slug": "boston-vince-26-punti-a-new-orleans-b4bdc9f3614035cf",
     "title": "Boston vince 26 punti a New Orleans",
@@ -9244,21 +9263,6 @@
     "tags": [
       "stretto di hormuz"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "c9451a132beaa165",
-    "slug": "il-fatto-quotidiano-pubblica-loroscopo-di-pasquett-c9451a132beaa165",
-    "title": "Oroscopo di pasquetta pubblicato su il fatto quotidiano",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Chiara Esposito",
-    "published_at": "2026-04-06T07:56:12.454168+00:00",
-    "image_type": "image",
-    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2025/08/10/oroscopo.jpg",
-    "occhiello": "OROSCOPO DI PASQUETTA PUBBLICATO SU IL FATTO QUOTIDIANO",
-    "lead_preview": "Il Fatto Quotidiano ha pubblicato un oroscopo dedicato alla giornata di Pasquetta sul proprio sito il 6 aprile 2026. La ",
-    "tags": [],
     "hero_eligible": true
   }
 ]
