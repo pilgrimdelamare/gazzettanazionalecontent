@@ -1,5 +1,24 @@
 [
   {
+    "id": "d6d3300042acab7f",
+    "slug": "la-charlotte-cade-sconfitta-per-18-punti-d6d3300042acab7f",
+    "title": "Basket: Pistons dominano il terzo quarto e piegano i Hornets 118-100 al Spectrum Center",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-11T06:49:06.843967+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/34e57a158912ccb48631ede0ebcf3c6a6b45f0f7/skysport/it/nba/video/2026/04/11/1089272_1775880067047_thumb_494.0000001_1775886325845.jpg",
+    "occhiello": "",
+    "lead_preview": "Charlotte Hornets ha perso 100-118 contro Detroit Pistons nella partita di NBA disputata la sera del 11 aprile 2026 al S",
+    "tags": [
+      "nba pistons-hornets",
+      "detroit pistons",
+      "charlotte hornets"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "d57dfef9c185cf86",
     "slug": "basket-wembanyama-segna-record-in-nba-ora-e-uffici-d57dfef9c185cf86",
     "title": "Basket: Wembanyama gioca la 65esima partita, superando il limite stabilito dai Spurs per la sua salute",
@@ -479,25 +498,6 @@
     "tags": [
       "attacco odessa",
       "elezioni ucraine"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "d6d3300042acab7f",
-    "slug": "la-charlotte-cade-sconfitta-per-18-punti-d6d3300042acab7f",
-    "title": "La Charlotte cade sconfitta per 18 punti",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-11T06:49:06.843967+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/34e57a158912ccb48631ede0ebcf3c6a6b45f0f7/skysport/it/nba/video/2026/04/11/1089272_1775880067047_thumb_494.0000001_1775886325845.jpg",
-    "occhiello": "NBA: CHARLOTTE SCONFITTA DA DETROIT CON 18 PUNTI DI DIFFERENZA",
-    "lead_preview": "La Charlotte è stata sconfitta dalla Detroit con un risultato di 100-118 nella partita di NBA del 11 aprile 2026, una sc",
-    "tags": [
-      "nba 2026",
-      "charlotte sconfitta",
-      "detroit charlotte"
     ],
     "hero_eligible": true
   },
