@@ -1,5 +1,24 @@
 [
   {
+    "id": "0171f016dec0890a",
+    "slug": "artemis-ii-la-capsula-orion-pronta-a-entrare-nella-0171f016dec0890a",
+    "title": "Orion rientra a 38.000 km/h: scudo termico alla prova nel Pacifico alle 2",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-04-11T00:25:28.911011+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/11/426a9069dfb51b4d6a9e30a8f54f6064.jpg",
+    "occhiello": "LA CAPSULA ORION PRONTA ALL'ATERRAGGIO",
+    "lead_preview": "La capsula Orion, proveniente dalla missione Artemis II, è pronta a entrare nell'atmosfera terrestre dopo dieci giorni d",
+    "tags": [
+      "atterraggio orion",
+      "missione artemis ii",
+      "rientro capsule"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "7b9241f029151228",
     "slug": "trump-attacca-il-pedaggio-iraniano-sul-petrolio-a-7b9241f029151228",
     "title": "Trump attacca l'Iran: pedaggio da 1,5 dollari al barile sullo stretto di Hormuz",
@@ -815,21 +834,6 @@
       "tripletta malen",
       "serie a 2026"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "0171f016dec0890a",
-    "slug": "artemis-ii-la-capsula-orion-pronta-a-entrare-nella-0171f016dec0890a",
-    "title": "Artemis ii, la capsula orion pronta a entrare nell'atmosfera",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-04-11T00:25:28.911011+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/11/426a9069dfb51b4d6a9e30a8f54f6064.jpg",
-    "occhiello": "ARTEMIS II, LA CAPSULA ORION PRONTA A ENTRARE NELL'ATMOSFERA",
-    "lead_preview": "La capsula Orion, proveniente dalla missione Artemis II, è pronta a entrare nell'atmosfera terrestre dopo dieci giorni d",
-    "tags": [],
     "hero_eligible": true
   },
   {
