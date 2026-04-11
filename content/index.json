@@ -1,5 +1,24 @@
 [
   {
+    "id": "37b7be6b567c2fb8",
+    "slug": "btp-italia-32-miliardi-in-sottoscrizioni-nel-primo-37b7be6b567c2fb8",
+    "title": "BTP Italia acquistati per 3,2 miliardi in un trimestre di alti e bassi",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-11T03:43:28.447803+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/10/220221162-e111e993-f904-4fd9-ba77-860f8aa363c4.jpg",
+    "occhiello": "IL CREDITO DELLA TITOLARESI DI BTP ITALIA SI FERMERA A 3,2 MILIARDI",
+    "lead_preview": "La titolarità dei BTP Italia è stata acquistata per 3,2 miliardi di euro nel primo trimestre del 2026, secondo quanto ri",
+    "tags": [
+      "btp italia",
+      "titolarita btp",
+      "btp acquisto"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "563e15d011736ada",
     "slug": "meloni-conferma-bonus-bebe-2026-1000-euro-per-fami-563e15d011736ada",
     "title": "Meloni conferma Bonus bebè da 1000 euro per famiglie con Isee fino a 40mila",
@@ -438,25 +457,6 @@
     "tags": [
       "beethoven a verona",
       "opera festival 2027"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "37b7be6b567c2fb8",
-    "slug": "btp-italia-32-miliardi-in-sottoscrizioni-nel-primo-37b7be6b567c2fb8",
-    "title": "BTP Italia, 3,2 miliardi in sottoscrizioni nel primo trimestre",
-    "section": "economia",
-    "priority": 4,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-11T03:43:28.447803+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/10/220221162-e111e993-f904-4fd9-ba77-860f8aa363c4.jpg",
-    "occhiello": "",
-    "lead_preview": "Il 12 aprile 2026, mentre l’inflazione continua a erodere il potere d’acquisto degli italiani, i titoli di Stato indiciz",
-    "tags": [
-      "btp italia",
-      "inflazione 2026",
-      "titoli di stato"
     ],
     "hero_eligible": true
   },
