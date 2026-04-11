@@ -1,5 +1,24 @@
 [
   {
+    "id": "9e033fa9469efff0",
+    "slug": "basket-indiana-domina-brooklyn-con-un-secco-123-94-9e033fa9469efff0",
+    "title": "Basket: Indiana domina Brooklyn 123-94 con 58% da due e parziale di 23-8",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-10T05:22:11.390758+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/149b6b0c32c336f4790d404945f38758c1c1e470/skysport/it/nba/video/2026/04/10/1089040_1775795683961_thumb_494.0000001_1775795757203.jpg",
+    "occhiello": "",
+    "lead_preview": "Indiana ha battuto Brooklyn con un punteggio di 123-94 in una partita della NBA disputatasi il 10 aprile 2026. La gara s",
+    "tags": [
+      "nba 2026",
+      "indiana brooklyn",
+      "partita basket"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "9f213147663dad03",
     "slug": "basket-boston-batte-new-york-112-106-con-tatum-da-9f213147663dad03",
     "title": "Basket: Tatum trascina Boston a 112-106 sui Knicks con 32 punti al TD Garden",
@@ -2117,25 +2136,6 @@
       "sky sport errore",
       "pet shop boys concerto",
       "nba highlights errati"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "9e033fa9469efff0",
-    "slug": "basket-indiana-domina-brooklyn-con-un-secco-123-94-9e033fa9469efff0",
-    "title": "Basket: Indiana domina Brooklyn con un secco 123-94 all'away",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-10T05:22:11.390758+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/149b6b0c32c336f4790d404945f38758c1c1e470/skysport/it/nba/video/2026/04/10/1089040_1775795683961_thumb_494.0000001_1775795757203.jpg",
-    "occhiello": "BROOKLYN CROLLA CON INDIANA, 94-123 IL FINALE",
-    "lead_preview": "La partita di NBA tra Brooklyn e Indiana si è conclusa con un punteggio di 94-123 a favore degli ospiti. La gara si è sv",
-    "tags": [
-      "nba brooklyn",
-      "indiana vs brooklyn",
-      "basket 9 aprile"
     ],
     "hero_eligible": true
   },
