@@ -1,5 +1,23 @@
 [
   {
+    "id": "5576268ccc41f342",
+    "slug": "principe-harry-in-defesa-dellong-5576268ccc41f342",
+    "title": "Principe Harry nega accuse di diffamazione",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-10T20:55:59.792150+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/1/22/15982b3cf137a30beaa917ef109dbe6c.jpg",
+    "occhiello": "ONG AFRICA CITATA IN TRIBUNALE DAL PRINCIPE",
+    "lead_preview": "Il principe Harry ha respinto le accuse di diffamazione mosse dall'ong africana \"Elephant Conservation Initiative\" duran",
+    "tags": [
+      "principe harry",
+      "caso elephant conservation"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c2f22f16a07472ce",
     "slug": "mic-riforma-i-commissari-cinema-scelta-per-curricu-c2f22f16a07472ce",
     "title": "Mic convocherà commissari cinema con concorso a Roma entro giugno",
@@ -291,21 +309,6 @@
       "juventus",
       "spalletti"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "5576268ccc41f342",
-    "slug": "principe-harry-in-defesa-dellong-5576268ccc41f342",
-    "title": "Principe harry in defesa dell'ong",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-10T20:55:59.792150+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/1/22/15982b3cf137a30beaa917ef109dbe6c.jpg",
-    "occhiello": "PRINCIPE HARRY IN DEFESA DELL'ONG",
-    "lead_preview": "Il principe Harry ha respinto fermamente l'accusa di diffamazione di un'Organizzazione non governativa (ONG) africana, l",
-    "tags": [],
     "hero_eligible": true
   },
   {
