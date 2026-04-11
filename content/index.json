@@ -1,5 +1,24 @@
 [
   {
+    "id": "45c4ac61b15d12b2",
+    "slug": "doppio-omicidio-a-odessa-russia-si-copre-le-spalle-45c4ac61b15d12b2",
+    "title": "Doppio omicidio a Odessa: Russia si copre le spalle",
+    "section": "esteri",
+    "priority": 7,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-11T04:45:03.498514+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/6/18ebbf181cf8827d9922ed5bf230ffd1.jpg",
+    "occhiello": "ATTACCO RUSSO A ODESSA",
+    "lead_preview": "Due persone sono state uccise in un attacco russo a Odessa, città Ucraina sul Mar Nero, lo scorso 11 aprile 2026, mentre",
+    "tags": [
+      "omicidio odessa",
+      "attacco russo",
+      "guerra ucraina"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "2e8a05a0c2a85c32",
     "slug": "filippo-a-wood-farm-con-penelope-knatchbull-vita-s-2e8a05a0c2a85c32",
     "title": "Penelope Knatchbull ha soggiornato 47 notti nella fattoria reale di Sandringham dal",
@@ -9217,24 +9236,6 @@
     "occhiello": "LAMELO BALL PORTACOLORI PIÙ COSTOSO DELLA STORIA NBA",
     "lead_preview": "LaMelo Ball ha trascinato i Charlotte Hornets alla vittoria contro i Minneapolis Timberwolves con 35 punti, 10 rimbalzi ",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "8e89bb3afba1c18c",
-    "slug": "calcio-roma-concede-17-gol-8e89bb3afba1c18c",
-    "title": "Rick karsdorp parla della roma",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-06T06:54:23.225512+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/deeb143efc07a5f9a03f55dadfc44a7b042a2f7a/skysport/it/calcio/serie-a/video/2026/04/06/1087942_1775423511146_thumb_494.0000001_1775454136503.jpg",
-    "occhiello": "RICK KARSDORP PARLA DELLA ROMA",
-    "lead_preview": "Rick Karsdorp, difensore della Roma, ha espresso i suoi pensieri sulla difesa della squadra dopo la vittoria contro l'av",
-    "tags": [
-      "roma",
-      "karsdorp"
-    ],
     "hero_eligible": true
   }
 ]
