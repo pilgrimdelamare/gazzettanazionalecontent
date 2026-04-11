@@ -1,5 +1,20 @@
 [
   {
+    "id": "14f6491226220561",
+    "slug": "la-miss-oregon-1987-guida-leonardo-spa-14f6491226220561",
+    "title": "Leonardo spa nomina la nuova vicepresidente espertivo",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Elena Russo",
+    "published_at": "2026-04-11T13:30:03.415497+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/12/30d08cb3e73c78c8d946240815699a21.jpg",
+    "occhiello": "LEONARDO SPA NOMINA LA NUOVA VICEPRESIDENTE ESPERTIVO",
+    "lead_preview": "Tamara Fazzolari è stata nominata vicepresidente esecutivo di Leonardo Spa il 10 aprile 2026. La nomina è stata resa Pub",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "8bb297ba0a630299",
     "slug": "tennis-sinner-strappa-due-break-a-zverev-e-vola-ne-8bb297ba0a630299",
     "title": "Tennis: Sinner domina Zverev con doppio break e chiude il primo set 6-0 a Montecarlo",
@@ -243,21 +258,6 @@
       "indiana vs philadelphia",
       "basket nba"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "14f6491226220561",
-    "slug": "la-miss-oregon-1987-guida-leonardo-spa-14f6491226220561",
-    "title": "La miss oregon 1987 guida leonardo spa",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Sergio Mancini",
-    "published_at": "2026-04-11T13:30:03.415497+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/12/30d08cb3e73c78c8d946240815699a21.jpg",
-    "occhiello": "LA MISS OREGON 1987 GUIDA LEONARDO SPA",
-    "lead_preview": "Tamara Fazzolari è stata nominata vicepresidente esecutivo di Leonardo il 10 aprile 2026. L'azienda di difesa Italiana h",
-    "tags": [],
     "hero_eligible": true
   },
   {
