@@ -1,5 +1,20 @@
 [
   {
+    "id": "c76a8dacc0e8103c",
+    "slug": "la-vittoria-di-kelly-e-lerrore-fatale-di-carnesecc-c76a8dacc0e8103c",
+    "title": "La vittoria di kelly e l'errore fatale di carnesecchi",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-11T22:28:08.796938+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/11/233451641-f78b994e-5d55-43fa-b15b-f51b99e374d2.jpg",
+    "occhiello": "LA VITTORIA DI KELLY E L'ERRORE FATALE DI CARNESECCHI",
+    "lead_preview": "Atalanta-Juventus, la gara di Bergamo si è chiusa con la vittoria dell'Atalanta per 2-1. La partita è stata caratterizza",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "bd1182f6110bf221",
     "slug": "71-iraniani-a-islamabad-per-negoziare-con-gli-usa-bd1182f6110bf221",
     "title": "71 Membri della delegazione iraniana sono atterrati a Islamabad nella mattina de",
@@ -9188,25 +9203,6 @@
       "barrow tris",
       "bologna ginevra",
       "amichevole casteldebole"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "c46756f63bfbacb3",
-    "slug": "di-canio-critica-leao-c46756f63bfbacb3",
-    "title": "Di Canio attacca Leão: 'Non si adatta mai al gioco del Milan'",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-06T00:48:59.706373+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/05/192925227-d7cda450-656a-4a8d-a79a-affa08d646a9.jpg",
-    "occhiello": "DI CANIO CRITICA LEÃO",
-    "lead_preview": "Paolo Di Canio, ex attaccante del Milan e commentatore sportivo, ha criticato oggi, 6 aprile, l'atteggiamento del numero",
-    "tags": [
-      "di canio critica leão",
-      "leão milan",
-      "paolo di canio"
     ],
     "hero_eligible": true
   }
