@@ -1,5 +1,24 @@
 [
   {
+    "id": "4535c06d68ef3bcb",
+    "slug": "lautaro-costretto-a-fermarsi-linter-si-affanna-4535c06d68ef3bcb",
+    "title": "Calcio: Lautaro Martinez ko all'Olimpico, lesione al bicipite femorale in Inter-Roma",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-11T16:46:00.880785+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/00f64111daf241b2c63da49fecedc5c7d18fc14b/skysport/it/calcio/serie-a/2026/04/11/inter-infortunio-lautaro-martinez-infortunio-instagram/lautaro_storia_instagram_IPA_fotogramma.jpg",
+    "occhiello": "MARTINEZ KO DOPO LO SCONTRO CON CRISTANTE",
+    "lead_preview": "Lautaro Martinez, il capitano nerazzurro è uscito dal campo al 38’ del primo tempo della partita tra Inter e Roma, dispu",
+    "tags": [
+      "infortunio lautaro",
+      "inter-roma 2026",
+      "lautaro martinez ko"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "e0e3381aa199f56a",
     "slug": "ciclismo-augustin-seixas-vince-il-giro-dei-paesi-b-e0e3381aa199f56a",
     "title": "Augustin Seixas ha vinto il Giro dei Paesi Baschi il 11 aprile 2026, conquistand",
@@ -238,21 +257,6 @@
     "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2022/06/01/ospedale-maggiore-bologna.jpg",
     "occhiello": "",
     "lead_preview": "Bologna, 11 aprile 2026 — Non ce l’ha fatta il bambino di un anno e mezzo precipitato giovedì 9 aprile da una finestra a",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "4535c06d68ef3bcb",
-    "slug": "lautaro-costretto-a-fermarsi-linter-si-affanna-4535c06d68ef3bcb",
-    "title": "Lautaro costretto a fermarsi: l'inter si affanna.",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-11T16:46:00.880785+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/00f64111daf241b2c63da49fecedc5c7d18fc14b/skysport/it/calcio/serie-a/2026/04/11/inter-infortunio-lautaro-martinez-infortunio-instagram/lautaro_storia_instagram_IPA_fotogramma.jpg",
-    "occhiello": "LAUTARO COSTRETTO A FERMARSI: L'INTER SI AFFANNA.",
-    "lead_preview": "Nell'ultima partita contro la Roma, il capitano dell'Inter, Lautaro Martinez, ha subito un Infortunio alla gamba sinistr",
     "tags": [],
     "hero_eligible": true
   },
