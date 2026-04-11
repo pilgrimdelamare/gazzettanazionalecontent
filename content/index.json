@@ -1,5 +1,24 @@
 [
   {
+    "id": "9f213147663dad03",
+    "slug": "basket-boston-batte-new-york-112-106-con-tatum-da-9f213147663dad03",
+    "title": "Basket: Tatum trascina Boston a 112-106 sui Knicks con 32 punti al TD Garden",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-10T05:22:37.868656+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/a1e2bb7028036b2d4586964f94a75a51d82e1841/skysport/it/nba/video/2026/04/10/1089042_1775795709608_thumb_494.0000001_1775795756688.jpg",
+    "occhiello": "",
+    "lead_preview": "Jayson Tatum ha segnato 32 punti nella vittoria dei Boston Celtics contro i New York Knicks per 112-106, partita disputa",
+    "tags": [
+      "vittoria celtics",
+      "tatum 32 punti",
+      "knicks vs celtics"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "bdf08c0892bee52f",
     "slug": "25mila-case-vuote-a-milano-i-proprietari-non-le-af-bdf08c0892bee52f",
     "title": "25Mila case vuote a Milano e 8mila a Bologna per paura di sfratti infiniti",
@@ -2079,25 +2098,6 @@
       "jannik sinner atp",
       "monte-carlo tennis",
       "classifica atp 2026"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "9f213147663dad03",
-    "slug": "basket-boston-batte-new-york-112-106-con-tatum-da-9f213147663dad03",
-    "title": "Basket: Boston batte New York 112-106 con Tatum da 32 punti",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-10T05:22:37.868656+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/a1e2bb7028036b2d4586964f94a75a51d82e1841/skysport/it/nba/video/2026/04/10/1089042_1775795709608_thumb_494.0000001_1775795756688.jpg",
-    "occhiello": "NBA: NEW YORK SCONFITTA A BOSTON",
-    "lead_preview": "La squadra di New York è stata sconfitta a Boston con il punteggio di 112-106, il 10 aprile 2026, nel corso di una parti",
-    "tags": [
-      "nba boston",
-      "tatum 32 punti",
-      "new york sconfitta"
     ],
     "hero_eligible": true
   },
