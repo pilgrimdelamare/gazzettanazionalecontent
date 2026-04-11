@@ -1,5 +1,24 @@
 [
   {
+    "id": "52c6304c09e6116c",
+    "slug": "argentina-camera-approva-cambio-di-legge-per-sfrut-52c6304c09e6116c",
+    "title": "Argentina, Camera approva estrazione di litio e oro nei ghiacciai: 120 sì, 50 no",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-10T07:14:00.116525+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/10/085137098-9dd003a6-a684-4006-a3d6-9fb56b92cc08.jpg",
+    "occhiello": "ARGENTINA: APPROVATA LA MODIFICA DELLA \"LEY DE GLACIARES\" PER SFRUTTARE RISORSE PREZIOSE",
+    "lead_preview": "La Camera dei deputati Argentina ha approvato la modifica della \"ley de glaciares\" per permettere l'estrazione di litio,",
+    "tags": [
+      "estrazione litio argentina",
+      "ley de glaciares",
+      "camera deputati argentina"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "6918e6a890f87c19",
     "slug": "lola-t70-torna-in-16-esemplari-potenza-in-pista-e-6918e6a890f87c19",
     "title": "Lola Cars riprende la produzione del T70: 16 esemplari in arrivo da giugno",
@@ -1284,25 +1303,6 @@
     "occhiello": "FONDI SCOMPARSI DOPO IL VOTO",
     "lead_preview": "ProPublica, 9 aprile 2026 - i giornalisti del noto outlet investigativo americano hanno proclamato uno sciopero nazional",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "52c6304c09e6116c",
-    "slug": "argentina-camera-approva-cambio-di-legge-per-sfrut-52c6304c09e6116c",
-    "title": "Argentina: Camera approva cambio di legge per sfruttare risorse preziose",
-    "section": "esteri",
-    "priority": 6,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-10T07:14:00.116525+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/10/085137098-9dd003a6-a684-4006-a3d6-9fb56b92cc08.jpg",
-    "occhiello": "LA MOTOSEGA DI MILEI: APPROVATE LE ESTRAZIONI MINERARIE SUI GHIAZZIAI",
-    "lead_preview": "La Camera dei deputati Argentina ha dato l'ok alla modifica della \"ley de glaciares\" con lo scopo di estrarre litio, ram",
-    "tags": [
-      "cambio legge argentina",
-      "estrazioni minerarie",
-      "proteste argentina"
-    ],
     "hero_eligible": true
   },
   {
