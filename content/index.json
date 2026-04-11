@@ -1,5 +1,24 @@
 [
   {
+    "id": "a870ac2fceb2817e",
+    "slug": "secondo-lo-studio-tp-infinity-il-79-dei-giovani-st-a870ac2fceb2817e",
+    "title": "Il 79% dei giovani stranieri stima il Made in Italy, ma solo il 46% vuole lavorarci",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-10T09:09:17.172689+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/10/338da32436e7cc11e037e1758bce3de5.jpg",
+    "occhiello": "IL VELO DELLA DISILLUSIONE",
+    "lead_preview": "Il 79% dei giovani stranieri considera il Made in Italy un marchio di qualità, ma 1 su 3 non vuole lavorarci in Italia. ",
+    "tags": [
+      "made in italy",
+      "giovani stranieri",
+      "studio tp infinity"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "010586b7b3ee95aa",
     "slug": "eder-elogia-conte-a-sky-due-anni-e-mezzo-bellissim-010586b7b3ee95aa",
     "title": "Eder: con Conte sono stati due anni e mezzo bellissimi",
@@ -2278,25 +2297,6 @@
       "barcellona ricorso uefa",
       "var atletico-barcellona",
       "champions league 2026"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "a870ac2fceb2817e",
-    "slug": "secondo-lo-studio-tp-infinity-il-79-dei-giovani-st-a870ac2fceb2817e",
-    "title": "Il 79% dei giovani stranieri ama il Made in Italy, ma 1 su 3 rifiuta di lavorarci",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-10T09:09:17.172689+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/10/338da32436e7cc11e037e1758bce3de5.jpg",
-    "occhiello": "79% GIOVANI STRANIERI AMA IL MADE IN ITALY",
-    "lead_preview": "Lo studio Tp Infinity, diffuso il 10 aprile 2026, rivela che il 79% dei giovani stranieri considera il Made in Italy un ",
-    "tags": [
-      "made in italy",
-      "giovani stranieri",
-      "studio tp infinity"
     ],
     "hero_eligible": true
   },
