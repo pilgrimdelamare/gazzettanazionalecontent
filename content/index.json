@@ -1,5 +1,24 @@
 [
   {
+    "id": "d65a437982476145",
+    "slug": "gabriele-volontario-di-tor-bella-monaca-nominato-a-d65a437982476145",
+    "title": "Gabriele Esposito, volontario di Tor Bella Monaca, è il nuovo Alfiere del Tricolore",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Chiara Esposito",
+    "published_at": "2026-04-11T13:29:13.395777+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/11/298ecc6e318c08c0544677a5160173c6.jpg",
+    "occhiello": "",
+    "lead_preview": "Gabriele Esposito, volontario della Croce Rossa Italiana residente a Tor Bella Monaca, è Stato nominato Alfiere del Tric",
+    "tags": [
+      "alfiere del tricolore",
+      "gabriele esposito",
+      "tor bella monaca"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "af58aa1d7385c077",
     "slug": "28-adolescenti-premiati-da-mattarella-premiate-anc-af58aa1d7385c077",
     "title": "28 adolescenti premiati da mattarella: premiate anche le storie di cura e ambiente",
@@ -220,25 +239,6 @@
     "occhiello": "LA MISS OREGON 1987 GUIDA LEONARDO SPA",
     "lead_preview": "Tamara Fazzolari è stata nominata vicepresidente esecutivo di Leonardo il 10 aprile 2026. L'azienda di difesa Italiana h",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "d65a437982476145",
-    "slug": "gabriele-volontario-di-tor-bella-monaca-nominato-a-d65a437982476145",
-    "title": "Gabriele, volontario di Tor Bella Monaca, nominato Alfiere del Tricolore a Roma il 10 aprile",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-04-11T13:29:13.395777+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/11/298ecc6e318c08c0544677a5160173c6.jpg",
-    "occhiello": "UN VOLONTARIO DI TOR BELLA MONACA È ALFIERE",
-    "lead_preview": "Gabriele, volontario della Croce Rossa Italiana residente nel quartiere Romano di Tor Bella Monaca, è Stato nominato Alf",
-    "tags": [
-      "alfiere tricolore 2026",
-      "gabriele tor bella monaca",
-      "celebrazioni 25 aprile"
-    ],
     "hero_eligible": true
   },
   {
