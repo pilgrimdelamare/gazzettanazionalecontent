@@ -1,5 +1,24 @@
 [
   {
+    "id": "7c3520c426c88839",
+    "slug": "israele-sferra-attacco-aereo-contro-il-libano-300-7c3520c426c88839",
+    "title": "Israele bombarda Beirut e sud Libano: 357 morti in due ore di raid",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-10T05:52:15.204011+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/08/24307285_medium-1200x630.jpg",
+    "occhiello": "300 MORTI IN UN GIORNO A BEIRUT",
+    "lead_preview": "Israele ha sferrato un attacco aereo in Libano il 8 aprile 2026, uccidendo 357 persone secondo il ministero della Salute",
+    "tags": [
+      "bombardamenti israele libano",
+      "attacco aereo beirut",
+      "raid libano 2026"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "88cdc20b8ef79fd7",
     "slug": "ditonellapiaga-da-sanremo-2026-alla-fama-il-terzo-88cdc20b8ef79fd7",
     "title": "Ditonellapiaga schizza da 50mila a 2 milioni di ascolti dopo Sanremo",
@@ -1947,25 +1966,6 @@
       "caso carlo tritta",
       "intelligenza artificiale fake news",
       "condanna roma 2026"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "7c3520c426c88839",
-    "slug": "israele-sferra-attacco-aereo-contro-il-libano-300-7c3520c426c88839",
-    "title": "Israele sferra attacco aereo contro il Libano, 300 morti e migliaia di feriti",
-    "section": "esteri",
-    "priority": 6,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-10T05:52:15.204011+00:00",
-    "image_type": "image",
-    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/08/24307285_medium-1200x630.jpg",
-    "occhiello": "UN ATTACCO AEREO DI MASSA: ISRAELE SCUOTE IL LIBANO",
-    "lead_preview": "Israele ha sferrato un devastante attacco aereo contro il Libano, causando quasi 300 morti e migliaia di feriti. L'attac",
-    "tags": [
-      "attacco israele libano",
-      "guerra libano",
-      "crisi medio oriente"
     ],
     "hero_eligible": true
   },
