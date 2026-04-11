@@ -1,5 +1,20 @@
 [
   {
+    "id": "cb7f66907b4858b9",
+    "slug": "avvocato-verso-eredita-per-causa-di-27-anni-cb7f66907b4858b9",
+    "title": "Roberto Brozzo vince dopo 27 anni un contenzioso da 1,7 milioni di euro",
+    "section": "giustizia",
+    "priority": 5,
+    "journalist_firma": "Silvia Greco",
+    "published_at": "2026-04-11T10:47:25.313505+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/07/18/med-1200x630-31.jpg",
+    "occhiello": "",
+    "lead_preview": "Roberto Brozzo ha portato a termine nel 2026 una causa civile iniziata nel 1999, durata ventisette anni, tra decessi dei",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "45c4ac61b15d12b2",
     "slug": "doppio-omicidio-a-odessa-russia-si-copre-le-spalle-45c4ac61b15d12b2",
     "title": "Due morti a Odessa per drone iraniano durante le elezioni locali",
@@ -363,21 +378,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/1/31/04864b19ec922af9c301909775b87e7e.jpg",
     "occhiello": "FONDI SCOMPARSI DOPO IL VOTO",
     "lead_preview": "Il 11 aprile 2026, a Napoli, è stata trovata agonizzante una donna di 43 anni, Maria Rosa Esposito, e il suo compagno, G",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "cb7f66907b4858b9",
-    "slug": "avvocato-verso-eredita-per-causa-di-27-anni-cb7f66907b4858b9",
-    "title": "Avvocato verso eredità per causa di 27 anni",
-    "section": "giustizia",
-    "priority": 6,
-    "journalist_firma": "Silvia Greco",
-    "published_at": "2026-04-11T10:47:25.313505+00:00",
-    "image_type": "image",
-    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/07/18/med-1200x630-31.jpg",
-    "occhiello": "AVVOCATO VERSO EREDITÀ PER CAUSA DI 27 ANNI",
-    "lead_preview": "Roberto Brozzo ha seguito una causa civile dal 1999 al 2026, durata ventisette anni, tra decessi dei clienti, passaggi e",
     "tags": [],
     "hero_eligible": true
   },
