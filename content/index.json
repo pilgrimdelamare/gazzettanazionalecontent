@@ -1,5 +1,24 @@
 [
   {
+    "id": "88d65b2059b41616",
+    "slug": "rugby-italia-in-campo-alle-1325-a-grenoble-contro-88d65b2059b41616",
+    "title": "Rugby: Italia femminile sfida la capolista Francia a Grenoble sabato alle 13.25",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-11T07:03:36.325044+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/fb620b3e039d0475359ebc31ce673adc98ff6ad3/skysport/it/rugby/2026/04/11/italia-francia-sei-nazioni-femminile-dove-vedere-tv-streaming/fra_ita_rugbyok.jpg",
+    "occhiello": "ITALIA A RISCHIO IN SEI NAZIONI FEMMINILE",
+    "lead_preview": "La squadra femminile Italiana di rugby affronta la Francia sabato 11 aprile alle 13.25 a Grenoble nel corso del Sei Nazi",
+    "tags": [
+      "sei nazioni femminile",
+      "italia rugby femminile",
+      "francia-italia rugby"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "5bad0c6f35f67873",
     "slug": "17000-soldati-mobilitati-nel-golfo-5bad0c6f35f67873",
     "title": "17.000 Soldati schierati nel Golfo Persico da Usa, Ue e Paesi del Golfo per crisi a Hormuz",
@@ -318,25 +337,6 @@
     "occhiello": "",
     "lead_preview": "Due abbeveratoi monumentali di epoca romana sono stati scoperti giovedì 10 aprile 2026 nel centro di Milano, durante i l",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "88d65b2059b41616",
-    "slug": "rugby-italia-in-campo-alle-1325-a-grenoble-contro-88d65b2059b41616",
-    "title": "Rugby: Italia in campo alle 13.25 a Grenoble contro la Francia nel Sei Nazioni femminile",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-11T07:03:36.325044+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/fb620b3e039d0475359ebc31ce673adc98ff6ad3/skysport/it/rugby/2026/04/11/italia-francia-sei-nazioni-femminile-dove-vedere-tv-streaming/fra_ita_rugbyok.jpg",
-    "occhiello": "ITALIA A GRENOBLE: FRANCIA-SFIDA IMPEGNATIVA",
-    "lead_preview": "Il Sei Nazioni femminile si è aperto sabato 11 aprile con tre partite in diretta su Sky Sport Arena e NOW. L'Italia affr",
-    "tags": [
-      "sei nazioni femminile",
-      "italia-francia rugby",
-      "azzurre a grenoble"
-    ],
     "hero_eligible": true
   },
   {
