@@ -1,5 +1,24 @@
 [
   {
+    "id": "569732cae6229316",
+    "slug": "basket-hawks-batte-cavaliers-a-atlanta-con-124-102-569732cae6229316",
+    "title": "Basket: Hawks batte Cavaliers a Atlanta con 124-102",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-11T06:50:02.693948+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/8996244b9b1ae51905950de7e1bbb5223f9da0cf/skysport/it/nba/video/2026/04/11/1089266_1775877668642_thumb_494.0000001_1775886284093.jpg",
+    "occhiello": "ATLANTA-CLEVELAND 124-102: LA CAVALCATA DEI HAWKS",
+    "lead_preview": "Ieri sera, i Hawks di Atlanta hanno battuto i Cavaliers di Cleveland per 124-102 nella NBA. La partita è stata giocata a",
+    "tags": [
+      "hawks cavaliers",
+      "nba 2025",
+      "atlanta hawks"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c8f3b8eb88e3cffe",
     "slug": "basket-il-new-york-strappa-una-vittoria-netta-112-c8f3b8eb88e3cffe",
     "title": "Basket: Il New York strappa una vittoria netta 112-95",
@@ -9245,23 +9264,6 @@
     "tags": [
       "pisa calcio",
       "d'angelo pisa"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "f469e75290285cc5",
-    "slug": "pakistan-propone-riapertura-stretto-di-hormuz-in-1-f469e75290285cc5",
-    "title": "Pakistan propone comitato navale per Hormuz",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-06T07:54:20.647433+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/6/f5613558e294c6d4ac8d8d9f72530e58.jpg",
-    "occhiello": "IL PAKISTAN PROPONE RIAPERTURA DELLO STRETTO DI HORMUZ",
-    "lead_preview": "Il Pakistan ha inviato un piano per la riapertura dello Stretto di Hormuz entro 15 giorni a USA e Iran, secondo Reuters.",
-    "tags": [
-      "stretto di hormuz"
     ],
     "hero_eligible": true
   }
