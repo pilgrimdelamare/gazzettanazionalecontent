@@ -1,5 +1,24 @@
 [
   {
+    "id": "67b4b5db8ed69060",
+    "slug": "milioni-di-italiani-usano-ancora-password-come-pas-67b4b5db8ed69060",
+    "title": "17Mila italiani usano 'Admin' come password, dati su 1M di utenti",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-04-10T04:35:10.542271+00:00",
+    "image_type": "image",
+    "image_url": "https://media-assets.wired.it/photos/69c68af9f85ce9da29b0032b/16:9/w_1280,c_limit/163124577",
+    "occhiello": "ADMIN, PASSWORD E 123456: LE TRE CHIAVI PIÙ USATE DAGLI ITALIANI",
+    "lead_preview": "Nordpass ha pubblicato una classifica delle password più usate in Italia, con \"Admin\", \"password\" e \"123456\" in testa. S",
+    "tags": [
+      "password italia",
+      "admin password",
+      "nordpass ricerca"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "9b059052adb91a16",
     "slug": "artemis-ii-6-lampi-sulla-luna-astronauti-vedono-im-9b059052adb91a16",
     "title": "Orion registra 6 lampi sulla Luna durante il flyby ad Aprile",
@@ -1580,25 +1599,6 @@
       "laboratorio cinema",
       "job film days",
       "torino cinema"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "67b4b5db8ed69060",
-    "slug": "milioni-di-italiani-usano-ancora-password-come-pas-67b4b5db8ed69060",
-    "title": "Admin, password e 123456: le tre chiavi più usate dagli italiani per proteggere i Conti",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-04-10T04:35:10.542271+00:00",
-    "image_type": "image",
-    "image_url": "https://media-assets.wired.it/photos/69c68af9f85ce9da29b0032b/16:9/w_1280,c_limit/163124577",
-    "occhiello": "MILIONI DI ITALIANI USANO ANCORA 'PASSWORD' COME PASSWORD",
-    "lead_preview": "Nordpass ha pubblicato la classifica delle password più usate in Italia, con \"admin\", \"password\" e \"123456\" in testa. La",
-    "tags": [
-      "password più usate",
-      "sicurezza informatica",
-      "nordpass 2026"
     ],
     "hero_eligible": true
   },
