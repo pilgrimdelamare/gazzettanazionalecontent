@@ -1,5 +1,24 @@
 [
   {
+    "id": "1c1a1e78252b403b",
+    "slug": "guelleh-rieletto-al-978-a-gibuti-e-il-sesto-mandat-1c1a1e78252b403b",
+    "title": "Guelleh rieletto al 97,8% a Gibuti: è il sesto mandato consecutivo",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-11T04:14:28.589353+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2024/9/1/73e45a4ff479806cd4d68066188470d8.jpg",
+    "occhiello": "ISMAÏL OMAR GUELLEH RICONFERMATO CON IL 97,81%",
+    "lead_preview": "Ismaïl Omar Guelleh è stato rieletto presidente del Gibuti con il 97,81% dei voti, secondo i risultati ufficiali diffusi",
+    "tags": [
+      "rielezione guelleh",
+      "elezioni gibuti 2026",
+      "guelleh sesto mandato"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "76cb253d779fa44c",
     "slug": "niulinx-raccoglie-38-milioni-da-cdp-e-a2a-per-lanc-76cb253d779fa44c",
     "title": "Niulinx raccoglie 38 milioni da Cdp e A2a per lanciare robosharing in Europa",
@@ -9210,24 +9229,6 @@
     "occhiello": "LEBRON JAMES SFIORA TRIPLE DOPPIA",
     "lead_preview": "Lebron James ha segnato 30 punti, con 15 assist e 9 rimbalzi, nella partita contro i Dallas mavericks, il 6 aprile 2026,",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "03243f554a0abb81",
-    "slug": "la-decisione-del-comune-di-padova-e-stata-presa-se-03243f554a0abb81",
-    "title": "Padova cancella campo di concentramento fascista senza avviso",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-04-05T14:13:55.739767+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/11663049/pexels-photo-11663049.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "CAMPO FASCISTA DEMOLITO",
-    "lead_preview": "Padova ha avviato la demolizione del campo di concentramento fascista Dosché il 5 aprile 2026, senza consultare Anpi e A",
-    "tags": [
-      "campo dosche",
-      "padova fascista"
-    ],
     "hero_eligible": true
   }
 ]
