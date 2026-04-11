@@ -1,5 +1,24 @@
 [
   {
+    "id": "04d02c3386d20350",
+    "slug": "francia-batte-italia-40-7-a-grenoble-dominio-bleue-04d02c3386d20350",
+    "title": "Francia batte Italia 40-7 a Grenoble: dominio Bleues nella ripresa",
+    "section": "esteri",
+    "priority": 3,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-11T15:19:50.530014+00:00",
+    "image_type": "flickr",
+    "image_url": "https://live.staticflickr.com/65535/55200613818_77493a9cb6_b.jpg",
+    "occhiello": "",
+    "lead_preview": "François Ratier ha esordito da neo-tecnico della Francia femminile con una vittoria schiacciante: sabato 11 aprile 2026,",
+    "tags": [
+      "francia-italia rugby",
+      "francois ratier",
+      "rugby femminile 2026"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "239236c132945681",
     "slug": "15-del-campo-destinato-a-negozi-e-case-239236c132945681",
     "title": "15% del campo destinato a negozi e case",
@@ -9208,25 +9227,6 @@
       "crisi energetica cairo",
       "chiusura negozi cairo",
       "illuminazione pubblica cairo"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "69935413474d9d1e",
-    "slug": "harry-trudeau-e-eileen-gu-in-seggiovia-assente-meg-69935413474d9d1e",
-    "title": "Harry a Whistler con Trudeau e Gu, nessuna traccia di Meghan",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Sergio Mancini",
-    "published_at": "2026-04-06T10:00:21.819717+00:00",
-    "image_type": "image",
-    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/06/Prince-Harry-Eileen-Gu-Justin-Truedau-040426-a4b2d90796ae4e0d9d5ca59569e75b4c-1200x630.jpg",
-    "occhiello": "HARRY E TRUDEAU IN SEGGIOVIA CON EILEEN GU",
-    "lead_preview": "Il principe Harry è stato fotografato il 6 aprile 2026 su una seggiovia nella località sciistica di Whistler, in British",
-    "tags": [
-      "principe harry",
-      "whistler",
-      "trudeau"
     ],
     "hero_eligible": true
   }
