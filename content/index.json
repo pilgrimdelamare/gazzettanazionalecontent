@@ -1,5 +1,20 @@
 [
   {
+    "id": "cb7f66907b4858b9",
+    "slug": "avvocato-verso-eredita-per-causa-di-27-anni-cb7f66907b4858b9",
+    "title": "Avvocato verso eredità per causa di 27 anni",
+    "section": "giustizia",
+    "priority": 6,
+    "journalist_firma": "Silvia Greco",
+    "published_at": "2026-04-11T10:47:25.313505+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/07/18/med-1200x630-31.jpg",
+    "occhiello": "AVVOCATO VERSO EREDITÀ PER CAUSA DI 27 ANNI",
+    "lead_preview": "Roberto Brozzo ha seguito una causa civile dal 1999 al 2026, durata ventisette anni, tra decessi dei clienti, passaggi e",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "88d65b2059b41616",
     "slug": "rugby-italia-in-campo-alle-1325-a-grenoble-contro-88d65b2059b41616",
     "title": "Rugby: Italia femminile sfida la capolista Francia a Grenoble sabato alle 13.25",
@@ -9232,25 +9247,6 @@
       "garattini milano",
       "farmaci bambini",
       "sperimentazione farmacologica"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "bcedb98d65ef61d5",
-    "slug": "il-business-del-graceful-aging-vale-37-miliardi-bcedb98d65ef61d5",
-    "title": "12 Startup europee puntano sul 'side straw', mercato anti-age a 3,7 miliardi",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-06T09:30:04.012916+00:00",
-    "image_type": "image",
-    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/03/side-straw-bere-cannuccia-tik-tok-foto-cover.jpg",
-    "occhiello": "",
-    "lead_preview": "Leonardo Grimaldi ha pubblicato il 6 aprile 2026 su Il Fatto Quotidiano un’analisi sul fenomeno del \"side straw\", la teo",
-    "tags": [
-      "side straw",
-      "mercato anti-age",
-      "leonardo grimaldi"
     ],
     "hero_eligible": true
   }
