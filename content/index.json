@@ -1,5 +1,20 @@
 [
   {
+    "id": "e0e3381aa199f56a",
+    "slug": "ciclismo-augustin-seixas-vince-il-giro-dei-paesi-b-e0e3381aa199f56a",
+    "title": "Augustin Seixas ha vinto il Giro dei Paesi Baschi il 11 aprile 2026, conquistand",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-11T16:45:25.169117+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/10/4b1b4f33ba45d62d1127da706db6845f.jpg",
+    "occhiello": "",
+    "lead_preview": "Augustin Seixas ha vinto il Giro dei Paesi Baschi il 11 aprile 2026, conquistando il primo successo in una corsa a tappe",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "c990931e83c9bbeb",
     "slug": "elisa-rizzo-e-la-figlia-di-14-anni-sofia-vitale-so-c990931e83c9bbeb",
     "title": "Elisa Rizzo e la figlia di 14 anni, Sofia Vitale, sono state trovate senza vita ",
@@ -239,25 +254,6 @@
     "occhiello": "LAUTARO COSTRETTO A FERMARSI: L'INTER SI AFFANNA.",
     "lead_preview": "Nell'ultima partita contro la Roma, il capitano dell'Inter, Lautaro Martinez, ha subito un Infortunio alla gamba sinistr",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "e0e3381aa199f56a",
-    "slug": "ciclismo-augustin-seixas-vince-il-giro-dei-paesi-b-e0e3381aa199f56a",
-    "title": "Ciclismo: Augustin Seixas vince il Giro dei Paesi Baschi 2026 con 38 secondi di vantaggio",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-11T16:45:25.169117+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/10/4b1b4f33ba45d62d1127da706db6845f.jpg",
-    "occhiello": "IL TRIONFO DI UN 23ENNE SULLE RAMPE BASCHE",
-    "lead_preview": "Augustin Seixas ha vinto il Giro dei Paesi Baschi il 11 aprile 2026, conquistando la prima corsa a tappe da professionis",
-    "tags": [
-      "giro paesi baschi 2026",
-      "vittoria seixas",
-      "ciclismo 2026"
-    ],
     "hero_eligible": true
   },
   {
