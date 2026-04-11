@@ -1,5 +1,20 @@
 [
   {
+    "id": "96988aa6f085807f",
+    "slug": "la-gigantesca-mireille-scava-il-tunnel-caterina-12-96988aa6f085807f",
+    "title": "Mireille, la tbm da 1200 tonnellate, scava il primo tunnel della linea ad alta velocità",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-11T05:15:29.630536+00:00",
+    "image_type": "image",
+    "image_url": "https://i2.res.24o.it/images2010/S24/Documenti/2026/04/11/Immagini/Ritagli/Abbattimento%20diaframma%20Galleria%20Caterina-U33462757017NAw-1440x752@IlSole24Ore-Web.jpeg?r=1170x507",
+    "occhiello": "MIREILLE, LA TBM DA 1200 TONNELLATE, SCAVA IL PRIMO TUNNEL DELLA LINEA AD ALTA VELOCITÀ",
+    "lead_preview": "Mireille, la tunnel boring machine da 1200 tonnellate, ha completato il primo tunnel della linea ferroviaria ad alta vel",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "5bad0c6f35f67873",
     "slug": "17000-soldati-mobilitati-nel-golfo-5bad0c6f35f67873",
     "title": "17.000 soldati mobilitati nel golfo",
@@ -655,25 +670,6 @@
       "arresto provenzano",
       "pizzini provenzano",
       "latitanza corleone"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "96988aa6f085807f",
-    "slug": "la-gigantesca-mireille-scava-il-tunnel-caterina-12-96988aa6f085807f",
-    "title": "La gigantesca \"Mireille\" scava il tunnel \"Caterina\": 1200 tonnellate di TBM",
-    "section": "economia",
-    "priority": 6,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-11T05:15:29.630536+00:00",
-    "image_type": "image",
-    "image_url": "https://i2.res.24o.it/images2010/S24/Documenti/2026/04/11/Immagini/Ritagli/Abbattimento%20diaframma%20Galleria%20Caterina-U33462757017NAw-1440x752@IlSole24Ore-Web.jpeg?r=1170x507",
-    "occhiello": "LA PRIMA GALLERIA DI SALERNO-REGGIO CALABRIA È COMPLETATA",
-    "lead_preview": "La prima galleria della linea ferroviaria ad alta velocità Salerno-Reggio Calabria, la \"Caterina\", è stata completata do",
-    "tags": [
-      "tunnel salerno reggio calabria",
-      "ferrovia alta velocità",
-      "salerno reggio calabria"
     ],
     "hero_eligible": true
   },
