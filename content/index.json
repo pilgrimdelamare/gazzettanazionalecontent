@@ -1,5 +1,23 @@
 [
   {
+    "id": "45c4ac61b15d12b2",
+    "slug": "doppio-omicidio-a-odessa-russia-si-copre-le-spalle-45c4ac61b15d12b2",
+    "title": "Odessa, 2 morti in attacco russo durante elezioni locali",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-11T04:45:03.498514+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/6/18ebbf181cf8827d9922ed5bf230ffd1.jpg",
+    "occhiello": "DOPPIO OMICIDIO A ODESSA, LA RUSSIA SI COPRE LE SPALLE",
+    "lead_preview": "Due persone sono state uccise in un attacco russo a Odessa, città Ucraina sul Mar Nero, lo scorso 11 aprile 2026, mentre",
+    "tags": [
+      "attacco odessa",
+      "elezioni ucraine"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "d57dfef9c185cf86",
     "slug": "basket-wembanyama-segna-record-in-nba-ora-e-uffici-d57dfef9c185cf86",
     "title": "Basket: Wembanyama segna record in NBA, ora è ufficiale",
@@ -647,25 +665,6 @@
       "dipendenza smartphone",
       "uso iphone",
       "comportamento digitale"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "45c4ac61b15d12b2",
-    "slug": "doppio-omicidio-a-odessa-russia-si-copre-le-spalle-45c4ac61b15d12b2",
-    "title": "Doppio omicidio a Odessa: Russia si copre le spalle",
-    "section": "esteri",
-    "priority": 7,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-11T04:45:03.498514+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/6/18ebbf181cf8827d9922ed5bf230ffd1.jpg",
-    "occhiello": "ATTACCO RUSSO A ODESSA",
-    "lead_preview": "Due persone sono state uccise in un attacco russo a Odessa, città Ucraina sul Mar Nero, lo scorso 11 aprile 2026, mentre",
-    "tags": [
-      "omicidio odessa",
-      "attacco russo",
-      "guerra ucraina"
     ],
     "hero_eligible": true
   },
