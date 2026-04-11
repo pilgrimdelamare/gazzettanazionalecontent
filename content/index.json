@@ -1,5 +1,24 @@
 [
   {
+    "id": "acc7de7860cd99f1",
+    "slug": "pierantozzi-vince-il-premio-valle-daosta-con-lo-sb-acc7de7860cd99f1",
+    "title": "Pierantozzi vince il Premio Valle d’Aosta con 'Lo sbilico' ad Aosta",
+    "section": "cultura",
+    "priority": 6,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-11T18:18:43.364203+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/11/ab94daf80eda0fdb7ce315cfa33a6a1d.jpg",
+    "occhiello": "",
+    "lead_preview": "Pierantozzi ha vinto il Premio letterario Valle d’Aosta con il romanzo Lo sbilico, battendo in finale Teresa Ciabatti e ",
+    "tags": [
+      "premio valle d'aosta",
+      "pierantozzi vince",
+      "lo sbilico"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "537c392231839b9e",
     "slug": "magyar-dal-13-aprile-lungheria-tornera-una-democra-537c392231839b9e",
     "title": "Magyar, 'dal 13 aprile l'ungheria tornerà una democrazia'",
@@ -9195,23 +9214,6 @@
       "spionaggio petro",
       "denuncia de la espriella",
       "intercettazioni colombia 2022"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "51491ae1d84ec7ec",
-    "slug": "verdiana-bonaccorti-il-doloroso-ricordo-della-madr-51491ae1d84ec7ec",
-    "title": "Enrica Bonaccorti muore a 76 anni",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Chiara Esposito",
-    "published_at": "2026-04-06T08:31:28.445537+00:00",
-    "image_type": "image",
-    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/06/Screenshot-2026-04-06-alle-10.08.51-1200x630.png",
-    "occhiello": "",
-    "lead_preview": "Enrica Bonaccorti, attrice e presentatrice televisiva italiana, è morta il 5 aprile 2026 all’età di 76 anni. La figlia V",
-    "tags": [
-      "morte enrica bonaccorti"
     ],
     "hero_eligible": true
   }
