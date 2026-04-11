@@ -1,5 +1,23 @@
 [
   {
+    "id": "ffad3f90f858464b",
+    "slug": "calcio-bartesaghi-porta-in-braccio-bimba-paralizza-ffad3f90f858464b",
+    "title": "Calcio: Bartesaghi porta in braccio bimba paralizzata da San Siro, salta rito avversari",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-11T22:39:33.593835+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/85d7142899c7e08926481592bb9394f3d6199199/skysport/it/calcio/serie-a/video/2026/04/11/1089414_1775926444234_thumb_494.0000001_1775941184658.jpg",
+    "occhiello": "BARTESAGHI SALVA LA BAMBINA E SALTA IL RITO",
+    "lead_preview": "Alessandro Bartesaghi ha portato in braccio la bambina troppo spaventata per camminare sul prato di San Siro sabato 11 a",
+    "tags": [
+      "bartesaghi san siro",
+      "bimba paralizzata san siro"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c76a8dacc0e8103c",
     "slug": "la-vittoria-di-kelly-e-lerrore-fatale-di-carnesecc-c76a8dacc0e8103c",
     "title": "La vittoria di kelly e l'errore fatale di carnesecchi",
@@ -9184,25 +9202,6 @@
     "tags": [
       "attacchi in iran",
       "di maio esteri"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "6373105027974f5d",
-    "slug": "calcio-bologna-batte-ginevra-3-1-in-amichevole-bar-6373105027974f5d",
-    "title": "Calcio: Barrow tris nel 3-1 del Bologna al Ginevra in amichevole",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-05T16:28:40.941114+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/33605804/pexels-photo-33605804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "BARROW IN RETE CON TRE GOL A CASTELDEBOLE",
-    "lead_preview": "Barrow ha segnato tre gol nella vittoria del Bologna per 3-1 contro il Ginevra, amichevole del 5 aprile 2026 al centro s",
-    "tags": [
-      "barrow tris",
-      "bologna ginevra",
-      "amichevole casteldebole"
     ],
     "hero_eligible": true
   }
