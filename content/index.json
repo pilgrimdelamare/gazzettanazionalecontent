@@ -1,5 +1,24 @@
 [
   {
+    "id": "58fc483be8000f18",
+    "slug": "frate-silvestri-e-lodo-guenzi-ospiti-fissi-di-para-58fc483be8000f18",
+    "title": "Frate Silvestri e Lodo Guenzi entrano nel cast fisso di Paradise su Rai 2 dal",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-10T14:31:08.233114+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/9/8cb2fca855ad68cb46e714192fbd7629.jpg",
+    "occhiello": "FONDI SCOMPARSI DOPO IL VOTO",
+    "lead_preview": "Il 10 aprile 2026, saranno ospiti fissi del programma Paradise, insieme a Bonaga e Comaschi, a partire dalla stagione 20",
+    "tags": [
+      "paradise rai 2",
+      "frate silvestri",
+      "lodo guenzi"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "a0b91dcc657fcb27",
     "slug": "sette-insegnanti-agrigentini-privati-della-cattedr-a0b91dcc657fcb27",
     "title": "Sette insegnanti di Fondi rimossi da scuole di Agrigento dopo elezioni",
@@ -942,21 +961,6 @@
     "image_url": "https://sport.sky.it/assets/images/10bf1763ae9f197b086972f5614918f0dbd96904/skysport/it/calcio/nazionale/video/2026/04/10/1089126_1775823792877_thumb_494.0000001_1775823984595.jpg",
     "occhiello": "",
     "lead_preview": "Franco Baldini guiderà la Nazionale Italiana nelle due amichevoli programmate a Coverciano il 26 maggio contro il Lussem",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "58fc483be8000f18",
-    "slug": "frate-silvestri-e-lodo-guenzi-ospiti-fissi-di-para-58fc483be8000f18",
-    "title": "Fondi scomparsi dopo il voto: lodo guenzi e frate silestri su rai 2",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-10T14:31:08.233114+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/9/8cb2fca855ad68cb46e714192fbd7629.jpg",
-    "occhiello": "FONDI SCOMPARSI DOPO IL VOTO: LODO GUENZI E FRATE SILESTRI SU RAI 2",
-    "lead_preview": "Frate Giampaolo Silvestri e Lodo Guenzi, insieme a Bonaga e Comaschi, saranno ospiti fissi del programma Paradise in ond",
     "tags": [],
     "hero_eligible": true
   },
