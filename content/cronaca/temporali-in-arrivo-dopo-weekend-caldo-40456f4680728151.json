@@ -1,0 +1,60 @@
+{
+  "id": "40456f4680728151",
+  "slug": "temporali-in-arrivo-dopo-weekend-caldo-40456f4680728151",
+  "title": "Temporali in arrivo dopo weekend caldo",
+  "titles": [
+    "TEMPORALI IN ARRIVO DOPO WEEKEND CALDO",
+    "TEMPORALI IN ARRIVO DOPO WEEKEND CALDO",
+    "TEMPORALI IN ARRIVO DOPO WEEKEND CALDO"
+  ],
+  "title_winner": null,
+  "section": "cronaca",
+  "occhiello": "TEMPORALI IN ARRIVO DOPO WEEKEND CALDO",
+  "lead": "Temperature oltre la media fino a domenica 12 aprile 2026, poi un fronte instabile scenderà dal Nord Europa fino all'Italia, portando piogge e temporali. Il meteorologo Mattia Gussoni de iLMeteo.it conferma la parentesi stabile e calda nel weekend.",
+  "corpo1": "Il bacino del Mediterraneo sarà abbracciato da un promontorio del vasto anticiclone africano, un sistema di alta pressione che dal deserto del Sahara si spingerà fino al cuore dell'Europa. Questa configurazione garantirà un'atmosfera estremamente stabile, disturbata unicamente da qualche innocua nube di passaggio tra la Liguria e i settori tirrenici.\n\nIl vero protagonista sarà il caldo: nel corso di domenica ci si aspettano Temperature massime fino a 27°C in città come Firenze, Roma e Palermo, mentre in alcune aree della Sardegna si toccheranno addirittura i 30°C. Con l'aumentare del caldo cresce pure il rischio di eventi estremi.",
+  "corpo2": "In meteorologia, un accumulo di calore si traduce sempre in un aumento della probabilità di temporali. Da domenica 12 aprile è atteso un fronte temporalesco che darà il via a una fase decisamente più dinamica e perturbata.\n\nQuesto fronte instabile scenderà dal Nord Europa, portando con sé piogge e temporali su gran parte dell'Italia. Le regioni settentrionali saranno le prime a essere colpite, seguite da quelle centrali e infine da quelle meridionali. La fase calda e stabile lascerà così spazio a una situazione meteorologica più variabile e instabile, con Temperature in calo rispetto ai picchi del weekend.\n\nA pagare il prezzo di questo cambiamento saranno soprattutto le attività all'aperto e i piani per le vacanze di Pasquetta. Dopo un weekend di pieno relax, gli italiani dovranno nuovamente fare i Conti con l'incertezza del Meteo e la possibilità di dover cambiare i propri programmi all'ultimo minuto.",
+  "article_type": "standard",
+  "cards": [],
+  "journalist": {
+    "id": "roberto_neri_01",
+    "firma": "Roberto Neri",
+    "sezione": "cronaca"
+  },
+  "published_at": "2026-04-11T00:44:33.382260+00:00",
+  "image": {
+    "type": "feed_image",
+    "url": "https://www.repstatic.it/content/nazionale/img/2026/04/10/223350063-176f9706-109f-48d1-a4ac-81d80cbf908e.jpg",
+    "source": "Repubblica Cronaca",
+    "credit": "Repubblica Cronaca",
+    "license": "editorial"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"TEMPORALI IN ARRIVO DOPO WEEKEND CALDO\",\n  \"description\": \"Temperature oltre la media fino a domenica 12 aprile 2026, poi un fronte instabile scenderà dal Nord Europa fino all'Italia, portando piogge e temporali. Il meteorologo Mattia Gussoni de iLMeteo.it conferma la parentesi stabile e calda nel weekend.\",\n  \"articleBody\": \"Temperature oltre la media fino a domenica 12 aprile 2026, poi un fronte instabile scenderà dal Nord Europa fino all'Italia, portando piogge e temporali. Il meteorologo Mattia Gussoni de iLMeteo.it conferma la parentesi stabile e calda nel weekend. Il bacino del Mediterraneo sarà abbracciato da un promontorio del vasto anticiclone africano, un sistema di alta pressione che dal deserto del Sahara si spingerà fino al cuore dell'Europa. Questa configurazione garantirà un'atmosfera estremamente stabile, disturbata unicamente da qualche innocua nube di passaggio tra la Liguria e i settori tirrenici.\\n\\nIl vero protagonista sarà il caldo: nel corso di domenica ci si aspettano Temperature massime fino a 27°C in città come Firenze, Roma e Palermo, mentre in alcune aree della Sardegna si toccheranno addirittura i 30°C. Con l'aumentare del caldo cresce pure il rischio di eventi estremi. In meteorologia, un accumulo di calore si traduce sempre in un aumento della probabilità di temporali. Da domenica 12 aprile è atteso un fronte temporalesco che darà il via a una fase decisamente più dinamica e perturbata.\\n\\nQuesto fronte instabile scenderà dal Nord Europa, portando con sé piogge e temporali su gran parte dell'Italia. Le regioni settentrionali saranno le prime a essere colpite, seguite da quelle centrali e infine da quelle meridionali. La fase calda e stabile lascerà così spazio a una situazione meteorologica più variabile e instabile, con Temperature in calo rispetto ai picchi del weekend.\\n\\nA pagare il prezzo di questo cambiamento saranno soprattutto le attività all'aperto e i piani per le vacanze di Pasquetta. Dopo un weekend di pieno relax, gli italiani dovranno nuovamente fare i Conti con l'incertezza del Meteo e la possibilità di dover cambiare i propri programmi all'ultimo minuto.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Roberto Neri\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-11T00:44:33.382260+00:00\",\n  \"dateModified\": \"2026-04-11T00:44:33.382260+00:00\",\n  \"url\": \"https://lentemattutina.it/cronaca/40456f4680728151\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cronaca/40456f4680728151\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.repstatic.it/content/nazionale/img/2026/04/10/223350063-176f9706-109f-48d1-a4ac-81d80cbf908e.jpg\",\n    \"creditText\": \"Repubblica Cronaca\"\n  }\n}",
+  "priority": 5,
+  "source": "Repubblica Cronaca",
+  "source_type": "competitor",
+  "original_url": "https://www.repubblica.it/cronaca/2026/04/11/news/previsioni_meteo_weekend_anticiclone_nuova_settimana_pioggia-425276146/?rss",
+  "related": [
+    {
+      "title": "Trenitalia chiude la Roma-Firenze il 12 e 13 aprile 2026: bus sostitutivi in arrivo",
+      "url": "/cronaca/stop-ferroviario-roma-firenze-f61a5acf614d41b5",
+      "id": "f61a5acf614d41b5",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2024/10/2/a4d70ed46085ccbff500d38d8abc7798.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Milano e Torino a 27°C a Pasquetta, caldo da maggio al Nord",
+      "url": "/cronaca/27c-a-milano-e-torino-pasqua-da-record-con-tempera-9bbd78f7c74111da",
+      "id": "9bbd78f7c74111da",
+      "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/07/222902465-358c94f5-4226-4410-af45-8ed66c013877.jpg",
+      "image_type": "feed_image"
+    },
+    {
+      "title": "Artemis ii, la capsula orion pronta a entrare nell'atmosfera",
+      "url": "/cronaca/artemis-ii-la-capsula-orion-pronta-a-entrare-nella-0171f016dec0890a",
+      "id": "0171f016dec0890a",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/11/426a9069dfb51b4d6a9e30a8f54f6064.jpg",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": true
+}
