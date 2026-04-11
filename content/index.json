@@ -1,5 +1,20 @@
 [
   {
+    "id": "2f6d4b02581dfa20",
+    "slug": "pio-esposito-giochera-titolare-al-fianco-di-thuram-2f6d4b02581dfa20",
+    "title": "Esposito titolare con thuram domenica",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-11T13:06:10.081887+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/0c6379c5cd66280f318458e4e488f163644d8406/skysport/it/calcio/champions-league/2025/09/18/ajax-inter-champions-league-giornata-1-commento/thuram_esposito_inter_getty.jpg",
+    "occhiello": "ESPOSITO TITOLARE CON THURAM DOMENICA",
+    "lead_preview": "Francesco Pio Esposito giocherà titolare al fianco di Marcus Thuram nell’attacco dell’Inter domenica 12 aprile alle 20.4",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "2e55b31f0a9efa93",
     "slug": "bologna-11-aprile-2026-non-ce-lha-fatta-il-bambino-2e55b31f0a9efa93",
     "title": "Bambino di un anno e mezzo cade da finestra a Bologna",
@@ -503,21 +518,6 @@
     "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/11/vance.jpg",
     "occhiello": "",
     "lead_preview": "71 membri della delegazione iraniana sono atterrati a Islamabad nella mattina del 11 aprile 2026 per avviare colloqui di",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "2f6d4b02581dfa20",
-    "slug": "pio-esposito-giochera-titolare-al-fianco-di-thuram-2f6d4b02581dfa20",
-    "title": "Pio Esposito giocherà titolare al fianco di Thuram nell’attacco dell’Inter domen",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-11T13:06:10.081887+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/0c6379c5cd66280f318458e4e488f163644d8406/skysport/it/calcio/champions-league/2025/09/18/ajax-inter-champions-league-giornata-1-commento/thuram_esposito_inter_getty.jpg",
-    "occhiello": "",
-    "lead_preview": "Pio Esposito giocherà titolare al fianco di Thuram nell’attacco dell’Inter domenica 12 aprile alle 20.45 allo stadio di ",
     "tags": [],
     "hero_eligible": true
   },
