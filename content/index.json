@@ -1,5 +1,24 @@
 [
   {
+    "id": "48c12e92ea38d5bd",
+    "slug": "lorenzo-mariani-nuovo-ad-di-leonardo-cingolani-esc-48c12e92ea38d5bd",
+    "title": "Lorenzo Mariani è il nuovo ad di Leonardo, prende il posto di Cingolani dal 10 aprile",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Chiara Esposito",
+    "published_at": "2026-04-10T04:51:41.863675+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2022/02/17/cingolani-1200.jpg",
+    "occhiello": "",
+    "lead_preview": "Lorenzo Mariani è il nuovo amministratore delegato di Leonardo, in sostituzione di Roberto Cingolani, designato dal Teso",
+    "tags": [
+      "nuovo ad leonardo",
+      "nomina mariani",
+      "successione cingolani"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "b504ffe7f92de0c4",
     "slug": "wexner-ed-epstein-12-miliardi-di-dollari-pubblici-b504ffe7f92de0c4",
     "title": "Amazon, Meta e Google investono 1,2 miliardi in data center in Ohio",
@@ -1499,25 +1518,6 @@
     "tags": [
       "re artu",
       "film fantasy"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "48c12e92ea38d5bd",
-    "slug": "lorenzo-mariani-nuovo-ad-di-leonardo-cingolani-esc-48c12e92ea38d5bd",
-    "title": "Leonardo cambia AD: ecco chi sostituirà Cingolani",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Chiara Esposito",
-    "published_at": "2026-04-10T04:51:41.863675+00:00",
-    "image_type": "image",
-    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2022/02/17/cingolani-1200.jpg",
-    "occhiello": "LORENO MARIANI NUOVO AD DI LEONARDO",
-    "lead_preview": "Il Tesoro ha indicato Lorenzo Mariani come nuovo amministratore delegato di Leonardo, sostituendo Roberto Cingolani, un ",
-    "tags": [
-      "nomina leonardo",
-      "nuovo ad leonardo",
-      "successione cingolani"
     ],
     "hero_eligible": true
   },
