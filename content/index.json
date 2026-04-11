@@ -1,5 +1,20 @@
 [
   {
+    "id": "00bd5cffb450d52e",
+    "slug": "basket-lebron-guida-i-lakers-al-101-73-sui-suns-co-00bd5cffb450d52e",
+    "title": "LeBron James, 38 anni, ha guidato i Los Angeles Lakers alla vittoria per 101-73 ",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-11T11:36:34.306806+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/97f4b604dace422d286add6278f72e1332a5e524/skysport/it/nba/video/2026/04/11/james-nba-los-angeles-lakers-video-1089303/LeBron_James_Getty_Los_Angeles_Lakers.jpg",
+    "occhiello": "",
+    "lead_preview": "LeBron James, 38 anni, ha guidato i Los Angeles Lakers alla vittoria per 101-73 contro i Phoenix Suns nella notte del 11",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "239236c132945681",
     "slug": "15-del-campo-destinato-a-negozi-e-case-239236c132945681",
     "title": "Padova, 15% del campo fascista diventa edifici: appartamenti e negozi sul suolo memoriale",
@@ -646,25 +661,6 @@
       "scontro gasperini ranieri",
       "eliminazione roma europa league",
       "baruffa allenatori roma"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "00bd5cffb450d52e",
-    "slug": "basket-lebron-guida-i-lakers-al-101-73-sui-suns-co-00bd5cffb450d52e",
-    "title": "Basket: LeBron guida i Lakers a +28 con 28 punti e 12 assist, dominio sui Suns",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-11T11:36:34.306806+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/97f4b604dace422d286add6278f72e1332a5e524/skysport/it/nba/video/2026/04/11/james-nba-los-angeles-lakers-video-1089303/LeBron_James_Getty_Los_Angeles_Lakers.jpg",
-    "occhiello": "LEBRON TRASCINA I LAKERS CON 28 PUNTI",
-    "lead_preview": "LeBron James, 38 anni, ha guidato i Los Angeles Lakers alla vittoria per 101-73 contro i Phoenix Suns nella notte del 11",
-    "tags": [
-      "lebron lakers",
-      "lakers vs suns",
-      "nba 2026"
     ],
     "hero_eligible": true
   },
