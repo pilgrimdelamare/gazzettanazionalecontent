@@ -1,5 +1,24 @@
 [
   {
+    "id": "b4bdc9f3614035cf",
+    "slug": "boston-vince-26-punti-a-new-orleans-b4bdc9f3614035cf",
+    "title": "Boston vince 26 punti a New Orleans",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-11T06:49:38.842657+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/e7bff57369623ec2d08830d8c3b7153970cccc39/skysport/it/nba/video/2026/04/11/1089269_1775879662553_thumb_494.0000001_1775886303640.jpg",
+    "occhiello": "NBA HIGHLIGHTS: BOSTON-NEW ORLEANS 144-118",
+    "lead_preview": "OCCHIELLOIl Boston ha vinto la partita di ieri sera contro New Orleans con un risultato di 144-118. LEADIl Boston ha vin",
+    "tags": [
+      "boston-new orleans",
+      "nba highlights",
+      "vittoria boston"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "d6d3300042acab7f",
     "slug": "la-charlotte-cade-sconfitta-per-18-punti-d6d3300042acab7f",
     "title": "La Charlotte cade sconfitta per 18 punti",
@@ -9240,24 +9259,6 @@
     "occhiello": "OROSCOPO DI PASQUETTA PUBBLICATO SU IL FATTO QUOTIDIANO",
     "lead_preview": "Il Fatto Quotidiano ha pubblicato un oroscopo dedicato alla giornata di Pasquetta sul proprio sito il 6 aprile 2026. La ",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "1fa37a4964fc2346",
-    "slug": "piantedosi-ad-aquila-309-vittime-del-terremoto-la-1fa37a4964fc2346",
-    "title": "Piantedosi all'Aquila: 17 anni dopo, ferita ancora aperta",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Sergio Mancini",
-    "published_at": "2026-04-06T07:38:37.355689+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/4/5/be28499b7c97f8088facdf9a7aaea019.jpg",
-    "occhiello": "PIANTEDOSI RICORDA L'AQUILA: 309 MORTI E UNA FERITA APERTA",
-    "lead_preview": "Matteo Piantedosi, ministro dell'Interno, ha commemorato i 17 anni dal terremoto dell'Aquila durante una visita nella ci",
-    "tags": [
-      "terremoto dell'aquila",
-      "piantedosi all'aquila"
-    ],
     "hero_eligible": true
   }
 ]
