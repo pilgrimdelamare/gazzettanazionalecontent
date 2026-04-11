@@ -1,5 +1,24 @@
 [
   {
+    "id": "91c95f2ceee1a03e",
+    "slug": "centro-giustizia-minorile-dellaquila-sabato-11-apr-91c95f2ceee1a03e",
+    "title": "A L’Aquila, un minore colpisce educatore con telo da boxe al miele: frattura al naso",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Chiara Esposito",
+    "published_at": "2026-04-11T17:32:01.637521+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/11/e0b182c137c9c54b4be9229c8af2fa08.jpg",
+    "occhiello": "COLPO DI MIELE TRA I MINORI",
+    "lead_preview": "Il Centro di Giustizia minorile dell’Aquila alle 17.30 di sabato 11 aprile 2026 ha registrato un’aggressione: un ragazzo",
+    "tags": [
+      "aggressione l'aquila",
+      "colpo di miele",
+      "centro giustizia minorile"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "75fb69d830359838",
     "slug": "una-madre-su-due-a-lyon-traccia-in-tempo-reale-i-f-75fb69d830359838",
     "title": "A Lyon il 51% delle madri traccia i figli under 25 con app di geolocalizzazione",
@@ -258,21 +277,6 @@
       "gol zappa 67",
       "serie a 2026"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "91c95f2ceee1a03e",
-    "slug": "centro-giustizia-minorile-dellaquila-sabato-11-apr-91c95f2ceee1a03e",
-    "title": "Centro Giustizia minorile dell’Aquila, sabato 11 aprile 2026, il personale ha se",
-    "section": "cronaca",
-    "priority": 6,
-    "journalist_firma": "Chiara Esposito",
-    "published_at": "2026-04-11T17:32:01.637521+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/11/e0b182c137c9c54b4be9229c8af2fa08.jpg",
-    "occhiello": "",
-    "lead_preview": "Centro Giustizia minorile dell’Aquila, sabato 11 aprile 2026, il personale ha segnalato un episodio di agitazione tra i ",
-    "tags": [],
     "hero_eligible": true
   },
   {
