@@ -1,5 +1,24 @@
 [
   {
+    "id": "baaf563a6242ade1",
+    "slug": "calcio-chelsea-e-manchester-city-si-affrontano-nei-baaf563a6242ade1",
+    "title": "Calcio: City-Chelsea, 180 milioni in palio",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-10T10:50:15.444905+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/1/5/27da144044c1b9762948c514f236e016.jpg",
+    "occhiello": "GUARDIOLA CONTRO IL SUO PASSATO, 90 MILIONI IN PALIO",
+    "lead_preview": "Manchester City e Chelsea si affrontano nei quarti di Champions League sorteggiati il 10 aprile 2026. In palio 90 milion",
+    "tags": [
+      "champions league",
+      "city-chelsea",
+      "guardiola"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "2da9853ea8d540bf",
     "slug": "calcio-malen-trascina-la-roma-con-una-tripletta-in-2da9853ea8d540bf",
     "title": "Calcio: Roma vince 3-0",
@@ -704,25 +723,6 @@
     "occhiello": "",
     "lead_preview": "Patrycja Sobanska, modella polacca di 26 anni, ha scoperto di avere un tumore al collo dopo aver notato una somiglianza ",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "baaf563a6242ade1",
-    "slug": "calcio-chelsea-e-manchester-city-si-affrontano-nei-baaf563a6242ade1",
-    "title": "Calcio: Chelsea e Manchester City si affrontano nei quarti, incasso da 90 milioni in palio",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-10T10:50:15.444905+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/1/5/27da144044c1b9762948c514f236e016.jpg",
-    "occhiello": "CHELSEA-CITY DIVIDE L’EUROPA",
-    "lead_preview": "Il 10 aprile 2026 il sorteggio dei quarti di Champions League ha abbinato Chelsea e Manchester City, con Pep Guardiola a",
-    "tags": [
-      "chelsea-city",
-      "champions league 2026",
-      "guardiola-arsenal"
-    ],
     "hero_eligible": true
   },
   {
