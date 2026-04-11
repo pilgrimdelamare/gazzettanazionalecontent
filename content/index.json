@@ -1,5 +1,20 @@
 [
   {
+    "id": "569732cae6229316",
+    "slug": "basket-hawks-batte-cavaliers-a-atlanta-con-124-102-569732cae6229316",
+    "title": "Hawks batte cavaliers con 124-102",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-11T06:50:02.693948+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/8996244b9b1ae51905950de7e1bbb5223f9da0cf/skysport/it/nba/video/2026/04/11/1089266_1775877668642_thumb_494.0000001_1775886284093.jpg",
+    "occhiello": "HAWKS BATTE CAVALIERS CON 124-102",
+    "lead_preview": "La squadra di Atlanta ha vinto la partita contro i Cleveland Cavaliers nella NBA ieri sera a Atlanta con un punteggio di",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "b4bdc9f3614035cf",
     "slug": "boston-vince-26-punti-a-new-orleans-b4bdc9f3614035cf",
     "title": "Boston vince 26 punti a new orleans",
@@ -365,25 +380,6 @@
       "nba",
       "basket",
       "wembanyama"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "569732cae6229316",
-    "slug": "basket-hawks-batte-cavaliers-a-atlanta-con-124-102-569732cae6229316",
-    "title": "Basket: Hawks batte Cavaliers a Atlanta con 124-102",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-11T06:50:02.693948+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/8996244b9b1ae51905950de7e1bbb5223f9da0cf/skysport/it/nba/video/2026/04/11/1089266_1775877668642_thumb_494.0000001_1775886284093.jpg",
-    "occhiello": "ATLANTA-CLEVELAND 124-102: LA CAVALCATA DEI HAWKS",
-    "lead_preview": "Ieri sera, i Hawks di Atlanta hanno battuto i Cavaliers di Cleveland per 124-102 nella NBA. La partita è stata giocata a",
-    "tags": [
-      "hawks cavaliers",
-      "nba 2025",
-      "atlanta hawks"
     ],
     "hero_eligible": true
   },
