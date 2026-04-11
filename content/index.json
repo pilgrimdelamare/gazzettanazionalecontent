@@ -1,5 +1,24 @@
 [
   {
+    "id": "529b984f18c644c0",
+    "slug": "diaz-canel-non-mi-dimetto-529b984f18c644c0",
+    "title": "Díaz-Canel rifiuta le dimissioni e resta al comando di Cuba",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-10T07:12:51.962519+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2024/5/8/2afff77441b07b6af845897f9078b03c.jpg",
+    "occhiello": "",
+    "lead_preview": "Miguel Díaz-canel, presidente di Cuba, in un'intervista alla rete televisiva americana nbc trasmessa il 10 aprile 2026, ",
+    "tags": [
+      "diaz-canel cuba",
+      "presidenza cuba",
+      "intervista nbc diaz-canel"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "ab3e78718ec0c979",
     "slug": "yen-giapponese-crolla-del-25-contro-il-dollaro-usa-ab3e78718ec0c979",
     "title": "Yen giapponese perde il 2,5% sul dollaro in seduta Tokyo",
@@ -1387,25 +1406,6 @@
     "occhiello": "FONDI SCOMPARSI DOPO IL VOTO",
     "lead_preview": "ProPublica, 9 aprile 2026 - i giornalisti del noto outlet investigativo americano hanno proclamato uno sciopero nazional",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "529b984f18c644c0",
-    "slug": "diaz-canel-non-mi-dimetto-529b984f18c644c0",
-    "title": "Díaz-Canel: 'Non mi dimetto'",
-    "section": "esteri",
-    "priority": 6,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-10T07:12:51.962519+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2024/5/8/2afff77441b07b6af845897f9078b03c.jpg",
-    "occhiello": "MI DIMETTERÒ SOLTANTO IL PROSSIMO MARZO",
-    "lead_preview": "Il presidente di Cuba, Miguel Díaz-Canel, in una intervista alla rete televisiva americana NBC, ha affermato di non vole",
-    "tags": [
-      "diaz-canel dimissioni",
-      "cuba nbc",
-      "presidente cuba"
-    ],
     "hero_eligible": true
   },
   {
