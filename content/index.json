@@ -1,5 +1,24 @@
 [
   {
+    "id": "a6a6c025dbfcfc76",
+    "slug": "senato-ripresentata-la-proposta-di-lavorare-senza-a6a6c025dbfcfc76",
+    "title": "Tancredi ripresenta la legge che autorizza 180mila stranieri al lavoro senza permesso",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-10T05:52:33.982365+00:00",
+    "image_type": "wikimedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/2007-09-03_-_Iowa-_Labor_Day_%281322398935%29.jpg",
+    "occhiello": "",
+    "lead_preview": "Sabato 1° maggio, durante la seduta dell’Assemblea nazionale, il senatore Alessandro Tancredi ha ripresentato la propost",
+    "tags": [
+      "legge tancredi",
+      "lavoro stranieri",
+      "permesso lavoro"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "0d379e75a8e0ec33",
     "slug": "rfi-sospende-treni-roma-firenze-ecco-i-giorni-del-0d379e75a8e0ec33",
     "title": "Treni veloci Roma-Fiorenza fermi 3 giorni per upgrade tecnologico nel tratto Orvieto-Settebagni",
@@ -1910,25 +1929,6 @@
       "caso carlo tritta",
       "intelligenza artificiale fake news",
       "condanna roma 2026"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "a6a6c025dbfcfc76",
-    "slug": "senato-ripresentata-la-proposta-di-lavorare-senza-a6a6c025dbfcfc76",
-    "title": "Senato: ripresentata la proposta di lavorare senza permesso di Lavoro",
-    "section": "esteri",
-    "priority": 4,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-10T05:52:33.982365+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/2007-09-03_-_Iowa-_Labor_Day_%281322398935%29.jpg",
-    "occhiello": "FONDI SCOMPARSI DURANTE IL DEBATO SUL LAVORO.",
-    "lead_preview": "Il 1° maggio, la discussione sull'autorizzazione per i lavoratori di lavorare senza permesso di Lavoro è tornata all'Ass",
-    "tags": [
-      "lavoro senza permesso",
-      "senato 2025",
-      "fondi lavoro"
     ],
     "hero_eligible": true
   },
