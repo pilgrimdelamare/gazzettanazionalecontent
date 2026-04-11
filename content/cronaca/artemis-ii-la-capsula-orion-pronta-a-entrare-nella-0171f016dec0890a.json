@@ -1,0 +1,59 @@
+{
+  "id": "0171f016dec0890a",
+  "slug": "artemis-ii-la-capsula-orion-pronta-a-entrare-nella-0171f016dec0890a",
+  "title": "Artemis ii, la capsula orion pronta a entrare nell'atmosfera",
+  "titles": [
+    "ARTEMIS II, LA CAPSULA ORION PRONTA A ENTRARE NELL'ATMOSFERA",
+    "ARTEMIS II, LA CAPSULA ORION PRONTA A ENTRARE NELL'ATMOSFERA",
+    "ARTEMIS II, LA CAPSULA ORION PRONTA A ENTRARE NELL'ATMOSFERA"
+  ],
+  "title_winner": null,
+  "section": "cronaca",
+  "occhiello": "ARTEMIS II, LA CAPSULA ORION PRONTA A ENTRARE NELL'ATMOSFERA",
+  "lead": "La capsula Orion, proveniente dalla missione Artemis II, è pronta a entrare nell'atmosfera terrestre dopo dieci giorni di volo intorno alla Luna. L'atterraggio è previsto alle due di stanotte, dopo che la navicella ha superato il rientro a 2.700 gradi.",
+  "corpo1": "L'atterraggio della capsula Orion è previsto alle due di stanotte, dopo dieci giorni di missione per la Nasa. Gli astronauti, al momento impegnati a riordinare tutti gli oggetti della navicella, si apprestano a riportare con sé un patrimonio di immagini dal lato nascosto del satellite. La discesa della navicella si è conclusa con l'ammaraggio nel Pacifico, dopo un tuffo in 8 minuti ad alta tensione. Lo scudo termico della capsula dovrà proteggere gli astronauti dall'attrito con l'aria. La missione Artemis II, organizzata dalla Nasa per compiere un sorvolo della Luna e osservare il suo lato nascosto, si chiude dopo dieci giorni di volo. La navicella Orion ha superato il rientro a 2.700 gradi.",
+  "corpo2": "La capsula Orion, progettata per il volo spaziale, ha affrontato una Serie di sfide per raggiungere la Luna e tornare sulla Terra. La missione Artemis II è un passo importante per la Nasa verso la riattivazione del programma di esplorazione lunare. La capsula ha raccolto un patrimonio di informazioni che potranno aiutare la Nasa a migliorare le sue capacità di esplorazione spaziale. Tuttavia, la missione Artemis II non è priva di rischi, e la Nasa dovrà affrontare le sfide tecniche per assicurarsi che la capsula sia in grado di funzionare correttamente nella sua missione successiva. A pagare per le problematiche potrebbero essere gli astronauti stessi e la reputazione della Nasa, che affronta una sfida storica per riattivare il programma di esplorazione lunare.",
+  "article_type": "standard",
+  "cards": [],
+  "journalist": {
+    "id": "roberto_neri_01",
+    "firma": "Roberto Neri",
+    "sezione": "cronaca"
+  },
+  "published_at": "2026-04-11T00:25:28.911011+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://www.ansa.it/webimages/img_1129x635/2026/4/11/426a9069dfb51b4d6a9e30a8f54f6064.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"ARTEMIS II, LA CAPSULA ORION PRONTA A ENTRARE NELL'ATMOSFERA\",\n  \"description\": \"La capsula Orion, proveniente dalla missione Artemis II, è pronta a entrare nell'atmosfera terrestre dopo dieci giorni di volo intorno alla Luna. L'atterraggio è previsto alle due di stanotte, dopo che la navicella ha superato il rientro a 2.700 gradi.\",\n  \"articleBody\": \"La capsula Orion, proveniente dalla missione Artemis II, è pronta a entrare nell'atmosfera terrestre dopo dieci giorni di volo intorno alla Luna. L'atterraggio è previsto alle due di stanotte, dopo che la navicella ha superato il rientro a 2.700 gradi. L'atterraggio della capsula Orion è previsto alle due di stanotte, dopo dieci giorni di missione per la Nasa. Gli astronauti, al momento impegnati a riordinare tutti gli oggetti della navicella, si apprestano a riportare con sé un patrimonio di immagini dal lato nascosto del satellite. La discesa della navicella si è conclusa con l'ammaraggio nel Pacifico, dopo un tuffo in 8 minuti ad alta tensione. Lo scudo termico della capsula dovrà proteggere gli astronauti dall'attrito con l'aria. La missione Artemis II, organizzata dalla Nasa per compiere un sorvolo della Luna e osservare il suo lato nascosto, si chiude dopo dieci giorni di volo. La navicella Orion ha superato il rientro a 2.700 gradi. La capsula Orion, progettata per il volo spaziale, ha affrontato una Serie di sfide per raggiungere la Luna e tornare sulla Terra. La missione Artemis II è un passo importante per la Nasa verso la riattivazione del programma di esplorazione lunare. La capsula ha raccolto un patrimonio di informazioni che potranno aiutare la Nasa a migliorare le sue capacità di esplorazione spaziale. Tuttavia, la missione Artemis II non è priva di rischi, e la Nasa dovrà affrontare le sfide tecniche per assicurarsi che la capsula sia in grado di funzionare correttamente nella sua missione successiva. A pagare per le problematiche potrebbero essere gli astronauti stessi e la reputazione della Nasa, che affronta una sfida storica per riattivare il programma di esplorazione lunare.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Roberto Neri\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-11T00:25:28.911011+00:00\",\n  \"dateModified\": \"2026-04-11T00:25:28.911011+00:00\",\n  \"url\": \"https://lentemattutina.it/cronaca/0171f016dec0890a\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cronaca/0171f016dec0890a\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.ansa.it/webimages/img_1129x635/2026/4/11/426a9069dfb51b4d6a9e30a8f54f6064.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 5,
+  "source": "ANSA Cronaca",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/cronaca/2026/04/11/artemis-ii-la-capsula-orion-pronta-a-entrare-nellatmosfera_9104f93c-9aba-46e5-8373-603c25c74a67.html",
+  "related": [
+    {
+      "title": "Carmen Russo potrebbe entrare al Grande Fratello",
+      "url": "/cronaca/carlo-russo-al-grande-fratello-b84a88ecd1a22ecc",
+      "id": "b84a88ecd1a22ecc",
+      "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2022/10/08/Carmen-Russo-1200--1200x630.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Artemis II: 406.000 km da Terra",
+      "url": "/cronaca/artemis-ii-ha-scattato-le-prime-foto-del-tramonto-9c2a6ad8688ccc99",
+      "id": "9c2a6ad8688ccc99",
+      "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/08/Senza-titolo.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Spiderman reale chiamato da sony",
+      "url": "/cronaca/spiderman-reale-chiamato-da-sony-618b12e1e5ff6f46",
+      "id": "618b12e1e5ff6f46",
+      "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/10/225230340-6ba49e23-e08f-45cc-a1bf-027c26031d3d.jpg",
+      "image_type": "feed_image"
+    }
+  ],
+  "hero_eligible": true
+}
