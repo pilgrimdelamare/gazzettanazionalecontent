@@ -1,5 +1,24 @@
 [
   {
+    "id": "563e15d011736ada",
+    "slug": "meloni-conferma-bonus-bebe-2026-1000-euro-per-fami-563e15d011736ada",
+    "title": "Meloni conferma Bonus bebè 2026: 1000 euro per famiglie fino a 40mila Isee",
+    "section": "economia",
+    "priority": 4,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-11T03:43:02.429001+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/10/220858920-d3d2eb2d-4532-4166-9578-ba9a2e5cdec8.jpg",
+    "occhiello": "",
+    "lead_preview": "Giorgia Meloni ha confermato il Bonus bebè da 1000 euro nella manovra finanziaria 2026, destinato a tutte le famiglie co",
+    "tags": [
+      "bonus bebè 2026",
+      "manovra 2026",
+      "meloni famiglie"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "8ab6df72b40f95c6",
     "slug": "16-anarchici-prosciolti-a-bologna-per-100mila-euro-8ab6df72b40f95c6",
     "title": "Bologna, 16 anarchici assolti per i danni in piazza Maggiore: il Comune perde il risarcimento di 98.700 euro",
@@ -9200,24 +9219,6 @@
     "occhiello": "COPENAGHEN RICONFERMATA CITTÀ PIÙ FELICE",
     "lead_preview": "Copenaghen, 6 aprile 2026 – la capitale danese è stata confermata come la città più felice del mondo per il secondo anno",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "b8aac6254aefbdd6",
-    "slug": "calcio-calhanoglu-sfonda-record-con-gol-da-50-metr-b8aac6254aefbdd6",
-    "title": "Calcio: Calhanoglu segna da 50 metri contro la Roma",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-05T22:29:07.136845+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/b850ad45b592be862cf7946f682e7c2cd1d63102/skysport/it/calcio/serie-a/video/2026/04/06/1087950_1775425800988_thumb_494.0000001_1775426469309.jpg",
-    "occhiello": "CALHANOGLU SEGNA DA 50 METRI",
-    "lead_preview": "Hakan Calhanoglu ha segnato un gol da 50 metri all'8' del primo tempo della partita contro la Roma a San Siro",
-    "tags": [
-      "calhanoglu",
-      "roma inter"
-    ],
     "hero_eligible": true
   }
 ]
