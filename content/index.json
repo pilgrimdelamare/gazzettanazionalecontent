@@ -1,5 +1,22 @@
 [
   {
+    "id": "1d7e569702d9ea1f",
+    "slug": "golf-mcilroy-domina-con--12-sei-colpi-di-vantaggio-1d7e569702d9ea1f",
+    "title": "Golf: McIlroy domina con -12, sei colpi di vantaggio",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-11T01:26:42.099794+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/14fc71ce334ae1613ce2e27596e794b5281164be/skysport/it/altri-sport/golf/video/2026/04/11/1089263_1775868837477_thumb_494.0000001_1775869283249.jpg",
+    "occhiello": "MCILROY DISTANZIA TUTTI: SEI COLPI DI VANTAGGIO ALL'AUGUSTA MASTERS",
+    "lead_preview": "Rory McIlroy ha creato una voragine nel secondo giro dell'Augusta Masters 2026, chiudendo sette colpi sotto il par per u",
+    "tags": [
+      "augusta masters 2026"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "14449c472e28de5a",
     "slug": "la-cultura-fa-pulizia-dei-casi-giudiziari-14449c472e28de5a",
     "title": "Giuseppe Brindisi riporta in scena il caso Chiara Poggi a Napoli, Teatro esaurito in poche settimane",
@@ -9101,25 +9118,6 @@
       "zelensky assad damasco",
       "vertice siria ucraina",
       "mediazione turca siria"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "7dd0105d9300e491",
-    "slug": "cinque-progetti-indigeni-lanciati-in-brasile-per-p-7dd0105d9300e491",
-    "title": "5 Popoli indigeni creano un Fondo da 14,8 milioni di reais per proteggere 11,3 milioni di ettari in Amazzonia",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-05T14:12:19.323100+00:00",
-    "image_type": "flickr",
-    "image_url": "https://live.staticflickr.com/65535/55184891217_b20af0303d_b.jpg",
-    "occhiello": "INDIGENI BRASILIANI LANCIANO FONDO SOVRANO",
-    "lead_preview": "Xikrin, Kayapó, Munduruku, Ashaninka e Yawanawá hanno annunciato il 5 aprile 2026 la creazione di un Fondo sovrano da 14",
-    "tags": [
-      "fondo sovrano indigeni",
-      "protezione amazzonia",
-      "popoli indigeni brasiliani"
     ],
     "hero_eligible": true
   }
