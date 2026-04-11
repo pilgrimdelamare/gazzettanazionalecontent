@@ -1,5 +1,24 @@
 [
   {
+    "id": "329a88bcf5a9efdb",
+    "slug": "il-prezzo-del-gas-crolla-a-4490-euro-ad-amsterdam-329a88bcf5a9efdb",
+    "title": "Gas scende a 44,90 euro a megawattora ad Amsterdam",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-10T06:38:34.096053+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2023/3/14/c5fd2c0e3daa3db53418d6d1d3b9976e.jpg",
+    "occhiello": "GAS A 44,90 EURO AL MWH AD AMSTERDAM",
+    "lead_preview": "I prezzi del gas scendono a 44,90 euro al megawattora ad Amsterdam, con un calo del 2,8% rispetto al giorno precedente, ",
+    "tags": [
+      "prezzo gas amsterdam",
+      "tft gas",
+      "crollo prezzo gas"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "32a1f0bb50594055",
     "slug": "melania-trump-ai-minimi-con-il-29-di-gradimento-un-32a1f0bb50594055",
     "title": "Melania Trump al 29% di gradimento: crollo storico per una First Lady",
@@ -1140,25 +1159,6 @@
       "tennis",
       "monte carlo",
       "sinner"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "329a88bcf5a9efdb",
-    "slug": "il-prezzo-del-gas-crolla-a-4490-euro-ad-amsterdam-329a88bcf5a9efdb",
-    "title": "Gas a 44,90 euro al MWh ad Amsterdam, calo del 2,8% inaspettato sul TTF",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-10T06:38:34.096053+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2023/3/14/c5fd2c0e3daa3db53418d6d1d3b9976e.jpg",
-    "occhiello": "CALO DEL 2,8% SUL GAS A AMSTERDAM",
-    "lead_preview": "Il prezzo del gas è sceso a 44,90 euro al megawattora il 10 aprile 2026 ad Amsterdam, con un calo del 2,8% rispetto alla",
-    "tags": [
-      "gas ttf 2026",
-      "prezzo gas amsterdam",
-      "calo gas 2026"
     ],
     "hero_eligible": true
   },
