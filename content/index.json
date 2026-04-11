@@ -1,5 +1,24 @@
 [
   {
+    "id": "6ff26a7d131aa96d",
+    "slug": "provenzano-trovato-con-450mila-euro-e-352-pizzini-6ff26a7d131aa96d",
+    "title": "Provenzano trovato con 450mila euro e 352 pizzini a Corleone",
+    "section": "giustizia",
+    "priority": 6,
+    "journalist_firma": "Silvia Greco",
+    "published_at": "2026-04-11T05:31:20.501487+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2023/1/16/237c917e8703e638108a25f6ff87a6b0.jpg",
+    "occhiello": "ARMA NEL CASOLARE DI PROVENZANO",
+    "lead_preview": "Bernardo Provenzano, il 10 aprile 2006, fu arrestato nel suo casolare di Corleone, dopo quarantadue anni di latitanza. A",
+    "tags": [
+      "arresto provenzano",
+      "pizzini provenzano",
+      "latitanza corleone"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "96988aa6f085807f",
     "slug": "la-gigantesca-mireille-scava-il-tunnel-caterina-12-96988aa6f085807f",
     "title": "La gigantesca \"Mireille\" scava il tunnel \"Caterina\": 1200 tonnellate di TBM",
@@ -9221,23 +9240,6 @@
     "tags": [
       "coppa del mondo sci",
       "sci alpinismo 2026"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "12b3da1394f6d59f",
-    "slug": "calcio-inter-juve-milan-e-palermo-in-amichevole-a-12b3da1394f6d59f",
-    "title": "Calcio: 4 squadre a Perth",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-05T14:42:11.436722+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Inter_milan_academy.jpg",
-    "occhiello": "Il calcio italiano sbarca in Australia",
-    "lead_preview": "Il Football Club Internazionale Milano, la Juventus, il Milan e il Palermo sono pronti per sfidarsi in tre amichevoli a ",
-    "tags": [
-      "amichevoli perth"
     ],
     "hero_eligible": true
   }
