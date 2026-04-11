@@ -1,5 +1,20 @@
 [
   {
+    "id": "acc7de7860cd99f1",
+    "slug": "pierantozzi-vince-il-premio-valle-daosta-con-lo-sb-acc7de7860cd99f1",
+    "title": "Pierantozzi vince con lo sbilico",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-11T18:18:43.364203+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/11/ab94daf80eda0fdb7ce315cfa33a6a1d.jpg",
+    "occhiello": "PIERANTOZZI VINCE CON LO SBILICO",
+    "lead_preview": "Pierantozzi ha vinto il Premio letterario Valle d’Aosta con il romanzo Lo sbilico, battendo in finale Teresa Ciabatti, s",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "d57dfef9c185cf86",
     "slug": "basket-wembanyama-segna-record-in-nba-ora-e-uffici-d57dfef9c185cf86",
     "title": "Basket: Wembanyama supera le 64 partite con i Spurs, il limite anti-infortunio è saltato",
@@ -249,25 +264,6 @@
       "motogp 2027",
       "ogura yamaha",
       "mercato piloti"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "acc7de7860cd99f1",
-    "slug": "pierantozzi-vince-il-premio-valle-daosta-con-lo-sb-acc7de7860cd99f1",
-    "title": "Pierantozzi vince il Premio Valle d’Aosta con 'Lo sbilico' ad Aosta",
-    "section": "cultura",
-    "priority": 6,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-04-11T18:18:43.364203+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/11/ab94daf80eda0fdb7ce315cfa33a6a1d.jpg",
-    "occhiello": "",
-    "lead_preview": "Pierantozzi ha vinto il Premio letterario Valle d’Aosta con il romanzo Lo sbilico, battendo in finale Teresa Ciabatti e ",
-    "tags": [
-      "premio valle d'aosta",
-      "pierantozzi vince",
-      "lo sbilico"
     ],
     "hero_eligible": true
   },
