@@ -1,5 +1,24 @@
 [
   {
+    "id": "365e603ecbc265f4",
+    "slug": "anna-de-rosa-e-il-figlio-di-cinque-anni-sono-stati-365e603ecbc265f4",
+    "title": "Incendio a Scampia: salvati madre e figlio, casa inagibile in via delle Palme",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Chiara Esposito",
+    "published_at": "2026-04-11T07:25:18.013926+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2023/11/24/bd088aed56d82991a35722f4a6c058f4.jpg",
+    "occhiello": "",
+    "lead_preview": "Anna De Rosa e il figlio di cinque anni sono stati tratti in salvo la mattina del 11 aprile 2026 da un incendio divampat",
+    "tags": [
+      "incendio scampia",
+      "salvataggio via delle palme",
+      "anna de rosa incendio"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "9c19aaccd900b76a",
     "slug": "anfisa-smentisce-simico-la-cabinovia-di-socrepes-n-9c19aaccd900b76a",
     "title": "Anfisa boccia il ministro: cabinovia Socrepes non pronta, mancano i collaudi",
@@ -279,21 +298,6 @@
     "image_url": "https://media-assets.wired.it/photos/69d8f0c6f81a13e6d03c126c/16:9/w_1280,c_limit/Low-Res_Lystro%20egg%20color%20final%20.jpg",
     "occhiello": "SCOPERTO IL PRIMO PICCIOLO DI LYSTROSAURUS IN SUDAFRICA",
     "lead_preview": "Un neonato fossile di Lystrosaurus, risalente a 250 milioni di anni fa, è Stato ritrovato in Sudafrica. La scoperta conf",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "365e603ecbc265f4",
-    "slug": "anna-de-rosa-e-il-figlio-di-cinque-anni-sono-stati-365e603ecbc265f4",
-    "title": "Anna De Rosa e il figlio di cinque anni sono stati tratti in salvo la mattina de",
-    "section": "cronaca",
-    "priority": 6,
-    "journalist_firma": "Chiara Esposito",
-    "published_at": "2026-04-11T07:25:18.013926+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2023/11/24/bd088aed56d82991a35722f4a6c058f4.jpg",
-    "occhiello": "",
-    "lead_preview": "Anna De Rosa e il figlio di cinque anni sono stati tratti in salvo la mattina del 11 aprile 2026 da un incendio divampat",
     "tags": [],
     "hero_eligible": true
   },
