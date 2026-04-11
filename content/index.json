@@ -1,5 +1,20 @@
 [
   {
+    "id": "d6d3300042acab7f",
+    "slug": "la-charlotte-cade-sconfitta-per-18-punti-d6d3300042acab7f",
+    "title": "Basket: Detroit batte Charlotte 118-100 e chiude i playoff ai Hornets",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-11T06:49:06.843967+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/34e57a158912ccb48631ede0ebcf3c6a6b45f0f7/skysport/it/nba/video/2026/04/11/1089272_1775880067047_thumb_494.0000001_1775886325845.jpg",
+    "occhiello": "",
+    "lead_preview": "Detroit Pistons ha battuto Charlotte Hornets 118-100 nella partita di NBA disputata la sera dell’11 aprile 2026 al Spect",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "75fb69d830359838",
     "slug": "una-madre-su-due-a-lyon-traccia-in-tempo-reale-i-f-75fb69d830359838",
     "title": "Genitori d'italia all'ecri tracciono figli in tempo reale",
@@ -571,25 +586,6 @@
       "bayer leverkusen",
       "kerim alajbegovic",
       "calciomercato 2026"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "d6d3300042acab7f",
-    "slug": "la-charlotte-cade-sconfitta-per-18-punti-d6d3300042acab7f",
-    "title": "Basket: Pistons dominano il terzo quarto e piegano i Hornets 118-100 al Spectrum Center",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-11T06:49:06.843967+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/34e57a158912ccb48631ede0ebcf3c6a6b45f0f7/skysport/it/nba/video/2026/04/11/1089272_1775880067047_thumb_494.0000001_1775886325845.jpg",
-    "occhiello": "",
-    "lead_preview": "Charlotte Hornets ha perso 100-118 contro Detroit Pistons nella partita di NBA disputata la sera del 11 aprile 2026 al S",
-    "tags": [
-      "nba pistons-hornets",
-      "detroit pistons",
-      "charlotte hornets"
     ],
     "hero_eligible": true
   },
