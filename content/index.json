@@ -1,5 +1,24 @@
 [
   {
+    "id": "c990931e83c9bbeb",
+    "slug": "elisa-rizzo-e-la-figlia-di-14-anni-sofia-vitale-so-c990931e83c9bbeb",
+    "title": "Milano, madre e figlia trovate morte in casa: nessuna effrazione, ipotesi suicidio assistito",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-04-11T19:00:24.851681+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/11/4effb0db7a03666953a0d410f157839b.jpg",
+    "occhiello": "DUE CORPI SENZA VITA A MILANO",
+    "lead_preview": "Elisa Rizzo e la figlia di 14 anni Sofia Vitale sono state trovate senza vita sabato 11 aprile 2026 nel loro appartament",
+    "tags": [
+      "morte elisa rizzo",
+      "suicidio assistito milano",
+      "casa madre figlia"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "9b15e8cae75ba043",
     "slug": "motogp-ai-ogura-firma-con-yamaha-dal-2027-dopo-il-9b15e8cae75ba043",
     "title": "Ai Ogura firmerà con Yamaha dal 2027, abbandonando il Team Trackhouse per affian",
@@ -321,21 +340,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/10/4b1b4f33ba45d62d1127da706db6845f.jpg",
     "occhiello": "",
     "lead_preview": "Augustin Seixas ha vinto il Giro dei Paesi Baschi il 11 aprile 2026, conquistando il primo successo in una corsa a tappe",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "c990931e83c9bbeb",
-    "slug": "elisa-rizzo-e-la-figlia-di-14-anni-sofia-vitale-so-c990931e83c9bbeb",
-    "title": "Elisa Rizzo e la figlia di 14 anni, Sofia Vitale, sono state trovate senza vita ",
-    "section": "cronaca",
-    "priority": 6,
-    "journalist_firma": "Chiara Esposito",
-    "published_at": "2026-04-11T19:00:24.851681+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/11/4effb0db7a03666953a0d410f157839b.jpg",
-    "occhiello": "",
-    "lead_preview": "Elisa Rizzo e la figlia di 14 anni, Sofia Vitale, sono state trovate senza vita sabato 11 aprile 2026 nel loro appartame",
     "tags": [],
     "hero_eligible": true
   },
