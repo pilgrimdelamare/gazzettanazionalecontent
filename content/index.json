@@ -1,5 +1,24 @@
 [
   {
+    "id": "ac79f6f6250e25fe",
+    "slug": "ipotesi-trattativa-ue-pasdaran-per-il-via-libera-i-ac79f6f6250e25fe",
+    "title": "Iran mina lo Stretto di Hormuz e impone corridoi sotto controllo Pasdaran",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-11T00:41:20.830717+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/10/224807767-825b48db-3d07-4a94-8e57-2527362af789.jpg",
+    "occhiello": "",
+    "lead_preview": "Il governo iraniano potrebbe concedere il passaggio attraverso lo Stretto di Hormuz, via cruciale per il petrolio mondia",
+    "tags": [
+      "stretto di hormuz",
+      "minamento iran",
+      "controllo pasdaran"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "3e4d73a9cae87e66",
     "slug": "45-anni-fa-usciva-excalibur-capolavoro-del-fantasy-3e4d73a9cae87e66",
     "title": "Excalibur torna al cinema il 10 aprile 2026, 45 anni dopo l'uscita del",
@@ -970,21 +989,6 @@
     "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/10/223350063-176f9706-109f-48d1-a4ac-81d80cbf908e.jpg",
     "occhiello": "TEMPORALI IN ARRIVO DOPO WEEKEND CALDO",
     "lead_preview": "Temperature oltre la media fino a domenica 12 aprile 2026, poi un fronte instabile scenderà dal Nord Europa fino all'Ita",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "ac79f6f6250e25fe",
-    "slug": "ipotesi-trattativa-ue-pasdaran-per-il-via-libera-i-ac79f6f6250e25fe",
-    "title": "Ipotesi trattativa ue-pasdaran per il via libera iraniano su hormuz",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-11T00:41:20.830717+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/10/224807767-825b48db-3d07-4a94-8e57-2527362af789.jpg",
-    "occhiello": "IPOTESI TRATTATIVA UE-PASDARAN PER IL VIA LIBERA IRANIANO SU HORMUZ",
-    "lead_preview": "Il governo iraniano potrebbe dare il suo consenso al passaggio dalla striscia di Hormuz, un'importante rotta marittima p",
     "tags": [],
     "hero_eligible": true
   },
