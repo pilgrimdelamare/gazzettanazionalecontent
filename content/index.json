@@ -1,5 +1,20 @@
 [
   {
+    "id": "75fb69d830359838",
+    "slug": "una-madre-su-due-a-lyon-traccia-in-tempo-reale-i-f-75fb69d830359838",
+    "title": "Genitori d'italia all'ecri tracciono figli in tempo reale",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-11T17:06:50.855383+00:00",
+    "image_type": "flickr",
+    "image_url": "https://live.staticflickr.com/65535/55200985000_61775b004b_b.jpg",
+    "occhiello": "GENITORI D'ITALIA ALL'ECRI TRACCIONO FIGLI IN TEMPO REALE",
+    "lead_preview": "19Enne di Lyon rivela che sua madre traccia in tempo reale i suoi movimenti, spiegando che sua madre è \"stressata da pra",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "04d02c3386d20350",
     "slug": "francia-batte-italia-40-7-a-grenoble-dominio-bleue-04d02c3386d20350",
     "title": "Francia umilia l'Italia 40-7 a Grenoble: crollo azzurro nella ripresa",
@@ -34,25 +49,6 @@
       "aggressione l'aquila",
       "colpo di miele",
       "centro giustizia minorile"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "75fb69d830359838",
-    "slug": "una-madre-su-due-a-lyon-traccia-in-tempo-reale-i-f-75fb69d830359838",
-    "title": "A Lyon il 51% delle madri traccia i figli under 25 con app di geolocalizzazione",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-11T17:06:50.855383+00:00",
-    "image_type": "flickr",
-    "image_url": "https://live.staticflickr.com/65535/55200985000_61775b004b_b.jpg",
-    "occhiello": "",
-    "lead_preview": "Mahaut, 19 anni, vive a Lyon, ha dichiarato 11 aprile 2026 che sua madre è “stressata da praticamente tutto, e molto per",
-    "tags": [
-      "geolocalizzazione figli",
-      "sorveglianza genitori",
-      "privacy lyon"
     ],
     "hero_eligible": true
   },
