@@ -1,5 +1,24 @@
 [
   {
+    "id": "b2213ba9939013bc",
+    "slug": "fausto-lama-lascia-coma-cose-e-esordisce-da-solist-b2213ba9939013bc",
+    "title": "Fausto Lama chiude Coma_Cose e debutta da solista con 'Giovani Bukowski'",
+    "section": "societa",
+    "priority": 5,
+    "journalist_firma": "Federica Conti",
+    "published_at": "2026-04-11T03:12:38.840676+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/10/204514938-956b479a-0ba4-4e44-bf9f-8da567fa574e.jpg",
+    "occhiello": "FAUSTO LAMA SFILA COMA_COSE",
+    "lead_preview": "Fausto Lama, pseudonimo di Fausto Zanardelli, ha annunciato la fine del progetto Coma_Cose il 2026-04-11, aprendo un nuo",
+    "tags": [
+      "fine coma_cose",
+      "fausto lama solista",
+      "giovani bukowski"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "d6226d25e435dfff",
     "slug": "tassa-di-soggiorno-11-miliardi-incassati-nel-2025-d6226d25e435dfff",
     "title": "1,1 Miliardi di euro: la tassa di soggiorno finisce in casse comunali",
@@ -457,25 +476,6 @@
       "plusvalenze ascoli",
       "processo plusvalenze",
       "caso ferrari"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "b2213ba9939013bc",
-    "slug": "fausto-lama-lascia-coma-cose-e-esordisce-da-solist-b2213ba9939013bc",
-    "title": "Fausto Lama lascia Coma_Cose e esordisce da solista con 'Giovani Bukowski'",
-    "section": "societa",
-    "priority": 4,
-    "journalist_firma": "Marco Sala",
-    "published_at": "2026-04-11T03:12:38.840676+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/10/204514938-956b479a-0ba4-4e44-bf9f-8da567fa574e.jpg",
-    "occhiello": "",
-    "lead_preview": "Fausto Lama, pseudonimo di Fausto Zanardelli, ha annunciato la fine del progetto musicale Coma_Cose dopo la separazione ",
-    "tags": [
-      "addio coma_cose",
-      "fausto lama solista",
-      "giovani bukowski"
     ],
     "hero_eligible": true
   },
