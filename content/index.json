@@ -1,5 +1,24 @@
 [
   {
+    "id": "4bd9224ac4e93114",
+    "slug": "basket-philadelphia-domina-il-terzo-quarto-e-batte-4bd9224ac4e93114",
+    "title": "Basket: Philadelphia domina Indiana 105-94 al Wells Fargo Center",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-11T06:47:57.326927+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/984173c487fdb1f37e039d47f2333a740c3f52e5/skysport/it/nba/video/2026/04/11/1089273_1775881029782_thumb_494.0000001_1775886333554.jpg",
+    "occhiello": "PHILADELPHIA DOMINA LA NBA CON UN RISULTATO SORPRENDENTE",
+    "lead_preview": "La squadra di Philadelphia ha battuto la Indiana con un risultato finale di 105-94., conquistando una vittoria important",
+    "tags": [
+      "vittoria philadelphia",
+      "nba 2026",
+      "partita wells fargo"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "2f6d4b02581dfa20",
     "slug": "pio-esposito-giochera-titolare-al-fianco-di-thuram-2f6d4b02581dfa20",
     "title": "Pio Esposito giocherà titolare al fianco di Thuram nell’attacco dell’Inter domen",
@@ -570,25 +589,6 @@
     "tags": [
       "attacco odessa",
       "elezioni ucraine"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "4bd9224ac4e93114",
-    "slug": "basket-philadelphia-domina-il-terzo-quarto-e-batte-4bd9224ac4e93114",
-    "title": "Basket: Philadelphia domina il terzo quarto e batte Indiana 105-94",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-11T06:47:57.326927+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/984173c487fdb1f37e039d47f2333a740c3f52e5/skysport/it/nba/video/2026/04/11/1089273_1775881029782_thumb_494.0000001_1775886333554.jpg",
-    "occhiello": "UNA SCONFITTA PER L'INDIANA",
-    "lead_preview": "L'Indiana ha subito una dura sconfitta contro la Philadelphia in NBA, con un risultato finale di 94-105. La partita si è",
-    "tags": [
-      "nba philadelphia",
-      "indiana sconfitta",
-      "partita basket 2026"
     ],
     "hero_eligible": true
   },
