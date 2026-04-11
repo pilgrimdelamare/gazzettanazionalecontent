@@ -1,5 +1,20 @@
 [
   {
+    "id": "ae020b1f852bd06f",
+    "slug": "harrison-ford-83-anni-rivela-prima-del-successo-an-ae020b1f852bd06f",
+    "title": "Harrison Ford, 83 anni, in un’intervista rilanciata dal Fatto Quotidiano e ripre",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-11T11:12:04.190328+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/11/Schermata-2026-04-11-alle-12.39.36-1200x630.png",
+    "occhiello": "",
+    "lead_preview": "Harrison Ford, 83 anni, in un’intervista rilanciata dal Fatto Quotidiano e ripresa da Page Six il 10 aprile 2026, ha rac",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "00bd5cffb450d52e",
     "slug": "basket-lebron-guida-i-lakers-al-101-73-sui-suns-co-00bd5cffb450d52e",
     "title": "Basket: LeBron guida i Lakers a +28 con 28 punti e 12 assist, dominio sui Suns",
@@ -273,25 +288,6 @@
     "occhiello": "",
     "lead_preview": "8,1 Milioni di elettori chiamati alle urne sabato 11 aprile in Ungheria, con 199 seggi in palio e votazioni aperte dalle",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "ae020b1f852bd06f",
-    "slug": "harrison-ford-83-anni-rivela-prima-del-successo-an-ae020b1f852bd06f",
-    "title": "Harrison Ford, 83 Anni, rivela: 'Prima del successo, Anni di letto e pizza'",
-    "section": "cultura",
-    "priority": 4,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-11T11:12:04.190328+00:00",
-    "image_type": "image",
-    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/11/Schermata-2026-04-11-alle-12.39.36-1200x630.png",
-    "occhiello": "",
-    "lead_preview": "Harrison Ford, il 10 aprile 2026, in un’intervista ripresa da Page Six e rilanciata dal Fatto Quotidiano, ha raccontato ",
-    "tags": [
-      "harrison ford",
-      "depressione hollywood",
-      "intervista harrison ford"
-    ],
     "hero_eligible": true
   },
   {
