@@ -1,5 +1,24 @@
 [
   {
+    "id": "ff46ac1a82b60657",
+    "slug": "lex-ufficiale-della-capitaneria-di-porto-confessa-ff46ac1a82b60657",
+    "title": "Ex ufficiale Capitaneria Livorno ammette: non ho lanciato allarme dopo il disastro Moby Prince",
+    "section": "giustizia",
+    "priority": 5,
+    "journalist_firma": "Silvia Greco",
+    "published_at": "2026-04-10T06:24:31.276431+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/09/moby-prince-2-1200x630.jpg",
+    "occhiello": "EX UFFICIALE, NON ALLARMAI DOPO IL DISASTRO",
+    "lead_preview": "Andrea Zaccanti, ex ufficiale della Capitaneria di Porto di Livorno, ha rilasciato una dichiarazione spontanea il 10 apr",
+    "tags": [
+      "disastro moby prince",
+      "processo moby prince",
+      "andrea zaccanti"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "2802cfecdcef724d",
     "slug": "gli-italiani-vedono-il-potere-dacquisto-ai-minimi-2802cfecdcef724d",
     "title": "Retribuzione reale al -6,4% dal 2019: Istat, salari non seguono produttività",
@@ -1033,25 +1052,6 @@
       "mostra gio' pomodoro",
       "castello gamba",
       "esposizione sole"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "ff46ac1a82b60657",
-    "slug": "lex-ufficiale-della-capitaneria-di-porto-confessa-ff46ac1a82b60657",
-    "title": "Ex ufficiale della Capitaneria di Livorno ammette: non ho lanciato l'allarme nel disastro del Moby Prince",
-    "section": "giustizia",
-    "priority": 5,
-    "journalist_firma": "Silvia Greco",
-    "published_at": "2026-04-10T06:24:31.276431+00:00",
-    "image_type": "image",
-    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/09/moby-prince-2-1200x630.jpg",
-    "occhiello": "",
-    "lead_preview": "Andrea Zaccanti, ex ufficiale della Capitaneria di Porto di Livorno, ha rilasciato una dichiarazione spontanea il 10 apr",
-    "tags": [
-      "disastro moby prince",
-      "capitaneria livorno",
-      "andrea zaccanti"
     ],
     "hero_eligible": true
   },
