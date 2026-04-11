@@ -1,5 +1,24 @@
 [
   {
+    "id": "239236c132945681",
+    "slug": "15-del-campo-destinato-a-negozi-e-case-239236c132945681",
+    "title": "Padova, 15% del campo fascista diventa edifici: appartamenti e negozi sul suolo memoriale",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-04-11T15:09:18.978374+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/11/165647901-1ba9681f-78c0-4ad0-95b7-bc0747112929.jpg",
+    "occhiello": "15 PER CENTO DEL CAMPO DESTINATO A CASE",
+    "lead_preview": "Il Comune di Padova ha deciso di rivedere il progetto di riqualificazione dell’ex campo di concentramento fascista di Pa",
+    "tags": [
+      "campo fascista padova",
+      "riqualificazione padova",
+      "aned anpi proteste"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "ae020b1f852bd06f",
     "slug": "harrison-ford-83-anni-rivela-prima-del-successo-an-ae020b1f852bd06f",
     "title": "Harrison Ford, 83 anni, racconta a 'L'Fatto Quotidiano' la sua vita semplice e la carriera in salita",
@@ -590,21 +609,6 @@
       "elezioni ucraina 2026",
       "drone iraniano ucraina"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "239236c132945681",
-    "slug": "15-del-campo-destinato-a-negozi-e-case-239236c132945681",
-    "title": "15% del campo destinato a negozi e case",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-04-11T15:09:18.978374+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/11/165647901-1ba9681f-78c0-4ad0-95b7-bc0747112929.jpg",
-    "occhiello": "15% DEL CAMPO DESTINATO A NEGOZI E CASE",
-    "lead_preview": "Padova – Il Comune di Padova è pronto a rivedere il progetto di riqualificazione dell’ex campo di concentramento fascist",
-    "tags": [],
     "hero_eligible": true
   },
   {
