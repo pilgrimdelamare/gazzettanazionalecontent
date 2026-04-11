@@ -1,5 +1,24 @@
 [
   {
+    "id": "9451a559ae24e44d",
+    "slug": "calcio-lautaro-out-15-giorni-per-lesione-al-soleo-9451a559ae24e44d",
+    "title": "Calcio: Lautaro out 15 giorni per lesione al soleo, salta Spezia, Lecce e Atalanta",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-10T15:33:44.390889+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/10/lautaro-martinez-1.jpg",
+    "occhiello": "",
+    "lead_preview": "Lautaro Javier Martínez ha riportato una lesione al muscolo soleo della gamba sinistra durante la partita di ieri, 9 apr",
+    "tags": [
+      "infortunio lautaro",
+      "inter serie a",
+      "lautaro martinez"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "b7a5a764f018a4ea",
     "slug": "gli-angine-de-poitrine-e-il-loro-rock-che-divide-l-b7a5a764f018a4ea",
     "title": "Khn e Klek de Poitrine dividono l'ottava in 53 parti, rivoluzione musicale dal Saguenay",
@@ -1046,21 +1065,6 @@
       "monte carlo",
       "sinner"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "9451a559ae24e44d",
-    "slug": "calcio-lautaro-out-15-giorni-per-lesione-al-soleo-9451a559ae24e44d",
-    "title": "Lautaro out 15 giorni per lesione al soleo",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-10T15:33:44.390889+00:00",
-    "image_type": "image",
-    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/10/lautaro-martinez-1.jpg",
-    "occhiello": "LAUTARO OUT 15 GIORNI PER LESIONE AL SOLEO",
-    "lead_preview": "Lautaro Javier Martínez si è infortunato nuovamente, questa volta a causa di una lesione al soleo. La partita di ieri se",
-    "tags": [],
     "hero_eligible": true
   },
   {
