@@ -1,5 +1,24 @@
 [
   {
+    "id": "535dad688377ee21",
+    "slug": "calcio-palladino-in-panchina-per-atalanta-juve-gas-535dad688377ee21",
+    "title": "Calcio: Palladino in panchina per Atalanta-Juve, Gasperini assente per motivi medici",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-10T13:03:13.703072+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/d896d9471cae6e6fd5fb4fa6ff3529456befd31a/skysport/it/calcio/serie-a/video/2026/04/10/1089114_1775820259563_thumb_494.0000001_1775822033303.jpg",
+    "occhiello": "LEANDRO PALLADINO IN PANCHINA PER ATALANTA-JUVENTUS",
+    "lead_preview": "Leandro Palladino potrebbe guidare l'Atalanta nella sfida contro la Juventus in programma sabato 11 aprile 2026 allo sta",
+    "tags": [
+      "atalanta-juve 2026",
+      "palladino in panchina",
+      "assenza gasperini"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "oroscopo_daily",
     "slug": "oroscopo-del-giorno",
     "title": "Oroscopo di oggi, sabato 11 aprile 2026",
@@ -2008,25 +2027,6 @@
       "acquisizione sparkle",
       "rete telecom italia",
       "ue vs usa"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "535dad688377ee21",
-    "slug": "calcio-palladino-in-panchina-per-atalanta-juve-gas-535dad688377ee21",
-    "title": "Calcio: Palladino in panchina per Atalanta-Juve, Gasperini fuori per problema medico",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-10T13:03:13.703072+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/d896d9471cae6e6fd5fb4fa6ff3529456befd31a/skysport/it/calcio/serie-a/video/2026/04/10/1089114_1775820259563_thumb_494.0000001_1775822033303.jpg",
-    "occhiello": "LEANDRO PALLADINO IN PANCHINA PER ATALANTA-JUVE",
-    "lead_preview": "Leandro Palladino potrebbe guidare l'Atalanta nella sfida contro la Juventus in programma sabato 11 aprile 2026 allo sta",
-    "tags": [
-      "atalanta-juve 2026",
-      "palladino in panchina",
-      "gasperini problema medico"
     ],
     "hero_eligible": true
   },
