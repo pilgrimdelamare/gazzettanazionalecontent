@@ -1,5 +1,24 @@
 [
   {
+    "id": "b2213ba9939013bc",
+    "slug": "fausto-lama-lascia-coma-cose-e-esordisce-da-solist-b2213ba9939013bc",
+    "title": "Fausto Lama lascia Coma_Cose e esordisce da solista con 'Giovani Bukowski'",
+    "section": "societa",
+    "priority": 4,
+    "journalist_firma": "Marco Sala",
+    "published_at": "2026-04-11T03:12:38.840676+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/10/204514938-956b479a-0ba4-4e44-bf9f-8da567fa574e.jpg",
+    "occhiello": "",
+    "lead_preview": "Fausto Lama, pseudonimo di Fausto Zanardelli, ha annunciato la fine del progetto musicale Coma_Cose dopo la separazione ",
+    "tags": [
+      "addio coma_cose",
+      "fausto lama solista",
+      "giovani bukowski"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "d6226d25e435dfff",
     "slug": "tassa-di-soggiorno-11-miliardi-incassati-nel-2025-d6226d25e435dfff",
     "title": "Tassa di soggiorno, 1,1 miliardi incassati nel 2025 da 1.411 comuni italiani",
@@ -9188,25 +9207,6 @@
       "veronica ruggeri verissimo",
       "fine storia ruggeri de vitiis",
       "separazione ruggeri de vitiis"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "e55c881825dbf1df",
-    "slug": "iran-pasdaran-completa-preparativi-per-nuovo-ordin-e55c881825dbf1df",
-    "title": "Pasdaran: 'Hormuz non tornerà più al suo Stato precedente'",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-06T06:38:26.648689+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/5/695ae83acaae0bfde3bd66441fb02ba3.jpg",
-    "occhiello": "IRAN COMPLETA PIANI PER NUOVO ORDINE",
-    "lead_preview": "Il Pasdaran ha dichiarato il 6 aprile 2026 che Hormuz non tornerà mai più al suo Stato precedente",
-    "tags": [
-      "pasdaran",
-      "iran",
-      "hormuz"
     ],
     "hero_eligible": true
   }
