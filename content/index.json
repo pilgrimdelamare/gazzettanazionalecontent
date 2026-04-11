@@ -1,5 +1,24 @@
 [
   {
+    "id": "efbdd3950c9f0490",
+    "slug": "basket-nuggets-sfruttano-i-thunder-per-conquistare-efbdd3950c9f0490",
+    "title": "Basket: Nuggets sfruttano i Thunder per conquistare il successo 127-107",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-11T06:48:23.848821+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/c41af238df3cab111395886119692f42e43b7293/skysport/it/nba/video/2026/04/11/1089280_1775883344396_thumb_494.0000001_1775886364426.jpg",
+    "occhiello": "LA SCONFITTERÀ IN CHAMPIONS",
+    "lead_preview": "Denver Oklahoma City 127-107, la sconfitta arriva per gli Oklahoma City Thunder. La partita si è tenuta sabato 11 aprile",
+    "tags": [
+      "basket",
+      "champions",
+      "nuggets"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "4bd9224ac4e93114",
     "slug": "basket-philadelphia-domina-il-terzo-quarto-e-batte-4bd9224ac4e93114",
     "title": "Basket: Philadelphia domina il terzo quarto e batte Indiana 105-94",
@@ -9234,24 +9253,6 @@
       "terremoto aquila 2009",
       "anniversario sisma aquila",
       "vittime terremoto aquila"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "7e5945e665136642",
-    "slug": "funerale-medio-in-uk-a-4623-sterline-13-in-3-mesi-7e5945e665136642",
-    "title": "In Uk un funerale costa 5.400€, spesa in aumento",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-05T11:07:41.549048+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1653159721808-6f3708484d64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxQdXJlJTIwQ3JlbWF0aW9uJTIwVUslMjBmdW5lcmFsJTIwcmVwb3J0JTIwMjAyNnxlbnwwfDB8fHwxNzc1Mzk0NjY3fDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "COSTO MEDIO DI UN FUNERALE IN UK: 4.623 STERLINE, +1,3% IN UN ANNO",
-    "lead_preview": "Pure Cremation, azienda britannica di servizi funebri, ha pubblicato domenica 5 aprile 2026 un report che rivela un aume",
-    "tags": [
-      "funerale in uk",
-      "spese funerarie"
     ],
     "hero_eligible": true
   }
