@@ -1,5 +1,24 @@
 [
   {
+    "id": "c1e66e82c1fd6e86",
+    "slug": "80-eventi-in-16-regioni-legambiente-pulisce-100-me-c1e66e82c1fd6e86",
+    "title": "77 Mozziconi ogni 100 metri: Legambiente pulisce 80 spiagge in 16 regioni",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-04-10T07:33:17.744515+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/10/090839135-11a79f6d-e1f7-409a-91a3-271684b3464b.jpg",
+    "occhiello": "",
+    "lead_preview": "Legambiente ha lanciato il 10 aprile 2026 la 36esima edizione della campagna “Spiagge e fondali puliti”, con 80 iniziati",
+    "tags": [
+      "spiagge e fondali puliti",
+      "mozziconi spiagge",
+      "legambiente 2026"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c8e56efa3815c063",
     "slug": "nipoti-pagano-1500-euro-al-mese-per-zia-in-rsa-la-c8e56efa3815c063",
     "title": "Agenzia Entrate nega 2.500 euro a contribuente",
@@ -1273,25 +1292,6 @@
     "occhiello": "48% DI APPROVAZIONE PER MAMDANI",
     "lead_preview": "Zohran Kwame Mamdani chiude i primi cento giorni da sindaco di New York con un indice di approvazione del 48%, secondo i",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "c1e66e82c1fd6e86",
-    "slug": "80-eventi-in-16-regioni-legambiente-pulisce-100-me-c1e66e82c1fd6e86",
-    "title": "80 Eventi in 16 regioni: Legambiente pulisce 100 metri di costa ogni 77 mozziconi",
-    "section": "cronaca",
-    "priority": 6,
-    "journalist_firma": "Chiara Esposito",
-    "published_at": "2026-04-10T07:33:17.744515+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/10/090839135-11a79f6d-e1f7-409a-91a3-271684b3464b.jpg",
-    "occhiello": "SETTANTASETTE MOZZICONI OGNI 100 METRI",
-    "lead_preview": "Legambiente ha lanciato oggi, 10 aprile 2026, la 36esima edizione della campagna “Spiagge e fondali puliti”, con 80 iniz",
-    "tags": [
-      "spiagge e fondali puliti",
-      "legambiente 2026",
-      "mozziconi spiagge"
-    ],
     "hero_eligible": true
   },
   {
