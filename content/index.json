@@ -1,5 +1,24 @@
 [
   {
+    "id": "a0b91dcc657fcb27",
+    "slug": "sette-insegnanti-agrigentini-privati-della-cattedr-a0b91dcc657fcb27",
+    "title": "Sette insegnanti di Fondi rimossi da scuole di Agrigento dopo elezioni",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Elena Russo",
+    "published_at": "2026-04-10T06:25:10.450818+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/08/21/diplomati_1200.jpg",
+    "occhiello": "SETTE DOCENTI SENZA CATTEDRA DOPO IL VOTO",
+    "lead_preview": "Fondi scompare dai radar politici pochi giorni dopo le elezioni: sette insegnanti della scuola Michelangelo di Agrigento",
+    "tags": [
+      "rimozione insegnanti fondi",
+      "scuola michelangelo agrigento",
+      "concorso docenti 2025"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "618b12e1e5ff6f46",
     "slug": "spiderman-reale-chiamato-da-sony-618b12e1e5ff6f46",
     "title": "Sony Pictures contatta Mattia Villardita, il Spiderman Romano che visita i bimbi malati",
@@ -938,21 +957,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/9/8cb2fca855ad68cb46e714192fbd7629.jpg",
     "occhiello": "FONDI SCOMPARSI DOPO IL VOTO: LODO GUENZI E FRATE SILESTRI SU RAI 2",
     "lead_preview": "Frate Giampaolo Silvestri e Lodo Guenzi, insieme a Bonaga e Comaschi, saranno ospiti fissi del programma Paradise in ond",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "a0b91dcc657fcb27",
-    "slug": "sette-insegnanti-agrigentini-privati-della-cattedr-a0b91dcc657fcb27",
-    "title": "Fondi scomparsi dopo il voto: sette insegnanti senza cattedra",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Elena Russo",
-    "published_at": "2026-04-10T06:25:10.450818+00:00",
-    "image_type": "image",
-    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/08/21/diplomati_1200.jpg",
-    "occhiello": "FONDI SCOMPARSI DOPO IL VOTO: SETTE INSEGNANTI SENZA CATTEDRA",
-    "lead_preview": "Gli insegnanti di Agrigento. Sette sono stati privati della cattedra alla Michelangelo di Agrigento dopo le elezioni. La",
     "tags": [],
     "hero_eligible": true
   },
