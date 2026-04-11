@@ -1,5 +1,24 @@
 [
   {
+    "id": "6ff26a7d131aa96d",
+    "slug": "provenzano-trovato-con-450mila-euro-e-352-pizzini-6ff26a7d131aa96d",
+    "title": "352 Pizzini di Provenzano trovati a Corleone dopo 20 anni dal suo arresto",
+    "section": "giustizia",
+    "priority": 5,
+    "journalist_firma": "Carlo Amato",
+    "published_at": "2026-04-11T05:31:20.501487+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2023/1/16/237c917e8703e638108a25f6ff87a6b0.jpg",
+    "occhiello": "",
+    "lead_preview": "Bernardo Provenzano, il 10 aprile 2006, fu arrestato nel suo casolare di Corleone, dopo quarantadue anni di latitanza. A",
+    "tags": [
+      "pizzini provenzano",
+      "arresto provenzano",
+      "corleone mafia"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "75fb69d830359838",
     "slug": "una-madre-su-due-a-lyon-traccia-in-tempo-reale-i-f-75fb69d830359838",
     "title": "Una madre su due a Lyon traccia in tempo reale i figli under 25: dati in crescita dal",
@@ -617,25 +636,6 @@
     "occhiello": "RAPINA AL CASSIERO: QUATTRO ARRESTI",
     "lead_preview": "Rocco Molè, 35 anni, ucciso a Corviale il 10 gennaio 2024. Le indagini hanno portato all'arresto di quattro persone, acc",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "6ff26a7d131aa96d",
-    "slug": "provenzano-trovato-con-450mila-euro-e-352-pizzini-6ff26a7d131aa96d",
-    "title": "352 Pizzini di Provenzano riemergono a 20 anni dall'arresto a Corleone",
-    "section": "giustizia",
-    "priority": 5,
-    "journalist_firma": "Silvia Greco",
-    "published_at": "2026-04-11T05:31:20.501487+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2023/1/16/237c917e8703e638108a25f6ff87a6b0.jpg",
-    "occhiello": "",
-    "lead_preview": "Bernardo Provenzano, il 10 aprile 2006, fu arrestato nel suo casolare di Corleone, dopo quarantadue anni di latitanza. A",
-    "tags": [
-      "pizzini provenzano",
-      "arresto provenzano",
-      "corleone 2006"
-    ],
     "hero_eligible": true
   },
   {
