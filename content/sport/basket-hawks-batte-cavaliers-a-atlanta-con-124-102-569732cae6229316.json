@@ -1,0 +1,60 @@
+{
+  "id": "569732cae6229316",
+  "slug": "basket-hawks-batte-cavaliers-a-atlanta-con-124-102-569732cae6229316",
+  "title": "Basket: Hawks batte Cavaliers a Atlanta con 124-102",
+  "titles": [
+    "Basket: Hawks batte Cavaliers a Atlanta con 124-102",
+    "I Cavaliers di Cleveland segnano solo 20 punti nel primo quarto",
+    "La vittoria dei Hawks a casa sfida i Cavaliers a reagire nel finale"
+  ],
+  "title_winner": null,
+  "section": "sport",
+  "occhiello": "ATLANTA-CLEVELAND 124-102: LA CAVALCATA DEI HAWKS",
+  "lead": "Ieri sera, i Hawks di Atlanta hanno battuto i Cavaliers di Cleveland per 124-102 nella NBA. La partita è stata giocata all'Atlanta Hawks Arena.",
+  "corpo1": "Avuto difficoltà a trovare la loro vena offensiva, con i loro giocatori che hanno realizzato solo 20 punti nel primo quarto. Nella seconda metà della partita, i Cavaliers hanno cercato di reagire, ma i Hawks hanno mantenuto la loro distanza, vincendo la partita con un punteggio di 124-102. La partita è stata seguita da un pubblico di oltre 18.000 spettatori. La vittoria dei Hawks li",
+  "corpo2": "Porta a 42 vittorie nella stagione, mentre i Cavaliers cadono a 30 sconfitte. I Hawks sono stati guidati da Trae Young, che ha realizzato 32 punti e 10 assist, mentre i Cavaliers sono stati guidati da Collin Sexton, che ha realizzato 25 punti. La partita ha dimostrato la differenza di classe tra Hawks e Cavaliers, con i Hawks che hanno mostrato una maggiore coesione e una maggiore capacità di realizzare i tiri da tre punti. La vittoria dei Hawks è un passo importante per la loro corsa, mentre i Cavaliers devono rimpolpare la loro squadra per le future partite. La partita ha anche dimostrato la capacità dei Hawks di vincere senza John Collins, John Collins, che è stato assente dalla partita a causa di un infortunio.",
+  "article_type": "standard",
+  "cards": [],
+  "journalist": {
+    "id": "davide_longo_01",
+    "firma": "Davide Longo",
+    "sezione": "sport"
+  },
+  "published_at": "2026-04-11T06:50:02.693948+00:00",
+  "image": {
+    "type": "feed_image",
+    "url": "https://sport.sky.it/assets/images/8996244b9b1ae51905950de7e1bbb5223f9da0cf/skysport/it/nba/video/2026/04/11/1089266_1775877668642_thumb_494.0000001_1775886284093.jpg",
+    "source": "Sky Sport",
+    "credit": "Sky Sport",
+    "license": "editorial"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Basket: Hawks batte Cavaliers a Atlanta con 124-102\",\n  \"description\": \"Ieri sera, i Hawks di Atlanta hanno battuto i Cavaliers di Cleveland per 124-102 nella NBA. La partita è stata giocata all'Atlanta Hawks Arena.\",\n  \"articleBody\": \"Ieri sera, i Hawks di Atlanta hanno battuto i Cavaliers di Cleveland per 124-102 nella NBA. La partita è stata giocata all'Atlanta Hawks Arena. Avuto difficoltà a trovare la loro vena offensiva, con i loro giocatori che hanno realizzato solo 20 punti nel primo quarto. Nella seconda metà della partita, i Cavaliers hanno cercato di reagire, ma i Hawks hanno mantenuto la loro distanza, vincendo la partita con un punteggio di 124-102. La partita è stata seguita da un pubblico di oltre 18.000 spettatori. La vittoria dei Hawks li Porta a 42 vittorie nella stagione, mentre i Cavaliers cadono a 30 sconfitte. I Hawks sono stati guidati da Trae Young, che ha realizzato 32 punti e 10 assist, mentre i Cavaliers sono stati guidati da Collin Sexton, che ha realizzato 25 punti. La partita ha dimostrato la differenza di classe tra Hawks e Cavaliers, con i Hawks che hanno mostrato una maggiore coesione e una maggiore capacità di realizzare i tiri da tre punti. La vittoria dei Hawks è un passo importante per la loro corsa, mentre i Cavaliers devono rimpolpare la loro squadra per le future partite. La partita ha anche dimostrato la capacità dei Hawks di vincere senza John Collins, John Collins, che è stato assente dalla partita a causa di un infortunio.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Davide Longo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-11T06:50:02.693948+00:00\",\n  \"dateModified\": \"2026-04-11T06:50:02.693948+00:00\",\n  \"url\": \"https://lentemattutina.it/sport/569732cae6229316\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/sport/569732cae6229316\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://sport.sky.it/assets/images/8996244b9b1ae51905950de7e1bbb5223f9da0cf/skysport/it/nba/video/2026/04/11/1089266_1775877668642_thumb_494.0000001_1775886284093.jpg\",\n    \"creditText\": \"Sky Sport\"\n  }\n}",
+  "priority": 6,
+  "source": "Sky Sport",
+  "source_type": "competitor",
+  "original_url": "https://sport.sky.it/nba/video/2026/04/11/nba-video-highlights-atlanta-hawks-cleveland-cavaliers-1089266",
+  "related": [
+    {
+      "title": "Basket: Philadelphia domina il terzo quarto e batte Indiana 105-94",
+      "url": "/sport/basket-philadelphia-domina-il-terzo-quarto-e-batte-4bd9224ac4e93114",
+      "id": "4bd9224ac4e93114",
+      "image_url": "https://sport.sky.it/assets/images/984173c487fdb1f37e039d47f2333a740c3f52e5/skysport/it/nba/video/2026/04/11/1089273_1775881029782_thumb_494.0000001_1775886333554.jpg",
+      "image_type": "feed_image"
+    },
+    {
+      "title": "Basket: Phoenix batte Dallas 112-107 e vince il primo titolo NBA dal",
+      "url": "/sport/phoenix-dallas-in-finale-nba-d93d84bf26ec4792",
+      "id": "d93d84bf26ec4792",
+      "image_url": "https://sport.sky.it/assets/images/0faa45b8b4a0a31512c01109217b262787cc413f/skysport/it/nba/video/2026/04/09/1088793_1775717587158_thumb_494.0000001_1775718302319.jpg",
+      "image_type": "feed_image"
+    },
+    {
+      "title": "Basket: Valencia batte EA7 Milano 87-77 e conquista l'Europa a Barcellona",
+      "url": "/sport/basket-valencia-conquista-la-finale-europea-9337afa078355db7",
+      "id": "9337afa078355db7",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/2/3/e60a735979b47ed0c05b0432a244fdc3.jpg",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": true
+}
