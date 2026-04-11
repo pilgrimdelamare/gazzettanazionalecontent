@@ -1,5 +1,24 @@
 [
   {
+    "id": "88d65b2059b41616",
+    "slug": "rugby-italia-in-campo-alle-1325-a-grenoble-contro-88d65b2059b41616",
+    "title": "Rugby: Italia in campo alle 13.25 a Grenoble contro la Francia nel Sei Nazioni femminile",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-11T07:03:36.325044+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/fb620b3e039d0475359ebc31ce673adc98ff6ad3/skysport/it/rugby/2026/04/11/italia-francia-sei-nazioni-femminile-dove-vedere-tv-streaming/fra_ita_rugbyok.jpg",
+    "occhiello": "ITALIA A GRENOBLE: FRANCIA-SFIDA IMPEGNATIVA",
+    "lead_preview": "Il Sei Nazioni femminile si è aperto sabato 11 aprile con tre partite in diretta su Sky Sport Arena e NOW. L'Italia affr",
+    "tags": [
+      "sei nazioni femminile",
+      "italia-francia rugby",
+      "azzurre a grenoble"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "57772bb3818bc6de",
     "slug": "alcaraz-vs-bublik-warm-up-prima-della-sfida-a-mont-57772bb3818bc6de",
     "title": "Tennis: Alcaraz si allena 90 minuti a Madrid per il rientro a Monte-Carlo",
@@ -9246,24 +9265,6 @@
       "piano buffon",
       "riforma calcio",
       "settore giovanile"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "41e9197cdc400f2e",
-    "slug": "playmobil-perde-quote-di-mercato-dopo-la-morte-del-41e9197cdc400f2e",
-    "title": "Fondazione ambientalista assume controllo di Playmobil",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-05T10:47:33.565566+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1697923760654-68540c85b79f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHx0b3klMjBmYWN0b3J5JTIwcHJvZHVjdGlvbnxlbnwwfDB8fHwxNzc1MzkzNjA1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "IL 75% DI PLAYMOBIL A UN'ASSOCIAZIONE AMBIENTALISTA",
-    "lead_preview": "Horst Brandstätter, fondatore della multinazionale tedesca Playmobil, morto nel 2015, ha lasciato il 75% della sua quota",
-    "tags": [
-      "playmobil",
-      "fondazione ambientalista"
     ],
     "hero_eligible": true
   }
