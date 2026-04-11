@@ -1,5 +1,24 @@
 [
   {
+    "id": "9bcdb6a016e0a04b",
+    "slug": "ferdinando-boero-paragona-cingolani-allintelligenz-9bcdb6a016e0a04b",
+    "title": "Deputato: Cingolani è come un algoritmo impenetrabile",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-04-11T04:13:36.355359+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/10/cingolani-1200.jpg",
+    "occhiello": "FERDINANDO BOERO PARAGONA CINGOLANI ALL'INTELLIGENZA ARTIFICIALE",
+    "lead_preview": "Il deputato Ferdinando Boero ha paragonato Roberto Cingolani, ex ministro della transizione ecologica e attuale amminist",
+    "tags": [
+      "caso cingolani",
+      "boero su cingolani",
+      "cingolani e intelligenza artificiale"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "dddf9a5ee5831a5c",
     "slug": "tre-morti-e-15-feriti-in-attacchi-a-odessa-prima-d-dddf9a5ee5831a5c",
     "title": "Tre morti e 15 feriti in attacchi a Odessa prima della tregua",
@@ -440,25 +459,6 @@
       "niulinx robotaxi",
       "cdp a2a investimento",
       "robosharing europa"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "9bcdb6a016e0a04b",
-    "slug": "ferdinando-boero-paragona-cingolani-allintelligenz-9bcdb6a016e0a04b",
-    "title": "Ferdinando Boero paragona Cingolani all'Intelligenza Artificiale: risposte certe ma mai autocritiche",
-    "section": "tecnologia",
-    "priority": 6,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-04-11T04:13:36.355359+00:00",
-    "image_type": "image",
-    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/10/cingolani-1200.jpg",
-    "occhiello": "",
-    "lead_preview": "Roberto Cingolani, ex ministro della transizione ecologica e attuale amministratore delegato di Leonardo, viene citato d",
-    "tags": [
-      "paragone cingolani",
-      "boero su cingolani",
-      "transizione ecologica"
     ],
     "hero_eligible": true
   },
