@@ -1,5 +1,24 @@
 [
   {
+    "id": "bb541e0290d61bb5",
+    "slug": "pfas-nelle-renne-delle-svalbard-schizzati-del-900-bb541e0290d61bb5",
+    "title": "PFAS nelle renne delle Svalbard schizzati del 900% in 10 anni, Studio norvegese allarmante",
+    "section": "ambiente",
+    "priority": 6,
+    "journalist_firma": "Enrico Mari",
+    "published_at": "2026-04-12T07:19:34.428935+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/10/renna-artica-1.jpg",
+    "occhiello": "PFAS NELLE RENNE DELLE SVALBARD: AUMENTO DEL 900% IN 10 ANNI",
+    "lead_preview": "Un recente Studio ha rivelato che i livelli di PFAS nelle renne delle Svalbard sono aumentati del 900% in 10 anni. La Ri",
+    "tags": [
+      "pfas svalbard",
+      "studio norvegese",
+      "inquinamento renne"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "cdc7b3c6f803b0f0",
     "slug": "dalessio-contro-pettinelli-ad-amici-battibecco-per-cdc7b3c6f803b0f0",
     "title": "D'Alessio contro Pettinelli ad 'Amici': battibecco per un jingle dei Baci Perugina",
@@ -9217,23 +9236,6 @@
       "raid israel",
       "bushehr",
       "f35 iran"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "039057fefb2c417e",
-    "slug": "calcio-giugliano-batte-crotone-1-0-rossi-segna-al-039057fefb2c417e",
-    "title": "Calcio: Giugliano batte Crotone 1-0, Rossi segna al 78'",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-06T14:21:05.830625+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/3cde1096844de955501b177f8f0f36fd805073dc/skysport/it/calcio/serie-c/video/2026/04/06/1088052_1775482514582_thumb_494.0000001_1775482574404.jpg",
-    "occhiello": "VITTORIA INUTILE PER UNA CITTÀ DA SERIE A",
-    "lead_preview": "Giugno in Campania, 6 aprile 2026. La squadra di Calcio del Giugliano, città di 125.018 abitanti e primo comune non capo",
-    "tags": [
-      "giugliano crotone"
     ],
     "hero_eligible": true
   }
