@@ -1,5 +1,22 @@
 [
   {
+    "id": "239236c132945681",
+    "slug": "15-del-campo-destinato-a-negozi-e-case-239236c132945681",
+    "title": "15 per cento del campo diventa edilizia",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-04-11T15:09:18.978374+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/11/165647901-1ba9681f-78c0-4ad0-95b7-bc0747112929.jpg",
+    "occhiello": "15 PER CENTO DEL CAMPO DIVENTA EDILIZIA",
+    "lead_preview": "Padova ha deciso di rivedere il progetto per l’ex campo di concentramento fascista di Padova il 11 aprile 2026, dopo le ",
+    "tags": [
+      "campo concentramento padova"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "1c7f448c525ad33f",
     "slug": "benin-elezioni-presidenziali-il-17-aprile-wadagni-1c7f448c525ad33f",
     "title": "Benin, elezioni presidenziali il 17 aprile: Wadagni favorito dopo l’ombra di Talon",
@@ -1789,25 +1806,6 @@
     "occhiello": "",
     "lead_preview": "LeBron James, 38 anni, ha guidato i Los Angeles Lakers alla vittoria per 101-73 contro i Phoenix Suns nella notte del 11",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "239236c132945681",
-    "slug": "15-del-campo-destinato-a-negozi-e-case-239236c132945681",
-    "title": "Padova, 15% del campo fascista diventa edifici: appartamenti e negozi sul suolo memoriale",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-04-11T15:09:18.978374+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/11/165647901-1ba9681f-78c0-4ad0-95b7-bc0747112929.jpg",
-    "occhiello": "15 PER CENTO DEL CAMPO DESTINATO A CASE",
-    "lead_preview": "Il Comune di Padova ha deciso di rivedere il progetto di riqualificazione dell’ex campo di concentramento fascista di Pa",
-    "tags": [
-      "campo fascista padova",
-      "riqualificazione padova",
-      "aned anpi proteste"
-    ],
     "hero_eligible": true
   },
   {
