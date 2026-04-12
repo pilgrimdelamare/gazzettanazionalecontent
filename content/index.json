@@ -1,5 +1,23 @@
 [
   {
+    "id": "3dc4867d822d58d9",
+    "slug": "gasperini-e-ranieri-si-scontrano-a-roma-dopo-lelim-3dc4867d822d58d9",
+    "title": "Gasperini e Ranieri litigano a Roma",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-11T09:53:25.401724+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/11/104545771-e390328f-c44f-49e0-8242-f0c92daea20b.jpg",
+    "occhiello": "SCONTRO FISICO TRA ALLENATORI DOPO L’ELIMINAZIONE",
+    "lead_preview": "Gian Piero Gasperini e Claudio Ranieri si sono affrontati a viso aperto il 10 aprile 2026 a Roma, poche ore dopo l’elimi",
+    "tags": [
+      "gasperini ranieri",
+      "scontro allenatori"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "d0118e98ca4cf60a",
     "slug": "scozia-batte-il-galles-nel-sei-nazioni-femminile-d0118e98ca4cf60a",
     "title": "Rugby: Scozia batte Galles 24-19, seconda vittoria consecutiva nel Sei Nazioni femminile",
@@ -656,25 +674,6 @@
       "alfiere del tricolore",
       "gabriele esposito",
       "tor bella monaca"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "3dc4867d822d58d9",
-    "slug": "gasperini-e-ranieri-si-scontrano-a-roma-dopo-lelim-3dc4867d822d58d9",
-    "title": "Gasperini e Ranieri si scontrano a Roma dopo l'eliminazione della squadra in Europa League",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-11T09:53:25.401724+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/11/104545771-e390328f-c44f-49e0-8242-f0c92daea20b.jpg",
-    "occhiello": "GASPERINI E RANIERI, BARAONDA A ROMA DOPO LA DISFATTA IN EUROPA",
-    "lead_preview": "Roma, 10 aprile 2026. Gian Piero Gasperini e Claudio Ranieri si sono affrontati a viso aperto poche ore dopo l'eliminazi",
-    "tags": [
-      "scontro gasperini ranieri",
-      "eliminazione roma europa league",
-      "baruffa allenatori roma"
     ],
     "hero_eligible": true
   },
