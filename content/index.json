@@ -1,5 +1,24 @@
 [
   {
+    "id": "96988aa6f085807f",
+    "slug": "la-gigantesca-mireille-scava-il-tunnel-caterina-12-96988aa6f085807f",
+    "title": "Mireille, la talpa da 1200 tonnellate, ha scavato 1.800 metri a Battipaglia",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-11T05:15:29.630536+00:00",
+    "image_type": "image",
+    "image_url": "https://i2.res.24o.it/images2010/S24/Documenti/2026/04/11/Immagini/Ritagli/Abbattimento%20diaframma%20Galleria%20Caterina-U33462757017NAw-1440x752@IlSole24Ore-Web.jpeg?r=1170x507",
+    "occhiello": "MIREILLE, LA MACHINA DA 1200 TONNELLATE",
+    "lead_preview": "Mireille, la tunnel boring machine da 1200 tonnellate, ha completato lo scavo della prima galleria — denominata “Caterin",
+    "tags": [
+      "mireille battipaglia",
+      "av salerno-reggio calabria",
+      "scavo galleria caterina"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "157c611f05cb4b73",
     "slug": "il-loro-utilizzo-di-umorismo-e-intelligenza-artifi-157c611f05cb4b73",
     "title": "Fonte di risorse finta: 37 milioni di visualizzazioni in un giorno",
@@ -11,21 +30,6 @@
     "image_url": "https://media-assets.wired.it/photos/69d8cc40eaa39e4e37ace043/16:9/w_1280,c_limit/GettyImages-825967636.jpg",
     "occhiello": "FONTE DI RISORSE FINTA: 37 MILIONI DI VISUALIZZAZIONI IN UN GIORNO",
     "lead_preview": "Alessandro Matri, comico di 39 anni, ha raggiunto 37 milioni di visualizzazioni in un giorno su TikTok. La sua popolarit",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "96988aa6f085807f",
-    "slug": "la-gigantesca-mireille-scava-il-tunnel-caterina-12-96988aa6f085807f",
-    "title": "La tbm da 1200 tonnellate miquella",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-11T05:15:29.630536+00:00",
-    "image_type": "image",
-    "image_url": "https://i2.res.24o.it/images2010/S24/Documenti/2026/04/11/Immagini/Ritagli/Abbattimento%20diaframma%20Galleria%20Caterina-U33462757017NAw-1440x752@IlSole24Ore-Web.jpeg?r=1170x507",
-    "occhiello": "LA TBM DA 1200 TONNELLATE MIQUELLA",
-    "lead_preview": "Mireille, la Tunnel Boring Machine da 1200 tonnellate, ha completato il primo tunnel della linea ferroviaria ad Alta Vel",
     "tags": [],
     "hero_eligible": true
   },
