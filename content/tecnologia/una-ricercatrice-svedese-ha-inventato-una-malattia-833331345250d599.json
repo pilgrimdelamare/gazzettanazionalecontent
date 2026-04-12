@@ -1,0 +1,59 @@
+{
+  "id": "833331345250d599",
+  "slug": "una-ricercatrice-svedese-ha-inventato-una-malattia-833331345250d599",
+  "title": "Una ricercatrice svedese ha inventato una malattia per smascherare l'ignoranza dei chatbot",
+  "titles": [
+    "Una ricercatrice svedese ha inventato una malattia per smascherare l'ignoranza dei chatbot",
+    "Bixonimania: così una finta sindrome da luce blu ha ingannato ChatGPT e Gemini",
+    "Entro il 2026 i principali chatbot diagnosticavano una malattia mai esistita"
+  ],
+  "title_winner": null,
+  "section": "tecnologia",
+  "occhiello": "",
+  "lead": "Almira Osmanovic Thunström, ricercatrice dell’Università di Göteborg, ha inventato il 15 marzo 2024 una malattia inesistente chiamata Bixonimania, descritta come una reazione cutanea agli schermi causata dalla luce blu, e l’ha diffusa attraverso post su Medium e articoli preprint su SciProfiles. Entro aprile 2026, i principali chatbot basati su grandi modelli linguistici, tra cui ChatGPT e Gemini, hanno cominciato a citarla come se fosse reale.",
+  "corpo1": "La Bixonimania è stata progettata come un esperimento per testare quanto facilmente i grandi modelli linguistici possano interiorizzare e riprodurre informazioni false. Almira Osmanovic Thunström, medica e ricercatrice all’Università di Göteborg, ha lanciato l’esperimento il 15 marzo 2024 con due post su Medium intitolati \"How many people suffer from Bixonimania?\" e \"Bixonimania: The Blue Light Epidemic\". Poco dopo, tra fine aprile e inizio maggio 2024, sono apparsi due articoli preprint su SciProfiles che analizzavano la patologia, attribuiti a uno scienziato inesistente di nome Lazljiv Izgubljenovic, affiliato all’Asteria Horizon University di Nova City, in California — città e ateneo mai esistiti. Nonostante gli indizi scherzosi e le firme palesemente false, i modelli linguistici di OpenAI, Google e altri provider hanno cominciato a citare la Bixonimania come una condizione medica riconosciuta. Entro aprile 2026, chi chiedeva sintomi come prurito oculare e anelli scuri intorno agli occhi dopo un uso prolungato di schermi otteneva diagnosi che includevano la Bixonimania tra le possibili cause. I sistemi non avevano rilevato che le fonti erano state generate da un esperimento satirico, né che non esisteva alcun consenso scientifico, alcuna pubblicazione peer-reviewed, né studi clinici a sostegno. L’esperimento ha dimostrato che i modelli addestrati su dati web non distinguono tra informazione verificata e contenuti auto-pubblicati, anche quando questi ultimi contengono segnali evidenti di parodia o invenzione.",
+  "corpo2": "Al cuore del problema non c’è solo la credulità degli algoritmi, ma il modello stesso su cui si basa la loro conoscenza: l’assorbimento indiscriminato di contenuti disponibili online, indipendentemente dalla fonte o dalla verifica. I grandi modelli linguistici non leggono la Scienza — la ricombinano da testi che sembrano scientifici. Quando una falsa patologia viene presentata con la forma di un articolo medico, con termini tecnici, grafici simulati e un’autorità fittizia, il sistema non ha strumenti per scartarla. Il caso della Bixonimania non è un’anomalia: è la conferma di un meccanismo strutturale. Già nel 2023, modelli come GPT-4 hanno citato articoli inventati di sana pianta — i cosiddetti \"hallucinated papers\" — come se fossero reali. Ma qui il cerchio si chiude: non è il modello a inventare, è il modello ad alimentarsi di invenzioni umane che hanno preso piede online. La responsabilità non è solo tecnica, ma editoriale e industriale. Le aziende che sviluppano questi sistemi non investono in filtri di attendibilità, perché il costo computazionale sarebbe insostenibile e perché, in ultima analisi, non è nel loro interesse: più il modello sembra \"informato\", più l’utente lo percepisce come utile. Il risultato è un circolo vizioso in cui disinformazione viene ingerita, rielaborata e restituita come conoscenza. Il danno più concreto non è che qualcuno creda alla Bixonimania — è che chi soffre di stanchezza oculare o disturbi del sonno possa ricevere consigli basati su dati falsi, e che la medicina di prossimità, già sotto pressione, debba ora combattere anche contro diagnosi generate da chatbot. A pagare il conto saranno i pazienti, non i sistemi che li hanno fuorviati.",
+  "article_type": "standard",
+  "cards": [],
+  "journalist": {
+    "id": "giulia_serra_01",
+    "firma": "Giulia Serra",
+    "sezione": "tecnologia"
+  },
+  "published_at": "2026-04-12T04:43:23.168415+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://media-assets.wired.it/photos/69d8fdd9d5d3ff8dfebfec7a/16:9/w_1280,c_limit/1215643469",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Una ricercatrice svedese ha inventato una malattia per smascherare l'ignoranza dei chatbot\",\n  \"description\": \"Almira Osmanovic Thunström, ricercatrice dell’Università di Göteborg, ha inventato il 15 marzo 2024 una malattia inesistente chiamata Bixonimania, descritta come una reazione cutanea agli schermi causata dalla luce blu, e l’ha diffusa attraverso post su Medium e articoli preprint su SciProfiles. Ent\",\n  \"articleBody\": \"Almira Osmanovic Thunström, ricercatrice dell’Università di Göteborg, ha inventato il 15 marzo 2024 una malattia inesistente chiamata Bixonimania, descritta come una reazione cutanea agli schermi causata dalla luce blu, e l’ha diffusa attraverso post su Medium e articoli preprint su SciProfiles. Entro aprile 2026, i principali chatbot basati su grandi modelli linguistici, tra cui ChatGPT e Gemini, hanno cominciato a citarla come se fosse reale. La Bixonimania è stata progettata come un esperimento per testare quanto facilmente i grandi modelli linguistici possano interiorizzare e riprodurre informazioni false. Almira Osmanovic Thunström, medica e ricercatrice all’Università di Göteborg, ha lanciato l’esperimento il 15 marzo 2024 con due post su Medium intitolati \\\"How many people suffer from Bixonimania?\\\" e \\\"Bixonimania: The Blue Light Epidemic\\\". Poco dopo, tra fine aprile e inizio maggio 2024, sono apparsi due articoli preprint su SciProfiles che analizzavano la patologia, attribuiti a uno scienziato inesistente di nome Lazljiv Izgubljenovic, affiliato all’Asteria Horizon University di Nova City, in California — città e ateneo mai esistiti. Nonostante gli indizi scherzosi e le firme palesemente false, i modelli linguistici di OpenAI, Google e altri provider hanno cominciato a citare la Bixonimania come una condizione medica riconosciuta. Entro aprile 2026, chi chiedeva sintomi come prurito oculare e anelli scuri intorno agli occhi dopo un uso prolungato di schermi otteneva diagnosi che includevano la Bixonimania tra le possibili cause. I sistemi non avevano rilevato che le fonti erano state generate da un esperimento satirico, né che non esisteva alcun consenso scientifico, alcuna pubblicazione peer-reviewed, né studi clinici a sostegno. L’esperimento ha dimostrato che i modelli addestrati su dati web non distinguono tra informazione verificata e contenuti auto-pubblicati, anche quando questi ultimi contengono segnali evidenti di parodia o invenzione. Al cuore del problema non c’è solo la credulità degli algoritmi, ma il modello stesso su cui si basa la loro conoscenza: l’assorbimento indiscriminato di contenuti disponibili online, indipendentemente dalla fonte o dalla verifica. I grandi modelli linguistici non leggono la Scienza — la ricombinano da testi che sembrano scientifici. Quando una falsa patologia viene presentata con la forma di un articolo medico, con termini tecnici, grafici simulati e un’autorità fittizia, il sistema non ha strumenti per scartarla. Il caso della Bixonimania non è un’anomalia: è la conferma di un meccanismo strutturale. Già nel 2023, modelli come GPT-4 hanno citato articoli inventati di sana pianta — i cosiddetti \\\"hallucinated papers\\\" — come se fossero reali. Ma qui il cerchio si chiude: non è il modello a inventare, è il modello ad alimentarsi di invenzioni umane che hanno preso piede online. La responsabilità non è solo tecnica, ma editoriale e industriale. Le aziende che sviluppano questi sistemi non investono in filtri di attendibilità, perché il costo computazionale sarebbe insostenibile e perché, in ultima analisi, non è nel loro interesse: più il modello sembra \\\"informato\\\", più l’utente lo percepisce come utile. Il risultato è un circolo vizioso in cui disinformazione viene ingerita, rielaborata e restituita come conoscenza. Il danno più concreto non è che qualcuno creda alla Bixonimania — è che chi soffre di stanchezza oculare o disturbi del sonno possa ricevere consigli basati su dati falsi, e che la medicina di prossimità, già sotto pressione, debba ora combattere anche contro diagnosi generate da chatbot. A pagare il conto saranno i pazienti, non i sistemi che li hanno fuorviati.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Giulia Serra\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-12T04:43:23.168415+00:00\",\n  \"dateModified\": \"2026-04-12T04:43:23.168415+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/833331345250d599\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/833331345250d599\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://media-assets.wired.it/photos/69d8fdd9d5d3ff8dfebfec7a/16:9/w_1280,c_limit/1215643469\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 5,
+  "source": "Wired Italia",
+  "source_type": "competitor",
+  "original_url": "https://www.wired.it/article/bixonimania-malattia-inventata-chatbot-ai-paper-scientifici/",
+  "related": [
+    {
+      "title": "Selene Biffi lancia un chatbot in Dari e Pashto per donne imprenditrici in Afghanistan",
+      "url": "/tecnologia/selene-biffi-lancia-ask-hakima-chatbot-per-imprend-e55ade89186d002e",
+      "id": "e55ade89186d002e",
+      "image_url": "https://media-assets.wired.it/photos/69b3ed151e88d893736a7577/16:9/w_1280,c_limit/Ask%20Hakima.jpeg",
+      "image_type": "image"
+    },
+    {
+      "title": "Federica Colonna sostituita da ChatGPT: lavora per clienti senza giornalisti",
+      "url": "/tecnologia/federica-colonna-sostituita-da-chatgpt-lavora-per-84211081f7a9e662",
+      "id": "84211081f7a9e662",
+      "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/10/Screenshot-2026-04-10-114420.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Gli italiani nel 2026 passano 4h30 al giorno sullo smartphone, superata la tv",
+      "url": "/tecnologia/4-ore-e-mezza-al-giorno-cosa-ci-fa-prigionieri-lo-20c99ee890130b3e",
+      "id": "20c99ee890130b3e",
+      "image_url": "https://media-assets.wired.it/photos/69d781352c55a33aa7485723/16:9/w_1280,c_limit/1704413556",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": true
+}
