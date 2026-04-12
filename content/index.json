@@ -1,5 +1,24 @@
 [
   {
+    "id": "9bcdb6a016e0a04b",
+    "slug": "ferdinando-boero-paragona-cingolani-allintelligenz-9bcdb6a016e0a04b",
+    "title": "Boero chiama Cingolani 'algoritmo impenetrabile' in Aula alla Camera",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-04-11T04:13:36.355359+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/10/cingolani-1200.jpg",
+    "occhiello": "DEPUTATO: CINGOLANI COME UN ALGORITMO IMBATTIBILE",
+    "lead_preview": "Roberto Cingolani, ex ministro della transizione ecologica e attuale amministratore delegato di Leonardo, è stato parago",
+    "tags": [
+      "boero cingolani",
+      "cingolani leonardo",
+      "transizione ecologica"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "76cb253d779fa44c",
     "slug": "niulinx-raccoglie-38-milioni-da-cdp-e-a2a-per-lanc-76cb253d779fa44c",
     "title": "Niulinx raccoglie 38 milioni per lanciare robosharing in Europa Entro il",
@@ -1189,25 +1208,6 @@
       "gibuti",
       "elezioni",
       "guelleh"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "9bcdb6a016e0a04b",
-    "slug": "ferdinando-boero-paragona-cingolani-allintelligenz-9bcdb6a016e0a04b",
-    "title": "Deputato: Cingolani è come un algoritmo impenetrabile",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-04-11T04:13:36.355359+00:00",
-    "image_type": "image",
-    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/10/cingolani-1200.jpg",
-    "occhiello": "FERDINANDO BOERO PARAGONA CINGOLANI ALL'INTELLIGENZA ARTIFICIALE",
-    "lead_preview": "Il deputato Ferdinando Boero ha paragonato Roberto Cingolani, ex ministro della transizione ecologica e attuale amminist",
-    "tags": [
-      "caso cingolani",
-      "boero su cingolani",
-      "cingolani e intelligenza artificiale"
     ],
     "hero_eligible": true
   },
