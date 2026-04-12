@@ -1,5 +1,22 @@
 [
   {
+    "id": "04d02c3386d20350",
+    "slug": "francia-batte-italia-40-7-a-grenoble-dominio-bleue-04d02c3386d20350",
+    "title": "Italia umiliata 40-7 dalla Francia a Grenoble",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-11T15:19:50.530014+00:00",
+    "image_type": "flickr",
+    "image_url": "https://live.staticflickr.com/65535/55200613818_77493a9cb6_b.jpg",
+    "occhiello": "40-7 A GRENOBLE, L'ITALIA AFFONDA",
+    "lead_preview": "Grenoble, 11 aprile 2026. La Francia ha battuto l'Italia 40-7 nel primo test match della serie, umiliando gli azzurri co",
+    "tags": [
+      "italia francia rugby"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "91c95f2ceee1a03e",
     "slug": "centro-giustizia-minorile-dellaquila-sabato-11-apr-91c95f2ceee1a03e",
     "title": "Minore colpisce educatore con telo da boxe imbevuto di miele all’Aquila",
@@ -1284,25 +1301,6 @@
     "occhiello": "GENITORI D'ITALIA ALL'ECRI TRACCIONO FIGLI IN TEMPO REALE",
     "lead_preview": "19Enne di Lyon rivela che sua madre traccia in tempo reale i suoi movimenti, spiegando che sua madre è \"stressata da pra",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "04d02c3386d20350",
-    "slug": "francia-batte-italia-40-7-a-grenoble-dominio-bleue-04d02c3386d20350",
-    "title": "Francia umilia l'Italia 40-7 a Grenoble: crollo azzurro nella ripresa",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-11T15:19:50.530014+00:00",
-    "image_type": "flickr",
-    "image_url": "https://live.staticflickr.com/65535/55200613818_77493a9cb6_b.jpg",
-    "occhiello": "FRANCIA DOMINA L'ITALIA A GRENOBLE",
-    "lead_preview": "La Francia ha battuto l'Italia 40-7 a Grenoble sabato 11 aprile 2026, nella prima partita della serie di test match. La ",
-    "tags": [
-      "francia-italia 2026",
-      "test match rugby",
-      "crollo azzurro"
-    ],
     "hero_eligible": true
   },
   {
