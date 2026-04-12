@@ -1,0 +1,59 @@
+{
+  "id": "1c7f448c525ad33f",
+  "slug": "benin-elezioni-presidenziali-il-17-aprile-wadagni-1c7f448c525ad33f",
+  "title": "Benin, elezioni presidenziali il 17 aprile: Wadagni favorito dopo l’ombra di Talon",
+  "titles": [
+    "Benin, elezioni presidenziali il 17 aprile: Wadagni favorito dopo l’ombra di Talon",
+    "Wadagni, ministro delle Finanze del Benin, in testa per la successione a Talon",
+    "Dopo il fallito golpe, il Benin vota: il governo passa di mano con Wadagni in pole"
+  ],
+  "title_winner": null,
+  "section": "esteri",
+  "occhiello": "LA VITTORIA INCONTESTA DI ROMUALD WADAGNI",
+  "lead": "Domenica prossima, soltanto quattro mesi dopo un tentativo di colpo di stato fallito, il Benin andrà alle urne per un'elezione presidenziale che sembra più un'incoronazione che una competizione.",
+  "corpo1": "Il ministro delle Finanze del Benin, Romuald Wadagni, è schiacciante favorito per la vittoria. Wadagni è schiacciante favorito per la vittoria, con un sostegno che si è consolidato nell'ombra del potere uscente. Il presidente uscente, Patrice Talon, non può ricandidarsi dopo aver svolto due mandati quinquennali. La legge del Benin prevede che il presidente non possa essere eletto per più di due mandati consecutivi. Talon, che non può ricandidarsi dopo due mandati, ha lasciato l'incarico aprendo la strada a Wadagni, il suo naturale erede.",
+  "corpo2": "Wadagni, noto per la sua esperienza nel settore finanziario, ha una lunga storia di successi nel paese. Prima di diventare ministro delle Finanze, ha lavorato come consulente per diverse aziende internazionali. La sua esperienza ha aiutato il Benin a stabilizzare la sua Economia e a attrarre investimenti stranieri. La vittoria di Wadagni è data per certa, ma il conto da pagare per la stabilità politica è già scritto nelle tasche dei più poveri. Il paese deve affrontare problemi di corruzione e di impoverimento, che Wadagni ha promesso di risolvere. Se gli equilibri attuali tengono, la vittoria di Wadagni sarà una conferma del suo sostegno tra i votanti beninesi. A giovarne saranno i mercati e i partner internazionali che hanno scommesso su un Benin controllato e prevedibile.",
+  "article_type": "standard",
+  "cards": [],
+  "journalist": {
+    "id": "anna_colombo_01",
+    "firma": "Anna Colombo",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-04-12T07:20:08.704584+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://i.guim.co.uk/img/media/ce561fb4987e8955e9e6b1a23c4ab79b6fe780dc/991_82_5509_4409/master/5509.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=645f48ba73006bf2706e816e7ea71e4c",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Benin, elezioni presidenziali il 17 aprile: Wadagni favorito dopo l’ombra di Talon\",\n  \"description\": \"Domenica prossima, soltanto quattro mesi dopo un tentativo di colpo di stato fallito, il Benin andrà alle urne per un'elezione presidenziale che sembra più un'incoronazione che una competizione.\",\n  \"articleBody\": \"Domenica prossima, soltanto quattro mesi dopo un tentativo di colpo di stato fallito, il Benin andrà alle urne per un'elezione presidenziale che sembra più un'incoronazione che una competizione. Il ministro delle Finanze del Benin, Romuald Wadagni, è schiacciante favorito per la vittoria. Wadagni è schiacciante favorito per la vittoria, con un sostegno che si è consolidato nell'ombra del potere uscente. Il presidente uscente, Patrice Talon, non può ricandidarsi dopo aver svolto due mandati quinquennali. La legge del Benin prevede che il presidente non possa essere eletto per più di due mandati consecutivi. Talon, che non può ricandidarsi dopo due mandati, ha lasciato l'incarico aprendo la strada a Wadagni, il suo naturale erede. Wadagni, noto per la sua esperienza nel settore finanziario, ha una lunga storia di successi nel paese. Prima di diventare ministro delle Finanze, ha lavorato come consulente per diverse aziende internazionali. La sua esperienza ha aiutato il Benin a stabilizzare la sua Economia e a attrarre investimenti stranieri. La vittoria di Wadagni è data per certa, ma il conto da pagare per la stabilità politica è già scritto nelle tasche dei più poveri. Il paese deve affrontare problemi di corruzione e di impoverimento, che Wadagni ha promesso di risolvere. Se gli equilibri attuali tengono, la vittoria di Wadagni sarà una conferma del suo sostegno tra i votanti beninesi. A giovarne saranno i mercati e i partner internazionali che hanno scommesso su un Benin controllato e prevedibile.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-12T07:20:08.704584+00:00\",\n  \"dateModified\": \"2026-04-12T07:20:08.704584+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/1c7f448c525ad33f\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/1c7f448c525ad33f\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://i.guim.co.uk/img/media/ce561fb4987e8955e9e6b1a23c4ab79b6fe780dc/991_82_5509_4409/master/5509.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=645f48ba73006bf2706e816e7ea71e4c\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 4,
+  "source": "The Guardian",
+  "source_type": "esteri",
+  "original_url": "https://www.theguardian.com/world/2026/apr/12/benin-presidential-election",
+  "related": [
+    {
+      "title": "Zelensky a Roma il 12 aprile per incontrare Meloni a Palazzo Chigi",
+      "url": "/esteri/zelensky-a-roma-il-12-aprile-per-incontrare-meloni-e794328242fb1830",
+      "id": "e794328242fb1830",
+      "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/12/003821054-4d90be4a-352f-4965-b6de-14a5ba39a621.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Fidesz controlla il 72% del PIL ungherese: il sistema di potere prima delle elezioni",
+      "url": "/esteri/fidesz-e-un-sistema-feudale-per-debellarlo-magyar-e12bf3f17cbb86d2",
+      "id": "e12bf3f17cbb86d2",
+      "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/10/105046825-1f8ae680-f1d5-436a-994b-25316755716e.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Pustin ordina cessate il fuoco in Ucraina dall'11 alle 16 all'12 aprile a mezzanotte",
+      "url": "/esteri/vladimir-putin-ha-annunciato-un-cessate-il-fuoco-u-c58731fbb0e94731",
+      "id": "c58731fbb0e94731",
+      "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/09/211533539-dde34ae8-7346-475d-be25-c34c71e044a4.jpg",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": true
+}
