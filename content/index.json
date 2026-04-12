@@ -1,5 +1,24 @@
 [
   {
+    "id": "d65a437982476145",
+    "slug": "gabriele-volontario-di-tor-bella-monaca-nominato-a-d65a437982476145",
+    "title": "Gabriele Esposito, 18enne di Tor Bella Monaca, diventa Alfiere del Tricolore a Roma il 15 aprile",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Chiara Esposito",
+    "published_at": "2026-04-11T13:29:13.395777+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/11/298ecc6e318c08c0544677a5160173c6.jpg",
+    "occhiello": "TOR BELLA MONACA: 18ENNE RCI NOMINATO ALFIERE DEL TRICOLORE",
+    "lead_preview": "Gabriele Esposito, un volontario della Croce Rossa Italiana di 18 anni residente a Tor Bella Monaca, è Stato nominato Al",
+    "tags": [
+      "tor bella monaca",
+      "alfiere del tricolore",
+      "croce rossa italiana"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "4bc7493e0149c477",
     "slug": "fabrizio-moro-confessa-autodistruzione-durante-can-4bc7493e0149c477",
     "title": "Fabrizio Moro confessa autodistruzione durante Canzonissima",
@@ -1950,25 +1969,6 @@
     "lead_preview": "Alessandro Bartesaghi, terzino del Milan, ha varcato il tunnel di ingresso dello Stadio Giuseppe Meazza con in braccio u",
     "tags": [
       "bartesaghi milan"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "d65a437982476145",
-    "slug": "gabriele-volontario-di-tor-bella-monaca-nominato-a-d65a437982476145",
-    "title": "Tor Bella Monaca: 18enne RCI nominato Alfiere del Tricolore",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-04-11T13:29:13.395777+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/11/298ecc6e318c08c0544677a5160173c6.jpg",
-    "occhiello": "GABRIELE ESPOSITO NOMINATO ALFIERE DEL TRICOLORE",
-    "lead_preview": "Gabriele Esposito, un volontario della Croce Rossa Italiana di 18 anni residente a Tor Bella Monaca, è Stato nominato Al",
-    "tags": [
-      "tor bella monaca",
-      "gabriele esposito",
-      "alfiere tricolore"
     ],
     "hero_eligible": true
   },
