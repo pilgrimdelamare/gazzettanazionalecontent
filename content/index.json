@@ -1,5 +1,20 @@
 [
   {
+    "id": "666ca186e553dba7",
+    "slug": "rocco-mole-35-ucciso-a-corviale-quattro-arresti-pe-666ca186e553dba7",
+    "title": "Rapina al cassiero: quattro arresti",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Chiara Esposito",
+    "published_at": "2026-04-11T06:02:00.294158+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/11/6fb1f325b8fce7e298c4b27b395da872.jpg",
+    "occhiello": "RAPINA AL CASSIERO: QUATTRO ARRESTI",
+    "lead_preview": "Dieci mesi dopo l'uccisione di Rocco Molè, 35 anni, ad opera di una banda di rapinatori a Corviale, il 10 gennaio 2024, ",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "88d65b2059b41616",
     "slug": "rugby-italia-in-campo-alle-1325-a-grenoble-contro-88d65b2059b41616",
     "title": "Rugby: Italia-Francia donne sabato 13:25 a Grenoble, azzurre sfidano le capoliste",
@@ -896,21 +911,6 @@
       "toronto defeat",
       "basket finale"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "666ca186e553dba7",
-    "slug": "rocco-mole-35-ucciso-a-corviale-quattro-arresti-pe-666ca186e553dba7",
-    "title": "Rapina al cassiero: quattro arresti",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Chiara Esposito",
-    "published_at": "2026-04-11T06:02:00.294158+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/11/6fb1f325b8fce7e298c4b27b395da872.jpg",
-    "occhiello": "RAPINA AL CASSIERO: QUATTRO ARRESTI",
-    "lead_preview": "Rocco Molè, 35 anni, ucciso a Corviale il 10 gennaio 2024. Le indagini hanno portato all'arresto di quattro persone, acc",
-    "tags": [],
     "hero_eligible": true
   },
   {
