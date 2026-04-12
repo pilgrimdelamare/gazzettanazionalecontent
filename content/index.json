@@ -1,5 +1,24 @@
 [
   {
+    "id": "0ccb4a414116791e",
+    "slug": "italia--14-di-consumo-gas-nei-primi-mesi-del-2026-0ccb4a414116791e",
+    "title": "Italia, -14% di consumo gas nei primi mesi del 2026: La Decrescita è già in atto",
+    "section": "cronaca",
+    "priority": 6,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-04-12T06:00:16.945350+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2025/02/27/med-1200x630-9.jpg",
+    "occhiello": "",
+    "lead_preview": "Il 12 aprile 2026, mentre la Crisi Energetica stringe il Paese, il Movimento per la Decrescita Felice torna a denunciare",
+    "tags": [
+      "crisi energetica 2026",
+      "decrescita felice",
+      "consumo gas italia"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "5be07ee0ec801405",
     "slug": "francesca-rulli-55-litri-dacqua-per-ogni-sneaker-l-5be07ee0ec801405",
     "title": "Francesca Rulli: 5,5 litri d'acqua per ogni sneaker lifestyle prodotta nel",
@@ -9203,25 +9222,6 @@
       "rapimento gucci mane",
       "gucci mane dallas",
       "1017 records"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "5552ab86edb008e4",
-    "slug": "calcio-como-bloccato-a-udine-finisce-0-0-dopo-cinq-5552ab86edb008e4",
-    "title": "Calcio: Como bloccato a Udine, finisce 0-0 dopo cinque vittorie consecutive",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-06T13:14:32.527053+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/6/066d38f43977cd8e6161cd7c81157049.jpg",
-    "occhiello": "",
-    "lead_preview": "Como, 6 aprile 2026, ore 14.59: il Como ferma la sua serie di cinque vittorie consecutive con un pareggio a reti inviola",
-    "tags": [
-      "como-udinese 0-0",
-      "serie b 2025-2026",
-      "pareggio como"
     ],
     "hero_eligible": true
   }
