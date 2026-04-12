@@ -1,5 +1,24 @@
 [
   {
+    "id": "1efbb02c36240d85",
+    "slug": "pakistan-chiede-a-iran-e-usa-di-rispettare-tregua-1efbb02c36240d85",
+    "title": "Pakistan chiede tregua nel Golfo Persico: 'Iran e Usa rispettino il cessate il fuoco'",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-12T03:56:04.704805+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/11/fc59e18cdc6b96bd347e2bc8dc1ab248.jpg",
+    "occhiello": "PAKISTAN CHIEDE A IRAN E USA DI RISPETTARE TREGUA",
+    "lead_preview": "Ishaq Dar, ministro degli Esteri del Pakistan, ha chiesto a Iran e Stati Uniti di rispettare il cessate il fuoco nel Gol",
+    "tags": [
+      "tregua golfo persico",
+      "richiesta pakistan",
+      "tensioni iran usa"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "1f11da4a9b75f52d",
     "slug": "fotogramma-kerim-alajbegovic-rimane-al-bayer-lever-1f11da4a9b75f52d",
     "title": "Bayer Leverkusen riporta Alajbegovic: 8 milioni per il ritorno del baby bomber",
@@ -427,25 +446,6 @@
       "Stella D'Argento"
     ],
     "hero_eligible": false
-  },
-  {
-    "id": "1efbb02c36240d85",
-    "slug": "pakistan-chiede-a-iran-e-usa-di-rispettare-tregua-1efbb02c36240d85",
-    "title": "Pakistan chiede a Iran e Usa di rispettare tregua nel Golfo Persico",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-12T03:56:04.704805+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/11/fc59e18cdc6b96bd347e2bc8dc1ab248.jpg",
-    "occhiello": "",
-    "lead_preview": "Ishaq Dar, ministro degli Esteri del Pakistan, ha chiesto a Iran e Stati Uniti di rispettare il cessate il fuoco, interv",
-    "tags": [
-      "cessate il fuoco golfo persico",
-      "richiesta pakistan",
-      "tensione iran usa"
-    ],
-    "hero_eligible": true
   },
   {
     "id": "2f6d4b02581dfa20",
