@@ -1,5 +1,24 @@
 [
   {
+    "id": "8b8411cf976d73ce",
+    "slug": "governo-lancia-incentivi-per-assumere-donne-e-giov-8b8411cf976d73ce",
+    "title": "Meloni lancia decreto per 100mila posti da 18 a 49 anni",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Elena Russo",
+    "published_at": "2026-04-12T07:18:39.608407+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/11/meloni_salvini_tajani.jpg",
+    "occhiello": "IL GOVERNO VS LE GIOVANI: INCENTIVI PER L'EMPOGEO",
+    "lead_preview": "Giorgia Meloni ha lanciato un nuovo decreto per incentivare l'assunzione di donne e Giovani, dopo anni di Occupazione cr",
+    "tags": [
+      "decreto meloni",
+      "occupazione giovani",
+      "incentivi lavoro"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "bb541e0290d61bb5",
     "slug": "pfas-nelle-renne-delle-svalbard-schizzati-del-900-bb541e0290d61bb5",
     "title": "PFAS nelle renne delle Svalbard aumentati del 900% dal",
@@ -819,25 +838,6 @@
       "accordo militare israele",
       "memorandum difesa 2031",
       "politica estera israele"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "8b8411cf976d73ce",
-    "slug": "governo-lancia-incentivi-per-assumere-donne-e-giov-8b8411cf976d73ce",
-    "title": "Governo lancia incentivi per assumere donne e Giovani, dopo anni di occupazione cresciuta solo tra uomini over 50",
-    "section": "politica",
-    "priority": 7,
-    "journalist_firma": "Elena Russo",
-    "published_at": "2026-04-12T07:18:39.608407+00:00",
-    "image_type": "image",
-    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/11/meloni_salvini_tajani.jpg",
-    "occhiello": "IL \"BOOM DEL LAVORO\" SI SGONFIA: GIOVANI E DONNE ESCLUSI",
-    "lead_preview": "Il Governo punta su incentivi per assumere donne e Giovani, dopo aver parlato per tre anni di \"boom di posti di Lavoro\".",
-    "tags": [
-      "incentivi lavoro donne",
-      "incentivi lavoro giovani",
-      "decreto primo maggio"
     ],
     "hero_eligible": true
   },
