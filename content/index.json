@@ -1,5 +1,24 @@
 [
   {
+    "id": "7bf6986a83261c3d",
+    "slug": "calcio-bayern-monaco-domina-a-amburgo-5-0-allo-st-7bf6986a83261c3d",
+    "title": "Calcio: Kane tripletta in 68', Bayern domina St. Pauli 5-0 ad Amburgo",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-11T20:38:33.731423+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/17a8857be3558f994af2646678b3abb858dec5ad/skysport/it/calcio/bundesliga/video/2026/04/11/1089461_1775933151662_thumb_494.0000001_1775933260671.jpg",
+    "occhiello": "KANE TRIS AD AMBURGO: BAYERN SCHIACCIA",
+    "lead_preview": "Harry Kane ha segnato una tripletta sabato 11 aprile 2026 allo Stadion an der Millerntor a Amburgo, guidando il Bayern M",
+    "tags": [
+      "tripletta kane",
+      "bayern st pauli",
+      "bundesliga 2026"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "ae020b1f852bd06f",
     "slug": "harrison-ford-83-anni-rivela-prima-del-successo-an-ae020b1f852bd06f",
     "title": "Harrison Ford, 83 anni, racconta al Fatto Quotidiano la sua carriera da falegname a icona del cinema",
@@ -1580,25 +1599,6 @@
       "campo fascista padova",
       "riqualificazione padova",
       "aned anpi proteste"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "7bf6986a83261c3d",
-    "slug": "calcio-bayern-monaco-domina-a-amburgo-5-0-allo-st-7bf6986a83261c3d",
-    "title": "Calcio: Bayern Monaco batte 5-0 lo St. Pauli ad Amburgo con tripletta di Kane",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-11T20:38:33.731423+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/17a8857be3558f994af2646678b3abb858dec5ad/skysport/it/calcio/bundesliga/video/2026/04/11/1089461_1775933151662_thumb_494.0000001_1775933260671.jpg",
-    "occhiello": "CALCIO: BAYERN MONACO DOMINA A AMBURGO, 5-0 ALLO ST. PAULI CON TRIPLETTA DI POSS",
-    "lead_preview": "Bayern Monaco ha battuto 5-0 lo St. Pauli sabato 11 aprile 2026 allo Stadion an der Millerntor a Amburgo, in una partita",
-    "tags": [
-      "bayern monaco-st pauli",
-      "tripletta kane",
-      "bundesliga 2026"
     ],
     "hero_eligible": true
   },
