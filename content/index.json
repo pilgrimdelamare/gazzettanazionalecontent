@@ -1,5 +1,24 @@
 [
   {
+    "id": "8d963324f41e0e37",
+    "slug": "tela-di-schifano-ritrovata-dopo-60-anni-in-un-carc-8d963324f41e0e37",
+    "title": "Schifano, ritrovata a Frosinone dopo 60 anni la tela donata ai detenuti nel '66",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-04-12T04:43:49.690757+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/11/195314034-4e4a7310-1bcc-43d7-be48-b20c127db7ff.jpg",
+    "occhiello": "TELA DI SCHIFANO RITROVATA DOPO 60 ANNI",
+    "lead_preview": "Mario Schifano ha dipinto una grande tela nel 1966 e l’ha donata ai detenuti del carcere di Frosinone. L’opera, lunga ol",
+    "tags": [
+      "ritrovamento tela schifano",
+      "carcere frosinone",
+      "mario schifano 1966"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "afedab862dcfb6f8",
     "slug": "istituto-italiano-di-tecnologia-simula-2-milioni-d-afedab862dcfb6f8",
     "title": "Ricercatori italiani simulano lo spliceosoma su supercomputer: 2 milioni di atomi in 200 nanosecondi",
@@ -446,25 +465,6 @@
     "tags": [
       "victor wembanyama",
       "san antonio spurs"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "8d963324f41e0e37",
-    "slug": "tela-di-schifano-ritrovata-dopo-60-anni-in-un-carc-8d963324f41e0e37",
-    "title": "Tela di Schifano ritrovata dopo 60 anni in un carcere del Frusinate",
-    "section": "cronaca",
-    "priority": 4,
-    "journalist_firma": "Chiara Esposito",
-    "published_at": "2026-04-12T04:43:49.690757+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/11/195314034-4e4a7310-1bcc-43d7-be48-b20c127db7ff.jpg",
-    "occhiello": "LA TELA DI MARIO SCHIFANO È FINALMENTE RITROVATA",
-    "lead_preview": "Una grande tela conservata per decenni in un penitenziario del Frusinate, dedicata dal pittore ai compagni reclusi. Ecco",
-    "tags": [
-      "tela schifano ritrovata",
-      "carcere frusinate",
-      "mario schifano"
     ],
     "hero_eligible": true
   },
