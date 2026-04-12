@@ -1,5 +1,24 @@
 [
   {
+    "id": "c4019342774367e7",
+    "slug": "tennis-sinner-batte-zverev-7-5-6-3-e-vola-in-final-c4019342774367e7",
+    "title": "Tennis: Sinner batte Zverev 7-5, 6-3 e vola in finale a Montecarlo",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-11T14:05:06.500780+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/11/sinner-sfida-alcaraz-montecarlo.jpg",
+    "occhiello": "ZVEREV SCONFITTO DA SINNER: LA STRISCIA DI VITTORIE CONTINUA",
+    "lead_preview": "Jannik Sinner ha sconfitto Alexander Zverev 7-5, 6-3 nel Rolex Monte-Carlo Masters il 11 aprile 2026, raggiungendo per l",
+    "tags": [
+      "sinner montecarlo",
+      "finale tennis sinner",
+      "zverev sconfitto sinner"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "157c611f05cb4b73",
     "slug": "il-loro-utilizzo-di-umorismo-e-intelligenza-artifi-157c611f05cb4b73",
     "title": "Alessandro Matri schizza a 37 milioni di visualizzazioni su TikTok in 24 ore",
@@ -926,25 +945,6 @@
       "hawks cavaliers",
       "nba 2025",
       "62 punti primo quarto"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "c4019342774367e7",
-    "slug": "tennis-sinner-batte-zverev-7-5-6-3-e-vola-in-final-c4019342774367e7",
-    "title": "Tennis: Sinner batte Zverev 7-5, 6-3 e vola in finale a Montecarlo",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-11T14:05:06.500780+00:00",
-    "image_type": "image",
-    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/11/sinner-sfida-alcaraz-montecarlo.jpg",
-    "occhiello": "SINNER FA 6-0 AGLI EUROPEI",
-    "lead_preview": "Jannik Sinner ha sconfitto Alexander Zverev 7-5, 6-3 l’11 aprile 2026 nel Rolex Monte-Carlo Masters e per la prima volta",
-    "tags": [
-      "sinner montecarlo",
-      "finale sinner",
-      "tennis sinner zverev"
     ],
     "hero_eligible": true
   },
