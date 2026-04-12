@@ -1,5 +1,24 @@
 [
   {
+    "id": "537c392231839b9e",
+    "slug": "magyar-dal-13-aprile-lungheria-tornera-una-democra-537c392231839b9e",
+    "title": "60Mila in piazza a Budapest: Magyar promette il ritorno della democrazia",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-11T18:12:41.807608+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/15/fee6b790c17f74757368f9912ffc3fa1.jpg",
+    "occhiello": "",
+    "lead_preview": "Péter Magyar ha dichiarato che dal 13 aprile 2026 l’Ungheria tornerà una democrazia, parlando a decine di migliaia di so",
+    "tags": [
+      "magyar 2026",
+      "protesta budapest",
+      "democrazia ungheria"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "5bb051475cf50ddb",
     "slug": "udine-farina-da-legumi-fuori-mercato-270mila-euro-5bb051475cf50ddb",
     "title": "Udine, farina da legumi fuori mercato: 270mila euro del Mur per trasformare scarti in cibo e packaging",
@@ -1463,21 +1482,6 @@
       "kerim alajbegovic",
       "calciomercato 2026"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "537c392231839b9e",
-    "slug": "magyar-dal-13-aprile-lungheria-tornera-una-democra-537c392231839b9e",
-    "title": "Péter Magyar ha dichiarato che dal 13 aprile 2026 l’Ungheria tornerà una democra",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-11T18:12:41.807608+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/15/fee6b790c17f74757368f9912ffc3fa1.jpg",
-    "occhiello": "",
-    "lead_preview": "Péter Magyar ha dichiarato che dal 13 aprile 2026 l’Ungheria tornerà una democrazia, annunciandolo durante un comizio a ",
-    "tags": [],
     "hero_eligible": true
   },
   {
