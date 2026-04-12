@@ -1,5 +1,24 @@
 [
   {
+    "id": "7820233f161e837b",
+    "slug": "35-candidati-in-corsa-per-la-presidenza-del-peru-u-7820233f161e837b",
+    "title": "35 Candidati in corsa per la presidenza del Perù, uno è morto ma resta nella scheda",
+    "section": "politica",
+    "priority": 7,
+    "journalist_firma": "Sergio Mancini",
+    "published_at": "2026-04-12T07:18:32.229764+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/11/fujimori-1200.jpg",
+    "occhiello": "ELEZIONI IN PERÙ, DALLA FIGLIA DELL’EX DITTATORE FUJIMORI AL “MANAGER CRISTIANO”",
+    "lead_preview": "ELEZIONI IN PERÙ, DALLA FIGLIA DELL'EX DITTATORE FUJIMORI AL \"MANAGER CRISTIANO\" PRO TRUMP: 35 CANDIDATI PER UNA PRESIDE",
+    "tags": [
+      "elezioni perù 2026",
+      "figlia fujimori",
+      "candidato morto perù"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "f7b7679e637137d6",
     "slug": "lorenzo-pardini-ex-istruttore-milanese-vive-in-svi-f7b7679e637137d6",
     "title": "Lorenzo Pardini, ex istruttore milanese, vive in Svizzera dal 2020 con famiglia",
@@ -9213,25 +9232,6 @@
       "udinese-come",
       "sky-sport-2026",
       "articolo-vuoto"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "a38031a008cd29e1",
-    "slug": "dow-jones-crolla-dello-006-mentre-nasdaq-guadagna-a38031a008cd29e1",
-    "title": "Dow Jones crolla dello 0,06% mentre Nasdaq guadagna 0,36%",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-06T13:46:52.114838+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/23/c75f5e676a3c3cb713d32f5df34c161a.jpg",
-    "occhiello": "WALL STREET GIOCA A RIDOTTO, I SOLITI GUADAGNANO LO STESSO",
-    "lead_preview": "Il 6 aprile 2026 Wall Street ha chiuso una seduta contrastata con il Dow Jones in calo dello 0,06% e il Nasdaq in rialzo",
-    "tags": [
-      "dow jones 2026",
-      "nasdaq 2026",
-      "wall street"
     ],
     "hero_eligible": true
   }
