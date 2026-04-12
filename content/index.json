@@ -1,5 +1,23 @@
 [
   {
+    "id": "2e55b31f0a9efa93",
+    "slug": "bologna-11-aprile-2026-non-ce-lha-fatta-il-bambino-2e55b31f0a9efa93",
+    "title": "Bimbo di 18 mesi cade da finestra a Bologna: trauma cranico e fratture multiple",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-11T16:59:52.852967+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2022/06/01/ospedale-maggiore-bologna.jpg",
+    "occhiello": "GENITORI: NON AVEVAMO SICUREZZE SULLE FINESTRE",
+    "lead_preview": "Un bambino di un anno e mezzo è caduto da una finestra dell’appartamento di via belvedere a Bologna alle 17.30 di gioved",
+    "tags": [
+      "caduta bimbo bologna",
+      "sicurezza finestre bologna"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "6899f831a70709d8",
     "slug": "agenzie-di-viaggio-19-in-italia-nel-2026-boom-dopo-6899f831a70709d8",
     "title": "Agenzie di viaggio +19% in Italia nel 2026, boom dopo allarme caro carburante",
@@ -1222,21 +1240,6 @@
     "image_url": "https://sport.sky.it/assets/images/0c6379c5cd66280f318458e4e488f163644d8406/skysport/it/calcio/champions-league/2025/09/18/ajax-inter-champions-league-giornata-1-commento/thuram_esposito_inter_getty.jpg",
     "occhiello": "ESPOSITO TITOLARE CON THURAM DOMENICA",
     "lead_preview": "Francesco Pio Esposito giocherà titolare al fianco di Marcus Thuram nell’attacco dell’Inter domenica 12 aprile alle 20.4",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "2e55b31f0a9efa93",
-    "slug": "bologna-11-aprile-2026-non-ce-lha-fatta-il-bambino-2e55b31f0a9efa93",
-    "title": "Bambino di un anno e mezzo cade da finestra a Bologna",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-11T16:59:52.852967+00:00",
-    "image_type": "image",
-    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2022/06/01/ospedale-maggiore-bologna.jpg",
-    "occhiello": "FONDI SCOMPARSI DOPO IL VOTO A BOLOGNA",
-    "lead_preview": "Un bambino di un anno e mezzo è caduto da una finestra a Bologna giovedì 9 aprile. La famiglia ha dichiarato di non aver",
     "tags": [],
     "hero_eligible": true
   },
