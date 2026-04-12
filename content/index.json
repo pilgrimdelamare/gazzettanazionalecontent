@@ -1,5 +1,24 @@
 [
   {
+    "id": "625318c177b33807",
+    "slug": "amanda-ungaro-minaccia-melania-trump-su-twitter-625318c177b33807",
+    "title": "Amanda Ungaro minaccia Melania Trump su Twitter",
+    "section": "cronaca",
+    "priority": 4,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-04-12T09:24:55.842596+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/12/melania-trump-1200.jpg",
+    "occhiello": "MELANIA NEL VUOTO: MINACCE SU TWITTER",
+    "lead_preview": "Il 12 aprile 2026, alle prime ore del giorno, un account Twitter ha pubblicato un messaggio in cui Amanda Ungaro, ex com",
+    "tags": [
+      "minacce melania trump",
+      "amanda ungaro",
+      "caso amanda ungaro"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "1c7f448c525ad33f",
     "slug": "benin-elezioni-presidenziali-il-17-aprile-wadagni-1c7f448c525ad33f",
     "title": "Benin alle urne dopo tentativo di colpo di Stato: chi è il favorito",
@@ -9255,25 +9274,6 @@
     "occhiello": "CIRCLE MIRROR AL CARIGNANO: TEATRO CHE NON GUARDA ALLE STELLE",
     "lead_preview": "Annie Baker debutta al Teatro Carignano di Torino martedì 7 aprile con 'Circle Mirror Transformation', spettacolo prodot",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "87b4ba7874cc8fb5",
-    "slug": "salgari-rivive-a-scuola-esce-il-10-aprile-il-roman-87b4ba7874cc8fb5",
-    "title": "Feltrinelli Kids lancia 'Emilio e i pirati del cuore' con 50.000 copie",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-07T22:50:06.158399+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/988d4bb072411ad62a08e5d22934675e.jpg",
-    "occhiello": "EMILIO SALGARI RIENTRA A SCUOLA CON I FIGLI DELLA SCUOLA ITALIANA",
-    "lead_preview": "Milano, 7 aprile 2026. Il nuovo romanzo per ragazzi \"Emilio e i pirati del cuore\" di Enzo D'Alò e Giacomo Scarpelli, edi",
-    "tags": [
-      "emilio e i pirati del cuore",
-      "feltrinelli kids",
-      "emilio salgari"
-    ],
     "hero_eligible": true
   }
 ]
