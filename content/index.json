@@ -1,5 +1,20 @@
 [
   {
+    "id": "eb7111324fa5d0fb",
+    "slug": "fondi-scomparsi-dopo-il-voto-eb7111324fa5d0fb",
+    "title": "Maria Rosa Esposito, 43 anni, è stata trovata agonizzante il 11 aprile 2026 nel ",
+    "section": "societa",
+    "priority": 5,
+    "journalist_firma": "Federica Conti",
+    "published_at": "2026-04-11T09:29:10.137293+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/1/31/04864b19ec922af9c301909775b87e7e.jpg",
+    "occhiello": "",
+    "lead_preview": "Maria Rosa Esposito, 43 anni, è stata trovata agonizzante il 11 aprile 2026 nel quartiere Sanità a Napoli. Accanto a lei",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "847ad0ebdcac8f09",
     "slug": "isabella-ferrari-attacca-i-finanziamenti-al-cinema-847ad0ebdcac8f09",
     "title": "Fondi perde 150mila euro per il cinema: la città di 40mila abitanti penalizzata",
@@ -766,21 +781,6 @@
       "arresto provenzano",
       "corleone mafia"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "eb7111324fa5d0fb",
-    "slug": "fondi-scomparsi-dopo-il-voto-eb7111324fa5d0fb",
-    "title": "Napoli, donna trovata agonizzante: compagno arrestato per la sua morte",
-    "section": "societa",
-    "priority": 5,
-    "journalist_firma": "Federica Conti",
-    "published_at": "2026-04-11T09:29:10.137293+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/1/31/04864b19ec922af9c301909775b87e7e.jpg",
-    "occhiello": "FONDI SCOMPARSI DOPO IL VOTO",
-    "lead_preview": "Il 11 aprile 2026, a Napoli, è stata trovata agonizzante una donna di 43 anni, Maria Rosa Esposito, e il suo compagno, G",
-    "tags": [],
     "hero_eligible": true
   },
   {
