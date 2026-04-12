@@ -1,5 +1,24 @@
 [
   {
+    "id": "f7b7679e637137d6",
+    "slug": "lorenzo-pardini-ex-istruttore-milanese-vive-in-svi-f7b7679e637137d6",
+    "title": "Lorenzo Pardini, ex istruttore milanese, vive in Svizzera dal 2020 con famiglia",
+    "section": "societa",
+    "priority": 7,
+    "journalist_firma": "Marco Sala",
+    "published_at": "2026-04-12T07:18:18.298088+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/09/Lorenzo-Pardini-1200.jpg",
+    "occhiello": "EMIGRAZIONE DALLA LOMBARDA: \"A MILANO TROPPO STRESS\".",
+    "lead_preview": "Lorenzo Pardini, 37 anni, è un istruttore di nuoto e giornalista che ha lasciato Milano per vivere in Svizzera. \"A Milan",
+    "tags": [
+      "emigrazione lombarda",
+      "lorenzo pardini",
+      "vita in svizzera"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "9b79ac2582baf8c6",
     "slug": "calcio-genoa-sassuolo-in-diretta-dazn-domenica-12-9b79ac2582baf8c6",
     "title": "Calcio: Genoa-Sassuolo in diretta DAZN domenica 12 aprile alle 12.30",
@@ -9213,23 +9232,6 @@
       "dow jones 2026",
       "nasdaq 2026",
       "wall street"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "9af7e0dd5f8304ac",
-    "slug": "calcio-manchester-city-batte-liverpool-4-0-e-vince-9af7e0dd5f8304ac",
-    "title": "Calcio: Manchester City vince FA Cup 4-0 contro Liverpool con Lijnders in panchina",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-06T11:32:56.760646+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/27b03b790fca83586e8da087bd38c44f574c8cdb/skysport/it/calcio/guardiola-allenatori-allievi/ipa_pepijn_lijnders_kolo_toure_guardiola.jpg",
-    "occhiello": "",
-    "lead_preview": "Pepijn Lijnders ha guidato il Manchester City alla vittoria in FA Cup per 4-0 contro il Liverpool il 6 aprile 2026, conq",
-    "tags": [
-      "fa cup 2026"
     ],
     "hero_eligible": true
   }
