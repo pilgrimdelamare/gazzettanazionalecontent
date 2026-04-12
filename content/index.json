@@ -1,5 +1,23 @@
 [
   {
+    "id": "bd65d6ab25a459bb",
+    "slug": "cuba-apre-il-commercio-dei-prodotti-agricoli-al-se-bd65d6ab25a459bb",
+    "title": "Cuba, addio monopolio: il settore privato vende prodotti agricoli",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-11T09:14:36.028257+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/16/acd318a661881783c8c598fb15a5a407.jpg",
+    "occhiello": "CUBA LIBERALIZZA VENDITA DI FRUTTA E VERDURA",
+    "lead_preview": "Cuba ha autorizzato il settore privato a comprare e vendere prodotti agricoli, una prerogativa finora esclusiva dello St",
+    "tags": [
+      "cuba liberalizza",
+      "riforma cuba"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "efbdd3950c9f0490",
     "slug": "basket-nuggets-sfruttano-i-thunder-per-conquistare-efbdd3950c9f0490",
     "title": "Basket: Jokić in tripla doppia da 31 punti, Denver domina OKC 127-107",
@@ -712,25 +730,6 @@
       "nba philadelphia",
       "indiana vs philadelphia",
       "basket nba"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "bd65d6ab25a459bb",
-    "slug": "cuba-apre-il-commercio-dei-prodotti-agricoli-al-se-bd65d6ab25a459bb",
-    "title": "Cuba libera la vendita di frutta e verdura da privati a partire dal 15 aprile",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-11T09:14:36.028257+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/16/acd318a661881783c8c598fb15a5a407.jpg",
-    "occhiello": "CUBA APRE IL COMMERCIO DEI PRODOTTI AGRICOLI AL SETTORE PRIVATO",
-    "lead_preview": "11 aprile 2026 Cuba ha autorizzato il settore privato a comprare e vendere prodotti agricoli, una prerogativa finora esc",
-    "tags": [
-      "cuba agricoltura privata",
-      "diaz-canel decreto 2026",
-      "commercio alimentare cuba"
     ],
     "hero_eligible": true
   },
