@@ -1,5 +1,24 @@
 [
   {
+    "id": "b76529bd2284c203",
+    "slug": "in-arrivo-30-piu-tassi-in-cortina-la-sicurezza-si-b76529bd2284c203",
+    "title": "In arrivo 30% più tassi in Cortina: la Sicurezza si prepara",
+    "section": "cronaca",
+    "priority": 6,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-04-12T08:52:22.105189+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/12/104330217-b8d967aa-488c-4721-a0fb-7cc5c4dc27ca.jpg",
+    "occhiello": "TROPPI TURISTI (E POCO RISPETTOSI), A CORTINA ARRIVANO GLI AGENTI DEI SENTIERI",
+    "lead_preview": "Cortina D'Ampezzo si prepara ad accogliere un aumento del 30 per cento di visitatori per l'estate. La polizia locale vig",
+    "tags": [
+      "turisti cortina",
+      "sicurezza cortina",
+      "agenti sentieri"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "8aad02ad1e6615ce",
     "slug": "truppa-annuncia-blocco-navale-nel-golfo-8aad02ad1e6615ce",
     "title": "Truppa annuncia blocco navale nel Golfo",
@@ -9257,21 +9276,6 @@
       "bundesliga 2025-2026",
       "bayern monaco"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "29a7c94738ab3fef",
-    "slug": "bombardato-per-sbaglio-il-palazzo-del-leader-crist-29a7c94738ab3fef",
-    "title": "Bombardato per sbaglio il palazzo del leader cristiano libanese",
-    "section": "politica",
-    "priority": 7,
-    "journalist_firma": "Elena Russo",
-    "published_at": "2026-04-06T15:36:21.490965+00:00",
-    "image_type": "image",
-    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/06/24307691_medium-1200x630.jpg",
-    "occhiello": "BOMBARDATO PER SBAGLIO IL PALAZZO DEL LEADER CRISTIANO LIBANESE",
-    "lead_preview": "Le Forze di Difesa israeliane hanno ammesso di aver bombardato per errore la casa di Pierre Mouawad, un leader Cristiano",
-    "tags": [],
     "hero_eligible": true
   }
 ]
