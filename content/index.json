@@ -1,5 +1,24 @@
 [
   {
+    "id": "5bad0c6f35f67873",
+    "slug": "17000-soldati-mobilitati-nel-golfo-5bad0c6f35f67873",
+    "title": "Meloni invia 2.300 militari in Golfo Persico: 17.000 tra UE e USA per Sicurezza navigazione",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-11T07:47:05.825947+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/10/222601043-f475362f-9bc1-40b1-b4f7-6a00183b5303.jpg",
+    "occhiello": "17.000 SOLDATI SCHIERATI NEL GOLFO IN 48 ORE",
+    "lead_preview": "Giorgia Meloni ha confermato la partecipazione italiana alla coalizione Internazionale nel Golfo Persico la partecipazio",
+    "tags": [
+      "golfo persico",
+      "missione italiana",
+      "sicurezza navigazione"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "847ad0ebdcac8f09",
     "slug": "isabella-ferrari-attacca-i-finanziamenti-al-cinema-847ad0ebdcac8f09",
     "title": "Isabella ferrari: \"criteri fondi cinema opachi\"",
@@ -799,25 +818,6 @@
       "sei nazioni femminile",
       "italia rugby femminile",
       "francia-italia rugby"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "5bad0c6f35f67873",
-    "slug": "17000-soldati-mobilitati-nel-golfo-5bad0c6f35f67873",
-    "title": "17.000 Soldati schierati nel Golfo Persico da Usa, Ue e Paesi del Golfo per crisi a Hormuz",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-04-11T07:47:05.825947+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/10/222601043-f475362f-9bc1-40b1-b4f7-6a00183b5303.jpg",
-    "occhiello": "17.000 MILITARI SULLO STRETTO",
-    "lead_preview": "17.000 Soldati sono stati dispiegati nella regione del Golfo Persico da una coalizione Internazionale in risposta all'es",
-    "tags": [
-      "crisi hormuz",
-      "coalizione golfo",
-      "tensione iran"
     ],
     "hero_eligible": true
   },
