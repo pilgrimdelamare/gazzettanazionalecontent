@@ -1,5 +1,24 @@
 [
   {
+    "id": "d0118e98ca4cf60a",
+    "slug": "scozia-batte-il-galles-nel-sei-nazioni-femminile-d0118e98ca4cf60a",
+    "title": "Rugby: la Scozia si prende la vittoria 24-19 contro il Galles",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-11T20:50:12.391565+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/e4075d27bb335eee6dbfd7100ccf57aaa936dad5/skysport/it/rugby/video/2026/04/11/1089443_1775931807444_thumb_494.0000001_1775934682062.jpg",
+    "occhiello": "SCOZIA VINCE IL SEI NAZIONI FEMMINILE CON UNA VITTORIA SORPRENDENTE",
+    "lead_preview": "Glasgow, 11 aprile 2026 - La Scozia ha battuto il Galles 24-19 nell'incontro del Sei Nazioni femminile, ottenendo la sua",
+    "tags": [
+      "sei nazioni femminile",
+      "scozia galles",
+      "vittoria scozia"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "e794328242fb1830",
     "slug": "zelensky-a-roma-il-12-aprile-per-incontrare-meloni-e794328242fb1830",
     "title": "Zelensky a Roma il 12 aprile per incontrare Meloni a Palazzo Chigi",
@@ -1853,23 +1872,6 @@
     "tags": [
       "gasperini ranieri",
       "scontro allenatori"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "d0118e98ca4cf60a",
-    "slug": "scozia-batte-il-galles-nel-sei-nazioni-femminile-d0118e98ca4cf60a",
-    "title": "Rugby: Scozia batte Galles 24-19, seconda vittoria consecutiva nel Sei Nazioni femminile",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-11T20:50:12.391565+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/e4075d27bb335eee6dbfd7100ccf57aaa936dad5/skysport/it/rugby/video/2026/04/11/1089443_1775931807444_thumb_494.0000001_1775934682062.jpg",
-    "occhiello": "SCOTLAND BATTUTI I GALLES NEL SEI NAZIONI FEMMINILE",
-    "lead_preview": "Lunedì 11 aprile 2026, Glasgow - La Scozia ha battuto il Galles 24-19 nell'incontro del Sei Nazioni femminile, ottenendo",
-    "tags": [
-      "sei nazioni femminile"
     ],
     "hero_eligible": true
   },
