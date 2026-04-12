@@ -1,5 +1,24 @@
 [
   {
+    "id": "5be07ee0ec801405",
+    "slug": "francesca-rulli-55-litri-dacqua-per-ogni-sneaker-l-5be07ee0ec801405",
+    "title": "Francesca Rulli: 5,5 litri d'acqua per ogni sneaker lifestyle prodotta nel",
+    "section": "societa",
+    "priority": 6,
+    "journalist_firma": "Marco Sala",
+    "published_at": "2026-04-12T06:00:12.750205+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/03/12/Screenshot-2026-03-12-114556.jpg",
+    "occhiello": "2,5 MILIARDI DI PAIA, UN CONTABILE IN GUANTI BIANCHI",
+    "lead_preview": "Francesca Rulli, consulente in sostenibilità per la moda, il 12 aprile 2026 ha calcolato che la produzione di ogni scarp",
+    "tags": [
+      "francesca rulli",
+      "sostenibilità moda",
+      "consumo acqua sneaker"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "f9358fba450e92b5",
     "slug": "giancarlo-giorgetti-ministro-delleconomia-ha-detto-f9358fba450e92b5",
     "title": "Giorgetti: tagli lineari a tutte le spese pubbliche se entro luglio non cambiano i Conti",
@@ -9203,25 +9222,6 @@
       "como-udinese 0-0",
       "serie b 2025-2026",
       "pareggio como"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "4e26048c54c0ed05",
-    "slug": "centocinquanta-imbarcazioni-salparono-da-marsiglia-4e26048c54c0ed05",
-    "title": "20 Navi da Marsiglia verso Gaza: flottiglia intercettata da Israele entro il 9 aprile",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-04-05T16:45:47.614834+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Fishing_boat_N%C3%B8rre_Vorup%C3%B8r_2012-11-18_cropped.jpg",
-    "occhiello": "20 NAVI FRANCESI SFIDANO IL BLOCCO ISRAELIANO",
-    "lead_preview": "20 navi partite da Marsiglia il 5 aprile 2026 si sono unite alla \"Global Sumud Flotill\", una coalizione internazionale d",
-    "tags": [
-      "flottiglia gaza",
-      "blocco israele",
-      "navigi libere"
     ],
     "hero_eligible": true
   }
