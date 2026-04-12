@@ -1,5 +1,24 @@
 [
   {
+    "id": "e0e3381aa199f56a",
+    "slug": "ciclismo-augustin-seixas-vince-il-giro-dei-paesi-b-e0e3381aa199f56a",
+    "title": "Ciclismo: Seixas domina e vince il Giro dei Paesi Baschi con 42 secondi di vantaggio",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-11T16:45:25.169117+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/10/4b1b4f33ba45d62d1127da706db6845f.jpg",
+    "occhiello": "PRIMA VITTORIA SU UNA CORSIA A TAPPE",
+    "lead_preview": "Augustin Seixas ha vinto il Giro dei Paesi Baschi il 11 aprile 2026, conquistando il primo successo in una corsa a tappe",
+    "tags": [
+      "giro paesi baschi",
+      "vittoria seixas",
+      "ciclismo 2026"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "563e15d011736ada",
     "slug": "meloni-conferma-bonus-bebe-2026-1000-euro-per-fami-563e15d011736ada",
     "title": "Meloni conferma Bonus bebè da 1000 euro per famiglie fino a 40mila ISEE",
@@ -1201,21 +1220,6 @@
       "inter-roma 2026",
       "lautaro martinez ko"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "e0e3381aa199f56a",
-    "slug": "ciclismo-augustin-seixas-vince-il-giro-dei-paesi-b-e0e3381aa199f56a",
-    "title": "Augustin Seixas ha vinto il Giro dei Paesi Baschi il 11 aprile 2026, conquistand",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-11T16:45:25.169117+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/10/4b1b4f33ba45d62d1127da706db6845f.jpg",
-    "occhiello": "",
-    "lead_preview": "Augustin Seixas ha vinto il Giro dei Paesi Baschi il 11 aprile 2026, conquistando il primo successo in una corsa a tappe",
-    "tags": [],
     "hero_eligible": true
   },
   {
