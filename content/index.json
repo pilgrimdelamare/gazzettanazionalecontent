@@ -1,5 +1,20 @@
 [
   {
+    "id": "c4019342774367e7",
+    "slug": "tennis-sinner-batte-zverev-7-5-6-3-e-vola-in-final-c4019342774367e7",
+    "title": "Sinner esploda: sconfitte zverev e vola in finale a montecarlo",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-11T14:05:06.500780+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/11/sinner-sfida-alcaraz-montecarlo.jpg",
+    "occhiello": "SINNER ESPLODA: SCONFITTE ZVEREV E VOLA IN FINALE A MONTECARLO",
+    "lead_preview": "Jannik Sinner ha sconfitto Alexander Zverev 7-5, 6-3 nel Rolex Monte-Carlo Masters il 11 aprile 2026. Il venezuelano Sin",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "569732cae6229316",
     "slug": "basket-hawks-batte-cavaliers-a-atlanta-con-124-102-569732cae6229316",
     "title": "Basket: Hawks umiliano i Cavaliers con 124 punti a Atlanta",
@@ -31,25 +46,6 @@
     "occhiello": "LA SQUADRA AZZURRA SENZA LE SUE STELLE, MA CON LA SPERANZA DI UN MIRACOLO",
     "lead_preview": "La squadra femminile Italiana di rugby sfiderà la Francia sabato 11 aprile alle 13.25 a Grenoble, nel corso del Sei Nazi",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "c4019342774367e7",
-    "slug": "tennis-sinner-batte-zverev-7-5-6-3-e-vola-in-final-c4019342774367e7",
-    "title": "Tennis: Sinner batte Zverev 7-5, 6-3 e vola in finale a Montecarlo",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-11T14:05:06.500780+00:00",
-    "image_type": "image",
-    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/11/sinner-sfida-alcaraz-montecarlo.jpg",
-    "occhiello": "ZVEREV SCONFITTO DA SINNER: LA STRISCIA DI VITTORIE CONTINUA",
-    "lead_preview": "Jannik Sinner ha sconfitto Alexander Zverev 7-5, 6-3 nel Rolex Monte-Carlo Masters il 11 aprile 2026, raggiungendo per l",
-    "tags": [
-      "sinner montecarlo",
-      "finale tennis sinner",
-      "zverev sconfitto sinner"
-    ],
     "hero_eligible": true
   },
   {
