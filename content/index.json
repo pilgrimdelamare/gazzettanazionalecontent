@@ -1,5 +1,24 @@
 [
   {
+    "id": "78b6af1af61cc119",
+    "slug": "daniele-luttazzi-notte-in-treno-con-una-recluta-e-78b6af1af61cc119",
+    "title": "Daniele Luttazzi, notte in treno con una recluta e un professore a Lozovaja il 12 aprile",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-04-12T04:12:12.493325+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2017/11/Russia-parata-Armata-Rossa-1941-4.jpg",
+    "occhiello": "UNA RECLUTA SUL TRENO DI NOTTE",
+    "lead_preview": "Una novella apocrifa di Ilf e Petrov ha ispirato un viaggio sul treno di notte. Il 12 aprile 2026, il giornalista Daniel",
+    "tags": [
+      "viaggio luttazzi",
+      "treno notte",
+      "recluta lozovaja"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "08923e5b36d5207d",
     "slug": "500-nuove-attivita-a-venezia-grazie-al-bando-antip-08923e5b36d5207d",
     "title": "500 Nuove Attività a Venezia grazie al bando 'antipaccottiglia'",
@@ -9193,25 +9212,6 @@
       "pensioni anticipate",
       "arretrati pensionati",
       "correzione errore governo"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "c1a836cccc1f1a9d",
-    "slug": "papa-leone-xiv-dare-speranza-ai-popoli-in-guerra-c1a836cccc1f1a9d",
-    "title": "Papa Leone XIV riceve simboli di guerra a San Pietro: frammento di Gaza e elmetto di Bachmut sotto l'altare",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Sergio Mancini",
-    "published_at": "2026-04-06T10:35:55.012129+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/22/869889e6b50efd94452c2e4533747ff4.jpg",
-    "occhiello": "",
-    "lead_preview": "Papa Leone XIV ha dichiarato che è importante dare speranza ai popoli tormentati dalla guerra, secondo quanto riportato ",
-    "tags": [
-      "papa leone xiv",
-      "simboli guerra",
-      "gaza bachmut"
     ],
     "hero_eligible": true
   }
