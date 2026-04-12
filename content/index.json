@@ -1,5 +1,24 @@
 [
   {
+    "id": "efbdd3950c9f0490",
+    "slug": "basket-nuggets-sfruttano-i-thunder-per-conquistare-efbdd3950c9f0490",
+    "title": "Basket: Jokić in tripla doppia da 31 punti, Denver domina OKC 127-107",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-11T06:48:23.848821+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/c41af238df3cab111395886119692f42e43b7293/skysport/it/nba/video/2026/04/11/1089280_1775883344396_thumb_494.0000001_1775886364426.jpg",
+    "occhiello": "",
+    "lead_preview": "Nikola Jokić ha guidato i Denver Nuggets alla vittoria per 127-107 contro gli Oklahoma City Thunder, sabato 11 aprile, a",
+    "tags": [
+      "jokić tripla doppia",
+      "nuggets okc",
+      "nba 2025"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "3dc4867d822d58d9",
     "slug": "gasperini-e-ranieri-si-scontrano-a-roma-dopo-lelim-3dc4867d822d58d9",
     "title": "Gasperini e Ranieri litigano a Roma",
@@ -713,21 +732,6 @@
       "diaz-canel decreto 2026",
       "commercio alimentare cuba"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "efbdd3950c9f0490",
-    "slug": "basket-nuggets-sfruttano-i-thunder-per-conquistare-efbdd3950c9f0490",
-    "title": "Denver Nuggets Oklahoma City Thunder 127-107, la partita si è disputata sabato 1",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-11T06:48:23.848821+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/c41af238df3cab111395886119692f42e43b7293/skysport/it/nba/video/2026/04/11/1089280_1775883344396_thumb_494.0000001_1775886364426.jpg",
-    "occhiello": "",
-    "lead_preview": "Denver Nuggets Oklahoma City Thunder 127-107, la partita si è disputata sabato 11 aprile. La vittoria arride ai padroni ",
-    "tags": [],
     "hero_eligible": true
   },
   {
