@@ -1,5 +1,23 @@
 [
   {
+    "id": "a346b9b90bb57cb6",
+    "slug": "a-napoli-lorto-botanico-ospita-30-anni-di-fiabe-pe-a346b9b90bb57cb6",
+    "title": "A Napoli l'Orto Botanico ospita 30 anni di Fiabe per bambini fino al",
+    "section": "cultura",
+    "priority": 6,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-12T05:29:48.721705+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/11/44a416d247b4562a001dec8d4aad9f58.jpg",
+    "occhiello": "",
+    "lead_preview": "Le Fiabe di Primavera sono tornate all’Orto Botanico di Napoli, dove resteranno in scena fino al 31 maggio 2026. La rass",
+    "tags": [
+      "fiabe di primavera",
+      "orto botanico napoli"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "b94fa229f203deca",
     "slug": "calcio-cagliari-batte-cremonese-1-0-zappa-decide-a-b94fa229f203deca",
     "title": "Calcio: Zappa al 67' regala il Cagliari, 1-0 alla Cremonese al Sant'Elia",
@@ -9204,25 +9222,6 @@
       "flottiglia gaza",
       "blocco israele",
       "navigi libere"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "8e8593ccc91a84f0",
-    "slug": "cuba-2010-prigionieri-liberati-8e8593ccc91a84f0",
-    "title": "Cuba libera 2.010 detenuti in indulto record firmato da Díaz-Canel",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Elena Russo",
-    "published_at": "2026-04-05T17:30:45.956150+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1592825595341-a12844b4551b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxDdWJhJTIwcHJpc29uZXJzJTIwcmVsZWFzZWQlMjAyMDEwfGVufDB8MHx8fDE3NzU0MjIyNTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "CUBA RILASCIA 2.010 DETENUTI CON L’INDULTO DI PASQUA",
-    "lead_preview": "L’Avana ha annunciato il 3 aprile 2026 l’indulto di 2.010 detenuti, il più ampio degli ultimi vent’anni, firmato da Migu",
-    "tags": [
-      "indulto cuba 2026",
-      "diaz-canel indulto",
-      "detenuti cuba"
     ],
     "hero_eligible": true
   }
