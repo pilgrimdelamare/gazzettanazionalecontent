@@ -1,5 +1,24 @@
 [
   {
+    "id": "afedab862dcfb6f8",
+    "slug": "istituto-italiano-di-tecnologia-simula-2-milioni-d-afedab862dcfb6f8",
+    "title": "Istituto Italiano di Tecnologia simula 2 milioni di atomi dello spliceosoma su supercomputer",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-04-12T04:43:49.104720+00:00",
+    "image_type": "image",
+    "image_url": "https://media-assets.wired.it/photos/69d64d450fa53fc931fa0c70/16:9/w_1280,c_limit/1270634324",
+    "occhiello": "TUTTI I SEGRETI DELLO SPLICEOSOMA",
+    "lead_preview": "I ricercatori dell'Istituto Italiano di Tecnologia hanno \"filmato\" al computer le dinamiche dello spliceosoma, un proces",
+    "tags": [
+      "spliceosoma iit",
+      "supercomputer biologia",
+      "farmaci malattie genetiche"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "833331345250d599",
     "slug": "una-ricercatrice-svedese-ha-inventato-una-malattia-833331345250d599",
     "title": "Una ricercatrice svedese ha inventato una malattia per smascherare l'ignoranza dei chatbot",
@@ -9201,25 +9220,6 @@
       "operazione senza anestesia",
       "molinette torino",
       "davide bianchi"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "a3c0998bf7113898",
-    "slug": "astronauti-artemis-ii-superano-record-di-distanza-a3c0998bf7113898",
-    "title": "Astronauta canadese batte record distanza Terra: 400.203 km con Artemis II",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-05T15:29:24.671626+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Jeremy_Hansen%E2%80%99s_suit_for_Artemis_II_%28jsc2023e016416%29.jpg",
-    "occhiello": "",
-    "lead_preview": "Jeremy Hansen, astronauta dell’Agenzia spaziale canadese, insieme agli altri tre membri dell’equipaggio dell’Artemis II,",
-    "tags": [
-      "record distanza artemis",
-      "astronauta hansen",
-      "missione artemis ii"
     ],
     "hero_eligible": true
   }
