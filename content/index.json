@@ -1,5 +1,24 @@
 [
   {
+    "id": "d1d05a16ba496d77",
+    "slug": "vance-a-islamabad-nessun-accordo-con-liran-e-la-lo-d1d05a16ba496d77",
+    "title": "Vance a Islamabad: 'Nessun accordo con l'Iran, è la loro ultima chance'",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-12T03:40:51.219379+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/12/000844023-8e578cb5-5b92-48ca-be99-81ba7e1e1712.jpg",
+    "occhiello": "",
+    "lead_preview": "Vance, 12 aprile 2026, Islamabad. Il vicepresidente degli Stati Uniti Mike Vance ha confermato al termine della prima gi",
+    "tags": [
+      "vance a islamabad",
+      "negociati iran",
+      "ultimatum iran"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "2e55b31f0a9efa93",
     "slug": "bologna-11-aprile-2026-non-ce-lha-fatta-il-bambino-2e55b31f0a9efa93",
     "title": "Bimbo di 18 mesi cade da finestra a Bologna: trauma cranico e fratture multiple",
@@ -9189,25 +9208,6 @@
       "mostra giotto",
       "perugia pasqua",
       "calo visitatori"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "80c5eb99f9f00b08",
-    "slug": "4-chilometri-di-code-sulla7-per-lavori-pasqualetta-80c5eb99f9f00b08",
-    "title": "4 Km di coda sull'A7 tra Genova e Milano per restringimento dopo intervento notturno",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-04-06T10:31:26.331686+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/6/615283f8c702d4f3b5eac254cb14e28f.jpg",
-    "occhiello": "4 CHILOMETRI DI CACCIA AL TEMPO",
-    "lead_preview": "Autostrada A7, tratto tra Genova e Milano, lunedì 6 aprile 2026: quattro chilometri di coda causati da lavori programmat",
-    "tags": [
-      "a7 genova milano",
-      "lavori pasquali a7",
-      "coda a7 2026"
     ],
     "hero_eligible": true
   }
