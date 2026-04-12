@@ -1,5 +1,24 @@
 [
   {
+    "id": "afedab862dcfb6f8",
+    "slug": "istituto-italiano-di-tecnologia-simula-2-milioni-d-afedab862dcfb6f8",
+    "title": "Ricercatori italiani simulano lo spliceosoma su supercomputer: 2 milioni di atomi in 200 nanosecondi",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-04-12T04:43:49.104720+00:00",
+    "image_type": "image",
+    "image_url": "https://media-assets.wired.it/photos/69d64d450fa53fc931fa0c70/16:9/w_1280,c_limit/1270634324",
+    "occhiello": "2 MILIONI DI ATOMI FILMATI IN 3D",
+    "lead_preview": "L'Istituto Italiano di Tecnologia ha simulato l'intero spliceosoma, 2 milioni di atomi, sul supercomputer Leonardo a Bol",
+    "tags": [
+      "ricerca italiana",
+      "supercomputer leonardo",
+      "istituto italiano tecnologia"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "84211081f7a9e662",
     "slug": "federica-colonna-sostituita-da-chatgpt-lavora-per-84211081f7a9e662",
     "title": "Federica Colonna sostituita da un'IA su ContentFlow: i clienti pagano e non lo sanno",
@@ -446,25 +465,6 @@
       "tela schifano ritrovata",
       "carcere frusinate",
       "mario schifano"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "afedab862dcfb6f8",
-    "slug": "istituto-italiano-di-tecnologia-simula-2-milioni-d-afedab862dcfb6f8",
-    "title": "Istituto Italiano di Tecnologia simula 2 milioni di atomi dello spliceosoma su supercomputer",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-04-12T04:43:49.104720+00:00",
-    "image_type": "image",
-    "image_url": "https://media-assets.wired.it/photos/69d64d450fa53fc931fa0c70/16:9/w_1280,c_limit/1270634324",
-    "occhiello": "TUTTI I SEGRETI DELLO SPLICEOSOMA",
-    "lead_preview": "I ricercatori dell'Istituto Italiano di Tecnologia hanno \"filmato\" al computer le dinamiche dello spliceosoma, un proces",
-    "tags": [
-      "spliceosoma iit",
-      "supercomputer biologia",
-      "farmaci malattie genetiche"
     ],
     "hero_eligible": true
   },
