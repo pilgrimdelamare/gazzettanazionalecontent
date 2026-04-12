@@ -1,5 +1,24 @@
 [
   {
+    "id": "3718b51f8466a909",
+    "slug": "2299-violazioni-della-tregua-di-pasqua-da-parte-uc-3718b51f8466a909",
+    "title": "2.299 Violazioni della tregua di Pasqua da parte ucraine, secondo Kiev",
+    "section": "esteri",
+    "priority": 6,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-12T08:04:38.736249+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/14/88e3739e15796100bf4dea24da685128.jpg",
+    "occhiello": "MOSCA E KIEV SI ACCUSANO A VICENDA",
+    "lead_preview": "La Pasqua è stata oggetto di violazioni da entrambe le parti, come sempre. secondo l'esercito ucraino, ci sono stati 2.2",
+    "tags": [
+      "guerra ucraina",
+      "pasqua",
+      "accuse russo ucraina"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "7631cdc1b978184b",
     "slug": "moretti-42enne-arrestato-a-roma-dopo-aver-sfondato-7631cdc1b978184b",
     "title": "Moretti, 42enne, arrestato a Roma dopo aver sfondato la porta della ex con una mannaia",
@@ -9225,24 +9244,6 @@
       "real madrid",
       "vinicius jr",
       "calcio mercato"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "033e66d0d87fe5ab",
-    "slug": "calcio-udinese-como-0-0-033e66d0d87fe5ab",
-    "title": "Calcio: Udinese-Como 0-0",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-06T15:05:36.296772+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/e69812bdb4848c76e73ac8005ae3f1c25d1bc95f/skysport/it/calcio/serie-a/video/2026/04/06/1088046_1775483231103_thumb_494.0000001_1775483309974.jpg",
-    "occhiello": "UDINESE E COMO SI BLOCCANO IN PAREGGIO SENZA RETI",
-    "lead_preview": "Udinese-Como 0-0, sabato 6 aprile 2026, al Friuli. Niente gol nemmeno per la squadra allenata da Fabregas, reduce da due",
-    "tags": [
-      "udinese como",
-      "calcio serie a"
     ],
     "hero_eligible": true
   }
