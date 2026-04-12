@@ -1,5 +1,24 @@
 [
   {
+    "id": "8aad02ad1e6615ce",
+    "slug": "truppa-annuncia-blocco-navale-nel-golfo-8aad02ad1e6615ce",
+    "title": "Truppa annuncia blocco navale nel Golfo",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-12T08:51:53.634488+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/12/d69b456688dc3e975ee60babffa90504.jpg",
+    "occhiello": "TRUMP MINACCIA IL GOLFO: \"BLOCCO NAVALE\" PER DANNEGGIARE L'IRAN",
+    "lead_preview": "Donald Trump ha annunciato una possibile misura per danneggiare l'Iran: un blocco navale nel Golfo. la notizia è emersa ",
+    "tags": [
+      "blocco navale trump",
+      "guerra iran",
+      "trump golfo"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "85718910ff533c7d",
     "slug": "jd-vance-e-ghalibaf-non-arrivano-a-un-accordo-per-85718910ff533c7d",
     "title": "JD Vance e Ghalibaf non arrivano a un accordo per lo Stretto di Hormuz",
@@ -9252,21 +9271,6 @@
     "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/06/24307691_medium-1200x630.jpg",
     "occhiello": "BOMBARDATO PER SBAGLIO IL PALAZZO DEL LEADER CRISTIANO LIBANESE",
     "lead_preview": "Le Forze di Difesa israeliane hanno ammesso di aver bombardato per errore la casa di Pierre Mouawad, un leader Cristiano",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "7128c69abb81bc24",
-    "slug": "moses-pendleton-porta-a-bologna-la-prima-di-botani-7128c69abb81bc24",
-    "title": "MOMIX torna a Bologna con Botanica Season 2",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-04-06T12:44:25.707175+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/6/1d0f285f0daa5606440c5cb39fe35a87.jpg",
-    "occhiello": "MOMIX porta a Bologna una novità danza",
-    "lead_preview": "Moses Pendleton riporta a Bologna la prima assoluta di Botanica - Season 2 con i suoi Momix, dopo dodici anni di assenza",
     "tags": [],
     "hero_eligible": true
   }
