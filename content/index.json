@@ -1,5 +1,20 @@
 [
   {
+    "id": "96988aa6f085807f",
+    "slug": "la-gigantesca-mireille-scava-il-tunnel-caterina-12-96988aa6f085807f",
+    "title": "La tbm da 1200 tonnellate miquella",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-11T05:15:29.630536+00:00",
+    "image_type": "image",
+    "image_url": "https://i2.res.24o.it/images2010/S24/Documenti/2026/04/11/Immagini/Ritagli/Abbattimento%20diaframma%20Galleria%20Caterina-U33462757017NAw-1440x752@IlSole24Ore-Web.jpeg?r=1170x507",
+    "occhiello": "LA TBM DA 1200 TONNELLATE MIQUELLA",
+    "lead_preview": "Mireille, la Tunnel Boring Machine da 1200 tonnellate, ha completato il primo tunnel della linea ferroviaria ad Alta Vel",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "d17b6753326da9f3",
     "slug": "campobasso-e-bra-hanno-pareggiato-a-reti-inviolate-d17b6753326da9f3",
     "title": "Camp0balso senza gol al romagnoli",
@@ -954,21 +969,6 @@
       "ricavi montebelluna",
       "bilancio novation tech"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "96988aa6f085807f",
-    "slug": "la-gigantesca-mireille-scava-il-tunnel-caterina-12-96988aa6f085807f",
-    "title": "Mireille, la tbm da 1200 tonnellate, scava il primo tunnel della linea ad alta velocità",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-11T05:15:29.630536+00:00",
-    "image_type": "image",
-    "image_url": "https://i2.res.24o.it/images2010/S24/Documenti/2026/04/11/Immagini/Ritagli/Abbattimento%20diaframma%20Galleria%20Caterina-U33462757017NAw-1440x752@IlSole24Ore-Web.jpeg?r=1170x507",
-    "occhiello": "MIREILLE, LA TBM DA 1200 TONNELLATE, SCAVA IL PRIMO TUNNEL DELLA LINEA AD ALTA VELOCITÀ",
-    "lead_preview": "Mireille, la tunnel boring machine da 1200 tonnellate, ha completato il primo tunnel della linea ferroviaria ad alta vel",
-    "tags": [],
     "hero_eligible": true
   },
   {
