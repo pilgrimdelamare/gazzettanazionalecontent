@@ -1,5 +1,20 @@
 [
   {
+    "id": "6ff26a7d131aa96d",
+    "slug": "provenzano-trovato-con-450mila-euro-e-352-pizzini-6ff26a7d131aa96d",
+    "title": "352 pizzini di provenzano trovati a corleone",
+    "section": "giustizia",
+    "priority": 5,
+    "journalist_firma": "Silvia Greco",
+    "published_at": "2026-04-11T05:31:20.501487+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2023/1/16/237c917e8703e638108a25f6ff87a6b0.jpg",
+    "occhiello": "352 PIZZINI DI PROVENZANO TROVATI A CORLEONE",
+    "lead_preview": "Il 10 aprile 2006, Bernardo Provenzano, capo dell'Organizzazione mafiosa siciliana, è Stato arrestato nel suo casolare d",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "666ca186e553dba7",
     "slug": "rocco-mole-35-ucciso-a-corviale-quattro-arresti-pe-666ca186e553dba7",
     "title": "Rapina al cassiero: quattro arresti",
@@ -29,24 +44,6 @@
     "tags": [
       "sei nazioni donne",
       "rugby italia francia"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "6ff26a7d131aa96d",
-    "slug": "provenzano-trovato-con-450mila-euro-e-352-pizzini-6ff26a7d131aa96d",
-    "title": "352 Pizzini di Provenzano trovati a Corleone dopo 20 anni",
-    "section": "giustizia",
-    "priority": 5,
-    "journalist_firma": "Carlo Amato",
-    "published_at": "2026-04-11T05:31:20.501487+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2023/1/16/237c917e8703e638108a25f6ff87a6b0.jpg",
-    "occhiello": "352 PIZZINI DI PROVENZANO RITROVATI A CORLEONE",
-    "lead_preview": "Il 10 aprile 2006, Bernardo Provenzano fu arrestato nel suo casolare di Corleone, dopo quarantadue anni di latitanza. Or",
-    "tags": [
-      "pizzini provenzano",
-      "caso provenzano"
     ],
     "hero_eligible": true
   },
