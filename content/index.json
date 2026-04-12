@@ -1,5 +1,24 @@
 [
   {
+    "id": "91c95f2ceee1a03e",
+    "slug": "centro-giustizia-minorile-dellaquila-sabato-11-apr-91c95f2ceee1a03e",
+    "title": "Minore colpisce educatore con telo da boxe imbevuto di miele all’Aquila",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Chiara Esposito",
+    "published_at": "2026-04-11T17:32:01.637521+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/11/e0b182c137c9c54b4be9229c8af2fa08.jpg",
+    "occhiello": "MINORE COLPISCE EDUCATORE CON TELO AL MIELE",
+    "lead_preview": "Il Centro di Giustizia minorile dell’Aquila ha registrato un’aggressione alle 17.30 di sabato 11 aprile 2026: un minore ",
+    "tags": [
+      "aggressione aquila",
+      "minore colpisce educatore",
+      "telo al miele aquila"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "oroscopo_daily",
     "slug": "oroscopo-del-giorno",
     "title": "Oroscopo di oggi, domenica 12 aprile 2026",
@@ -1283,25 +1302,6 @@
       "francia-italia 2026",
       "test match rugby",
       "crollo azzurro"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "91c95f2ceee1a03e",
-    "slug": "centro-giustizia-minorile-dellaquila-sabato-11-apr-91c95f2ceee1a03e",
-    "title": "A L’Aquila, un minore colpisce educatore con telo da boxe al miele: frattura al naso",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Chiara Esposito",
-    "published_at": "2026-04-11T17:32:01.637521+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/11/e0b182c137c9c54b4be9229c8af2fa08.jpg",
-    "occhiello": "COLPO DI MIELE TRA I MINORI",
-    "lead_preview": "Il Centro di Giustizia minorile dell’Aquila alle 17.30 di sabato 11 aprile 2026 ha registrato un’aggressione: un ragazzo",
-    "tags": [
-      "aggressione l'aquila",
-      "colpo di miele",
-      "centro giustizia minorile"
     ],
     "hero_eligible": true
   },
