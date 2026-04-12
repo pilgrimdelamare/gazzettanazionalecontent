@@ -1,5 +1,24 @@
 [
   {
+    "id": "e29ad80005bceb4c",
+    "slug": "fondi-assegnati-alla-commissione-antimafia-scompar-e29ad80005bceb4c",
+    "title": "Fondi assegnati alla Commissione Antimafia scomparsi dopo il voto",
+    "section": "politica",
+    "priority": 6,
+    "journalist_firma": "Elena Russo",
+    "published_at": "2026-04-12T09:22:30.773277+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/10/21/2bcb2b1e1126add577ddbad279d1dd40.jpg",
+    "occhiello": "FONDI SCOMPARSI DOPO IL VOTO, SCARPINATO ATTACCA LA MAJORANZA",
+    "lead_preview": "Ha accusato la maggioranza guidata da Giorgia Meloni di voler \"salvare la faccia\" della Commissione Antimafia, ma in rea",
+    "tags": [
+      "fondi commissioni antimafia",
+      "scarpinato meloni",
+      "voto fondi scomparsi"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "eb7111324fa5d0fb",
     "slug": "fondi-scomparsi-dopo-il-voto-eb7111324fa5d0fb",
     "title": "Napoli, donna trovata agonizzante: marito fermato",
@@ -9255,25 +9274,6 @@
       "premio cultura mediterraneo",
       "emilio isgrò",
       "porto cervo"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "e9ec57a550ab808b",
-    "slug": "colosseo-preso-dassalto-82mila-visitatori-nel-fine-e9ec57a550ab808b",
-    "title": "82Mila visitatori al Colosseo nel weekend di Pasqua, +9% rispetto al",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-07T22:45:03.421458+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2023/8/16/69b2c5c99ec296d634c7c3e46ffb18c4.jpg",
-    "occhiello": "",
-    "lead_preview": "Il Colosseo ha registrato 82mila visitatori tra sabato 4 aprile e lunedì 6 aprile 2026, secondo i dati del ministero del",
-    "tags": [
-      "colosseo pasqua 2026",
-      "turismo roma",
-      "ministero cultura"
     ],
     "hero_eligible": true
   }
