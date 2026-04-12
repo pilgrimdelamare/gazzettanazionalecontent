@@ -1,5 +1,24 @@
 [
   {
+    "id": "8bb297ba0a630299",
+    "slug": "tennis-sinner-strappa-due-break-a-zverev-e-vola-ne-8bb297ba0a630299",
+    "title": "Tennis: Sinner batte Zverev 6-0 7-5 a Montecarlo e vola in finale",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-11T12:16:14.060637+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/11/133837704-9be3a450-260f-45a0-82f1-c4fa7d6f9996.jpg",
+    "occhiello": "TENNIS: SINNER DOMINA ZVEREV",
+    "lead_preview": "Jannik Sinner ha conquistato un doppio break di vantaggio su Alexander Zverev nella semifinale del torneo ATP di Monteca",
+    "tags": [
+      "sinner zverev montecarlo",
+      "finale atp montecarlo",
+      "sinner 6-0 zverev"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "bad7e0ae9d188bda",
     "slug": "salvini-attacca-urso-tagli-ai-prezzi-benzina-tropp-bad7e0ae9d188bda",
     "title": "Salvini attacca Urso: 'Tagli ai prezzi benzina troppo lenti'",
@@ -711,25 +730,6 @@
     "occhiello": "LEONARDO SPA NOMINA LA NUOVA VICEPRESIDENTE ESPERTIVO",
     "lead_preview": "Tamara Fazzolari è stata nominata vicepresidente esecutivo di Leonardo Spa il 10 aprile 2026. La nomina è stata resa Pub",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "8bb297ba0a630299",
-    "slug": "tennis-sinner-strappa-due-break-a-zverev-e-vola-ne-8bb297ba0a630299",
-    "title": "Tennis: Sinner domina Zverev con doppio break e chiude il primo set 6-0 a Montecarlo",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-11T12:16:14.060637+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/11/133837704-9be3a450-260f-45a0-82f1-c4fa7d6f9996.jpg",
-    "occhiello": "",
-    "lead_preview": "Jannik Sinner ha conquistato un doppio break di vantaggio su Alexander Zverev nella semifinale del torneo Atp di Monteca",
-    "tags": [
-      "semifinale montecarlo",
-      "sinner zverev",
-      "tennis 2026"
-    ],
     "hero_eligible": true
   },
   {
