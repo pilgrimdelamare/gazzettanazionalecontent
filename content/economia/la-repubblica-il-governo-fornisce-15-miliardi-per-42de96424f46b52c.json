@@ -1,0 +1,59 @@
+{
+  "id": "42de96424f46b52c",
+  "slug": "la-repubblica-il-governo-fornisce-15-miliardi-per-42de96424f46b52c",
+  "title": "La Repubblica: il governo fornisce 1,5 miliardi per sostenere l'industria Italiana",
+  "titles": [
+    "La Repubblica: il governo fornisce 1,5 miliardi per sostenere l'industria Italiana",
+    "Industria Italiana in crisi: governo e imprese si uniscono per superare la crisi energetica",
+    "Gas a 1.500 euro al megawattora, il governo lancia un Fondo per le imprese colpite"
+  ],
+  "title_winner": null,
+  "section": "economia",
+  "occhiello": "I RINCARI DEL GAS PESANO SU INDUSTRIA E CONSUMI",
+  "lead": "La guerra in Medio Oriente ha ridotto i flussi e i prezzi del gas, causando un shock energetico che sta pesando sugli industrie e i consumi in Italia. La Repubblica ha riferito che gli aumenti di prezzo del gas sono stati ridotti dagli aumenti del PIL e dei consumi. Secondo l'articolo, il sistema Paese ha più di una carta da giocare per resistere allo shock energetico.",
+  "corpo1": "I rincari del gas hanno colpito duramente l'industria Italiana, aumentando i costi di produzione e riducendo la sua competitività sul mercato. La Repubblica ha riferito che le industrie hanno chiesto un sostegno governativo per superare la crisi energetica. Il governo Italiano ha annunciato una serie di misure per supportare l'industria, tra cui la creazione di un Fondo per aiutare le imprese a coprire i costi dei rincari del gas. Secondo l'articolo, il Fondo sarà finanziato con fondi pubblici e privati. La Repubblica ha inoltre riferito che il governo sta lavorando per trovare alternative alle forniture di gas da parte dell'Iran, che è stato colpito dalla guerra in Medio Oriente.",
+  "corpo2": "Il sistema Paese Italiano è il vero protagonista di questa storia, che ha più di una carta da giocare per superare la crisi energetica. Il governo Italiano sta lavorando per trovare alternative alle forniture di gas da parte dell'Iran e sta creando un Fondo per aiutare le imprese a coprire i costi dei rincari del gas. La vera questione è chi pagherà per questa crisi energetica, come sempre. A pagare saranno i soliti: i contribuenti italiani che dovranno coprire i costi del Fondo per l'industria e i consumatori che dovranno affrontare gli aumenti di prezzo del gas.",
+  "article_type": "standard",
+  "cards": [],
+  "journalist": {
+    "id": "giorgio_ferrara_01",
+    "firma": "Giorgio Ferrara",
+    "sezione": "economia"
+  },
+  "published_at": "2026-04-12T08:36:07.202927+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://www.repstatic.it/content/nazionale/img/2026/04/10/190309450-10b0a56c-35ea-4480-bca1-0ab0d5d5ee3e.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"La Repubblica: il governo fornisce 1,5 miliardi per sostenere l'industria Italiana\",\n  \"description\": \"La guerra in Medio Oriente ha ridotto i flussi e i prezzi del gas, causando un shock energetico che sta pesando sugli industrie e i consumi in Italia. La Repubblica ha riferito che gli aumenti di prezzo del gas sono stati ridotti dagli aumenti del PIL e dei consumi. Secondo l'articolo, il sistema Pa\",\n  \"articleBody\": \"La guerra in Medio Oriente ha ridotto i flussi e i prezzi del gas, causando un shock energetico che sta pesando sugli industrie e i consumi in Italia. La Repubblica ha riferito che gli aumenti di prezzo del gas sono stati ridotti dagli aumenti del PIL e dei consumi. Secondo l'articolo, il sistema Paese ha più di una carta da giocare per resistere allo shock energetico. I rincari del gas hanno colpito duramente l'industria Italiana, aumentando i costi di produzione e riducendo la sua competitività sul mercato. La Repubblica ha riferito che le industrie hanno chiesto un sostegno governativo per superare la crisi energetica. Il governo Italiano ha annunciato una serie di misure per supportare l'industria, tra cui la creazione di un Fondo per aiutare le imprese a coprire i costi dei rincari del gas. Secondo l'articolo, il Fondo sarà finanziato con fondi pubblici e privati. La Repubblica ha inoltre riferito che il governo sta lavorando per trovare alternative alle forniture di gas da parte dell'Iran, che è stato colpito dalla guerra in Medio Oriente. Il sistema Paese Italiano è il vero protagonista di questa storia, che ha più di una carta da giocare per superare la crisi energetica. Il governo Italiano sta lavorando per trovare alternative alle forniture di gas da parte dell'Iran e sta creando un Fondo per aiutare le imprese a coprire i costi dei rincari del gas. La vera questione è chi pagherà per questa crisi energetica, come sempre. A pagare saranno i soliti: i contribuenti italiani che dovranno coprire i costi del Fondo per l'industria e i consumatori che dovranno affrontare gli aumenti di prezzo del gas.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Giorgio Ferrara\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-12T08:36:07.202927+00:00\",\n  \"dateModified\": \"2026-04-12T08:36:07.202927+00:00\",\n  \"url\": \"https://lentemattutina.it/economia/42de96424f46b52c\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/economia/42de96424f46b52c\"\n  },\n  \"articleSection\": \"Economia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.repstatic.it/content/nazionale/img/2026/04/10/190309450-10b0a56c-35ea-4480-bca1-0ab0d5d5ee3e.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 8,
+  "source": "Repubblica Economia",
+  "source_type": "competitor",
+  "original_url": "https://www.repubblica.it/economia/2026/04/12/news/rincari_gas_petrolio_come_italia_resiste_allo_shock_energetico-425275745/?rss",
+  "related": [
+    {
+      "title": "Hormuz chiuso 16 ore: 2,3 miliardi di perdita per l'industria Italiana",
+      "url": "/economia/iran-chiude-lo-stretto-di-hormuz-per-16-ore-23-mil-1e21790114e0aa21",
+      "id": "1e21790114e0aa21",
+      "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/07/225411812-160fe618-220e-4418-b2b8-d0d35ddb8272.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "3,2 Miliardi di BTP Italia venduti a famiglie e banche italiane nel primo trimestre",
+      "url": "/economia/btp-italia-32-miliardi-in-sottoscrizioni-nel-primo-37b7be6b567c2fb8",
+      "id": "37b7be6b567c2fb8",
+      "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/10/220221162-e111e993-f904-4fd9-ba77-860f8aa363c4.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "CDP versa 1,8 miliardi al Tesoro: il record del dividendo pubblico",
+      "url": "/economia/cdp-versa-18-miliardi-al-tesoro-dopo-record-di-34-b32c926d9e3efbaf",
+      "id": "b32c926d9e3efbaf",
+      "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/09/233717761-764b0f80-3647-4129-ab7d-a8507c6d3f46.jpg",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": true
+}
