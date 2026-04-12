@@ -1,5 +1,24 @@
 [
   {
+    "id": "1f11da4a9b75f52d",
+    "slug": "fotogramma-kerim-alajbegovic-rimane-al-bayer-lever-1f11da4a9b75f52d",
+    "title": "Bayer Leverkusen riporta Alajbegovic: 8 milioni per il ritorno del baby bomber",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-11T06:48:31.694907+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/11/081247651-9c38381b-b530-40be-a4a4-34c8f5648a7e.jpg",
+    "occhiello": "",
+    "lead_preview": "Kerim Alajbegovic torna al Bayer Leverkusen. Il club tedesco ha esercitato la clausola di recompra il 11 aprile 2026, ri",
+    "tags": [
+      "ritorno alajbegovic",
+      "bayer leverkusen",
+      "calciomercato 2026"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "d1d05a16ba496d77",
     "slug": "vance-a-islamabad-nessun-accordo-con-liran-e-la-lo-d1d05a16ba496d77",
     "title": "Vicepremier Usa a Islamabad: nessun accordo con Iran su Stretto di Hormuz",
@@ -1499,25 +1518,6 @@
       "manovra 2025",
       "giorgetti economia",
       "tagli spese pubbliche"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "1f11da4a9b75f52d",
-    "slug": "fotogramma-kerim-alajbegovic-rimane-al-bayer-lever-1f11da4a9b75f52d",
-    "title": "Bayer Leverkusen riacquista Alajbegovic per 8 milioni dopo 8 mesi a Zrinjski",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-11T06:48:31.694907+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/11/081247651-9c38381b-b530-40be-a4a4-34c8f5648a7e.jpg",
-    "occhiello": "",
-    "lead_preview": "Kerim Alajbegovic torna al Bayer Leverkusen. Il club tedesco ha esercitato la clausola di recompra il 11 aprile 2026, ri",
-    "tags": [
-      "bayer leverkusen",
-      "kerim alajbegovic",
-      "calciomercato 2026"
     ],
     "hero_eligible": true
   },
