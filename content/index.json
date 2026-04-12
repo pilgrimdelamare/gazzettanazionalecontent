@@ -1,5 +1,24 @@
 [
   {
+    "id": "0ccb4a414116791e",
+    "slug": "italia--14-di-consumo-gas-nei-primi-mesi-del-2026-0ccb4a414116791e",
+    "title": "Il 14% di gas meno è un fattaccio",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Chiara Esposito",
+    "published_at": "2026-04-12T06:00:16.945350+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2025/02/27/med-1200x630-9.jpg",
+    "occhiello": "CONSUMO GAS IN CALO",
+    "lead_preview": "Il 12 aprile 2026, mentre la Crisi Energetica stringe il Paese, ma i cittadini non si lasciano intimidire, il Movimento ",
+    "tags": [
+      "crisi energetica 2026",
+      "riduzione consumo gas",
+      "movimento decrescita felice"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "5be07ee0ec801405",
     "slug": "francesca-rulli-55-litri-dacqua-per-ogni-sneaker-l-5be07ee0ec801405",
     "title": "Il costo umano delle scarpe lifestyle: 5,5 litri d'acqua per ogni paio",
@@ -692,25 +711,6 @@
       "negoziati usa-iran",
       "diplomazia islamabad",
       "mediazione pakistan"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "0ccb4a414116791e",
-    "slug": "italia--14-di-consumo-gas-nei-primi-mesi-del-2026-0ccb4a414116791e",
-    "title": "Italia, -14% di consumo gas nei primi mesi del 2026: La Decrescita è già in atto",
-    "section": "cronaca",
-    "priority": 6,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-04-12T06:00:16.945350+00:00",
-    "image_type": "image",
-    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2025/02/27/med-1200x630-9.jpg",
-    "occhiello": "",
-    "lead_preview": "Il 12 aprile 2026, mentre la Crisi Energetica stringe il Paese, il Movimento per la Decrescita Felice torna a denunciare",
-    "tags": [
-      "crisi energetica 2026",
-      "decrescita felice",
-      "consumo gas italia"
     ],
     "hero_eligible": true
   },
