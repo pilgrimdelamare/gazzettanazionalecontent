@@ -1,5 +1,24 @@
 [
   {
+    "id": "563e15d011736ada",
+    "slug": "meloni-conferma-bonus-bebe-2026-1000-euro-per-fami-563e15d011736ada",
+    "title": "Meloni conferma Bonus bebè da 1000 euro per famiglie fino a 40mila ISEE",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-11T03:43:02.429001+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/10/220858920-d3d2eb2d-4532-4166-9578-ba9a2e5cdec8.jpg",
+    "occhiello": "BONUS BEBÈ DA MILLE EURO PER FAMIGLIE CON ISEE FINO A 40 MILA",
+    "lead_preview": "Giorgia Meloni ha confermato oggi, 11 aprile 2026, il Bonus bebè da 1000 euro nella manovra finanziaria 2026, destinato ",
+    "tags": [
+      "bonus bebè 2026",
+      "meloni manovra 2026",
+      "famiglie isee"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "b2213ba9939013bc",
     "slug": "fausto-lama-lascia-coma-cose-e-esordisce-da-solist-b2213ba9939013bc",
     "title": "Fausto Lama chiude Coma_Cose dopo 8 anni e 280 milioni di stream",
@@ -1321,25 +1340,6 @@
       "corsa all'eliseo",
       "italexit",
       "paris match"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "563e15d011736ada",
-    "slug": "meloni-conferma-bonus-bebe-2026-1000-euro-per-fami-563e15d011736ada",
-    "title": "Meloni conferma Bonus bebè da 1000 euro per famiglie con Isee fino a 40mila",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-11T03:43:02.429001+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/10/220858920-d3d2eb2d-4532-4166-9578-ba9a2e5cdec8.jpg",
-    "occhiello": "BONUS BÉBÉ DA 1000 EURO, LA MANOVRA FINANZIARIA DI MELONI SOTTOPONDE FAMIGLIE AL VOTO.",
-    "lead_preview": "Giorgia Meloni ha confermato oggi, 11 aprile 2026, il Bonus bebè da 1000 euro nella manovra finanziaria 2026, destinato ",
-    "tags": [
-      "bonus bebè 2026",
-      "manovra meloni",
-      "famiglie con iese"
     ],
     "hero_eligible": true
   },
