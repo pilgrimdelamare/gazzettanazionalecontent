@@ -1,5 +1,20 @@
 [
   {
+    "id": "d17b6753326da9f3",
+    "slug": "campobasso-e-bra-hanno-pareggiato-a-reti-inviolate-d17b6753326da9f3",
+    "title": "Camp0balso senza gol al romagnoli",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-11T15:54:31.697034+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/d4e72b950a28783335f341ce74738db6b35c29ab/skysport/it/calcio/serie-c/video/2026/04/11/1089389_1775920367197_thumb_494.0000001_1775920715920.jpg",
+    "occhiello": "CAMP0BALSO SENZA GOL AL ROMAGNOLI",
+    "lead_preview": "Campobasso e Bra hanno terminato 0-0 sabato 11 aprile 2026 allo stadio Romagnoli di Campobasso, in una partita valida pe",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "c4019342774367e7",
     "slug": "tennis-sinner-batte-zverev-7-5-6-3-e-vola-in-final-c4019342774367e7",
     "title": "Sinner esploda: sconfitte zverev e vola in finale a montecarlo",
@@ -920,25 +935,6 @@
     "occhiello": "",
     "lead_preview": "Augustin Seixas ha vinto il Giro dei Paesi Baschi il 11 aprile 2026, conquistando il primo successo in una corsa a tappe",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "d17b6753326da9f3",
-    "slug": "campobasso-e-bra-hanno-pareggiato-a-reti-inviolate-d17b6753326da9f3",
-    "title": "Calcio: Campobasso e Bra finiscono 0-0 al Romagnoli, possesso casa ma nessun gol",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-11T15:54:31.697034+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/d4e72b950a28783335f341ce74738db6b35c29ab/skysport/it/calcio/serie-c/video/2026/04/11/1089389_1775920367197_thumb_494.0000001_1775920715920.jpg",
-    "occhiello": "",
-    "lead_preview": "Campobasso e bra hanno terminato 0-0 sabato 11 aprile 2026 allo stadio Romagnoli di Campobasso, in una partita valida pe",
-    "tags": [
-      "campobasso-bra 0-0",
-      "serie c 2026",
-      "romagnoli aprile 2026"
-    ],
     "hero_eligible": true
   },
   {
