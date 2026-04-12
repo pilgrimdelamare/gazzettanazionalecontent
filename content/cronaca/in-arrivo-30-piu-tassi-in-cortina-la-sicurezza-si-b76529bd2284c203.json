@@ -1,0 +1,60 @@
+{
+  "id": "b76529bd2284c203",
+  "slug": "in-arrivo-30-piu-tassi-in-cortina-la-sicurezza-si-b76529bd2284c203",
+  "title": "In arrivo 30% più tassi in Cortina: la Sicurezza si prepara",
+  "titles": [
+    "In arrivo 30% più tassi in Cortina: la Sicurezza si prepara",
+    "Cortina D'Ampezzo si apre a 30% di nuovi turisti: la polizia sarà presente",
+    "La città di Cortina D'Ampezzo apre le porte a 30% più turisti: ecco il piano della Sicurezza"
+  ],
+  "title_winner": null,
+  "section": "cronaca",
+  "occhiello": "TROPPI TURISTI (E POCO RISPETTOSI), A CORTINA ARRIVANO GLI AGENTI DEI SENTIERI",
+  "lead": "Cortina D'Ampezzo si prepara ad accogliere un aumento del 30 per cento di visitatori per l'estate. La polizia locale vigilerà anche in alta quota.",
+  "corpo1": "Un altro tassello nel mosaico di tensioni che Cortina ha scelto di ignorare fino a ieri. La città di Cortina D'Ampezzo si prepara ad accogliere un aumento del 30 per cento di visitatori per l'estate. la polizia locale sarà presente in tutte le aree turistiche per garantire la Sicurezza dei visitatori. la notorietà delle Olimpiadi è stata un fattore determinante per l'aumento dei turisti. la polizia locale ha assicurato che sarà presente in tutte le aree turistiche per garantire la Sicurezza dei visitatori.",
+  "corpo2": "La forte attività turistica a Cortina D'Ampezzo porta benefici economici alla comunità locale. l'aumento dei visitatori può portare problemi di congestione e inquinamento. la polizia locale dovrà trovare un equilibrio tra la Sicurezza e la necessità di accogliere i visitatori. a pagare saranno i soliti noti, come sempre.",
+  "article_type": "standard",
+  "cards": [],
+  "journalist": {
+    "id": "roberto_neri_01",
+    "firma": "Roberto Neri",
+    "sezione": "cronaca"
+  },
+  "published_at": "2026-04-12T08:52:22.105189+00:00",
+  "image": {
+    "type": "feed_image",
+    "url": "https://www.repstatic.it/content/nazionale/img/2026/04/12/104330217-b8d967aa-488c-4721-a0fb-7cc5c4dc27ca.jpg",
+    "source": "Repubblica Cronaca",
+    "credit": "Repubblica Cronaca",
+    "license": "editorial"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"In arrivo 30% più tassi in Cortina: la Sicurezza si prepara\",\n  \"description\": \"Cortina D'Ampezzo si prepara ad accogliere un aumento del 30 per cento di visitatori per l'estate. La polizia locale vigilerà anche in alta quota.\",\n  \"articleBody\": \"Cortina D'Ampezzo si prepara ad accogliere un aumento del 30 per cento di visitatori per l'estate. La polizia locale vigilerà anche in alta quota. Un altro tassello nel mosaico di tensioni che Cortina ha scelto di ignorare fino a ieri. La città di Cortina D'Ampezzo si prepara ad accogliere un aumento del 30 per cento di visitatori per l'estate. la polizia locale sarà presente in tutte le aree turistiche per garantire la Sicurezza dei visitatori. la notorietà delle Olimpiadi è stata un fattore determinante per l'aumento dei turisti. la polizia locale ha assicurato che sarà presente in tutte le aree turistiche per garantire la Sicurezza dei visitatori. La forte attività turistica a Cortina D'Ampezzo porta benefici economici alla comunità locale. l'aumento dei visitatori può portare problemi di congestione e inquinamento. la polizia locale dovrà trovare un equilibrio tra la Sicurezza e la necessità di accogliere i visitatori. a pagare saranno i soliti noti, come sempre.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Roberto Neri\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-12T08:52:22.105189+00:00\",\n  \"dateModified\": \"2026-04-12T08:52:22.105189+00:00\",\n  \"url\": \"https://lentemattutina.it/cronaca/b76529bd2284c203\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cronaca/b76529bd2284c203\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.repstatic.it/content/nazionale/img/2026/04/12/104330217-b8d967aa-488c-4721-a0fb-7cc5c4dc27ca.jpg\",\n    \"creditText\": \"Repubblica Cronaca\"\n  }\n}",
+  "priority": 6,
+  "source": "Repubblica Cronaca",
+  "source_type": "competitor",
+  "original_url": "https://www.repubblica.it/cronaca/2026/04/12/news/cortina_troppi_turisti_agenti_sentieri-425278361/?rss",
+  "related": [
+    {
+      "title": "Lola Cars riprende la produzione del T70: 16 esemplari in arrivo da giugno",
+      "url": "/cronaca/lola-t70-torna-in-16-esemplari-potenza-in-pista-e-6918e6a890f87c19",
+      "id": "6918e6a890f87c19",
+      "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/08/Lola-Cars-T70S-New-1.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Trenitalia chiude la Roma-Firenze il 12 e 13 aprile 2026: bus sostitutivi in arrivo",
+      "url": "/cronaca/stop-ferroviario-roma-firenze-f61a5acf614d41b5",
+      "id": "f61a5acf614d41b5",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2024/10/2/a4d70ed46085ccbff500d38d8abc7798.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Ex capo Sicurezza di Crans-Montana arrestato per 287mila franchi falsi in 3 anni",
+      "url": "/cronaca/crans-montana-8-aprile-2026-lindagato-del-comune-r-74c83365c1fc3002",
+      "id": "74c83365c1fc3002",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/1/1181f1735e43bf24311c1790c63a004a.jpg",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": true
+}
