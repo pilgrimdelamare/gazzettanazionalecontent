@@ -1,5 +1,24 @@
 [
   {
+    "id": "bad7e0ae9d188bda",
+    "slug": "salvini-attacca-urso-tagli-ai-prezzi-benzina-tropp-bad7e0ae9d188bda",
+    "title": "Salvini attacca Urso: 'Taglio carburanti da 25 centesimi in ritardo di 10 giorni a Milano'",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Sergio Mancini",
+    "published_at": "2026-04-12T00:39:17.638091+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/11/235327163-594dd736-a4d5-4753-8cf1-f47f55cab44b.jpg",
+    "occhiello": "",
+    "lead_preview": "Matteo Salvini ha criticato il collega di governo Adolfo Urso per la lentezza nell’attuare i tagli ai prezzi dei carbura",
+    "tags": [
+      "taglio carburanti 2026",
+      "salvini urso",
+      "governo tagli carburanti"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "dbecdbbebd9d748a",
     "slug": "basket-memphis-grizzlies-crollano-147-101-contro-u-dbecdbbebd9d748a",
     "title": "Basket: Grizzlies perdono 147-101 contro gli Jazz, record negativo in bacheca",
@@ -446,24 +465,6 @@
     "lead_preview": "Alessandro Bartesaghi, terzino del Milan, ha varcato il tunnel di ingresso dello Stadio Giuseppe Meazza con in braccio u",
     "tags": [
       "bartesaghi milan"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "bad7e0ae9d188bda",
-    "slug": "salvini-attacca-urso-tagli-ai-prezzi-benzina-tropp-bad7e0ae9d188bda",
-    "title": "Salvini attacca Urso: 'Tagli ai prezzi benzina troppo lenti'",
-    "section": "politica",
-    "priority": 4,
-    "journalist_firma": "Sergio Mancini",
-    "published_at": "2026-04-12T00:39:17.638091+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/11/235327163-594dd736-a4d5-4753-8cf1-f47f55cab44b.jpg",
-    "occhiello": "PRELIEVO SUGLI EXTRAPROFITTI DEI PETROLIERI",
-    "lead_preview": "Il vicepremier Matteo Salvini critica il collega Adolfo Urso per la lentezza dei tagli ai prezzi dei carburanti. Il gove",
-    "tags": [
-      "prezzi benzina",
-      "tagli prezzi carburanti"
     ],
     "hero_eligible": true
   },
