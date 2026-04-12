@@ -1,5 +1,24 @@
 [
   {
+    "id": "f9358fba450e92b5",
+    "slug": "giancarlo-giorgetti-ministro-delleconomia-ha-detto-f9358fba450e92b5",
+    "title": "Giorgetti: tagli lineari a tutte le spese pubbliche se entro luglio non cambiano i Conti",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-11T18:43:12.912795+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/9/48be55a2d597bebac358482a498ef082.jpg",
+    "occhiello": "",
+    "lead_preview": "Giancarlo Giorgetti, ministro dell’Economia, ha dichiarato sabato 11 aprile 2026 che se entro luglio non si registra un’",
+    "tags": [
+      "tagli spese giorgetti",
+      "conti pubblici 2026",
+      "manovra economica luglio"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "1efbb02c36240d85",
     "slug": "pakistan-chiede-a-iran-e-usa-di-rispettare-tregua-1efbb02c36240d85",
     "title": "Pakistan chiede tregua nel Golfo Persico: 'Iran e Usa rispettino il cessate il fuoco'",
@@ -1499,25 +1518,6 @@
       "morte elisa rizzo",
       "suicidio assistito milano",
       "casa madre figlia"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "f9358fba450e92b5",
-    "slug": "giancarlo-giorgetti-ministro-delleconomia-ha-detto-f9358fba450e92b5",
-    "title": "Giorgetti: tagli lineari a tutte le spese pubbliche se entro luglio non c'è inversione di tendenza",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-11T18:43:12.912795+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/9/48be55a2d597bebac358482a498ef082.jpg",
-    "occhiello": "",
-    "lead_preview": "Giancarlo Giorgetti, ministro dell’economia, ha detto in una dichiarazione pubblica sabato 11 aprile 2026 che se la situ",
-    "tags": [
-      "manovra 2025",
-      "giorgetti economia",
-      "tagli spese pubbliche"
     ],
     "hero_eligible": true
   },
