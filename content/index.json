@@ -1,5 +1,24 @@
 [
   {
+    "id": "036a198930f8e535",
+    "slug": "orsini-a-nove-chiusura-hormuz-18-centesimi-sulla-b-036a198930f8e535",
+    "title": "Orsini a Nove: 'Chiusura Hormuz, +18 centesimi sulla benzina in Italia'",
+    "section": "esteri",
+    "priority": 6,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-12T09:06:51.724762+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/11/item_accordi02.jpg",
+    "occhiello": "",
+    "lead_preview": "Alessandro Orsini ha parlato sabato 12 aprile 2026 in prima serata su Nove durante il talk Accordi&Disaccordi condotto d",
+    "tags": [
+      "chiusura hormuz",
+      "alessandro orsini",
+      "prezzi benzina"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "e4f37ea32b4e7004",
     "slug": "anziana-donna-scoperta-a-muggia-dopo-2-anni-di-mor-e4f37ea32b4e7004",
     "title": "Anziana donna scoperta a Muggia dopo 2 anni di morte sepolta",
@@ -9254,25 +9273,6 @@
       "tragedia sassari",
       "mercedes investe uomo",
       "giuseppe rizzo"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "8d980d272cd77713",
-    "slug": "calcio-lucescu-muore-a-80-anni-8d980d272cd77713",
-    "title": "Morto a 80 anni Mircea Lucescu a Bucarest dopo un doppio infarto",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-07T22:39:31.428307+00:00",
-    "image_type": "image",
-    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/07/24278294_medium-1200x630.jpg",
-    "occhiello": "LUCESCU MUORE A 80 ANNI",
-    "lead_preview": "Mercoledì 7 aprile 2026, a Bucarest, Mircea Lucescu, ex allenatore della Roma e del Galatasaray, è morto a 80 anni per l",
-    "tags": [
-      "morte lucescu",
-      "infarto bucarest",
-      "allenatore roma"
     ],
     "hero_eligible": true
   }
