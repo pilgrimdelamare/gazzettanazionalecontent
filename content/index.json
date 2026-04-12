@@ -1,5 +1,24 @@
 [
   {
+    "id": "42de96424f46b52c",
+    "slug": "la-repubblica-il-governo-fornisce-15-miliardi-per-42de96424f46b52c",
+    "title": "La Repubblica: il governo fornisce 1,5 miliardi per sostenere l'industria Italiana",
+    "section": "economia",
+    "priority": 8,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-12T08:36:07.202927+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/10/190309450-10b0a56c-35ea-4480-bca1-0ab0d5d5ee3e.jpg",
+    "occhiello": "I RINCARI DEL GAS PESANO SU INDUSTRIA E CONSUMI",
+    "lead_preview": "La guerra in Medio Oriente ha ridotto i flussi e i prezzi del gas, causando un shock energetico che sta pesando sugli in",
+    "tags": [
+      "manovra 2025",
+      "crisi energetica",
+      "rincari gas"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "63a9c6ef2d8e6025",
     "slug": "boxe-tyson-fury-annuncia-sfida-contro-anthony-josh-63a9c6ef2d8e6025",
     "title": "Boxe: Tyson Fury annuncia sfida contro Anthony Joshua",
@@ -9241,23 +9260,6 @@
       "guerra iran",
       "netanyahu",
       "siria"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "ec7f64ba0a58e636",
-    "slug": "michael-jackson-nuove-prove-contro-leredita-4-foto-ec7f64ba0a58e636",
-    "title": "Michael Jackson, nuove Prove contro l'eredità: 4 foto contestano gli abusi",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Chiara Esposito",
-    "published_at": "2026-04-06T15:11:48.265393+00:00",
-    "image_type": "image",
-    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2025/03/11/21233430_large.jpg",
-    "occhiello": "FOTO INEDITE NELLA CAUSA CONTRO JACKSON",
-    "lead_preview": "Quattro foto rese pubbliche per la prima volta potrebbero rappresentare la prova decisiva nella causa milionaria intenta",
-    "tags": [
-      "caso michael jackson"
     ],
     "hero_eligible": true
   }
