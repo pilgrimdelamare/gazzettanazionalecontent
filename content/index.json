@@ -1,5 +1,24 @@
 [
   {
+    "id": "84211081f7a9e662",
+    "slug": "federica-colonna-sostituita-da-chatgpt-lavora-per-84211081f7a9e662",
+    "title": "Federica Colonna sostituita da un'IA su ContentFlow: i clienti pagano e non lo sanno",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-04-12T04:27:19.251272+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/10/Screenshot-2026-04-10-114420.jpg",
+    "occhiello": "FEDERICA COLONNA SOSTITUITA DA CHATGPT",
+    "lead_preview": "Federica Colonna, giornalista freelance di 41 anni specializzata in contenuti per l’industria turistica, è stata sostitu",
+    "tags": [
+      "sostituzione ia giornalismo",
+      "federica colonna contentflow",
+      "intelligenza artificiale lavoro"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "bd1182f6110bf221",
     "slug": "71-iraniani-a-islamabad-per-negoziare-con-gli-usa-bd1182f6110bf221",
     "title": "71 Funzionari iraniani a Islamabad per negoziare sul nucleare e Hormuz",
@@ -503,25 +522,6 @@
       "pistons vs hornets",
       "nba 2026",
       "hornets fuori playoff"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "84211081f7a9e662",
-    "slug": "federica-colonna-sostituita-da-chatgpt-lavora-per-84211081f7a9e662",
-    "title": "Federica Colonna sostituita da ChatGPT: lavora per clienti senza giornalisti",
-    "section": "tecnologia",
-    "priority": 7,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-04-12T04:27:19.251272+00:00",
-    "image_type": "image",
-    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/10/Screenshot-2026-04-10-114420.jpg",
-    "occhiello": "SOSTITUITA DA intelligenza artificiale: LA RIVOLUZIONE DEL GIORNALISMO DIGITALE",
-    "lead_preview": "Federica Colonna, giornalista freelance, sostituita da una intelligenza artificiale per scrivere contenuti per clienti c",
-    "tags": [
-      "sostituzione giornalista chatgpt",
-      "federica colonna caso",
-      "intelligenza artificiale giornalismo"
     ],
     "hero_eligible": true
   },
