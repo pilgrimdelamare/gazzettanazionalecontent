@@ -1,5 +1,24 @@
 [
   {
+    "id": "85718910ff533c7d",
+    "slug": "jd-vance-e-ghalibaf-non-arrivano-a-un-accordo-per-85718910ff533c7d",
+    "title": "JD Vance e Ghalibaf non arrivano a un accordo per lo Stretto di Hormuz",
+    "section": "esteri",
+    "priority": 7,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-12T08:51:31.029291+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/12/islamabad-1200-1.jpg",
+    "occhiello": "HORMUZ, URANIO E IL DESTINO DEL PAESE",
+    "lead_preview": "Ai colloqui diretti tra Usa e Iran, tenutisi per la prima volta dal 1979, non è Stato raggiunto alcun accordo. Le parti ",
+    "tags": [
+      "stretto di hormuz",
+      "colloqui usa-iran",
+      "programma nucleare iraniano"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "db8fbdd92c96a64f",
     "slug": "travaglio-il-governo-meloni-sfida-la-storia-senza-db8fbdd92c96a64f",
     "title": "Travaglio: il governo Meloni sfida la storia senza risultati",
@@ -9249,24 +9268,6 @@
     "occhiello": "MOMIX porta a Bologna una novità danza",
     "lead_preview": "Moses Pendleton riporta a Bologna la prima assoluta di Botanica - Season 2 con i suoi Momix, dopo dodici anni di assenza",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "523fd65f1085bbab",
-    "slug": "calcio-udinese-blocca-il-como-0-0-a-bergamo-interr-523fd65f1085bbab",
-    "title": "Calcio: Como fermato 0-0 Dall'Udinese a Bergamo",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-06T12:59:19.636180+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/6/09f6e3a3db2b36b8d9b7e4c7fce2ff98.jpg",
-    "occhiello": "UDINESE BLOCCA IL COMO 0-0 A BERGAMO",
-    "lead_preview": "L'Udinese ha interrotto la Serie positiva del Como bloccando il match 0-0 allo stadio Dall'Ara di Bergamo, sabato 4 apri",
-    "tags": [
-      "como udinese",
-      "serie b 2026"
-    ],
     "hero_eligible": true
   }
 ]
